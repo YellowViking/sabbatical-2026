@@ -133,10 +133,12 @@ Plus inter-region transport (Bergen→Stockholm flight, Baltic ferry + buses, Vi
 | **Stockholm** | City Backpackers $10 · Generator $19 | Nomad $17 · Generator $19 | Södermalm studio ~$110–150 *(est.)* |
 | **Riga** *(base)* ✅ | Lighthouse $12 · Central $17 · 3 Monks $21 | Baltic Travel $10 · City Westa $17 | apt from $37/nt · **15n ≈ $45–55/nt** · monthly €350–650 ✅ |
 | **Vilnius** *(alt)* | Downtown Forest ~$20 | Jimmy Jumps ~$40 | monthly ~$850–1,200/mo *(est.)* |
-| **Ljubljana** | C-punkt $14 · Celica $17 | Tabor $8 · Sax Pub $14 | central studio ~$70–100 *(est.)* |
+| **Ljubljana** | C-punkt $14 · Celica $17 | Tabor $8 · Sax Pub $14 | studio €700–990/mo ✅ (HA); ~$70–100/nt short-stay |
 | **Split** | Split Backpackers $16 · Oktarin $16 | Split Backpackers $19 · Cool Hostel $20 | Palace/Varoš apt ~$50–90 *(est.)* |
 
-**Verification status:** ✅ Hostel tier confirmed at all 6 stops — live prices **match or beat** the estimates; Nordic hostel privates ($30–75) are notably cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Riga** fully confirmed across every tier (incl. apartment). ⏳ Whole-apartment prices in Oslo/Bergen/Stockholm/Ljubljana/Split remain estimates — the Playwright browser is mid-jam (orphaned instances) + Booking/Airbnb block plain fetches; re-run when free. Net correction: Riga 15n weekly-rate adds ~$250 to the Baltic leg; fall envelope unchanged at **~$10–11k**.
+**Verification status (live-checked 2026-07-15, browser-free):** ✅ **Hostel tier** confirmed at all 6 stops (Hostelworld) — prices **match or beat** estimates; Nordic hostel privates ($30–75) run cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Apartment tier** confirmed for the multi-week bases — **Riga** (Kayak $66–130/nt · HousingAnywhere €350–650/mo) and **Ljubljana** (HA €700–990/mo); Oslo/Stockholm's pricey tier corroborated by HA monthly floors (Oslo 2BR ~$3,650/mo; Stockholm studio ~$920/mo). ⏳ Only remaining gap: **Split** whole-apt (its HA page 410'd) — off-season it's cheap and the hostel tier is confirmed. Net: estimates validated; sole correction stands (Riga 15n weekly rate, +~$250; envelope **~$10–11k**).
+
+**Re-query lodging without a browser (reusable method):** Hostelworld `/hostels/europe/<country>/<city>/` → dorm/private from-prices · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` → monthly furnished · Kayak `/<City>-Vacation-Rentals.<id>.rental.ksp` → nightly apts. **Booking.com & Airbnb are JS-walled** to a plain fetch; **no travel/booking MCP is connected**; Playwright is the only browser MCP (and can jam).
 
 ---
 
