@@ -1,53 +1,54 @@
 # Sabbatical 2026 — Europe (Draft Itinerary)
 
-**Depart:** Seattle, ~mid/late August 2026 · **Length:** 6–8 months · **Style:** slow travel, comfortable-ish budget (~$80–120/day) · **Threads:** cities & culture + nature/hiking, both the whole way.
+**Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow travel, comfortable budget (~$80–120/day) · **Threads** cities & culture + nature/hiking throughout.
 
-Planning focus right now is the **first months**; the spring half is a light sketch to be filled in later.
+**Status:** fall leg (Aug–Nov) fully planned, costed, and lodging-confirmed. Winter = fly home (current lean). Spring = provisional — see the Schengen timing in §2.
 
----
+**Route in one line:** Oslo → Bergen/fjords → Stockholm → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → ✈ home (~mid-Nov).
 
-## The one mechanic that shapes everything: Schengen 90/180
-
-Schengen allows **90 days in any rolling 180-day period** — not "90 days, leave, fresh 90." For a 6–8 month trip the play is:
-
-1. **Burn ~90 Schengen days** late-Aug → mid-Nov on a clean **NW→SE diagonal** through *fresh* Schengen countries.
-2. **Exit Schengen by flying home** for winter (current plan) while the rolling clock unwinds.
-3. **Re-enter for a spring leg — but mind the timing:** leaving is *not* an instant reset. After a maxed 90-day fall, a *full* fresh 90 isn't available until **~mid-May** (see Community cross-check); earlier returns are partial, or go non-Schengen first.
-
-2025 note: **Bulgaria & Romania are now full Schengen**; **Croatia & Slovenia** are Schengen. The non-Schengen belt that resets the clock is now **Bosnia, Montenegro, Albania, N. Macedonia, Kosovo** (+ Turkey/Georgia, UK/Ireland).
+> Contents: [1) Fall at a glance](#1-fall-itinerary-at-a-glance) · [2) Schengen](#2-the-schengen-constraint) · [3) Avoid-list](#3-already-visited--route-around-these) · [4) Fall hubs](#4-fall-hubs--what-to-do--why-each-length) · [5) Winter & spring](#5-winter--spring-provisional) · [6) Costs](#6-costs-fall-leg) · [7) Lodging](#7-lodging) · [8) Cross-check](#8-community-cross-check--revisions) · [9) Open items](#9-open-items--decisions) · [Appendix](#appendix--data-sources--method)
 
 ---
 
-## Already visited — do NOT re-route through
+## 1. Fall itinerary at a glance
+*(Aug 22 → mid-Nov · ~63 nights on the ground)*
 
-From the 2023 sabbatical (per blog.buyuchen.org):
-**Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey.** Plus a brief Christmas 2023 stint in France.
-
-→ The whole Central-Europe + eastern-Balkans corridor is a rerun. This plan deliberately routes *around* it. The "go back to the Balkans" wish is satisfied by the **western** Balkans, which were missed entirely.
-
----
-
-## Phase 1 — First months (the detailed part)
-
-All fresh territory; one NW→SE line; no backtracking.
-
-| Dates (≈) | Base | Cities & culture | Hiking / nature | Move (cost-optimized) |
+| Dates (≈) | Base | Cities & culture | Hiking / nature | Getting there |
 |---|---|---|---|---|
-| **Aug 22–24** | **Oslo** | Vigeland, Munch, Opera roof, Bygdøy | fjord warm-up | ✈ land from SEA (1-stop) |
-| **Aug 25–31** | **Bergen + fjords** | Bryggen wharf, Fløyen funicular | **Bergen Railway**, Flåm/Nærøyfjord, Fløyen/Ulriken hikes | 🚆 the scenic train *is* the sightseeing |
-| **Sep 1–6** | **Stockholm** | Gamla Stan, Vasa museum, archipelago | Tyresta NP day trip | ✈ Bergen→Stockholm (~$65–95, Sep = cheapest) |
-| **Sep 7** | *overnight at sea* | — | Baltic archipelago at sunset | 🚢 **Stockholm→Tallinn overnight ferry** — transit + a night's bed in one, ~€40 |
-| **Sep 8–28** | **Baltics — Riga base** (Tallinn 3n → **Riga 15n** → Vilnius 3n) | Tallinn & Vilnius old towns, Riga Art Nouveau | Gauja NP/Sigulda, Lahemaa, Trakai | 🚌 Lux Express €15–25/hop |
-| **Oct** | **Ljubljana** (Slovenia) | Ljubljana, Piran | **Julian Alps** — Lake Bled, Bohinj, Triglav NP | ✈ Vilnius→Ljubljana (flies *over* the done-zone) |
-| **late Oct–early Nov** | **Croatia** | Zagreb, Split, Dubrovnik | Plitvice Lakes NP | 🚌/🚆 coastal hops |
+| **Aug 22–24** | Oslo (3n) | Vigeland, Munch, Opera roof, Bygdøy | fjord warm-up | ✈ land from SEA (1-stop) |
+| **Aug 25–31** | Bergen + fjords (6n) | Bryggen, Fløyen funicular | Bergen Railway, Flåm/Nærøyfjord, Fløyen/Ulriken | 🚆 scenic train |
+| **Sep 1–6** | Stockholm (5n) | Gamla Stan, Vasa, archipelago | Tyresta NP | ✈ Bergen→Stockholm |
+| **Sep 7** | *overnight ferry* | — | Baltic archipelago at sunset | 🚢 Stockholm→Tallinn (bed + transit in one) |
+| **Sep 8–28** | Baltics — **Riga base** (Tallinn 3n → Riga 15n → Vilnius 3n) | Tallinn/Vilnius old towns, Riga Art Nouveau | Gauja/Sigulda, Lahemaa, Trakai | 🚌 Lux Express |
+| **October** | Ljubljana + Julian Alps (14n) | Ljubljana, Piran | Bled, Bohinj, Vogel, Vintgar, Soča | ✈ Vilnius→Ljubljana |
+| **late Oct–mid Nov** | Croatia (14n) | Zagreb, Split, Dubrovnik | Plitvice, Krka, Marjan | 🚌 buses |
 
-**The one air-jump (Vilnius→Ljubljana) is deliberate** — it skips Poland/Czechia/Slovakia/Hungary so you never set foot in already-seen ground.
+**Why this shape:** all fresh territory (§3), one NW→SE diagonal, no backtracking. The single air-jump (Vilnius→Ljubljana) deliberately hops *over* the already-seen Poland/Czechia/Slovakia/Hungary corridor.
 
 ---
 
-## What to do per hub (justifying each stay)
+## 2. The Schengen constraint
+*(why the trip is shaped this way)*
 
-Day-accounting = city days + day-trips + slow/rest days. Slow travel means some days are deliberately unscheduled (cook, cafés, work, wander) — a feature, not filler. Sums to the 63 on-the-ground nights.
+Schengen = **90 days in any rolling 180-day period** — *not* "90 days, leave, fresh 90." The play:
+
+1. **Burn ~90 Schengen days** Aug 22 → ~mid-Nov on the fall diagonal (aim ≤90 — track carefully).
+2. **Fly home** for winter while the rolling clock unwinds.
+3. **Return in spring — timing matters:** leaving is *not* an instant reset. After a maxed 90-day fall, a *full* fresh 90 isn't available until **~mid-May** (Feb/Mar ≈ 0–25 days, Apr ≈ 40–55, May ≈ 70–86). So return **~May**, *or* spend early spring **non-Schengen** (UK/Ireland, Morocco, Turkey) and enter later. *(This corrects an earlier "fresh 90 in February" assumption — see §8.)*
+
+*2025 note:* Bulgaria/Romania are now full Schengen; Croatia/Slovenia are Schengen. The non-Schengen belt = W. Balkans (Bosnia, Montenegro, Albania, N. Macedonia, Kosovo) + Turkey/Georgia, UK/Ireland.
+
+---
+
+## 3. Already visited — route around these
+
+From the 2023 sabbatical (per blog.buyuchen.org): **Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey**; brief France (Christmas 2023). The plan routes *around* this whole corridor; the "go back to the Balkans" wish is met by the **western** Balkans (missed before).
+
+---
+
+## 4. Fall hubs — what to do & why each length
+
+Day-accounting = city days + day-trips + slow/rest days (slow travel means some days are deliberately unscheduled — a feature, not filler). Sums to 63 nights.
 
 ### Oslo — 3n
 - **City:** Opera House roof walk, Akershus Fortress, National Museum (*The Scream*), Vigeland Sculpture Park, Munch Museum, Grünerløkka.
@@ -58,7 +59,7 @@ Day-accounting = city days + day-trips + slow/rest days. Slow travel means some 
 - **City:** Bryggen wharf, Fløibanen up Mt Fløyen (ridge hike toward Ulriken), Ulriken cable car, KODE museums, Fish Market.
 - **Fjords (DIY Norway-in-a-Nutshell):** Bergen Railway → Flåm Railway → Nærøyfjord cruise (UNESCO) → Stegastein.
 - **Hiking:** Aurlandsdalen ("Norwegian Grand Canyon"), Flåm/Aurland trails.
-- *2 city + 3 fjord/hiking + 1 rain buffer (Bergen's ~1-in-2 rain days makes it real) = 6.*
+- *2 city + 3 fjord/hiking + 1 rain buffer (Bergen's ~1-in-2 rain days make it real) = 6. Late-Aug = end of season for some fjord boat tours; pack for rain; check the Flåm cruise-ship schedule to dodge crowds.*
 
 ### Stockholm — 5n
 - **City:** Gamla Stan + Royal Palace, Vasa Museum (intact 17th-c warship), Djurgården (Skansen, ABBA), Södermalm + Fotografiska + Monteliusvägen, Skogskyrkogården (UNESCO).
@@ -72,9 +73,9 @@ Day-accounting = city days + day-trips + slow/rest days. Slow travel means some 
 
 ### Riga — 15n (base)
 - **City (spread out):** Old Town (House of Blackheads, Dome Cathedral, St Peter's tower, Three Brothers, Swedish Gate), Art Nouveau district + museum, Central Market (Zeppelin hangars), Latvian National Museum of Art, Corner House (KGB), Miera iela, Kalnciema market, Ethnographic Open-Air Museum.
-- **Day trips (full-day each):** (1) Sigulda + Gauja NP — Turaida & Sigulda castles, Gūtmanis Cave, cable car, trails · (2) Cēsis — medieval castle/old town · (3) Ķemeri NP — Great Ķemeri Bog boardwalk · (4) Jūrmala — beach, wooden villas, Dzintari forest · (5) Rundāle Palace — baroque gardens · (6 reach) Kuldīga — Venta waterfall.
+- **Day trips (full-day each):** (1) Sigulda + Gauja NP — Turaida & Sigulda castles, Gūtmanis Cave, cable car, trails · (2) Cēsis — medieval castle/old town · (3) Ķemeri NP — Great Ķemeri Bog boardwalk · (4) Jūrmala — beach, wooden villas, Dzintari forest · (5) Rundāle Palace — baroque gardens · (6, reach) Kuldīga — Venta waterfall.
 - **Slow days:** cook, coffee, coworking, rest.
-- *5 city + 5–6 day-trips + 4–5 slow = 15. ~1/3 deliberately unscheduled — compress to ~10 if you'd rather move faster.*
+- *5 city + 5–6 day-trips + 4–5 slow = 15. ~1/3 deliberately unscheduled — compress to ~10 if you'd rather move faster (community norm is 2–3 days/capital; see §8).*
 
 ### Vilnius — 3n
 - **City:** baroque Old Town (Cathedral + belfry, Gediminas Tower, Gate of Dawn, St Anne's, University), Užupis bohemian "republic," MO Museum, KGB/Occupations Museum.
@@ -90,75 +91,45 @@ Day-accounting = city days + day-trips + slow/rest days. Slow travel means some 
 ### Croatia (Zagreb → Split/Dalmatia) — 14n
 - **Zagreb (~2d):** Upper Town, St Mark's, Dolac market, Museum of Broken Relationships.
 - **Plitvice Lakes NP** — 16 terraced lakes + waterfalls (en route south).
-- **Split base (~5–6d):** Diocletian's Palace, Marjan Hill forest hike, Klis Fortress; day trips to Krka NP (walkable waterfalls), Trogir (UNESCO), Hvar/Brač islands.
-- **Dubrovnik (~2–3d):** city-walls walk, Srđ cable car, Lokrum — quieter/cheaper late Oct.
+- **Split base (~5–6d):** Diocletian's Palace, Marjan Hill forest hike, Klis Fortress; day trips to Krka NP (walkable waterfalls), Trogir (UNESCO), **Hvar/Brač islands (ferry from Split runs year-round)**.
+- **Dubrovnik (~2–3d):** city-walls walk, Srđ cable car, Lokrum — quiet/cheaper in Nov (Winter Festival ~late Nov). *⚠ No off-season ferries out of Dubrovnik (Nov–Mar) — island-hop from Split, not here; many restaurants shut, so verify hours.*
 - *2 Zagreb + Plitvice + 6 Split(+day trips) + 3 Dubrovnik = 14.*
 
 ---
 
-## Phase 2 — Winter: OPEN branch point (decide later)
+## 5. Winter & spring (provisional)
+*Not committed — you'd rather chase warmth and haven't decided on a Europe winter.*
 
-**Not committed.** You'd rather chase warmth, and you haven't decided whether to winter *in Europe* at all. One wrinkle makes this the real pivot of the trip: **southern Europe (Spain/Portugal/Italy/Greece) is all Schengen, and your 90 days run out ~mid-Nov** — right as winter starts. So the fall arc is stable and burns the clock to ~90 days by mid-Nov; **you exit Schengen ~mid-Nov regardless.** Winter is just *where you exit to*:
+**Winter — current lean: fly home to the US.** The wrinkle: southern Europe is all Schengen and your 90 days run out ~mid-Nov, so a warm *Schengen* winter isn't possible without banking days. Your options at the mid-Nov exit:
 
-| Option | Warmth | Schengen | Notes |
+| Option | Warm? | Schengen | Notes |
 |---|---|---|---|
-| **A. Western Balkans** (detail ↓) | cold inland / mild coast | non-Schengen — **resets clock** | cheap, fresh, but a genuinely cold winter |
-| **B. Warm + non-Schengen** — **Morocco** (Marrakech/Fez/Chefchaouen + High Atlas hiking), Turkey's Med coast, Cyprus | warm | non-Schengen — **resets clock** | ⭐ best "warm winter" that *also* resets Schengen; Morocco is fresh, cheap, cities + mountains |
-| **C. Warm southern Europe** — Andalusia, Algarve, Sicily, Canaries, Greek isles | warm | **Schengen — needs banked days** | only if the *fall* is spent OUT of Schengen; conflicts with the northern arc → really a **spring** move (Phase 3) |
-| **D. Leave Europe** for winter — **← current lean: home to the US** | — | clock unwinds | holidays with people; the rolling clock unwinds over winter, but a *full* fresh 90 only by ~mid-May (see cross-check) — time the spring return accordingly |
+| **A. Western Balkans** (detail below) | cold inland / mild coast | non-Schengen | cheap, fresh, but a genuinely cold winter |
+| **B. Warm + non-Schengen** — Morocco (Atlas + Marrakech/Fez), Turkey coast, Cyprus | ✅ | non-Schengen | best "warm winter"; Morocco is fresh, cheap, cities + hiking |
+| **C. Warm Schengen south** — Andalusia, Sicily, Greek isles | ✅ | ❌ needs banked days | conflicts with the fall arc → really a **spring** move |
+| **D. Fly home (US)** ← **current lean** | — | clock unwinds | holidays with people; time the spring return per §2 |
 
-**Takeaway:** a warm winter that keeps the northern fall arc = **Option B (Morocco is the standout)**. A warm *Schengen* south (Option C) resolves to **spring** here, since the clock resets ~Feb. Leave this open — the fall plan doesn't depend on it. **(Current lean: Option D — fly home for winter, re-enter fresh in spring. Not planning it further yet.)**
+**Spring leg (provisional):** the warm south you want — **Italy, France (mostly fresh), Iberia (Portugal/Spain)**, Greek isles. But per §2, a *full* 90 needs a **~May** return (April = a shorter ~40–55 day trip; or go non-Schengen first). Nice sea handoff if you do the Balkans: ferry Durrës/Vlorë → Bari/Ancona.
 
-### Option A detail — Western Balkans (cheap + fresh, if warmth isn't the priority)
+### Winter Option A detail — Western Balkans *(alternative, if warmth isn't the priority)*
+Exit before Schengen day ~90; non-Schengen resets the clock. Flow south then loop:
 
-Exit before Schengen day ~90; it resets the clock. Rough flow south then a loop:
-
-| Dates (≈) | Stay | Cities & culture | Winter/lodging reality |
+| Dates (≈) | Stay | Highlights | Winter reality |
 |---|---|---|---|
-| **mid-Nov → early Dec** | **Sarajevo** (~1–2 wk) | Ottoman + Habsburg + 1990s war history; Mostar & Blagaj day trips | Cheapest yet (~$25–40 private); ⚠ Nov brings cold + a notorious valley **smog inversion** — don't over-linger. Ski days at Jahorina/Bjelašnica |
-| **Dec** | **Kotor / Bay of Kotor** (short, 3–5 nts) | Bay of Kotor, Budva, Lovćen | ⚠ Deep off-season — much of the bay is **shut/quiet**; prefer Budva/Tivat for open services |
-| **Dec → Jan** *(winter base)* | **Tirana, Albania** (~3–4 wk) | Tirana + Berat & Gjirokastër (UNESCO Ottoman towns) day trips | **Best winter base** — open year-round, ~$35–60/apt, ~$350–600/mo, mild. **NOT the Riviera** (Sarandë/Himarë largely shut in winter) |
-| **Feb** | **Prizren (Kosovo)** + brief **Ohrid (N. Mac.)** | Prizren Ottoman quarter, Lake Ohrid | ⚠ Ohrid mostly closed in Feb — pass through; then position to re-enter Schengen |
+| **mid-Nov → early Dec** | **Sarajevo** (~1–2 wk) | Ottoman + Habsburg + 1990s war history; Mostar & Blagaj | cheap (~$25–40 private); ⚠ cold + valley **smog inversion**; ski at Jahorina/Bjelašnica |
+| **Dec** | **Kotor** (3–5 nts) | Bay of Kotor, Budva, Lovćen | ⚠ deep off-season, much shut — prefer Budva/Tivat |
+| **Dec → Jan** *(winter base)* | **Tirana, Albania** (~3–4 wk) | Tirana + Berat & Gjirokastër day trips | **best winter base** — open year-round, ~$35–60/apt, mild. **NOT** the Riviera (Sarandë shut in winter) |
+| **Feb** | **Prizren (Kosovo)** + brief **Ohrid** | Prizren Ottoman quarter, Lake Ohrid | ⚠ Ohrid mostly closed in Feb — pass through |
 
-Comfortable budget goes *luxuriously* far here — Albania especially (private rooms $25–40, monthly apartments $350–650). This ~3-month block is what lets the Schengen window fully refresh. **Winter caveat:** the Adriatic/lake coast (Kotor, Sarandë, Ohrid) is scenic but half-closed off-season — anchor on the cities that stay open (**Sarajevo, Tirana**) and treat the coast as short scenic stops.
-
----
-
-## Phase 3 — Spring, Schengen leg — SKETCH ONLY
-
-⚠️ **Timing corrected (see Community cross-check):** a *full* fresh 90 Schengen days isn't available until **~mid-May** after a maxed fall stint — not February. Options: return **~May** for a full run at **Italy, France (mostly fresh), Iberia (Portugal/Spain)** — the warm south you're after (Andalusia, Algarve, Sicily, Greek isles); *or* return in **April** for a shorter (~40–55 day) trip; *or* spend early spring in **non-Schengen** (UK/Ireland, Morocco, Turkey) and enter Schengen later.
-
-- Nice handoff: **ferry Durrës/Vlorë (Albania) → Bari/Ancona (Italy)** to start the spring leg by sea.
-- Rough arc: Italy (south→north) → France → Spain → Portugal, chasing warmth as it builds. Fill in when we get there.
+*Comfortable budget goes luxuriously far here (Albania especially). Anchor on cities that stay open (Sarajevo, Tirana); treat the coast as short scenic stops.*
 
 ---
 
-## Lodging strategy — base vs. move
+## 6. Costs (fall leg)
 
-**Principle:** *base* where rents are low, the city is a day-trip hub, and the 28+ night monthly discount (~20–40%) kicks in; *move* (2–5 nts) where the leg is a scenic line or nightly costs are punishing. Target **~4–6 bases of 3–4 weeks**, threaded by short hops — not "base everywhere," not one-night-stands.
+**Bottom line:** ~**$9,000** core (9 wks) · ~**$10–11k** ridden to a mid-Nov flight home · ~**$125/day on the ground** — comfortable band, live-checked as conservative (see Appendix).
 
-Current price bands (USD, solo, comfortable):
-
-| Leg (month) | Verdict | Dorm | Private / apt nightly | Monthly (+disc) |
-|---|---|---|---|---|
-| Oslo / Bergen (Aug) | **Move**, use dorms | $40–60 | $90–170 | — (high, ~15–25%) |
-| Stockholm (Sep) | **Move** | $30–45 | $70–150 | — |
-| Baltics (Sep) | **Base #1**, ~3 wk | $13–23 | $30–60 | $390–1,100 (~20–40%) |
-| Ljubljana (Oct) | Short base ~2 wk | $22–30 | $45–100 | $800–1,200 (~20–35%) |
-| Split (late Oct) | Base/short | $15–25 | $35–90 | $700–1,100 (30–50% off-season) |
-| Sarajevo (Nov) | **Base #2**, ~1–2 wk | $10–15 | $25–60 | $400–650 (~30–45%) |
-| Tirana (Dec–Jan) | **Base #3**, ~3–4 wk | $10–15 | $35–60 | $350–600 (~30–45%) |
-
-**Hostel rule of thumb:** dorms only pay off in the **Nordics** — Oslo/Bergen/Stockholm dorms ($30–60) are a fraction of a private room ($70–170). From the Baltics south, a private room or whole studio is *barely* above a dorm bed (Sarajevo $12 dorm vs $30 private; Tirana $12 vs $40 apt) → **skip dorms, take the apartment.** So: dorms up north where you're mobile, monthly apartments down south where you're based.
-
-**Baltic base pick — DECIDED: Riga** (judge-panel 8.8 vs Tallinn 7.0, Vilnius 5.8; won 4 of 5 lenses). Cheapest 1BR ($390–585/mo — where a 15-night base's spend concentrates), biggest-city culture, best car-free hiking (Gauja/Sigulda), dead-center on the Tallinn→Vilnius corridor. Tallinn's nomad-infra edge is real but **moot on a sabbatical (you're not working)**. Split: **Tallinn 3n → Riga 15n → Vilnius 3n**. Footnotes: vet the Riga apartment's wifi before 15 nights; the ferry-in/fly-out order puts you in Vilnius *after* its early-Sep Capital Days festival.
-
----
-
-## Costs & sample stays — fall leg (late Aug → mid-Nov)
-
-**Bottom line:** ~**$9,000** for the 9-week core route; ~**$10–11k** if ridden to a mid-Nov flight home (extra weeks fall in the cheap Baltics/Croatia). ~**$125/day on the ground** — comfortable band, and **live-checked as comfortable-to-conservative** (see Verification below). One correction: Riga's 15-night base bills at a *weekly* rate (~$45–55/nt), not the monthly rate first assumed.
-
+### On-the-ground (lodging + food + local transport + activities)
 | Region | Nights | Lodging/nt | All-in/day | Subtotal |
 |---|---|---|---|---|
 | Oslo | 3 | ~$110 | ~$185 | ~$555 |
@@ -169,80 +140,12 @@ Current price bands (USD, solo, comfortable):
 | Croatia | 14 | ~$60 | ~$120 | ~$1,680 |
 | **On-the-ground** | **63** | — | **~$125** | **~$7,840** |
 
-Plus **inter-hub transport ~$410** + the fjord loop ~$181 (all confirmed — see *Confirmed transport & sightseeing* below); **international flights SEA→Oslo ~$210 + Dubrovnik→Seattle ~$700** ≈ $910 (the home flight is the top points-redemption candidate).
-
-**Levers:** dorms in Norway (−~$360) + more Baltic base time → ~$9k; restaurant-heavy Nordics + all-private rooms → ~$12k. **Home flight = best points-redemption candidate** (one-way transatlantic runs cash-expensive).
-
-### Sample stays (✅ hostel tier live-checked on Hostelworld, 2026-07-15)
-
-"From" prices are real current listings — floor rates for the cheapest dates, so late-Aug Norway will run higher. Whole-apartment figures marked *(est.)* are research bands; **Booking.com is confirmable via the in-browser method** (plain fetches are bot-blocked). **Selection criteria: review >8, HIGH review count (avoid low-sample outliers), central/prime location, social hostels welcome; quote the typical/average cost, not the cheapest.**
-
-| Stop | Dorm from | Hostel private from | Whole apt / monthly |
-|---|---|---|---|
-| **Oslo** | Haraldsheim $49 · Bunks at Rode $61 | Citybox $39 · Cochs Pensjonat $31 | 1BR $59–127/nt ✅ (Booking) |
-| **Bergen** | Intermission $20 · HI Montana $26 | HI Montana $28 · City Hostel $33 | studio ~$130–170 *(est.)* |
-| **Stockholm** | City Backpackers $10 · Generator $19 | Nomad $17 · Generator $19 | Södermalm studio ~$110–150 *(est.)* |
-| **Riga** *(base)* ✅ | Lighthouse $12 · Central $17 · 3 Monks $21 | Baltic Travel $10 · City Westa $17 | apt from $37/nt · **15n ≈ $45–55/nt** · monthly €350–650 ✅ |
-| **Vilnius** *(alt)* | Downtown Forest ~$20 | Jimmy Jumps ~$40 | monthly ~$850–1,200/mo *(est.)* |
-| **Ljubljana** | C-punkt $14 · Celica $17 | Tabor $8 · Sax Pub $14 | studio €700–990/mo ✅ (HA); ~$70–100/nt short-stay |
-| **Split** | Split Backpackers $16 · Oktarin $16 | Split Backpackers $19 · Cool Hostel $20 | Palace/Varoš apt ~$50–90 *(est.)* |
-
-**Curated Riga base picks — criteria: review >8, HIGH review count (no low-sample outliers), central; typical (not cheapest) cost. Booking, live for Sep 8–23:**
-- 🏠 *Aparthotels/studios (private, central, 1k–3k reviews):* **Aparthotel Amella** (9.3, 3,182 rev, 0.8 mi, ~$62) ⭐ · **ATF Apartments** (9.2, 1,026 rev, 0.2 mi, ~$74) · **Baznicas Aparts – Quiet Center** (9.4, 205 rev, Art Nouveau district, ~$65).
-- 🏨 *Boutique hotels (central, 1.5k–8k reviews):* **Hotel Gutenbergs** (8.5, 2,897 rev, Old Town, ~$82) · **St. Peter's Boutique** (8.6, 1,513 rev, ~$72) · **Wellton Hotel & SPA** (8.5, 8,061 rev, ~$84).
-- 🛌 *Social hostel (central):* **Blue Bird Boutique Hostel**, Old Town (8.6, 3,314 rev, ~$19 dorm / privates available).
-- → **Typical well-reviewed central private studio/aparthotel ≈ $70/night** — the $34–38 studios rank cheapest but have too few reviews to trust. **Best value: Aparthotel Amella (9.3, 3,182 reviews, ~$62).** The budget's ~$48/nt Baltic line sits fairly between the $34 floor and this ~$70 well-reviewed tier.
-
-**Curated Ljubljana picks — Oct, review >8, high count, central:**
-- 🏠 *Rooms/studios (private, central, high count):* **OH Apartments & Rooms** (9.2, 1,945 rev, ~$73) ⭐ · **Ars Longa** studio (9.2, 816 rev, ~$89) · **Rooms Ambrožič** river-view (8.2, 1,995 rev, ~$76).
-- 🏨 *Hotel:* **City Hotel Ljubljana** (9.1, **11,374 rev**, 0.2 mi, ~$169 — huge track record, pricier).
-- 🛌 *Social hostels:* **H2O Hostel** (8.2, 1,294 rev, ~$20 dorm) · **ibis Styles "Fuzzy Log"** cabin (8.4, 5,379 rev, ~$44).
-- → Typical well-reviewed central room/studio ≈ **$75–90/nt**. Best value: **OH Apartments (9.2, 1,945 rev, ~$73).**
-
-**Curated Split picks — late Oct/Nov off-season, review >8, high count, central:**
-- 🏠 *Studios/rooms (private, central, high count):* **ToMaDi Residence** studio (9.2, 498 rev, ~$50) ⭐ · **Sv.Duje Apartments** studio (9.1, 738 rev, ~$68) · **Split Inn Apartments** studio (8.1, 1,269 rev, ~$50) · **Apartments Centrum** (9.0, 320 rev, ~$46).
-- 🏨 *Hotels (in/near Diocletian's Palace):* **Hotel Ambasador** (9.6, 1,915 rev, ~$136) · **Heritage Santa Lucia** (9.4, 1,175 rev, ~$145).
-- → Typical well-reviewed central studio ≈ **$55–70/nt** (Nov off-season). Best value: **ToMaDi Residence (9.2, 498 rev, ~$50).**
-
-**Verification status (live-checked 2026-07-15, browser-free):** ✅ **Hostel tier** confirmed at all 6 stops (Hostelworld) — prices **match or beat** estimates; Nordic hostel privates ($30–75) run cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Apartment tier** confirmed for the multi-week bases — **Riga** (Kayak $66–130/nt · HousingAnywhere €350–650/mo) and **Ljubljana** (HA €700–990/mo); Oslo/Stockholm's pricey tier corroborated by HA monthly floors (Oslo 2BR ~$3,650/mo; Stockholm studio ~$920/mo). ⏳ Only remaining gap: **Split** whole-apt (its HA page 410'd) — off-season it's cheap and the hostel tier is confirmed. Net: estimates validated; sole correction stands (Riga 15n weekly rate, +~$250; envelope **~$10–11k**). ✅ **Booking.com (via browser)** now directly confirms lodging for the exact dates — Riga studios **$36–52/nt**, Oslo 1BR **$59–127/nt** — matching/beating the estimates. (A direct curl/API pull is bot-blocked — Booking returns an HTTP 202 stub — so the in-browser DOM read is the working method.)
-
-**Re-query lodging without a browser (reusable method):** Hostelworld `/hostels/europe/<country>/<city>/` → dorm/private from-prices · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` → monthly furnished · Kayak `/<City>-Vacation-Rentals.<id>.rental.ksp` → nightly apts. **Booking.com & Airbnb are JS-walled** to a plain fetch; **no travel/booking MCP is connected**; Playwright is the only browser MCP (and can jam).
-
----
-
-## Flights (researched Jul 2026)
-
-- **SEA → Oslo:** no nonstops; **1-stop ~$200–230 one-way** via Reykjavik (Icelandair), Copenhagen (SAS), Amsterdam (KLM), or Frankfurt (Lufthansa). Oslo/Copenhagen/Stockholm all sit in the same ~$200–250 one-way band — Oslo is not a cost penalty.
-  - Sources: [Kayak SEA–OSL](https://www.kayak.com/flight-routes/Seattle-Tacoma-Intl-SEA/Oslo-other-airports-OSL) · [momondo SEA–OSL](https://www.momondo.com/flights/seattle/oslo) · [Expedia SEA–STO](https://www.expedia.com/lp/flights/sea/sto/seattle-to-stockholm)
-- **Bergen → Stockholm:** Norwegian/SAS/Finnair **nonstop, ~$65–95 one-way, September = cheapest month.**
-  - Sources: [Kayak BGO–ARN](https://www.kayak.com/flight-routes/Bergen-Flesland-BGO/Stockholm-Arlanda-ARN) · [Omio BGO–STO](https://www.omio.com/flights/bergen/stockholm)
-- **Schengen note:** Icelandair transits Reykjavik (Schengen) — clock nominally starts there, same calendar day as Oslo, so no cost. Via London/AMS/FRA is equivalent.
-- **Booking:** buy **one-way** (it's a sabbatical). Fares soften ~2 months out; evening departures run cheaper.
-
-### Points vs. cash (cross-check every big-ticket booking)
-
-Cash baseline = **Google Flights**. Redeem points only when value clears ~1.3–1.5¢/pt; otherwise pay cash.
-
-| Booking | Verdict | Why |
-|---|---|---|
-| SEA→Oslo economy (~$210 o/w) | **Cash** | Award ~25–35k mi to save $210 ≈ 0.6–0.8¢/pt — poor value |
-| Bergen→Stockholm (~$75) | **Cash** | Too cheap to redeem |
-| Long-haul in business (if desired) | **Points** | Cash $2k+ vs ~60k mi ≈ 3+¢/pt — strong |
-| Norway hotel nights (Oslo/Bergen) | **Likely points** | Priciest lodging of the trip; hotel points shine here |
-| One-way flight home (Lisbon/Madrid→SEA) | **Cross-check** | One-ways run cash-expensive; award often wins |
-
-*To make these concrete I need your program balances + status (transferable points, airline miles, hotel points).*
-
----
-
-## Confirmed transport & sightseeing (live-checked Jul 2026)
-
-### Inter-hub transport (one-way, ~1 mo ahead)
+### Transport (one-way, booked ~1 mo ahead)
 | Leg | Cost | Note |
 |---|---|---|
-| SEA → Oslo | ~$210 | 1-stop; **points candidate** |
+| SEA → Oslo | ~$210 | 1-stop (no nonstops) via KEF/CPH/AMS/FRA; **points candidate** |
 | Oslo → Bergen | ~$31 | Vy Bergensbanen minipris floor (299 NOK) |
-| Bergen → Stockholm | ~$75 | Norwegian/SAS |
+| Bergen → Stockholm | ~$75 | Norwegian/SAS/Finnair nonstop (Sep cheapest) |
 | Stockholm → Tallinn | ~$145 | Tallink overnight — **cabin compulsory**; doubles as a night's lodging |
 | Tallinn → Riga | ~$13 | Lux Express bus |
 | Riga → Vilnius | ~$10 | Lux Express bus |
@@ -250,12 +153,11 @@ Cash baseline = **Google Flights**. Redeem points only when value clears ~1.3–
 | Ljubljana → Zagreb | ~$13 | FlixBus |
 | Zagreb → Split | ~$15 | bus (from $6 advance) |
 | Split → Dubrovnik | ~$17 | bus |
-| **Dubrovnik → Seattle (home)** | **~$700** | one-way transatlantic — **best points redemption** |
+| **Dubrovnik → Seattle (home)** | **~$700** | one-way transatlantic — **top points-redemption target** |
 
-*Inter-hub ground/short-haul ≈ **$410**; the two transatlantics add ~$210 + ~$700.*
-
-### Fjord experience (Bergen)
-- **DIY "Norway in a Nutshell" loop ≈ $181** (Flåm Railway ~$59 + Nærøyfjord cruise ~$60 + connecting trains/bus ~$60). Packaged tour ~$270–310.
+*Inter-hub ≈ **$410**; the two transatlantics add ~$210 + ~$700. Plus the DIY fjord loop below.*
+**Fjord loop:** DIY "Norway in a Nutshell" ≈ **$181** (Flåm Railway ~$59 + Nærøyfjord cruise ~$60 + connecting trains/bus ~$60); packaged tour ~$270–310.
+*Flight notes: buy one-way; fares soften ~2 mo out. An Icelandair KEF transit is Schengen but same calendar day as Oslo — no clock cost.*
 
 ### Headline sights (per-person; Nov = big off-season savings)
 | Where | Sights & cost |
@@ -269,39 +171,98 @@ Cash baseline = **Google Flights**. Redeem points only when value clears ~1.3–
 | Julian Alps | Ljubljana castle+funicular ~$22 · Bled pletna+castle ~$45 · Vintgar ~$17 · Postojna ~$40 · Vogel cable car ~$37 |
 | Croatia (Nov) | **Plitvice $11 · Krka $8 · Dubrovnik walls $17** — vs ~$46/$46/$44 in summer |
 
-*Doing most headline sights ≈ **$450–500** for the whole fall; November timing slashes Croatia's park/wall fees ~70%.*
+*Most headline sights ≈ **$450–500** for the fall; November timing slashes Croatia's park/wall fees ~70%.*
+
+### Points vs. cash
+Cash baseline = **Google Flights**. Redeem points only when value clears ~1.3–1.5¢/pt; otherwise cash.
+
+| Booking | Verdict | Why |
+|---|---|---|
+| SEA→Oslo economy (~$210) | **Cash** | award ~25–35k mi to save $210 ≈ 0.6–0.8¢/pt |
+| Bergen→Stockholm (~$75) | **Cash** | too cheap to redeem |
+| Home flight (Dubrovnik→SEA ~$700) | **Cross-check → likely points** | one-way transatlantic runs cash-expensive |
+| Long-haul business (if desired) | **Points** | cash $2k+ vs ~60k mi ≈ 3+¢/pt |
+| Norway hotel nights | **Likely points** | priciest lodging of the trip |
+
+*(Needs your program balances + status to make concrete.)*
+
+### Levers
+Dorms in Norway (−~$360) + more Baltic base time → ~$9k · restaurant-heavy Nordics + all-private rooms → ~$12k · home flight on points is the single biggest saver.
 
 ---
 
-## Operating-cost cheatsheet
+## 7. Lodging
 
-- **Multi-week bases** (Baltic city ~3 wk; **Tirana** ~3–4 wk; Sarajevo ~1–2 wk) → monthly-rate apartments cut ~20–45% and kill transport churn.
-- **Overnight Stockholm→Tallinn ferry** = bed + transit combined.
-- **DIY "Norway in a Nutshell"** (buy the train/ferry/bus legs separately) ≈ half the packaged-tour price.
-- **Long hops by budget air** (Bergen→Stockholm, Vilnius→Ljubljana); **clusters by bus** (Baltics, Balkans).
-- Front-load the one pricey week (Norway) while its hiking peaks in late Aug; linger where the budget feels rich (Baltics, Balkans).
+### Base vs. move
+**Principle:** *base* where rents are low, the city is a day-trip hub, and the 28+ night monthly discount (~20–40%) kicks in; *move* (2–5 nts) where the leg is a scenic line or nightly costs are punishing. Target **~4–6 bases of 3–4 weeks**, threaded by short hops.
+
+| Leg (month) | Verdict | Dorm | Private / apt nightly | Monthly (+disc) |
+|---|---|---|---|---|
+| Oslo / Bergen (Aug) | **Move**, use dorms | $40–60 | $90–170 | — (high) |
+| Stockholm (Sep) | **Move** | $30–45 | $70–150 | — |
+| Baltics (Sep) | **Base #1**, ~3 wk | $13–23 | $30–60 | $390–1,100 |
+| Ljubljana (Oct) | Short base ~2 wk | $22–30 | $45–100 | $800–1,200 |
+| Split (late Oct) | Base/short | $15–25 | $35–90 | $700–1,100 (off-season) |
+| Sarajevo (Nov)* | Base #2, ~1–2 wk | $10–15 | $25–60 | $400–650 |
+| Tirana (Dec–Jan)* | Base #3, ~3–4 wk | $10–15 | $35–60 | $350–600 |
+
+*(\* = winter Option A only)*
+**Hostel rule of thumb:** dorms only pay off in the **Nordics** ($30–60 vs $70–170 private); from the Baltics south a private/studio is barely above a dorm → take the apartment. Dorms up north where you're mobile; monthly apartments down south where you're based.
+
+### Baltic base — DECIDED: Riga
+Judge-panel pick (8.8 vs Tallinn 7.0, Vilnius 5.8; won 4 of 5 lenses): cheapest 1BR (where the 15-night spend concentrates), biggest-city culture, best car-free hiking (Gauja/Sigulda), dead-center on the corridor. Tallinn's nomad-infra edge is real but moot on a sabbatical. **Split: Tallinn 3n → Riga 15n → Vilnius 3n.** *(Vet the Riga apartment's wifi; ferry-in/fly-out order puts you in Vilnius after its early-Sep Capital Days festival.)*
+
+### Sample stays & curated picks
+**Selection criteria:** review **>8**, **high review count** (avoid low-sample outliers), **central/prime** location, social hostels welcome; quote the **typical/average** cost, not the cheapest. *(Booking confirmed live for the exact dates via browser; other tiers via Hostelworld/HousingAnywhere/Kayak — see Appendix.)*
+
+| Stop | Dorm from | Hostel private from | Whole apt / nightly |
+|---|---|---|---|
+| **Oslo** | Haraldsheim $49 · Bunks at Rode $61 | Citybox $39 · Cochs $31 | 1BR $59–127 ✅ Booking |
+| **Bergen** | Intermission $20 · HI Montana $26 | HI Montana $28 · City Hostel $33 | studio ~$130–170 (est.) |
+| **Stockholm** | City Backpackers $10 · Generator $19 | Nomad $17 · Generator $19 | Södermalm studio ~$110–150 (est.) |
+| **Riga** *(base)* | Lighthouse $12 · Central $17 · 3 Monks $21 | Baltic Travel $10 · City Westa $17 | studio ~$45–70 ✅ Booking |
+| **Ljubljana** | C-punkt $14 · Celica $17 | Tabor $8 · Sax Pub $14 | room/studio ~$75–90 ✅ Booking |
+| **Split** | Split Backpackers $16 · Oktarin $16 | Split Backpackers $19 · Cool $20 | studio ~$55–70 ✅ Booking |
+
+**Curated base picks** (review >8, high count, central; ⭐ = best value):
+
+- **Riga** — 🏠 **Aparthotel Amella** (9.3, 3,182 rev, ~$62) ⭐ · ATF Apartments (9.2, 1,026 rev, ~$74) · Baznicas Aparts–Quiet Center (9.4, 205 rev, ~$65) · 🏨 Hotel Gutenbergs (8.5, 2,897 rev, Old Town, ~$82) · 🛌 Blue Bird Boutique Hostel (8.6, 3,314 rev, ~$19 dorm). *Typical central ≈ $70/nt.*
+- **Ljubljana** — 🏠 **OH Apartments & Rooms** (9.2, 1,945 rev, ~$73) ⭐ · Ars Longa studio (9.2, 816 rev, ~$89) · 🏨 City Hotel Ljubljana (9.1, 11,374 rev, ~$169) · 🛌 H2O Hostel (8.2, 1,294 rev, ~$20 dorm). *Typical central ≈ $75–90/nt.*
+- **Split** (Nov) — 🏠 **ToMaDi Residence** studio (9.2, 498 rev, ~$50) ⭐ · Apartments Centrum (9.0, 320 rev, ~$46) · Sv.Duje Apartments (9.1, 738 rev, ~$68) · 🏨 Hotel Ambasador (9.6, 1,915 rev, ~$136). *Typical central ≈ $55–70/nt.*
+
+> Note: the cheapest studios ($34–38 in Riga) rank first by price but have too few reviews to trust — hence the review-count filter and the "typical, not cheapest" figures above.
 
 ---
 
-## Community cross-check & revisions (Reddit + blogs, Jul 2026)
+## 8. Community cross-check & revisions
+*(Reddit + Rick Steves/Tripadvisor forums + blogs, Jul 2026 — most important first)*
 
-Cross-checked against Reddit, Rick Steves/Tripadvisor forums, and blogs. Most important first:
+1. ⚠️ **Schengen spring re-entry — corrects an earlier assumption.** Leaving does **not** grant an instant fresh 90 — rolling 180-day window ([happytowander](https://happytowander.com/schengen-area-90-180-rule/), [Citizen Remote](https://citizenremote.com/blog/the-ultimate-guide-to-the-schengen-zone-in-2025/)). A **full fresh 90 isn't available until ~mid-May** after a maxed fall. **→ Return ~May, do early spring non-Schengen, or take a shorter April trip.**
+2. **Julian Alps in October** ([Moon & Honey](https://www.moonhoneytravel.com/october-in-slovenia/)) — high huts + Triglav summit close **mid-to-late Sept**; October is great for **day hikes** (Bled, Bohinj, Vogel, Vintgar, Soča), golden larches, empty trails. **→ Autumn day-hiking, or move Slovenia to Sept for the high routes.**
+3. **Croatia in November** ([Helena Bradbury](https://www.helenabradbury.com/blog-1/visiting-croatia-in-november), [Road Is Calling](https://www.roadiscalling.com/dubrovnik-in-winter/)) — **no off-season ferries from Dubrovnik** → island-hop from **Split**. Dubrovnik itself is worth it (quiet, walls open, mild); restaurants close + Google hours unreliable → call ahead.
+4. **Norway in a Nutshell, late Aug** ([Heart My Backpack](https://www.heartmybackpack.com/norway/nutshell-tour-diy-review/)) — end of season for some activities; pack rain; check the Flåm cruise schedule. DIY confirmed cheaper.
+5. **Baltics pacing** — community norm ≈ 2–3 days/capital; the 15-night single base is long → **trim Riga toward ~10n** if it drags.
 
-1. ⚠️ **Schengen spring re-entry — corrects an earlier assumption.** Leaving does **not** grant an instant fresh 90 — it's a *rolling* 180-day window ([happytowander](https://happytowander.com/schengen-area-90-180-rule/), [Citizen Remote](https://citizenremote.com/blog/the-ultimate-guide-to-the-schengen-zone-in-2025/)). After maxing ~90 days ending ~Nov 19, days age out only 180 days after each was used, so a **full fresh 90 isn't available until ~mid-May.** Feb/Mar ≈ 0–25 days; Apr ≈ 40–55; May ≈ 70–86. **→ Return ~May for a full spring leg, OR do early spring non-Schengen (UK/Ireland, Morocco, Turkey) and enter later, OR accept a shorter April trip.**
-2. **Julian Alps in October — adjust expectations** ([Moon & Honey](https://www.moonhoneytravel.com/october-in-slovenia/)). High-alpine hut-to-hut + Mt Triglav summit close **mid-to-late Sept** (huts shut). October is still superb for **day hikes / lower trails** (Bled, Bohinj, Vogel, Vintgar, Soča) — golden larches, empty paths. **→ Frame Slovenia as autumn day-hiking, or move it to September for the high routes.**
-3. **Croatia in November — good, one catch** ([Helena Bradbury](https://www.helenabradbury.com/blog-1/visiting-croatia-in-november), [Road Is Calling](https://www.roadiscalling.com/dubrovnik-in-winter/)). **No off-season ferries from Dubrovnik (Nov–Mar)** → island-hop from **Split** (Hvar year-round). Dubrovnik itself is **worth it** (quiet, walls open, mild 10–15 °C, Winter Festival ~late Nov); many restaurants closed + Google hours unreliable → call ahead.
-4. **Norway in a Nutshell, late Aug — fine** ([Heart My Backpack](https://www.heartmybackpack.com/norway/nutshell-tour-diy-review/)). End of season for some fjord activities; pack autumn/rain; check the Flåm cruise-ship schedule to dodge crowds. DIY confirmed cheaper (as planned).
-5. **Baltics pacing.** Community norm ≈ **2–3 days per capital, ~1–2 weeks for all three**; a 15-night single base is long/unusual. **→ Reinforces trimming Riga toward ~10n** and seeing all three more evenly if it drags.
-
-**Net:** the fall route holds up well; the one real fix is the **spring Schengen timing** — plan the spring return for ~May (or go non-Schengen early), not February.
+**Net:** the fall route holds up well; the one real fix is the spring Schengen timing.
 
 ---
 
-## Open items / decisions
+## 9. Open items / decisions
 
 - [ ] Confirm SEA→Oslo routing + book one-way (~$200–230).
-- [x] Baltic base = **Riga** (15n; Tallinn 3n + Vilnius 3n) — judge-panel pick: cheapest + best culture/hiking; Tallinn's infra edge moot on sabbatical.
-- [ ] Book **Tirana** winter-base apartment early (Dec–Jan) — availability, not price, is the risk.
-- [ ] Reserve Norway dorms/hostel-privates ahead (late-Aug = peak); weigh hotel points for Oslo/Bergen nights.
-- [ ] Optional: a pre-Norway **non-Schengen UK week** (if the cheap SEA fare lands in London) to *delay* the clock start and buy more spring Schengen time.
-- [ ] Fill in Phase 3 (Italy/France/Iberia) closer to February.
+- [x] Baltic base = **Riga** (15n; Tallinn 3n + Vilnius 3n).
+- [ ] Send **points/miles + hotel balances** → price SEA→Oslo entry and the ~$700 home flight as cash-vs-points.
+- [ ] Reserve Norway dorms/hostel-privates ahead (late-Aug = peak).
+- [ ] **Decide the back half** given the real Schengen timing (May return vs non-Schengen early spring).
+- [ ] Optional: a pre-Norway **non-Schengen UK week** (if the cheap SEA fare lands in London) to delay the clock start.
+- [ ] Book **Tirana** apartment early *(only if winter Option A)*.
+
+---
+
+## Appendix — data sources & method
+
+**Verification status (live-checked Jul 2026).** ✅ Hostel tier confirmed at all 6 fall stops (Hostelworld) — prices match/beat estimates. ✅ Apartment tier confirmed via **Booking.com** (in-browser) for exact dates: Riga studios $36–52/nt (well-reviewed central ~$70), Oslo 1BR $59–127, Ljubljana ~$75–90, Split ~$55–70; plus HousingAnywhere monthly + Kayak nightly. ✅ Transport + sightseeing confirmed against operators/official sites. Net: estimates validated; only correction was Riga billing at a weekly (not monthly) rate.
+
+**Re-query lodging without a browser (reusable):** Hostelworld `/hostels/europe/<country>/<city>/` → dorm/private from-prices · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` → monthly · Kayak `/<City>-Vacation-Rentals.<id>.rental.ksp` → nightly. **Booking.com & Airbnb are JS/bot-walled** to a plain fetch (Booking returns an HTTP 202 stub), so they need the **Playwright browser** DOM-read; no travel/booking MCP is connected.
+
+**Artifact:** this file lives at `~/sabbatical/itinerary.md` and on GitHub at **github.com/YellowViking/sabbatical-2026** (with `RESUME.md` + memory copies for continuing from another session).
