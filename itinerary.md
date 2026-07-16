@@ -169,17 +169,17 @@ Current price bands (USD, solo, comfortable):
 | Croatia | 14 | ~$60 | ~$120 | ~$1,680 |
 | **On-the-ground** | **63** | — | **~$125** | **~$7,840** |
 
-Plus inter-region transport (Bergen→Stockholm flight, Baltic ferry + buses, Vilnius→Ljubljana flight, Croatia buses) ~**$470**; international flights (SEA→Oslo ~$210 + Europe→Seattle one-way ~$500) ~**$710**.
+Plus **inter-hub transport ~$410** + the fjord loop ~$181 (all confirmed — see *Confirmed transport & sightseeing* below); **international flights SEA→Oslo ~$210 + Dubrovnik→Seattle ~$700** ≈ $910 (the home flight is the top points-redemption candidate).
 
 **Levers:** dorms in Norway (−~$360) + more Baltic base time → ~$9k; restaurant-heavy Nordics + all-private rooms → ~$12k. **Home flight = best points-redemption candidate** (one-way transatlantic runs cash-expensive).
 
 ### Sample stays (✅ hostel tier live-checked on Hostelworld, 2026-07-15)
 
-"From" prices are real current listings — floor rates for the cheapest dates, so late-Aug Norway will run higher. Whole-apartment figures marked *(est.)* remain research bands (Booking/Airbnb block plain fetches).
+"From" prices are real current listings — floor rates for the cheapest dates, so late-Aug Norway will run higher. Whole-apartment figures marked *(est.)* are research bands; **Booking.com is confirmable via the in-browser method** (plain fetches are bot-blocked). **Selection criteria: review >8, HIGH review count (avoid low-sample outliers), central/prime location, social hostels welcome; quote the typical/average cost, not the cheapest.**
 
 | Stop | Dorm from | Hostel private from | Whole apt / monthly |
 |---|---|---|---|
-| **Oslo** | Haraldsheim $49 · Bunks at Rode $61 | Citybox $39 · Cochs Pensjonat $31 | studio ~$120–160 *(est.)* |
+| **Oslo** | Haraldsheim $49 · Bunks at Rode $61 | Citybox $39 · Cochs Pensjonat $31 | 1BR $59–127/nt ✅ (Booking) |
 | **Bergen** | Intermission $20 · HI Montana $26 | HI Montana $28 · City Hostel $33 | studio ~$130–170 *(est.)* |
 | **Stockholm** | City Backpackers $10 · Generator $19 | Nomad $17 · Generator $19 | Södermalm studio ~$110–150 *(est.)* |
 | **Riga** *(base)* ✅ | Lighthouse $12 · Central $17 · 3 Monks $21 | Baltic Travel $10 · City Westa $17 | apt from $37/nt · **15n ≈ $45–55/nt** · monthly €350–650 ✅ |
@@ -187,7 +187,13 @@ Plus inter-region transport (Bergen→Stockholm flight, Baltic ferry + buses, Vi
 | **Ljubljana** | C-punkt $14 · Celica $17 | Tabor $8 · Sax Pub $14 | studio €700–990/mo ✅ (HA); ~$70–100/nt short-stay |
 | **Split** | Split Backpackers $16 · Oktarin $16 | Split Backpackers $19 · Cool Hostel $20 | Palace/Varoš apt ~$50–90 *(est.)* |
 
-**Verification status (live-checked 2026-07-15, browser-free):** ✅ **Hostel tier** confirmed at all 6 stops (Hostelworld) — prices **match or beat** estimates; Nordic hostel privates ($30–75) run cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Apartment tier** confirmed for the multi-week bases — **Riga** (Kayak $66–130/nt · HousingAnywhere €350–650/mo) and **Ljubljana** (HA €700–990/mo); Oslo/Stockholm's pricey tier corroborated by HA monthly floors (Oslo 2BR ~$3,650/mo; Stockholm studio ~$920/mo). ⏳ Only remaining gap: **Split** whole-apt (its HA page 410'd) — off-season it's cheap and the hostel tier is confirmed. Net: estimates validated; sole correction stands (Riga 15n weekly rate, +~$250; envelope **~$10–11k**).
+**Curated Riga base picks — criteria: review >8, HIGH review count (no low-sample outliers), central; typical (not cheapest) cost. Booking, live for Sep 8–23:**
+- 🏠 *Aparthotels/studios (private, central, 1k–3k reviews):* **Aparthotel Amella** (9.3, 3,182 rev, 0.8 mi, ~$62) ⭐ · **ATF Apartments** (9.2, 1,026 rev, 0.2 mi, ~$74) · **Baznicas Aparts – Quiet Center** (9.4, 205 rev, Art Nouveau district, ~$65).
+- 🏨 *Boutique hotels (central, 1.5k–8k reviews):* **Hotel Gutenbergs** (8.5, 2,897 rev, Old Town, ~$82) · **St. Peter's Boutique** (8.6, 1,513 rev, ~$72) · **Wellton Hotel & SPA** (8.5, 8,061 rev, ~$84).
+- 🛌 *Social hostel (central):* **Blue Bird Boutique Hostel**, Old Town (8.6, 3,314 rev, ~$19 dorm / privates available).
+- → **Typical well-reviewed central private studio/aparthotel ≈ $70/night** — the $34–38 studios rank cheapest but have too few reviews to trust. **Best value: Aparthotel Amella (9.3, 3,182 reviews, ~$62).** The budget's ~$48/nt Baltic line sits fairly between the $34 floor and this ~$70 well-reviewed tier.
+
+**Verification status (live-checked 2026-07-15, browser-free):** ✅ **Hostel tier** confirmed at all 6 stops (Hostelworld) — prices **match or beat** estimates; Nordic hostel privates ($30–75) run cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Apartment tier** confirmed for the multi-week bases — **Riga** (Kayak $66–130/nt · HousingAnywhere €350–650/mo) and **Ljubljana** (HA €700–990/mo); Oslo/Stockholm's pricey tier corroborated by HA monthly floors (Oslo 2BR ~$3,650/mo; Stockholm studio ~$920/mo). ⏳ Only remaining gap: **Split** whole-apt (its HA page 410'd) — off-season it's cheap and the hostel tier is confirmed. Net: estimates validated; sole correction stands (Riga 15n weekly rate, +~$250; envelope **~$10–11k**). ✅ **Booking.com (via browser)** now directly confirms lodging for the exact dates — Riga studios **$36–52/nt**, Oslo 1BR **$59–127/nt** — matching/beating the estimates. (A direct curl/API pull is bot-blocked — Booking returns an HTTP 202 stub — so the in-browser DOM read is the working method.)
 
 **Re-query lodging without a browser (reusable method):** Hostelworld `/hostels/europe/<country>/<city>/` → dorm/private from-prices · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` → monthly furnished · Kayak `/<City>-Vacation-Rentals.<id>.rental.ksp` → nightly apts. **Booking.com & Airbnb are JS-walled** to a plain fetch; **no travel/booking MCP is connected**; Playwright is the only browser MCP (and can jam).
 
@@ -215,6 +221,44 @@ Cash baseline = **Google Flights**. Redeem points only when value clears ~1.3–
 | One-way flight home (Lisbon/Madrid→SEA) | **Cross-check** | One-ways run cash-expensive; award often wins |
 
 *To make these concrete I need your program balances + status (transferable points, airline miles, hotel points).*
+
+---
+
+## Confirmed transport & sightseeing (live-checked Jul 2026)
+
+### Inter-hub transport (one-way, ~1 mo ahead)
+| Leg | Cost | Note |
+|---|---|---|
+| SEA → Oslo | ~$210 | 1-stop; **points candidate** |
+| Oslo → Bergen | ~$31 | Vy Bergensbanen minipris floor (299 NOK) |
+| Bergen → Stockholm | ~$75 | Norwegian/SAS |
+| Stockholm → Tallinn | ~$145 | Tallink overnight — **cabin compulsory**; doubles as a night's lodging |
+| Tallinn → Riga | ~$13 | Lux Express bus |
+| Riga → Vilnius | ~$10 | Lux Express bus |
+| Vilnius → Ljubljana | ~$90 | 1-stop (Wizz/Ryanair/airBaltic; no direct) |
+| Ljubljana → Zagreb | ~$13 | FlixBus |
+| Zagreb → Split | ~$15 | bus (from $6 advance) |
+| Split → Dubrovnik | ~$17 | bus |
+| **Dubrovnik → Seattle (home)** | **~$700** | one-way transatlantic — **best points redemption** |
+
+*Inter-hub ground/short-haul ≈ **$410**; the two transatlantics add ~$210 + ~$700.*
+
+### Fjord experience (Bergen)
+- **DIY "Norway in a Nutshell" loop ≈ $181** (Flåm Railway ~$59 + Nærøyfjord cruise ~$60 + connecting trains/bus ~$60). Packaged tour ~$270–310.
+
+### Headline sights (per-person; Nov = big off-season savings)
+| Where | Sights & cost |
+|---|---|
+| Oslo | National Museum ~$21 · Munch ~$29 · Fram/Kon-Tiki ~$19 ea · Vigeland free — or **Oslo Pass 48h ~$88** incl. transit |
+| Bergen | Fløibanen ~$21 · Ulriken cable car ~$16 (return) |
+| Stockholm | Vasa ~$25 · Skansen ~$25 · Vaxholm ferry ~$4 (SL line 83) |
+| Tallinn | KUMU ~$18 · Seaplane Harbour ~$23 |
+| Riga trips | Sigulda cable car ~$24 · Turaida €9 · Rundāle €12 (Jūrmala, Ķemeri free) |
+| Vilnius | Trakai Castle ~$15 |
+| Julian Alps | Ljubljana castle+funicular ~$22 · Bled pletna+castle ~$45 · Vintgar ~$17 · Postojna ~$40 · Vogel cable car ~$37 |
+| Croatia (Nov) | **Plitvice $11 · Krka $8 · Dubrovnik walls $17** — vs ~$46/$46/$44 in summer |
+
+*Doing most headline sights ≈ **$450–500** for the whole fall; November timing slashes Croatia's park/wall fees ~70%.*
 
 ---
 
