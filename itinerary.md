@@ -45,6 +45,57 @@ All fresh territory; one NW→SE line; no backtracking.
 
 ---
 
+## What to do per hub (justifying each stay)
+
+Day-accounting = city days + day-trips + slow/rest days. Slow travel means some days are deliberately unscheduled (cook, cafés, work, wander) — a feature, not filler. Sums to the 63 on-the-ground nights.
+
+### Oslo — 3n
+- **City:** Opera House roof walk, Akershus Fortress, National Museum (*The Scream*), Vigeland Sculpture Park, Munch Museum, Grünerløkka.
+- **Nature:** Bygdøy museum peninsula by ferry (Fram, Kon-Tiki); Ekeberg / Sognsvann lake walk.
+- *2 city + 1 nature/half-day + jet-lag buffer. Short on purpose — pricey, and the fjords are the draw.*
+
+### Bergen + fjords — 6n
+- **City:** Bryggen wharf, Fløibanen up Mt Fløyen (ridge hike toward Ulriken), Ulriken cable car, KODE museums, Fish Market.
+- **Fjords (DIY Norway-in-a-Nutshell):** Bergen Railway → Flåm Railway → Nærøyfjord cruise (UNESCO) → Stegastein.
+- **Hiking:** Aurlandsdalen ("Norwegian Grand Canyon"), Flåm/Aurland trails.
+- *2 city + 3 fjord/hiking + 1 rain buffer (Bergen's ~1-in-2 rain days makes it real) = 6.*
+
+### Stockholm — 5n
+- **City:** Gamla Stan + Royal Palace, Vasa Museum (intact 17th-c warship), Djurgården (Skansen, ABBA), Södermalm + Fotografiska + Monteliusvägen, Skogskyrkogården (UNESCO).
+- **Nature:** archipelago ferry (Vaxholm); Tyresta NP old-growth day hike.
+- *3 city + 1 archipelago + 1 nature = 5.*
+
+### Tallinn — 3n
+- **City:** UNESCO Old Town (Toompea, Alexander Nevsky, walls/towers), Telliskivi Creative City + Balti Jaam market, Kadriorg Palace + KUMU, Seaplane Harbour.
+- **Nature (opt):** Lahemaa NP day (bogs, manors, coast).
+- *2 Old Town + 1 Kadriorg/Lahemaa = 3.*
+
+### Riga — 15n (base)
+- **City (spread out):** Old Town (House of Blackheads, Dome Cathedral, St Peter's tower, Three Brothers, Swedish Gate), Art Nouveau district + museum, Central Market (Zeppelin hangars), Latvian National Museum of Art, Corner House (KGB), Miera iela, Kalnciema market, Ethnographic Open-Air Museum.
+- **Day trips (full-day each):** (1) Sigulda + Gauja NP — Turaida & Sigulda castles, Gūtmanis Cave, cable car, trails · (2) Cēsis — medieval castle/old town · (3) Ķemeri NP — Great Ķemeri Bog boardwalk · (4) Jūrmala — beach, wooden villas, Dzintari forest · (5) Rundāle Palace — baroque gardens · (6 reach) Kuldīga — Venta waterfall.
+- **Slow days:** cook, coffee, coworking, rest.
+- *5 city + 5–6 day-trips + 4–5 slow = 15. ~1/3 deliberately unscheduled — compress to ~10 if you'd rather move faster.*
+
+### Vilnius — 3n
+- **City:** baroque Old Town (Cathedral + belfry, Gediminas Tower, Gate of Dawn, St Anne's, University), Užupis bohemian "republic," MO Museum, KGB/Occupations Museum.
+- **Day trip:** Trakai island castle on the lake.
+- *2 Old Town/Užupis + 1 Trakai, then fly to Ljubljana = 3.*
+
+### Ljubljana + Julian Alps — 14n
+- **City:** Old Town + Castle funicular, Plečnik's Triple/Dragon bridges, Tivoli Park, Metelkova.
+- **Julian Alps:** Lake Bled (island church, Vintgar Gorge, Ojstrica hike) · Lake Bohinj + Triglav NP (Vogel cable car high trails, Savica falls, Mostnica Gorge) · Soča Valley (Bovec/Kobarid, Seven Lakes hut-to-hut option, Vršič Pass).
+- **Karst + coast:** Škocjan/Postojna Caves + Predjama Castle; Piran (Venetian coast town).
+- *3 city + 5–6 alpine + caves + Piran + slow = 14.*
+
+### Croatia (Zagreb → Split/Dalmatia) — 14n
+- **Zagreb (~2d):** Upper Town, St Mark's, Dolac market, Museum of Broken Relationships.
+- **Plitvice Lakes NP** — 16 terraced lakes + waterfalls (en route south).
+- **Split base (~5–6d):** Diocletian's Palace, Marjan Hill forest hike, Klis Fortress; day trips to Krka NP (walkable waterfalls), Trogir (UNESCO), Hvar/Brač islands.
+- **Dubrovnik (~2–3d):** city-walls walk, Srđ cable car, Lokrum — quieter/cheaper late Oct.
+- *2 Zagreb + Plitvice + 6 Split(+day trips) + 3 Dubrovnik = 14.*
+
+---
+
 ## Phase 2 — Winter: OPEN branch point (decide later)
 
 **Not committed.** You'd rather chase warmth, and you haven't decided whether to winter *in Europe* at all. One wrinkle makes this the real pivot of the trip: **southern Europe (Spain/Portugal/Italy/Greece) is all Schengen, and your 90 days run out ~mid-Nov** — right as winter starts. So the fall arc is stable and burns the clock to ~90 days by mid-Nov; **you exit Schengen ~mid-Nov regardless.** Winter is just *where you exit to*:
