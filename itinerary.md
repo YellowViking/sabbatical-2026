@@ -193,6 +193,17 @@ Plus **inter-hub transport ~$410** + the fjord loop ~$181 (all confirmed — see
 - 🛌 *Social hostel (central):* **Blue Bird Boutique Hostel**, Old Town (8.6, 3,314 rev, ~$19 dorm / privates available).
 - → **Typical well-reviewed central private studio/aparthotel ≈ $70/night** — the $34–38 studios rank cheapest but have too few reviews to trust. **Best value: Aparthotel Amella (9.3, 3,182 reviews, ~$62).** The budget's ~$48/nt Baltic line sits fairly between the $34 floor and this ~$70 well-reviewed tier.
 
+**Curated Ljubljana picks — Oct, review >8, high count, central:**
+- 🏠 *Rooms/studios (private, central, high count):* **OH Apartments & Rooms** (9.2, 1,945 rev, ~$73) ⭐ · **Ars Longa** studio (9.2, 816 rev, ~$89) · **Rooms Ambrožič** river-view (8.2, 1,995 rev, ~$76).
+- 🏨 *Hotel:* **City Hotel Ljubljana** (9.1, **11,374 rev**, 0.2 mi, ~$169 — huge track record, pricier).
+- 🛌 *Social hostels:* **H2O Hostel** (8.2, 1,294 rev, ~$20 dorm) · **ibis Styles "Fuzzy Log"** cabin (8.4, 5,379 rev, ~$44).
+- → Typical well-reviewed central room/studio ≈ **$75–90/nt**. Best value: **OH Apartments (9.2, 1,945 rev, ~$73).**
+
+**Curated Split picks — late Oct/Nov off-season, review >8, high count, central:**
+- 🏠 *Studios/rooms (private, central, high count):* **ToMaDi Residence** studio (9.2, 498 rev, ~$50) ⭐ · **Sv.Duje Apartments** studio (9.1, 738 rev, ~$68) · **Split Inn Apartments** studio (8.1, 1,269 rev, ~$50) · **Apartments Centrum** (9.0, 320 rev, ~$46).
+- 🏨 *Hotels (in/near Diocletian's Palace):* **Hotel Ambasador** (9.6, 1,915 rev, ~$136) · **Heritage Santa Lucia** (9.4, 1,175 rev, ~$145).
+- → Typical well-reviewed central studio ≈ **$55–70/nt** (Nov off-season). Best value: **ToMaDi Residence (9.2, 498 rev, ~$50).**
+
 **Verification status (live-checked 2026-07-15, browser-free):** ✅ **Hostel tier** confirmed at all 6 stops (Hostelworld) — prices **match or beat** estimates; Nordic hostel privates ($30–75) run cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Apartment tier** confirmed for the multi-week bases — **Riga** (Kayak $66–130/nt · HousingAnywhere €350–650/mo) and **Ljubljana** (HA €700–990/mo); Oslo/Stockholm's pricey tier corroborated by HA monthly floors (Oslo 2BR ~$3,650/mo; Stockholm studio ~$920/mo). ⏳ Only remaining gap: **Split** whole-apt (its HA page 410'd) — off-season it's cheap and the hostel tier is confirmed. Net: estimates validated; sole correction stands (Riga 15n weekly rate, +~$250; envelope **~$10–11k**). ✅ **Booking.com (via browser)** now directly confirms lodging for the exact dates — Riga studios **$36–52/nt**, Oslo 1BR **$59–127/nt** — matching/beating the estimates. (A direct curl/API pull is bot-blocked — Booking returns an HTTP 202 stub — so the in-browser DOM read is the working method.)
 
 **Re-query lodging without a browser (reusable method):** Hostelworld `/hostels/europe/<country>/<city>/` → dorm/private from-prices · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` → monthly furnished · Kayak `/<City>-Vacation-Rentals.<id>.rental.ksp` → nightly apts. **Booking.com & Airbnb are JS-walled** to a plain fetch; **no travel/booking MCP is connected**; Playwright is the only browser MCP (and can jam).
