@@ -11,8 +11,8 @@ Planning focus right now is the **first months**; the spring half is a light ske
 Schengen allows **90 days in any rolling 180-day period** — not "90 days, leave, fresh 90." For a 6–8 month trip the play is:
 
 1. **Burn ~90 Schengen days** late-Aug → mid-Nov on a clean **NW→SE diagonal** through *fresh* Schengen countries.
-2. **Exit into the non-Schengen western Balkans** for winter (cheap, mild coast) while the clock rolls off.
-3. **Re-enter Schengen fresh** ~mid/late Feb for a southern/western Europe spring.
+2. **Exit Schengen by flying home** for winter (current plan) while the rolling clock unwinds.
+3. **Re-enter for a spring leg — but mind the timing:** leaving is *not* an instant reset. After a maxed 90-day fall, a *full* fresh 90 isn't available until **~mid-May** (see Community cross-check); earlier returns are partial, or go non-Schengen first.
 
 2025 note: **Bulgaria & Romania are now full Schengen**; **Croatia & Slovenia** are Schengen. The non-Schengen belt that resets the clock is now **Bosnia, Montenegro, Albania, N. Macedonia, Kosovo** (+ Turkey/Georgia, UK/Ireland).
 
@@ -83,7 +83,7 @@ Day-accounting = city days + day-trips + slow/rest days. Slow travel means some 
 
 ### Ljubljana + Julian Alps — 14n
 - **City:** Old Town + Castle funicular, Plečnik's Triple/Dragon bridges, Tivoli Park, Metelkova.
-- **Julian Alps:** Lake Bled (island church, Vintgar Gorge, Ojstrica hike) · Lake Bohinj + Triglav NP (Vogel cable car high trails, Savica falls, Mostnica Gorge) · Soča Valley (Bovec/Kobarid, Seven Lakes hut-to-hut option, Vršič Pass).
+- **Julian Alps (Oct = day-hikes + golden larches; high huts/Triglav summit close mid-Sept):** Lake Bled (island church, Vintgar Gorge, Ojstrica hike) · Lake Bohinj + Triglav NP (Vogel cable car high trails, Savica falls, Mostnica Gorge) · Soča Valley (Bovec/Kobarid, Vršič Pass). *High hut-to-hut / Triglav summit would need Slovenia in early/mid-Sept.*
 - **Karst + coast:** Škocjan/Postojna Caves + Predjama Castle; Piran (Venetian coast town).
 - *3 city + 5–6 alpine + caves + Piran + slow = 14.*
 
@@ -105,7 +105,7 @@ Day-accounting = city days + day-trips + slow/rest days. Slow travel means some 
 | **A. Western Balkans** (detail ↓) | cold inland / mild coast | non-Schengen — **resets clock** | cheap, fresh, but a genuinely cold winter |
 | **B. Warm + non-Schengen** — **Morocco** (Marrakech/Fez/Chefchaouen + High Atlas hiking), Turkey's Med coast, Cyprus | warm | non-Schengen — **resets clock** | ⭐ best "warm winter" that *also* resets Schengen; Morocco is fresh, cheap, cities + mountains |
 | **C. Warm southern Europe** — Andalusia, Algarve, Sicily, Canaries, Greek isles | warm | **Schengen — needs banked days** | only if the *fall* is spent OUT of Schengen; conflicts with the northern arc → really a **spring** move (Phase 3) |
-| **D. Leave Europe** for winter — **← current lean: home to the US** | — | full reset | holidays with people, full Schengen reset → fresh 90 for a warm southern-Europe spring |
+| **D. Leave Europe** for winter — **← current lean: home to the US** | — | clock unwinds | holidays with people; the rolling clock unwinds over winter, but a *full* fresh 90 only by ~mid-May (see cross-check) — time the spring return accordingly |
 
 **Takeaway:** a warm winter that keeps the northern fall arc = **Option B (Morocco is the standout)**. A warm *Schengen* south (Option C) resolves to **spring** here, since the clock resets ~Feb. Leave this open — the fall plan doesn't depend on it. **(Current lean: Option D — fly home for winter, re-enter fresh in spring. Not planning it further yet.)**
 
@@ -124,9 +124,9 @@ Comfortable budget goes *luxuriously* far here — Albania especially (private r
 
 ---
 
-## Phase 3 — Spring, Schengen refreshed (~mid/late Feb onward) — SKETCH ONLY
+## Phase 3 — Spring, Schengen leg — SKETCH ONLY
 
-Re-enter with a clean 90. Big fresh territory: **Italy, France (mostly fresh), Iberia (Portugal/Spain)** — i.e., the warm southern Europe you're after, timed for when your Schengen clock is fresh again (Andalusia, Algarve, Sicily, Greek isles all live here).
+⚠️ **Timing corrected (see Community cross-check):** a *full* fresh 90 Schengen days isn't available until **~mid-May** after a maxed fall stint — not February. Options: return **~May** for a full run at **Italy, France (mostly fresh), Iberia (Portugal/Spain)** — the warm south you're after (Andalusia, Algarve, Sicily, Greek isles); *or* return in **April** for a shorter (~40–55 day) trip; *or* spend early spring in **non-Schengen** (UK/Ireland, Morocco, Turkey) and enter Schengen later.
 
 - Nice handoff: **ferry Durrës/Vlorë (Albania) → Bari/Ancona (Italy)** to start the spring leg by sea.
 - Rough arc: Italy (south→north) → France → Spain → Portugal, chasing warmth as it builds. Fill in when we get there.
@@ -280,6 +280,20 @@ Cash baseline = **Google Flights**. Redeem points only when value clears ~1.3–
 - **DIY "Norway in a Nutshell"** (buy the train/ferry/bus legs separately) ≈ half the packaged-tour price.
 - **Long hops by budget air** (Bergen→Stockholm, Vilnius→Ljubljana); **clusters by bus** (Baltics, Balkans).
 - Front-load the one pricey week (Norway) while its hiking peaks in late Aug; linger where the budget feels rich (Baltics, Balkans).
+
+---
+
+## Community cross-check & revisions (Reddit + blogs, Jul 2026)
+
+Cross-checked against Reddit, Rick Steves/Tripadvisor forums, and blogs. Most important first:
+
+1. ⚠️ **Schengen spring re-entry — corrects an earlier assumption.** Leaving does **not** grant an instant fresh 90 — it's a *rolling* 180-day window ([happytowander](https://happytowander.com/schengen-area-90-180-rule/), [Citizen Remote](https://citizenremote.com/blog/the-ultimate-guide-to-the-schengen-zone-in-2025/)). After maxing ~90 days ending ~Nov 19, days age out only 180 days after each was used, so a **full fresh 90 isn't available until ~mid-May.** Feb/Mar ≈ 0–25 days; Apr ≈ 40–55; May ≈ 70–86. **→ Return ~May for a full spring leg, OR do early spring non-Schengen (UK/Ireland, Morocco, Turkey) and enter later, OR accept a shorter April trip.**
+2. **Julian Alps in October — adjust expectations** ([Moon & Honey](https://www.moonhoneytravel.com/october-in-slovenia/)). High-alpine hut-to-hut + Mt Triglav summit close **mid-to-late Sept** (huts shut). October is still superb for **day hikes / lower trails** (Bled, Bohinj, Vogel, Vintgar, Soča) — golden larches, empty paths. **→ Frame Slovenia as autumn day-hiking, or move it to September for the high routes.**
+3. **Croatia in November — good, one catch** ([Helena Bradbury](https://www.helenabradbury.com/blog-1/visiting-croatia-in-november), [Road Is Calling](https://www.roadiscalling.com/dubrovnik-in-winter/)). **No off-season ferries from Dubrovnik (Nov–Mar)** → island-hop from **Split** (Hvar year-round). Dubrovnik itself is **worth it** (quiet, walls open, mild 10–15 °C, Winter Festival ~late Nov); many restaurants closed + Google hours unreliable → call ahead.
+4. **Norway in a Nutshell, late Aug — fine** ([Heart My Backpack](https://www.heartmybackpack.com/norway/nutshell-tour-diy-review/)). End of season for some fjord activities; pack autumn/rain; check the Flåm cruise-ship schedule to dodge crowds. DIY confirmed cheaper (as planned).
+5. **Baltics pacing.** Community norm ≈ **2–3 days per capital, ~1–2 weeks for all three**; a 15-night single base is long/unusual. **→ Reinforces trimming Riga toward ~10n** and seeing all three more evenly if it drags.
+
+**Net:** the fall route holds up well; the one real fix is the **spring Schengen timing** — plan the spring return for ~May (or go non-Schengen early), not February.
 
 ---
 
