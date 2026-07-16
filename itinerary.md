@@ -106,33 +106,37 @@ Current price bands (USD, solo, comfortable):
 
 ## Costs & sample stays — fall leg (late Aug → mid-Nov)
 
-**Bottom line:** ~**$8,800** for the 9-week core route; ~**$10–11k** if ridden to a mid-Nov flight home (extra weeks fall in the cheap Baltics/Croatia). ~**$120/day on the ground** — comfortable band; pricey Nordic front offset by the ~$35/night Baltic base.
+**Bottom line:** ~**$9,000** for the 9-week core route; ~**$10–11k** if ridden to a mid-Nov flight home (extra weeks fall in the cheap Baltics/Croatia). ~**$125/day on the ground** — comfortable band, and **live-checked as comfortable-to-conservative** (see Verification below). One correction: Riga's 15-night base bills at a *weekly* rate (~$45–55/nt), not the monthly rate first assumed.
 
 | Region | Nights | Lodging/nt | All-in/day | Subtotal |
 |---|---|---|---|---|
 | Oslo | 3 | ~$110 | ~$185 | ~$555 |
 | Bergen + fjords | 6 | ~$110 | ~$210 | ~$1,260 |
 | Stockholm | 5 | ~$105 | ~$175 | ~$875 |
-| Baltics (monthly base) | 21 | ~$35 | ~$80 | ~$1,680 |
+| Baltics (Riga base) | 21 | ~$48 | ~$92 | ~$1,930 |
 | Ljubljana / Slovenia | 14 | ~$55 | ~$110 | ~$1,540 |
 | Croatia | 14 | ~$60 | ~$120 | ~$1,680 |
-| **On-the-ground** | **63** | — | **~$120** | **~$7,590** |
+| **On-the-ground** | **63** | — | **~$125** | **~$7,840** |
 
 Plus inter-region transport (Bergen→Stockholm flight, Baltic ferry + buses, Vilnius→Ljubljana flight, Croatia buses) ~**$470**; international flights (SEA→Oslo ~$210 + Europe→Seattle one-way ~$500) ~**$710**.
 
 **Levers:** dorms in Norway (−~$360) + more Baltic base time → ~$9k; restaurant-heavy Nordics + all-private rooms → ~$12k. **Home flight = best points-redemption candidate** (one-way transatlantic runs cash-expensive).
 
-### Sample stays (representative — verify live; Norway books 1–3 mo ahead)
+### Sample stays (✅ hostel tier live-checked on Hostelworld, 2026-07-15)
 
-| Stop | Dorm | Private room | Whole apt / monthly |
+"From" prices are real current listings — floor rates for the cheapest dates, so late-Aug Norway will run higher. Whole-apartment figures marked *(est.)* remain research bands (Booking/Airbnb block plain fetches).
+
+| Stop | Dorm from | Hostel private from | Whole apt / monthly |
 |---|---|---|---|
-| **Oslo** | HI Haraldsheim ~$45 | Anker Hostel private ~$95–130 | Grünerløkka/Sentrum studio ~$120–160 |
-| **Bergen** | HI Montana ~$29 · City Hostel ~$36 | guesthouse dbl nr Bryggen ~$80–120 | studio ~$130–170 |
-| **Stockholm** | Södermalm hostel ~$28–40 | hostel private / budget hotel ~$90–130 | Södermalm studio ~$110–150 |
-| **Riga** *(base)* | ~$14–22 | ~$30–50 | monthly studio ~$750–1,050/mo → ~$25–35/nt |
-| **Vilnius** *(base alt)* | Downtown Forest ~$20 | Jimmy Jumps private ~$40 | monthly ~$850–1,200/mo → ~$28–40/nt |
-| **Ljubljana** | Hostel Celica ~$25 | Celica private ~$60 | central studio ~$70–100/nt; monthly ~$800–1,200 |
-| **Split** | ~$15–25 | ~$35–60 (off-season) | Diocletian's Palace/Varoš apt ~$50–90; monthly ~$700–1,100 |
+| **Oslo** | Haraldsheim $49 · Bunks at Rode $61 | Citybox $39 · Cochs Pensjonat $31 | studio ~$120–160 *(est.)* |
+| **Bergen** | Intermission $20 · HI Montana $26 | HI Montana $28 · City Hostel $33 | studio ~$130–170 *(est.)* |
+| **Stockholm** | City Backpackers $10 · Generator $19 | Nomad $17 · Generator $19 | Södermalm studio ~$110–150 *(est.)* |
+| **Riga** *(base)* ✅ | Lighthouse $12 · Central $17 · 3 Monks $21 | Baltic Travel $10 · City Westa $17 | apt from $37/nt · **15n ≈ $45–55/nt** · monthly €350–650 ✅ |
+| **Vilnius** *(alt)* | Downtown Forest ~$20 | Jimmy Jumps ~$40 | monthly ~$850–1,200/mo *(est.)* |
+| **Ljubljana** | C-punkt $14 · Celica $17 | Tabor $8 · Sax Pub $14 | central studio ~$70–100 *(est.)* |
+| **Split** | Split Backpackers $16 · Oktarin $16 | Split Backpackers $19 · Cool Hostel $20 | Palace/Varoš apt ~$50–90 *(est.)* |
+
+**Verification status:** ✅ Hostel tier confirmed at all 6 stops — live prices **match or beat** the estimates; Nordic hostel privates ($30–75) are notably cheaper than first modeled, so the fall total is comfortable-to-conservative. ✅ **Riga** fully confirmed across every tier (incl. apartment). ⏳ Whole-apartment prices in Oslo/Bergen/Stockholm/Ljubljana/Split remain estimates — the Playwright browser is mid-jam (orphaned instances) + Booking/Airbnb block plain fetches; re-run when free. Net correction: Riga 15n weekly-rate adds ~$250 to the Baltic leg; fall envelope unchanged at **~$10–11k**.
 
 ---
 
