@@ -198,6 +198,51 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 
 ---
 
+## 10. Booking & prep action plan
+*(Departs Aug 22 — ~5 weeks out. Lock the sell-out-risk / peak-summer items now; time the rest to their release windows.)*
+
+### 🎫 Entry — the good news
+- **ETIAS: NOT required** for an Aug 2026 entry — it launches Q4 2026 (+ ~6-month grace; mandatory ~Apr 2027). *Re-check the official EU portal (travel-europe.europa.eu) in early Aug; never a third-party "ETIAS" site.*
+- **EES is live** (since Apr 2026): first Schengen entry takes a **photo + 4 fingerprints** (no stamp) and auto-tracks your 90/180. Allow extra border time (first-timers are slow).
+- **Passport:** valid ≥3 months past departure (≈ mid-Feb 2027) **and** issued within the last 10 years; aim for a 6-month buffer. Renew now if close (US renewals take weeks).
+- **90/180:** your ~83 days fit with a ~7-day buffer — only if you've been out of Schengen the prior ~180 days. *(Past 90 days would need a national Type-D visa — long lead + it does require insurance — so flag early if that ever becomes possible.)*
+- Border may ask: onward ticket, accommodation, funds (~€30–100/day), insurance — keep digital + paper copies.
+
+### 🚆 Book NOW (sell-out risk / peak-summer)
+- **Oslo→Bergen "Bergensbanen"** (vy.no) — summer trains sell out *entirely*, not just the cheap "Lowfare"; already on sale for your dates.
+- **Flåm Railway + Nærøyfjord cruise** (flamsbana.no / norwaysbest.com) — book the departure that connects to the Bergen line; sells out months ahead.
+- **SEA→Copenhagen** one-way (Icelandair/SAS/Norse) — peak-summer, prices only rise now; price it **open-jaw with the home flight**.
+- **Vilnius→Ljubljana** — ⚠ **no nonstop**; it's a *connecting* flight (via Warsaw/Riga/Vienna on LOT/airBaltic/Austrian). Limited seats → book now, budget more time.
+- **Destination Gotland ferry** (destinationgotland.se) — late-Aug sailings sell out; foot passenger is easier.
+- ⚠ **Dubrovnik→Venice** — thin/seasonal; **verify a nonstop still runs on your date**, else book a connection (via Vienna/Rome) or a coastal alternative.
+- **Home flight Naples/Rome→SEA (~mid-Nov)** — shoulder season, less urgent, but lock the open-jaw now if the fare's good (sweet spot ~8–12 wks out).
+
+### 📅 By early August
+- **Tallink overnight Stockholm→Helsinki** (tallink.com) — book the cheap **cabin** class (sells out in summer).
+- **Bergen→Stockholm** flight (Norwegian usually cheapest; midweek AM).
+- **Lux Express** Baltic buses (luxexpress.eu) — cheap fares vanish as it fills.
+- **Preikestolen shuttle** (pulpitrock.no) — can't buy onboard; pre-book, or reach the trailhead before 8am / after 4pm to park.
+- **Travel medical insurance** — live-quote for your age: **SafetyWing** (cheapest/flexible), **Genki** (€1M, routine care), **IMG Patriot** (highest/visa-grade). Target medical $250k–$1M + evacuation/repatriation. *(Separate trip-cancellation policy if you have big non-refundable bookings — buy within ~14 days of first deposit.)*
+- **eSIM** — a **Norway-inclusive** Europe plan (Airalo *Eurolink* 42-country / Holafly / Saily), **not** Airalo "EU+UK" (excludes Norway). ~$100 for 50 GB/90 days. *Don't install until you land — the clock starts at activation.*
+
+### 📆 2–4 weeks out
+- **Helsinki→Tallinn** ferry (8+/day; midweek cheapest — avoid Fri PM / Sat AM).
+- **Croatia buses** (FlixBus/Arriva; Split→Dubrovnik ~€11–15).
+- **No-FX-fee card** (Wise/Revolut) + Apple/Google Pay; notify banks; pack a backup card separately.
+- Save **border docs**: onward ticket + accommodation confirmations + a bank statement.
+
+### 🔔 Calendar alarms — Italy timed-entry (can't book until the release window opens)
+- **Vatican Museums** (Rome ~Nov 3) → releases **60 days out** (≈ **early Sept**), midnight CET; one ticket includes the Sistine Chapel — grab an early slot.
+- **Uffizi + Accademia/David** (Florence ~Oct 31) → bookable ~1 month ahead (**late Sept**); nominative, early slots.
+- **Colosseum + Forum + Palatine** (Rome ~Nov 3) → releases **30 days out** (≈ **early Oct**); morning slots go in minutes.
+- **Pompeii** (Naples ~Nov 8) → the mandatory-timed 20k/day cap **lifts after Oct 14**, so your visit is **walk-in-workable** (pre-book still skips the gate line).
+- **Vasa** (Stockholm) & **Louisiana** (Denmark) — walk-in (Vasa is card-only).
+
+### 🧳 Money
+Nordics (DKK/SEK/NOK) are the **most cashless places on earth** — tap for everything, hold near-zero cash. Carry **~€50–100 euro** cash for Croatia/Slovenia/Italy small shops, markets, huts, taxis. Always **decline "charge in USD" (DCC)**; use bank ATMs, not Euronet.
+
+---
+
 ## Appendix — data sources & method
 
 **Verified (Jul 2026):** hostel tier (Hostelworld) + apartment tier via **Booking.com** in-browser for Riga/Oslo/Ljubljana/Split; HousingAnywhere + Kayak; transport + sights vs operators. ✅ **All new Scandinavia stops + Italy now Booking-confirmed** (in-browser) + **neighborhood-validated** (9-agent web-research pass — flagged e.g. Gothenburg's across-river "Waterfront Cabins", Rome-Termini / Napoli-Garibaldi station belts, Venice-vs-Mestre).
