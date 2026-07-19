@@ -1,194 +1,192 @@
 # Sabbatical 2026 — Europe (Draft Itinerary)
 
-**Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow travel (snappy per-stop), comfortable budget · **Threads** cities & culture + nature/hiking throughout.
+**Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow-ish travel (snappy per-stop), comfortable budget · **Threads** cities & culture + nature/hiking throughout.
 
-**Status:** fall leg (Aug → ~mid-Nov) planned & costed; Nordic/Baltic/Slovenia/Croatia lodging Booking-confirmed, **Italy lodging/sights still to confirm**. Winter = fly home (current lean). Spring = provisional (see §2).
+**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights (~6–7-day buffer** — Italy trimmed for slack; see §2). Nordic/Baltic/Slovenia/Croatia base lodging Booking-confirmed; **new Scandinavia stops + Italy still to confirm.** Winter = fly home; **Balkans deferred to a future trip** (non-Schengen → no rush). Spring = provisional (§5).
 
-**Route in one line:** Oslo → Bergen/fjords → Stockholm → ⛴ Tallinn → **Riga (base, 10n)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Rome → Naples/Amalfi)** → ✈ home from Naples/Rome (~early/mid-Nov).
+**Route in one line:** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland) → Helsinki → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
 > Contents: [1) Fall at a glance](#1-fall-itinerary-at-a-glance) · [2) Schengen](#2-the-schengen-constraint) · [3) Avoid-list](#3-already-visited--route-around-these) · [4) Fall hubs](#4-fall-hubs--what-to-do--why-each-length) · [5) Winter & spring](#5-winter--spring-provisional) · [6) Costs](#6-costs-fall-leg) · [7) Lodging](#7-lodging) · [8) Cross-check](#8-community-cross-check--revisions) · [9) Open items](#9-open-items--decisions) · [Appendix](#appendix--data-sources--method)
 
 ---
 
 ## 1. Fall itinerary at a glance
-*(Aug 22 → ~Nov 9 · ~79 nights · stays inside the 90-day Schengen window)*
+*(Aug 22 → ~Nov 13 · ~83 nights · ~6–7-day buffer under the 90-day Schengen cap)*
 
-| Dates (≈) | Base / stop | Cities & culture | Hiking / nature | Getting there |
+| Dates (≈) | Stop | Cities & culture | Hiking / nature | Getting there |
 |---|---|---|---|---|
-| **Aug 22–24** | Oslo (3n) | Vigeland, Munch, Opera roof | fjord warm-up | ✈ SEA (1-stop) |
-| **Aug 25–31** | Bergen + fjords (6n) | Bryggen, Fløyen | Bergen Railway, Flåm/Nærøyfjord, Fløyen/Ulriken | 🚆 scenic train |
-| **Sep 1–5** | Stockholm (5n) | Gamla Stan, Vasa | Tyresta NP, archipelago | ✈ Bergen→Stockholm |
-| **Sep 6** | *overnight ferry* | — | Baltic archipelago | 🚢 Stockholm→Tallinn |
-| **Sep 7–22** | Baltics — **Riga base** (Tallinn 3 · **Riga 10** · Vilnius 3) | old towns, Art Nouveau | Gauja/Sigulda, Lahemaa, Trakai | 🚌 Lux Express |
-| **Sep 23–29** | Slovenia (7n) | Ljubljana, Piran | Bled, Bohinj/Vogel, Vintgar, Soča *(late-Sept = still alpine-ok)* | ✈ Vilnius→Ljubljana |
-| **Sep 30–Oct 12** | Croatia (~13n) | Zagreb, Split, Dubrovnik | Plitvice, Krka, Marjan, islands | 🚌 buses |
-| **Oct 13–Nov 9** | **Italy** (~28n): Venice → Cinque Terre → Florence → Rome → Naples/Amalfi | the greatest hits | Cinque Terre trails, Vesuvius, Path of the Gods | ✈ Dubrovnik→Venice, then 🚆 south |
-| **~Nov 9** | ✈ **home from Naples/Rome** | — | — | one-way to SEA |
+| **Aug 22–24** | Copenhagen (3n) | Nyhavn, Tivoli, Louisiana museum; **day-trip Malmö/Lund** across the bridge | Amager beach, cycling | ✈ **land SEA→CPH** (≈ same fare as Oslo) |
+| **Aug 25–26** | Gothenburg (2n) | seafood, fika, Haga district | archipelago tram+ferry | 🚆 CPH→Gothenburg ~3.5h |
+| **Aug 27–29** | Oslo (3n) | Vigeland, Munch, Opera roof, Bygdøy | Ekeberg/Sognsvann | 🚆 Gothenburg→Oslo ~3.5h |
+| **Aug 30–Sep 1** | **Stavanger + Preikestolen** (3n) | Gamle Stavanger, street art | ⭐ **Preikestolen** (Pulpit Rock) + Lysefjord | ✈/🚆 Oslo→Stavanger |
+| **Sep 2–7** | Bergen + fjords (6n) | Bryggen, Fløyen | Bergen Railway, Flåm/Nærøyfjord, Fløyen/Ulriken | 🚢 Stavanger→Bergen express boat ~4h |
+| **Sep 8–12** | Stockholm (5n) | Gamla Stan, Vasa | Tyresta NP, archipelago | ✈ Bergen→Stockholm |
+| **Sep 13–15** | Gotland / Visby (3n) | medieval walled town (UNESCO) | cliffs, rauk sea-stacks, cycling | ⛴ Nynäshamn→Visby ~3h |
+| **Sep 16–18** | Helsinki (2n) | Design District, Temppeliaukio, Market Sq | Nuuksio NP, Suomenlinna | 🚢 Stockholm→Helsinki overnight ferry |
+| **Sep 19–21** | Tallinn (3n) | Old Town, Telliskivi, KUMU | Lahemaa NP | ⛴ Helsinki→Tallinn ~2h |
+| **Sep 22–Oct 1** | **Riga base** (10n) | Art Nouveau, Old Town | Gauja/Sigulda, Ķemeri, Jūrmala | 🚌 Lux Express |
+| **Oct 2–4** | Vilnius (3n) | baroque Old Town, Užupis | Trakai | 🚌 |
+| **Oct 5–11** | Slovenia (7n) | Ljubljana, Piran | Bled, Bohinj/Vogel, Vintgar, Soča *(late-ish, but ok)* | ✈ Vilnius→Ljubljana |
+| **Oct 12–24** | Croatia (13n) | Zagreb, Split, Dubrovnik | Plitvice, Krka, islands | 🚌 |
+| **Oct 25–Nov 12** | **Italy** (~20n): Venice → Cinque Terre → Florence → Rome → Naples/Amalfi | the greatest hits | Cinque Terre, Vesuvius, Path of the Gods | ✈ Dubrovnik→Venice, then 🚆 |
+| **~Nov 13** | ✈ **home from Naples/Rome** | — | — | one-way to SEA |
 
-**Why this shape:** all fresh territory (§3) on a NW→SE line; snappier stops free ~3 weeks for **Italy as the north cools**, ending warm in the south at an easy transatlantic hub. The one air-hop back up (Dubrovnik→Venice) lets Italy run north→south so you finish in the warm south.
+**Why this shape:** landing in Copenhagen (≈ Oslo fare) adds Denmark for free and sets up a clean **CPH → Gothenburg → Oslo** overland; the Norway coast then runs **south→north** (Stavanger→Bergen) so the Preikestolen detour doesn't backtrack; Stockholm→Helsinki→Tallinn completes all **four Nordic capitals** en route to the Baltics; then the established Baltics→Slovenia→Croatia→Italy diagonal, ending warm in southern Italy at an easy transatlantic hub.
 
 ---
 
-## 2. The Schengen constraint
+## 2. The Schengen constraint ⚠️ *(now the binding limit)*
 
-Schengen = **90 days in any rolling 180-day period** — *not* "leave and get a fresh 90." The play:
+Schengen = **90 days in any rolling 180-day period.** **Every stop above is Schengen** (Denmark, Sweden, Norway, Finland, Baltics, Slovenia, Croatia, Italy). Trimming Italy to ~20n lands the fall at **~83 nights — a healthy ~6–7-day buffer** under the cap (a delayed flight won't tip you into an overstay).
 
-1. **Burn ~90 Schengen days** Aug 22 → ~mid-Nov across the whole fall arc (Nordics → Baltics → Slovenia → Croatia → Italy are *all* Schengen). ~79 nights leaves a ~10-day buffer to the limit — don't overshoot.
-2. **Fly home** from Italy for winter while the rolling clock unwinds.
-3. **Spring return — timing matters:** leaving is *not* an instant reset. After a maxed fall, a *full* fresh 90 isn't available until **~mid-May** (Feb/Mar ≈ 0–25 days; Apr ≈ 40–55). → Return ~May, or spend early spring **non-Schengen** (UK/Ireland, Morocco, Turkey) and enter later. *(Corrects an earlier "fresh 90 in Feb" note — see §8.)*
+- **Balkans = the relief valve, deferred:** the western Balkans (Bosnia, Montenegro, Albania, N. Macedonia, Kosovo) are **non-Schengen — they don't burn your 90 days.** Saving them for a future trip keeps this fall clean; they could also be spliced in *another time* to pause the clock.
+- **No mid-trip reset within this trip:** the whole thing spans <180 days, so a short non-Schengen break wouldn't add Schengen days here — the 90 cap is absolute for *this* window.
+- **The play:** ≤90 days Aug 22 → ~mid-Nov, **fly home from Italy**; a spring return needs a **~mid-May** date for a full fresh 90 (Feb/Mar ≈ 0–25 days) — see §8.
 
-*2025 note:* Bulgaria/Romania now full Schengen; Croatia/Slovenia/Italy are Schengen. Non-Schengen belt = W. Balkans + Turkey/Georgia, UK/Ireland.
+*Non-Schengen belt (for reference): W. Balkans, Turkey/Georgia, UK/Ireland, Morocco.*
 
 ---
 
 ## 3. Already visited — route around these
 
-From the 2023 sabbatical (blog.buyuchen.org): **Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey**; brief France (Christmas 2023). The plan routes *around* this corridor; the "go back to the Balkans" wish is met by the **western** Balkans / Croatia. *(Italy = fresh.)*
+2023 sabbatical (blog.buyuchen.org): **Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey**; brief France (Christmas 2023). Route *around* it; the western Balkans/Croatia + Italy are fresh.
 
 ---
 
 ## 4. Fall hubs — what to do & why each length
 
-Day-accounting = city days + day-trips + slow days. Snappier than before, but still slow-travel (some days deliberately unscheduled).
+### Copenhagen — 3n *(NEW · entry point)*
+Nyhavn, Tivoli, Rosenborg, Christiania, the food scene, **Louisiana** modern-art museum (coast); cycle everywhere. **Day-trip to Malmö/Lund** (35 min across the Øresund bridge — Turning Torso + a charming university town). *Land here instead of Oslo — ≈ same airfare, a whole extra capital.*
+
+### Gothenburg — 2n *(NEW)*
+Sweden's laid-back 2nd city: Haga (fika + wooden houses), fish market (Feskekôrka), the southern archipelago by tram + ferry. On the CPH→Oslo line, so ~free to include.
 
 ### Oslo — 3n
-Opera roof, Akershus, National Museum (*The Scream*), Vigeland, Munch, Grünerløkka; Bygdøy museums by ferry (Fram, Kon-Tiki). *2 city + nature/half-day + jet-lag buffer.*
+Opera roof, Akershus, National Museum (*The Scream*), Vigeland, Munch, Grünerløkka; Bygdøy museums by ferry (Fram, Kon-Tiki).
+
+### Stavanger + Preikestolen — 3n *(NEW · the iconic hike)* ⭐
+Gamle Stavanger (old wooden town) + street art; **Preikestolen / Pulpit Rock** (8 km / 4–5 h, huge payoff over Lysefjord), optional Lysefjord cruise. *Late-Aug = last of the good hiking window.*
 
 ### Bergen + fjords — 6n
-Bryggen, Fløibanen up Mt Fløyen (ridge hike to Ulriken), KODE, Fish Market; **DIY Norway-in-a-Nutshell** (Bergen Railway → Flåm Railway → Nærøyfjord cruise → Stegastein); Aurlandsdalen hike. *2 city + 3 fjord/hiking + 1 rain buffer. Late-Aug = end of some boat-tour season; pack rain; check Flåm cruise schedule.*
+Bryggen, Fløibanen up Mt Fløyen (ridge hike to Ulriken), KODE, Fish Market; **DIY Norway-in-a-Nutshell** (Bergen Railway → Flåm Railway → Nærøyfjord cruise → Stegastein); Aurlandsdalen hike. *Pack rain; check the Flåm cruise schedule.*
 
 ### Stockholm — 5n
-Gamla Stan + Royal Palace, Vasa Museum, Djurgården (Skansen, ABBA), Södermalm/Fotografiska, Skogskyrkogården; archipelago ferry (Vaxholm); Tyresta NP hike. *3 city + 1 archipelago + 1 nature.*
+Gamla Stan + Royal Palace, Vasa Museum, Djurgården (Skansen, ABBA), Södermalm/Fotografiska, Skogskyrkogården; archipelago ferry (Vaxholm); Tyresta NP hike.
+
+### Gotland / Visby — 3n *(NEW · side-trip)*
+Ferry from Nynäshamn to **Visby** — an intact medieval walled Hanseatic town (UNESCO); the island's dramatic *rauk* sea-stacks, cliffs, and cycling. *(Late-Aug is the tail of its season — verify ferry frequency.)*
+
+### Helsinki — 2n *(NEW · 4th Nordic capital)*
+Design District, Temppeliaukio (rock church), Market Square, Oodi library, Suomenlinna sea fortress; Nuuksio NP nearby. Arrive on the **Stockholm→Helsinki overnight ferry**, leave on the 2-h Helsinki→Tallinn ferry.
 
 ### Tallinn — 3n
-UNESCO Old Town, Telliskivi + Balti Jaam market, Kadriorg + KUMU, Seaplane Harbour; opt. Lahemaa NP day.
+UNESCO Old Town, Telliskivi + Balti Jaam market, Kadriorg + KUMU, Seaplane Harbour; opt. Lahemaa NP.
 
-### Riga — 10n (base) *(trimmed from 15)*
-- **City:** Old Town, Art Nouveau district + museum, Central Market, Latvian National Art Museum, Corner House (KGB), Miera iela, Ethnographic Open-Air Museum.
-- **Day trips:** Sigulda + Gauja NP (Turaida, cable car) · Ķemeri Bog boardwalk · Jūrmala beach · Rundāle Palace.
-- *4 city + 3–4 day-trips + 2–3 slow = 10.*
+### Riga — 10n (base)
+Old Town, Art Nouveau district + museum, Central Market, Corner House (KGB), Miera iela; day trips: **Sigulda + Gauja NP**, Ķemeri Bog, Jūrmala, Rundāle Palace. *4 city + 3–4 day-trips + 2–3 slow.*
 
 ### Vilnius — 3n
-Baroque Old Town (Cathedral, Gediminas Tower, Gate of Dawn, St Anne's), Užupis, MO Museum; Trakai island castle day trip → fly to Ljubljana.
+Baroque Old Town, Užupis, MO Museum; Trakai island castle → fly to Ljubljana.
 
-### Slovenia (Ljubljana + Julian Alps) — 7n *(trimmed; now late Sept = alpine still OK)*
-Ljubljana (Castle funicular, Plečnik bridges, Metelkova); **Lake Bled** (island church, Vintgar Gorge, Ojstrica hike), **Lake Bohinj + Vogel** cable car, **Soča Valley**; Škocjan/Postojna Caves; Piran on the coast. *2–3 city + 3–4 day-hikes + caves/Piran.*
+### Slovenia — 7n
+Ljubljana (Castle funicular, Plečnik bridges, Metelkova); **Lake Bled**, **Lake Bohinj + Vogel**, **Vintgar Gorge**, **Soča Valley**; Postojna/Škocjan Caves; Piran.
 
-### Croatia (Zagreb → Split → Dubrovnik) — ~13n *(now October = shoulder, more open)*
-- **Zagreb (~2d):** Upper Town, Dolac market, Museum of Broken Relationships.
-- **Plitvice Lakes NP** en route south.
-- **Split (~5d):** Diocletian's Palace, Marjan Hill hike, Klis Fortress; day trips to **Krka NP**, **Trogir**, **Hvar/Brač** (Split ferries run year-round).
-- **Dubrovnik (~3d):** city walls, Srđ cable car, Lokrum. *(Shoulder-Oct still lively; then fly Dubrovnik→Venice to start Italy.)*
+### Croatia (Zagreb → Split → Dubrovnik) — 13n
+Zagreb (Upper Town, Dolac); **Plitvice**; Split (Diocletian's Palace, Marjan hike, **Krka**/Trogir/**Hvar** day trips — Split ferries run year-round); Dubrovnik (walls, Srđ, Lokrum). *Then fly Dubrovnik→Venice.*
 
-### Italy (Venice → Rome → Naples/Amalfi) — ~28n · the warm finale ⭐ NEW
-- **Venice (3):** San Marco, Dorsoduro, Murano/Burano; day to Verona/Padua.
-- **Cinque Terre (2):** the coastal village hike (Sentiero Azzurro), Vernazza/Monterosso.
-- **Florence + Tuscany (4):** Uffizi, Duomo, Accademia (*David*); day to Siena/San Gimignano.
+### Italy (Venice → Naples/Amalfi) — ~20n · the warm finale ⭐
+- **Venice (3):** San Marco, Dorsoduro, Murano/Burano.
+- **Cinque Terre (2):** the coastal village hike.
+- **Florence + Tuscany (3–4):** Uffizi, Duomo, *David*; Siena day.
 - **Rome (5):** Colosseum/Forum, Vatican, Trastevere, Borghese.
-- **Naples + Amalfi/Pompeii (~5–6):** Naples (pizza, archaeological museum), **Pompeii/Herculaneum**, **Vesuvius** hike, **Amalfi Coast** (Positano, Ravello, Path of the Gods), Capri. Warm through early Nov.
-- ✈ **home from Naples (NAP) or Rome (FCO).** *Stretch to mid/late Nov by adding Puglia or Sicily — still ≤90 Schengen days.*
+- **Naples + Amalfi/Pompeii (~5):** Naples, **Pompeii/Herculaneum**, **Vesuvius**, **Amalfi Coast** (Positano, Path of the Gods), Capri.
+- ✈ **home from Naples (NAP) or Rome (FCO).** *Trimmed to ~20n to hold the Schengen buffer — snappier, but still Venice→Amalfi.*
 
 ---
 
 ## 5. Winter & spring (provisional)
-*Not committed — you'd rather chase warmth and haven't fixed a Europe winter.*
-
-**Winter — current lean: fly home to the US** from Italy. Southern Italy in early Nov is your warm send-off; then home for the holidays while the rolling Schengen clock unwinds.
-
-**Spring leg (provisional):** since **Italy is now done in the fall**, a spring return would target the *other* warm south — **Iberia (Portugal/Spain), southern France, Greek islands, Sicily**. Per §2, a full 90 needs a **~May** return (April = shorter; or non-Schengen first).
-
-*(Warm non-Schengen winter alternatives — Morocco / Turkey coast — and the western-Balkans option still exist if you'd rather not go home; ask and I'll re-expand them.)*
+**Winter — fly home to the US** from Italy (warm send-off, then home for the holidays while the rolling clock unwinds). *The warm non-Schengen winter alternatives — Morocco/Turkey — remain if you'd rather not go home.*
+**Balkans — deferred to a future trip.** The western Balkans are **non-Schengen**, so they don't compete with this trip's 90 days and can be added flexibly *any time* — their own trip, or spliced into a future European stint to pause the clock. Not part of this fall.
+**Spring (provisional):** with Italy now in the fall, a spring return targets **Iberia (Portugal/Spain), southern France, Greek islands, Sicily** — and per §2/§8 needs a **~May** return for a full 90 (April = shorter; or non-Schengen first).
 
 ---
 
 ## 6. Costs (fall leg)
 
-**Bottom line:** ~**$12–13k** for the ~11-week fall — up from the earlier ~$10–11k because it's ~2 weeks longer *and* Italy is pricier than the Balkans. ~**$150/day on the ground** blended (Italy pulls it up). *Nordic/Baltic/Slovenia/Croatia numbers are live-confirmed; **Italy is a reasoned estimate pending Booking confirmation** (next step).*
+**Bottom line:** ~**$14k** for the ~12-week fall — up because it front-loads more expensive Nordic capitals (Copenhagen/Gothenburg/Stavanger/Helsinki). ~**$155/day** blended. *Nordic-new stops + Italy are reasoned estimates pending Booking confirmation.*
 
-### On-the-ground (lodging + food + local transport + activities)
-| Region | Nights | Lodging/nt | All-in/day | Subtotal |
-|---|---|---|---|---|
-| Oslo | 3 | ~$110 | ~$185 | ~$555 |
-| Bergen + fjords | 6 | ~$110 | ~$210 | ~$1,260 |
-| Stockholm | 5 | ~$105 | ~$175 | ~$875 |
-| Baltics (Riga base) | 16 | ~$50 | ~$92 | ~$1,470 |
-| Slovenia | 7 | ~$70 | ~$120 | ~$840 |
-| Croatia | 13 | ~$60 | ~$120 | ~$1,560 |
-| **Italy** *(est.)* | 28 | ~$95 | ~$155 | ~$4,340 |
-| **On-the-ground** | **78** | — | **~$150** | **~$10,900** |
+### On-the-ground (rough)
+| Region | Nights | ~All-in/day | Subtotal |
+|---|---|---|---|
+| Copenhagen (+Malmö day) | 3 | $180 | ~$540 |
+| Gothenburg | 2 | $160 | ~$320 |
+| Oslo | 3 | $185 | ~$555 |
+| Stavanger + Preikestolen | 3 | $185 | ~$555 |
+| Bergen + fjords | 6 | $210 | ~$1,260 |
+| Stockholm | 5 | $175 | ~$875 |
+| Gotland | 3 | $150 | ~$450 |
+| Helsinki | 2 | $160 | ~$320 |
+| Baltics (Riga base) | 16 | $92 | ~$1,470 |
+| Slovenia | 7 | $120 | ~$840 |
+| Croatia | 13 | $120 | ~$1,560 |
+| Italy | 20 | $155 | ~$3,100 |
+| **On-the-ground** | **83** | **~$155** | **~$12,300** |
 
-### Transport (one-way, ~1 mo ahead)
-| Leg | Cost | Note |
-|---|---|---|
-| SEA → Oslo | ~$210 | 1-stop; **points candidate** |
-| Oslo → Bergen | ~$31 | Vy minipris floor |
-| Bergen → Stockholm | ~$75 | nonstop |
-| Stockholm → Tallinn | ~$145 | overnight ferry (cabin compulsory; = a night's lodging) |
-| Tallinn → Riga / Riga → Vilnius | ~$13 / ~$10 | Lux Express bus |
-| Vilnius → Ljubljana | ~$90 | 1-stop (no direct) |
-| Ljubljana → Zagreb → Split → Dubrovnik | ~$13 / $15 / $17 | buses |
-| Dubrovnik → Venice | ~$80 *(est.)* | short flight to enter Italy from the north |
-| Italy internal (Venice→…→Naples) | ~$180 *(est.)* | Frecciarossa/Italo trains booked ahead |
-| **Naples/Rome → Seattle (home)** | **~$700** | one-way transatlantic — **top points redemption** (Rome better-connected than Dubrovnik) |
+### Transport (headline)
+Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** SEA→Copenhagen ~$230 + Naples/Rome→SEA **~$700** (top points redemption). *Transport all-in ≈ **$2,000**.*
 
-*Inter-hub ≈ **$670**; two transatlantics ~$210 + ~$700; plus the DIY fjord loop ~**$181**.*
+**⇒ Fall total ≈ $14k** (on-ground ~$12.3k + transport ~$2k). *Levers: trim Italy a week (−~$1k), weight nights toward cheaper south Italy / Baltics, home flight on points.*
 
-### Headline sights (per-person)
-Nordics/Baltics/Slovenia/Croatia confirmed (Oslo Pass 48h ~$88 · Bergen funiculars ~$37 · Vasa/Skansen ~$25 ea · KUMU/Seaplane ~$18/$23 · Sigulda+Turaida+Rundāle ~$45 · Bled/Vintgar/Vogel/Postojna ~$120 cluster · **Croatia in Oct = shoulder** ~€20–25 Plitvice, ~€20 Krka, ~€30 Dubrovnik walls). **Italy *(est.)*:** Colosseum+Forum+Palatine ~$20, Vatican ~$25, Uffizi ~$27, Accademia ~$16, Pompeii ~$20, Doge's Palace ~$32 → a full Italy sights run ~**$180–250**. *Whole-fall sightseeing ≈ **$650–750**.*
+### Sightseeing
+Confirmed for the earlier stops (~$450–500 cluster); **new *(est.)*:** Copenhagen (Louisiana ~$20, Tivoli ~$22), Preikestolen (free hike; shuttle ~$40 rt), Gotland (Visby free-ish), Helsinki (Suomenlinna free, museums ~$20), Italy (~$180–250). *Whole-fall sightseeing ≈ **$750–900**.*
 
 ### Points vs. cash
-Cash baseline = Google Flights; redeem only ≥1.3–1.5¢/pt. Cash the cheap legs (SEA→Oslo, Bergen→Stockholm); **cross-check the ~$700 home flight and any Norway hotel nights for points.** *(Needs your balances.)*
-
-### Levers
-Dorms in Norway (−~$360) · trim Italy by a week (−~$1,000) · home flight on points (biggest single saver) · Naples/south is much cheaper than Venice/Rome — weight nights southward.
+Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights for points** (needs your balances). Copenhagen and the extra Nordic nights make **hotel points** more valuable now.
 
 ---
 
 ## 7. Lodging
 
-**Principle:** *base* where rents are low + it's a day-trip hub (Riga); *move* (2–5 nts) elsewhere. Italy = mostly move (cities), optionally a Rome or Florence mini-base.
-
-**Selection criteria:** review **>8**, **high review count** (no low-sample outliers), **central**, social hostels welcome; quote **typical/average** cost, not cheapest.
+**Selection criteria:** review **>8**, **high review count**, **central**, social hostels welcome; **typical/average** cost, not cheapest.
 
 **Confirmed base picks (Booking, live):**
-- **Riga** — 🏠 **Aparthotel Amella** (9.3, 3,182 rev, ~$62) ⭐ · Hotel Gutenbergs (8.5, 2,897 rev, ~$82) · 🛌 Blue Bird Hostel (8.6, 3,314 rev, ~$19 dorm). *Typical central ~$70/nt.*
-- **Ljubljana** — 🏠 **OH Apartments & Rooms** (9.2, 1,945 rev, ~$73) ⭐ · City Hotel (9.1, 11,374 rev, ~$169) · 🛌 H2O Hostel (8.2, 1,294 rev, ~$20). *~$75–90/nt.*
-- **Split** — 🏠 **ToMaDi Residence** (9.2, 498 rev, ~$50) ⭐ · Apartments Centrum (9.0, ~$46) · 🏨 Hotel Ambasador (9.6, 1,915 rev, ~$136). *~$55–70/nt.*
-- Nordics: use **dorms/hostel-privates** (Oslo Citybox $39, Bergen HI Montana $28, Stockholm City Backpackers $10).
+- **Riga** — **Aparthotel Amella** (9.3, 3,182 rev, ~$62) ⭐ · Hotel Gutenbergs (8.5, 2,897 rev, ~$82) · Blue Bird Hostel (8.6, 3,314 rev, ~$19).
+- **Ljubljana** — **OH Apartments** (9.2, 1,945 rev, ~$73) ⭐ · H2O Hostel (8.2, 1,294 rev, ~$20).
+- **Split** — **ToMaDi Residence** (9.2, 498 rev, ~$50) ⭐ · Hotel Ambasador (9.6, 1,915 rev, ~$136).
+- Norway/Nordics: use **dorms/hostel-privates** where they beat hotels.
 
-**⏳ Italy — to confirm next** (same criteria via Booking). Reasoned bands: Venice ~$120–160, Cinque Terre ~$110–150, Florence ~$90–130, Rome ~$90–130, Naples ~$60–90, Amalfi towns ~$100–150. *Weight nights toward Naples/south for value + warmth.*
+**⏳ To confirm (same criteria via Booking):** Copenhagen, Gothenburg, Stavanger, Gotland, Helsinki, and the Italy cities (Venice/Florence/Rome/Naples). Reasoned bands: Copenhagen ~$120–170, Gothenburg ~$90–130, Stavanger ~$110–150, Gotland ~$100–140, Helsinki ~$110–150; Italy: Venice ~$120–160, Florence/Rome ~$90–130, Naples ~$60–90.
 
 ---
 
 ## 8. Community cross-check & revisions
-*(Reddit + Rick Steves/Tripadvisor + blogs, Jul 2026)*
+*(Reddit + forums + blogs, Jul 2026)*
 
-1. ⚠️ **Schengen spring re-entry** — leaving is *not* an instant reset (rolling 180-day window; [happytowander](https://happytowander.com/schengen-area-90-180-rule/), [Citizen Remote](https://citizenremote.com/blog/the-ultimate-guide-to-the-schengen-zone-in-2025/)). Full fresh 90 only ~mid-May. **→ May return, or non-Schengen early spring.**
-2. **Julian Alps** ([Moon & Honey](https://www.moonhoneytravel.com/october-in-slovenia/)) — high huts/Triglav summit close mid-Sept. **Now largely mitigated:** the faster pace pulls Slovenia into **late September**, so the higher routes are more feasible; day-hikes (Bled/Bohinj/Vogel/Soča) work either way.
-3. **Croatia** ([Helena Bradbury](https://www.helenabradbury.com/blog-1/visiting-croatia-in-november)) — **now October = shoulder**, so more open + better ferries than the old Nov timing (another win from re-routing). Split ferries run year-round regardless.
-4. **Norway late Aug** ([Heart My Backpack](https://www.heartmybackpack.com/norway/nutshell-tour-diy-review/)) — end of some fjord-activity season; pack rain; check Flåm cruise schedule; DIY cheaper.
-5. **Italy in late Oct/early Nov** — mild in the south (Naples ~18 °C); **Amalfi/Cinque Terre wind down** (ferries/some trails reduce late Nov) so do the coast earlier in the Italy leg; cities (Rome/Florence/Venice) are all-season and *less* crowded off-peak.
-
-**Net:** the re-route improved the seasonal fit (Slovenia earlier, Croatia in shoulder) and added a warm Italy finish; the only standing caveat is spring Schengen timing.
+1. ⚠️ **Schengen** — leaving isn't an instant reset (rolling 180-day window; [happytowander](https://happytowander.com/schengen-area-90-180-rule/), [Citizen Remote](https://citizenremote.com/blog/the-ultimate-guide-to-the-schengen-zone-in-2025/)). Full fresh 90 only ~mid-May. **This fall now runs at the cap — build slack.**
+2. **Norway iconic hikes** ([Fjord Norway](https://www.fjordnorway.com/en/inspiration/iconic-hikes), [kimkim](https://www.kimkim.com/ab/getting-to-trolltunga)) — **Preikestolen now added**; late-Aug is the last good window (trailhead shuttles ~mid-Jun–mid-Sep). Trolltunga remains an option (bigger day, from Odda).
+3. **Nordic capitals** ([Rick Steves forum](https://community.ricksteves.com/travel-forum/general-europe/scandinavia-norway-denmark-sweden-helsinki-talinn)) — Copenhagen is the most-loved Scandi city; Helsinki + Gotland round out the set. **Now all added.**
+4. **Julian Alps / Croatia** ([Moon & Honey](https://www.moonhoneytravel.com/october-in-slovenia/), [Helena Bradbury](https://www.helenabradbury.com/blog-1/visiting-croatia-in-november)) — Slovenia lands ~early Oct (day-hikes solid; high huts marginal), Croatia mid-Oct (shoulder, open). Split ferries year-round.
+5. **Italy late Oct/Nov** — mild in the south; do Amalfi/Cinque Terre earlier in the Italy leg (coastal services wind down late Nov); Rome/Florence/Venice all-season & less crowded.
+6. **Pacing & Balkans** — common advice is ≥2–3 days/capital (this plan meets it; Gothenburg/Helsinki at 2 is the accepted minimum). **Gotland** is worth it but a genuine detour ([Rick Steves](https://community.ricksteves.com/travel-forum/sweden/visby-and-gotland)) — the first stop to drop for more slack. The **western Balkans are non-Schengen**, so they're deferred to a future trip at zero Schengen cost.
 
 ---
 
 ## 9. Open items / decisions
 
-- [ ] **Confirm Italy lodging + sights via Booking** (same review>8/high-count/central method) — the one unconfirmed block.
-- [ ] Confirm SEA→Oslo routing + book one-way (~$200–230).
-- [x] Baltic base = **Riga** (now 10n; Tallinn 3n + Vilnius 3n).
-- [ ] Send **points/miles + hotel balances** → price SEA→Oslo entry + the ~$700 Naples/Rome→SEA home flight.
-- [ ] Decide exact Italy pace / whether to stretch to Puglia/Sicily (into mid/late Nov, still ≤90 days).
-- [ ] Reserve Norway dorms/hostel-privates ahead (late-Aug = peak).
-- [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece now the spring target, since Italy moved to fall).
+- [x] **Schengen slack built** — Italy trimmed to ~20n → ~6–7-day buffer. **Gotland** is the next swing stop if you want even more slack / less hopping.
+- [ ] **Confirm lodging via Booking** for the new stops (Copenhagen, Gothenburg, Stavanger, Gotland, Helsinki) + Italy.
+- [ ] Confirm SEA→**Copenhagen** entry fare + book one-way; CPH→Gothenburg→Oslo rail.
+- [x] Baltic base = **Riga** (10n).
+- [ ] Send **points/miles + hotel balances** → price entry + the ~$700 Naples/Rome→SEA home flight + Nordic hotel nights.
+- [ ] Reserve Norway/Nordic beds early (late-Aug peak; Preikestolen-area lodging books up).
+- [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece the spring target).
 
 ---
 
 ## Appendix — data sources & method
 
-**Verification (Jul 2026):** ✅ Hostel tier at all Nordic/Baltic/Slovenia/Croatia stops (Hostelworld). ✅ Apartment tier via **Booking.com** (in-browser) for exact dates: Riga ~$70 central, Oslo $59–127, Ljubljana ~$75–90, Split ~$55–70; + HousingAnywhere monthly + Kayak nightly. ✅ Transport + sights confirmed vs operators/official sites. ⏳ **Italy not yet Booking-confirmed** (reasoned estimates).
+**Verified (Jul 2026):** hostel tier (Hostelworld) + apartment tier via **Booking.com** in-browser for Riga/Oslo/Ljubljana/Split; HousingAnywhere + Kayak; transport + sights vs operators. ⏳ **New Scandinavia stops + Italy not yet Booking-confirmed.**
 
-**Re-query lodging without a browser:** Hostelworld `/hostels/europe/<country>/<city>/` · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` · Kayak `/<City>-Vacation-Rentals.<id>.rental.ksp`. **Booking.com & Airbnb are bot-walled** to a plain fetch (Booking → HTTP 202 stub) → need the **Playwright browser** DOM-read; no travel MCP is connected.
+**Re-query lodging without a browser:** Hostelworld `/hostels/europe/<country>/<city>/` · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` · Kayak vacation-rentals. **Booking.com/Airbnb bot-walled** (HTTP 202) → need the Playwright browser DOM-read; no travel MCP connected.
 
 **Artifact:** `~/sabbatical/itinerary.md`, mirrored to **github.com/YellowViking/sabbatical-2026** (+ `RESUME.md`).

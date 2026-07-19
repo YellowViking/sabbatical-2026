@@ -20,14 +20,14 @@ Fall leg fully specified and costed. Winter = fly home from Italy (leaning). Spr
 Burn ~90 Schengen days late-Aug→mid-Nov on a fresh NW→SE arc; exit ~mid-Nov (currently: **fly home for winter**, which fully resets the clock); re-enter fresh in spring for the warm Schengen south (Iberia/Italy/Greece). Note: Bulgaria/Romania are now full Schengen; Croatia/Slovenia are Schengen.
 
 ## Final FALL route
-Oslo 3n → Bergen 6n → Stockholm 5n → ⛴ ferry → **Baltics: Tallinn 3n → Riga 10n (base) → Vilnius 3n** → ✈ Ljubljana ~7n (late-Sept, alps-light) → Croatia ~13n (Zagreb, Plitvice, Split, Dubrovnik; Oct) → **Italy ~4wk (Venice → Cinque Terre → Florence → Rome → Naples/Amalfi)** → ✈ Seattle from Naples/Rome ~early/mid-Nov. All one ~90-day Schengen stint (~79 nights).
+Copenhagen 3n (land here) → Gothenburg 2n → Oslo 3n → **Stavanger/Preikestolen 3n** → Bergen 6n → Stockholm 5n → Gotland 3n → Helsinki 2n → ⛴ Tallinn 3n → **Riga 10n (base)** → Vilnius 3n → Ljubljana 7n → Croatia 13n (Oct) → **Italy ~20n (Venice→Cinque Terre→Florence→Rome→Naples/Amalfi)** → ✈ Seattle from Naples/Rome ~mid-Nov. All one ~90-day Schengen stint (~83 nights, ~6–7 day buffer). Balkans deferred (non-Schengen → future trip).
 - Baltic base = **Riga** (judge-panel pick: cheapest for the multi-week base + best culture/car-free hiking; Tallinn's nomad-infra edge is moot on a sabbatical).
 
 ## Already visited — DO NOT re-route through (from blog.buyuchen.org, 2023 sabbatical)
 Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey; brief France (Christmas 2023). Route AROUND these. The "go back to the Balkans" wish = the **western** Balkans, which were missed.
 
 ## Cost (fall leg)
-~$12–13k for the ~11-week fall (Italy added — ~2wk longer + pricier than the Balkans; Italy lodging/sights still to Booking-confirm). ~$120/day on the ground — comfortable band.
+~$14k for the ~12-week fall (expanded Scandinavia: all 4 Nordic capitals + Preikestolen + Gotland; ~83 nights all-Schengen; new-Scandinavia + Italy lodging still to Booking-confirm). ~$120/day on the ground — comfortable band.
 
 ## Open items
 - [ ] Get user's points/miles + hotel balances → price SEA→Oslo entry and the **mid-Nov home flight** as cash-vs-points (home flight is the best redemption candidate).
