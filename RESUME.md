@@ -27,7 +27,7 @@ Copenhagen 3n (land here) → Gothenburg 2n → Oslo 3n → **Stavanger/Preikest
 Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey; brief France (Christmas 2023). Route AROUND these. The "go back to the Balkans" wish = the **western** Balkans, which were missed.
 
 ## Cost (fall leg)
-~$14k for the ~12-week fall (expanded Scandinavia: all 4 Nordic capitals + Preikestolen + Gotland; ~83 nights all-Schengen; new-Scandinavia + Italy lodging still to Booking-confirm). ~$120/day on the ground — comfortable band.
+~$14k for the ~12-week fall (expanded Scandinavia: all 4 Nordic capitals + Preikestolen + Gotland; ~83 nights all-Schengen; ALL fall lodging now Booking-confirmed + neighborhood-vetted). ~$120/day on the ground — comfortable band.
 
 ## Open items
 - [ ] Get user's points/miles + hotel balances → price SEA→Oslo entry and the **mid-Nov home flight** as cash-vs-points (home flight is the best redemption candidate).

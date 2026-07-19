@@ -2,7 +2,7 @@
 
 **Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow-ish travel (snappy per-stop), comfortable budget · **Threads** cities & culture + nature/hiking throughout.
 
-**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights (~6–7-day buffer** — Italy trimmed for slack; see §2). Nordic/Baltic/Slovenia/Croatia base lodging Booking-confirmed; **new Scandinavia stops + Italy still to confirm.** Winter = fly home; **Balkans deferred to a future trip** (non-Schengen → no rush). Spring = provisional (§5).
+**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights (~6–7-day buffer** — Italy trimmed for slack; see §2). **all fall-stop lodging now Booking-confirmed + neighborhood-vetted** (§7). Winter = fly home; **Balkans deferred to a future trip** (non-Schengen → no rush). Spring = provisional (§5).
 
 **Route in one line:** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland) → Helsinki → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
@@ -155,7 +155,22 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 - **Split** — **ToMaDi Residence** (9.2, 498 rev, ~$50) ⭐ · Hotel Ambasador (9.6, 1,915 rev, ~$136).
 - Norway/Nordics: use **dorms/hostel-privates** where they beat hotels.
 
-**⏳ To confirm (same criteria via Booking):** Copenhagen, Gothenburg, Stavanger, Gotland, Helsinki, and the Italy cities (Venice/Florence/Rome/Naples). Reasoned bands: Copenhagen ~$120–170, Gothenburg ~$90–130, Stavanger ~$110–150, Gotland ~$100–140, Helsinki ~$110–150; Italy: Venice ~$120–160, Florence/Rome ~$90–130, Naples ~$60–90.
+**✅ New-stop picks (Booking live + neighborhood-vetted, Jul 2026)** — review >8, high count, central; ⭐ = best value; each with the right area + what to avoid:
+
+*Scandinavia*
+- **Copenhagen** (Indre By / W-Vesterbro; ⚠ avoid Istedgade red-light behind Central Station) — 🛌 **Next House** (8.6, 40k rev, ~$42) ⭐ social/value, Tivoli side · citizenM Rådhuspladsen (8.6, ~$185) most central · CityHub (9.3, ~$135, W-Vesterbro, 1.4mi).
+- **Gothenburg** (Inom Vallgraven core) — 🏨 **Hotel Royal** (9.1, 4.5k, ~$166) ⭐ most central · Hotell Heden (8.2, 7.8k, ~$110) value. ⚠ *Skip Waterfront Cabins — it's across the river, not walkable.*
+- **Stavanger** (Vågen harbour / sentrum) — **Central Guest House** (9.0, ~$80) ⭐ value · Home Hotel Skagen Brygge (8.8, ~$183, Lysefjord ferry at the door) · Hotel Victoria (8.9, ~$208).
+- **Visby / Gotland** (inside the ring wall) — **Visby Logi** (8.6, ~$69) ⭐ social/central · Hotel Helgeand (9.3, ~$155, medieval, best-rated) · Hotell Visby Börs (8.4, ~$88).
+- **Helsinki** (Kamppi / Kallio) — **Citybox** (9.1, 10.5k, ~$135) ⭐ social/value · Scandic Helsinki Hub (9.0, ~$214) most central · Töölö Towers (8.5, ~$95) quiet.
+
+*Italy* — ⚠ avoid the station belts (**Roma Termini/Esquilino, Napoli Garibaldi, Florence SMN**); in **Venice stay on the island**, not Mestre:
+- **Venice** (Castello/Cannaregio) — **Foresteria Valdese** (8.3, 2.8k, ~$98) ⭐ value, historic palazzo · San Lio Tourist House (8.7, ~$162) lived-in Castello.
+- **Florence** (Santa Croce / Duomo) — **Hotel Bavaria** (8.8, ~$63) ⭐ 2 min to Duomo · Hotel Dali (8.8, ~$87) quiet-central · Archi Rossi hostel (9.0, ~$26 dorm — social, but by SMN, mind valuables).
+- **Rome** (Centro Storico / Monti / Trastevere) — **Villa Riari Garden** (9.0, 3k, ~$58) ⭐⭐ Trastevere value · Hotel Primavera (9.0, ~$98) between Navona & Campo de' Fiori · Roman Residence (9.1, ~$83) Monti.
+- **Naples** (Via Toledo / San Ferdinando; Chiaia for quiet) — **Ponte di Tappia** (9.1, ~$69) ⭐ central+value · Napoliamo (9.8, 1.2k, ~$80) top-rated · Relais Della Porta (9.1, 3.2k, ~$126) Via Toledo.
+
+*Confirmed central averages: Copenhagen ~$150–190 (Next House hostel $42) · Gothenburg ~$145 · Stavanger ~$141 · Visby ~$111 · Helsinki ~$162 · Venice ~$194 · Florence ~$122 · Rome ~$101 · **Naples ~$75 (cheapest)**.*
 
 ---
 
@@ -174,7 +189,7 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 ## 9. Open items / decisions
 
 - [x] **Schengen slack built** — Italy trimmed to ~20n → ~6–7-day buffer. **Gotland** is the next swing stop if you want even more slack / less hopping.
-- [ ] **Confirm lodging via Booking** for the new stops (Copenhagen, Gothenburg, Stavanger, Gotland, Helsinki) + Italy.
+- [x] **All fall lodging Booking-confirmed + neighborhood-vetted** (Copenhagen → Naples) — see §7.
 - [ ] Confirm SEA→**Copenhagen** entry fare + book one-way; CPH→Gothenburg→Oslo rail.
 - [x] Baltic base = **Riga** (10n).
 - [ ] Send **points/miles + hotel balances** → price entry + the ~$700 Naples/Rome→SEA home flight + Nordic hotel nights.
@@ -185,7 +200,7 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 
 ## Appendix — data sources & method
 
-**Verified (Jul 2026):** hostel tier (Hostelworld) + apartment tier via **Booking.com** in-browser for Riga/Oslo/Ljubljana/Split; HousingAnywhere + Kayak; transport + sights vs operators. ⏳ **New Scandinavia stops + Italy not yet Booking-confirmed.**
+**Verified (Jul 2026):** hostel tier (Hostelworld) + apartment tier via **Booking.com** in-browser for Riga/Oslo/Ljubljana/Split; HousingAnywhere + Kayak; transport + sights vs operators. ✅ **All new Scandinavia stops + Italy now Booking-confirmed** (in-browser) + **neighborhood-validated** (9-agent web-research pass — flagged e.g. Gothenburg's across-river "Waterfront Cabins", Rome-Termini / Napoli-Garibaldi station belts, Venice-vs-Mestre).
 
 **Re-query lodging without a browser:** Hostelworld `/hostels/europe/<country>/<city>/` · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` · Kayak vacation-rentals. **Booking.com/Airbnb bot-walled** (HTTP 202) → need the Playwright browser DOM-read; no travel MCP connected.
 
