@@ -214,8 +214,8 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 - **SEA→Copenhagen** one-way (Icelandair/SAS/Norse) — peak-summer, prices only rise now; price it **open-jaw with the home flight**.
 - **Vilnius→Ljubljana** — ⚠ **no nonstop**; it's a *connecting* flight (via Warsaw/Riga/Vienna on LOT/airBaltic/Austrian). Limited seats → book now, budget more time.
 - **Destination Gotland ferry** (destinationgotland.se) — late-Aug sailings sell out; foot passenger is easier.
-- ⚠ **Dubrovnik→Venice** — thin/seasonal; **verify a nonstop still runs on your date**, else book a connection (via Vienna/Rome) or a coastal alternative.
-- **Home flight Naples/Rome→SEA (~mid-Nov)** — shoulder season, less urgent, but lock the open-jaw now if the fare's good (sweet spot ~8–12 wks out).
+- ⚠ **Dubrovnik→Venice — CONFIRMED no nonstop** (~13/day, all connecting via Vienna/Munich/Athens, ~$175–475 o/w, ~5.75h). Book the connection, or skip the air-hop and ferry **Split→Ancona** into Italy instead.
+- **Home flight Rome→SEA (~mid-Nov)** — **verified ~$400–600 o/w** (Nov is cheap; Alaska/Delta), *below* the $700 placeholder. Shoulder season so less urgent, but lock the open-jaw with the outbound if the fare's good.
 
 ### 📅 By early August
 - **Tallink overnight Stockholm→Helsinki** (tallink.com) — book the cheap **cabin** class (sells out in summer).
