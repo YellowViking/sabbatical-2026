@@ -56,7 +56,8 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 ## 4. Fall hubs — what to do & why each length
 
 ### Copenhagen — 3n *(NEW · entry point)*
-Nyhavn, Tivoli, Rosenborg, Christiania, the food scene, **Louisiana** modern-art museum (coast); cycle everywhere. **Day-trip to Malmö/Lund** (35 min across the Øresund bridge — Turning Torso + a charming university town). *Land here instead of Oslo — ≈ same airfare, a whole extra capital.*
+Nyhavn, Tivoli, Rosenborg, Christiania, the food scene, **Louisiana** modern-art museum (coast); cycle everywhere. **Day-trip to Malmö/Lund** (35 min across the Øresund bridge — Turning Torso + a charming university town). *Land here instead of Oslo — ≈ same airfare, a whole extra capital.*  
+**Food:** [local Danish guide](memory/copenhagen-local-food.md) (what to eat, where, USD, Maps links, AYCE stegt flæsk).
 
 ### Gothenburg — 2n *(NEW)*
 Sweden's laid-back 2nd city: Haga (fika + wooden houses), fish market (Feskekôrka), the southern archipelago by tram + ferry. On the CPH→Oslo line, so ~free to include.
