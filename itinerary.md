@@ -2,42 +2,58 @@
 
 **Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow-ish travel (snappy per-stop), comfortable budget · **Threads** cities & culture + nature/hiking throughout.
 
-**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights (~6–7-day buffer** — Italy trimmed for slack; see §2). **all fall-stop lodging now Booking-confirmed + neighborhood-vetted** (§7). Winter = fly home; **Balkans deferred to a future trip** (non-Schengen → no rush). Spring = provisional (§5).
+**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights baseline (~6–7-day buffer** — Italy trimmed for slack; see §2). **Nights are flexible ranges** — move days as energy/weather dictate; keep total **≤90**. Lodging picks are neighborhood-vetted (§7) but **re-bookable** as lengths shift. Winter = fly home; **Balkans deferred**. Spring = provisional (§5).
 
-**Route in one line:** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland) → Helsinki → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
+**Route in one line (order fixed; lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → Helsinki → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
-> Contents: [1) Fall at a glance](#1-fall-itinerary-at-a-glance) · [2) Schengen](#2-the-schengen-constraint) · [3) Avoid-list](#3-already-visited--route-around-these) · [4) Fall hubs](#4-fall-hubs--what-to-do--why-each-length) · [5) Winter & spring](#5-winter--spring-provisional) · [6) Costs](#6-costs-fall-leg) · [7) Lodging](#7-lodging) · [8) Cross-check](#8-community-cross-check--revisions) · [9) Open items](#9-open-items--decisions) · [Appendix](#appendix--data-sources--method)
+> Contents: [1) Fall at a glance](#1-fall-itinerary-at-a-glance) · [2) Schengen](#2-the-schengen-constraint) · [3) Avoid-list](#3-already-visited--route-around-these) · [4) Fall hubs](#4-fall-hubs--what-to-do--why-each-length) · [5) Winter & spring](#5-winter--spring-provisional) · [6) Costs](#6-costs-fall-leg) · [7) Lodging](#7-lodging) · [8) Cross-check](#8-community-cross-check--revisions) · [9) Open items](#9-open-items--decisions) · [Appendix](#appendix--data-sources--method)  
+> **Transit how-to (Scandi spine + last-mile):** [memory/scandi-transit.md](memory/scandi-transit.md)
 
 ---
 
 ## 1. Fall itinerary at a glance
-*(Aug 22 → ~Nov 13 · ~83 nights · ~6–7-day buffer under the 90-day Schengen cap)*
+*(Start ~**Aug 22** · end ~**mid-Nov** · **baseline ~83n** · hard cap **90 Schengen** · dates slide when you move nights)*
 
-| Dates (≈) | Stop | Cities & culture | Hiking / nature | Getting there |
-|---|---|---|---|---|
-| **Aug 22–24** | Copenhagen (3n) | Nyhavn, Tivoli, Louisiana museum; **day-trip Malmö/Lund** across the bridge | Amager beach, cycling | ✈ **land SEA→CPH** (≈ same fare as Oslo) |
-| **Aug 25–26** | Gothenburg (2n) | seafood, fika, Haga district | archipelago tram+ferry | 🚆 CPH→Gothenburg ~3.5h |
-| **Aug 27–29** | Oslo (3n) | Vigeland, Munch, Opera roof, Bygdøy | Ekeberg/Sognsvann | 🚆 Gothenburg→Oslo ~3.5h |
-| **Aug 30–Sep 1** | **Stavanger + Preikestolen** (3n) | Gamle Stavanger, street art | ⭐ **Preikestolen** (Pulpit Rock) + Lysefjord | ✈/🚆 Oslo→Stavanger |
-| **Sep 2–7** | Bergen + fjords (6n) | Bryggen, Fløyen | Bergen Railway, Flåm/Nærøyfjord, Fløyen/Ulriken | 🚢 Stavanger→Bergen express boat ~4h |
-| **Sep 8–12** | Stockholm (5n) | Gamla Stan, Vasa | Tyresta NP, archipelago | ✈ Bergen→Stockholm |
-| **Sep 13–15** | Gotland / Visby (3n) | medieval walled town (UNESCO) | cliffs, rauk sea-stacks, cycling | ⛴ Nynäshamn→Visby ~3h |
-| **Sep 16–18** | Helsinki (2n) | Design District, Temppeliaukio, Market Sq | Nuuksio NP, Suomenlinna | 🚢 Stockholm→Helsinki overnight ferry |
-| **Sep 19–21** | Tallinn (3n) | Old Town, Telliskivi, KUMU | Lahemaa NP | ⛴ Helsinki→Tallinn ~2h |
-| **Sep 22–Oct 1** | **Riga base** (10n) | Art Nouveau, Old Town | Gauja/Sigulda, Ķemeri, Jūrmala | 🚌 Lux Express |
-| **Oct 2–4** | Vilnius (3n) | baroque Old Town, Užupis | Trakai | 🚌 |
-| **Oct 5–11** | Slovenia (7n) | Ljubljana, Piran | Bled, Bohinj/Vogel, Vintgar, Soča *(late-ish, but ok)* | ✈ Vilnius→Ljubljana |
-| **Oct 12–24** | Croatia (13n) | Zagreb, Split, Dubrovnik | Plitvice, Krka, islands | 🚌 |
-| **Oct 25–Nov 12** | **Italy** (~20n): Venice → Cinque Terre → Florence → Rome → Naples/Amalfi | the greatest hits | Cinque Terre, Vesuvius, Path of the Gods | ✈ Dubrovnik→Venice, then 🚆 |
-| **~Nov 13** | ✈ **home from Naples/Rome** | — | — | one-way to SEA |
+### Flexibility rules
+| | |
+|---|---|
+| **Order** | Keep the NW→SE spine (Scandi → Baltics → SLO → HR → IT). Don’t reverse Norway. |
+| **Lengths** | Each stop has **default / range**. Steal from the **swing pool** first. |
+| **Swing pool** | ~**6–8n** to reassign: **Gotland 0–3**, **Riga 7–12**, **Bergen/fjords 4–7**, **CPH 3–5**, crumbs from GOT/HEL if skipping. |
+| **Booking** | Prefer **free-cancellation** Nordic beds; lock sell-out transport with movable dates when you can. |
+| **On the ground** | +1n if you love it or weather blocks a hike; −1n if done. Re-sum Schengen weekly. |
 
-**Why this shape:** landing in Copenhagen (≈ Oslo fare) adds Denmark for free and sets up a clean **CPH → Gothenburg → Oslo** overland; the Norway coast then runs **south→north** (Stavanger→Bergen) so the Preikestolen detour doesn't backtrack; Stockholm→Helsinki→Tallinn completes all **four Nordic capitals** en route to the Baltics; then the established Baltics→Slovenia→Croatia→Italy diagonal, ending warm in southern Italy at an easy transatlantic hub.
+### Baseline table *(defaults — not vows)*
+
+| Phase (≈) | Stop | Default | Flex range | Core idea / if you stretch |
+|---|---|---:|---|---|
+| late Aug | **Copenhagen** | 3 | **3–5** | Jet-lag land; **+1** easy if wiped. Louisiana/Malmö only if ≥4n |
+| → | **Gothenburg** | 2 | **0–3** | Skip OK (long CPH→OSL). **+1** enables full **Vrångö** |
+| → | **Oslo** | 3 | **2–4** | Ekeberg / Hovedøya / Mathallen |
+| → | **Stavanger + Preikestolen** | 3 | **2–4** | Weather buffer; dawn hike. Don’t starve below ~2–3 in storms |
+| → | **Bergen + fjords** | 6 | **4–7** | **Split** city + Aurland/Flåm area; Undredal quieter |
+| early Sep | **Stockholm** | 5 | **4–6** | Tyresta; Nacka/Grinda over tourist islands |
+| | **Gotland / Visby** | 3 | **0–3** | **#1 swing** — skip, or 2n + Folhammar/Fårö |
+| | **Helsinki** | 2 | **1–3** | Ferry-in; Löyly; +1 if Nuuksio+Porvoo |
+| mid Sep | **Tallinn** | 3 | **2–4** | |
+| | **Riga base** | 10 | **7–12** | **#2 swing** — absorbs leftover days |
+| → | **Vilnius** | 3 | **2–4** | |
+| early Oct | **Slovenia** | 7 | **6–9** | Mountain weather |
+| mid Oct | **Croatia** | 13 | **11–15** | |
+| late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
+| **~mid-Nov** | ✈ home NAP/FCO | — | — | one-way SEA |
+
+**Default sum ~83n.** Trading inside ranges → roughly **80–88n**, still under 90.
+
+**Example trades (pick any):** CPH 4 + GOT 0 = same week shape · GOT 3 (Vrångö) from Gotland · Gotland 0 → Riga 12 or Bergen 7 · Bergen 5 city+fjord tight if rushing south.
+
+**Why this shape:** CPH landing (≈ Oslo fare) + overland **CPH→GOT→OSL**; Norway **south→north**; four Nordic capitals into Baltics; then SLO→HR→IT. **Lengths float; route logic doesn’t.**
 
 ---
 
 ## 2. The Schengen constraint ⚠️ *(now the binding limit)*
 
-Schengen = **90 days in any rolling 180-day period.** **Every stop above is Schengen** (Denmark, Sweden, Norway, Finland, Baltics, Slovenia, Croatia, Italy). Trimming Italy to ~20n lands the fall at **~83 nights — a healthy ~6–7-day buffer** under the cap (a delayed flight won't tip you into an overstay).
+Schengen = **90 days in any rolling 180-day period.** **Every stop above is Schengen** (Denmark, Sweden, Norway, Finland, Baltics, Slovenia, Croatia, Italy). **Baseline ~83n** leaves ~**6–7 days** under the cap — that buffer is also your **flexibility fuel**. Moving nights between stops is fine; **crossing 90 is not**. Re-total whenever you +1/−1.
 
 - **Balkans = the relief valve, deferred:** the western Balkans (Bosnia, Montenegro, Albania, N. Macedonia, Kosovo) are **non-Schengen — they don't burn your 90 days.** Saving them for a future trip keeps this fall clean; they could also be spliced in *another time* to pause the clock.
 - **No mid-trip reset within this trip:** the whole thing spans <180 days, so a short non-Schengen break wouldn't add Schengen days here — the 90 cap is absolute for *this* window.
@@ -55,47 +71,61 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 
 ## 4. Fall hubs — what to do & why each length
 
-### Copenhagen — 3n *(NEW · entry point)*
-Nyhavn, Tivoli, Rosenborg, Christiania, the food scene, **Louisiana** modern-art museum (coast); cycle everywhere. **Day-trip to Malmö/Lund** (35 min across the Øresund bridge — Turning Torso + a charming university town). *Land here instead of Oslo — ≈ same airfare, a whole extra capital.*  
-**Food:** [local Danish guide](memory/copenhagen-local-food.md) (what to eat, where, USD, Maps links, AYCE stegt flæsk).
+### Copenhagen — default **3n** · flex **3–5n** *(entry)*
+Land SEA→CPH jet-lagged (~Fri Aug 22 start). Train south when ready → Gothenburg or straight Oslo if skipping GOT.  
+**Default do:** Tivoli recovery night · green-ring parks · Amager/harbour bath · smørrebrød & stegt flæsk.  
+**If 4–5n:** add Louisiana and/or Malmö/Lund and/or Dyrehaven — unlocked only with the extra night(s).  
+**Guide:** [food · nature · lodging · **transit**](memory/copenhagen-local-food.md) (scales with length).
 
-### Gothenburg — 2n *(NEW)*
-Sweden's laid-back 2nd city: Haga (fika + wooden houses), fish market (Feskekôrka), the southern archipelago by tram + ferry. On the CPH→Oslo line, so ~free to include.
+### Gothenburg — default **2n** · flex **0–3n**
+On the CPH→Oslo line (~3.5h each hop). **0n** = skip (long travel day CPH→OSL). **2n** = Haga + Botaniska/Änggårdsbergen + räkmacka. **3n** = full **Vrångö** day.  
+**Guide:** [food · nature · lodging · **transit**](memory/gothenburg-local-food.md).
 
-### Oslo — 3n
-Opera roof, Akershus, National Museum (*The Scream*), Vigeland, Munch, Grünerløkka; Bygdøy museums by ferry (Fram, Kon-Tiki).
+### Oslo — default **3n** · flex **2–4n**
+Opera roof, Akershus, Vigeland, Munch *or* National Museum, Grünerløkka; **Ekeberg** sunset · **Sognsvann** · **Hovedøya**; husmannskost (Schrøder / Kaffistova / Fiskeriet) not Brygge. Bygdøy = rain backup.  
+**+1n:** sauna + Vettakollen/Nordmarka. *Emanuel Vigeland Mausoleum = Sundays only.*  
+**Guide:** [food · nature · lodging · **transit**](memory/oslo-local-food.md).
 
-### Stavanger + Preikestolen — 3n *(NEW · the iconic hike)* ⭐
-Gamle Stavanger (old wooden town) + street art; **Preikestolen / Pulpit Rock** (8 km / 4–5 h, huge payoff over Lysefjord), optional Lysefjord cruise. *Late-Aug = last of the good hiking window.*
+### Stavanger + Preikestolen — default **3n** · flex **2–4n** ⭐
+Gamle Stavanger + street art; **Preikestolen** (weather buffer — dawn start on the clear day); optional Lysefjord cruise.  
+**+1n** if storms stack. **Kjerag** only after Preikestolen if car + fitness. **Skip Trolltunga** here (all-day; steals Bergen). *Late Aug = last good hike window.*  
+Food: harbour **reker**, Fisketorget soup, Janas smokehouse — not Skagenkaien traps. Beds: Central Guesthouse dorm / Skagen Brygge half-board hack.  
+**Guide:** [food · nature · lodging · **transit**](memory/stavanger-local-food.md).
 
-### Bergen + fjords — 6n
-Bryggen, Fløibanen up Mt Fløyen (ridge hike to Ulriken), KODE, Fish Market; **DIY Norway-in-a-Nutshell** (Bergen Railway → Flåm Railway → Nærøyfjord cruise → Stegastein); Aurlandsdalen hike. *Pack rain; check the Flåm cruise schedule.*
+### Bergen + fjords — default **6n** · flex **4–7n**
+Bryggen, Fløyen/Ulriken, KODE; **fjord block** (Flåm + Nærøyfjord + Stegastein). *Book Flåm/cruise early; pack rain.*  
+**Preferred shape:** **2–3n Bergen + 2–3n Aurland/Flåm/Undredal** (not six city nights). Quieter: **Undredal**, Gudvangen/**Rimstigen**, Sandviken. Fog day: KODE + Ægir, not a blind cruise.  
+Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **Marken** or Citybox (city) · Svingen / camping cabin / Undredal (fjord).  
+**Guide:** [food · nature · lodging · **transit**](memory/bergen-local-food.md).
 
-### Stockholm — 5n
-Gamla Stan + Royal Palace, Vasa Museum, Djurgården (Skansen, ABBA), Södermalm/Fotografiska, Skogskyrkogården; archipelago ferry (Vaxholm); Tyresta NP hike.
+### Stockholm — default **5n** · flex **4–6n**
+Gamla Stan, **Vasa**, Djurgården, Södermalm, **Skogskyrkogården**; archipelago; **Tyresta**.  
+**Optional:** Nackareservatet or **Grinda**/outer islands. Soft-pedal Sigtuna/Uppsala if nature-first.
 
-### Gotland / Visby — 3n *(NEW · side-trip)*
-Ferry from Nynäshamn to **Visby** — an intact medieval walled Hanseatic town (UNESCO); the island's dramatic *rauk* sea-stacks, cliffs, and cycling. *(Late-Aug is the tail of its season — verify ferry frequency.)*
+### Gotland / Visby — default **3n** · flex **0–3n** *(#1 swing)*
+Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/Bergen/Riga. **2n** minimum if going (1 walls + 1 island). **3n** only with **Folhammar / Gnisvärd / Fårö sunset**. *Late-Aug ferries — book if committed.*
 
-### Helsinki — 2n *(NEW · 4th Nordic capital)*
-Design District, Temppeliaukio (rock church), Market Square, Oodi library, Suomenlinna sea fortress; Nuuksio NP nearby. Arrive on the **Stockholm→Helsinki overnight ferry**, leave on the 2-h Helsinki→Tallinn ferry.
+### Helsinki — default **2n** · flex **1–3n**
+**STO→HEL overnight ferry** (first 2–3h **on deck**). Design District, Temppeliaukio, Suomenlinna; Nuuksio *or* lighter Lammassaari/Seurasaari; **Löyly**. **+1n** if Porvoo + Nuuksio both. Then ~2h ferry → Tallinn.
 
-### Tallinn — 3n
-UNESCO Old Town, Telliskivi + Balti Jaam market, Kadriorg + KUMU, Seaplane Harbour; opt. Lahemaa NP.
+> **Scandi options / off-beat / how to spend extra nights:** [memory/scandinavia-optional-offbeat.md](memory/scandinavia-optional-offbeat.md)
 
-### Riga — 10n (base)
-Old Town, Art Nouveau district + museum, Central Market, Corner House (KGB), Miera iela; day trips: **Sigulda + Gauja NP**, Ķemeri Bog, Jūrmala, Rundāle Palace. *4 city + 3–4 day-trips + 2–3 slow.*
+### Tallinn — default **3n** · flex **2–4n**
+UNESCO Old Town, Telliskivi, Kadriorg + KUMU; opt. Lahemaa NP.
 
-### Vilnius — 3n
-Baroque Old Town, Užupis, MO Museum; Trakai island castle → fly to Ljubljana.
+### Riga — default **10n** · flex **7–12n** *(#2 swing / sponge)*
+Old Town, Art Nouveau, Central Market, day trips Sigulda/Gauja, Ķemeri, Jūrmala, Rundāle. *Park leftover Scandi days here or trim if Italy needs buffer.*
 
-### Slovenia — 7n
-Ljubljana (Castle funicular, Plečnik bridges, Metelkova); **Lake Bled**, **Lake Bohinj + Vogel**, **Vintgar Gorge**, **Soča Valley**; Postojna/Škocjan Caves; Piran.
+### Vilnius — default **3n** · flex **2–4n**
+Baroque Old Town, Užupis; Trakai → fly Ljubljana.
 
-### Croatia (Zagreb → Split → Dubrovnik) — 13n
-Zagreb (Upper Town, Dolac); **Plitvice**; Split (Diocletian's Palace, Marjan hike, **Krka**/Trogir/**Hvar** day trips — Split ferries run year-round); Dubrovnik (walls, Srđ, Lokrum). *Then fly Dubrovnik→Venice.*
+### Slovenia — default **7n** · flex **6–9n**
+Ljubljana; **Bled**, **Bohinj + Vogel**, **Vintgar**, **Soča**; caves; Piran. *+n if alpine weather fails first try.*
 
-### Italy (Venice → Naples/Amalfi) — ~20n · the warm finale ⭐
+### Croatia (Zagreb → Split → Dubrovnik) — default **13n** · flex **11–15n**
+Zagreb; **Plitvice**; Split hub (Krka/Trogir/Hvar); Dubrovnik. Then fly → Venice.
+
+### Italy (Venice → Naples/Amalfi) — default **~20n** · flex **18–22n** · the warm finale ⭐
 - **Venice (3):** San Marco, Dorsoduro, Murano/Burano.
 - **Cinque Terre (2):** the coastal village hike.
 - **Florence + Tuscany (3–4):** Uffizi, Duomo, *David*; Siena day.
@@ -114,35 +144,52 @@ Zagreb (Upper Town, Dolac); **Plitvice**; Split (Diocletian's Palace, Marjan hik
 
 ## 6. Costs (fall leg)
 
-**Bottom line:** ~**$14k** for the ~12-week fall — up because it front-loads more expensive Nordic capitals (Copenhagen/Gothenburg/Stavanger/Helsinki). ~**$155/day** blended. *Nordic-new stops + Italy are reasoned estimates pending Booking confirmation.*
+**Bottom line (Aug 2026 refresh):** ~**$13.5–14k** cash for the ~12-week fall at **baseline 83n**, if CPH/GOT/OSL follow the §7 **hostel / value** picks. Blended on-ground ~**$140/day** (~$11.5k ÷ 83).  
+*Prior headline was ~$14k / ~$12.3k ground (~$155/day) with mid-hotel openers. Verified dorm/poshtel beds cut **~$315** on the first **8n** (CPH+GOT+OSL) vs that hotel model; rest of route unchanged. Not a full rewrite of Norway/Italy.*
+
+**Lodging assumption in the table:** CPH **Next House**-class dorm · GOT **Slottsskogens** dorm · OSL **Bunks / K7** dorm · later stops still mid-hotel / apartment averages from §7. Food = value local (guides), not fine dining.
 
 ### On-the-ground (rough)
-| Region | Nights | ~All-in/day | Subtotal |
+| Region | Nights | Lodging lean | ~All-in/day | Subtotal |
+|---|---|---|---|---|
+| Copenhagen | 3 | dorm ~$45–55 | **$145** | ~$435 |
+| Gothenburg | 2 | dorm ~$20–25 | **$115** | ~$230 |
+| Oslo | 3 | dorm ~$35–45 | **$145** | ~$435 |
+| Stavanger + Preikestolen | 3 | guest house ~$80+ | $180 | ~$540 |
+| Bergen + fjords | 6 | mid | $210 | ~$1,260 |
+| Stockholm | 5 | mid | $175 | ~$875 |
+| Gotland | 3 | mid / Logi | $150 | ~$450 |
+| Helsinki | 2 | Citybox-class | $160 | ~$320 |
+| Baltics (Riga base) | 16 | apt / hostel | $92 | ~$1,470 |
+| Slovenia | 7 | mid | $120 | ~$840 |
+| Croatia | 13 | mid | $120 | ~$1,560 |
+| Italy | 20 | mid | $155 | ~$3,100 |
+| **On-the-ground** | **83** | | **~$140** | **~$11,515 → ~$11.5k** |
+
+*All-in/day ≈ bed + food + local transit + small tickets. Big one-offs (fjord package, major museums, Preikestolen shuttle) sit more in **Sightseeing** / transport notes so the day-rate stays comparable city-to-city.*
+
+### Band (same 83n + ~$2k transport)
+| Scenario | Ground | **Fall total** | When |
 |---|---|---|---|
-| Copenhagen (+Malmö day) | 3 | $180 | ~$540 |
-| Gothenburg | 2 | $160 | ~$320 |
-| Oslo | 3 | $185 | ~$555 |
-| Stavanger + Preikestolen | 3 | $185 | ~$555 |
-| Bergen + fjords | 6 | $210 | ~$1,260 |
-| Stockholm | 5 | $175 | ~$875 |
-| Gotland | 3 | $150 | ~$450 |
-| Helsinki | 2 | $160 | ~$320 |
-| Baltics (Riga base) | 16 | $92 | ~$1,470 |
-| Slovenia | 7 | $120 | ~$840 |
-| Croatia | 13 | $120 | ~$1,560 |
-| Italy | 20 | $155 | ~$3,100 |
-| **On-the-ground** | **83** | **~$155** | **~$12,300** |
+| **⭐ Hostel-lean CPH/GOT/OSL** (table) | ~$11.5k | **~$13.5k** | §7 dorm ⭐s |
+| Private-value those 8n (CityHub / Heden / Citybox–Cochs) | ~$12.0–12.2k | **~$14.0–14.2k** | +~$60–80/n on beds |
+| Mid-hotel those 8n (old model) | ~$12.3k | **~$14.3k** | citizenM / Royal / full hotel |
+| + points on **home flight** (~$700) | −$0.7k cash | **~$12.8–13.5k** cash | best redemption lever |
+
+*Flex nights:* each extra Nordic night ≈ **+$115–180**; each night moved Baltics←Nordics saves ~**$50–90**. Gotland 0 → −~$450 ground (keep ferry if you already held it).
 
 ### Transport (headline)
 Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** SEA→Copenhagen ~$230 + Naples/Rome→SEA **~$700** (top points redemption). *Transport all-in ≈ **$2,000**.*
 
-**⇒ Fall total ≈ $14k** (on-ground ~$12.3k + transport ~$2k). *Levers: trim Italy a week (−~$1k), weight nights toward cheaper south Italy / Baltics, home flight on points.*
+**How-to:** each city guide (CPH→BGO) now has a full **Getting around** chapter (apps, arrive/leave, bed→sights/food). All-legs index: [memory/scandi-transit.md](memory/scandi-transit.md).
+
+**⇒ Plan around ~$13.5k cash** (hostel-lean openers) or **~$14k** if you take private rooms in the first three capitals. *Other levers: Italy −1wk (~−$1k), more Riga nights, home flight on points, hotel points on Bergen/Stockholm spikes.*
 
 ### Sightseeing
-Confirmed for the earlier stops (~$450–500 cluster); **new *(est.)*:** Copenhagen (Louisiana ~$20, Tivoli ~$22), Preikestolen (free hike; shuttle ~$40 rt), Gotland (Visby free-ish), Helsinki (Suomenlinna free, museums ~$20), Italy (~$180–250). *Whole-fall sightseeing ≈ **$750–900**.*
+Still ~**$750–900** whole-fall cluster (Tivoli, Louisiana if 4n+, Munch *or* National, Preikestolen shuttle ~$40 rt, fjord tickets already partly in Bergen day-rate/transport, Italy museums). Free-first nature in CPH/GOT/OSL guides keeps this from blowing up.
 
 ### Points vs. cash
-Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights for points** (needs your balances). Copenhagen and the extra Nordic nights make **hotel points** more valuable now.
+Cash the cheap legs and **hostel nights** (poor redemption). **Cross-check** ~$700 home flight + pricey **Bergen/Stockholm/Stavanger hotel** nights (needs balances). CPH/GOT/OSL dorms are usually **cash**.
 
 ---
 
@@ -159,9 +206,11 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 **✅ New-stop picks (Booking live + neighborhood-vetted, Jul 2026)** — review >8, high count, central; ⭐ = best value; each with the right area + what to avoid:
 
 *Scandinavia*
-- **Copenhagen** (Indre By / W-Vesterbro; ⚠ avoid Istedgade red-light behind Central Station) — 🛌 **Next House** (8.6, 40k rev, ~$42) ⭐ social/value, Tivoli side · citizenM Rådhuspladsen (8.6, ~$185) most central · CityHub (9.3, ~$135, W-Vesterbro, 1.4mi).
-- **Gothenburg** (Inom Vallgraven core) — 🏨 **Hotel Royal** (9.1, 4.5k, ~$166) ⭐ most central · Hotell Heden (8.2, 7.8k, ~$110) value. ⚠ *Skip Waterfront Cabins — it's across the river, not walkable.*
-- **Stavanger** (Vågen harbour / sentrum) — **Central Guest House** (9.0, ~$80) ⭐ value · Home Hotel Skagen Brygge (8.8, ~$183, Lysefjord ferry at the door) · Hotel Victoria (8.9, ~$208).
+- **Copenhagen** (Indre By / W-Vesterbro; ⚠ Istedgade) — 🛌 **CityHub** (private Hub ~$90–130) ⭐ privacy · **Next House** (dorm ~$40–60, **no bed curtains**/alcove — primary) · **Steel House** (dorm ~$45–65, official **semi-private** bunks; curtain reviews mixed) · citizenM splurge. Detail: [cph guide](memory/copenhagen-local-food.md#lodging-hostels--budget).
+- **Gothenburg** (Inom Vallgraven / Linné–Haga; ⚠ skip Waterfront Cabins + Barken Viking <8) — 🛌 **Slottsskogens** (dorm ~$20–25, **curtains — Booking text**) ⭐ · STF Stigbergsliden (dorm ~$20–25, no curtain claim) · **Hotell Heden** (~$90–110) · **Hotel Royal** (~$145–196). Detail: [got guide](memory/gothenburg-local-food.md#lodging-hostels--budget).
+- **Oslo** (Sentrum / Grünerløkka / Frogner; ⚠ Oslo S–Vaterland night grit) — 🛌 **Bunks at Rode** (dorm ~$32–49, **blackout curtains — official bunks.no**) ⭐ · K7 (dorm bunks+lockers, no curtain claim) · **Citybox** / **Cochs** privates. *Anker closed; HI Haraldsheim too far.* Detail: [oslo guide](memory/oslo-local-food.md#lodging-hostels--budget).
+- **Stavanger** (Vågen / sentrum for **Byterminalen** shuttle; ⚠ avoid Forus/Sandnes hike base) — 🛌 **Central Stavanger Guesthouse** (Brødregata, ~9.0, dorm ~$40–50) ⭐ · **Home Hotel Skagen Brygge** (private ~$150–230 often **breakfast+fika+dinner incl.**) ⭐ food hack · Central Guest House *Wessels* privates · Hotel Victoria. *No curtain-pod hostel in centre.* Detail: [svg guide](memory/stavanger-local-food.md#lodging-hostels--budget).
+- **Bergen + fjords** (**split** city + Aurland/Flåm/Undredal; ⚠ YMCA/Budgetel closed) — 🛌 **Marken Guesthouse** (dorm ~$35–45) ⭐ · **Citybox Bergen** (private ~$80–100) · HI Montana (cheaper, bus to station). Fjord: **Svingen** / **Flåm Camping** cabin (~$95–120) / **Undredal** quieter. Curtains rare — eye mask. Detail: [bgo guide](memory/bergen-local-food.md#lodging-split-city--fjord).
 - **Visby / Gotland** (inside the ring wall) — **Visby Logi** (8.6, ~$69) ⭐ social/central · Hotel Helgeand (9.3, ~$155, medieval, best-rated) · Hotell Visby Börs (8.4, ~$88).
 - **Helsinki** (Kamppi / Kallio) — **Citybox** (9.1, 10.5k, ~$135) ⭐ social/value · Scandic Helsinki Hub (9.0, ~$214) most central · Töölö Towers (8.5, ~$95) quiet.
 
@@ -171,7 +220,7 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 - **Rome** (Centro Storico / Monti / Trastevere) — **Villa Riari Garden** (9.0, 3k, ~$58) ⭐⭐ Trastevere value · Hotel Primavera (9.0, ~$98) between Navona & Campo de' Fiori · Roman Residence (9.1, ~$83) Monti.
 - **Naples** (Via Toledo / San Ferdinando; Chiaia for quiet) — **Ponte di Tappia** (9.1, ~$69) ⭐ central+value · Napoliamo (9.8, 1.2k, ~$80) top-rated · Relais Della Porta (9.1, 3.2k, ~$126) Via Toledo.
 
-*Confirmed central averages: Copenhagen ~$150–190 (Next House hostel $42) · Gothenburg ~$145 · Stavanger ~$141 · Visby ~$111 · Helsinki ~$162 · Venice ~$194 · Florence ~$122 · Rome ~$101 · **Naples ~$75 (cheapest)**.*
+*Confirmed central averages: **CPH dorm ~$40–65 / private value ~$90–130** · **GOT dorm ~$20–25 / private ~$90–110** · **Oslo dorm ~$35–50 / private ~$85–120** · **SVG dorm ~$40–50 / private ~$75–110** · **BGO dorm ~$35–45 / Citybox ~$80–100** · fjord cabin ~$95–130 · Visby ~$111 · Helsinki ~$162 · Venice ~$194 · Florence ~$122 · Rome ~$101 · **Naples ~$75**.*
 
 ---
 
@@ -184,18 +233,22 @@ Cash the cheap legs; **cross-check the ~$700 home flight + Nordic hotel nights f
 4. **Julian Alps / Croatia** ([Moon & Honey](https://www.moonhoneytravel.com/october-in-slovenia/), [Helena Bradbury](https://www.helenabradbury.com/blog-1/visiting-croatia-in-november)) — Slovenia lands ~early Oct (day-hikes solid; high huts marginal), Croatia mid-Oct (shoulder, open). Split ferries year-round.
 5. **Italy late Oct/Nov** — mild in the south; do Amalfi/Cinque Terre earlier in the Italy leg (coastal services wind down late Nov); Rome/Florence/Venice all-season & less crowded.
 6. **Pacing & Balkans** — common advice is ≥2–3 days/capital (this plan meets it; Gothenburg/Helsinki at 2 is the accepted minimum). **Gotland** is worth it but a genuine detour ([Rick Steves](https://community.ricksteves.com/travel-forum/sweden/visby-and-gotland)) — the first stop to drop for more slack. The **western Balkans are non-Schengen**, so they're deferred to a future trip at zero Schengen cost.
+7. **Scandi nights vs typical** — defaults are consensus-ish; **flex toward** CPH +1 after jet lag, Bergen as split fjord base, Gotland 0–2 unless island days. Activity mix (light openers → Preikestolen/fjords) matches “wish I’d paced it.” Options: [memory/scandinavia-optional-offbeat.md](memory/scandinavia-optional-offbeat.md).
+8. **Flexibility > fixed calendar** — treat §1 ranges as the plan; only transport sell-outs and the 90-day cap are hard.
 
 ---
 
 ## 9. Open items / decisions
 
-- [x] **Schengen slack built** — Italy trimmed to ~20n → ~6–7-day buffer. **Gotland** is the next swing stop if you want even more slack / less hopping.
-- [x] **All fall lodging Booking-confirmed + neighborhood-vetted** (Copenhagen → Naples) — see §7.
-- [ ] Confirm SEA→**Copenhagen** entry fare + book one-way; CPH→Gothenburg→Oslo rail.
-- [x] Baltic base = **Riga** (10n).
-- [ ] Send **points/miles + hotel balances** → price entry + the ~$700 Naples/Rome→SEA home flight + Nordic hotel nights.
-- [ ] Reserve Norway/Nordic beds early (late-Aug peak; Preikestolen-area lodging books up).
-- [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece the spring target).
+- [x] **Schengen slack built** — baseline ~83n / ~6–7-day buffer; **swing pool** = Gotland + Riga + Scandi ranges (see §1).
+- [x] **Neighborhood-vetted lodging shortlist** (Copenhagen → Naples) — see §7; **re-book as lengths flex** (prefer free cancellation).
+- [x] **Night lengths = flexible defaults** (not fixed calendar vows).
+- [ ] Confirm SEA→**Copenhagen** entry fare + book one-way; rail passes/tickets with changeable dates where possible.
+- [x] Baltic sponge base = **Riga** (flex 7–12n).
+- [ ] Decide early: **Gotland yes/no** (biggest easy swing).
+- [ ] Send **points/miles + hotel balances** → entry + ~$700 home flight + Nordic nights.
+- [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
+- [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece).
 
 ---
 

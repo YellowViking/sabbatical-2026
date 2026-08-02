@@ -4,8 +4,10 @@
 
 **How to resume (next Claude, read in this order):**
 1. `itinerary.md` — the full plan (route, Schengen strategy, lodging, costs, flights, points).
-2. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
-3. Continue from **Open items** below.
+2. City guides in `memory/*-local-food.md` (CPH→BGO) — food, nature, lodging, **and Getting around / transit**.
+3. `memory/scandi-transit.md` — spine legs index (hub→hub).
+4. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
+5. Continue from **Open items** below.
 
 ## Status (as of 2026-07-15)
 Fall leg fully specified and costed. Winter = fly home from Italy (leaning). Spring = Iberia/France/Greece (Italy is now a fall leg).
@@ -27,7 +29,7 @@ Copenhagen 3n (land here) → Gothenburg 2n → Oslo 3n → **Stavanger/Preikest
 Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey; brief France (Christmas 2023). Route AROUND these. The "go back to the Balkans" wish = the **western** Balkans, which were missed.
 
 ## Cost (fall leg)
-~$14k for the ~12-week fall (expanded Scandinavia: all 4 Nordic capitals + Preikestolen + Gotland; ~83 nights all-Schengen; ALL fall lodging now Booking-confirmed + neighborhood-vetted). ~$120/day on the ground — comfortable band.
+**~$13.5–14k** cash for the ~12-week fall (~83n), Aug 2026 refresh: CPH/GOT/OSL costed on **hostel/value** beds (Next House / Slottsskogens / Bunks) → on-ground ~**$11.5k** (~**$140/day** blended) + transport ~**$2k**. Private rooms those 8n → closer to **~$14k**. Home flight on points → high-**$12ks** cash. Detail: `itinerary.md` §6.
 
 ## Open items
 - [ ] Get user's points/miles + hotel balances → price SEA→Oslo entry and the **mid-Nov home flight** as cash-vs-points (home flight is the best redemption candidate).
