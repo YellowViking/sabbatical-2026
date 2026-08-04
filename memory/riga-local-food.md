@@ -124,17 +124,26 @@ Boots for bog boardwalk; shell for Atlantic-ish wind.
 | Habit | Do |
 |---|---|
 | Most days | **Market** produce, smoked fish, rye, kiosk €6–10 plates |
-| 3–4× | Quiet Centre **lunch specials** ~€9–13 |
-| 2–3× | Nice casual dinner Centrs |
+| 3–4× | Quiet Centre / Centrs **lunch specials** ~€9–13 |
+| 2–3× | Named casual dinner (table below) |
 | Many | **Cook** at Amella / apt |
 | Avoid | OT square “Baltic feast” traps |
 
-### Anchors
-| Place / type | Order | ~€ | Maps |
-|---|---|---|---|
-| **Rīgas Centrāltirgus** | Smoked fish, rye, hemp butter, kiosks | 6–12 | [Maps](https://www.google.com/maps/search/?api=1&query=Riga+Central+Market) |
-| Quiet Centre cafés | Soup + main lunch | 9–15 | Maps: Alberta iela cafes |
-| Local brewery/pub Centrs | One social night | 15–25 | — |
+### Anchors *(Maps-linked)*
+
+| Place | ★ | Order | ~€ | Maps |
+|---|---|---|---|---|
+| **Rīgas Centrāltirgus** | — | Smoked fish, rye, hemp butter, hangar kiosks | 6–12 | [Maps](https://www.google.com/maps/search/?api=1&query=Riga+Central+Market) |
+| **Siļķītes un Dillītes** (market fish) | ~4.7 | Marinated Baltic herring + rye + potatoes | 5–8 | [Maps](https://www.google.com/maps/search/?api=1&query=Si%C4%BC%C4%B7%C4%ABtes+un+Dill%C4%ABtes+Riga) |
+| **LIDO Vērmanītis** | ~4.4 ⚠️ value | **Pelēkie zirņi** (gray peas + bacon) · **aukstā zupa** · lunch combo | 8–14 | [Maps](https://www.google.com/maps/search/?api=1&query=LIDO+V%C4%93rman%C4%ABtis+Riga) |
+| **Lidojošā varde** (Flying Frog) | ~4.4 ⚠️ value | Business lunch · **karbonāde** | 9–14 | [Maps](https://www.google.com/maps/search/?api=1&query=Lidojo%C5%A1%C4%81+varde+Riga) |
+| **B7 restorāns** | ~4.8 | One nicer Centrs plate (e.g. pike-perch) | 12–18 | [Maps](https://www.google.com/maps/search/?api=1&query=B7+restor%C4%81ns+Riga) |
+| **Quiet Centre cafés** (Alberta iela belt) | varies | Soup + main lunch special | 9–15 | [Maps](https://www.google.com/maps/search/?api=1&query=Alberta+iela+cafes+Riga) |
+| Market pavilion canteen trays | ~4.4 ⚠️ | Borscht / soljanka / meat+side trays | 3–6 | [Maps](https://www.google.com/maps/search/?api=1&query=Riga+Central+Market+food+court) |
+
+*⚠️ under ~4.5 kept for volume + local value — skim recent 1★ before booking a “special” night there. Skip **Milti un gaļa**-class stalls if Maps under 4.0.*
+
+**Kill-list:** Livu / Town Hall square menus · anything with a promoter and laminated “Baltic feast.”
 
 ---
 
