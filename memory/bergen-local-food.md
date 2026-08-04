@@ -221,3 +221,34 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 
 ## Optional / off-beat
 [scandinavia-optional-offbeat.md](scandinavia-optional-offbeat.md) — Undredal, Rimstigen, Sandviken already core here; kayak/Rallarvegen if **7n**.
+
+---
+
+## Money savers
+*Country rules: [scandi-money-tips.md](scandi-money-tips.md) · Norway · AI Mode Pro Aug 2026*
+
+### Bergen city
+| Do | Skip / watch |
+|---|---|
+| **Hike Fløyen free** (funicular down optional) | Round-trip **Fløibanen ~$18** if legs OK |
+| **Stoltzekleiven → Ulriken** free ridge | Ulriken cable both ways ~$36 |
+| **Kiwi / Rema** + Marken/Citybox kitchen | **Torget fish tents $35–45** meals |
+| **Trekroneren** ~$7–9 · **Pingvinen** value husmannskost | Bryggen waterfront full dinners (view tax) |
+| **Bryggen / Sandviken** walks free | Random “fjord tour” sold on the wharf |
+| Skyss 24h if many buses | Taxis |
+| Airport light rail ~$5 class fares | Airport taxi |
+| Tap water | Bottled |
+
+### Flåm / Aurland / Undredal
+| Do | Skip / watch |
+|---|---|
+| **Coop Marked** picnic every hike/cruise day | $40 restaurant plates 3×/day |
+| **Book Flåmsbana yourself** (official) | Third-party “fjord packages” with fat markup |
+| **Undredal / Aurland** nights quieter ± cheaper than pier Flåm | Only sleeping in cruise crush without reason |
+| Local **bus** village hops | Taxis |
+| **Ægir** as **one** atmosphere dinner | Fog cruise you already paid (rebook/cancel if policy allows) |
+| Free valley walks / church trails | Paying for views you can walk to |
+| Guest kitchen (Svingen etc.) | No-kitchen + every meal out |
+| Goat cheese from village | Gift-shop pricing in Flåm centre only |
+
+**Fog = money defense:** don’t burn cruise tickets on white cloud — valley day is free/cheap.

@@ -1,8 +1,8 @@
-# Scandinavia spine — transport & last-mile
-*CPH → GOT → OSL → SVG → BGO/fjords → (STO…) · late Aug 2026 · nature-first · AI Mode Pro + itinerary costs · Aug 2026*
+# Scandinavia + Baltic hop — transport & last-mile
+*CPH → GOT → OSL → SVG → BGO/fjords → STO → (Gotland?) → HEL → **TLL → Riga** → … · late Aug–mid Sep 2026 · nature-first · AI Mode Pro + itinerary costs · Aug 2026*
 
-**Use with:** city guides (`*-local-food.md`) — each now has a full **Getting around** chapter (standalone). This file is the **all-legs index** + cross-city apps table.  
-**Guides with transit baked in:** [CPH](copenhagen-local-food.md) · [GOT](gothenburg-local-food.md) · [OSL](oslo-local-food.md) · [SVG](stavanger-local-food.md) · [BGO](bergen-local-food.md).  
+**Use with:** city guides (`*-local-food.md`) — each has **Getting around** + **Money savers**. This file = **all-legs index** + apps. Country money rules: [scandi-money-tips.md](scandi-money-tips.md).  
+**Guides:** [CPH](copenhagen-local-food.md) · [GOT](gothenburg-local-food.md) · [OSL](oslo-local-food.md) · [SVG](stavanger-local-food.md) · [BGO](bergen-local-food.md) · [STO](stockholm-local-food.md) · [Gotland *(opt.)*](gotland-local-food.md) · [HEL *(opt. thin)*](helsinki-local-food.md) · [Tallinn](tallinn-local-food.md) · [Riga](riga-local-food.md) · [Vilnius](vilnius-local-food.md) · [Slovenia](slovenia-local-food.md).  
 **Rule:** book **sell-outs** early (Flåmsbana, Preikestolen shuttle, peak Vy); keep **beds free-cancel**.
 
 ---
@@ -13,7 +13,16 @@
 |---|---|---|
 | **DK** | **Rejseplanen** + **DOT tickets** / DSB | CPH metro/bus/S-tog + airport |
 | **SE GOT** | **Västtrafik To Go** | Trams/buses Zone A |
+| **SE STO** | **SL** app | Metro/tram/bus/ferry Stockholm |
 | **SE long** | **SJ** app | CPH↔GOT↔… long-distance (often with DSB/Öresund) |
+| **SE islands** | Destination Gotland · Waxholm/ferry ops | Visby · archipelago |
+| **FI HEL** | **HSL** app | Tram/metro/bus + Suomenlinna ferry |
+| **EE TLL** | **pilet.ee** / Ühiskaart · Transit app | Tram/bus · port + Kadriorg |
+| **LV RIX** | **Rīgas satiksme** · **Vivi** trains | City tram/bus · Sigulda/Ķemeri/Jūrmala |
+| **LT VNO** | **JUDU / m.Ticket / Trafi** · LTG Link | City bus · Trakai train |
+| **Baltic ferry** | Tallink / Viking / Eckerö · laevapiletid.ee | STO↔HEL · **HEL→Tallinn** |
+| **Baltic bus** | **Lux Express** / Ecolines / Flix | **TLL→Riga→Vilnius** |
+| **Ride** | **Bolt** | All three Baltics |
 | **NO all** | **Entur** | National planner (trains/buses/ferries) |
 | **NO trains** | **Vy** | OSL–BGO, regional; sells out summer |
 | **OSL local** | **Ruter** | Metro/tram/bus/ferry zones |
@@ -38,7 +47,16 @@
 | **SVG → BGO** | Express boat / bus / flight | Entur · operators | boat ~4h · bus ~5h · fly ~40m | boat/bus often **~$50–70*** | Boat often **Vågen** area · bus Byterminalen | **Marken/Citybox:** walk from **Bergen S** / bus terminal **5–15 min** |
 | **BGO → Flåm** | **Bergensbanen → Myrdal → Flåmsbana** | **Vy** + **flamsbana.no** | rail combo ~2.5–3.5h | Flåmsbana alone ~**$52** one-way + mainline | **Bergen S → Myrdal → Flåm** | **Camping:** walk **~5 min** · **Svingen:** short walk · **Undredal:** bus/taxi from Flåm (~20–30 min) |
 | **Flåm area local** | Bus / boat | Skyss-region / local | 10–40m | few $ | Flåm ↔ Aurland ↔ Gudvangen ↔ Undredal | Sleep quiet, day-trip hub |
-| **Exit → STO** | **Flight BGO→STO** *or* rail east via Oslo | Norwegian/SAS · Vy | flight ~1h · rail long | flight often **~$75*** | Prefer flight if time-poor after fjords | STO guide later |
+| **Exit → STO** | **Flight BGO→STO** *or* rail east via Oslo | Norwegian/SAS · Vy | flight ~1h · rail long | flight often **~$75*** | Prefer flight if time-poor after fjords | **City Backpackers** / Generator: metro/walk from T-Centralen |
+| **STO → Gotland** | Bus/rail → **Nynäshamn** → ferry | Destination Gotland | half day | ~$30–60* | Book if committed | Walk to Visby Logi inside walls |
+| **STO → HEL** | Overnight ferry | Tallink/Viking etc. | overnight | cabin varies | First 2–3h **on deck** | Kamppi/Citybox next AM |
+| **HEL → Tallinn** | Day ferry | Tallink / Viking / Eckerö | ~2h | ~$30–60* | Midweek cheaper · avoid Fri PM crush | Tram/Bolt → OT or Telliskivi |
+| **Tallinn → Riga** | **Lux Express** bus | luxexpress.eu | ~4–4.5h | ~$15–30* | Wifi + seat — book | Walk/Bolt → Amella / Centrs |
+| **Riga → Vilnius** | Lux / Ecolines | ~4h | ~$15–25* | Day coach | OT hostel walk/Bolt |
+| **Vilnius → LJU** | Flight (connect) | ~$90–180* | No nonstop usual | Airport bus **€1** · buffer 3h+ |
+| **LJU airport → city** | Airport bus | ~€4 | Skip taxi scams | Station / center |
+| **LJU ↔ Bled / Bohinj** | **Arriva** bus | ~€5–10* | Seasonal cuts Oct — check arriva.si | Split-base nights in Alps |
+| **LJU → Zagreb** | EC train or FlixBus | ~$15–40* | Prefer rail/bus vs private shuttle | Zagreb Glavni / bus station |
 
 \*Ballpark late-Aug; *Lowfare* vanishes — book mainline **sooner** than you think.  
 **Sell-outs:** Vy summer, Flåmsbana + cruise connectors, Preikestolen early shuttles, Destination Gotland (later).

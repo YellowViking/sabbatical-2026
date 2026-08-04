@@ -216,3 +216,22 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 
 ## Optional / off-beat
 See [scandinavia-optional-offbeat.md](scandinavia-optional-offbeat.md) — Fjøløy if car; Kjerag only as stretch; dawn Preikestolen is the process win, not a secret place.
+
+---
+
+## Money savers
+*Country rules: [scandi-money-tips.md](scandi-money-tips.md) · Norway · AI Mode Pro Aug 2026*
+
+| Do | Skip / watch |
+|---|---|
+| **Kiwi / Rema** + guesthouse kitchen | Daily $40 harbour seafood |
+| **Boat reker** + **Fisketorget soup** (one treat) + **Fortou** | **Skagenkaien** tourist terraces |
+| **Free:** Gamle Stavanger, street art, Breiavatnet, Preikestolen **trail** | **Flor & Fjære** package ~$185–215 |
+| **pulpitrock shuttle ~$49** = value vs car tolls + ~$26 parking + stress | $100+ guided hike tours (trail is free DIY) |
+| Picnic at Sverd i fjell / post-hike | Sit-down both sides of hike day |
+| Kolumbus pass only if many city buses | Base in Forus (transit tax every day) |
+| **Skagen Brygge half-board** math if private (breakfast+fika+dinner) | Paying hotel + 3 restaurant dinners |
+| Tap water on trail | Trail kiosk markups |
+| Petroleum Museum only as rain plan (~$17) | Stacking paid extras on clear hike day |
+
+**Hike day food:** supermarket pack night before — biggest easy save.

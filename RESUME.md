@@ -3,9 +3,11 @@
 **What this is:** planning artifacts for a 6–8 month budget slow-travel sabbatical through Europe, starting ~mid/late August 2026 from Seattle. Built with Claude Code. This file lets another Claude (or you) resume with full context.
 
 **How to resume (next Claude, read in this order):**
+0. `.github/copilot-instructions.md` — **how files link** + checklists so `itinerary.md` stays the entry point (table, §4 hubs, §6/§7, indexes).
 1. `itinerary.md` — the full plan (route, Schengen strategy, lodging, costs, flights, points).
-2. City guides in `memory/*-local-food.md` (CPH→BGO) — food, nature, lodging, **and Getting around / transit**.
-3. `memory/scandi-transit.md` — spine legs index (hub→hub).
+2. City guides in `memory/*-local-food.md` (CPH→STO; optional Gotland+HEL; **TLL→Riga→Vilnius**; **Slovenia** split LJU+Alps) — food, nature, lodging, transit, money; **Riga** has year-base scout. **Next: Croatia.**
+3. `memory/scandi-transit.md` — spine through LJU→Zagreb · `memory/scandi-money-tips.md` — DK/SE/NO + EE/LV/LT + SI.
+3b. **`memory/europe-year-base-nomad.md`** — year-base hub (sabbatical + savings). **`memory/spain-nlv-vs-france-visitor.md`** — deep dive **Spain NLV vs France VLS-T** (no-work means visas).
 4. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
 5. Continue from **Open items** below.
 
@@ -29,13 +31,14 @@ Copenhagen 3n (land here) → Gothenburg 2n → Oslo 3n → **Stavanger/Preikest
 Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey; brief France (Christmas 2023). Route AROUND these. The "go back to the Balkans" wish = the **western** Balkans, which were missed.
 
 ## Cost (fall leg)
-**~$13.5–14k** cash for the ~12-week fall (~83n), Aug 2026 refresh: CPH/GOT/OSL costed on **hostel/value** beds (Next House / Slottsskogens / Bunks) → on-ground ~**$11.5k** (~**$140/day** blended) + transport ~**$2k**. Private rooms those 8n → closer to **~$14k**. Home flight on points → high-**$12ks** cash. Detail: `itinerary.md` §6.
+**~$13.5–14k** cash for the ~12-week fall (~83n): hostel-lean openers + **Baltics split** (TLL/RIX/VNO ~$93/day blended, ~$1.5k / 16n) → on-ground ~**$11.5k** (~**$140/day**) + transport ~**$2k**. Detail: `itinerary.md` §6.
 
 ## Open items
 - [ ] Get user's points/miles + hotel balances → price SEA→Oslo entry and the **mid-Nov home flight** as cash-vs-points (home flight is the best redemption candidate).
 - [ ] Book Norway (late-Aug peak) 1–3 months ahead; vet the Riga apartment's wifi before committing to 15 nights.
 - [ ] Optional: a pre-Norway non-Schengen **UK week** (if the cheap SEA fare lands in London) to delay the Schengen clock.
-- [ ] Firm up Phase 3 (spring: Italy/France/Iberia) closer to February.
+- [ ] Firm up Phase 3 (spring: Italy/France/Iberia) closer to February — fold **year-base scouts** (Valencia/Madeira/Porto) if nomad shortlist still open.
+- [ ] **Year-base:** sabbatical + **savings** → ES NLV vs FR VLS-T (`memory/spain-nlv-vs-france-visitor.md`) or GE/AL or US+90d — not DNVs.
 
 ## Preferences (apply going forward)
 - Always cross-check points/miles redemption vs cash before booking; **Google Flights = cash baseline**. Redeem only when value clears ~1.3–1.5¢/pt.

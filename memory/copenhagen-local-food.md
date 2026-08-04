@@ -225,3 +225,22 @@ Smørrebrød = mostly **lunch**, closes mid-afternoon.
 | Stretch 3→5n | Free-cancel flex rate; late-Aug weekends sell |
 
 **Budget:** lodging alone ~**$40–65 dorm** or ~**$90–130** solid private. Full hotels $150–190+ (itinerary average). Jet-lag night: book **near Tivoli/station**, not a long metro haul.
+
+---
+
+## Money savers
+*Country rules: [scandi-money-tips.md](scandi-money-tips.md) · Denmark · AI Mode Pro Aug 2026*
+
+| Do | Skip / watch |
+|---|---|
+| **Netto / Lidl / Rema 1000** near centre for breakfast + picnic | Meny/Irma for staples |
+| **Hostel kitchen** 1–2 dinners ($4–8) | Restaurant dinner every night ($30+) |
+| **Smørrebrød at lunch** only | “Dinner smørrebrød” tourist pricing |
+| **Free:** Amager Strand, Islands Brygge baths, parks, Kastellet grounds, green ring | **Nyhavn café** table prices (beer from Netto on the quay) |
+| Walk Indre By most days | **Copenhagen Card** on 3n unless 3+ big paid sights same day |
+| **DOT 24h** only if Amager + multiple zones | Random single tickets that add up without a plan |
+| Supermarket beer (no monopoly) | Airport booze / harbour cocktails |
+| Tap water always | Bottled water |
+| Tivoli = one paid night if you want lights — budget it | Stacking every paid museum on landing days |
+
+**Stretch 4–5n:** Louisiana is a **paid** ticket (grounds not a free loophole) — only if you want the art day. Malmö lunch can undercut CPH restaurant prices after cheap Øresund train.

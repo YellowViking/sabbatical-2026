@@ -210,3 +210,23 @@ Islands (Hovedøya) + metro use the right **Ruter** product — buy in-app befor
 
 ## Optional / off-beat
 See also [scandinavia-optional-offbeat.md](scandinavia-optional-offbeat.md) — Ekeberg, Hovedøya, Mathallen already core here; Vettakollen + sauna if **4n**.
+
+---
+
+## Money savers
+*Country rules: [scandi-money-tips.md](scandi-money-tips.md) · Norway · AI Mode Pro Aug 2026*
+
+| Do | Skip / watch |
+|---|---|
+| **Kiwi / Rema 1000** + **First Price** brand · cook at Bunks/Citybox/K7 | Meny for basics |
+| **Husmannskost** (Kaffistova, Schrøder) + **Fiskeriet takeaway** | **Aker Brygge** “Norwegian dinner” terraces |
+| **Free:** Opera roof, Vigeland, Ekeberg, Akershus grounds, many walks | Paying both **Munch and National** — pick **one** |
+| Metro **5** Sognsvann · ferry **B1** Hovedøya on **Ruter** | Taxis ($20–25 short hops) |
+| **Ruter 24h** if lake + ferry + cross-town same day | 7-day pass on a 3n stay (usually overkill) |
+| Picnic Palace gardens / parks | Sit-down lunch every day |
+| Grünerløkka / Torggata cheaper eats | Harbour tourist menus |
+| Tap water | Bottled |
+| Vinmonopolet only if needed · limit bar beer ($11–15) | Nightly cocktails |
+| Citybox/Bunks kitchen nights | Bygdøy museum stack unless rain + interest |
+
+**Museum strategy:** one timed ticket max on default 3n; free nature does the heavy lifting.

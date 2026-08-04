@@ -207,3 +207,23 @@ Beautiful “Fish Church” — go for the building. Post-renovation stalls skew
 | 3n + Vrångö day | Slottsskogens OK; early tram to boat links |
 
 **Budget:** dorms here are a steal vs Oslo/CPH (~**$20–25**). Private value ~**$90–110**; Royal ~$150–190 if you want zero friction after CPH train.
+
+---
+
+## Money savers
+*Country rules: [scandi-money-tips.md](scandi-money-tips.md) · Sweden · AI Mode Pro Aug 2026*
+
+| Do | Skip / watch |
+|---|---|
+| **Willys / Lidl** + hostel kitchen (Slottsskogens has kitchen) | ICA/Coop for every staple |
+| **Dagens lunch** ~$11–14 | Full dinner menus midday |
+| **Kåges / Saluhallen** cheap plates | Waterfront tourist set menus |
+| **Free:** Botaniska, Änggårdsbergen, Haga walk, Slottsskogen, Trädgårdsföreningen/Palmhuset | **Liseberg** on a 2n stop (~$45+ entry) |
+| **Västtrafik** Zone A 24h on Botaniska day | Taxis |
+| **Älvsnabbare** weekday harbour boats often free/cheap local | Paying tourist boat for the same water |
+| Archipelago ferry = **normal transit ticket** (3n Vrångö) | Separate “island tour” packages |
+| Systembolaget if you want wine/strong beer — plan hours | Bar rounds every night ($8–12/beer) |
+| Tap water | Bottled |
+| Walk from Göteborg C to Saluhallen/Haga | Hotel breakfast markups if kitchen exists |
+
+**0n skip:** saves a whole GOT burn — valid money move if rushing OSL.

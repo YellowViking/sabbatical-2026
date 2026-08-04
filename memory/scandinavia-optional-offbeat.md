@@ -30,8 +30,8 @@
 | **SVG** | 3 | 2–4 | Dawn Preikestolen; Kjerag only after + if strong; Fjøløy if car |
 | **BGO+fjords** | 6 | 4–7 | **Split** city + Aurland/Flåm; Undredal; Rimstigen; Sandviken; rain → Ægir not fog cruise |
 | **STO** | 5 | 4–6 | Nacka / Grinda; keep Vasa + Skogskyrkogården; soft-pedal Uppsala/Sigtuna |
-| **Gotland** | 3 | **0–3** | Folhammar, Gnisvärd, Fårö sunset — or **skip** for slack |
-| **HEL** | 2 | 1–3 | Löyly, Seurasaari, Lammassaari; Porvoo if 3n or skip Nuuksio |
+| **Gotland** | 3 | **0–3** | Folhammar, Gnisvärd, Fårö sunset — or **skip** for slack · thin guide: [gotland-local-food.md](gotland-local-food.md) |
+| **HEL** | 2 | 1–3 | Löyly, Seurasaari, Lammassaari; Porvoo if 3n or skip Nuuksio · thin guide: [helsinki-local-food.md](helsinki-local-food.md) |
 
 ---
 
