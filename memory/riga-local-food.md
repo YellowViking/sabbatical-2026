@@ -129,21 +129,22 @@ Boots for bog boardwalk; shell for Atlantic-ish wind.
 | Many | **Cook** at Amella / apt |
 | Avoid | OT square “Baltic feast” traps |
 
-### Anchors *(Maps-linked)*
+### Anchors *(Maps place pins verified Aug 2026 — not search guesses)*
 
-| Place | ★ | Order | ~€ | Maps |
+| Place | Maps ★ (n) | Order | ~€ | Maps |
 |---|---|---|---|---|
-| **Rīgas Centrāltirgus** | — | Smoked fish, rye, hemp butter, hangar kiosks | 6–12 | [Maps](https://www.google.com/maps/search/?api=1&query=Riga+Central+Market) |
-| **Siļķītes un Dillītes** (market fish) | ~4.7 | Marinated Baltic herring + rye + potatoes | 5–8 | [Maps](https://www.google.com/maps/search/?api=1&query=Si%C4%BC%C4%B7%C4%ABtes+un+Dill%C4%ABtes+Riga) |
-| **LIDO Vērmanītis** | ~4.4 ⚠️ value | **Pelēkie zirņi** (gray peas + bacon) · **aukstā zupa** · lunch combo | 8–14 | [Maps](https://www.google.com/maps/search/?api=1&query=LIDO+V%C4%93rman%C4%ABtis+Riga) |
-| **Lidojošā varde** (Flying Frog) | ~4.4 ⚠️ value | Business lunch · **karbonāde** | 9–14 | [Maps](https://www.google.com/maps/search/?api=1&query=Lidojo%C5%A1%C4%81+varde+Riga) |
-| **B7 restorāns** | ~4.8 | One nicer Centrs plate (e.g. pike-perch) | 12–18 | [Maps](https://www.google.com/maps/search/?api=1&query=B7+restor%C4%81ns+Riga) |
-| **Quiet Centre cafés** (Alberta iela belt) | varies | Soup + main lunch special | 9–15 | [Maps](https://www.google.com/maps/search/?api=1&query=Alberta+iela+cafes+Riga) |
-| Market pavilion canteen trays | ~4.4 ⚠️ | Borscht / soljanka / meat+side trays | 3–6 | [Maps](https://www.google.com/maps/search/?api=1&query=Riga+Central+Market+food+court) |
+| **Rīgas Centrāltirgus** | **4.4** (55k) ⚠️ | Smoked fish, rye, hemp butter, hangar kiosks/canteen trays | 3–12 | [Maps](https://www.google.com/maps/place/Riga+Central+Market/@56.9438573,24.1149982,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfd4d1c236e3:0x38d769786a660bd4!8m2!3d56.9438573!4d24.1149982) |
+| **Herrings and dills** *(Siļķītes un Dillītes — market, Nēģu iela 7)* | **4.7** (544) | Marinated Baltic herring + rye + potatoes | 5–10 | [Maps](https://www.google.com/maps/place/Herrings+and+dills/@56.9434022,24.1138184,17z/data=!4m6!3m5!1s0x46eecfd574100003:0x77bfb2a46a719999!8m2!3d56.9434022!4d24.1138184!16s%2Fg%2F11g6mkqfdd) |
+| **LIDO Vērmanītis** | **4.4** (9.7k) ⚠️ value | **Pelēkie zirņi** · **aukstā zupa** · lunch combo | 8–14 | [Maps](https://www.google.com/maps/place/LIDO+V%C4%93rman%C4%ABtis/@56.9528728,24.1197857,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfd27375c9ab:0xf321951ed21f35e2!8m2!3d56.9528728!4d24.1197857) |
+| **Lidojošā varde** (Flying Frog) | **4.4** (2.0k) ⚠️ value | Business lunch · **karbonāde** | 9–15 | [Maps](https://www.google.com/maps/place/Lidojo%C5%A1%C4%81+varde/@56.9581304,24.1105758,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfc5791d5a19:0x76cea0916d588f1a!8m2!3d56.9581304!4d24.1105758) |
+| **B7, restorāns** | **4.8** (131) | One nicer Quiet Centre plate | Maps **€50+** band · not a cheap lunch default | [Maps](https://www.google.com/maps/place/B7,+restor%C4%81ns/@56.9608578,24.0999295,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfb976e05073:0xb6c067279a668670!8m2!3d56.9608578!4d24.0999295) |
+| **Alberta iela** *(walk, not a restaurant)* | **4.8** (293) street | Art Nouveau façades · pick cafés on the block live | lunch varies | [Maps](https://www.google.com/maps/place/Alberta+iela/@56.9595006,24.1079011,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfc5982e59b7:0xc7cd0f7e87d07ab6!8m2!3d56.9595006!4d24.1079011) |
 
-*⚠️ under ~4.5 kept for volume + local value — skim recent 1★ before booking a “special” night there. Skip **Milti un gaļa**-class stalls if Maps under 4.0.*
+**Also on Maps (same brand, different pin):** *Siļķītes un Dillītes \| Herring and dill* at **Tirgoņu iela 4** (~4.9 / 115) — OT edge, not the market pavilion. Prefer **Nēģu iela 7** for market day.
 
-**Kill-list:** Livu / Town Hall square menus · anything with a promoter and laminated “Baltic feast.”
+*⚠️ under ~4.5 kept for volume + local value. Gemini named the places; **stars/addresses/links re-checked on Google Maps** (place IDs). Dropped vague “market food court” search link (it only reopened Centrāltirgus).*
+
+**Kill-list:** Livu / Town Hall square menus · anything with a promoter and laminated “Baltic feast.” · bare `maps/search/?api=1&query=Name` without opening the place pin (can hit Seattle/wrong city or a list).
 
 ---
 
