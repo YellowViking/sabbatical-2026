@@ -67,7 +67,8 @@ skills/                               ← Playwright research how-tos
 | RIX | `memory/riga-local-food.md` (sponge + year-base scout) |
 | VNO | `memory/vilnius-local-food.md` |
 | SI | `memory/slovenia-local-food.md` (LJU + Bled/Bohinj split) |
-| HR / IT / … | add `memory/<name>-local-food.md` when written |
+| HR | `memory/croatia-local-food.md` (ZG · Plitvice · Split · DBV) |
+| IT / … | add `memory/<name>-local-food.md` when written |
 
 ---
 

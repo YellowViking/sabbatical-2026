@@ -40,7 +40,7 @@
 | | **Riga base** | 10 | **7–12** | **#2 swing** · market + Gauja/Ķemeri · year-base lab |
 | → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · then ✈ LJU |
 | early Oct | **Slovenia** | 7 | **6–9** | **Split** LJU + Bled/Bohinj · caves/Piran optional |
-| mid Oct | **Croatia** | 13 | **11–15** | |
+| mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice gate · Split hub · DBV · skip Krka default |
 | late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
 | **~mid-Nov** | ✈ home NAP/FCO | — | — | one-way SEA |
 
@@ -135,8 +135,9 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 **Guide:** [food · nature · lodging · transit · money](memory/slovenia-local-food.md).
 
 ### Croatia (Zagreb → Split → Dubrovnik) — default **13n** · flex **11–15n**
-Zagreb; **Plitvice**; Split hub (Krka/Trogir/Hvar); Dubrovnik. Then fly → Venice.  
-**Year-base scout:** **Zagreb** = best *on-spine* city to stress-test a real **HR digital nomad permit** + Medvednica nature habit; Split = “would I winter here?” (often no). See [europe-year-base-nomad.md](memory/europe-year-base-nomad.md).
+**Split bases:** ~3n **Zagreb** (Medvednica) · **1n Plitvice gate** dawn · ~5–6n **Split** (Marjan · Trogir · Hvar if ferries) · ~3–4n **Dubrovnik** (Lapad lean · Srđ hike · Pass not walls-only). **Skip Krka** default after Plitvice. Mid-Oct = **bus** Split→DBV (fast ferries thin). Exit: DBV→VCE *connect* or Split→Ancona ferry. Beds: **Swanky Mint** (ZG) · House Tina / Falling Lakes (park) · **Dvor** / En Route (Split) · Lapad apt or Angelina (DBV).  
+**Year-base scout:** Zagreb = on-spine **HR nomad-permit** rehearsal + Medvednica habit (income thresholds move — verify). Split = January honesty test.  
+**Guide:** [food · nature · lodging · transit · money · year-base](memory/croatia-local-food.md).
 
 ### Italy (Venice → Naples/Amalfi) — default **~20n** · flex **18–22n** · the warm finale ⭐
 - **Venice (3):** San Marco, Dorsoduro, Murano/Burano.
@@ -208,7 +209,7 @@ Zagreb; **Plitvice**; Split hub (Krka/Trogir/Hvar); Dubrovnik. Then fly → Veni
 ### Transport (headline)
 Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** SEA→Copenhagen ~$230 + Naples/Rome→SEA **~$700** (top points redemption). *Transport all-in ≈ **$2,000**.*
 
-**How-to:** city guides through **Baltics** (CPH→…→TLL→**Riga**→**Vilnius** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
+**How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
 
 **⇒ Plan around ~$13.5k cash** (hostel-lean openers) or **~$14k** if you take private rooms in the first three capitals. *Other levers: Italy −1wk (~−$1k), more Riga nights, home flight on points, hotel points on Bergen/Stockholm spikes.*
 
@@ -245,7 +246,8 @@ Cash the cheap legs and **hostel nights** (poor redemption). **Cross-check** ~$7
 | **Scandi** | [CPH](memory/copenhagen-local-food.md#lodging-hostels--budget) · [GOT](memory/gothenburg-local-food.md#lodging-hostels--budget) · [OSL](memory/oslo-local-food.md#lodging-hostels--budget) · [SVG](memory/stavanger-local-food.md#lodging-hostels--budget) · [BGO](memory/bergen-local-food.md#lodging-split-city--fjord) · [STO](memory/stockholm-local-food.md#lodging-hostels--budget) · [Gotland](memory/gotland-local-food.md#lodging-hostels--budget) · [HEL](memory/helsinki-local-food.md#lodging-hostels--budget) |
 | **Baltics** | [TLL](memory/tallinn-local-food.md#lodging-hostels--budget) · [RIX](memory/riga-local-food.md#lodging-hostels--budget) · [VNO](memory/vilnius-local-food.md#lodging-hostels--budget) |
 | **Alps** | [Slovenia](memory/slovenia-local-food.md#lodging-hostels--budget) (LJU + Bled/Bohinj split) |
-| **South (thin here)** | Croatia / Italy — §4 one-liners until guides written; re-verify on Maps+Booking with the method above |
+| **Adriatic** | [Croatia](memory/croatia-local-food.md#lodging-hostels--budget) (ZG · Plitvice · Split · DBV) |
+| **South (thin here)** | Italy — §4 one-liners until guide written; re-verify on Maps+Booking with the method above |
 
 ### Cost shape (ballpark only — not a shortlist)
 Nordic dorms often **~$20–55** · Baltic dorms **~$20–35** / Riga apt **~$60–80** · Italy centrals often **~$60–100+** (Venice higher). Full all-in/day is §6. Hub blurbs in §4 name the current ⭐ lean in one breath.
@@ -264,7 +266,7 @@ Nordic dorms often **~$20–55** · Baltic dorms **~$20–35** / Riga apt **~$60
 | **Capitals spine** | CPH + GOT + OSL + STO + HEL (+ Gotland optional) all on route |
 | **Nights** | Defaults = planning anchors · flex ranges operational · **Gotland first cut** · don’t strip **STO &lt;4** or **SVG ≲2–3** · **TLL 3n** = city + bog · don’t rob **Riga** for extra TLL museums |
 | **Bergen** | **Split** city + fjord base (not 6n city-only) |
-| **SLO / HR** | Early Oct Alps day-hikes · **SLO split** LJU+Bled/Bohinj · mid-Oct Croatia shoulder |
+| **SLO / HR** | Early Oct Alps day-hikes · **SLO split** LJU+Bled/Bohinj · mid-Oct **HR multi-base** + Plitvice overnight · skip Krka default |
 | **Italy** | Amalfi / Cinque Terre **earlier** in the ~20n block · Rome/Florence/Venice fine late |
 | **Year-base** | Fall Riga = lifestyle lab only · means-visa path = ES/FR later ([hub](memory/europe-year-base-nomad.md)) |
 

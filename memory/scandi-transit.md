@@ -2,7 +2,7 @@
 *CPH → GOT → OSL → SVG → BGO/fjords → STO → (Gotland?) → HEL → **TLL → Riga** → … · late Aug–mid Sep 2026 · nature-first · AI Mode Pro + itinerary costs · Aug 2026*
 
 **Use with:** city guides (`*-local-food.md`) — each has **Getting around** + **Money savers**. This file = **all-legs index** + apps. Country money rules: [scandi-money-tips.md](scandi-money-tips.md).  
-**Guides:** [CPH](copenhagen-local-food.md) · [GOT](gothenburg-local-food.md) · [OSL](oslo-local-food.md) · [SVG](stavanger-local-food.md) · [BGO](bergen-local-food.md) · [STO](stockholm-local-food.md) · [Gotland *(opt.)*](gotland-local-food.md) · [HEL *(opt. thin)*](helsinki-local-food.md) · [Tallinn](tallinn-local-food.md) · [Riga](riga-local-food.md) · [Vilnius](vilnius-local-food.md) · [Slovenia](slovenia-local-food.md).  
+**Guides:** [CPH](copenhagen-local-food.md) · [GOT](gothenburg-local-food.md) · [OSL](oslo-local-food.md) · [SVG](stavanger-local-food.md) · [BGO](bergen-local-food.md) · [STO](stockholm-local-food.md) · [Gotland *(opt.)*](gotland-local-food.md) · [HEL *(opt. thin)*](helsinki-local-food.md) · [Tallinn](tallinn-local-food.md) · [Riga](riga-local-food.md) · [Vilnius](vilnius-local-food.md) · [Slovenia](slovenia-local-food.md) · [Croatia](croatia-local-food.md).  
 **Rule:** book **sell-outs** early (Flåmsbana, Preikestolen shuttle, peak Vy); keep **beds free-cancel**.
 
 ---
@@ -20,6 +20,8 @@
 | **EE TLL** | **pilet.ee** / Ühiskaart · Transit app | Tram/bus · port + Kadriorg |
 | **LV RIX** | **Rīgas satiksme** · **Vivi** trains | City tram/bus · Sigulda/Ķemeri/Jūrmala |
 | **LT VNO** | **JUDU / m.Ticket / Trafi** · LTG Link | City bus · Trakai train |
+| **SI** | **Arriva** · SŽ · Urbana | LJU city · Bled/Bohinj · caves |
+| **HR** | **FlixBus/Arriva** · ZET · Promet Split · Jadrolinija · Libertas | ZG–Plitvice–Split–DBV · Hvar · Lapad buses |
 | **Baltic ferry** | Tallink / Viking / Eckerö · laevapiletid.ee | STO↔HEL · **HEL→Tallinn** |
 | **Baltic bus** | **Lux Express** / Ecolines / Flix | **TLL→Riga→Vilnius** |
 | **Ride** | **Bolt** | All three Baltics |
@@ -57,6 +59,11 @@
 | **LJU airport → city** | Airport bus | ~€4 | Skip taxi scams | Station / center |
 | **LJU ↔ Bled / Bohinj** | **Arriva** bus | ~€5–10* | Seasonal cuts Oct — check arriva.si | Split-base nights in Alps |
 | **LJU → Zagreb** | EC train or FlixBus | ~$15–40* | Prefer rail/bus vs private shuttle | Zagreb Glavni / bus station |
+| **ZG → Plitvice** | FlixBus / Arriva | ~€12–15 | Morning out · ~2h | Gate villages Rastovača/Mukinje |
+| **Plitvice → Split** | FlixBus / Arriva | ~€18–24 | ~3.5–4h from park entrances | Split bus station → Varoš walk/Bolt |
+| **Split → Hvar** | Jadrolinija | varies | Mid-Oct thin — check day-return | Hvar Town / Fortica |
+| **Split → Dubrovnik** | FlixBus / Promet | ~€25–28 · ~4h | Fast ferries often off mid-Oct | Lapad bus 4/6 |
+| **DBV → Venice** | Flight **connect** | ~$80–200* | No nonstop usual | Or ferry Split→Ancona alt |
 
 \*Ballpark late-Aug; *Lowfare* vanishes — book mainline **sooner** than you think.  
 **Sell-outs:** Vy summer, Flåmsbana + cruise connectors, Preikestolen early shuttles, Destination Gotland (later).

@@ -5,8 +5,8 @@
 **How to resume (next Claude, read in this order):**
 0. `.github/copilot-instructions.md` — **how files link** + checklists so `itinerary.md` stays the entry point (table, §4 hubs, §6/§7, indexes).
 1. `itinerary.md` — the full plan (route, Schengen strategy, lodging, costs, flights, points).
-2. City guides in `memory/*-local-food.md` (CPH→STO; optional Gotland+HEL; **TLL→Riga→Vilnius**; **Slovenia** split LJU+Alps) — food, nature, lodging, transit, money; **Riga** has year-base scout. **Next: Croatia.**
-3. `memory/scandi-transit.md` — spine through LJU→Zagreb · `memory/scandi-money-tips.md` — DK/SE/NO + EE/LV/LT + SI.
+2. City guides in `memory/*-local-food.md` (CPH→STO; optional Gotland+HEL; **TLL→Riga→Vilnius**; **Slovenia**; **Croatia** multi-base) — food, nature, lodging, transit, money; **Riga** + **Zagreb** year-base scouts. **Next: Italy.**
+3. `memory/scandi-transit.md` — spine through DBV→Venice · `memory/scandi-money-tips.md` — DK/SE/NO + Baltics + SI + HR.
 3b. **`memory/europe-year-base-nomad.md`** — year-base hub (sabbatical + savings). **`memory/spain-nlv-vs-france-visitor.md`** — deep dive **Spain NLV vs France VLS-T** (no-work means visas).
 4. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
 5. Continue from **Open items** below.

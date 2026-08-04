@@ -18,6 +18,7 @@
 | [Riga](riga-local-food.md#money-savers) | **LV** · Central Market · kitchen · Vivi |
 | [Vilnius](vilnius-local-food.md#money-savers) | **LT** · dienos pietūs · kibinai |
 | [Slovenia](slovenia-local-food.md#money-savers) | **SI** · split base · picnic · skip funicular |
+| [Croatia](croatia-local-food.md#money-savers) | **HR** · park overnight · Pass not walls-only · skip Krka |
 
 ---
 
