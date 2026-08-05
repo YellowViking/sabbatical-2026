@@ -34,7 +34,8 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 **~$13.5–14k** cash for the ~12-week fall (~83n): hostel-lean openers + **Baltics split** (TLL/RIX/VNO ~$93/day blended, ~$1.5k / 16n) → on-ground ~**$11.5k** (~**$140/day**) + transport ~**$2k**. Detail: `itinerary.md` §6.
 
 ## Open items
-- [ ] Get user's points/miles + hotel balances → price SEA→Oslo entry and the **mid-Nov home flight** as cash-vs-points (home flight is the best redemption candidate).
+- [ ] **Book SEA→CPH** ~**$190–215** Icelandair (live Aug 2026 cash winner; see itinerary §6 transport). Points useless on this fare.
+- [ ] Get user's points/miles + hotel balances → price **mid-Nov home flight** as cash-vs-points (best redemption candidate; entry is cash).
 - [ ] Book Norway (late-Aug peak) 1–3 months ahead; vet the Riga apartment's wifi before committing to 15 nights.
 - [ ] Optional: a pre-Norway non-Schengen **UK week** (if the cheap SEA fare lands in London) to delay the Schengen clock.
 - [ ] Firm up Phase 3 (spring: Italy/France/Iberia) closer to February — fold **year-base scouts** (Valencia/Madeira/Porto) if nomad shortlist still open.

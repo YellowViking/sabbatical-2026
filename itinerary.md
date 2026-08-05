@@ -207,7 +207,20 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 *Inter-Baltic coaches TLL–RIX–VNO ≈ **$40–70** total — inside the ~$2k transport envelope.*
 
 ### Transport (headline)
-Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** SEA→Copenhagen ~$230 + Naples/Rome→SEA **~$700** (top points redemption). *Transport all-in ≈ **$2,000**.*
+Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** SEA→**CPH live ~$188–213** o/w (Icelandair via KEF, Aug 2026 check) — was ~$230 placeholder · Naples/Rome→SEA **~$400–700** (points often best). *Transport all-in ≈ **$2,000** (entry can undershoot).*
+
+#### SEA → Europe cash snapshot *(live ~Aug 4–5 2026 · one-way · Google Flights + Kayak)*
+| Route | Date | Cheapest seen | Carrier / shape | Notes |
+|---|---|---:|---|---|
+| **SEA→CPH** ⭐ | **Aug 22** | **~$188–213** | Icelandair · KEF | GF **$213** (long KEF layover) · shorter KEF ~**$335–362** · LH MUC/FRA ~**$388–418** · SAS nonstop ~**$787–1,167** |
+| **SEA→CPH** | Aug 25 | **~$192** | Icelandair · KEF | Multiple ~12–13h options at this price |
+| **SEA→CPH** | Aug 20 | **~$339** | Icelandair | **Worse** than 22/25 — avoid if only chasing cheap |
+| **SEA→OSL** | Aug 22 | **~$266–267** | Icelandair · KEF | ~**+$70–80** vs CPH · skips CPH/GOT start |
+| **SEA→ARN** | Aug 22 | **~$330** | LH via MUC | Breaks NW→SE spine |
+| **SEA→LON** | Aug 22 | **~$459+** | EI via DUB etc. | **Not cheaper** · only if UK pre-week (non-Schengen delay) |
+| **SEA→AMS** | Aug 22 | **~$541+** | various | Not competitive |
+
+**Winner for this plan:** book **cash SEA→CPH Icelandair** ~**$190–215** (verify bag fees — Light often **personal item only**). Prefer a **~2–3h KEF** connection (~$335–360) if the **11h+ layover** hurts more than ~$120–150. **Do not** burn points on this fare (under ~1¢/pt). Save miles for **home flight**. Re-check [Google Flights SEA–CPH](https://www.google.com/travel/flights) + [Icelandair.com](https://www.icelandair.com) before pay — inventory moves hourly.
 
 **How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
 
@@ -217,7 +230,7 @@ Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki f
 Still ~**$750–900** whole-fall cluster (Tivoli, Louisiana if 4n+, Munch *or* National, Preikestolen shuttle ~$40 rt, fjord tickets already partly in Bergen day-rate/transport, Italy museums). Free-first nature in CPH/GOT/OSL guides keeps this from blowing up.
 
 ### Points vs. cash
-Cash the cheap legs and **hostel nights** (poor redemption). **Cross-check** ~$700 home flight + pricey **Bergen/Stockholm/Stavanger hotel** nights (needs balances). CPH/GOT/OSL dorms are usually **cash**.
+Cash the cheap legs and **hostel nights** (poor redemption). **SEA→CPH ~$200 = cash only** (points waste). **Cross-check** home flight (~$400–700 cash) + pricey **Bergen/Stockholm/Stavanger hotel** nights (needs balances). CPH/GOT/OSL dorms are usually **cash**.
 
 ---
 
@@ -279,7 +292,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Schengen slack built** — baseline ~83n / ~6–7-day buffer; **swing pool** = Gotland + Riga + Scandi ranges (see §1).
 - [x] **Neighborhood-vetted lodging shortlist** — detail in city guides; §7 = method only; **re-book as lengths flex** (prefer free cancellation).
 - [x] **Night lengths = flexible defaults** (not fixed calendar vows).
-- [ ] Confirm SEA→**Copenhagen** entry fare + book one-way; rail passes/tickets with changeable dates where possible.
+- [ ] **Book SEA→CPH** while ~**$190–215** Icelandair holds (live Aug 2026); confirm bags on airline site; optional open-jaw with home flight. Rail with changeable dates where possible.
 - [x] Baltic sponge base = **Riga** (flex 7–12n).
 - [ ] Decide early: **Gotland yes/no** (biggest easy swing).
 - [ ] Send **points/miles + hotel balances** → entry + ~$700 home flight + Nordic nights.
@@ -302,7 +315,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 ### 🚆 Book NOW (sell-out risk / peak-summer)
 - **Oslo→Bergen "Bergensbanen"** (vy.no) — summer trains sell out *entirely*, not just the cheap "Lowfare"; already on sale for your dates.
 - **Flåm Railway + Nærøyfjord cruise** (flamsbana.no / norwaysbest.com) — book the departure that connects to the Bergen line; sells out months ahead.
-- **SEA→Copenhagen** one-way (Icelandair/SAS/Norse) — peak-summer, prices only rise now; price it **open-jaw with the home flight**.
+- **SEA→Copenhagen** one-way — **live ~$188–213** Icelandair via KEF (Aug 22/25); book **now** on airline/GF while inventory lasts; Light fare = check bag add-on; optional **open-jaw** with home flight.
 - **Vilnius→Ljubljana** — ⚠ **no nonstop**; it's a *connecting* flight (via Warsaw/Riga/Vienna on LOT/airBaltic/Austrian). Limited seats → book now, budget more time.
 - **Destination Gotland ferry** (destinationgotland.se) — late-Aug sailings sell out; foot passenger is easier.
 - ⚠ **Dubrovnik→Venice — CONFIRMED no nonstop** (~13/day, all connecting via Vienna/Munich/Athens, ~$175–475 o/w, ~5.75h). Book the connection, or skip the air-hop and ferry **Split→Ancona** into Italy instead.
