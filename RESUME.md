@@ -11,7 +11,7 @@
 4. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
 5. Continue from **Open items** below.
 
-## Status (as of 2026-07-15)
+## Status (as of 2026-08-09)
 Fall leg fully specified and costed. Winter = fly home from Italy (leaning). Spring = Iberia/France/Greece (Italy is now a fall leg).
 
 ## Confirmed parameters
@@ -34,8 +34,8 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 **~$13.5–14k** cash for the ~12-week fall (~83n): hostel-lean openers + **Baltics split** (TLL/RIX/VNO ~$93/day blended, ~$1.5k / 16n) → on-ground ~**$11.5k** (~**$140/day**) + transport ~**$2k**. Detail: `itinerary.md` §6.
 
 ## Open items
-- [ ] **Book SEA→CPH** ~**$190–215** Icelandair (live Aug 2026 cash winner; see itinerary §6 transport). Points useless on this fare.
-- [ ] Get user's points/miles + hotel balances → price **mid-Nov home flight** as cash-vs-points (best redemption candidate; entry is cash).
+- [ ] **Book SEA→CPH:** recheck **Aug 23 SK938, 25.5k Virgin + $5.60**, then transfer exactly 26k. Backups: **Aug 24 Icelandair $213** or **Aug 18 Flying Blue 18k + $156.30**.
+- [ ] **Amex/Chase only. Return:** no 18,750-mile Flying Blue space mid-Nov (FCO/CDG/AMS 41k; no NAP inventory); keep the **$400–600 cash / partner-award** plan.
 - [ ] Book Norway (late-Aug peak) 1–3 months ahead; vet the Riga apartment's wifi before committing to 15 nights.
 - [ ] Optional: a pre-Norway non-Schengen **UK week** (if the cheap SEA fare lands in London) to delay the Schengen clock.
 - [ ] Firm up Phase 3 (spring: Italy/France/Iberia) closer to February — fold **year-base scouts** (Valencia/Madeira/Porto) if nomad shortlist still open.
@@ -43,6 +43,7 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 
 ## Preferences (apply going forward)
 - Always cross-check points/miles redemption vs cash before booking; **Google Flights = cash baseline**. Redeem only when value clears ~1.3–1.5¢/pt.
+- Treat **all practical European gateways** as fair game for every flight search, not only the itinerary’s current destination; rank total value after onward cost/time, self-transfer risk, route reversal, and seasonality.
 - Avoid re-routing through already-visited places (list above).
 - Never read/surface the user's API keys or secrets.
 

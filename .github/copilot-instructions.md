@@ -207,6 +207,15 @@ Link **up** to spine indexes; do not depend on chat history.
 
 ---
 
+## Live web research / booking automation
+
+- Prefer documented APIs, signed-session RPC/XHR, or in-page `fetch` over UI click-loops; use batch endpoints when available.
+- Follow the repo’s Maps, Photos, and AI Mode skills before inventing a browser workflow. Use UI only when no stable structured path exists or auth/captcha requires it.
+- For flights, scan all practical European gateways for cash and awards; rank onward cost/time, self-transfer risk, route reversal, and seasonality before live-confirming the finalist.
+- Never expose or commit cookies/tokens or `.playwright-mcp/` output, and stop booking flows before passenger or payment secrets.
+
+---
+
 ## Quick “did I keep the entry point honest?”
 
 Before ending a turn that touched trip content:
