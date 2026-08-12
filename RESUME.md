@@ -34,8 +34,8 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 **~$13.5–14k** cash for the ~12-week fall (~83n): hostel-lean openers + **Baltics split** (TLL/RIX/VNO ~$93/day blended, ~$1.5k / 16n) → on-ground ~**$11.5k** (~**$140/day**) + transport ~**$2k**. Detail: `itinerary.md` §6.
 
 ## Open items
-- [ ] **Book SEA→CPH:** recheck **Aug 23 SK938, 25.5k Virgin + $5.60**, then transfer exactly 26k. Backups: **Aug 24 Icelandair $213** or **Aug 18 Flying Blue 18k + $156.30**.
-- [ ] **Amex/Chase only. Return:** no 18,750-mile Flying Blue space mid-Nov (FCO/CDG/AMS 41k; no NAP inventory); keep the **$400–600 cash / partner-award** plan.
+- [x] **SEA→CPH BOOKED** (Aug 12): SAS **SK938** Aug 23, 15:55→10:10+1, direct 9h15, **25,500 Virgin Points + US$5.60**, 23kg checked bag included.
+- [ ] **Amex/Chase only. Return:** no 18,750-mile Flying Blue space mid-Nov (FCO/CDG/AMS 41k; no NAP inventory); keep the **$400–600 cash / partner-award** plan. Book Naples/Rome→SEA for **~Nov 15** (Schengen day 90 = Nov 21).
 - [ ] Book Norway (late-Aug peak) 1–3 months ahead; vet the Riga apartment's wifi before committing to 15 nights.
 - [ ] Optional: a pre-Norway non-Schengen **UK week** (if the cheap SEA fare lands in London) to delay the Schengen clock.
 - [ ] Firm up Phase 3 (spring: Italy/France/Iberia) closer to February — fold **year-base scouts** (Valencia/Madeira/Porto) if nomad shortlist still open.

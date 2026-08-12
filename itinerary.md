@@ -13,7 +13,7 @@
 ---
 
 ## 1. Fall itinerary at a glance
-*(Start ~**Aug 18–24** · end ~**Nov 9–15** · **baseline ~83n** · hard cap **90 Schengen** · dates slide when you move nights)*
+*(**Land CPH Aug 24** (ticketed) · end ~**Nov 15** · **baseline ~83n** · Schengen day 90 = **Nov 21** · dates slide when you move nights)*
 
 ### Flexibility rules
 | | |
@@ -58,7 +58,7 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 
 - **Balkans = the relief valve, deferred:** the western Balkans (Bosnia, Montenegro, Albania, N. Macedonia, Kosovo) are **non-Schengen — they don't burn your 90 days.** Saving them for a future trip keeps this fall clean; they could also be spliced in *another time* to pause the clock.
 - **No mid-trip reset within this trip:** the whole thing spans <180 days, so a short non-Schengen break wouldn't add Schengen days here — the 90 cap is absolute for *this* window.
-- **The play:** ≤90 days **Aug 18–24 → ~Nov 9–15**, **fly home from Italy**; a spring return needs a **~mid-May** date for a full fresh 90 (Feb/Mar ≈ 0–25 days) — see §8.
+- **The play:** ≤90 days **Aug 24 → ~Nov 15**, **fly home from Italy**; entry is ticketed, so **day 1 = Aug 24 and day 90 = Nov 21** — that's the hard exit. A spring return needs a **~mid-May** date for a full fresh 90 (Feb/Mar ≈ 0–25 days) — see §8.
 
 *Non-Schengen belt (for reference): W. Balkans, Turkey/Georgia, UK/Ireland, Morocco.*
 
@@ -73,7 +73,7 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 ## 4. Fall hubs — what to do & why each length
 
 ### Copenhagen — default **3n** · flex **3–5n** *(entry)*
-Target **Sun Aug 23** SEA departure → **Mon Aug 24 10:10am** CPH arrival on SAS SK938; cash alternative = **Aug 24→25** Icelandair. Train south when ready → Gothenburg or straight Oslo if skipping GOT.
+✅ **Ticketed:** SAS **SK938** departs SEA **Sun Aug 23 3:55pm** → CPH **Mon Aug 24 10:10am** (direct, 9h15). Train south when ready → Gothenburg or straight Oslo if skipping GOT.
 **Default do:** Tivoli recovery night · green-ring parks · Amager/harbour bath · smørrebrød & stegt flæsk.  
 **If 4–5n:** add Louisiana and/or Malmö/Lund and/or Dyrehaven — unlocked only with the extra night(s).  
 **Guide:** [food · nature · lodging · transit · **money**](memory/copenhagen-local-food.md) (scales with length).
@@ -207,21 +207,19 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 *Inter-Baltic coaches TLL–RIX–VNO ≈ **$40–70** total — inside the ~$2k transport envelope.*
 
 ### Transport (headline)
-Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** overall default Aug 23 **SAS nonstop 25.5k Virgin + $5.60**; cash-value alternative Aug 24 **Icelandair $213 airline-direct**; earlier-season alternative Aug 18 **Flying Blue 18.75k + $156.30** (18k Amex/Chase after existing balance) · Naples/Rome→SEA **~$400–700** (points often best). *Transport all-in ≈ **$2,000** (entry can undershoot).*
+Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **booked** (SK938, 25.5k points + $5.60) · Naples/Rome→SEA **~$400–700** still open (points often best). *Transport all-in ≈ **$2,000**, and the entry undershot it.*
 
-#### SEA → Europe cash snapshot *(live Aug 9 2026 · one-way · Google Flights + airline direct)*
-| Route | Date | Cheapest seen | Carrier / shape | Notes |
-|---|---|---:|---|---|
-| **SEA→CPH** | Aug 22–23 | **$213** | Icelandair via KEF | Cheapest routings are **21h55 / 17h45**; reject |
-| **SEA→CPH** ⭐ | **Aug 24** | **$213 airline-direct** | FI684 + FI216 | Cash alternative · **13h20**, arrives **9:45pm** |
-| **SEA→CPH** | Aug 27 | **$213 airline-direct** | FI680 + FI204 | Better **12h15 / 12:55pm** arrival, but later |
-| Other practical gateways | Aug 23 | **$266–538** | OSL/GOT/ARN/DUB/LHR | None beats CPH after onward routing |
+#### ✅ Entry flight — BOOKED (Aug 12 2026)
+| | |
+|---|---|
+| Flight | **SAS SK938**, Airbus A350-900, direct |
+| Route | SEA → CPH, **9h15** |
+| Times | **Sun Aug 23 15:55 → Mon Aug 24 10:10** |
+| Paid | **25,500 Virgin Points + US$5.60** |
+| Baggage | 1×10kg carry-on **+ 1×23kg checked included** |
+| Booked via | Virgin Flying Club (SAS partner award); 26k transferred from Amex/Chase |
 
-**Entry verdict:** book **Aug 23 SK938 nonstop for 25.5k Virgin + $5.60** — **3:55pm→10:10am+1, 9h15**. It arrives **35h35 earlier** and saves **4h05** versus Aug 24 Icelandair; cash alternative = **Aug 24 $213**, earlier-season alternative = **Aug 18 Flying Blue 18k Amex/Chase + $156.30**. Latest structured inventory shows one Virgin seat: log in, recheck, then transfer exactly 26k. [Virgin](https://www.virginatlantic.com/flights/search/slice?origin=SEA&destination=CPH&departing=2026-08-23&passengers=a1t0c0i0&awardSearch=true) · [Icelandair](https://www.icelandair.com/booking/flow/?adt=1&legdate1=2026-08-24&legend1=CPH&legstart1=SEA&points=0&triptype=oneway&lang=en-us).
-
-**Transfer bonuses (Aug 9):** none from Amex/Chase to Virgin or Flying Blue. Amex→Avios +30% does not beat this entry; do not transfer speculatively.
-
-**Amex Platinum:** direct Icelandair airfare earns 5x MR but the $200 airline-fee credit cannot pay airfare; keep Delta selected for eventual home-flight incidentals.
+*Beat the best cash option (Aug 24 Icelandair $213) by arriving 35h35 earlier, 4h05 shorter, nonstop, with a bag included. Delta wanted 89.9k for the same seat.*
 
 **How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
 
@@ -231,13 +229,7 @@ Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki f
 Still ~**$750–900** whole-fall cluster (Tivoli, Louisiana if 4n+, Munch *or* National, Preikestolen shuttle ~$40 rt, fjord tickets already partly in Bergen day-rate/transport, Italy museums). Free-first nature in CPH/GOT/OSL guides keeps this from blowing up.
 
 ### Points vs. cash
-| Choice | Live price | Verdict |
-|---|---:|---|
-| **Aug 23 SK938 economy · Virgin** | **25.5k + $5.60** | ⭐ Overall default; nonstop + morning arrival |
-| **Aug 24 Icelandair via KEF · cash** | **$213** | Cash-value alternative; preserve points |
-| Aug 18 SEA→CPH via CDG · Flying Blue promo | **18.75k + $156.30** | 18k Amex/Chase transfer; earlier-season alternative |
-
-Recheck Virgin before transferring exactly **26k** from Amex or Chase; transfers are irreversible.
+Entry ✅ booked on points (see above). **Remaining redemption target = the mid-Nov home flight** (~$400–700 cash baseline). Amex/Chase only — no Virgin or Flying Blue bonus was live in Aug; Amex→Avios ran +30% to Sep 27. Redeem only above ~1.3–1.5¢/pt, and keep **Delta** as the Amex Platinum airline-credit selection for home-flight incidentals.
 
 ---
 
@@ -288,7 +280,7 @@ Nordic dorms often **~$20–55** · Baltic dorms **~$20–35** / Riga apt **~$60
 | **Bergen** | **Split** city + fjord base (not 6n city-only) |
 | **SLO / HR** | Early Oct Alps day-hikes · **SLO split** LJU+Bled/Bohinj · mid-Oct **HR multi-base** + Plitvice overnight · skip Krka default |
 | **Italy** | Amalfi / Cinque Terre **earlier** in the ~20n block · Rome/Florence/Venice fine late |
-| **Entry search** | Search cash + awards across **all practical European gateways**; count onward cost/time, self-transfer risk, route reversal, and seasonality · current target = CPH SK938 Virgin award |
+| **Entry search** | Search cash + awards across **all practical European gateways**; count onward cost/time, self-transfer risk, route reversal, and seasonality · ✅ resolved: **SK938 booked on Virgin points** |
 | **Year-base** | Fall Riga = lifestyle lab only · means-visa path = ES/FR later ([hub](memory/europe-year-base-nomad.md)) |
 
 Hard constraints only: **90-day cap** + sell-out transport. Everything else floats inside §1 ranges.
@@ -300,10 +292,10 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Schengen slack built** — baseline ~83n / ~6–7-day buffer; **swing pool** = Gotland + Riga + Scandi ranges (see §1).
 - [x] **Neighborhood-vetted lodging shortlist** — detail in city guides; §7 = method only; **re-book as lengths flex** (prefer free cancellation).
 - [x] **Night lengths = flexible defaults** (not fixed calendar vows).
-- [ ] **Book SEA→CPH:** recheck **Aug 23 SK938, 25.5k Virgin + $5.60**, then transfer exactly 26k. Backups: **Aug 24 Icelandair $213** or **Aug 18 Flying Blue 18k + $156.30**.
+- [x] **SEA→CPH BOOKED** (Aug 12) — SK938 Aug 23, **25,500 Virgin Points + $5.60**, direct 9h15, bag included.
 - [x] Baltic sponge base = **Riga** (flex 7–12n).
 - [ ] Decide early: **Gotland yes/no** (biggest easy swing).
-- [ ] Confirm **Amex MR + Chase UR** balances → entry alternative, home flight, Nordic nights.
+- [ ] Confirm **Amex MR + Chase UR** balances → home flight + Nordic nights (entry is ticketed; 500 Virgin Points left over).
 - [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
 - [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece).
 - [ ] **Year-base:** unpaid sabbatical + **high savings** → **Spain NLV vs France VLS-T** deep dive [spain-nlv-vs-france-visitor.md](memory/spain-nlv-vs-france-visitor.md) · hub [europe-year-base-nomad.md](memory/europe-year-base-nomad.md). Fall Riga/Zagreb = lifestyle only; apply means visa from US (not mid-fall).
@@ -311,7 +303,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 ---
 
 ## 10. Booking & prep action plan
-*(Overall departure Aug 23; Aug 24 cash / Aug 18 earlier-season alternatives — ~1–2 weeks out. Lock the sell-out-risk / peak-summer items now; time the rest to their release windows.)*
+*(Entry ticketed: depart **Aug 23**, land **Aug 24** — ~11 days out. Lock the sell-out-risk / peak-summer items now; time the rest to their release windows.)*
 
 ### 🎫 Entry — the good news
 - **ETIAS: NOT required** for an Aug 2026 entry — it launches Q4 2026 (+ ~6-month grace; mandatory ~Apr 2027). *Re-check the official EU portal (travel-europe.europa.eu) in early Aug; never a third-party "ETIAS" site.*
@@ -323,11 +315,11 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 ### 🚆 Book NOW (sell-out risk / peak-summer)
 - **Oslo→Bergen "Bergensbanen"** (vy.no) — summer trains sell out *entirely*, not just the cheap "Lowfare"; already on sale for your dates.
 - **Flåm Railway + Nærøyfjord cruise** (flamsbana.no / norwaysbest.com) — book the departure that connects to the Bergen line; sells out months ahead.
-- **SEA→Copenhagen:** recheck the **Aug 23 SK938 Virgin award**, then transfer exactly 26k; use the Aug 24 cash or Aug 18 Flying Blue alternatives above only if it is gone.
+- [x] ~~**SEA→Copenhagen**~~ ✅ **BOOKED** — SK938 Aug 23, 25.5k points + $5.60. Verify SAS shows the ticket on its own site (partner awards sometimes sit unticketed).
 - **Vilnius→Ljubljana** — ⚠ **no nonstop**; it's a *connecting* flight (via Warsaw/Riga/Vienna on LOT/airBaltic/Austrian). Limited seats → book now, budget more time.
 - **Destination Gotland ferry** (destinationgotland.se) — late-Aug sailings sell out; foot passenger is easier.
 - ⚠ **Dubrovnik→Venice — CONFIRMED no nonstop** (~13/day, all connecting via Vienna/Munich/Athens, ~$175–475 o/w, ~5.75h). Book the connection, or skip the air-hop and ferry **Split→Ancona** into Italy instead.
-- **Home flight Naples/Rome→SEA (~mid-Nov)** — **verified ~$400–600 o/w** (Nov is cheap; Alaska/Delta), *below* the $700 placeholder. **Reject Flying Blue's 18,750-mile SEA promo for this window:** Nov 15 FCO/CDG/AMS starts at **41k**, while NAP has no November reward inventory; keep cash/other points as the plan.
+- **Home flight Naples/Rome→SEA** — target **~Nov 15** (Schengen day 90 = **Nov 21**). **Verified ~$400–600 o/w** (Nov is cheap; Alaska/Delta). Flying Blue's 18,750-mile promo does **not** work for this window (Nov 15 FCO/CDG/AMS = 41k; no NAP inventory) — cash or Amex/Chase partner awards.
 
 ### 📅 By early August
 - **Tallink overnight Stockholm→Helsinki** (tallink.com) — book the cheap **cabin** class (sells out in summer).
