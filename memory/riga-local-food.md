@@ -163,12 +163,12 @@ Boots for bog boardwalk; shell for Atlantic-ish wind.
 
 ### Picks
 
-| Place | Area | ~$ / n | Notes | Maps |
-|---|---|---|---|---|
-| **Aparthotel Amella** ⭐ | Market fringe | **~$62–82** | Kitchen · laundry · year-base sim | [Maps](https://www.google.com/maps/search/?api=1&query=Aparthotel+Amella+Riga) |
-| **Blue Bird** ⭐ hostel | OT / central | capsule/dorm ~$20–50 | Capsules ≠ full apt | [Maps](https://www.google.com/maps/search/?api=1&query=Blue+Bird+capsule+hostel+Riga) |
-| **Naughty Squirrel** | Centrs | dorm ~$20–35 | Social backpacker alt | [Maps](https://www.google.com/maps/search/?api=1&query=Naughty+Squirrel+Hostel+Riga) |
-| **Gutenbergs** | OT edge | **~$80+** | Mid hotel backup | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Gutenbergs+Riga) |
+| Place | Area | ~$ / n | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|
+| **Aparthotel Amella** ⭐ | Market fringe | **~$62–82** | **Riga Central station** · ~5m; Turgeņeva coach stop ~2m | Kitchen · laundry · year-base sim | [Maps](https://www.google.com/maps/search/?api=1&query=Aparthotel+Amella+Riga) |
+| **Blue Bird** ⭐ hostel | OT / central | capsule/dorm ~$20–50 | **Nacionālā opera tram** · ~6m | Capsules ≠ full apt | [Maps](https://www.google.com/maps/search/?api=1&query=Blue+Bird+capsule+hostel+Riga) |
+| **Naughty Squirrel** | OT / coach-station edge | dorm ~$20–35 | **13. janvāra iela tram** · ~2m; Riga Coach Station ~3m | Social backpacker alt | [Maps](https://www.google.com/maps/search/?api=1&query=Naughty+Squirrel+Hostel+Riga) |
+| **Gutenbergs** | OT edge | **~$80+** | **Nacionālais teātris tram** · ~6m | Mid hotel backup | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Gutenbergs+Riga) |
 
 ---
 

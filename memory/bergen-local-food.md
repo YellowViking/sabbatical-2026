@@ -179,23 +179,23 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 
 ### Bergen (2–3n) — stay near station / centre
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Notes | Maps |
-|---|---|---|---|---|---|---|
-| **Marken Guesthouse** ⭐ | Marken / near station | ~8.8 | **35–45** | 90–110 | Social kitchen · central · solo favourite | [Maps](https://www.google.com/maps/search/?api=1&query=Marken+Guesthouse+Bergen) |
-| **Citybox Bergen** ⭐ private | sentrum | ~8.4 | — | **80–100** | Self check-in · kitchen · quiet private | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Bergen) |
-| **HI Montana** | Ulriken slope | ~8.5 | **30–40** | 80–95 | Breakfast · hike vibe · **bus to station** (weak for early trains) | [Maps](https://www.google.com/maps/search/?api=1&query=HI+Bergen+Hostel+Montana) |
+| Place | Area | Score | Dorm ~$ | Private ~$ | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|
+| **Marken Guesthouse** ⭐ | Marken / near station | ~8.8 | **35–45** | 90–110 | **Bergen S** · ~3m | Social kitchen · central · solo favourite | [Maps](https://www.google.com/maps/search/?api=1&query=Marken+Guesthouse+Bergen) |
+| **Citybox Bergen** ⭐ private | sentrum | ~8.4 | — | **80–100** | **Bergen S** · ~5m | Self check-in · kitchen · quiet private | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Bergen) |
+| **HI Montana** | Ulriken slope | ~8.5 | **30–40** | 80–95 | **Montana bus** · ~2m | Breakfast · hike vibe · bus to station (weak for early trains) | [Maps](https://www.google.com/maps/search/?api=1&query=HI+Bergen+Hostel+Montana) |
 
 **Stay:** near **Bergen S** / Lille Lungegårdsvann / walkable Bryggen.  
 **Avoid as only base:** far hillside if you need dawn Flåm connections every day.
 
 ### Fjord (2–3n) — quieter > cruise pier
 
-| Place | Area | Score | ~$ | Notes | Maps |
-|---|---|---|---|---|---|
-| **Svingen Guesthouse** ⭐ | Flåm | ~4.9 G | private **100–130** | Kitchen · views · charm | [Maps](https://www.google.com/maps/search/?api=1&query=Svingen+Guesthouse+Fl%C3%A5m) |
-| **Flåm Camping & Hostel** | Flåm (300m station) | ~4.3 | dorm **35–45** · cabin **95–120** | Budget private cabin + service block | [Maps](https://www.google.com/maps/search/?api=1&query=Fl%C3%A5m+Camping+Hostel) |
-| **Undredal** apt / camping | Undredal | var. | tent ~$35–40 · apt **140–180** | Deep quiet UNESCO side · cheese village | [Maps](https://www.google.com/maps/search/?api=1&query=Undredal+Fjord+Apartments) |
-| Aurland hotels | Aurland (~10m bus) | var. | mid+ | Calmer than Flåm midday crush | [Maps](https://www.google.com/maps/search/?api=1&query=Aurland+hotel) |
+| Place | Area | Score | ~$ | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|
+| **Svingen Guesthouse** ⭐ | Flåm | ~4.9 G | private **100–130** | **Flåm station** · ~5m | Kitchen · views · charm | [Maps](https://www.google.com/maps/search/?api=1&query=Svingen+Guesthouse+Fl%C3%A5m) |
+| **Flåm Camping & Hostel** | Flåm | ~4.3 | dorm **35–45** · cabin **95–120** | **Flåm station** · ~5m | Budget private cabin + service block | [Maps](https://www.google.com/maps/search/?api=1&query=Fl%C3%A5m+Camping+Hostel) |
+| **Undredal** apt / camping | Undredal | var. | tent ~$35–40 · apt **140–180** | **Undredal kai bus/ferry** · at door | Deep quiet UNESCO side · cheese village | [Maps](https://www.google.com/maps/search/?api=1&query=Undredal+Fjord+Apartments) |
+| Aurland hotels | Aurland | var. | mid+ | **Aurland bus** · property-dependent | Calmer than Flåm midday crush · ~10m bus to Flåm | [Maps](https://www.google.com/maps/search/?api=1&query=Aurland+hotel) |
 
 ### How to choose
 | You want | Book |

@@ -186,13 +186,13 @@ Beautiful “Fish Church” — go for the building. Post-renovation stalls skew
 
 ### Picks
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Notes | Maps |
-|---|---|---|---|---|---|---|---|
-| **Slottsskogens Hostel** ⭐ curtain | Linnéstaden | 8.3–8.9 | **20–25** | 55–65 | **Yes — pull curtains on wooden pods** | Best hostel · sauna, gym, kitchen · tram→station ~10m | [Maps](https://www.google.com/maps/search/?api=1&query=Slottsskogens+Hostel+Gothenburg) |
-| **STF Stigbergsliden** | Majorna–Linné | 8.3–8.8 | **20–25** | 53–60 | **No curtains** (open bunks) | Quiet historic · garden · eco · fewer bed outlets | [Maps](https://www.google.com/maps/search/?api=1&query=STF+G%C3%B6teborg+Stigbergsliden) |
-| **Hotell Heden** ⭐ value | Lorensberg | ~8.0–8.2 | — | **90–110** | full private room | 4★ amenities on a budget · gym/sauna | [Maps](https://www.google.com/maps/search/?api=1&query=Hotell+Heden+Gothenburg) |
-| **Hotel Royal** | Inom Vallgraven | ~9.0–9.1 | — | 145–196 | full private room | Most central private · breakfast · Saluhallen 5m | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Royal+Gothenburg) |
-| **Le Mat B&B** *(alt.)* | near Avenyn | ~8.4 | — | ~93 | full private room | Boutique + organic breakfast | [Maps](https://www.google.com/maps/search/?api=1&query=Le+Mat+B%26B+G%C3%B6teborg) |
+| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|---|
+| **Slottsskogens Hostel** ⭐ curtain | Linnéstaden | 8.3–8.9 | **20–25** | 55–65 | **Yes — pull curtains on wooden pods** | **Olivedalsgatan tram** · ~4m | Best hostel · sauna, gym, kitchen · tram→station ~10m | [Maps](https://www.google.com/maps/search/?api=1&query=Slottsskogens+Hostel+Gothenburg) |
+| **STF Stigbergsliden** | Majorna–Linné | 8.3–8.8 | **20–25** | 53–60 | **No curtains** (open bunks) | **Stigbergstorget tram** · ~2m | Quiet historic · garden · eco · fewer bed outlets | [Maps](https://www.google.com/maps/search/?api=1&query=STF+G%C3%B6teborg+Stigbergsliden) |
+| **Hotell Heden** ⭐ value | Lorensberg | ~8.0–8.2 | — | **90–110** | full private room | **Scandinavium tram** · ~4m | 4★ amenities on a budget · gym/sauna | [Maps](https://www.google.com/maps/search/?api=1&query=Hotell+Heden+Gothenburg) |
+| **Hotel Royal** | Inom Vallgraven | ~9.0–9.1 | — | 145–196 | full private room | **Göteborg C / Drottningtorget** · ~3–5m | Most central private · breakfast · Saluhallen 5m | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Royal+Gothenburg) |
+| **Le Mat B&B** *(alt.)* | near Avenyn | ~8.4 | — | ~93 | full private room | **Valand tram** · ~2m | Boutique + organic breakfast | [Maps](https://www.google.com/maps/search/?api=1&query=Le+Mat+B%26B+G%C3%B6teborg) |
 
 *Bed privacy: **Booking.com property text** confirms Slottsskogen curtains. STF = no curtain claim found. Dump: `hostel-curtains-primary-vs-gemini.md`. Bring earplugs.*
 

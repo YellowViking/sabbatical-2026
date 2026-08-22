@@ -114,12 +114,12 @@ Good lake walking weather · book LJU flight with buffer after Trakai day.
 
 *§7 shortlist · named beds only · free cancel while flex · re-check before book.*
 
-| Place | ~$ / n | Notes | Maps |
-|---|---|---|---|
-| **Downtown Forest** ⭐ | dorm ~$20–35 | Social · camping option | [Maps](https://www.google.com/maps/search/?api=1&query=Downtown+Forest+Hostel+Vilnius) |
-| **Mikalo House** ⭐ | ~$25–55 | Clean OT quality pick | [Maps](https://www.google.com/maps/search/?api=1&query=Mikalo+House+Vilnius) |
-| **Domus Maria** | hotel ~$70–120 | Quiet convent hotel if dorm fatigue | [Maps](https://www.google.com/maps/search/?api=1&query=Domus+Maria+Vilnius) |
-| **Jimmy Jumps** | dorm ~$20–35 | Backup if others full | [Maps](https://www.google.com/maps/search/?api=1&query=Jimmy+Jumps+House+Vilnius) |
+| Place | ~$ / n | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|
+| **Downtown Forest** ⭐ | dorm ~$20–35 | **Subačiaus bus** · ~1m; Vilnius station ~18m | Social · camping option | [Maps](https://www.google.com/maps/search/?api=1&query=Downtown+Forest+Hostel+Vilnius) |
+| **Mikalo House** ⭐ | ~$25–55 | **Vilnius station** · ~12m; Vokiečių bus ~3m | Clean OT quality pick | [Maps](https://www.google.com/maps/search/?api=1&query=Mikalo+House+Vilnius) |
+| **Domus Maria** | hotel ~$70–120 | **Vilnius station** · ~9m; Aušros vartai bus ~2m | Quiet convent hotel if dorm fatigue | [Maps](https://www.google.com/maps/search/?api=1&query=Domus+Maria+Vilnius) |
+| **Jimmy Jumps** | dorm ~$20–35 | **Vilnius station** · ~14m; Užupio bus ~2m | Backup if others full | [Maps](https://www.google.com/maps/search/?api=1&query=Jimmy+Jumps+House+Vilnius) |
 
 **Avoid:** far suburbs before early LJU flight without airport-bus plan. Prefer walk-to-OT + €1 airport bus.
 

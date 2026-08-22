@@ -125,17 +125,17 @@ Foliage good · fewer summer crowds · **check Arriva seasonal cuts** · pack sh
 *§7 method · Maps-checked Aug 2026 · free cancel while flex · re-check before book.*
 
 ### Ljubljana
-| Place | Lean | Notes | Maps |
-|---|---|---|---|
-| **OH Apartments & Rooms** ⭐ | private ~$70–100 | Kitchen · quieter Šiška/Tivoli edge · ~20m walk/center transit | [Maps](https://www.google.com/maps/search/?api=1&query=OH+Apartments+Rooms+Ljubljana) |
-| **Hostel Celica** ⭐ dorm | dorm ~$25–40 | Strong Maps sample · character (ex-prison art) | [Maps](https://www.google.com/maps/search/?api=1&query=Hostel+Celica+Ljubljana) |
-| **H2O Hostel** | dorm ~$20–35 | Central backup · tighter rooms | [Maps](https://www.google.com/maps/search/?api=1&query=H2O+Hostel+Ljubljana) |
+| Place | Lean | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|
+| **OH Apartments & Rooms** ⭐ | private ~$70–100 | **Stara cerkev bus** · ~2m; Ljubljana station ~18m | Kitchen · quieter Šiška/Tivoli edge · center transit | [Maps](https://www.google.com/maps/search/?api=1&query=OH+Apartments+Rooms+Ljubljana) |
+| **Hostel Celica** ⭐ dorm | dorm ~$25–40 | **Ljubljana station** · ~7m | Strong Maps sample · character (ex-prison art) | [Maps](https://www.google.com/maps/search/?api=1&query=Hostel+Celica+Ljubljana) |
+| **H2O Hostel** | dorm ~$20–35 | **Ljubljana station** · ~12m; Zmajski most bus ~2m | Central backup · tighter rooms | [Maps](https://www.google.com/maps/search/?api=1&query=H2O+Hostel+Ljubljana) |
 
 ### Bled / Bohinj
-| Place | Lean | Notes | Maps |
-|---|---|---|---|
-| **Bled Hostel** | dorm/private varies | Solid lake-hub hostel | [Maps](https://www.google.com/maps/search/?api=1&query=Bled+Hostel) |
-| **Hostel Pod Voglom** (Bohinj) | dorm ~$30–50 | Outdoor base · Vogel side | [Maps](https://www.google.com/maps/search/?api=1&query=Hostel+Pod+Voglom+Bohinj) |
+| Place | Lean | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|
+| **Bled Hostel** | dorm/private varies | **Bled AP bus station** · ~3m | Solid lake-hub hostel | [Maps](https://www.google.com/maps/search/?api=1&query=Bled+Hostel) |
+| **Hostel Pod Voglom** (Bohinj) | dorm ~$30–50 | **Pod Voglom bus** · at door | Outdoor base · Vogel side | [Maps](https://www.google.com/maps/search/?api=1&query=Hostel+Pod+Voglom+Bohinj) |
 
 **Avoid:** basing all 7n only in LJU if nature is the point · Soča “day trip” without schedule math.
 

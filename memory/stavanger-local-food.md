@@ -194,12 +194,12 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 
 ### Picks
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Notes | Maps |
-|---|---|---|---|---|---|---|---|
-| **Central Stavanger Guesthouse** ⭐ | Brødregata / sentrum | ~9.0 | **40–50** | 75–110 | **No pod curtains** (open bunks) | Real central hostel vibe · kitchen · walk to Byterminalen | [Maps](https://www.google.com/maps/search/?api=1&query=Central+Stavanger+Guesthouse) |
-| **Central Guest House** *(Wessels gate)* | slightly W of core | ~8.8 | — | 120–180 | full private | **Different property** · self check-in flats · kitchen | [Maps](https://www.google.com/maps/search/?api=1&query=Central+Guest+House+Wessels+gate+Stavanger) |
-| **Home Hotel Skagen Brygge** ⭐ private hack | Vågen | ~8.5–8.8 | — | **150–230** *often incl. breakfast + fika + dinner* | full private | Half-board can beat “cheap room + restaurants” | [Maps](https://www.google.com/maps/search/?api=1&query=Home+Hotel+Skagen+Brygge+Stavanger) |
-| **Hotel Victoria** | Vågen | ~8.6–8.9 | — | 195–232 | full private | Historic upscale · easy shuttle walk | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Victoria+Stavanger) |
+| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|---|
+| **Central Stavanger Guesthouse** ⭐ | Brødregata / sentrum | ~9.0 | **40–50** | 75–110 | **No pod curtains** (open bunks) | **Stavanger station / Byterminalen** · ~6m | Real central hostel vibe · kitchen · walk to hike shuttle | [Maps](https://www.google.com/maps/search/?api=1&query=Central+Stavanger+Guesthouse) |
+| **Central Guest House** *(Wessels gate)* | slightly W of core | ~8.8 | — | 120–180 | full private | **Stavanger station / Byterminalen** · ~6m | **Different property** · self check-in flats · kitchen | [Maps](https://www.google.com/maps/search/?api=1&query=Central+Guest+House+Wessels+gate+Stavanger) |
+| **Home Hotel Skagen Brygge** ⭐ private hack | Vågen | ~8.5–8.8 | — | **150–230** *often incl. breakfast + fika + dinner* | full private | **Stavanger station / Byterminalen** · ~8m | Half-board can beat “cheap room + restaurants” | [Maps](https://www.google.com/maps/search/?api=1&query=Home+Hotel+Skagen+Brygge+Stavanger) |
+| **Hotel Victoria** | Vågen | ~8.6–8.9 | — | 195–232 | full private | **Stavanger station / Byterminalen** · ~10m | Historic upscale · easy shuttle walk | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Victoria+Stavanger) |
 
 ### How to choose
 | You want | Book |

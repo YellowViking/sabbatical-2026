@@ -59,7 +59,7 @@
 | **LJU airport → city** | Airport bus | ~€4 | Skip taxi scams | Station / center |
 | **LJU ↔ Bled / Bohinj** | **Arriva** bus | ~€5–10* | Seasonal cuts Oct — check arriva.si | Split-base nights in Alps |
 | **LJU → Zagreb** | EC train or FlixBus | ~$15–40* | Prefer rail/bus vs private shuttle | Zagreb Glavni / bus station |
-| **ZG → Plitvice** | FlixBus / Arriva | ~€12–15 | Morning out · ~2h | Gate villages Rastovača/Mukinje |
+| **ZG → Plitvice area** | FlixBus / Arriva | ~€12–15 | Morning out · ~2h | **Falling Lakes:** Korenica coach + hostel park shuttle · true gate-bed alt: Rastovača/Mukinje |
 | **Plitvice → Split** | FlixBus / Arriva | ~€18–24 | ~3.5–4h from park entrances | Split bus station → Varoš walk/Bolt |
 | **Split → Hvar** | Jadrolinija | varies | Mid-Oct thin — check day-return | Hvar Town / Fortica |
 | **Split → Dubrovnik** | FlixBus / Promet | ~€25–28 · ~4h | Fast ferries often off mid-Oct | Lapad bus 4/6 |

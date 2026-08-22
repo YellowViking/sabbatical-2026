@@ -8,6 +8,7 @@
 2. City guides in `memory/*-local-food.md` (CPH→STO; optional Gotland+HEL; **TLL→Riga→Vilnius**; **Slovenia**; **Croatia** multi-base) — food, nature, lodging, transit, money; **Riga** + **Zagreb** year-base scouts. **Next: Italy.**
 3. `memory/scandi-transit.md` — spine through DBV→Venice · `memory/scandi-money-tips.md` — DK/SE/NO + Baltics + SI + HR.
 3b. **`memory/europe-year-base-nomad.md`** — year-base hub (sabbatical + savings). **`memory/spain-nlv-vs-france-visitor.md`** — deep dive **Spain NLV vs France VLS-T** (no-work means visas).
+3c. **`memory/europe-hikes-cammini.md`** — route-wide hike stack, weather gates, Aurlandsdalen / Juliana / Gauja swaps, Via Francigena mini-cammino, and spring Camino shortlist; **no hike trade has changed nights yet**.
 4. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
 5. Continue from **Open items** below.
 
@@ -31,10 +32,11 @@ Copenhagen 3n (land here) → Gothenburg 2n → Oslo 3n → **Stavanger/Preikest
 Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey; brief France (Christmas 2023). Route AROUND these. The "go back to the Balkans" wish = the **western** Balkans, which were missed.
 
 ## Cost (fall leg)
-**~$13.5–14k** cash for the ~12-week fall (~83n): hostel-lean openers + **Baltics split** (TLL/RIX/VNO ~$93/day blended, ~$1.5k / 16n) → on-ground ~**$11.5k** (~**$140/day**) + transport ~**$2k**. Detail: `itinerary.md` §6.
+**Plan ~$15.9–16.6k cash** for the fixed ~83n fall; carry ~$17k. Living ~**$12.1k** = lodging **$6.8k** (private-first cheap countries, opportunistic private elsewhere) + food **$2.7k** + **3 drinks/day $1.8k** + local/routine **$0.85k**; then 10% living cushion, transport **$1.6–1.8k**, sights **$0.75–0.9k**, and insurance/eSIM **$0.3–0.6k**. Detail: `itinerary.md` §6.
 
 ## Open items
 - [x] **SEA→CPH BOOKED** (Aug 12): SAS **SK938** Aug 23, 15:55→10:10+1, direct 9h15, **25,500 Virgin Points + US$5.60**, 23kg checked bag included.
+- [ ] **Book Copenhagen Aug 24–27:** Urban Camper direct flexible, 4-bed mixed, **$124.39 total / $41.46n**, VAT + linen/towel + drink, cancel ≥48h. Next House is ~$57 more.
 - [ ] **Amex/Chase only. Return:** no 18,750-mile Flying Blue space mid-Nov (FCO/CDG/AMS 41k; no NAP inventory); keep the **$400–600 cash / partner-award** plan. Book Naples/Rome→SEA for **~Nov 15** (Schengen day 90 = Nov 21).
 - [ ] Book Norway (late-Aug peak) 1–3 months ahead; vet the Riga apartment's wifi before committing to 15 nights.
 - [ ] Optional: a pre-Norway non-Schengen **UK week** (if the cheap SEA fare lands in London) to delay the Schengen clock.

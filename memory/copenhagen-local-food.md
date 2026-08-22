@@ -44,13 +44,15 @@ Full spine (all legs): [scandi-transit.md](scandi-transit.md).
 ### Arrive / leave this hub
 | Leg | Mode | Book | Time | ~USD | Notes |
 |---|---|---|---|---|---|
-| **CPH airport → bed** | Metro **M2** | DOT | 15–20m | $5–7 | To **København H** / Rådhuspladsen |
+| **CPH airport → Tivoli-side bed** | Øresund train | DOT / DSB | ~13m | $5–7 | Direct to **København H** · Next House ~6m walk |
+| **CPH airport → Urban Camper** | Metro **M2 → M3** | DOT | ~35m | $5–7 | Transfer at Kongens Nytorv → **Nørrebro** · hostel ~3m walk |
 | **Exit → Gothenburg** | Train | SJ / DSB | 3.5–4h | $25–45 | **København H → Göteborg C** · station buffer **30–40 min** |
 | **Skip GOT → Oslo** | Train same corridor onward | SJ/Vy | longer day | — | Only if dropping GOT |
 
 ### Bed → station (luggage)
 | Bed | To **København H** |
 |---|---|
+| **Urban Camper** ⭐ value | Walk ~3m → **Nørrebro M3** direct to H · ~15–20m door-to-door |
 | **Next House / Steel House** ⭐ | Walk **5–12 min** (Tivoli / Vesterport side) |
 | **CityHub** | Metro/bus ~10–15m **or** walk 20–25m |
 | citizenM Rådhuspladsen | Walk ~5–10m to H / metro |
@@ -65,6 +67,8 @@ Full spine (all legs): [scandi-transit.md](scandi-transit.md).
 | **Amager Strand / harbour bath** | Metro **M2** ~20–25m | Same M2 |
 | **Louisiana** *(4–5n)* | Train Øresund → Humlebæk + walk | Same from H |
 | **Malmö** *(4–5n)* | Train H → Malmö C ~40m | Same |
+
+**Urban Camper transit tax:** M3 from Nørrebro reaches København H / Kongens Nytorv directly; allow roughly 15–25m door-to-door for central sights and a few extra DOT rides versus a Tivoli-side bed. Nordvest/Nørrebro food is useful enough that not every evening requires a return downtown.
 
 ### Bed → food (guide picks)
 | Place | How from Tivoli-side beds |
@@ -198,13 +202,25 @@ Smørrebrød = mostly **lunch**, closes mid-afternoon.
 
 ### Picks
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Notes | Maps |
-|---|---|---|---|---|---|---|---|
-| **Next House** | Indre By (Tivoli side) | 8.6–9.0 | **40–60** | 120–160 | **No curtains** (open bunk alcoves) | Best social poshtel · meet-ups, bars, cinema · light+power at bed | [Maps](https://www.google.com/maps/search/?api=1&query=Next+House+Copenhagen) |
-| **Steel House** | Vesterbro edge | 8.4–8.6 | **45–65** | 130–170 | **Semi-private bunks** (official); curtains **unverified / mixed reviews** | Pool + gym · calmer halls · not Istedgade | [Maps](https://www.google.com/maps/search/?api=1&query=Steel+House+Copenhagen) |
-| **CityHub** ⭐ private | Vesterbro west | 8.8–8.9 | — (hubs) | **90–130** | **Private Hub** (official/Booking) | App capsule · sauna · max privacy without hotel $ | [Maps](https://www.google.com/maps/search/?api=1&query=CityHub+Copenhagen) |
-| **Generator** | Indre By (Adelgade) | ~7.8–8.0 ⚠️ | 40–65 | 140–190 | typically open bunks | Super central · lively · **no kitchen** | [Maps](https://www.google.com/maps/search/?api=1&query=Generator+Hostel+Copenhagen) |
-| **citizenM Rådhuspladsen** | Indre By | ~8.6 | — | 200–270 | full private room | Splurge · 7F lounge workspace · Tivoli door | [Maps](https://www.google.com/maps/search/?api=1&query=citizenM+R%C3%A5dhuspladsen+Copenhagen) |
+| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|---|
+| **Urban Camper** ⭐ value | Nordvest · Nørrebro M3 | **8.3 B (3,959) · 4.3 G (988)** | **37 NR / 41 flex direct** | 134–148 | 4-bed indoor mixed tent | **Nørrebro M3 / S-tog** · ~3m | Direct VAT incl. · linen+towel+drink · shared bath | [Maps](https://www.google.com/maps/search/?api=1&query=Urban+Camper+Hostel+Bar+Copenhagen) |
+| **Next House** | Indre By (Tivoli side) | 8.6–9.0 | **40–60** | 120–160 | **No curtains** (open bunk alcoves) | **København H** · ~6m | Best social poshtel · meet-ups, bars, cinema · light+power at bed | [Maps](https://www.google.com/maps/search/?api=1&query=Next+House+Copenhagen) |
+| **Steel House** | Vesterbro edge | 8.4–8.6 | **45–65** | 130–170 | **Semi-private bunks** (official); curtains **unverified / mixed reviews** | **Vesterport S-tog** · ~2m | Pool + gym · calmer halls · not Istedgade | [Maps](https://www.google.com/maps/search/?api=1&query=Steel+House+Copenhagen) |
+| **CityHub** ⭐ private | Vesterbro west | 8.8–8.9 | — (hubs) | **90–130** | **Private Hub** (official/Booking) | **Frederiksberg Allé M3** · ~6m | App capsule · sauna · max privacy without hotel $ | [Maps](https://www.google.com/maps/search/?api=1&query=CityHub+Copenhagen) |
+| **Generator** | Indre By (Adelgade) | ~7.8–8.0 ⚠️ | 40–65 | 140–190 | typically open bunks | **Kongens Nytorv metro** · ~5m | Super central · lively · **no kitchen** | [Maps](https://www.google.com/maps/search/?api=1&query=Generator+Hostel+Copenhagen) |
+| **citizenM Rådhuspladsen** | Indre By | ~8.6 | — | 200–270 | full private room | **Rådhuspladsen M3/M4** · ~2m | Splurge · 7F lounge workspace · Tivoli door | [Maps](https://www.google.com/maps/search/?api=1&query=citizenM+R%C3%A5dhuspladsen+Copenhagen) |
+
+### Live Aug 24–27 rate check *(1 adult · male/mixed only · Aug 16)*
+
+| Option | Room | Final flexible total | Cancellation | Verdict |
+|---|---|---:|---|---|
+| **Urban Camper direct** ⭐ | 4-bed mixed indoor tent | **DKK 803 / $124.39 · $41.46/n** | Full refund ≥48h before arrival | **Best value** · VAT, linen, towel, one drink included |
+| **Next House direct** | 4-bed “For all” dorm | **DKK 1,168.50 / ~$181 · ~$60/n** | Free until 3d before arrival | Pay ~$57 more for central-station convenience + stronger facilities |
+| **MEININGER direct** | max-10-bed mixed dorm | **DKK 948 / ~$147 · ~$49/n** | Free until 18:00 arrival day | Central, but worse room/value than Urban Camper |
+| **Sleep in Heaven / Booking** | 16-bed mixed dorm | **$115 after 25% VAT · $38.33/n** | Free until Aug 19 | Cheapest, but 7.4 Booking + 16 beds; not worth saving $9 |
+
+**Rejected/unavailable:** Copenhagen Downtown = ~$124 after VAT but 7.3 + explicit party focus · a&o Nørrebro = 6.9 and ~$171 after VAT · Danhostel City could not cover all three nights. Booking’s Copenhagen hostel headlines exclude **25% VAT**; always open the room table before comparing.
 
 *Bed privacy: **primary check Aug 2026** (Maps → official site + Booking), not Gemini-only. See `memory/restaurant-previews/hostel-curtains-primary-vs-gemini.md`. Bring earplugs.*
 
@@ -217,6 +233,8 @@ Smørrebrød = mostly **lunch**, closes mid-afternoon.
 ### How to choose
 | You want | Book |
 |---|---|
+| Best price/quality balance | **Urban Camper direct flexible** |
+| Central arrival/exit convenience | **Next House** |
 | Social dorm + some bed enclosure | **Steel House** (*semi-private* — confirm photos for your room type) or Next House alcove |
 | Social dorm, don’t need curtains | **Next House** |
 | Max privacy without hotel $ | **CityHub** |
@@ -224,7 +242,7 @@ Smørrebrød = mostly **lunch**, closes mid-afternoon.
 | Work lounge / treat | citizenM |
 | Stretch 3→5n | Free-cancel flex rate; late-Aug weekends sell |
 
-**Budget:** lodging alone ~**$40–65 dorm** or ~**$90–130** solid private. Full hotels $150–190+ (itinerary average). Jet-lag night: book **near Tivoli/station**, not a long metro haul.
+**Budget:** live pick = Urban Camper direct flexible **~$41/night**; central premium = Next House **~$60**. Solid privates are currently ~$130+ and fail the value cap. Urban Camper is ~35m from the airport and ~15–25m from central sights; Next House wins only when that convenience is worth ~$19/night.
 
 ---
 

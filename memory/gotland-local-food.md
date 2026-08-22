@@ -111,11 +111,11 @@ Sweden rules apply — [scandi-money-tips.md](scandi-money-tips.md#sweden).
 **Area:** **inside the ring wall** · walkable Visby.  
 **Avoid:** countryside without a car if you only have 2n.
 
-| Pick | Lean | Notes |
-|---|---|---|
-| **Visby Logi** ⭐ | ~$69 ballpark | Social / central shortlist |
-| **Hotell Visby Börs** | ~$88 | Value private alt |
-| **Hotel Helgeand** | ~$155 | Medieval / best-rated splurge |
+| Pick | Lean | Nearest bus *(no rail)* | Notes |
+|---|---|---|---|
+| **Visby Logi** ⭐ | ~$69 ballpark | **Visby busstation** · ~4m | Social / central shortlist |
+| **Hotell Visby Börs** | ~$88 | **Almedalen bus** · ~4m | Value private alt |
+| **Hotel Helgeand** | ~$155 | **Strandgärdet bus** · ~6m | Medieval / best-rated splurge |
 
 *Re-check free-cancel; late-Aug can tighten.* Detail mirrors itinerary §7.
 

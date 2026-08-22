@@ -186,12 +186,12 @@ Islands (Hovedøya) + metro use the right **Ruter** product — buy in-app befor
 
 ### Picks
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Notes | Maps |
-|---|---|---|---|---|---|---|---|
-| **Bunks at Rode** ⭐ curtain | Grünerløkka (Rodeløkka) | 8.6–9.0 | **32–49** | 126–150 | **Yes — blackout pod curtains** | Best central hostel · kitchen, events, roof/cinema · light+power | [Maps](https://www.google.com/maps/search/?api=1&query=Bunks+at+Rode+Oslo) |
-| **K7 Hotel Oslo** | Sentrum (Kvadraturen) | 8.0–8.3 | **33–44** | 120–152 | **No curtains** (open metal bunks) | Poshtel · walk to Opera · kitchen · weaker top-bunk power | [Maps](https://www.google.com/maps/search/?api=1&query=K7+Hotel+Oslo) |
-| **Citybox Oslo** ⭐ private | Sentrum by Oslo S | ~8.1 B · 4.2★ G | — | **85–116** | full private room | Self check-in · **no dorms** · guest kitchen | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Oslo) |
-| **Cochs Pensjonat** | Frogner / Palace | 8.3–8.7 | — | **68–114** | full private room | Historic · kitchenettes · Vigeland side | [Maps](https://www.google.com/maps/search/?api=1&query=Cochs+Pensjonat+Oslo) |
+| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|---|
+| **Bunks at Rode** ⭐ curtain | Grünerløkka (Rodeløkka) | 8.6–9.0 | **32–49** | 126–150 | **Yes — blackout pod curtains** | **Birkelunden tram** · ~5m; Dælenenga bus ~1m | Best central hostel · kitchen, events, roof/cinema · light+power | [Maps](https://www.google.com/maps/search/?api=1&query=Bunks+at+Rode+Oslo) |
+| **K7 Hotel Oslo** | Sentrum (Kvadraturen) | 8.0–8.3 | **33–44** | 120–152 | **No curtains** (open metal bunks) | **Stortinget T-bane** · ~4m | Poshtel · walk to Opera · kitchen · weaker top-bunk power | [Maps](https://www.google.com/maps/search/?api=1&query=K7+Hotel+Oslo) |
+| **Citybox Oslo** ⭐ private | Sentrum by Oslo S | ~8.1 B · 4.2★ G | — | **85–116** | full private room | **Oslo S** · ~4m; Dronningens gate tram at door | Self check-in · **no dorms** · guest kitchen | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Oslo) |
+| **Cochs Pensjonat** | Frogner / Palace | 8.3–8.7 | — | **68–114** | full private room | **Welhavens gate tram** · ~2m | Historic · kitchenettes · Vigeland side | [Maps](https://www.google.com/maps/search/?api=1&query=Cochs+Pensjonat+Oslo) |
 
 *Bed privacy: **Bunks official site** confirms blackout curtains on every bunk. K7 = bunks+lockers only, no curtain claim. Dump: `hostel-curtains-primary-vs-gemini.md`. Bring earplugs.*
 

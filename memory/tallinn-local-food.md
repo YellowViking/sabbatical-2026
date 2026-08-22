@@ -71,7 +71,7 @@ Crisp ~10–14°C · fewer cruise peaks than July · still fine for boardwalks �
 |---|---|---|---|---|
 | **HEL → TLL** | Ferry | ~2h | ~$30–60 | Multiple/day · midweek cheaper · avoid Fri PM crush if you can |
 | **Port → bed** | Tram/walk/Bolt | 10–25m | few $ | D-terminal area → Old Town / Telliskivi |
-| **TLL → Riga** | **Lux Express** bus | ~4–4.5h | ~$15–30 | Book seat; leaves Balti Jaam / bus station area |
+| **TLL → Riga** | **Lux Express** bus | ~4–4.5h | ~$15–30 | **Tallinn Coach Station**, Lastekodu 46 — not Balti Jaam; book seat |
 | Skip HEL | Rare STO→TLL ferry exists — out of default spine |
 
 ### Bed → sights
@@ -181,12 +181,12 @@ Crisp ~10–14°C · fewer cruise peaks than July · still fine for boardwalks �
 
 ### Picks
 
-| Place | Area | Lean ~$ | Notes | Maps |
-|---|---|---|---|---|
-| **Viru Backpackers** ⭐ dorm | OT Viru | dorm ~$25–40 | Best backpacker pick | [Maps](https://www.google.com/maps/search/?api=1&query=Viru+Backpackers+Hostel+Tallinn) |
-| **Fat Margaret's** ⭐ private | OT gate | ~$45–60 | Sauna · hybrid private | [Maps](https://www.google.com/maps/search/?api=1&query=Fat+Margaret%27s+Hostel+Tallinn) |
-| **Espak Hostel** | central | dorm varies | Strong alt | [Maps](https://www.google.com/maps/search/?api=1&query=Espak+Hostel+Tallinn) |
-| **Munkenhof** | OT | ~$30–45 | Kitchen · established | [Maps](https://www.google.com/maps/search/?api=1&query=Old+Town+Munkenhof+Guesthouse+Tallinn) |
+| Place | Area | Lean ~$ | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|
+| **Viru Backpackers** ⭐ dorm | OT Viru | dorm ~$25–40 | **Viru tram** · ~3m | Best backpacker pick | [Maps](https://www.google.com/maps/search/?api=1&query=Viru+Backpackers+Hostel+Tallinn) |
+| **Fat Margaret's** ⭐ private | OT gate | ~$45–60 | **Suur Rannavärav tram** · ~1m | Sauna · hybrid private | [Maps](https://www.google.com/maps/search/?api=1&query=Fat+Margaret%27s+Hostel+Tallinn) |
+| **Espak Hostel** | Luite / Viadukti | dorm varies | **Viadukti bus** · ~2m | Out-of-core, bus-only tradeoff · only if rate compensates | [Maps](https://www.google.com/maps/search/?api=1&query=Espak+Hostel+Tallinn) |
+| **Munkenhof** | OT | ~$30–45 | **Mere puiestee tram** · ~4m | Kitchen · established | [Maps](https://www.google.com/maps/search/?api=1&query=Old+Town+Munkenhof+Guesthouse+Tallinn) |
 
 Eye mask for dorms. Kitchen = Rimi win.
 

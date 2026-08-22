@@ -197,12 +197,12 @@ Still good daylight for islands/forest. Book **Vasa** and any **archipelago boat
 
 ### Picks
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Notes | Maps |
-|---|---|---|---|---|---|---|
-| **City Backpackers** ⭐ | Norrmalm near centre | ~8.5–9.0 | **35–50** | 90–130 | Social kitchen · sauna often · solo classic | [Maps](https://www.google.com/maps/search/?api=1&query=City+Backpackers+Stockholm) |
-| **Generator Stockholm** | Torsgatan / Norrmalm | ~8.0–8.4 | **40–55** | 100–150 | Big social · central-ish · check curtain/pod room type | [Maps](https://www.google.com/maps/search/?api=1&query=Generator+Stockholm) |
-| **Castanea Old Town** | Gamla Stan | ~8.5+ | **40–55** | 110–160 | Location win · quieter hostel vibe | [Maps](https://www.google.com/maps/search/?api=1&query=Castanea+Old+Town+Hostel+Stockholm) |
-| **STF / HI** (af Chapman or city HI) | island or city | ~8.0+ | **35–50** | var. | Chapman = boat hostel iconic · book early | [Maps](https://www.google.com/maps/search/?api=1&query=STF+af+Chapman+Stockholm) |
+| Place | Area | Score | Dorm ~$ | Private ~$ | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|
+| **City Backpackers** ⭐ | Norrmalm near centre | ~8.5–9.0 | **35–50** | 90–130 | **Stockholm C / T-Centralen** · ~5m | Social kitchen · sauna often · solo classic | [Maps](https://www.google.com/maps/search/?api=1&query=City+Backpackers+Stockholm) |
+| **Generator Stockholm** | Torsgatan / Norrmalm | ~8.0–8.4 | **40–55** | 100–150 | **Stockholm C / T-Centralen** · ~7m | Big social · central-ish · check curtain/pod room type | [Maps](https://www.google.com/maps/search/?api=1&query=Generator+Stockholm) |
+| **Castanea Old Town** | Gamla Stan | ~8.5+ | **40–55** | 110–160 | **Gamla stan T-bana** · ~5m | Location win · quieter hostel vibe | [Maps](https://www.google.com/maps/search/?api=1&query=Castanea+Old+Town+Hostel+Stockholm) |
+| **STF af Chapman / Skeppsholmen** | Skeppsholmen | ~8.0+ | **35–50** | var. | **Kungsträdgården T-bana** · ~10m; Östasiatiska museet bus ~2m | Boat hostel iconic · book early | [Maps](https://www.google.com/maps/search/?api=1&query=STF+af+Chapman+Stockholm) |
 
 ### How to choose
 | You want | Book |

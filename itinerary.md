@@ -2,13 +2,14 @@
 
 **Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow-ish travel (snappy per-stop), comfortable budget · **Threads** cities & culture + nature/hiking throughout.
 
-**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights baseline (~6–7-day buffer** — Italy trimmed for slack; see §2). **Nights are flexible ranges** — move days as energy/weather dictate; keep total **≤90**. Lodging picks are neighborhood-vetted (§7) but **re-bookable** as lengths shift. Winter = fly home; **Balkans deferred**. Spring = provisional (§5).  
+**Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights baseline (~6–7-day buffer** — Italy trimmed for slack; see §2). **Nights are flexible ranges** — move days as energy/weather dictate; keep total **≤90**. Lodging picks are neighborhood-vetted (§7) but **re-bookable** as lengths shift. Winter = fly home; **Balkans deferred**. Spring = provisional (§5).
 **Parallel goal:** identify a **~1-year base** near/in Europe — fall stops are **lifestyle scouts**. Year-1 may be **unpaid sabbatical** (no employer → most DNVs out). See [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md).
 
 **Route in one line (order fixed; lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → Helsinki → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
 > Contents: [1) Fall at a glance](#1-fall-itinerary-at-a-glance) · [2) Schengen](#2-the-schengen-constraint) · [3) Avoid-list](#3-already-visited--route-around-these) · [4) Fall hubs](#4-fall-hubs--what-to-do--why-each-length) · [5) Winter & spring](#5-winter--spring-provisional) · [6) Costs](#6-costs-fall-leg) · [7) Lodging](#7-lodging) · [8) Locked outcomes](#8-locked-outcomes) · [9) Open items](#9-open-items--decisions) · [Appendix](#appendix--data-sources--method)  
 > **Transit how-to:** [memory/scandi-transit.md](memory/scandi-transit.md) · **Money savers (DK/SE/NO + cities):** [memory/scandi-money-tips.md](memory/scandi-money-tips.md) · **Year-base / nomad scout:** [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md)
+> **Transit how-to:** [memory/scandi-transit.md](memory/scandi-transit.md) · **Money savers (DK/SE/NO + cities):** [memory/scandi-money-tips.md](memory/scandi-money-tips.md) · **Hikes & cammini:** [route-fit shortlist](memory/europe-hikes-cammini.md) · **Year-base / nomad scout:** [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md)
 
 ---
 
@@ -40,7 +41,7 @@
 | | **Riga base** | 10 | **7–12** | **#2 swing** · market + Gauja/Ķemeri · year-base lab |
 | → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · then ✈ LJU |
 | early Oct | **Slovenia** | 7 | **6–9** | **Split** LJU + Bled/Bohinj · caves/Piran optional |
-| mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice gate · Split hub · DBV · skip Krka default |
+| mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice area · Split hub · DBV · skip Krka default |
 | late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
 | **~mid-Nov** | ✈ home NAP/FCO | — | — | one-way SEA |
 
@@ -74,17 +75,20 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 
 ### Copenhagen — default **3n** · flex **3–5n** *(entry)*
 ✅ **Ticketed:** SAS **SK938** departs SEA **Sun Aug 23 3:55pm** → CPH **Mon Aug 24 10:10am** (direct, 9h15). Train south when ready → Gothenburg or straight Oslo if skipping GOT.
-**Default do:** Tivoli recovery night · green-ring parks · Amager/harbour bath · smørrebrød & stegt flæsk.  
-**If 4–5n:** add Louisiana and/or Malmö/Lund and/or Dyrehaven — unlocked only with the extra night(s).  
+**Default do:** Tivoli recovery night · green-ring parks · Amager/harbour bath · smørrebrød & stegt flæsk.
+**If 4–5n:** add Louisiana and/or Malmö/Lund and/or Dyrehaven — unlocked only with the extra night(s).
+Beds: **Urban Camper** ⭐ 4-bed mixed tent **~$41 direct flex** (VAT + linen/towel + drink) · **Next House** central premium ~**$60**. No current private meets the ≤$110 value cap.
 **Guide:** [food · nature · lodging · transit · **money**](memory/copenhagen-local-food.md) (scales with length).
 
 ### Gothenburg — default **2n** · flex **0–3n**
 On the CPH→Oslo line (~3.5h each hop). **0n** = skip (long travel day CPH→OSL). **2n** = Haga + Botaniska/Änggårdsbergen + räkmacka. **3n** = full **Vrångö** day.  
+Beds: **Hotell Heden** private target (~$90–110) · hostel fallback only if the final private rate misses the cap.
 **Guide:** [food · nature · lodging · transit · **money**](memory/gothenburg-local-food.md).
 
 ### Oslo — default **3n** · flex **2–4n**
 Opera roof, Akershus, Vigeland, Munch *or* National Museum, Grünerløkka; **Ekeberg** sunset · **Sognsvann** · **Hovedøya**; husmannskost (Schrøder / Kaffistova / Fiskeriet) not Brygge. Bygdøy = rain backup.  
 **+1n:** sauna + Vettakollen/Nordmarka. *Emanuel Vigeland Mausoleum = Sundays only.*  
+Beds: **Citybox / Cochs** private target (~$85–115) · Bunks/K7 dorm only when the private premium is poor.
 **Guide:** [food · nature · lodging · transit · **money**](memory/oslo-local-food.md).
 
 ### Stavanger + Preikestolen — default **3n** · flex **2–4n** ⭐
@@ -96,18 +100,20 @@ Food: harbour **reker**, Fisketorget soup, Janas smokehouse — not Skagenkaien 
 ### Bergen + fjords — default **6n** · flex **4–7n**
 Bryggen, Fløyen/Ulriken, KODE; **fjord block** (Flåm + Nærøyfjord + Stegastein). *Book Flåm/cruise early; pack rain.*  
 **Preferred shape:** **2–3n Bergen + 2–3n Aurland/Flåm/Undredal** (not six city nights). Quieter: **Undredal**, Gudvangen/**Rimstigen**, Sandviken. Fog day: KODE + Ægir, not a blind cruise.  
-Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **Marken** or Citybox (city) · Svingen / camping cabin / Undredal (fjord).  
+**Hard-hike choice:** **Aurlandsdalen Østerbø→Vassbygdi** if the seasonal bus/trail align, or Rimstigen if dry — **not both**.
+
+Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **Citybox private** (city) · **Svingen / cabin** (fjord) · Marken dorm fallback.
 **Guide:** [food · nature · lodging · transit · **money**](memory/bergen-local-food.md).
 
 ### Stockholm — default **5n** · flex **4–6n**
 Gamla Stan, **Vasa**, Djurgården, Södermalm, **Skogskyrkogården**; archipelago; **Tyresta**.  
 **Optional:** Nackareservatet or **Grinda**/outer islands. Soft-pedal Sigtuna/Uppsala if nature-first.  
-Food: Söder herring/meatballs · not Gamla Stan squares. Beds: **City Backpackers** / Generator / Castanea.  
+Food: Söder herring/meatballs · not Gamla Stan squares. Beds: **City Backpackers private** if ≤$110 · its dorm or Castanea fallback.
 **Nights (Gemini Pro check):** typical city-only 3–4n; **nature-first 5n is the sweet spot**; 6n only for Grinda/slow. Cut Gotland before cutting STO below 4.  
 **Guide:** [food · nature · lodging · transit · money · nights](memory/stockholm-local-food.md).
 
 ### Gotland / Visby — default **3n** · flex **0–3n** *(#1 swing · optional stop)*
-Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/Bergen/Riga. **2n** minimum if going (1 walls + 1 island). **3n** only with **Folhammar / Gnisvärd / Fårö sunset**. *Late-Aug ferries — book if committed.* Beds: **Visby Logi** inside the wall.  
+Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/Bergen/Riga. **2n** minimum if going (1 walls + 1 island). **3n** only with **Folhammar / Gnisvärd / Fårö sunset**. *Late-Aug ferries — book if committed.* Beds: **Hotell Visby Börs** private target (~$88) · Visby Logi fallback.
 **Guide (optional):** [ferry · walls · island · lodging · money](memory/gotland-local-food.md) — thin card; skip file if 0n.
 
 ### Helsinki — default **2n** · flex **1–3n** *(on spine · optional thin guide)*
@@ -118,24 +124,28 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 
 ### Tallinn — default **3n** · flex **2–4n**
 HEL ferry in (~2h). **Old Town walls** (don’t dine Raekoja plats) · **Telliskivi/Kalamaja** food · **Kadriorg** · **Viru bog/Lahemaa** on the nature day. Exit **Lux Express → Riga**.  
-**Nights:** 3 = sweet spot (city + one bog day); 2 = drop Lahemaa; 4 only if stealing carefully from Gotland/Riga. Beds: **Viru** ⭐ dorm · **Fat Margaret’s** ⭐ private · Espak / Munkenhof · *not* Imaginary.  
+**Nights:** 3 = sweet spot (city + one bog day); 2 = drop Lahemaa; 4 only if stealing carefully from Gotland/Riga. Beds: **Fat Margaret’s** ⭐ private first · Viru ⭐ dorm fallback · *not* Imaginary.
 **Guide:** [food · nature · lodging · transit · money · nights](memory/tallinn-local-food.md).
 
 ### Riga — default **10n** · flex **7–12n** *(#2 swing / sponge · year-base lab)*
 Lux bus from TLL. **Central Market** (not OT squares) · Art Nouveau Quiet Centre · **Sigulda/Gauja** · **Ķemeri bog** · Jūrmala *or* Rundāle · kitchen nights at **Amella**. *Park leftover Scandi days here or trim if Italy needs buffer.*  
+**Through-walk option:** use two sponge nights for a contiguous **Forest Trail / E11** stage pair around Sigulda–Līgatne–Cēsis; confirm official GPX, beds and return transit first.
+
 **Year-base scout:** 3+ workdays + cowork day pass + nature habit + “lease?” notes — **lifestyle only** (not a free year visa).  
 **Guide:** [food · nature · lodging · transit · money · year-base](memory/riga-local-food.md).
 
 ### Vilnius — default **3n** · flex **2–4n**
-Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; optional Pavilniai if 4n. Then ✈ **Ljubljana** (connecting). Beds: **Downtown Forest** ⭐ · **Mikalo** ⭐ · Domus Maria · Jimmy Jumps backup.  
+Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; optional Pavilniai if 4n. Then ✈ **Ljubljana** (connecting). Beds: **Domus Maria / Mikalo private** first · Downtown Forest dorm fallback.
 **Guide:** [food · nature · lodging · transit · money](memory/vilnius-local-food.md).
 
 ### Slovenia — default **7n** · flex **6–9n**
-**Split:** ~3n **Ljubljana** + ~4n **Bled or Bohinj** (not seven city nights). Vintgar · Bohinj/Vogel · Mostnica; caves from LJU; Piran only if 8n+. Soča ≠ casual LJU day trip. Beds: **OH Apartments** / **Celica** (LJU) · Bled Hostel / Pod Voglom (Alps).  
+**Split:** ~3n **Ljubljana** + ~4n **Bled or Bohinj** (not seven city nights). Vintgar · Bohinj/Vogel · Mostnica; caves from LJU; Piran only if 8n+. Soča ≠ casual LJU day trip. Beds: **OH Apartments private** (LJU) · private ≤$100 in the Alps · Celica/Bled/Pod Voglom dorm fallback.
+**Through-walk option:** a 2-day **Juliana Trail** Bled→Pokljuka/Goreljek→Bohinj replaces the Vintgar/Vogel sampler; early-October snow or a closed intermediate bed cancels it. **No Triglav summit** on this pass.
+
 **Guide:** [food · nature · lodging · transit · money](memory/slovenia-local-food.md).
 
 ### Croatia (Zagreb → Split → Dubrovnik) — default **13n** · flex **11–15n**
-**Split bases:** ~3n **Zagreb** (Medvednica) · **1n Plitvice gate** dawn · ~5–6n **Split** (Marjan · Trogir · Hvar if ferries) · ~3–4n **Dubrovnik** (Lapad lean · Srđ hike · Pass not walls-only). **Skip Krka** default after Plitvice. Mid-Oct = **bus** Split→DBV (fast ferries thin). Exit: DBV→VCE *connect* or Split→Ancona ferry. Beds: **Swanky Mint** (ZG) · House Tina / Falling Lakes (park) · **Dvor** / En Route (Split) · Lapad apt or Angelina (DBV).  
+**Split bases:** ~3n **Zagreb** (Medvednica) · **1n Plitvice area** for dawn · ~5–6n **Split** (Marjan · Trogir · Hvar if ferries) · ~3–4n **Dubrovnik** (Lapad lean · Srđ hike · Pass not walls-only). **Skip Krka** default after Plitvice. Mid-Oct = **bus** Split→DBV (fast ferries thin). Exit: DBV→VCE *connect* or Split→Ancona ferry. Beds: private-heavy except **Falling Lakes** ⭐ no-car shuttle lean at Plitvice · Varoš/Radunica room (Split) · **Lapad apt** (DBV). House Tina is a Grabovac private alt, **not** a gate walk.
 **Year-base scout:** Zagreb = on-spine **HR nomad-permit** rehearsal + Medvednica habit (income thresholds move — verify). Split = January honesty test.  
 **Guide:** [food · nature · lodging · transit · money · year-base](memory/croatia-local-food.md).
 
@@ -143,9 +153,14 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 - **Venice (3):** San Marco, Dorsoduro, Murano/Burano.
 - **Cinque Terre (2):** the coastal village hike.
 - **Florence + Tuscany (3–4):** Uffizi, Duomo, *David*; Siena day.
+- **Mini-cammino (open):** replace the Siena day trip with **Via Francigena Monteriggioni→Siena (~20.6 km)** by moving a Tuscany bed — **no total-night increase**. The 2-day San Gimignano→Monteriggioni→Siena version needs an explicit Florence/swing-night trade.
 - **Rome (5):** Colosseum/Forum, Vatican, Trastevere, Borghese.
 - **Naples + Amalfi/Pompeii (~5):** Naples, **Pompeii/Herculaneum**, **Vesuvius**, **Amalfi Coast** (Positano, Path of the Gods), Capri.
 - ✈ **home from Naples (NAP) or Rome (FCO).** *Trimmed to ~20n to hold the Schengen buffer — snappier, but still Venice→Amalfi.*
+
+**Beds:** hybrid baseline; take central private rooms around **≤$110 final flexible**, otherwise use a well-rated central hostel. Italy rates remain the largest unverified lodging risk.
+
+**Walking layer (no nights moved):** core route hikes stay in their existing hubs; the unresolved swaps are Aurlandsdalen vs Rimstigen, Juliana traverse vs the Alps sampler, Gauja E11 vs Riga base days, and 1-day vs 2-day Via Francigena.
 
 ---
 
@@ -158,56 +173,62 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 
 ## 6. Costs (fall leg)
 
-**Bottom line (Aug 2026 refresh):** ~**$13.5–14k** cash for the ~12-week fall at **baseline 83n**, if CPH/GOT/OSL follow the §7 **hostel / value** picks. Blended on-ground ~**$140/day** (~$11.5k ÷ 83).  
-*Prior headline was ~$14k / ~$12.3k ground (~$155/day) with mid-hotel openers. Verified dorm/poshtel beds cut **~$315** on the first **8n** (CPH+GOT+OSL) vs that hotel model; rest of route unchanged. Not a full rewrite of Norway/Italy.*
+**Bottom line (Aug 16 refresh): carry ~$17k; expected cash spend ~$15.9–16.6k for the fixed 83n fall.** The transparent living model is ~**$12.1k**: lodging ~**$6.8k** + food ~**$2.7k** + three drinks/day ~**$1.8k** + local/routine costs ~**$0.85k**. Add a 10% living cushion (~$1.2k), all transport (~$1.6–1.8k), major sights (~$0.75–0.9k), and insurance/eSIM (~$0.3–0.6k).
 
-**Lodging assumption in the table:** CPH **Next House**-class dorm · GOT **Slottsskogens** dorm · OSL **Bunks / K7** dorm · later stops still mid-hotel / apartment averages from §7. Food = value local (guides), not fine dining.
+**Room strategy:** private-first in the Baltics, Slovenia, and Croatia; take private elsewhere when the final flexible rate is **≤$110/night or ≤$40 above** a good dorm. Keep dorms when private is >2× the dorm or materially above that cap (currently Copenhagen, Stavanger, and some Stockholm/Italy nights). The table budgets a private/hybrid mix rather than assuming every deal appears.
 
-### On-the-ground (rough)
-| Region | Nights | Lodging lean | ~All-in/day | Subtotal |
-|---|---|---|---|---|
-| Copenhagen | 3 | dorm ~$45–55 | **$145** | ~$435 |
-| Gothenburg | 2 | dorm ~$20–25 | **$115** | ~$230 |
-| Oslo | 3 | dorm ~$35–45 | **$145** | ~$435 |
-| Stavanger + Preikestolen | 3 | guest house ~$80+ | $180 | ~$540 |
-| Bergen + fjords | 6 | mid | $210 | ~$1,260 |
-| Stockholm | 5 | mid | $175 | ~$875 |
-| Gotland | 3 | mid / Logi | $150 | ~$450 |
-| Helsinki | 2 | Citybox-class | $160 | ~$320 |
-| Tallinn | 3 | hostel dorm | **$95** | ~$285 |
-| Riga | 10 | Amella apt-lean | **$95** | ~$950 |
-| Vilnius | 3 | hostel dorm | **$85** | ~$255 |
-| *Baltics subtotal* | *16* | | *~$93 blended* | *~$1,490* |
-| Slovenia | 7 | mid | $120 | ~$840 |
-| Croatia | 13 | mid | $120 | ~$1,560 |
-| Italy | 20 | mid | $155 | ~$3,100 |
-| **On-the-ground** | **83** | | **~$140** | **~$11,535 → ~$11.5k** |
+**Food/drink assumptions:** food = groceries/kitchen + value local meals, excluding alcohol. Drinks = **3 standard beers, glasses of wine, or similar each day (249 total)** at a country-specific shop/happy-hour/local-bar mix; the weighted allowance is ~$7.10/drink. Three cocktails or premium craft pours every day would need more. “Local/routine” = city transit, laundry, toiletries, and small incidental costs; intercity transport and major sights are separate.
 
-*All-in/day ≈ bed + food + local transit + small tickets. Big one-offs (fjord package, major museums, Preikestolen shuttle) sit more in **Sightseeing** / transport notes so the day-rate stays comparable city-to-city.*
+### Living-cost split *(83n baseline)*
+| Region | Nights | Room lean | Lodging / n | Food / d | 3 drinks / d | Local + routine / d | Living subtotal |
+|---|---:|---|---:|---:|---:|---:|---:|
+| Copenhagen | 3 | Urban Camper 4-bed mixed | $42 | $35 | $27 | $12 | $348 |
+| Gothenburg | 2 | private | $100 | $30 | $24 | $10 | $328 |
+| Oslo | 3 | private | $100 | $35 | $33 | $12 | $540 |
+| Stavanger + Preikestolen | 3 | dorm | $38 | $32 | $33 | $10 | $339 |
+| Bergen + fjords | 6 | private-heavy split | $105 | $35 | $33 | $12 | $1,110 |
+| Stockholm | 5 | hybrid | $70 | $32 | $24 | $10 | $680 |
+| Gotland | 3 | private | $88 | $30 | $24 | $8 | $450 |
+| Helsinki | 2 | private | $135 | $35 | $27 | $12 | $418 |
+| Tallinn | 3 | private | $55 | $25 | $15 | $8 | $309 |
+| Riga | 10 | private apartment | $72 | $25 | $15 | $7 | $1,190 |
+| Vilnius | 3 | private | $70 | $25 | $15 | $7 | $351 |
+| Slovenia | 7 | private-heavy split | $75 | $30 | $15 | $10 | $910 |
+| Croatia | 13 | private-heavy split | $80 | $30 | $18 | $10 | $1,794 |
+| Italy *(provisional)* | 20 | hybrid · take private deals | $95 | $38 | $21 | $12 | $3,320 |
+| **Total / average** | **83** | **private/hybrid default** | **$6,814 / ~$82** | **$2,656 / ~$32** | **$1,770 / ~$21** | **$847 / ~$10** | **$12,087 → ~$12.1k** |
 
-### Band (same 83n + ~$2k transport)
-| Scenario | Ground | **Fall total** | When |
-|---|---|---|---|
-| **⭐ Hostel-lean CPH/GOT/OSL** (table) | ~$11.5k | **~$13.5k** | §7 dorm ⭐s |
-| Private-value those 8n (CityHub / Heden / Citybox–Cochs) | ~$12.0–12.2k | **~$14.0–14.2k** | +~$60–80/n on beds |
-| Mid-hotel those 8n (old model) | ~$12.3k | **~$14.3k** | citizenM / Royal / full hotel |
-| + points on **home flight** (~$700) | −$0.7k cash | **~$12.8–13.5k** cash | best redemption lever |
+### Full-trip band *(same 83n)*
+| Component | Range | Notes |
+|---|---:|---|
+| Accommodation | **~$6.8k** | Private-first cheap countries + opportunistic private elsewhere |
+| Food | **~$2.7k** | Alcohol excluded |
+| Three drinks/day | **~$1.8k** | 249 drinks · mixed shop/local-bar pricing |
+| Local + routine | **~$0.85k** | Transit, laundry, toiletries, incidentals |
+| **Living subtotal** | **~$12.1k** | Four rows above |
+| 10% living cushion | **~$1.2k** | Rate drift, weather moves, Italy uncertainty |
+| All transport | **~$1.6–1.8k** | Includes booked entry + estimated home flight |
+| Major sights/access | **~$0.75–0.9k** | Museums, parks, Preikestolen access; no intercity transport |
+| Insurance + eSIM | **~$0.3–0.6k** | Quote still open · eSIM ~$100 |
+| **Expected cash total** | **~$15.9–16.6k** | **Carry ~$17k** |
 
-*Flex nights:* each extra Nordic night ≈ **+$115–180**; each night moved **Baltics←Nordics** saves ~**$50–90**. Gotland 0 → −~$450 ground. HEL 0 → −~$320. Riga +2 (from those) → +~$190 at $95/n — **net save ~$500+** while deepening the year-base lab.
+*Levers:* Gotland 0 → Riga +2 saves roughly **$250–300** including the ferry. A points home flight saves roughly **$0.4–0.6k cash**. Dorm fallback when no private meets the value rule is permitted, but private/hybrid is now the budgeted default.
 
 ### Baltics cost snapshot *(guides, mid-Sep)*
 | | TLL 3n | RIX 10n | VNO 3n | **16n block** |
 |---|---|---|---|---|
-| Bed lean | dorm ~$20 | Amella ~$65–75 | dorm ~$20–25 | — |
-| All-in/day | ~$95 | ~$95 | ~$85 | **~$93** |
-| Block ground | ~$285 | ~$950 | ~$255 | **~$1,490** |
-| vs 16n @ Nordic $160 | — | — | — | Baltics save **~$1.0k+** on same nights |
-| Month-scale (Riga lab) | — | ~**$2.0–2.8k/mo** comfortable research | — | Not a visa |
+| Bed lean | private ~$55 | Amella apt ~$72 | private ~$70 | — |
+| Food / day | ~$25 | ~$25 | ~$25 | — |
+| 3 drinks / day | ~$15 | ~$15 | ~$15 | — |
+| Living / day | ~$103 | ~$119 | ~$117 | **~$116 blended** |
+| Block living | ~$309 | ~$1,190 | ~$351 | **~$1,850** |
+| vs Nordic living avg | — | — | — | saves roughly **~$750 / 16n** |
+| Month-scale (Riga lab) | — | ~**$2.8–3.6k/mo** with this drink/private pattern | — | Not a visa |
 
-*Inter-Baltic coaches TLL–RIX–VNO ≈ **$40–70** total — inside the ~$2k transport envelope.*
+*Inter-Baltic coaches TLL–RIX–VNO ≈ **$40–70** total — inside the all-transport envelope.*
 
 ### Transport (headline)
-Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$10–13 · Vilnius→Ljubljana ~$90 · Croatia buses ~$15 · fjord loop ~$181. **New legs *(est.)*:** CPH→Gothenburg→Oslo trains ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen boat ~$60 · Gotland ferries ~$60 · Stockholm→Helsinki→Tallinn ferries ~$130 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **booked** (SK938, 25.5k points + $5.60) · Naples/Rome→SEA **~$400–700** still open (points often best). *Transport all-in ≈ **$2,000**, and the entry undershot it.*
+Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$40–70 total · Vilnius→Ljubljana ~$90 · fjord loop ~$181. Other estimates: CPH→Gothenburg→Oslo ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen ~$60 · Gotland ferry ~$60 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **$5.60 booked** · Naples/Rome→SEA **~$400–600** still open. **All transport now models at ~$1.6–1.8k**, including the home flight.
 
 #### ✅ Entry flight — BOOKED (Aug 12 2026)
 | | |
@@ -223,10 +244,10 @@ Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki f
 
 **How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
 
-**⇒ Plan around ~$13.5k cash** (hostel-lean openers) or **~$14k** if you take private rooms in the first three capitals. *Other levers: Italy −1wk (~−$1k), more Riga nights, home flight on points, hotel points on Bergen/Stockholm spikes.*
+**⇒ Carry ~$17k; expected landing zone ~$15.9–16.6k.** *Other levers: Gotland cut, Italy −1wk (~−$1.2k living), more Riga nights, home flight on points, hotel points on Bergen/Stockholm spikes.*
 
 ### Sightseeing
-Still ~**$750–900** whole-fall cluster (Tivoli, Louisiana if 4n+, Munch *or* National, Preikestolen shuttle ~$40 rt, fjord tickets already partly in Bergen day-rate/transport, Italy museums). Free-first nature in CPH/GOT/OSL guides keeps this from blowing up.
+Keep **~$750–900** for major sights and access (Tivoli, Louisiana if 4n+, Munch *or* National, Preikestolen shuttle, Plitvice/Dubrovnik, Italy museums). Intercity/fjord transport already counted in the transport bucket; free-first nature keeps this cluster bounded.
 
 ### Points vs. cash
 Entry ✅ booked on points (see above). **Remaining redemption target = the mid-Nov home flight** (~$400–700 cash baseline). Amex/Chase only — no Virgin or Flying Blue bonus was live in Aug; Amex→Avios ran +30% to Sep 27. Redeem only above ~1.3–1.5¢/pt, and keep **Delta** as the Amex Platinum airline-credit selection for home-flight incidentals.
@@ -240,17 +261,18 @@ Entry ✅ booked on points (see above). **Remaining redemption target = the mid-
 ### Policy (summary)
 | | |
 |---|---|
-| **Style** | Nordics: hostel/value dorms or poshtels when they beat hotels · Baltics+: apt/hostel kitchen · Italy: central private, not station-belt junk |
+| **Style** | Baltics/SLO/HR: private or apartment first · Nordics/Italy: private at the value threshold, good central dorm fallback · never station-belt junk |
 | **Book** | Prefer **free cancellation** while nights flex; lock only sell-out transport early |
 | **Neighborhood** | Walkable core for bed→sights; flag “avoid” belts in the city guide |
+| **Transit** | Each shortlist names the nearest useful rail/metro/tram, or bus where rail is absent; verify the exact stop and late service before paying |
 | **⭐ bar** | Never from AI alone — verify on primaries before promoting a bed |
 
 ### How to search / verify
 1. Open the **city guide → Lodging** (from §4 hub blurb).  
 2. Cross-check candidates on **Google Maps** (≳4.0★ + real review count) **and** **Booking.com** (≳8.0 + count); **Hostelworld** for backpacker hostels.  
 3. If sources disagree, trust the **larger sample** and skim recent 1–3★ themes (noise, dirt, bugs, bait-and-switch).  
-4. Confirm **curtains / kitchen / location** on official or Booking text when it matters (dorm privacy).  
-5. Re-price the week you book — scores and $/n drift.
+4. Prefer a private at **≤$110 final flexible** or **≤$40 over** a good dorm; private-first in the Baltics/SLO/HR. Otherwise confirm **curtains / kitchen / location** for the dorm fallback.
+5. Re-price the week you book — compare the same room type, tax, and cancellation terms.
 
 ### Where the shortlists are
 | Block | Guides (lodging detail) |
@@ -262,7 +284,7 @@ Entry ✅ booked on points (see above). **Remaining redemption target = the mid-
 | **South (thin here)** | Italy — §4 one-liners until guide written; re-verify on Maps+Booking with the method above |
 
 ### Cost shape (ballpark only — not a shortlist)
-Nordic dorms often **~$20–55** · Baltic dorms **~$20–35** / Riga apt **~$60–80** · Italy centrals often **~$60–100+** (Venice higher). Full all-in/day is §6. Hub blurbs in §4 name the current ⭐ lean in one breath.
+Nordic private-value targets are often **~$85–110** (dorm fallback ~$20–55) · Baltic privates **~$45–80** · SLO/HR private-heavy mix **~$70–100** · Italy hybrid **~$60–110+** (Venice higher). Full living/day is §6. Hub blurbs in §4 name the current ⭐ lean in one breath.
 
 ---
 
@@ -278,6 +300,7 @@ Nordic dorms often **~$20–55** · Baltic dorms **~$20–35** / Riga apt **~$60
 | **Capitals spine** | CPH + GOT + OSL + STO + HEL (+ Gotland optional) all on route |
 | **Nights** | Defaults = planning anchors · flex ranges operational · **Gotland first cut** · don’t strip **STO &lt;4** or **SVG ≲2–3** · **TLL 3n** = city + bog · don’t rob **Riga** for extra TLL museums |
 | **Bergen** | **Split** city + fjord base (not 6n city-only) |
+| **Beds** | Private-first in cheaper countries · elsewhere take private at **≤$110 final flexible or ≤$40 over** a good dorm · dorm fallback is allowed |
 | **SLO / HR** | Early Oct Alps day-hikes · **SLO split** LJU+Bled/Bohinj · mid-Oct **HR multi-base** + Plitvice overnight · skip Krka default |
 | **Italy** | Amalfi / Cinque Terre **earlier** in the ~20n block · Rome/Florence/Venice fine late |
 | **Entry search** | Search cash + awards across **all practical European gateways**; count onward cost/time, self-transfer risk, route reversal, and seasonality · ✅ resolved: **SK938 booked on Virgin points** |
@@ -293,8 +316,10 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Neighborhood-vetted lodging shortlist** — detail in city guides; §7 = method only; **re-book as lengths flex** (prefer free cancellation).
 - [x] **Night lengths = flexible defaults** (not fixed calendar vows).
 - [x] **SEA→CPH BOOKED** (Aug 12) — SK938 Aug 23, **25,500 Virgin Points + $5.60**, direct 9h15, bag included.
+- [ ] **Copenhagen Aug 24–27:** book **Urban Camper direct flexible** — 4-bed mixed, **$124.39 total / $41.46n**, VAT + linen/towel + drink, cancel ≥48h.
 - [x] Baltic sponge base = **Riga** (flex 7–12n).
 - [ ] Decide early: **Gotland yes/no** (biggest easy swing).
+- [ ] **Hikes / cammini:** choose the Norway and Slovenia swaps; default fall cammino candidate = **Monteriggioni→Siena in 1 day** with no total-night increase. Full Camino de Santiago stays in the provisional spring Iberia block.
 - [ ] Confirm **Amex MR + Chase UR** balances → home flight + Nordic nights (entry is ticketed; 500 Virgin Points left over).
 - [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
 - [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece).
@@ -303,7 +328,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 ---
 
 ## 10. Booking & prep action plan
-*(Entry ticketed: depart **Aug 23**, land **Aug 24** — ~11 days out. Lock the sell-out-risk / peak-summer items now; time the rest to their release windows.)*
+*(Entry ticketed: depart **Aug 23**, land **Aug 24** — ~7 days out. Lock the sell-out-risk / peak-summer items now; time the rest to their release windows.)*
 
 ### 🎫 Entry — the good news
 - **ETIAS: NOT required** for an Aug 2026 entry — it launches Q4 2026 (+ ~6-month grace; mandatory ~Apr 2027). *Re-check the official EU portal (travel-europe.europa.eu) in early Aug; never a third-party "ETIAS" site.*
@@ -313,6 +338,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - Border may ask: onward ticket, accommodation, funds (~€30–100/day), insurance — keep digital + paper copies.
 
 ### 🚆 Book NOW (sell-out risk / peak-summer)
+- **Copenhagen bed Aug 24–27** — **Urban Camper direct flexible** is the live value winner: 4-bed mixed, **$124.39 total**, VAT + linen/towel + drink, cancel ≥48h. Next House costs ~$57 more for central convenience.
 - **Oslo→Bergen "Bergensbanen"** (vy.no) — summer trains sell out *entirely*, not just the cheap "Lowfare"; already on sale for your dates.
 - **Flåm Railway + Nærøyfjord cruise** (flamsbana.no / norwaysbest.com) — book the departure that connects to the Bergen line; sells out months ahead.
 - [x] ~~**SEA→Copenhagen**~~ ✅ **BOOKED** — SK938 Aug 23, 25.5k points + $5.60. Verify SAS shows the ticket on its own site (partner awards sometimes sit unticketed).

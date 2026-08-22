@@ -115,14 +115,14 @@ Finland is euro and pricey — same Nordic habits (tap water, cook if kitchen, l
 
 ## Lodging (hostels & budget)
 
-**Area:** **Kamppi / central** · **Kallio** OK for food/value.  
+**Area:** **Kamppi / central** for the ferry/core · **Hakaniemi / Kallio** for food/value.
 **Avoid:** far airport strip for a 2n city hit.
 
-| Pick | Lean | Notes |
-|---|---|---|
-| **Citybox Helsinki** ⭐ | ~$135 ballpark | Social/value shortlist · near Kamppi |
-| **Töölö Towers** | ~$95 | Quieter / further walk |
-| **Scandic Helsinki Hub** | ~$214 | Most central splurge |
+| Pick | Lean | Nearest rail / bus | Notes |
+|---|---|---|---|
+| **Citybox Helsinki** ⭐ | ~$135 ballpark | **Hakaniemi metro** / Kallion virastotalo tram · ~1m walk | Social/value shortlist · Kallio edge, **not Kamppi** |
+| **Töölö Towers** | ~$95 | **Taivallahti bus** · at door; Apollonkatu tram ~5m | Quieter / further walk |
+| **Scandic Helsinki Hub** | ~$214 | **Fredrikinkatu tram** · ~2m walk | Most central splurge · Kamppi/Design District edge |
 
 *Prefer free-cancel; ferry days are fixed once booked.* Mirrors itinerary §7.
 
