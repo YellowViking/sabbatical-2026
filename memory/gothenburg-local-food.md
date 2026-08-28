@@ -93,6 +93,38 @@ Long-distance: **SJ** (from CPH) · **Vy**/Entur (to Oslo).
 
 **3n variant:** D1 = Vrångö; D2 = Botaniska/city; exit D3 AM.
 
+## Live today — Friday **Aug 28, 2026**
+
+*Dry and windy through roughly 13:00 · showers from ~14:00 · heaviest rain ~15:00–21:00. Put outdoor Gothenburg first; use World of Volvo / Fringe after lunch. All venue pins below are in Google Maps **Want to go**.*
+
+### Recommended route
+
+- [ ] **Morning → ~11:30:** [Botaniska](https://www.google.com/maps/search/?api=1&query=G%C3%B6teborgs+botaniska+tr%C3%A4dg%C3%A5rd) + short Änggårdsbergen edge while dry. If starting late, skip this rather than rush.
+- [ ] **12:00–13:00:** [The Market Hall](https://www.google.com/maps/search/?api=1&query=Stora+Saluhallen+Gothenburg) / [Kungstorget](https://www.google.com/maps/search/?api=1&query=Kungstorget+Gothenburg) — Kåges lunch; **Smaka på Saluhallen** runs 10:00–19:00, no booking.
+- [ ] **13:15–15:30:** [World of Volvo](https://www.google.com/maps/search/?api=1&query=World+of+Volvo+Gothenburg) — indoor historic cars + motorsport + safety/interactives · open 10:00–18:00 · adult SEK 220–250, 10% off [online](https://tickster.worldofvolvo.com/en/61r8rcayf55jw8c/selectevent?c=982y12v) · allow 1–2h.
+- [ ] **16:30–18:30:** [Stora Tullhuset](https://www.google.com/maps/search/?api=1&query=Stora+Tullhuset+Gothenburg) — Fringe opening **Embrace the Unknown**, immersive indoor drop-in · free timed entries at 16:30 / 17:00 / 17:30 / 18:00 / 18:30 ([tickets](https://www.gbgfringe.com/events/the-opening-embrace-the-unknown/)).
+- [ ] **~18:30 dinner:** **Göteborgs Hamnfestival**, Packhuskajen beside [Göteborgsoperan](https://www.google.com/maps/search/?api=1&query=G%C3%B6teborgsoperan) · free 12:00–00:00 · food trucks + covered seating in rain. Music: Jonathan Hilli 18:00 · Folks 19:00 · Krånne 20:45 · Pigman 22:00.
+- [ ] **20:35–21:35:** **Terra**, free outdoor main stage at [Götaplatsen](https://www.google.com/maps/search/?api=1&query=G%C3%B6taplatsen+Gothenburg).
+- [ ] **22:15–23:30:** **Teddybears**, free at Götaplatsen. Rain should ease near 22:00; take a rain shell.
+
+### Choose instead — these conflict
+
+| Event | Time / price | Venue | Call |
+|---|---|---|---|
+| **Fringe 1st Preview Night** | 20:00–22:00 · **free** ([ticket](https://www.gbgfringe.com/events/1st-preview-night-5/)) | [Stora Tullhuset](https://www.google.com/maps/search/?api=1&query=Stora+Tullhuset+Gothenburg) | Indoor, artists pitch shows in 3 minutes · choose over Terra; Teddybears afterward is tight |
+| **Undergoth Festival** | doors 19:00 · early bird SEK 175 / regular SEK 275 ([tickets](https://www.tickster.com/se/sv/events/3vdppc4l46agg4v/2026-08-28/undergoth-festival-28-augusti)) | [Valand](https://www.google.com/maps/search/?api=1&query=Valand+Vasagatan+41+Gothenburg) | Indoor · 18+ · Grommet + Bläck + Mojo Pin + WHEN · choose for heavy/alternative music |
+| **Swedish House Mafia** | plaza 14:00 · doors 17:00 · program 18:00 ([tickets](https://www.ticketmaster.se/event/647006732?brand=se_livenation)) | [Ullevi](https://www.google.com/maps/search/?api=1&query=Ullevi+Gothenburg) | Bea Sylvan + Deki Alem → SHM · open-air commitment; umbrellas banned, small bag ≤40×40×20 cm |
+
+### Free daytime swaps
+
+| Event | Today | Booking |
+|---|---|---|
+| [Medical History Museum](https://www.google.com/maps/search/?api=1&query=Medicinhistoriska+museet+Gothenburg) | **12:00–16:00** · 400 years of medical history · indoor | Free walk-in |
+| [Ostindiefararen Götheborg](https://www.google.com/maps/search/?api=1&query=Ostindiefararen+G%C3%B6theborg) | **10:00–16:00** · explore the replica East Indiaman | Free but [reservation required](https://secure.tickster.com/sv/hdpk8yvlpzfrdw4/selectevent) |
+| [Bältespännarparken](https://www.google.com/maps/search/?api=1&query=B%C3%A4ltesp%C3%A4nnarparken+Gothenburg) | Göteborgskalaset local beer + dance zone | Free; drop in |
+
+**Festival hub:** [full Göteborgskalaset program](https://goteborgskalaset.se/programmet) · free Aug 27–30. The temporary festival name has no stable Maps entity; use its saved venue pins: **Götaplatsen · Kungstorget · Bältespännarparken · Göteborgsoperan**.
+
 ---
 
 ## Nature & parks 🌿 *(what still fits)*
