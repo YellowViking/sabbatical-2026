@@ -1,5 +1,5 @@
 # Bergen + fjords — food, nature, attractions, lodging & transport
-*Default **6n** · flex **4–7n** · after Stavanger · before Stockholm · **split base** · nature-first · ~10.5–11 NOK ≈ $1 · AI Mode Pro · Aug 2026 · **pack rain***
+*Default **6n** · flex **4–9n** · after Stavanger · before Stockholm · **split base** · nature-first · ~10.5–11 NOK ≈ $1 · AI Mode Pro · Aug 2026 · **pack rain***
 *Spine + other cities: [scandi-transit.md](scandi-transit.md)*
 
 ## Flexible fit
@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Trip context** | Biggest Norway block · UNESCO fjords · fall **≤90 Schengen** · wet season starts |
-| **Nights** | **6 default** · **4** = tight city+fjord · **7** = kayak / Rallarvegen / weather sponge |
+| **Nights** | **6 default** · **4** = tight city+fjord · **7** = kayak / Rallarvegen / weather sponge · **8–9** = **early arrival** (solo city days before a companion joins) |
 | **Shape** | **2–3n Bergen + 2–3n Aurland / Flåm / Undredal** — **not** six city nights |
 | **Arrive/leave** | From SVG (**Kystbussen** bus; no fast boat) · exit toward STO (often Flåm→Myrdal→Oslo rail or BGO flight) |
 | **Pace** | One clear mountain day in city · one hard fjord hike · **fog = no blind cruise** |
@@ -19,6 +19,7 @@
 | **4** | **2n Bergen** (Bryggen + one peak) + **2n fjord** (Flåmsbana + one of cruise *or* Rimstigen) |
 | **6 default** | Skeleton below — **3n city + 3n fjord base** |
 | **7** | + kayak Nærøyfjord *or* Rallarvegen *or* pure weather buffer |
+| **8–9** | **Early arrival** — front-load solo city + a Rosendal boat day, keep the fjord block whole for the companion ([plan](#early-arrival--solo-days-before-the-fjord-block)) |
 
 | Idea | 6n split |
 |---|---|
@@ -108,6 +109,45 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 **7n expand:** empty weather day or kayak / easy valley walk.
 
 **Fog rule:** no prepaid “white cloud” cruise — valley + Ægir + museum energy instead; sail when layers lift.
+
+---
+
+## Early arrival — solo days before the fjord block
+
+*Case: Kystbussen up from Stavanger ~**Sep 6**, companion lands Bergen ~**Sep 11**. Five solo nights before the shared block.*
+
+**Principle:** spend the extra days on **city + weather insurance**, not on stretching the fjord half. Bryggen, one peak, KODE and the food list are all fine alone and would otherwise eat the companion's first days. Arrive-early also means you take the ridge on the **clear** day instead of the scheduled one — this is the wettest stretch of the route.
+
+### Solo shape (5 nights, city base)
+
+| Day | If clear | If wet |
+|---|---|---|
+| **D0** arrive PM | Drop bag · **Bryggen** alleys · harbour edge · **Trekroneren** | Same — arrival day is weatherproof |
+| **D1** | **Stoltzekleiven → ridge → Ulriken** (908 stairs; cable down optional) | **KODE** + Fløyen if it breaks · **Pingvinen** |
+| **D2** | **Rosendal boat day** (below) — needs a decent forecast | Hold; swap with a later day |
+| **D3** | **Fløyen** hike-up · **Sandviken** wooden streets · Nordnes | Bergen Card style museum stack · Bryggen indoor |
+| **D4** | Spare: kayak / Mount Løvstakken / market + kitchen cook · **re-stock for the fjord block** | Laundry · groceries · book fjord tickets · rest legs |
+| **D5** | Meet companion · easy Bryggen + Fløyen intro · early night | Same |
+
+**Then the fjord block runs as written** (D3–D5 of the [6n skeleton](#sample-plan--6n-default-3n-bergen--3n-fjord)): Bergensbanen → Myrdal → Flåmsbana → Aurland/Undredal, Rimstigen if dry, Nærøyfjord + Stegastein.
+
+### The one big solo day — Rosendal by boat ⭐
+
+| | |
+|---|---|
+| **What** | **Rødne Hardangerfjord Express** Bergen → **Rosendal**, ~**1h55** each way — a fjord cruise that is also the transport |
+| **Season** | Runs ~**May 1 – Sep 30** · fewer sailings shoulder-season — check [rodne.no](https://rodne.no) for your date |
+| **There** | **Baroniet Rosendal** manor + gardens · **Bondhusvatnet** glacier-milk lake walk (easy, Folgefonna arm) |
+| **Why solo** | Day-return keeps your Bergen bed — no bag haul, no extra booking; and it is *not* the Nærøyfjord, so it doesn't spoil the shared cruise |
+| **Weather** | Clear/high-cloud only. Fog = it's a grey boat ride; swap to a city day |
+
+**Alternative solo big days if Rosendal doesn't fit:** Mount Løvstakken (quiet local peak), Osterøy / Mostraumen fjord cruise from Bergen, or a Hardanger bus day toward Norheimsund.
+
+### Beds when arriving early
+Book the **solo city nights** and the **shared fjord nights separately** — different rooms, different needs. Solo = **Marken** dorm (social, cheap, by Bergen S) or **Citybox** private; the companion arriving turns it into a twin/double problem, so don't book one long stay across the handover. Keep everything **free-cancel** while the fjord dates float.
+
+**Cost note**
+Extra city nights are the **cheap** ones (~$80–105 bed, kitchen, free hikes) — the fjord tickets are the spike. Two or three extra Bergen days do **not** scale the $210/day fjord-blended rate; budget them nearer **$120–140/day** unless you add the Rosendal boat (~$60–90 return).
 
 ---
 

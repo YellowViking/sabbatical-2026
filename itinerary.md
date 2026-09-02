@@ -21,7 +21,7 @@
 |---|---|
 | **Order** | Keep the NW→SE spine (Scandi → Baltics → SLO → HR → IT). Don’t reverse Norway. |
 | **Lengths** | Each stop has **default / range**. Steal from the **swing pool** first. |
-| **Swing pool** | ~**6–8n** to reassign: **Gotland 0–3**, **Riga 7–12**, **Bergen/fjords 4–7**, **CPH 3–5**, crumbs from GOT/HEL if skipping. |
+| **Swing pool** | ~**6–8n** to reassign: **Gotland 0–3**, **Riga 7–12**, **Bergen/fjords 4–9**, **CPH 3–5**, crumbs from GOT/HEL if skipping. |
 | **Booking** | Prefer **free-cancellation** Nordic beds; lock sell-out transport with movable dates when you can. |
 | **On the ground** | +1n if you love it or weather blocks a hike; −1n if done. Re-sum Schengen weekly. |
 
@@ -33,7 +33,7 @@
 | → | **Gothenburg** | 2 | **0–3** | Skip OK (long CPH→OSL). **+1** enables full **Vrångö** |
 | → | **Oslo** | 3 | **2–4** | Ekeberg / Hovedøya / Mathallen |
 | → | **Stavanger + Preikestolen** | 3 | **2–4** | Weather buffer; dawn hike. Don’t starve below ~2–3 in storms |
-| → | **Bergen + fjords** | 6 | **4–7** | **Split** city + Aurland/Flåm area; Undredal quieter |
+| → | **Bergen + fjords** | 6 | **4–9** | **Split** city + Aurland/Flåm area; Undredal quieter. **8–9** only on an early arrival (solo city days) |
 | early Sep | **Stockholm** | 5 | **4–6** | Tyresta + views; **5n consensus** nature-first · Grinda if 6n |
 | | **Gotland / Visby** | 3 | **0–3** | **#1 swing** — skip, or 2n + Folhammar/Fårö |
 | | **Helsinki** | 2 | **1–3** | Ferry-in; Löyly; +1 if Nuuksio+Porvoo |
@@ -47,7 +47,7 @@
 
 **Default sum ~83n.** Trading inside ranges → roughly **80–88n**, still under 90.
 
-**Example trades (pick any):** CPH 4 + GOT 0 = same week shape · GOT 3 (Vrångö) from Gotland · Gotland 0 → Riga 12 or Bergen 7 · Bergen 5 city+fjord tight if rushing south.
+**Example trades (pick any):** CPH 4 + GOT 0 = same week shape · GOT 3 (Vrångö) from Gotland · Gotland 0 → Riga 12 or Bergen 7 · Bergen 5 city+fjord tight if rushing south · **Bergen 8–9** if you land early for a companion (pay it back from Gotland/Italy).
 
 **Why this shape:** CPH landing (≈ Oslo fare) + overland **CPH→GOT→OSL**; Norway **south→north**; four Nordic capitals into Baltics; then SLO→HR→IT. **Lengths float; route logic doesn’t.**
 
@@ -98,10 +98,11 @@ Food: harbour **reker**, Fisketorget soup, Janas smokehouse — not Skagenkaien 
 **Exit:** **Kystbussen NW400** coach Byterminalen → Bergen busstasjon, ~4h20–5h30, two ferries included, **~$30–55** — no fast boat exists ([ride card](memory/scandi-transit.md#kystbussen-ride-card--stavanger--bergen-nw400)).  
 **Guide:** [food · nature · lodging · transit · **money**](memory/stavanger-local-food.md).
 
-### Bergen + fjords — default **6n** · flex **4–7n**
+### Bergen + fjords — default **6n** · flex **4–9n**
 Bryggen, Fløyen/Ulriken, KODE; **fjord block** (Flåm + Nærøyfjord + Stegastein). *Book Flåm/cruise early; pack rain.*  
 **Preferred shape:** **2–3n Bergen + 2–3n Aurland/Flåm/Undredal** (not six city nights). Quieter: **Undredal**, Gudvangen/**Rimstigen**, Sandviken. Fog day: KODE + Ægir, not a blind cruise.  
-**Hard-hike choice:** **Aurlandsdalen Østerbø→Vassbygdi** if the seasonal bus/trail align, or Rimstigen if dry — **not both**.
+**Hard-hike choice:** **Aurlandsdalen Østerbø→Vassbygdi** if the seasonal bus/trail align, or Rimstigen if dry — **not both**.  
+**Landing early?** Front-load the **solo city days** (Bryggen, Stoltzekleiven→Ulriken, KODE) + an optional **Rosendal boat day** (Rødne express, ~1h55, season to ~Sep 30) and keep the fjord block whole for whoever joins — [solo-days plan](memory/bergen-local-food.md#early-arrival--solo-days-before-the-fjord-block).
 
 Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **Citybox private** (city) · **Svingen / cabin** (fjord) · Marken dorm fallback.
 **Guide:** [food · nature · lodging · transit · **money**](memory/bergen-local-food.md).
@@ -300,7 +301,7 @@ Nordic private-value targets are often **~$85–110** (dorm fallback ~$20–55) 
 | **Norway** | **Preikestolen** in · late-Aug last good shuttle window · Trolltunga **out** of this spine |
 | **Capitals spine** | CPH + GOT + OSL + STO + HEL (+ Gotland optional) all on route |
 | **Nights** | Defaults = planning anchors · flex ranges operational · **Gotland first cut** · don’t strip **STO &lt;4** or **SVG ≲2–3** · **TLL 3n** = city + bog · don’t rob **Riga** for extra TLL museums |
-| **Bergen** | **Split** city + fjord base (not 6n city-only) |
+| **Bergen** | **Split** city + fjord base (not 6n city-only) · early arrival = **solo city days first**, fjord block stays whole |
 | **Beds** | Private-first in cheaper countries · elsewhere take private at **≤$110 final flexible or ≤$40 over** a good dorm · dorm fallback is allowed |
 | **SLO / HR** | Early Oct Alps day-hikes · **SLO split** LJU+Bled/Bohinj · mid-Oct **HR multi-base** + Plitvice overnight · skip Krka default |
 | **Italy** | Amalfi / Cinque Terre **earlier** in the ~20n block · Rome/Florence/Venice fine late |

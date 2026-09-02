@@ -15,6 +15,7 @@
 | Gotland skip or −1 | **GOT +1** | Full **Vrångö** day |
 | Gotland / Riga | **SVG +1** | Storm buffer / second Lysefjord day |
 | — | **Bergen/fjords +1** | Real Aurland overnight without rushing |
+| Gotland / Italy | **Bergen/fjords +2–3** | **Early arrival** — solo city days + Rosendal boat day before a companion joins (flex to **9n**) |
 | Scandi trim | **Riga** | Cheapest sponge + day trips |
 | anywhere careful | **Italy +1–2** | Only if still ≤90 and want slower south |
 
