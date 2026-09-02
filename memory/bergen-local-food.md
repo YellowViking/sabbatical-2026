@@ -232,6 +232,19 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 **Stay:** near **Bergen S** / Lille Lungegårdsvann / walkable Bryggen.  
 **Avoid as only base:** far hillside if you need dawn Flåm connections every day.
 
+#### City Hostel Bergen — booking mechanics *(verify live before paying)*
+| Item | Detail |
+|---|---|
+| **Open** | Year-round; **Sep reception ~09:00–18:00** · check-in **15:00–24:00** · self-check-in code outside hours (first night charged in advance) |
+| **Kitchen** | ✅ Free **fully-equipped** guest kitchen + dining area — the reason this is the ⭐ |
+| **Linen / towel** | Linen included all room types · dorm **towel ~25 NOK** rental or bring your own |
+| **Breakfast** | **Not** offered — cook, or Godt Brød nearby |
+| **Dorms** | Gender-specific · **18+** |
+| **Cancellation** | Typically **free to ~48h** before arrival · pay on arrival by card (pre-auth possible) |
+| **Price** | Sources disagree: **~350–450 NOK** (~$33–43) up to **~500–600 NOK** (~$47–57) per dorm bed depending on channel/date — **cruise weeks push the top of the band**. Private single ~650–900 NOK (~$62–86) |
+
+⚠️ **Not live-verified.** Aggregator figures only — confirm the exact date price, room type and cancellation terms on Booking/Hostelworld or the hostel's own site before committing.
+
 ### Fjord (2–3n) — quieter > cruise pier
 
 | Place | Area | Score | ~$ | Nearest rail / bus | Notes | Maps |
