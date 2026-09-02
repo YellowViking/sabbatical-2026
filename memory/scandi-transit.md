@@ -46,7 +46,7 @@
 | **CPH → GOT** | Train (Øresund + SJ/DSB corridor) | **SJ** / DSB / Omio | ~3.5–4h | ~$25–45* | **København H → Göteborg C** | **Slottsskogens:** tram ~10–15 min from C · **Royal/Heden:** walk **5–15 min** from C |
 | **GOT → OSL** | Train | **Vy** / SJ / Entur | ~3.5–4h | ~$30–50* | **Göteborg C → Oslo S** | **Citybox/K7:** walk **3–10 min** from Oslo S · **Bunks at Rode:** tram/bus ~10–15 min or ~25–35 min walk |
 | **OSL → SVG** | **Flight** (easiest) *or* train (~8h+) | SAS/Norwegian · Entur | flight ~1h + airport | flight often **~$40–80** o/w* | Fly **SVG** → bus to sentrum · or long rail | Sentrum guesthouse: bus to **Byterminalen/Vågen** ~20–30 min from airport |
-| **SVG → BGO** | Express boat / bus / flight | Entur · operators | boat ~4h · bus ~5h · fly ~40m | boat/bus often **~$50–70*** | Boat often **Vågen** area · bus Byterminalen | **Marken/Citybox:** walk from **Bergen S** / bus terminal **5–15 min** |
+| **SVG → BGO** | **Kystbussen NW400** (default) · Fjord Line ferry · flight | **NOR-WAY app / Entur** · fjordline.com · SAS/Norwegian | bus **~4h20–5h30** · ferry ~5.5–6.5h · fly ~40m | bus **~NOK 300–550 (~$30–55)** · ferry/flight often **$50–90*** | Bus **Byterminalen → Bergen busstasjon** (by Bergen S) · **no fast boat — Flaggruten ended 2013** | **Marken/Citybox:** walk from **Bergen S** / bus terminal **5–15 min** |
 | **BGO → Flåm** | **Bergensbanen → Myrdal → Flåmsbana** | **Vy** + **flamsbana.no** | rail combo ~2.5–3.5h | Flåmsbana alone ~**$52** one-way + mainline | **Bergen S → Myrdal → Flåm** | **Camping:** walk **~5 min** · **Svingen:** short walk · **Undredal:** bus/taxi from Flåm (~20–30 min) |
 | **Flåm area local** | Bus / boat | Skyss-region / local | 10–40m | few $ | Flåm ↔ Aurland ↔ Gudvangen ↔ Undredal | Sleep quiet, day-trip hub |
 | **Exit → STO** | **Flight BGO→STO** *or* rail east via Oslo | Norwegian/SAS · Vy | flight ~1h · rail long | flight often **~$75*** | Prefer flight if time-poor after fjords | **City Backpackers** / Generator: metro/walk from T-Centralen |
@@ -147,6 +147,25 @@
 
 **Preikestolen day:** walk dark/dawn to Byterminalen with headlamp; return same. No car needed.  
 **Day pass:** only if stacking city buses; hike day is mostly shuttle pass + walk.
+
+---
+
+### Kystbussen ride card — Stavanger → Bergen (NW400)
+**The leg is a bus, not a boat.** The old Flaggruten express boat died in 2013; Fjord Line's car ferry is slower and pricier, and flying adds two airport transfers for a ~40-min hop. Coach wins on cost and city-center-to-city-center time.
+
+| Item | What to expect |
+|---|---|
+| **Board** | **Stavanger Byterminalen** — walk 5–10 min from Vågen/sentrum beds |
+| **Alight** | **Bergen busstasjon** (Bergen Bussterminal, next to **Bergen S**) — walk 5–15 min to Marken/Citybox |
+| **Time** | **~5h15–5h30** ordinary via Haugesund/Leirvik · **~4h20–4h30** on the faster "strake veien" runs |
+| **Frequency** | Roughly hourly daytime, first ~06:30–07:45, last ~17:30 — thinner weekends; confirm your date |
+| **Ferries** | Two crossings **included** in the fare and the clock: **Mortavika–Arsvågen** + **Sandvikvåg–Halhjem**. Stay-on-bus is fine, but the deck is the scenic part |
+| **Fare** | **~NOK 300–550 (~$30–55)** adult one-way; cheapest when booked ahead in-app, walk-up sits at the top of the band |
+| **Book** | **NOR-WAY Bussekspress** app/site or **Entur** — mobile ticket, seat only guaranteed when booked |
+| **Comfort** | Wifi (patchy in tunnels), power/USB, toilet, 2 bags ≤30 kg included; bikes need advance booking + fee |
+| **Bookings note** | Sits in the itinerary transport model at **~$60** — bus keeps it at/under that |
+
+**Ride tips:** sit **left (west) side** heading north for the coastal water views; get out on both ferry decks (~20–40 min crossings) rather than sleeping through them; eat before boarding — onboard food is nil and the ferry cafeterias are Norwegian-priced. Storm/wind can delay ferry crossings — don't stack a same-day fjord train out of Bergen.
 
 ---
 

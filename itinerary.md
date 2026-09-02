@@ -95,6 +95,7 @@ Beds: **Citybox / Cochs** private target (~$85–115) · Bunks/K7 dorm only when
 Gamle Stavanger + street art; **Preikestolen** (weather buffer — dawn start on the clear day); optional Lysefjord cruise.  
 **+1n** if storms stack. **Kjerag** only after Preikestolen if car + fitness. **Skip Trolltunga** here (all-day; steals Bergen). *Late Aug = last good hike window.*  
 Food: harbour **reker**, Fisketorget soup, Janas smokehouse — not Skagenkaien traps. Beds: Central Guesthouse dorm / Skagen Brygge half-board hack.  
+**Exit:** **Kystbussen NW400** coach Byterminalen → Bergen busstasjon, ~4h20–5h30, two ferries included, **~$30–55** — no fast boat exists ([ride card](memory/scandi-transit.md#kystbussen-ride-card--stavanger--bergen-nw400)).  
 **Guide:** [food · nature · lodging · transit · **money**](memory/stavanger-local-food.md).
 
 ### Bergen + fjords — default **6n** · flex **4–7n**
@@ -228,7 +229,7 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 *Inter-Baltic coaches TLL–RIX–VNO ≈ **$40–70** total — inside the all-transport envelope.*
 
 ### Transport (headline)
-Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$40–70 total · Vilnius→Ljubljana ~$90 · fjord loop ~$181. Other estimates: CPH→Gothenburg→Oslo ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen ~$60 · Gotland ferry ~$60 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **$5.60 booked** · Naples/Rome→SEA **~$400–600** still open. **All transport now models at ~$1.6–1.8k**, including the home flight.
+Confirmed core: Bergen→Stockholm flight ~$75 · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$40–70 total · Vilnius→Ljubljana ~$90 · fjord loop ~$181. Other estimates: CPH→Gothenburg→Oslo ~$80 · Oslo→Stavanger ~$60 · Stavanger→Bergen ~$60 (**Kystbussen** bus ~$30–55) · Gotland ferry ~$60 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **$5.60 booked** · Naples/Rome→SEA **~$400–600** still open. **All transport now models at ~$1.6–1.8k**, including the home flight.
 
 #### ✅ Entry flight — BOOKED (Aug 12 2026)
 | | |

@@ -8,7 +8,7 @@
 |---|---|
 | **Trip context** | Norway hike hero · **weather buffer** for Preikestolen · fall **≤90 Schengen** · late Aug = last solid hike window |
 | **Nights** | **3 default** · **2** = city + one clear hike day only · **4** = storm stack / second nature day / Kjerag if fit |
-| **Arrive/leave** | Usually air/rail from OSL · leave toward Bergen (boat/bus/air) when hike done |
+| **Arrive/leave** | Usually air/rail from OSL · leave toward Bergen on **Kystbussen NW400** (bus; no fast boat) when hike done |
 | **Pace** | **One clear-sky day = Preikestolen** · city is filler · don’t burn legs on pointless hills night before |
 
 ### Length → plan
@@ -52,7 +52,8 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 |---|---|---|---|
 | **OSL → SVG** | Flight (easiest) | ~1h + bus | Airport bus → **Byterminalen** / Vågen ~20–30m |
 | **OSL → SVG** | Train | 8h+ | Possible but eats a buffer day |
-| **SVG → Bergen** | Express **boat** / bus / flight | ~4h / ~5h / ~40m | Boat often Vågen · bus Byterminalen · ~$50–70 ballpark |
+| **SVG → Bergen** | **Kystbussen NW400** bus (default) | ~4h20–5h30 | **Byterminalen → Bergen busstasjon** · 2 ferries included · **~NOK 300–550 (~$30–55)** · book NOR-WAY app/Entur · [ride card](scandi-transit.md#kystbussen-ride-card--stavanger--bergen-nw400) |
+| **SVG → Bergen** | Fjord Line ferry *or* flight | ~5.5–6.5h / ~40m | **No fast boat** (Flaggruten ended 2013) · ferry/flight ~$50–90 · flight adds 2 airport transfers |
 
 ### Bed → shuttle (the whole point)
 | Bed | To **Byterminalen** |
@@ -94,7 +95,7 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 | **D0 PM** (arrive) | Bags · **Gamle Stavanger** white houses · harbour / street art · Breiavatnet | Light · **Kanelsnurren** · harbour **reker** if boats in |
 | **D1** *or clearest day* | **Dawn Preikestolen** (shuttle) · summit lunch pack · PM legs-up lake walk | Early bakery · pack lunch · dinner **Fisketorget** soup *or* **Lervig Local** |
 | **D2** | Easy city: Sverd i fjell (bus) *or* street-art loop · rain → **Petroleum Museum** · optional short Lysefjord cruise if skipped hike views | **Janas** smoked salmon · dinner **Fortou** / Pedersgata |
-| **Exit** | Buffer for boat/bus/air to Bergen | Bakery + transit snack |
+| **Exit** | Buffer for the **Kystbussen** to Bergen | Bakery + transit snack |
 
 **2n compress:** Preikestolen on the only full day; city crammed into arrival evening.  
 **4n expand:** hold an empty day for weather · or Fjøløy (car) · or Kjerag if you’re still hungry for cliff photos.

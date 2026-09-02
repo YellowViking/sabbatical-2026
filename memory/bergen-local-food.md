@@ -9,7 +9,7 @@
 | **Trip context** | Biggest Norway block · UNESCO fjords · fall **≤90 Schengen** · wet season starts |
 | **Nights** | **6 default** · **4** = tight city+fjord · **7** = kayak / Rallarvegen / weather sponge |
 | **Shape** | **2–3n Bergen + 2–3n Aurland / Flåm / Undredal** — **not** six city nights |
-| **Arrive/leave** | From SVG (boat/bus/air) · exit toward STO (often Flåm→Myrdal→Oslo rail or BGO flight) |
+| **Arrive/leave** | From SVG (**Kystbussen** bus; no fast boat) · exit toward STO (often Flåm→Myrdal→Oslo rail or BGO flight) |
 | **Pace** | One clear mountain day in city · one hard fjord hike · **fog = no blind cruise** |
 
 ### Length → plan
@@ -57,7 +57,7 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 ### Arrive / leave the whole block
 | Leg | Mode | Time | ~USD | Notes |
 |---|---|---|---|---|
-| **SVG → Bergen** | Boat / bus / flight | 4h / 5h / 40m | $50–70 | To **Bergen S** / terminal |
+| **SVG → Bergen** | **Kystbussen NW400** bus (default) · Fjord Line ferry · flight | bus 4h20–5h30 · ferry 5.5–6.5h · fly 40m | bus **$30–55** · other $50–90 | **Byterminalen → Bergen busstasjon** (by **Bergen S**) · 2 ferries included · **no fast boat** · [ride card](scandi-transit.md#kystbussen-ride-card--stavanger--bergen-nw400) |
 | **Bergen → Flåm** | Vy → **Myrdal** → **Flåmsbana** | 2.5–3.5h | Flåmsbana ~$52 + mainline | **Book both** · connect same day |
 | **Exit → Stockholm** | Flight **BGO→STO** *or* rail via Oslo | ~1h / long | flight often ~$75 | Flight if time-poor after fjords |
 
