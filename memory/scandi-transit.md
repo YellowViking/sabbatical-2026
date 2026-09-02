@@ -158,7 +158,7 @@
 | **Board** | **Stavanger Byterminalen** — walk 5–10 min from Vågen/sentrum beds |
 | **Alight** | **Bergen busstasjon** (Bergen Bussterminal, next to **Bergen S**) — walk 5–15 min to Marken/Citybox |
 | **Time** | **~5h15–5h30** ordinary via Haugesund/Leirvik · **~4h20–4h30** on the faster "strake veien" runs |
-| **Frequency** | Roughly hourly daytime, first ~06:30–07:45, last ~17:30 — thinner weekends; confirm your date |
+| **Frequency** | Roughly hourly daytime, first departures early morning, last in the late afternoon / early evening — thinner weekends; **confirm your date in Entur / the NOR-WAY app** |
 | **Ferries** | Two crossings **included** in the fare and the clock: **Mortavika–Arsvågen** + **Sandvikvåg–Halhjem**. Stay-on-bus is fine, but the deck is the scenic part |
 | **Fare** | **~NOK 300–550 (~$30–55)** adult one-way; cheapest when booked ahead in-app, walk-up sits at the top of the band |
 | **Book** | **NOR-WAY Bussekspress** app/site or **Entur** — mobile ticket, seat only guaranteed when booked |
