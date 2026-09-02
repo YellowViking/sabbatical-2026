@@ -104,7 +104,7 @@ Bryggen, Fløyen/Ulriken, KODE; **fjord block** (Flåm + Nærøyfjord + Stegaste
 **Hard-hike choice:** **Aurlandsdalen Østerbø→Vassbygdi** if the seasonal bus/trail align, or Rimstigen if dry — **not both**.  
 **Landing early?** Front-load the **solo city days** (Bryggen, Stoltzekleiven→Ulriken, KODE) + an optional **Rosendal boat day** (Rødne express, ~1h55, season to ~Sep 30) and keep the fjord block whole for whoever joins — [solo-days plan](memory/bergen-local-food.md#early-arrival--solo-days-before-the-fjord-block).
 
-Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **Citybox private** (city) · **Svingen / cabin** (fjord) · Marken dorm fallback.
+Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **City Hostel Bergen** (ex-Marken) dorm — real guest kitchen · **Citybox private** (city, ⚠️ microwave only) · **Svingen / cabin** (fjord).
 **Guide:** [food · nature · lodging · transit · **money**](memory/bergen-local-food.md).
 
 ### Stockholm — default **5n** · flex **4–6n**

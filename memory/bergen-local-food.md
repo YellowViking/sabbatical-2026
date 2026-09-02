@@ -62,7 +62,7 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 | **Bergen → Flåm** | Vy → **Myrdal** → **Flåmsbana** | 2.5–3.5h | Flåmsbana ~$52 + mainline | **Book both** · connect same day |
 | **Exit → Stockholm** | Flight **BGO→STO** *or* rail via Oslo | ~1h / long | flight often ~$75 | Flight if time-poor after fjords |
 
-### Bergen city — bed → places (Marken / Citybox)
+### Bergen city — bed → places (Marken district / Citybox)
 | Go to | How |
 |---|---|
 | **Bergen S** (bags / fjord trains) | Walk **2–8 min** |
@@ -144,7 +144,7 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 **Alternative solo big days if Rosendal doesn't fit:** Mount Løvstakken (quiet local peak), Osterøy / Mostraumen fjord cruise from Bergen, or a Hardanger bus day toward Norheimsund.
 
 ### Beds when arriving early
-Book the **solo city nights** and the **shared fjord nights separately** — different rooms, different needs. Solo = **Marken** dorm (social, cheap, by Bergen S) or **Citybox** private; the companion arriving turns it into a twin/double problem, so don't book one long stay across the handover. Keep everything **free-cancel** while the fjord dates float.
+Book the **solo city nights** and the **shared fjord nights separately** — different rooms, different needs. Solo = **City Hostel Bergen** dorm (social, cheap, by Bergen S, real kitchen) or **Citybox** private (no stove); the companion arriving turns it into a twin/double problem, so don't book one long stay across the handover. Keep everything **free-cancel** while the fjord dates float.
 
 **Cost note**
 Extra city nights are the **cheap** ones (~$80–105 bed, kitchen, free hikes) — the fjord tickets are the spike. Two or three extra Bergen days do **not** scale the $210/day fjord-blended rate; budget them nearer **$120–140/day** unless you add the Rosendal boat (~$60–90 return).
@@ -219,11 +219,15 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 
 ### Bergen (2–3n) — stay near station / centre
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Nearest rail / bus | Notes | Maps |
-|---|---|---|---|---|---|---|---|
-| **Marken Guesthouse** ⭐ | Marken / near station | ~8.8 | **35–45** | 90–110 | **Bergen S** · ~3m | Social kitchen · central · solo favourite | [Maps](https://www.google.com/maps/search/?api=1&query=Marken+Guesthouse+Bergen) |
-| **Citybox Bergen** ⭐ private | sentrum | ~8.4 | — | **80–100** | **Bergen S** · ~5m | Self check-in · kitchen · quiet private | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Bergen) |
-| **HI Montana** | Ulriken slope | ~8.5 | **30–40** | 80–95 | **Montana bus** · ~2m | Breakfast · hike vibe · bus to station (weak for early trains) | [Maps](https://www.google.com/maps/search/?api=1&query=HI+Bergen+Hostel+Montana) |
+**🍳 Kitchen rule:** the money plan (Kiwi/Rema + cook) only works with a **real stove/oven**. Verify before booking — several Bergen "kitchens" are a microwave + kettle.
+
+| Place | Area | Score | Dorm ~$ | Private ~$ | Kitchen | Nearest rail / bus | Notes | Maps |
+|---|---|---|---|---|---|---|---|---|
+| **City Hostel Bergen** ⭐ *(ex-**Marken Guesthouse** — renamed; search both)* | Marken / near station | ~8.2–8.3 (4,000+ rev) | **35–45** | 85–110 | ✅ **full** + dining area | **Bergen S** · ~3m | Social kitchen · central · solo favourite | [Maps](https://www.google.com/maps/search/?api=1&query=City+Hostel+Bergen+Marken) |
+| **Citybox Bergen City** private *(⭐ demoted — no stove)* | sentrum | ~8.4–8.8 | — | **116–130** | ⚠️ **microwave + kettle + fridge only — no stove** | **Bergen S** · ~5m | Self check-in · quiet private · **can't actually cook** | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Bergen) |
+| **HI Montana** | Ulriken slope | ~8.5 | **30–40** | 65–125 | ✅ self-catering | **Montana bus** · ~2m | Breakfast incl · hike vibe · bus to station (weak for early trains) | [Maps](https://www.google.com/maps/search/?api=1&query=HI+Bergen+Hostel+Montana) |
+| **Skansen / Harbour Apartments** ⭐ *(private + kitchen)* | sentrum / harbour | var. | — | **110–200+** | ✅ **private full** (oven + washer) | walk from Bergen S | Real self-catering · best on longer/early-arrival blocks | [Maps](https://www.google.com/maps/search/?api=1&query=Skansen+Apartments+Bergen) |
+| **Citybox Danmarksplass** | Danmarksplass | 8.2–9.1 | — | ~170 | ⚠️ same limited pantry | out of centre | **Skip** — further *and* pricier than Citybox City | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Bergen+Danmarksplass) |
 
 **Stay:** near **Bergen S** / Lille Lungegårdsvann / walkable Bryggen.  
 **Avoid as only base:** far hillside if you need dawn Flåm connections every day.
@@ -240,8 +244,9 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 ### How to choose
 | You want | Book |
 |---|---|
-| Social Bergen dorm | **Marken** |
-| Private Bergen value | **Citybox** |
+| Social Bergen dorm **+ real kitchen** | **City Hostel Bergen** (ex-Marken) |
+| Private Bergen value *(no cooking)* | **Citybox City** |
+| Private **+ real kitchen** | **Skansen / Harbour apartment** |
 | Mountain hostel vibe | Montana (accept bus) |
 | Fjord kitchen + character | **Svingen** or Undredal apt |
 | Cheapest fjord private | Flåm camping **cabin** |
@@ -272,7 +277,7 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 |---|---|
 | **Hike Fløyen free** (funicular down optional) | Round-trip **Fløibanen ~$18** if legs OK |
 | **Stoltzekleiven → Ulriken** free ridge | Ulriken cable both ways ~$36 |
-| **Kiwi / Rema** + Marken/Citybox kitchen | **Torget fish tents $35–45** meals |
+| **Kiwi / Rema** + a **real** guest kitchen (City Hostel / Montana / apartment) | **Torget fish tents $35–45** meals · assuming Citybox lets you cook — it doesn't |
 | **Trekroneren** ~$7–9 · **Pingvinen** value husmannskost | Bryggen waterfront full dinners (view tax) |
 | **Bryggen / Sandviken** walks free | Random “fjord tour” sold on the wharf |
 | Skyss 24h if many buses | Taxis |
