@@ -105,6 +105,7 @@ Bryggen, Fløyen/Ulriken, KODE; **fjord block** (Flåm + Nærøyfjord + Stegaste
 **Landing early?** Front-load the **solo city days** (Bryggen, Stoltzekleiven→Ulriken, KODE) + an optional **Rosendal boat day** (Rødne express, ~1h55, season to ~Sep 30) and keep the fjord block whole for whoever joins — [solo-days plan](memory/bergen-local-food.md#early-arrival--solo-days-before-the-fjord-block).
 
 Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. Beds: **City Hostel Bergen** (ex-Marken) dorm — real guest kitchen · **Citybox private** (city, ⚠️ microwave only) · **Svingen / cabin** (fjord).
+**Deals:** **skip the Bergen Card** (needs ~NOK 200–265/day of extra museum value) — take **Skyss 7-day NOK 315** + **Bybanen NOK 51** from Flesland; KIWI PLUSS / REMA app for produce; Too Good To Go bags NOK 40–99. ⚠️ **Cruise calls cluster ~Sep 7–10** = sell-out risk, not discounts — book beds ahead.
 **Guide:** [food · nature · lodging · transit · **money**](memory/bergen-local-food.md).
 
 ### Stockholm — default **5n** · flex **4–6n**

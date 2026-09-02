@@ -288,14 +288,41 @@ Coop Extra / Rema (Bergen) · Coop Marked (Flåm): reker + lemon · røkt laks +
 ### Bergen city
 | Do | Skip / watch |
 |---|---|
-| **Hike Fløyen free** (funicular down optional) | Round-trip **Fløibanen ~$18** if legs OK |
-| **Stoltzekleiven → Ulriken** free ridge | Ulriken cable both ways ~$36 |
+| **Hike Fløyen free** (funicular down optional) | Round-trip **Fløibanen NOK 200 online / 220 counter** if legs OK |
+| **Stoltzekleiven → Ulriken** free ridge | **Ulriken643 return NOK 435** (~$41) — one-way down NOK 255 if wrecked |
 | **Kiwi / Rema** + a **real** guest kitchen (City Hostel / Montana / apartment) | **Torget fish tents $35–45** meals · assuming Citybox lets you cook — it doesn't |
 | **Trekroneren** ~$7–9 · **Pingvinen** value husmannskost | Bryggen waterfront full dinners (view tax) |
-| **Bryggen / Sandviken** walks free | Random “fjord tour” sold on the wharf |
-| Skyss 24h if many buses | Taxis |
-| Airport light rail ~$5 class fares | Airport taxi |
+| **Bryggen / Sandviken / Bergenhus grounds** walks free | Random “fjord tour” sold on the wharf |
+| **Skyss 7-day NOK 315** if ≥6 rides (see break-even below) | Taxis |
+| **Bybanen line 1 to/from Flesland NOK 51** | **Flybussen NOK 149–189** · airport taxi |
 | Tap water | Bottled |
+
+#### Deals card — verified levers *(Sep 2026 prices, NOK; ~10.5–11 NOK/$)*
+
+**Tickets — the Bergen Card is a trap for this trip**
+
+| Option | Price | Verdict |
+|---|---|---|
+| Skyss single | **51** | Fine if you mostly walk |
+| Skyss 24h | **136** | Only on a heavy-transit day (needs ~3 rides) |
+| **Skyss 7-day** ⭐ | **315** | **Break-even 6.2 rides.** Airport return = 2 already → wins on a 5n stay with trailhead buses |
+| Bergen Card 24h / 48h / 72h | 400 / 500 / 600 | ❌ **Skip.** Must extract ~NOK 264 / 228 / 192 of *extra* museum value vs plain Skyss. Fløibanen benefit is **50% off return only**; Ulriken only **10%**. Nature-first + cooking = never pays back |
+
+**Food**
+- **Too Good To Go** is live in Bergen — bags **NOK 40–99**. **Godt Brød Marken** (49–69) is a ~2 min walk from City Hostel; MENY bags ~49; Foodcourt Media City ~40 for a real meal. Check the app each morning, bags sell out.
+- **KIWI PLUSS** (free) = **15% Trumf bonus on fresh fruit & veg**, ~17% on Trippel-Trumf Thursdays. **REMA app** = 10% on produce + personalised cuts. Sign up on arrival — this is the single best grocery lever.
+- **“Dagens rett”** exists but is **NOK 199–259** (~$18–25). Occasional value lunch, not a daily saver when you have a kitchen.
+
+**Lodging levers**
+- **No published weekly/long-stay discount** at City Hostel Bergen or HI Montana — don't wait for one.
+- **Citybox Friends** (free) = **10% off direct** — the one real direct-booking edge. Still ⚠️ no stove, so it fails the kitchen rule regardless.
+- **Camping is not the cheap answer here:** Bergen Camping Park cabin **NOK 775**, Lone cabins **910–2,000** — all *above* a hostel dorm. Only the **tent pitch (BCP 260 / Lone 370, Lone −10% for 3+ nights)** undercuts a dorm, and it's 14–19 km out with September rain. Skip unless carrying gear.
+- Chain loyalty (Strawberry 5–15%, Scandic Friends ≥5%, Thon+ 8–12%) is free to join and open to non-residents — but only pays on **direct chain-hotel** bookings, i.e. not this trip.
+
+**Timing**
+- ⚠️ **Early Sep 2026 is not a bargain window.** Cruise calls cluster **~Sep 7–10** (Sep 8 heaviest). Treat those dates as **sell-out risk, not discount** — book the kitchen bed **in advance**, free-cancel.
+- The genuine shoulder-season price drop lands **late September / October**, after the cruise season thins.
+- Check calls before fixing dates: [Bergen Havn anløpsliste](https://www.bergenhavn.no/anlopsliste).
 
 ### Flåm / Aurland / Undredal
 | Do | Skip / watch |

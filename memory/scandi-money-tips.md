@@ -76,13 +76,15 @@
 
 | Tip | Detail |
 |---|---|
-| **Groceries** | **Kiwi, Rema 1000** · First Price brand · **Coop Mega / Meny** = premium |
+| **Groceries** | **Kiwi, Rema 1000** · First Price brand · **Coop Mega / Meny** = premium · free **KIWI PLUSS** = 15% Trumf bonus on fruit & veg (~17% Trippel-Trumf Thu) · **REMA app** = 10% on produce |
+| **Rescued food** | **Too Good To Go** active in NO cities — bags ~**NOK 40–99** (bakeries, MENY, food courts). Book in the morning |
 | **Alcohol** | **Vinmonopolet** for stronger drinks · restaurant beer often **$11–15** — cook + limit bars |
 | **Allemannsretten** | Camp on uncultivated land · **≥150 m** from houses · respect local rules at trailheads (no lot camping at Preikestolen P1/P2) |
 | **Trains / boats** | **Vy** + **Flåmsbana** sell out — book early; independent tickets beat tour bundles |
 | **Hikes** | Trails free — pay only shuttle/cable if you choose |
 | **Lunch** | Dagens where offered · otherwise supermarket |
-| **City cards** | Usually skip on 2–3n · stack museums only if 24h pass clearly wins |
+| **City cards** | Usually skip on 2–3n · stack museums only if 24h pass clearly wins · **Bergen Card fails for hikers** (NOK 400/500/600 vs Skyss 24h 136 / 7-day 315) |
+| **Chain loyalty** | Free + open to non-residents: Strawberry 5–15%, Scandic Friends ≥5%, Thon+ 8–12% — **direct chain bookings only**, no help for hostels |
 | **Trap** | Harbour “seafood dinner” $40+ · cruise-port markups (Torget Bergen, Skagenkaien SVG, Brygge Oslo) |
 | **Half-board hack** | Some hotels (e.g. Skagen Brygge style) include dinner — math vs dorm+restaurants |
 
