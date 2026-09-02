@@ -114,7 +114,7 @@ Full spine: [scandi-transit.md](scandi-transit.md).
 
 ## Early arrival — solo days before the fjord block
 
-*Case: Kystbussen up from Stavanger ~**Sep 6**, companion lands Bergen ~**Sep 11**. Five solo nights before the shared block.*
+*Case: you reach Bergen on the Kystbussen up from Stavanger and a companion joins ~**5 days later** (live 2026 instance: bus up ~Sep 6, companion lands ~Sep 11). Five solo nights before the shared block — scale the shape if the gap is 3 or 7.*
 
 **Principle:** spend the extra days on **city + weather insurance**, not on stretching the fjord half. Bryggen, one peak, KODE and the food list are all fine alone and would otherwise eat the companion's first days. Arrive-early also means you take the ridge on the **clear** day instead of the scheduled one — this is the wettest stretch of the route.
 
