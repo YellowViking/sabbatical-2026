@@ -373,7 +373,8 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Stavanger→Bergen Sep 6 BOOKED:** FlixBus **09:50–14:30** direct, **€27.48**.
 - [x] **Bergen→Stockholm Sep 8 BOOKED** (Sep 7) — Finnair **AY0806** 10:50→12:10 nonstop, **3,250 Avios + $42.70** via BA Executive Club, 23kg bag included.
 - [ ] **Book the return ARN→BGO Sun Sep 13** — Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28. Balance is exactly 3,250 Avios, so any reprice needs a top-up **before the +30% Amex→Avios bonus expires Sep 27**.
-- [ ] **Stockholm bed Sep 8–13 (5n)** — see [stockholm-local-food.md](memory/stockholm-local-food.md) §Lodging live audit. Inventory is draining fast; all remaining options are non-refundable.
+- [x] **Stockholm bed Sep 8–11 BOOKED** (Sep 7) — **City Hostel**, Fleminggatan 19 Kungsholmen, bed in **10-bed mixed dorm (30 m², single bed)**, 3n, **NOK 679 via Agoda**, non-refundable. Cheapest of seven channels; Agoda beat Booking by 308 NOK on the same room.
+- [ ] **Stockholm bed Fri 11 – Sun 13 (2n)** — **STF Skeppsholmen**, take the **50 m² / single-bed** "Bed in 16-Bed Dormitory (Mixed)", not the unlabelled twin listing. Agoda ~854 non-ref vs **STF direct ~1,064 with free cancellation to 18:00 Thu Sep 10**. Both last-room. Details: [stockholm-local-food.md](memory/stockholm-local-food.md) §Lodging live audit.
 - [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
 - [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece).
 - [ ] **Year-base:** unpaid sabbatical + **high savings** → **Spain NLV vs France VLS-T** deep dive [spain-nlv-vs-france-visitor.md](memory/spain-nlv-vs-france-visitor.md) · hub [europe-year-base-nomad.md](memory/europe-year-base-nomad.md). Fall Riga/Zagreb = lifestyle only; apply means visa from US (not mid-fall).
