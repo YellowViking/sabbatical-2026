@@ -182,6 +182,46 @@ Still good daylight for islands/forest. Book **Vasa** and any **archipelago boat
 
 ---
 
+## Beer & breweries 🍺
+
+*Live prices pulled **Sep 4 2026** · 1 SEK = **$0.105** · €1 = $1.16. Sweden's split is the most extreme on the route: **bar 90–110 kr vs Systembolaget 9.90–29 kr** for the same class of beer. **One bar pint ≈ 4–10 Systembolaget cans.** That's the entire Stockholm drinks strategy.*
+
+| Where | SEK | ~USD |
+|---|---|---|
+| Craft-bar pint | 90–110 kr | ~$9.4–11.5 |
+| Neighborhood pub pint (Expatistan avg) | 72 kr | ~$7.53 |
+| Numbeo restaurant draft 0.5L | ~€7.16 | ~$8.32 |
+| **Systembolaget — cheapest 33cl lagers** (live) | **9.90 kr** | ~$1.04 |
+| Systembolaget — Nya Carnegie **Jack / Luma Lager** 33cl (live) | 18.90–19.90 kr | ~$2.0–2.1 |
+| Systembolaget — Nya Carnegie **100W IPA / Neon IPA** 33cl (live) | 28.90–29.10 kr | ~$3.02–3.04 |
+| Systembolaget — **Omnipollo Drip** 33cl (live) | 19.90 kr | ~$2.08 |
+| Systembolaget — Omnipollo 44cl big beers (live) | 36.90–65.90 kr | ~$3.86–6.89 |
+| Systembolaget — Carnegie Porter 33cl (live) | 20.90 kr | ~$2.19 |
+
+### Breweries & taprooms
+
+| Place | What | Price (live) |
+|---|---|---|
+| **Nya Carnegiebryggeriet** (Hammarby Sjöstad) | Guided brewery tour + **4 beers + paired snacks**, ~75 min, max 16 | **495 kr Tue–Thu 18:00–19:15** · **550 kr Fri 16/18/20 · Sat 15/17/19** (~$52 / $58) |
+| **Omnipollos Hatt** (Södermalm) | Taproom + Pizza Hatt · outdoor seating · own small-batch plus rotating guests | Bar rates (90–110 kr band) |
+| **Akkurat** | Deep tap and bottle list, classic beer bar | Bar rates |
+
+**NCB booking:** English sessions **Tue 18:00** and **Sat 19:00** (English runs when English-speaking guests book; 16+ groups can arrange one). **18+**, max 16, **free cancellation to 36h out**, midweek booking includes **15% off food afterwards**.
+
+⚠️ Older guides still quote **300–395 kr** for this tour. The operator's own live price is **495 / 550 kr** — budget the real number.
+
+### Budget check
+Three bar pints = **270–330 kr ($28–35)/day**. Over 5n that's **$141–173 on drinks alone** — the largest drinks line of the fall route. Three Systembolaget cans = **30–90 kr ($3–9)/day**. The realistic mix — **one bar pint + two retail** — lands ~**120–150 kr ($13–16)/day**, and that's the number to actually budget against [itinerary §6](../itinerary.md).
+
+### Free / cheap version
+- **Systembolaget hours are the trap:** it closes around **15:00 Saturday** and is **shut Sunday**. Buy Friday, or you pay bar rates all weekend.
+- **The 495 kr NCB tour is skippable** — that's ~25 Luma Lagers. Take it only if you want the production floor and the paired snacks, not the beer.
+- **Omnipollos Hatt's outdoor seating** is the free-adjacent version: one beer, sit outside, no cover, no booking.
+- Pair drinking with the free nature days already in this guide (**Tyresta, Djurgården**) instead of adding bar nights.
+- Cheapest 33cl lager in the country is **9.90 kr (~$1.04)** — cheaper per unit than anywhere in the Baltics.
+
+---
+
 ## Lodging *(hostels + budget)*
 
 *Criteria §7 · central for **T-Centralen** / Söder · free cancel while flex · late-Aug/early-Sep ballpark · AI Mode Pro Aug 2026 — re-check Booking.*
@@ -217,6 +257,48 @@ Still good daylight for islands/forest. Book **Vasa** and any **archipelago boat
 
 ---
 
+### ⚠ Live audit — Sep 8–12, 2026 (1 adult, 4n, checked Sep 6)
+
+Two things above are wrong for these dates. Fixing here rather than rewriting the ballpark table.
+
+1. **Generator has NO guest kitchen.** Property page, verbatim: *"We do not provide a shared kitchen facilities, however we offer incredible local food in both Hilma Bar and Frida's Cafe."* If kitchen is a hard requirement, Generator is disqualified — it is the **only** Stockholm hostel of the 12 on Booking without one.
+2. **City Backpackers and STF Skeppsholmen are sold out** for Sep 8–12.
+
+**Every other hostel checked has a shared kitchen** — Lilla Brunn ("communal, fully-equipped"), Svea, City Hostel, Nomad Gärdet, Dockside, STF Långholmen, Hostel Dalagatan, Grad, Stockholm Hostel. Kitchen is the Swedish hostel default; screen on beds and location instead.
+
+**Dorm beds w/ kitchen, 4 nights total NOK** (÷4 for nightly; ×0.108 for USD):
+
+| Place | Total | Room | Bed | m²/person | Score | From centre |
+|---|---|---|---|---|---|---|
+| Hostel Dalagatan | 1,312 | 6-bed | bunk | — | 6.8 (955) | 1.3 km |
+| **Lilla Brunn** | 1,321 nonref / 1,395 flex | 6-bed mixed | bunk | 3.33 | 7.8 (1,263) | 1.5 km |
+| Svea Hostel | 1,329 | female dorm | twin | — | 7.6 (429) | 1.2 km |
+| **City Hostel** ⭐ | 1,347 | 12-bed mixed | **twin** | 3.00 | 8.0 (2,665) | 1.2 km |
+| City Hostel | 1,406 | 8-bed mixed | **twin** | 3.00 | 8.0 | 1.2 km |
+| City Hostel | 1,543 | 6-bed mixed | **twin** | 3.33 | 8.0 | 1.2 km |
+| Nomad Gärdet | 1,408 | 8-bed | bunk | — | 7.9 (1,661) | 2.8 km |
+| Dockside | 1,593 | 8-bed | bunk | — | 7.7 (88) | 1.2 km |
+| Generator | 1,768 | 6-bed | bunk | 2.50 | 8.0 (16,720) | 0.9 km | ← **no kitchen** |
+
+**City Hostel is the pick:** every dorm is **twin beds, not bunks** (the thing that decided STF over City Backpackers), big communal kitchen, 8.0 from 2,665 reviews, 1.2 km. Catch: **all rows non-refundable**.
+Klara Hostel is 350 m out but scores **3.2** — ignore it.
+
+**Private premium** (see [[stockholm-private-vs-hostel-premium]] for the ratio):
+
+| Tier | Cheapest w/ kitchen | Per night |
+|---|---|---|
+| Dorm bed | 1,312–1,406 | ~330–350 |
+| Entire place, Airbnb | 2,698 (Sällerhögs Annex, Saltsjöbaden) · 2,723 (Huddinge) · 3,239 (mini-villa Huddinge, guest fav) · **3,486 (Cozy apartment, Stockholm, superhost)** | ~675–870 |
+| Entire place, Booking | 3,884 (ApartDirect Älvsjö 8.6, 6.3 km) · 5,014 (Biz Apartment Bromma 8.7) | ~970–1,250 |
+| Private room in a hostel | 4,917 (Stockholm Hostel quad) · 6,579 (STF Långholmen quad) · 6,779 (Lilla Brunn triple) | ~1,230–1,700 |
+
+**Airbnb beats Booking for private by ~1,200 NOK, and a whole Airbnb apartment is cheaper than a private room in a hostel.** Never book the hostel private room here.
+⚠ Airbnb search mixes in flexible-date suggestions ("Sep 9 – 11") — those are 2–3 night totals, not Sep 8–12. All numbers above are true 4-night totals with the flex cards filtered out.
+
+**Transit adder:** cheap Airbnbs sit in Huddinge / Saltsjöbaden / Täby / Nacka, 20–40 min each way. SL adult fares (secondary sources — sl.se's fare page 404'd, so treat as ±): single **~42 SEK**, 24h **~175**, 72h **~360**, 7-day **~470**. A 4-night outer stay needs the 7-day (~470 SEK ≈ 457 NOK); a central bed can run on singles. Call it ~150–250 NOK of the gap, plus ~1h/day of commuting.
+
+---
+
 ## Money savers
 *Country: [scandi-money-tips.md](scandi-money-tips.md) · Sweden · AI Mode Pro Aug 2026*
 
@@ -228,7 +310,7 @@ Still good daylight for islands/forest. Book **Vasa** and any **archipelago boat
 | **One paid museum = Vasa** | Djurgården museum crawl |
 | Söder cheap eats (herring, falafel) | **Gamla Stan** square dinners |
 | SL 72h if stacking Tyresta + islands | Arlanda Express if bus/commuter works |
-| Systembolaget planned | Nightly $10 beers |
+| **Systembolaget planned** | Bar pint 72–110 kr vs **9.90–29 kr** retail. Closes ~15:00 Sat, **shut Sun** — buy Friday. [Beer & breweries](#beer--breweries-) |
 | Tap water | Bottled |
 | Picnic on cliffs / Djurgården | Sit-down every meal |
 
