@@ -210,7 +210,28 @@ Forecast pulled **per overnight location**, not Bergen — Bergen is the wettest
 
 **~88 mm across the week, but concentrated rather than constant.**
 
-**The one real washout is Tuesday 15 at Odda — 25 mm — which is the glacier lake hike day.** That's the day worth having an indoor swap for.
+**The one real washout is Tuesday 15 at Odda — 25 mm — which is the glacier lake hike day.**
+
+### The fix: swap Odda and Eidfjord
+
+**Tuesday is wet across the whole region, not just Odda** — Eidfjord is 20.4 mm the same day. You can't drive out of it. But you can move the hike:
+
+| | Mon 14 | Tue 15 |
+|---|---:|---:|
+| **Odda** | **0.3 mm** | 25.2 mm |
+| **Eidfjord** | 0.3 mm | 20.4 mm |
+
+**Reversing the order — Norheimsund → Odda (Mon) → Eidfjord (Tue) → Aurland — puts the glacier lake hike on Monday in 0.3 mm instead of Tuesday in 25 mm.** Tuesday then becomes the Eidfjord day, whose attractions handle rain far better: waterfalls, Kjeåsen, the Viking mounds.
+
+**And it's the same swap that saves 48 minutes of driving** (see route note below) — 6.1 h total instead of 6.9 h, with the long transfer softened from 2.8 h to 2.1 h. Two problems, one change. Only worth it if the Odda and Eidfjord beds aren't booked yet.
+
+### If the days can't move — wet-weather options at Odda
+
+**Waterfalls are better in rain, not worse.** LP's Hardangerfjord hikes list includes **Vøringsfossen: 4 km, two hours, through the canyon from Storegjel** — *"the roar can be deafening the closer you get."* Heavy rain makes that spectacular rather than ruined.
+
+**Indoors:** **Tyssedal Hotel**, 5 km north of Odda — LP calls it *"Odda's best restaurant; Norwegian staples in a 1913 Art Deco hotel"* (noon–2.30pm & 6–9pm Tue–Sat). A long lunch there is a legitimate way to spend a 25 mm afternoon.
+
+**Note on Kjeåsen:** there are two ways up. The drive (one-way road, on the hour) is the easy option; LP also lists a **4 km return, four-hour hike from Simadal** that involves *"at least one rope ladder"* — not one for a wet day.
 
 **The Aurland days are much better than a Bergen forecast suggests**: 8.1, 6.0 and 3.6 mm, with Friday only 82% cloud. **The Nærøyfjord cruise on Thursday should be fine** — 6 mm, not the washout a Bergen-based reading implies. **Monday at Eidfjord is effectively dry** at 0.3 mm, though overcast.
 
@@ -224,7 +245,9 @@ Temperatures run **8–15°C** throughout. Beyond ~10 days confidence drops shar
 
 All the hops are comfortable (verified via OSRM): **Bergen → Norheimsund 1.4 h**, **Norheimsund → Eidfjord 1.4 h**, **Eidfjord → Odda 1.3 h**, then the long **Odda → Aurland 2.8 h** transfer. Nothing is badly placed.
 
-**Optional:** swapping Eidfjord and Odda — *Norheimsund → Odda (1.3 h) → Eidfjord (1.3 h) → Aurland (2.1 h)* — totals **6.1 h against the current 6.9 h**, saving ~48 minutes and softening the long transfer day from 2.8 h to 2.1 h. Only worth doing if nothing's booked; not worth unpicking reservations for.
+**Worth considering:** swapping Eidfjord and Odda — *Norheimsund → Odda (1.3 h) → Eidfjord (1.3 h) → Aurland (2.1 h)* — totals **6.1 h against the current 6.9 h**, saving ~48 minutes and softening the long transfer day from 2.8 h to 2.1 h.
+
+**It also moves the glacier lake hike out of Tuesday's 25 mm and into Monday's 0.3 mm** (see the weather section) — which is the stronger reason of the two. Only worth it if the Odda and Eidfjord beds aren't booked.
 
 ---
 
