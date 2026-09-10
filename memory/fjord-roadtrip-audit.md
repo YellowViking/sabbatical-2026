@@ -184,19 +184,29 @@ The two Bergen nights at the end are Mazen's only — Buyu's flight leaves Satur
 
 Forecast pulled 10 Sep for Bergen. **Over 100 mm of rain across the week**, cloud essentially unbroken:
 
-| Date | Rain | Cloud | Trip day | Buyu? |
-|---|---:|---:|---|:--:|
-| Sat 12 | 10.0 mm | 94% | arrive | ✗ |
-| **Sun 13** | 0.4 mm | 95% | Ulriken + kayak | ✓ |
-| **Mon 14** | 0.6 mm | 89% | waterfall, sauna | ✓ |
-| **Tue 15** | **21.3 mm** | 98% | glacier lake hike | ✓ |
-| **Wed 16** | 13.8 mm | 100% | transfer to Aurland | ✓ |
-| **Thu 17** | **18.0 mm** | 99% | Nærøyfjord cruise | ✓ |
-| **Fri 18** | 5.1 mm | 97% | Stegastein | ✓ |
-| **Sat 19** | **14.1 mm** | 96% | Rimstigen + car return + Buyu flies out | ✓ |
-| Sun 20 | 16.8 mm | 97% | Bergen city day | ✗ |
+Forecast pulled **per overnight location**, not Bergen — Bergen is the wettest city in Europe and Aurland sits in a rain shadow, so a Bergen-wide figure badly overstates the inland days.
 
-Temperatures 7–14°C. **Tue 15 and Thu 17 are the washouts** — worth having indoor swaps ready for the glacier hike and the cruise. Beyond ~10 days confidence drops sharply; re-check nearer the time.
+| Date | Where | Temp | Rain | Cloud | Trip day | Buyu? |
+|---|---|---|---:|---:|---|:--:|
+| Sat 12 | Bergen | 12–14°C | 10.0 mm | 94% | arrive | ✗ |
+| **Sun 13** | Norheimsund | 11–15°C | 4.2 mm | 76% | Fløyen + Norheimsund | ✓ |
+| **Mon 14** | Eidfjord | 9–15°C | **0.3 mm** | 99% | waterfall, sauna | ✓ |
+| **Tue 15** | **Odda** | 11–15°C | **25.2 mm** | 88% | glacier lake hike | ✓ |
+| **Wed 16** | Aurland | 10–14°C | 8.1 mm | 99% | transfer to Aurland | ✓ |
+| **Thu 17** | Aurland | 10–12°C | **6.0 mm** | 97% | Nærøyfjord cruise | ✓ |
+| **Fri 18** | Aurland | 8–14°C | 3.6 mm | 82% | Stegastein | ✓ |
+| **Sat 19** | Bergen | 9–14°C | 14.1 mm | 96% | Rimstigen + car return + Buyu flies out | ✓ |
+| Sun 20 | Bergen | 9–11°C | 16.8 mm | 97% | Bergen city day | ✗ |
+
+**~88 mm across the week, but concentrated rather than constant.**
+
+**The one real washout is Tuesday 15 at Odda — 25 mm — which is the glacier lake hike day.** That's the day worth having an indoor swap for.
+
+**The Aurland days are much better than a Bergen forecast suggests**: 8.1, 6.0 and 3.6 mm, with Friday only 82% cloud. **The Nærøyfjord cruise on Thursday should be fine** — 6 mm, not the washout a Bergen-based reading implies. **Monday at Eidfjord is effectively dry** at 0.3 mm, though overcast.
+
+The wet bookends — Sat 12, Sat 19, Sun 20 — are all Bergen city days rather than hiking days.
+
+Temperatures run **8–15°C** throughout. Beyond ~10 days confidence drops sharply, so re-check nearer the time — the Aurland end of the week is the least certain.
 
 ---
 
