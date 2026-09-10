@@ -15,6 +15,25 @@
 >
 > Everything costed below is the **6-night Sun→Sat window** unless stated.
 
+---
+
+## 🚗 Airport pickup — Sunday 13 Sep
+
+**Please collect Buyu from Bergen Airport, Flesland (BGO).**
+
+| | |
+|---|---|
+| **Arrives** | **Sun 13 Sep, 10:05** |
+| Airport | Bergen Flesland (BGO), ~20 km south of the city |
+| Flight | Finnair, direct from Stockholm Arlanda |
+| Bags | one cabin bag — no checked-baggage wait |
+
+**Why it matters for the day:** Sunday is the Ulriken + Hardangerfjord kayak day, with the drive out to Norheimsund (~1h15) on top. A prompt pickup around **10:20** keeps that achievable; a late one squeezes the kayak.
+
+**If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs the morning and makes Ulriken plus the kayak plus the Norheimsund drive very tight.
+
+⚠️ **This arrival time is provisional until the flight is ticketed.** Buyu will confirm the exact time once it's booked — treat 10:05 as the plan, not the guarantee.
+
 *All prices verified 10 Sep 2026 on Booking.com for 2 adults, in USD. Guidebook references are Lonely Planet Scandinavia, 15th ed. (2025).*
 
 ---
