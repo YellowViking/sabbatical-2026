@@ -28,11 +28,11 @@
 | Flight | Finnair, direct from Stockholm Arlanda |
 | Bags | one cabin bag — no checked-baggage wait |
 
-**Why it matters for the day:** Sunday also has the Hardangerfjord kayak, with the drive out to Norheimsund (~1h15) on top. A prompt pickup around **10:20** keeps that achievable; a late one squeezes the kayak.
+**Why it matters for the day:** Sunday still has Fløyen (proposed below) plus the drive out to Norheimsund (~1h15). A prompt pickup around **10:20** keeps the day relaxed.
 
-**Ulriken: do it solo that morning.** Buyu already climbed Ulriken on the earlier Bergen stop (6–8 Sep), so there's no need to wait and repeat it. Better use of the dead time before the 10:05 landing — go up Ulriken first thing, come down, collect Buyu, then head straight for Norheimsund.
+**Ulriken: do it solo that morning.** Buyu already climbed Ulriken on the earlier Bergen stop (6–8 Sep), so there's no need to wait and repeat it. Better use of the dead time before the 10:05 landing — go up Ulriken first thing, come down, collect Buyu, then head into the centre.
 
-**If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs the morning and makes the Norheimsund drive plus the kayak very tight.
+**If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs most of the morning and would likely mean dropping Fløyen.
 
 ⚠️ **This arrival time is provisional until the flight is ticketed.** Buyu will confirm the exact time once it's booked — treat 10:05 as the plan, not the guarantee.
 
@@ -44,10 +44,10 @@
 
 **The route covers the essentials, and covers them better than the guidebook's own Bergen day-trip list.** Most fjord itineraries pick one fjord system; this one does both:
 
-- **Hardangerfjord** — LP calls it *"the heart and soul of Norwegian fjord country"* — via the Norheimsund kayak and Eidfjord.
+- **Hardangerfjord** — LP calls it *"the heart and soul of Norwegian fjord country"* — via Norheimsund, Eidfjord and Odda.
 - **Sognefjorden** — LP: *"If you only have time to visit one Norwegian fjord, make it Sognefjorden"* — via Aurland, the Nærøyfjord cruise and Stegastein.
 
-Plus Bergen's core: Bryggen, Fløyen, Ulriken.
+Plus Bergen's core: Bryggen, Ulriken, and Fløyen (see §5 — currently scheduled outside Buyu's window).
 
 Nothing needs restructuring. What follows is optional upside.
 
@@ -91,7 +91,7 @@ LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm 
 | ~10:50 | Bergen centre (~20 km) |
 | 10:50–13:00 | **Fløyen** — funicular up, 45–60 min walk at the top, back down |
 | 13:00–14:15 | drive to **Norheimsund** (~1h15) |
-| afternoon | **Hardangerfjord kayak** |
+| afternoon | kayak if it's still on — otherwise **Steinsdalsfossen** and the fjord (below) |
 
 **Cost:** adult return **200–220 NOK** (peak season runs April–September); one-way **105–120 NOK**. **The free version:** walk up the Fløysvingene zigzag from the base station, 45–60 minutes — then either walk down or buy a one-way ticket for the descent.
 
@@ -109,7 +109,7 @@ The Hardangerfjord kayak runs **$55–85 per person**, so dropping it is a reaso
 
 ### Out of reach, for the record
 
-**Urnes Stave Church** (UNESCO, Norway's oldest) is a numbered LP highlight but sits far up Lustrafjord. Same for Hopperstad and Kaupanger stave churches, Kjelsfossen, and — from the Bergen side — Kjeåsen aside, **Rosendal** and **Voss**.
+**Urnes Stave Church** (UNESCO, Norway's oldest) is a numbered LP highlight but sits far up Lustrafjord — too far to be worth the day. Same for **Hopperstad** and **Kaupanger** stave churches and **Kjelsfossen**. On the Bergen side, **Rosendal** and **Voss** are both LP "Beyond Bergen" entries we don't reach, though Voss is driven through on the Saturday return.
 
 ---
 
@@ -123,7 +123,7 @@ LP: *"usually doable from **late May to early September**, depending on snowfall
 
 ### And even if it's open, the schedule doesn't have room
 
-It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places" — so it needs a whole day with no evening commitment. Within **Sun 13 → Sat 19** the only shift-free days are the **Sunday arrival** (landing mid-morning, already carrying Fløyen and the kayak) and the **Saturday departure** (Rimstigen, car back by 17:00, flight out). Mon 14 – Fri 18 all have 18:00–02:00 shifts, and none of the Bergen nights are Buyu's to move.
+It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places" — so it needs a whole day with no evening commitment. Within **Sun 13 → Sat 19** the only shift-free days are the **Sunday arrival** (landing mid-morning, already carrying Fløyen and the drive to Norheimsund) and the **Saturday departure** (Rimstigen, car back by 17:00, flight out). Mon 14 – Fri 18 all have 18:00–02:00 shifts, and none of the Bergen nights are Buyu's to move.
 
 **No expectation that anyone rearranges work for this.** Flagging it only because the trailhead is 20 minutes from a town we're already sleeping in, which felt worth mentioning once. If it doesn't work, it doesn't work.
 
@@ -181,8 +181,6 @@ The two Bergen nights at the end are Mazen's only — Buyu's flight leaves Satur
 ---
 
 ## Weather — book flexible where possible
-
-Forecast pulled 10 Sep for Bergen. **Over 100 mm of rain across the week**, cloud essentially unbroken:
 
 Forecast pulled **per overnight location**, not Bergen — Bergen is the wettest city in Europe and Aurland sits in a rain shadow, so a Bergen-wide figure badly overstates the inland days.
 
