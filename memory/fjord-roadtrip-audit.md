@@ -1,0 +1,155 @@
+# Fjord road trip — audit
+
+*Bergen → Norheimsund → Eidfjord → Odda → Aurland → Bergen · 2 travellers, one EV*
+
+> ## ⚠️ Two different date ranges — don't mix them up
+>
+> | | Dates | Nights |
+> |---|---|---|
+> | **Full road trip** | **Sat 12 → Sun 20 Sep** | 8 |
+> | **Buyu joins for** | **Sun 13 → Sat 19 Sep** | **6** |
+>
+> **Buyu arrives Sunday 13 Sep** (lands Bergen mid-morning) and **departs Saturday 19 Sep** — flying out the same evening the car goes back.
+>
+> That means **Buyu is not there for**: the Sat 12 arrival night at Haukeland, the Sat 19 evening in Bryggen, or the Sun 20 Bergen city day. **No Bergen hotel nights are Buyu's.**
+>
+> Everything costed below is the **6-night Sun→Sat window** unless stated.
+
+*All prices verified 10 Sep 2026 on Booking.com for 2 adults, in USD. Guidebook references are Lonely Planet Scandinavia, 15th ed. (2025).*
+
+---
+
+## Verdict
+
+**The route covers the essentials, and covers them better than the guidebook's own Bergen day-trip list.** Most fjord itineraries pick one fjord system; this one does both:
+
+- **Hardangerfjord** — LP calls it *"the heart and soul of Norwegian fjord country"* — via the Norheimsund kayak and Eidfjord.
+- **Sognefjorden** — LP: *"If you only have time to visit one Norwegian fjord, make it Sognefjorden"* — via Aurland, the Nærøyfjord cruise and Stegastein.
+
+Plus Bergen's core: Bryggen, Fløyen, Ulriken.
+
+Nothing needs restructuring. What follows is optional upside.
+
+---
+
+## Gaps worth adding — all near stops we already make
+
+### 1. Kjeåsen Farm — half a day, no schedule change
+
+**13 km from Eidfjord.** Two farms on a cleared slope **600 m above Eidfjord**, occupied since the mid-1800s, reachable only by a steep footpath until a road was built in **1975** — before that, every building material was carried up on people's backs. One structure reportedly took 30 years to finish. The last permanent resident left in 2019.
+
+⚠️ **Plan the timing.** Drive 8 km north of Eidfjord on the Rv7, then 2.5 km steeply up plus 2.5 km through a tunnel. The road is so narrow that **traffic runs one way only — up on the hour, down on the half-hour.**
+
+### 2. Flåmsbana — the biggest omission
+
+LP names it in the chapter's opening line: *"the iconic, near-vertical Flåmsbana Railway."* Flåm is ~10 minutes from Aurland and we have three days based there.
+
+### 3. Undredal
+
+LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm or Aurland, there's an **Undredal** or **Otternes** that feels like a fjord-side village unchanged by time, and that **many travellers miss altogether**."* Norway's smallest stave church, and the goat cheese.
+
+### 4. Small extras, same area
+
+- **Flåm to Aurland Walking Path** — a listed activity, free
+- **Otternes** — historic farm hamlet on that stretch
+- **Ægir Bryggeri** — LP's drinking pick, in Flåm
+
+### Out of reach, for the record
+
+**Urnes Stave Church** (UNESCO, Norway's oldest) is a numbered LP highlight but sits far up Lustrafjord. Same for Hopperstad and Kaupanger stave churches, Kjelsfossen, and — from the Bergen side — Kjeåsen aside, **Rosendal** and **Voss**.
+
+---
+
+## The Trolltunga question
+
+**The trailhead at Skjeggedal is 13 km northeast of Odda** — a stop already on the route. From Bergen it's a 3½-hour drive; from Odda it's twenty minutes. That proximity is the only reason this is even worth discussing.
+
+**Three things must all be true before committing:**
+
+1. **Season.** LP: *"usually doable from late May to early September, depending on snowfall."* We'd be there ~15–16 September — **past the stated window.** Confirm with Trolltunga Active or the Odda tourist office.
+2. **A shift-free day.** It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places." That cannot coexist with an 18:00–02:00 work shift.
+3. **Appetite.** Ten hours is a real day.
+
+### ⚠️ It doesn't currently fit Buyu's window
+
+Within **Sun 13 → Sat 19**, the only shift-free days are the **Sunday arrival** (lands mid-morning, already has Ulriken + the kayak) and the **Saturday departure** (Rimstigen, car back by 17:00, evening flight). Neither can absorb a 10-hour hike.
+
+Mon 14 – Fri 18 all carry 18:00–02:00 shifts. And because **none of the Bergen nights are Buyu's**, there's no night to move.
+
+**So Trolltunga needs one of:**
+- a **shift moved** on Tue 15 or Wed 16, freeing a full day at Odda; or
+- **Buyu extending** — arriving Sat 12 or staying through Sun 20; or
+- **dropping it.**
+
+En route: the **Tyssestrengene waterfall (646 m)**. Guides via Trolltunga Active, including sunrise and sunset departures.
+
+**If Trolltunga is out** — which on current scheduling it is — spend the time on Kjeåsen, Flåmsbana and Undredal instead. None of those need any schedule surgery, and all three fit inside days that already have evening shifts.
+
+---
+
+## Lodging index
+
+Prices are the **total for 2 adults** for that stay; `pp/n` is per person per night. Target was ≈$100 pp/night with review scores 8.0+.
+
+| Night | Base | Property | Score | Total | pp/n | Buyu? |
+|---|---|---|---:|---:|---:|:--:|
+| Sat 12 | Haukeland | campsite (as planned) | — | ~$28–42 | ~$14–21 | ✗ |
+| **Sun 13** | **Norheimsund** | **Kvamseter Lodge** — studio apt | 8.0 | $151 | **$76** | ✓ |
+| **Mon 14** | **Eidfjord** | **Eidfjord Gjestgiveri** — basic cabin | 8.2 | $80 | **$40** | ✓ |
+| **Tue 15** | **Odda** | **Trolltunga Lodge** — double | 8.2 | ~$157 | **~$78** | ✓ |
+| **Wed 16–Fri 18** | **Lærdal** | **Lærdal Hotel** — budget twin | 8.1 | $553 | **$92** | ✓ |
+| Sat 19 | Bergen | *(Buyu flies out this evening)* | — | — | — | ✗ |
+| Sun 20 | Bergen | Bergen Hostel Montana — triple, private bath | 8.6 | $145 | $73 | ✗ |
+
+**Buyu's 6 nights (Sun 13 → Sat 19): $941 for two = ≈$78 pp/night, everything 8.0 or better.**
+
+The two Bergen nights at the end are Mazen's only — Buyu's flight leaves Saturday evening, the same day the car goes back at 17:00.
+
+### Why Lærdal and not Aurland
+
+**Aurland at 8.0+ returns exactly 2 properties**, and the cheapest is **$980 for 3 nights ($163 pp/night)**. Flåm is worse — $2,236 and up. Lærdal, 25 minutes away through the Lærdal Tunnel, has **12 properties at 8.0+**, starting at $92 pp/night.
+
+**The alternative, if we'd rather stay in Aurland:** Winjum has two properties **physically at Stegastein** — Cabin at **$341 (3n, $57 pp/n)** and Hostel at **$287 ($48 pp/n)**. They score **7.2 and 7.6**, but on **1,000+ reviews each**, which usually means basic facilities rather than a bad place. Staying there saves ~$35 pp/night and removes a 25-minute tunnel commute from the Nærøyfjord and Stegastein days.
+
+**Trade:** Lærdal buys the review scores; Winjum buys the location and the money.
+
+### Other options by base
+
+- **Eidfjord** *(cheapest stop on the route)* — Eidfjord Hytter cottage **$46**, Sæbø Camping $104, Vøringfoss Hotel $239 (8.2)
+- **Odda** — Blue House Dormitory **$213 / 2n (8.6)**, Trolltunga Camping $240, Odda City Apartments $333 (8.6)
+- **Norheimsund** — Hardanger Feriesenter Sjusete $103 (7.6), Thon Hotel Sandven $251 (8.5, breakfast)
+- **Bergen** — Apartment in Åsane $264 (8.6), Quality Hotel Edvard Grieg $280
+
+### If a second Odda night is added for Trolltunga
+
+**Blue House Dormitory, 2 nights, $213, scoring 8.6** = **$53 pp/night** — cheaper per night than every other base on the route. But note this only works if a **shift moves** or **Buyu's window extends** (see above); there's no Bergen night of Buyu's to reallocate.
+
+⚠️ The single-night Odda figure in the table is derived from a 2-night search; the true one-night rate may differ slightly.
+
+---
+
+## Weather — book flexible where possible
+
+Forecast pulled 10 Sep for Bergen. **Over 100 mm of rain across the week**, cloud essentially unbroken:
+
+| Date | Rain | Cloud | Trip day | Buyu? |
+|---|---:|---:|---|:--:|
+| Sat 12 | 10.0 mm | 94% | arrive | ✗ |
+| **Sun 13** | 0.4 mm | 95% | Ulriken + kayak | ✓ |
+| **Mon 14** | 0.6 mm | 89% | waterfall, sauna | ✓ |
+| **Tue 15** | **21.3 mm** | 98% | glacier lake hike | ✓ |
+| **Wed 16** | 13.8 mm | 100% | transfer to Aurland | ✓ |
+| **Thu 17** | **18.0 mm** | 99% | Nærøyfjord cruise | ✓ |
+| **Fri 18** | 5.1 mm | 97% | Stegastein | ✓ |
+| **Sat 19** | **14.1 mm** | 96% | Rimstigen + car return + Buyu flies out | ✓ |
+| Sun 20 | 16.8 mm | 97% | Bergen city day | ✗ |
+
+Temperatures 7–14°C. **Tue 15 and Thu 17 are the washouts** — worth having indoor swaps ready for the glacier hike and the cruise. Beyond ~10 days confidence drops sharply; re-check nearer the time.
+
+---
+
+## Two timing risks
+
+**Saturday 19 is tight.** Rimstigen is a ~4-hour uphill zigzag, then the drive west through Voss, then the car back at the airport by 17:00 — on a day forecast for 14 mm of rain. Wet rock and a slow descent eats the margin. **Agree an abort time before setting off, not on the hill.**
+
+**Kjeåsen's road runs one way per hour.** Up on the hour, down on the half-hour. Arrive off-cycle and it's a 30–60 minute wait.
