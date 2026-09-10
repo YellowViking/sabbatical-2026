@@ -149,21 +149,33 @@ Prices are the **total for 2 adults** for that stay; `pp/n` is per person per ni
 | **Sun 13** | **Norheimsund** | **Kvamseter Lodge** — studio apt | 8.0 | $151 | **$76** | ✓ |
 | **Mon 14** | **Eidfjord** | **Eidfjord Gjestgiveri** — basic cabin | 8.2 | $80 | **$40** | ✓ |
 | **Tue 15** | **Odda** | **Trolltunga Lodge** — double | 8.2 | ~$157 | **~$78** | ✓ |
-| **Wed 16–Fri 18** | **Lærdal** | **Lærdal Hotel** — budget twin | 8.1 | $553 | **$92** | ✓ |
+| **Wed 16–Fri 18** | **Aurland** | **Winjum Cabin Stegastein** — private chalet | 7.2 | $341 | **$57** | ✓ |
 | Sat 19 | Bergen | *(Buyu flies out this evening)* | — | — | — | ✗ |
 | Sun 20 | Bergen | Bergen Hostel Montana — triple, private bath | 8.6 | $145 | $73 | ✗ |
 
-**Buyu's 6 nights (Sun 13 → Sat 19): $941 for two = ≈$78 pp/night, everything 8.0 or better.**
+**Buyu's 6 nights (Sun 13 → Sat 19): $729 for two = ≈$61 pp/night.**
 
 The two Bergen nights at the end are Mazen's only — Buyu's flight leaves Saturday evening, the same day the car goes back at 17:00.
 
-### Why Lærdal and not Aurland
+### Where to sleep for the three Sognefjord nights
 
-**Aurland at 8.0+ returns exactly 2 properties**, and the cheapest is **$980 for 3 nights ($163 pp/night)**. Flåm is worse — $2,236 and up. Lærdal, 25 minutes away through the Lærdal Tunnel, has **12 properties at 8.0+**, starting at $92 pp/night.
+**Aurland at review 8.0+ returns exactly 2 properties**, cheapest **$980 for 3 nights ($163 pp/night)**. Flåm is worse — $2,236 up. So an 8.0+ score in Aurland itself is unaffordable.
 
-**The alternative, if we'd rather stay in Aurland:** Winjum has two properties **physically at Stegastein** — Cabin at **$341 (3n, $57 pp/n)** and Hostel at **$287 ($48 pp/n)**. They score **7.2 and 7.6**, but on **1,000+ reviews each**, which usually means basic facilities rather than a bad place. Staying there saves ~$35 pp/night and removes a 25-minute tunnel commute from the Nærøyfjord and Stegastein days.
+**Lærdal** — 12 properties at 8.0+, from **$92 pp/night** — looks like the fix, but the drive times say otherwise (all verified via OSRM):
 
-**Trade:** Lærdal buys the review scores; Winjum buys the location and the money.
+| Leg | From **Aurland** | From **Lærdal** | Penalty |
+|---|---:|---:|---:|
+| Odda → base (transfer day) | 2.8 h | **3.4 h** | +36 min |
+| base → Flåm (Nærøyfjord cruise) | **0.2 h** | 0.7 h | +30 min each way |
+| base → Gudvangen (Rimstigen) | **0.5 h** | 1.0 h | +30 min each way |
+
+**Lærdal costs roughly 3 extra hours of driving across the three days — and it's $35 pp/night more expensive.** It wins on one axis only: the review score.
+
+**Recommendation: Winjum Cabin Stegastein.** A private chalet **physically at Stegastein**, $341 for 3 nights (**$57 pp/n**). It scores **7.2 — but on 1,000+ reviews**, which for a place like this usually means basic facilities rather than a bad stay. Winjum Hostel next door is $287 ($48 pp/n, 7.6) if the cabin's gone.
+
+**This breaks the "8.0+" preference deliberately.** The trade is: 0.9 of a review point against **$35 pp/night, three hours of driving, and 30 minutes more buffer on Saturday** — the tightest day of the trip. On those numbers the score isn't worth it.
+
+*If the 8.0 bar is firm, Lærdal Hotel at $553 / $92 pp/n (8.1) is the fallback, and the trip total becomes ≈$78 pp/night.*
 
 ### Other options by base
 
@@ -205,6 +217,14 @@ Forecast pulled **per overnight location**, not Bergen — Bergen is the wettest
 The wet bookends — Sat 12, Sat 19, Sun 20 — are all Bergen city days rather than hiking days.
 
 Temperatures run **8–15°C** throughout. Beyond ~10 days confidence drops sharply, so re-check nearer the time — the Aurland end of the week is the least certain.
+
+---
+
+### The route order itself is sound — one optional tweak
+
+All the hops are comfortable (verified via OSRM): **Bergen → Norheimsund 1.4 h**, **Norheimsund → Eidfjord 1.4 h**, **Eidfjord → Odda 1.3 h**, then the long **Odda → Aurland 2.8 h** transfer. Nothing is badly placed.
+
+**Optional:** swapping Eidfjord and Odda — *Norheimsund → Odda (1.3 h) → Eidfjord (1.3 h) → Aurland (2.1 h)* — totals **6.1 h against the current 6.9 h**, saving ~48 minutes and softening the long transfer day from 2.8 h to 2.1 h. Only worth doing if nothing's booked; not worth unpicking reservations for.
 
 ---
 
