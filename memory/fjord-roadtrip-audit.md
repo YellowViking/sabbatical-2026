@@ -95,7 +95,17 @@ LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm 
 
 **Cost:** adult return **200–220 NOK** (peak season runs April–September); one-way **105–120 NOK**. **The free version:** walk up the Fløysvingene zigzag from the base station, 45–60 minutes — then either walk down or buy a one-way ticket for the descent.
 
-⚠️ **One dependency: what time is the kayak booked for?** This running order assumes an **afternoon** slot at Norheimsund. If it's a morning booking, Fløyen doesn't fit and should stay dropped.
+**Timing dependency — likely resolved.** This running order assumes an **afternoon** kayak slot. If the kayak is dropped on cost (as discussed), Sunday afternoon opens up entirely and Fløyen has no constraint at all.
+
+### If the kayak is dropped — free ways to fill Sunday
+
+The Hardangerfjord kayak runs **$55–85 per person**, so dropping it is a reasonable call. It leaves the afternoon and the Norheimsund arrival open. Free substitutes, all in or near Norheimsund:
+
+**Steinsdalsfossen** — the waterfall in Norheimsund itself. An Eidfjord tourism official quoted in LP puts it among the best views in Hardangerfjord: *"offers a great view, and it's **right next to the main road**."* No walk-in, no ticket.
+
+**The Hardangerfjord driving tour** — LP maps a **135 km route starting at Norheimsund**: Øystese (Kunsthuset Kabuso, which shows Damien Hirst and Matthew Barney) → Kvanndal → **car ferry to Utne** (fruit orchards, preserved traditional streets, the Hardanger Folk Museum) → Rv550 to Jondal → Rosendal. A full unhurried day on the quieter side of the fjord, and only the ferry costs anything.
+
+*Also from that same views panel: **Lake Bondhusvatnet**, "a blue-green glacier lake… beautiful views with less effort" — which may well already be the Day 4 glacier lake hike.*
 
 ### Out of reach, for the record
 
