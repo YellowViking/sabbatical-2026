@@ -75,13 +75,27 @@ LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm 
 - **Otternes** — historic farm hamlet on that stretch
 - **Ægir Bryggeri** — LP's drinking pick, in Flåm
 
-### 5. Fløyen — currently scheduled on a day Buyu isn't there
+### 5. Fløyen — move it to Sunday 13, straight after the airport
 
-**Fløyen sits on Day 9 (Sun 20), which is outside the Sun 13 → Sat 19 window.** Ulriken is already done, so Fløyen is the Bergen mountain still outstanding — and as the plan stands it gets missed entirely.
+**As planned, Fløyen sits on Day 9 (Sun 20) — outside the Sun 13 → Sat 19 window**, so Buyu misses it. Ulriken is already done, making Fløyen the one Bergen mountain still outstanding.
 
-It's a short one: the Fløibanen funicular runs from the city centre and the walk at the top is 45–60 minutes, so it needs a slot rather than a day. Realistically that means either **Sunday 13 afternoon** (competing with the Norheimsund kayak — probably not) or accepting it's skipped.
+**It fits Sunday morning comfortably.** Sunday is the only day with no evening work shift, so there's no deadline to be anywhere, and the funicular imposes no constraint of its own: **Fløibanen runs 07:30–00:00, departures every 10 minutes.**
 
-**No action needed from Mazen** — flagging it so nobody assumes Buyu has seen it. Either it moves, or it waits for another trip.
+**Proposed Sunday running order:**
+
+| Time | |
+|---|---|
+| early | Mazen does **Ulriken solo** (Buyu's already done it) |
+| **10:05** | Buyu lands at Flesland |
+| ~10:20 | pickup — cabin bag only, no baggage wait |
+| ~10:50 | Bergen centre (~20 km) |
+| 10:50–13:00 | **Fløyen** — funicular up, 45–60 min walk at the top, back down |
+| 13:00–14:15 | drive to **Norheimsund** (~1h15) |
+| afternoon | **Hardangerfjord kayak** |
+
+**Cost:** adult return **200–220 NOK** (peak season runs April–September); one-way **105–120 NOK**. **The free version:** walk up the Fløysvingene zigzag from the base station, 45–60 minutes — then either walk down or buy a one-way ticket for the descent.
+
+⚠️ **One dependency: what time is the kayak booked for?** This running order assumes an **afternoon** slot at Norheimsund. If it's a morning booking, Fløyen doesn't fit and should stay dropped.
 
 ### Out of reach, for the record
 
