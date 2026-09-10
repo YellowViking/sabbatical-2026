@@ -287,7 +287,38 @@ Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 
 
 *Cash on the same flight was **$232**, so the redemption returned **7.6¢ per Amex point** — five times the 1.3–1.5¢ bar. Flying Blue wanted 5,000 miles + $25.30 on a slower SAS nonstop whose cash fare was $379; BA won on half the Amex points. Only **1 economy seat** existed for ~36 hours before booking.*
 
-**Return ARN→BGO Sun Sep 13 still unbooked:** Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28, 4 seats as of Sep 6. Remaining balance is **3,250 Avios — exactly the fare, no margin**; the +30% Amex→Avios bonus expires **Sep 27**.
+**Return ARN→BGO Sun Sep 13 still unbooked:** Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28, 4 seats as of Sep 6. Remaining balance is **3,250 Avios — exactly the fare, no margin**; the +30% Amex→Avios bonus expires **Sep 27**. *Re-verified Sep 10: Avios balance still 3,250, so this is confirmed NOT ticketed.*
+
+#### 🔲 Bergen → Riga — Sat 19 Sep, chosen not booked
+
+**Norwegian D8 2023, BGO 20:00 → RIX 22:55, nonstop 1h55.** Slots straight onto the fjord trip: rental car goes back at Flesland 17:00, flight leaves the same terminal at 20:00.
+
+| Fare | Price | Includes |
+|---|---:|---|
+| LowFare | **EUR 46.28** | underseat 30×40×20 only |
+| LowFare + à-la-carte cabin bag (EUR 19) | EUR 65.28 | + overhead 55×40×23, priority boarding |
+| **LowFare+** ⭐ | **EUR 69.80** | + overhead bag **+ 23 kg checked** + seat |
+
+**Cheapest exit from Bergen on any day, to anywhere in Europe.** Verified Sep 10 across both Explore map viewports (~45 destinations): Riga $55 · Oslo $93 · Stockholm $110 · London $115 · Luxembourg $116 · Helsinki $125 · Vilnius $144. Next-cheapest option on the same route is **$212**.
+
+**Saturday beats Sunday decisively** — the nonstop doesn't operate Sundays, so Sun 20 is **$135 on a 7h15 connection** via Oslo. Sunday does have cheaper headline fares *westward* (Edinburgh $77, Paris $83, Berlin $104 nonstop, Rome $152 nonstop), but all are off-route.
+
+**Channel sweep, Sep 10** — all bag-free base fares: Booking.com $51 · Flightnetwork $51 · **Norwegian direct $55** · Trip.com $57 · Expedia $61. **Book direct**: the $4 premium buys airline-issued ticketing on a low-cost carrier and lets bags be added in the same booking. Norwegian's own calendar shows Sep 19 and Sep 26 as the month's joint-cheapest at EUR 46.28.
+
+##### ⚠️ Cabin-bag risk — why LowFare+ is the safe pick
+
+Norwegian's limit is **10 kg COMBINED** across the overhead bag *and* the underseat item. The [Osprey Farpoint](../.. "55×35×23") clears the 55×40×23 dimensions, **but a pack loaded for a 6–8 month trip will very likely exceed 10 kg** — weight is the binding constraint, not size.
+
+Enforcement research (Sep 10, two independent sources — Rick Steves travel forum firsthand reports, plus Reddit r/Norway, r/onebag and r/travel via Google's summary):
+
+- **Inconsistent and airport/staff-dependent**, not systematic at every gate
+- **Weighing happens more often at check-in than at the gate**
+- **Personal items are rarely weighed** — *"they did weigh our carry-ons, but did not make us weigh our personal items"*
+- Bags are rarely pulled unless **visibly oversized, bulging or heavy**
+- **Stricter at major hubs, on full flights, and reportedly on European legs** — BGO is Norwegian's home turf
+- No widespread reports of fees; several travellers boarded slightly oversized without issue
+
+**Conclusion: take LowFare+ at EUR 69.80.** For **EUR 4 more** than buying the cabin bag alone it includes a **23 kg checked bag**, which removes the 10 kg-combined gamble entirely — check the Farpoint, carry the daypack. Gate rates are punitive by comparison: **EUR 30 for a small checked bag at check-in, EUR 45 at the airport.**
 
 **How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
 
