@@ -107,26 +107,25 @@ LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm 
 
 **The trailhead at Skjeggedal is 13 km northeast of Odda** — a stop already on the route. From Bergen it's a 3½-hour drive; from Odda it's twenty minutes. That proximity is the only reason this is even worth discussing.
 
-**Three things must all be true before committing:**
+### Realistically, it's probably already shut
 
-1. **Season.** LP: *"usually doable from late May to early September, depending on snowfall."* We'd be there ~15–16 September — **past the stated window.** Confirm with Trolltunga Active or the Odda tourist office.
-2. **A shift-free day.** It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places." That cannot coexist with an 18:00–02:00 work shift.
-3. **Appetite.** Ten hours is a real day.
+LP: *"usually doable from **late May to early September**, depending on snowfall."* We'd be there **15–16 September — past the stated window.** So this may well be moot before anyone reorganises anything. **Worth one phone call to Trolltunga Active or the Odda tourist office; if it's closed, that settles it.**
 
-### ⚠️ It doesn't currently fit Buyu's window
+### And even if it's open, the schedule doesn't have room
 
-Within **Sun 13 → Sat 19**, the only shift-free days are the **Sunday arrival** (lands mid-morning, already has Ulriken + the kayak) and the **Saturday departure** (Rimstigen, car back by 17:00, evening flight). Neither can absorb a 10-hour hike.
+It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places" — so it needs a whole day with no evening commitment. Within **Sun 13 → Sat 19** the only shift-free days are the **Sunday arrival** (landing mid-morning, already carrying Fløyen and the kayak) and the **Saturday departure** (Rimstigen, car back by 17:00, flight out). Mon 14 – Fri 18 all have 18:00–02:00 shifts, and none of the Bergen nights are Buyu's to move.
 
-Mon 14 – Fri 18 all carry 18:00–02:00 shifts. And because **none of the Bergen nights are Buyu's**, there's no night to move.
+**No expectation that anyone rearranges work for this.** Flagging it only because the trailhead is 20 minutes from a town we're already sleeping in, which felt worth mentioning once. If it doesn't work, it doesn't work.
 
-**So Trolltunga needs one of:**
-- a **shift moved** on Tue 15 or Wed 16, freeing a full day at Odda; or
-- **Buyu extending** — arriving Sat 12 or staying through Sun 20; or
-- **dropping it.**
+### Better-fitting alternatives — all shorter, none need a schedule change
 
-En route: the **Tyssestrengene waterfall (646 m)**. Guides via Trolltunga Active, including sunrise and sunset departures.
+**Folgefonna glacier — the natural substitute.** Mainland Norway's third-largest icefield, 168 km², **with access points at Odda**. Ice up to 400 m thick. LP: *"aside from a few walks around the glacier fringes, you should set out on a true glacier hike only in the company of a professional guide"* — and it singles out the **six-hour 'Blue Ice' trip to Juklavassbreen** as "especially good." Four hours shorter than Trolltunga, and *"suitable for anyone in good physical condition who has warm clothing and sturdy footwear."* Operators: **Folgefonni Glacier Team** (Jondal) and **Best Adventures** (Øvre Eidfjord). *(The Day 4 "glacier lake hike" may already be this — worth checking before double-booking.)*
 
-**If Trolltunga is out** — which on current scheduling it is — spend the time on Kjeåsen, Flåmsbana and Undredal instead. None of those need any schedule surgery, and all three fit inside days that already have evening shifts.
+**Eidfjord's Viking mounds — 90 minutes, free.** **350 burial mounds dating 400–1000 CE, the largest Iron Age site in western Norway.** The tourist office has a map with a marked 90-minute trail. Fits easily into a shift day.
+
+**Kjeåsen Farm** (above) — half a day, also fits a shift day.
+
+For the record, if Trolltunga ever does happen: the **Tyssestrengene waterfall (646 m)** is en route, and Trolltunga Active run guided sunrise and sunset departures.
 
 ---
 
