@@ -28,9 +28,11 @@
 | Flight | Finnair, direct from Stockholm Arlanda |
 | Bags | one cabin bag — no checked-baggage wait |
 
-**Why it matters for the day:** Sunday is the Ulriken + Hardangerfjord kayak day, with the drive out to Norheimsund (~1h15) on top. A prompt pickup around **10:20** keeps that achievable; a late one squeezes the kayak.
+**Why it matters for the day:** Sunday also has the Hardangerfjord kayak, with the drive out to Norheimsund (~1h15) on top. A prompt pickup around **10:20** keeps that achievable; a late one squeezes the kayak.
 
-**If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs the morning and makes Ulriken plus the kayak plus the Norheimsund drive very tight.
+**Ulriken: do it solo that morning.** Buyu already climbed Ulriken on the earlier Bergen stop (6–8 Sep), so there's no need to wait and repeat it. Better use of the dead time before the 10:05 landing — go up Ulriken first thing, come down, collect Buyu, then head straight for Norheimsund.
+
+**If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs the morning and makes the Norheimsund drive plus the kayak very tight.
 
 ⚠️ **This arrival time is provisional until the flight is ticketed.** Buyu will confirm the exact time once it's booked — treat 10:05 as the plan, not the guarantee.
 
@@ -72,6 +74,14 @@ LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm 
 - **Flåm to Aurland Walking Path** — a listed activity, free
 - **Otternes** — historic farm hamlet on that stretch
 - **Ægir Bryggeri** — LP's drinking pick, in Flåm
+
+### 5. Fløyen — currently scheduled on a day Buyu isn't there
+
+**Fløyen sits on Day 9 (Sun 20), which is outside the Sun 13 → Sat 19 window.** Ulriken is already done, so Fløyen is the Bergen mountain still outstanding — and as the plan stands it gets missed entirely.
+
+It's a short one: the Fløibanen funicular runs from the city centre and the walk at the top is 45–60 minutes, so it needs a slot rather than a day. Realistically that means either **Sunday 13 afternoon** (competing with the Norheimsund kayak — probably not) or accepting it's skipped.
+
+**No action needed from Mazen** — flagging it so nobody assumes Buyu has seen it. Either it moves, or it waits for another trip.
 
 ### Out of reach, for the record
 
