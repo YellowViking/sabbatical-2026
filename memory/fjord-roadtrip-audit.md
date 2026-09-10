@@ -23,10 +23,10 @@
 
 | | |
 |---|---|
-| **Arrives** | **Sun 13 Sep, 10:05** |
+| **Arrives** | **Sun 13 Sep, 10:05** ✅ ticketed |
 | Airport | Bergen Flesland (BGO), ~20 km south of the city |
-| Flight | Finnair, direct from Stockholm Arlanda |
-| Bags | one cabin bag — no checked-baggage wait |
+| Flight | **Finnair AY0805**, direct from Stockholm Arlanda, 08:45 → 10:05 |
+| Bags | one cabin bag + one checked bag — allow ~15 min at the belt |
 
 **Why it matters for the day:** Sunday still has Fløyen (proposed below) plus the drive out to Norheimsund (~1h15). A prompt pickup around **10:20** keeps the day relaxed.
 
@@ -34,7 +34,7 @@
 
 **If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs most of the morning and would likely mean dropping Fløyen.
 
-⚠️ **This arrival time is provisional until the flight is ticketed.** Buyu will confirm the exact time once it's booked — treat 10:05 as the plan, not the guarantee.
+✅ **Ticketed 10 Sep — Finnair AY0805, landing 10:05.** This is now fixed, so the Sunday plan below can be built around it. Track the flight live as `AY805` on the day.
 
 *All prices verified 10 Sep 2026 on Booking.com for 2 adults, in USD. Guidebook references are Lonely Planet Scandinavia, 15th ed. (2025).*
 
@@ -86,11 +86,11 @@ LP is pointed: *"for every pretty-but-busy village and traveller hub like Flåm 
 | Time | |
 |---|---|
 | early | Mazen does **Ulriken solo** (Buyu's already done it) |
-| **10:05** | Buyu lands at Flesland |
-| ~10:20 | pickup — cabin bag only, no baggage wait |
-| ~10:50 | Bergen centre (~20 km) |
-| 10:50–13:00 | **Fløyen** — funicular up, 45–60 min walk at the top, back down |
-| 13:00–14:15 | drive to **Norheimsund** (~1h15) |
+| **10:05** | Buyu lands at Flesland (**AY0805**) |
+| ~10:30 | pickup — one checked bag, so allow a few minutes at the belt |
+| ~11:00 | Bergen centre (~20 km) |
+| 11:00–13:15 | **Fløyen** — funicular up, 45–60 min walk at the top, back down |
+| 13:15–14:30 | drive to **Norheimsund** (~1h15) |
 | afternoon | kayak if it's still on — otherwise **Steinsdalsfossen** and the fjord (below) |
 
 **Cost:** adult return **200–220 NOK** (peak season runs April–September); one-way **105–120 NOK**. **The free version:** walk up the Fløysvingene zigzag from the base station, 45–60 minutes — then either walk down or buy a one-way ticket for the descent.

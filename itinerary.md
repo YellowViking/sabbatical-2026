@@ -261,7 +261,7 @@ Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; 
 *Inter-Baltic coaches TLL–RIX–VNO ≈ **$40–70** total — inside the all-transport envelope.*
 
 ### Transport (headline)
-Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 Sep 8) · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$40–70 total · Vilnius→Ljubljana ~$90 · fjord loop ~$181. Other estimates: CPH→Gothenburg→Oslo ~$80 · Oslo→Stavanger ~$60 · **Stavanger→Bergen FlixBus €27.48 live** · Gotland ferry ~$60 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **$5.60 booked** · Naples/Rome→SEA **~$400–600** still open. **All transport now models at ~$1.6–1.8k**, including the home flight.
+Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 Sep 8) · Stockholm→Bergen ✅ **booked, 3,250 Avios + $28.10** (AY0805 Sep 13) · Stockholm↔Tallinn/Helsinki ferries ~$100–145 · Baltic buses ~$40–70 total · Vilnius→Ljubljana ~$90 · fjord loop ~$181. Other estimates: CPH→Gothenburg→Oslo ~$80 · Oslo→Stavanger ~$60 · **Stavanger→Bergen FlixBus €27.48 live** · Gotland ferry ~$60 · Dubrovnik→Venice ~$80 · Italy trains ~$180. **International:** entry ✅ **$5.60 booked** · Naples/Rome→SEA **~$400–600** still open. **All transport now models at ~$1.6–1.8k**, including the home flight.
 
 #### ✅ Entry flight — BOOKED (Aug 12 2026)
 | | |
@@ -287,7 +287,16 @@ Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 
 
 *Cash on the same flight was **$232**, so the redemption returned **7.6¢ per Amex point** — five times the 1.3–1.5¢ bar. Flying Blue wanted 5,000 miles + $25.30 on a slower SAS nonstop whose cash fare was $379; BA won on half the Amex points. Only **1 economy seat** existed for ~36 hours before booking.*
 
-**Return ARN→BGO Sun Sep 13 still unbooked:** Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28, 4 seats as of Sep 6. Remaining balance is **3,250 Avios — exactly the fare, no margin**; the +30% Amex→Avios bonus expires **Sep 27**. *Re-verified Sep 10: Avios balance still 3,250, so this is confirmed NOT ticketed.*
+#### ✅ Stockholm → Bergen — BOOKED (Sep 10 2026)
+| | |
+|---|---|
+| Flight | **Finnair AY0805**, nonstop **1h20** |
+| Route | ARN Arlanda → BGO Flesland |
+| Times | **Sun Sep 13, 08:45 → 10:05** |
+| Paid | **3,250 Avios + US$28.10** |
+| Baggage | 1×23kg checked included (Finnair) |
+
+*Cash on the same flight had risen to **$163** by booking day, making this **4.15¢ per Avios** — up from 3.47¢ when first priced on Sep 6. **Avios balance is now ~0**, so any further redemption needs a fresh Amex transfer before the **+30% bonus expires Sep 27**.*
 
 #### 🔲 Bergen → Riga — Sat 19 Sep, chosen not booked
 
@@ -403,7 +412,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [ ] **Bergen Sep 6–12:** buy **HI USA card 196.02 NOK** → book Montana **Sep 6–11 private+dorm 2,116 NOK** → book **Sep 11–12 private twin 573 NOK** → ask hostel to link reservations. **Total 2,885.02 NOK** for 3 private + 3 dorm nights. Exact-date sweep found no credible Bergen competitor below 5,100 NOK.
 - [x] **Stavanger→Bergen Sep 6 BOOKED:** FlixBus **09:50–14:30** direct, **€27.48**.
 - [x] **Bergen→Stockholm Sep 8 BOOKED** (Sep 7) — Finnair **AY0806** 10:50→12:10 nonstop, **3,250 Avios + $42.70** via BA Executive Club, 23kg bag included.
-- [ ] **Book the return ARN→BGO Sun Sep 13** — Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28. Balance is exactly 3,250 Avios, so any reprice needs a top-up **before the +30% Amex→Avios bonus expires Sep 27**.
+- [x] **Stockholm→Bergen Sep 13 BOOKED** (Sep 10) — Finnair **AY0805** 08:45→10:05 nonstop, **3,250 Avios + $28.10** via BA Executive Club, 23kg bag included. Cash was $163 → **4.15¢/Avios**. Avios balance now ~0.
 - [x] **Stockholm bed Sep 8–11 BOOKED** (Sep 7) — **City Hostel**, Fleminggatan 19 Kungsholmen, bed in **10-bed mixed dorm (30 m², single bed)**, 3n, **NOK 679 via Agoda**, non-refundable. Cheapest of seven channels; Agoda beat Booking by 308 NOK on the same room.
 - [x] **Stockholm bed Fri 11 – Sun 13 BOOKED** (Sep 9) — **STF Skeppsholmen**, Flaggmansvägen 8, **Economy Single Room (9 m², private, shared bath)**, 2n, **SEK 1,952 = USD 203.76 via Agoda**, non-refundable. Property 9.0/3,640. The 50 m² single-bed dorm sold out first; remaining STF dorm was 15 m² bunks, so the private single was taken deliberately. ⚠️ **Agoda tip:** the first checkout quoted 2,152.54 — re-selecting from the live room list re-applied a SEK 278 coupon and restored 1,952. **Never reuse an Agoda checkout URL**; its `sai` price is frozen at click time while coupons only re-run on a fresh pick.
 - [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
