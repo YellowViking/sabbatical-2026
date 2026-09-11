@@ -9,7 +9,7 @@
 > | **Full road trip** | **Sat 12 → Sun 20 Sep** | 8 |
 > | **Buyu joins for** | **Sun 13 → Sat 19 Sep** | **6** |
 >
-> **Buyu arrives Sunday 13 Sep** (lands Bergen mid-morning) and **departs Saturday 19 Sep** — flying out the same evening the car goes back.
+> **Buyu arrives Sunday 13 Sep at 10:05** and **departs Saturday 19 Sep at 20:00** — both flights are now **ticketed**, so these times are fixed.
 >
 > That means **Buyu is not there for**: the Sat 12 arrival night at Haukeland, the Sat 19 evening in Bryggen, or the Sun 20 Bergen city day. **No Bergen hotel nights are Buyu's.**
 >
@@ -35,6 +35,26 @@
 **If a pickup doesn't work**, the fallback is the Bergen Light Rail (Bybanen) from Flesland into the centre, ~45 min — but that costs most of the morning and would likely mean dropping Fløyen.
 
 ✅ **Ticketed 10 Sep — Finnair AY0805, landing 10:05.** This is now fixed, so the Sunday plan below can be built around it. Track the flight live as `AY805` on the day.
+
+---
+
+## ✈️ Departure — Saturday 19 Sep
+
+**Buyu flies out of Flesland the same evening the car goes back.** Also now ticketed, so Saturday's plan has a hard stop.
+
+| | |
+|---|---|
+| **Flight** | **Norwegian D8 2023**, Bergen → Riga |
+| **Departs** | **Sat 19 Sep, 20:00** (arrives Riga 22:55) |
+| Airport | Bergen Flesland (BGO) — same terminal as the car return |
+| Bags | cabin only, no checked bag — **no bag drop needed** |
+| Needs to be at the airport by | **~18:30** |
+
+**This lines up neatly with the 17:00 car return** — drop the car, then Buyu is already at the airport with ~90 minutes to spare. **No separate trip back out to Flesland, and no need for anyone to make a special drive.** Mazen keeps the evening free for Bryggen.
+
+⚠️ **It does mean Saturday has a real deadline** — see *Two timing risks* below.
+
+---
 
 *All prices verified 10 Sep 2026 on Booking.com for 2 adults, in USD. Guidebook references are Lonely Planet Scandinavia, 15th ed. (2025).*
 
@@ -123,7 +143,7 @@ LP: *"usually doable from **late May to early September**, depending on snowfall
 
 ### And even if it's open, the schedule doesn't have room
 
-It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places" — so it needs a whole day with no evening commitment. Within **Sun 13 → Sat 19** the only shift-free days are the **Sunday arrival** (landing mid-morning, already carrying Fløyen and the drive to Norheimsund) and the **Saturday departure** (Rimstigen, car back by 17:00, flight out). Mon 14 – Fri 18 all have 18:00–02:00 shifts, and none of the Bergen nights are Buyu's to move.
+It's **23 km, ~10 hours return, ~1,000 m of climb**, "brutal in places" — so it needs a whole day with no evening commitment. Within **Sun 13 → Sat 19** the only shift-free days are the **Sunday arrival** (landing mid-morning, already carrying Fløyen and the drive to Norheimsund) and the **Saturday departure** — but that one is now **definitively out**: the flight is ticketed for 20:00, and a 10-hour hike plus the drive back cannot fit before a 17:00 car return. Mon 14 – Fri 18 all have 18:00–02:00 shifts, and none of the Bergen nights are Buyu's to move.
 
 **No expectation that anyone rearranges work for this.** Flagging it only because the trailhead is 20 minutes from a town we're already sleeping in, which felt worth mentioning once. If it doesn't work, it doesn't work.
 
@@ -150,12 +170,12 @@ Prices are the **total for 2 adults** for that stay; `pp/n` is per person per ni
 | **Mon 14** | **Eidfjord** | **Eidfjord Gjestgiveri** — basic cabin | 8.2 | $80 | **$40** | ✓ |
 | **Tue 15** | **Odda** | **Trolltunga Lodge** — double | 8.2 | ~$157 | **~$78** | ✓ |
 | **Wed 16–Fri 18** | **Aurland** | **Winjum Cabin Stegastein** — private chalet | 7.2 | $341 | **$57** | ✓ |
-| Sat 19 | Bergen | *(Buyu flies out this evening)* | — | — | — | ✗ |
+| Sat 19 | Bergen | *(Buyu flies out 20:00)* | — | — | — | ✗ |
 | Sun 20 | Bergen | Bergen Hostel Montana — triple, private bath | 8.6 | $145 | $73 | ✗ |
 
 **Buyu's 6 nights (Sun 13 → Sat 19): $729 for two = ≈$61 pp/night.**
 
-The two Bergen nights at the end are Mazen's only — Buyu's flight leaves Saturday evening, the same day the car goes back at 17:00.
+The two Bergen nights at the end are Mazen's only — Buyu's flight leaves **Saturday at 20:00**, the same day the car goes back at 17:00.
 
 ### Where to sleep for the three Sognefjord nights
 
@@ -205,7 +225,7 @@ Forecast pulled **per overnight location**, not Bergen — Bergen is the wettest
 | **Wed 16** | Aurland | 10–14°C | 8.1 mm | 99% | transfer to Aurland | ✓ |
 | **Thu 17** | Aurland | 10–12°C | **6.0 mm** | 97% | Nærøyfjord cruise | ✓ |
 | **Fri 18** | Aurland | 8–14°C | 3.6 mm | 82% | Stegastein | ✓ |
-| **Sat 19** | Bergen | 9–14°C | 14.1 mm | 96% | Rimstigen + car return + Buyu flies out | ✓ |
+| **Sat 19** | Bergen | 9–14°C | 14.1 mm | 96% | Rimstigen + car return 17:00 + **Buyu flies 20:00** | ✓ |
 | Sun 20 | Bergen | 9–11°C | 16.8 mm | 97% | Bergen city day | ✗ |
 
 **~88 mm across the week, but concentrated rather than constant.**
@@ -253,6 +273,10 @@ All the hops are comfortable (verified via OSRM): **Bergen → Norheimsund 1.4 h
 
 ## Two timing risks
 
-**Saturday 19 is tight.** Rimstigen is a ~4-hour uphill zigzag, then the drive west through Voss, then the car back at the airport by 17:00 — on a day forecast for 14 mm of rain. Wet rock and a slow descent eats the margin. **Agree an abort time before setting off, not on the hill.**
+**Saturday 19 is tight, and now has a fixed deadline.** Rimstigen is a ~4-hour uphill zigzag, then the drive west through Voss, then the car back at the airport by 17:00 — on a day forecast for 14 mm of rain. Wet rock and a slow descent eats the margin.
+
+Buyu's flight is **ticketed for 20:00**, needing to be at Flesland by **~18:30**. Working backwards: **car returned 17:00 → leave Gudvangen by ~15:15** (Gudvangen → BGO is ~2h, plus the return faff). So **Rimstigen has to be finished and everyone moving by 15:00**, on wet rock, in the rain.
+
+**Agree an abort time before setting off, not on the hill** — and make it ~13:00 at the summit, turn around regardless. Missing this flight means a €138 replacement and a 17-hour reroute; there is no other nonstop.
 
 **Kjeåsen's road runs one way per hour.** Up on the hour, down on the half-hour. Arrive off-cycle and it's a 30–60 minute wait.
