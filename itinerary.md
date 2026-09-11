@@ -298,15 +298,23 @@ Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 
 
 *Cash on the same flight had risen to **$163** by booking day, making this **4.15¢ per Avios** — up from 3.47¢ when first priced on Sep 6. **Avios balance is now ~0**, so any further redemption needs a fresh Amex transfer before the **+30% bonus expires Sep 27**.*
 
-#### 🔲 Bergen → Riga — Sat 19 Sep, chosen not booked
+#### ✅ Bergen → Riga — BOOKED (Sep 10 2026)
 
 **Norwegian D8 2023, BGO 20:00 → RIX 22:55, nonstop 1h55.** Slots straight onto the fjord trip: rental car goes back at Flesland 17:00, flight leaves the same terminal at 20:00.
 
-| Fare | Price | Includes |
-|---|---:|---|
-| LowFare | **EUR 46.28** | underseat 30×40×20 only |
-| LowFare + à-la-carte cabin bag (EUR 19) | EUR 65.28 | + overhead 55×40×23, priority boarding |
-| **LowFare+** ⭐ | **EUR 69.80** | + overhead bag **+ 23 kg checked** + seat |
+| | |
+|---|---|
+| Fare | **LowFare EUR 55.96** |
+| Extra | **Overhead cabin bag incl. Priority boarding, EUR 19.00** |
+| Card surcharge | EUR 1.52 (Norwegian charges **1.99%** on non-EU-issued cards) |
+| **Paid** | **EUR 76.48** |
+| Baggage | small underseat **+ overhead 55×40×23**. No checked bag. |
+
+⚠️ **Booked ~21% above the morning price.** The fare was **EUR 46.28 / NOK 499** when first priced on Sep 10 and **EUR 55.96 / NOK 599** by that evening — the same step in every currency, so a **fare-bucket move, not FX**. The 60-day history ran EUR 36–37 for six weeks → 46 → 47 → 56, never falling back. **On a budget one-way inside ~10 days, book at the moment of decision** — Norwegian is the only nonstop here and the next-cheapest option that day was EUR 138, so nothing capped the rise.
+
+**Chose LowFare + à-la-carte bag over LowFare+ (EUR 79.96).** The EUR 19 bag *includes* Priority boarding (sold separately at EUR 10); LowFare+ adds a 23 kg checked bag and a seat but no priority. Saved EUR 5, accepting the 10 kg cabin cap below.
+
+**Cancel free within 24 h** of booking via the Norwegian user profile.
 
 **Cheapest exit from Bergen on any day, to anywhere in Europe.** Verified Sep 10 across both Explore map viewports (~45 destinations): Riga $55 · Oslo $93 · Stockholm $110 · London $115 · Luxembourg $116 · Helsinki $125 · Vilnius $144. Next-cheapest option on the same route is **$212**.
 
@@ -314,7 +322,7 @@ Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 
 
 **Channel sweep, Sep 10** — all bag-free base fares: Booking.com $51 · Flightnetwork $51 · **Norwegian direct $55** · Trip.com $57 · Expedia $61. **Book direct**: the $4 premium buys airline-issued ticketing on a low-cost carrier and lets bags be added in the same booking. Norwegian's own calendar shows Sep 19 and Sep 26 as the month's joint-cheapest at EUR 46.28.
 
-##### ⚠️ Cabin-bag risk — why LowFare+ is the safe pick
+##### ⚠️ Cabin-bag risk — the live constraint on this ticket
 
 Norwegian's limit is **10 kg COMBINED** across the overhead bag *and* the underseat item. The [Osprey Farpoint](../.. "55×35×23") clears the 55×40×23 dimensions, **but a pack loaded for a 6–8 month trip will very likely exceed 10 kg** — weight is the binding constraint, not size.
 
@@ -327,7 +335,9 @@ Enforcement research (Sep 10, two independent sources — Rick Steves travel for
 - **Stricter at major hubs, on full flights, and reportedly on European legs** — BGO is Norwegian's home turf
 - No widespread reports of fees; several travellers boarded slightly oversized without issue
 
-**Conclusion: take LowFare+ at EUR 69.80.** For **EUR 4 more** than buying the cabin bag alone it includes a **23 kg checked bag**, which removes the 10 kg-combined gamble entirely — check the Farpoint, carry the daypack. Gate rates are punitive by comparison: **EUR 30 for a small checked bag at check-in, EUR 45 at the airport.**
+**What was booked: LowFare + the EUR 19 cabin bag — so the 10 kg cap applies.** LowFare+ (which would have added a 23 kg checked bag and removed the gamble) was EUR 79.96, five euro more; the à-la-carte bag was taken instead because it bundles Priority boarding.
+
+**⇒ Action before BGO: weigh the packed Farpoint.** If it is over 10 kg combined with the daypack, buy a checked bag **online in advance** — Norwegian's international first-bag rate runs **EUR 19–45**. Gate and airport rates are punitive: **EUR 30 for a small checked bag at check-in, EUR 45 for a full checked bag at the airport.** Priority boarding at least means boarding before the bins fill.
 
 **How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
 
@@ -413,6 +423,8 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Stavanger→Bergen Sep 6 BOOKED:** FlixBus **09:50–14:30** direct, **€27.48**.
 - [x] **Bergen→Stockholm Sep 8 BOOKED** (Sep 7) — Finnair **AY0806** 10:50→12:10 nonstop, **3,250 Avios + $42.70** via BA Executive Club, 23kg bag included.
 - [x] **Stockholm→Bergen Sep 13 BOOKED** (Sep 10) — Finnair **AY0805** 08:45→10:05 nonstop, **3,250 Avios + $28.10** via BA Executive Club, 23kg bag included. Cash was $163 → **4.15¢/Avios**. Avios balance now ~0.
+- [x] **Bergen→Riga Sep 19 BOOKED** (Sep 10) — Norwegian **D8 2023** 20:00→22:55 nonstop, **EUR 76.48** (LowFare 55.96 + cabin bag 19.00 + 1.99% card surcharge 1.52). ⚠️ Booked ~21% above the morning fare — the bucket stepped up the same day. **No checked bag: weigh the Farpoint against the 10 kg combined cabin cap before BGO.**
+- [ ] **Riga bed Sep 19–29** — live sweep Sep 10 across Booking apartments/hostels/aparthotels + Airbnb: budget line of $72/n is **~2× the real market**. Best full-kitchen pick **Light of Matisa Street, $454/10n ($45/n), Location 9.2, private kitchen + washing machine**; free-cancel rate $496 but only refundable to **Sep 15**. Fallback **VERMA studios $433**, Location 9.7, 0.7 km — kitchenette only. Hostel private rooms cost **the same or more** than whole apartments; **3 Monks' shared kitchen has no stove**. Aparthotel Amella is now **$98/n** — the $62–82 in the guide is stale.
 - [x] **Stockholm bed Sep 8–11 BOOKED** (Sep 7) — **City Hostel**, Fleminggatan 19 Kungsholmen, bed in **10-bed mixed dorm (30 m², single bed)**, 3n, **NOK 679 via Agoda**, non-refundable. Cheapest of seven channels; Agoda beat Booking by 308 NOK on the same room.
 - [x] **Stockholm bed Fri 11 – Sun 13 BOOKED** (Sep 9) — **STF Skeppsholmen**, Flaggmansvägen 8, **Economy Single Room (9 m², private, shared bath)**, 2n, **SEK 1,952 = USD 203.76 via Agoda**, non-refundable. Property 9.0/3,640. The 50 m² single-bed dorm sold out first; remaining STF dorm was 15 m² bunks, so the private single was taken deliberately. ⚠️ **Agoda tip:** the first checkout quoted 2,152.54 — re-selecting from the live room list re-applied a SEK 278 coupon and restored 1,952. **Never reuse an Agoda checkout URL**; its `sai` price is frozen at click time while coupons only re-run on a fresh pick.
 - [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
