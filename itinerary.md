@@ -65,7 +65,7 @@
 | | **Gotland / Visby** | 3 | **0–3** | **#1 swing** — skip, or 2n + Folhammar/Fårö |
 | | **Helsinki** | 2 | **1–3** | Ferry-in; Löyly; +1 if Nuuksio+Porvoo |
 | mid Sep | **Tallinn** | 3 | **2–4** | Walls + Telliskivi + **Lahemaa/Viru** · 2n = city only |
-| | **Riga base** | **6** | **4–10** | **#2 swing** · market + Art Nouveau + Gauja/Ķemeri |
+| | **Riga** | **3** | **3–6** | market + Art Nouveau + **Gauja day trip** · LP allocates 3 days |
 | → | Lithuanian coast | 2 | **1–3** | **Curonian Spit** · Palanga or Klaipėda |
 | → | **Kaunas** | 2 | **0–2** | Old Town + art deco · **on the Klaipėda→Vilnius road** |
 | → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** |
@@ -189,13 +189,13 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 **Nights:** 3 = sweet spot (city + one bog day); 2 = drop Lahemaa; 4 only if stealing carefully from Gotland/Riga. Beds: **Fat Margaret’s** ⭐ private first · Viru ⭐ dorm fallback · *not* Imaginary.
 **Guide:** [food · nature · lodging · transit · money · nights](memory/tallinn-local-food.md).
 
-### Riga — default **6n** · flex **4–10n** *(#2 swing / sponge)*
+### Riga — default **3n** · flex **3–6n**
 **Fly in from Bergen** ✅ (Norwegian, lands 22:55 Sat 19 Sep — Bolt into town at that hour). **Central Market** (not OT squares) · Art Nouveau Quiet Centre · **Sigulda/Gauja** · **Ķemeri bog** · Jūrmala *or* Rundāle. *Park leftover Scandi days here or trim if Italy needs buffer.*
 
 ⚠️ **Lodging is ~half the budgeted $72/n** — live sweep Sep 10 across Booking apartments/hostels/aparthotels **and Airbnb**. Best full-kitchen pick **Light of Matisa Street, $454/10n ($45/n), Location 9.2, private kitchen + washing machine**; central fallback **VERMA studios $433, Location 9.7, 0.7 km** (kitchenette only). **Hostel private rooms cost the same or more** than whole apartments, and **3 Monks' shared kitchen has no stove**. **Amella is now $98/n** — the $62–82 in the guide is stale. Details: [riga-lodging](memory/riga-local-food.md).  
 **Through-walk option:** use two sponge nights for a contiguous **Forest Trail / E11** stage pair around Sigulda–Līgatne–Cēsis; confirm official GPX, beds and return transit first.
 
-⚠️ **Year-base scouting is off** (Sep 12 2026) — no work on this leg, so the cowork/workday/"lease?" rationale that justified 10 nights is gone. **Default cut to 6n.** Lonely Planet allocates Riga **3 days** (Old Town, Art Nouveau, Rundāle excursion, Jūrmala day trip), so ~6 covers the sights at a slow pace with room for one Gauja day.  
+⚠️ **Cut 10n → 3n** (Sep 12 2026). No work on this leg, so the cowork/workday/year-base rationale is gone — and **Lonely Planet allocates Riga 3 days** (Old Town, Art Nouveau, Rundāle excursion, Jūrmala day trip). Gauja/Sigulda is a **day trip by train**, not a reason to add nights. **7 nights freed — spend them south**, where it's ~5°C warmer with an extra hour of daylight, not in a region whose wet-day rate hits 53–63% by mid-October.  
 **Guide:** [food · nature · lodging · transit · money · year-base](memory/riga-local-food.md).
 
 ### Lithuanian coast — **2n** *(new stop)*
@@ -445,7 +445,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Bergen→Stockholm Sep 8 BOOKED** (Sep 7) — Finnair **AY0806** 10:50→12:10 nonstop, **3,250 Avios + $42.70** via BA Executive Club, 23kg bag included.
 - [x] **Stockholm→Bergen Sep 13 BOOKED** (Sep 10) — Finnair **AY0805** 08:45→10:05 nonstop, **3,250 Avios + $28.10** via BA Executive Club, 23kg bag included. Cash was $163 → **4.15¢/Avios**. Avios balance now ~0.
 - [x] **Bergen→Riga Sep 19 BOOKED** (Sep 10) — Norwegian **D8 2023** 20:00→22:55 nonstop, **EUR 76.48** (LowFare 55.96 + cabin bag 19.00 + 1.99% card surcharge 1.52). ⚠️ Booked ~21% above the morning fare — the bucket stepped up the same day. **No checked bag: weigh the Farpoint against the 10 kg combined cabin cap before BGO.**
-- [ ] **Riga bed (~6n from Sep 19)** — ⚠️ **prices rose ~10% in 2 days** (Light of Matisa $454 → $499; VERMA sold out). **Book soon.** Pick: **Light of Matisa Street**, Location 9.2, 9.7/17, private kitchen + washing machine. Budget line of $72/n is **~2× the real market** — whole apartments run **$38–46/n**. Hostel private rooms cost **the same or more**; **3 Monks' shared kitchen has no stove**; Amella is now **$98/n**.
+- [ ] **Riga bed 3n, Sep 19–22** — ⚠️ **prices rose ~10% in 2 days** (Light of Matisa $454 → $499; VERMA sold out). **Book soon.** Pick: **Light of Matisa Street**, Location 9.2, 9.7/17, private kitchen + washing machine. Budget line of $72/n is **~2× the real market** — whole apartments run **$38–46/n**. Hostel private rooms cost **the same or more**; **3 Monks' shared kitchen has no stove**; Amella is now **$98/n**.
 - [ ] **Book the Baltic exit flight from Helsinki** — **HEL→PRG €117 (2h10)** or **HEL→LJU €120 (2h40)**, both Finnair nonstop. Leaving from HEL rather than TLL removes the Tallinn→Riga return leg. ⚠️ **No usable Avios award on any of these** — four routes checked on BA: BGO→HEL and TLL→LJU show *no availability*, HEL→LJU economy unavailable, HEL→PRG prices at **12,000 Avios + $40 = 0.80¢/Avios**, well under the 1.3–1.5¢ bar. **Pay cash and keep MR for the November flight home.**
 - [ ] **Lithuanian coast beds (2n, ~Sep 24–26)** — **Viktoras Apartments, Palanga, $44/n, 9.7 from 339 reviews**, kitchen, 0.7 km. Cheaper: Palanga Camping Hostel $28/n dorm (8.4/150), Irenos Svetaine $35/n (9.6/138). **Book on the weather, not the calendar.**
 - [x] **Stockholm bed Sep 8–11 BOOKED** (Sep 7) — **City Hostel**, Fleminggatan 19 Kungsholmen, bed in **10-bed mixed dorm (30 m², single bed)**, 3n, **NOK 679 via Agoda**, non-refundable. Cheapest of seven channels; Agoda beat Booking by 308 NOK on the same room.
