@@ -5,7 +5,7 @@
 **Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights baseline (~6–7-day buffer** — Italy trimmed for slack; see §2). **Nights are flexible ranges** — move days as energy/weather dictate; keep total **≤90**. Lodging picks are neighborhood-vetted (§7) but **re-bookable** as lengths shift. Winter = fly home; **Balkans deferred**. Spring = provisional (§5).
 **Parallel goal:** identify a **~1-year base** near/in Europe — fall stops are **lifestyle scouts**. Year-1 may be **unpaid sabbatical** (no employer → most DNVs out). See [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md).
 
-**Route in one line (lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → ✈ **Riga (base)** → Lithuanian coast/**Curonian Spit** → **Kaunas** → Vilnius → back to Riga → Tallinn → ⛴ Helsinki → ✈ **Ljubljana** → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
+**Route in one line (lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → ✈ **Riga (base)** → Lithuanian coast/**Curonian Spit** → **Kaunas** → Vilnius → back to Riga → **either** ✈ Prague from Vilnius **or** Tallinn → ⛴ Helsinki → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
 ⚠️ **The Baltic order reversed on Sep 11 2026** — the Bergen→Riga flight replaced the Stockholm→Helsinki→Tallinn ferry entry, so the region now runs **Riga → south → back north → Helsinki exit**. See [🧭 Baltic routing](#-baltic-routing--reversed-decided-sep-11-2026).
 
@@ -96,7 +96,9 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 
 ## 3. Already visited — route around these
 
-2023 sabbatical (blog.buyuchen.org): **Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey**; brief France (Christmas 2023). Route *around* it; the western Balkans/Croatia + Italy are fresh.
+2023 sabbatical (blog.buyuchen.org): **Poland (Kraków, Warsaw), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey**; brief France (Christmas 2023). Route *around* it; the western Balkans/Croatia + Italy are fresh.
+
+✅ **Czechia is NOT visited — corrected Sep 12 2026.** The 2023 trip only **transited Czechia en route to Poland**; **Prague was never seen**. The earlier "Czechia (Prague)" entry was wrong and briefly caused Prague to be ruled out of the Baltic exit planning. **Prague is available and in play.**
 
 ---
 
@@ -177,7 +179,20 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 | Riga → Tallinn | Lux Express | 4.5 h | ~€20–25 |
 | Tallinn → Helsinki | ferry | 2 h | ~€18–23 |
 
-**Exit flight from Helsinki, not Tallinn.** Destination is **Ljubljana** — ⚠️ **Prague is on the §3 avoid-list** (2023 sabbatical), as are Vienna, Budapest and Warsaw, so the Prague-and-rail-south options explored on Sep 11 are all ruled out. On Ljubljana the gap is decisive: **HEL→LJU €120 nonstop 2h40** versus **VNO→LJU €144 and 6–8 h** via Frankfurt or Zurich (no nonstop), and TLL→LJU €130/3h45 routes via Helsinki anyway. Leaving from HEL also deletes the Tallinn→Riga return leg. Fallback if plans change: **RIX→PRG airBaltic nonstop €101, 1h50** (Riga is their hub).
+#### ⚖️ The exit fork — Prague or Ljubljana
+
+**Prague is available** (Czechia was transit-only in 2023, never visited). That leaves two coherent exits, and they imply *different Baltic shapes*:
+
+| | **A — exit Vilnius → Prague** | **B — exit Helsinki → Ljubljana** |
+|---|---|---|
+| Flight | **VNO→PRG €90, 1h45 nonstop** | **HEL→LJU €120, 2h40 nonstop** |
+| Baltic shape | Riga → coast → Kaunas → Vilnius → **fly out** | …→ Vilnius → **✈ Tallinn €20–39** → ⛴ Helsinki → fly out |
+| Includes Tallinn? | **No** — you'd end in Lithuania | **Yes** |
+| Then | Prague, then rail south to Slovenia (~7h30, €18–45) | Straight into Slovenia |
+
+**A is cheaper and adds a major city**; **B keeps Tallinn and Helsinki and goes straight to Slovenia.** ⚠️ *Vienna, Budapest and Warsaw ARE avoid-listed, so a Prague→Vienna rail break is out — go Prague → Ljubljana direct.*
+
+Note **VNO→LJU is not an option**: €144 and 6–8 h via Frankfurt or Zurich, no nonstop. And TLL→LJU (€130/3h45) routes through Helsinki anyway, so if Ljubljana is the target, fly from HEL. Leaving from HEL also deletes the Tallinn→Riga return leg. Fallback if plans change: **RIX→PRG airBaltic nonstop €101, 1h50** (Riga is their hub).
 
 #### ⛈️ Sequence by weather — inland first, coast last
 
