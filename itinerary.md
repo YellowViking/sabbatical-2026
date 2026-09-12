@@ -5,7 +5,7 @@
 **Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights baseline (~6–7-day buffer** — Italy trimmed for slack; see §2). **Nights are flexible ranges** — move days as energy/weather dictate; keep total **≤90**. Lodging picks are neighborhood-vetted (§7) but **re-bookable** as lengths shift. Winter = fly home; **Balkans deferred**. Spring = provisional (§5).
 **Parallel goal:** identify a **~1-year base** near/in Europe — fall stops are **lifestyle scouts**. Year-1 may be **unpaid sabbatical** (no employer → most DNVs out). See [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md).
 
-**Route in one line (lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → ✈ **Riga (base)** → Lithuanian coast/**Curonian Spit** → Vilnius → back to Riga → Tallinn → ⛴ Helsinki → ✈ Ljubljana *or* Prague → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
+**Route in one line (lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → ✈ **Riga (base)** → Lithuanian coast/**Curonian Spit** → **Kaunas** → Vilnius → back to Riga → Tallinn → ⛴ Helsinki → ✈ **Ljubljana** → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
 ⚠️ **The Baltic order reversed on Sep 11 2026** — the Bergen→Riga flight replaced the Stockholm→Helsinki→Tallinn ferry entry, so the region now runs **Riga → south → back north → Helsinki exit**. See [🧭 Baltic routing](#-baltic-routing--reversed-decided-sep-11-2026).
 
@@ -47,7 +47,8 @@
 |---|---|
 | **Order** | Keep the NW→SE spine (Scandi → Baltics → SLO → HR → IT). Don’t reverse Norway. |
 | **Lengths** | Each stop has **default / range**. Steal from the **swing pool** first. |
-| **Swing pool** | ~**6–8n** to reassign: **Gotland 0–3**, **Riga 7–12**, **Bergen/fjords 4–7**, **CPH 3–5**, crumbs from GOT/HEL if skipping. |
+| **Swing pool** | ~**6–8n** to reassign: **Gotland 0–3**, **Riga 4–10**, **Bergen/fjords 4–7**, **CPH 3–5**, crumbs from GOT/HEL if skipping. |
+| ⚠️ **No work** | *Updated Sep 12 2026 — there is no remote work on this leg.* The long "work base" stays are no longer justified by workdays or cowork. **Riga dropped 10 → 6.** Lonely Planet does Riga in **3 days**; the extra nights are for living, not obligation. **Spend freed nights south, not north** — see the temperature and daylight gradient below. |
 | **Booking** | Prefer **free-cancellation** Nordic beds; lock sell-out transport with movable dates when you can. |
 | **On the ground** | +1n if you love it or weather blocks a hike; −1n if done. Re-sum Schengen weekly. |
 
@@ -64,8 +65,10 @@
 | | **Gotland / Visby** | 3 | **0–3** | **#1 swing** — skip, or 2n + Folhammar/Fårö |
 | | **Helsinki** | 2 | **1–3** | Ferry-in; Löyly; +1 if Nuuksio+Porvoo |
 | mid Sep | **Tallinn** | 3 | **2–4** | Walls + Telliskivi + **Lahemaa/Viru** · 2n = city only |
-| | **Riga base** | 10 | **7–12** | **#2 swing** · market + Gauja/Ķemeri · year-base lab |
-| → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · then ✈ LJU |
+| | **Riga base** | **6** | **4–10** | **#2 swing** · market + Art Nouveau + Gauja/Ķemeri |
+| → | Lithuanian coast | 2 | **1–3** | **Curonian Spit** · Palanga or Klaipėda |
+| → | **Kaunas** | 2 | **0–2** | Old Town + art deco · **on the Klaipėda→Vilnius road** |
+| → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** |
 | early Oct | **Slovenia** | 7 | **6–9** | **Split** LJU + Bled/Bohinj · caves/Piran optional |
 | mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice area · Split hub · DBV · skip Krka default |
 | late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
@@ -174,7 +177,7 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 | Riga → Tallinn | Lux Express | 4.5 h | ~€20–25 |
 | Tallinn → Helsinki | ferry | 2 h | ~€18–23 |
 
-**Exit flight from Helsinki, not Tallinn** — HEL has nonstops that TLL doesn't: **HEL→PRG €117 (2h10)**, **HEL→LJU €120 (2h40)**, versus TLL→LJU €130 (3h45) which routes via Helsinki anyway. Leaving from HEL also deletes the Tallinn→Riga return leg. Fallback if plans change: **RIX→PRG airBaltic nonstop €101, 1h50** (Riga is their hub).
+**Exit flight from Helsinki, not Tallinn.** Destination is **Ljubljana** — ⚠️ **Prague is on the §3 avoid-list** (2023 sabbatical), as are Vienna, Budapest and Warsaw, so the Prague-and-rail-south options explored on Sep 11 are all ruled out. On Ljubljana the gap is decisive: **HEL→LJU €120 nonstop 2h40** versus **VNO→LJU €144 and 6–8 h** via Frankfurt or Zurich (no nonstop), and TLL→LJU €130/3h45 routes via Helsinki anyway. Leaving from HEL also deletes the Tallinn→Riga return leg. Fallback if plans change: **RIX→PRG airBaltic nonstop €101, 1h50** (Riga is their hub).
 
 #### ⛈️ Sequence by weather — inland first, coast last
 
@@ -211,13 +214,16 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 ⚠️ **Lodging is ~half the budgeted $72/n** — live sweep Sep 10 across Booking apartments/hostels/aparthotels **and Airbnb**. Best full-kitchen pick **Light of Matisa Street, $454/10n ($45/n), Location 9.2, private kitchen + washing machine**; central fallback **VERMA studios $433, Location 9.7, 0.7 km** (kitchenette only). **Hostel private rooms cost the same or more** than whole apartments, and **3 Monks' shared kitchen has no stove**. **Amella is now $98/n** — the $62–82 in the guide is stale. Details: [riga-lodging](memory/riga-local-food.md).  
 **Through-walk option:** use two sponge nights for a contiguous **Forest Trail / E11** stage pair around Sigulda–Līgatne–Cēsis; confirm official GPX, beds and return transit first.
 
-**Year-base scout:** 3+ workdays + cowork day pass + nature habit + “lease?” notes — **lifestyle only** (not a free year visa).  
+⚠️ **Year-base scouting is off** (Sep 12 2026) — no work on this leg, so the cowork/workday/"lease?" rationale that justified 10 nights is gone. **Default cut to 6n.** Lonely Planet allocates Riga **3 days** (Old Town, Art Nouveau, Rundāle excursion, Jūrmala day trip), so ~6 covers the sights at a slow pace with room for one Gauja day.  
 **Guide:** [food · nature · lodging · transit · money · year-base](memory/riga-local-food.md).
 
 ### Lithuanian coast — **2n** *(new stop)*
 **Klaipėda or Palanga**, reached Riga → Klaipėda (5h10, €11). The draw is the **Curonian Spit** — UNESCO dunes and pine forest, **€1.70 return foot ferry, bicycles free**, cycle path 50 km south to Nida. **Palanga is the cheaper, better-rated base**: Viktoras Apartments **$44/n, 9.7 from 339 reviews**, kitchen, 0.7 km from centre; Palanga Camping Hostel $28/n dorm. Klaipėda apartments run $40–60/n for weaker scores; **Nida is $50–81/n** — day-trip it instead of sleeping there.
 
 **2 nights, not 3** — Palanga town is a half-day (pier, beach, **free Botanical Park** + Amber Museum as the rain fallback); the Spit is the one full day and it needs weather. **Go on the clear days, not to a schedule.**
+
+### Kaunas — default **2n** · flex **0–2n** *(new, added Sep 12 2026)*
+**Sits directly on the Klaipėda → Vilnius road**, so it costs no detour. Lonely Planet gives it 2 days: medieval castle, handsome Old Town square, and a New Town with **superb museums and art deco architecture**. Its named detour — the **Hill of Crosses at Šiauliai**, *"a pilgrimage site and symbol of national identity"* — is likewise on the Riga→Klaipėda corridor. Both are pure-gain additions on roads already being travelled.
 
 ### Vilnius — default **3n** · flex **2–4n**
 **Arrive from Klaipėda** (3–3.5 h), **leave north to Riga** by LTG Link train (4h06, €11–26) — no longer the exit point. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; optional Pavilniai if 4n. Beds: **Domus Maria / Mikalo private** first · Downtown Forest dorm fallback.
