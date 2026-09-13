@@ -1,0 +1,100 @@
+{
+  "copenhagen": {
+    "src": "images/copenhagen.jpg",
+    "file": "The_Nyhavn_Canal_3.jpg",
+    "title": "Nyhavn",
+    "artist": "European Commission",
+    "license": "CC BY 4.0"
+  },
+  "gothenburg": {
+    "src": "images/gothenburg.jpg",
+    "file": "Göteborg_2503_stitch_(28573994096).jpg",
+    "title": "Gothenburg",
+    "artist": "Bengt Nyman from Vaxholm, Sweden",
+    "license": "CC BY 2.0"
+  },
+  "oslo": {
+    "src": "images/oslo.jpg",
+    "file": "Oslo_Opera_House_-_2025.jpg",
+    "title": "Oslo Opera House",
+    "artist": "Pierre Blaché",
+    "license": "CC0"
+  },
+  "bergen": {
+    "src": "images/bergen.jpg",
+    "file": "Naerøyfjorden.jpg",
+    "title": "Nærøyfjord",
+    "artist": "Karamell",
+    "license": "CC BY-SA 3.0"
+  },
+  "stockholm": {
+    "src": "images/stockholm.jpg",
+    "file": "Gamla_stan_September_2014_01.jpg",
+    "title": "Gamla stan",
+    "artist": "Arild Vågen",
+    "license": "CC BY-SA 4.0"
+  },
+  "gotland": {
+    "src": "images/gotland.jpg",
+    "file": "0522Visby_domkyrka.jpg",
+    "title": "Visby",
+    "artist": "L.G.foto",
+    "license": "CC BY-SA 4.0"
+  },
+  "helsinki": {
+    "src": "images/helsinki.jpg",
+    "file": "Suomenlinna_aerial.JPG",
+    "title": "Suomenlinna",
+    "artist": "Migro",
+    "license": "Public domain"
+  },
+  "tallinn": {
+    "src": "images/tallinn.jpg",
+    "file": "Raekoja_plats_at_night.jpg",
+    "title": "Tallinn",
+    "artist": "Jorge Franganillo",
+    "license": "CC BY 2.0"
+  },
+  "riga": {
+    "src": "images/riga.jpg",
+    "file": "Riga_(33844464828).jpg",
+    "title": "Riga",
+    "artist": "Jorge Franganillo from Barcelona, Spain",
+    "license": "CC BY 2.0"
+  },
+  "vilnius": {
+    "src": "images/vilnius.jpg",
+    "file": "The_White_Bridge_and_Šnipiškės_district_in_Vilnius_in_2023_by_Augustas_Didžgalvis.jpg",
+    "title": "Vilnius",
+    "artist": "",
+    "license": ""
+  },
+  "slovenia": {
+    "src": "images/slovenia.jpg",
+    "file": "Lake_Bled_from_the_Mountain.jpg",
+    "title": "Lake Bled",
+    "artist": "Canadianhockey91",
+    "license": "CC BY-SA 3.0"
+  },
+  "croatia": {
+    "src": "images/croatia.jpg",
+    "file": "The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+    "title": "Dubrovnik",
+    "artist": "Zysko serhii",
+    "license": "CC BY-SA 4.0"
+  },
+  "italy": {
+    "src": "images/italy.jpg",
+    "file": "Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg",
+    "title": "Amalfi Coast",
+    "artist": "Bruno Rijsman",
+    "license": "CC BY-SA 2.0"
+  },
+  "stavanger": {
+    "src": "images/stavanger.jpg",
+    "file": "Lyse_Fjord_et_Preikestolen.jpg",
+    "title": "Preikestolen",
+    "artist": "Clementp.fr",
+    "license": "CC BY-SA 4.0"
+  }
+}
