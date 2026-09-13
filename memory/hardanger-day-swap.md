@@ -1,6 +1,6 @@
 # ⚡ Swap Monday and Tuesday — one dry day left
 
-*Written Sun 13 Sep 2026, from Øystese. Forecast pulled the same evening. **Decision needed tonight.***
+*Written Sun 13 Sep 2026, from Øystese. Forecast pulled the same evening. **Nothing is booked yet — this is a free choice.***
 
 ---
 
@@ -42,17 +42,17 @@ As planned, **the glacier lake hike falls on Tuesday at Odda — in 23 mm of rai
 | StarApartment Trolltunga 2BR | 8.5 (55) | $180 |
 | Trolltunga byFjord | 7.1 (198) | $106 |
 
-⚠️ **Trolltunga Lodge has nothing for Monday** — this is a new booking, not a date change.
+⚠️ **Trolltunga Lodge has nothing for Monday** — so Odda means one of the above, not the property in the original sketch.
 
 **Tue 15 · Eidfjord** *(1 night, 2 adults)*
 
 | | Score | Price |
 |---|---|---|
-| **Eidfjord Gjestgiveri** ✅ *our booking* | 8.2 (877) | **$77** |
+| **Eidfjord Gjestgiveri** ⭐ | 8.2 (877) | **$77** |
 | Eidfjord Hytter | 7.7 (480) | $45 |
 | Kvammen (2.9 km) | 9.3 (118) | $176 |
 
-**Eidfjord Gjestgiveri has Tuesday open at $77** — near-identical to the $80 planned. That half is a clean date-move.
+**Eidfjord Gjestgiveri has Tuesday open at $77** — near-identical to the $80 in the original sketch.
 
 ---
 
@@ -60,7 +60,7 @@ As planned, **the glacier lake hike falls on Tuesday at Odda — in 23 mm of rai
 
 | | |
 |---|---|
-| As planned | $80 + ~$157 = **$237** |
+| Original sketch (Eidfjord Mon, Odda Tue) | $80 + ~$157 = **$237** |
 | Swapped, Odda City Apartments | $165 + $77 = **$242** |
 | Swapped, Blue House dorm | $117 + $77 = **$194** |
 
@@ -68,24 +68,31 @@ As planned, **the glacier lake hike falls on Tuesday at Odda — in 23 mm of rai
 
 ---
 
-## ⚠️ Action needed tonight
+## ✅ Nothing is booked — so just pick the better order
 
-**Nothing in either search showed free cancellation.** Before booking anything new:
+**No beds are reserved for Mon or Tue.** There is nothing to cancel and no penalty to avoid. **Book Odda for Monday and Eidfjord for Tuesday** and the problem is solved.
 
-1. **Call Trolltunga Lodge** — can the Tuesday booking be cancelled or moved?
-2. **Call Eidfjord Gjestgiveri** — can Monday move to Tuesday?
-
-If both say yes, swap. **If either is locked, don't book over it.**
+Availability above is live as of tonight; prices are per room for 2 adults.
 
 ---
 
-## Plan B — if the beds can't move
+## Monday, the dry day — hike
 
-Keep the order, but **use Monday for the walking anyway**. Make the Eidfjord day the outdoor day and save the rain-proof things for Tuesday:
+**[Lower Buarbreen](https://www.alltrails.com/trail/norway/vestland/nedre-buarbreen)** · 5.5 km out-and-back · **challenging** · **4.8 (878)** · season May–Oct · **~15 min from Odda**. Steep trail to the snout of a Folgefonna offshoot.
 
-- **Steinsdalsfossen** — free, beside the road leaving Norheimsund, walk behind the falls
-- **Kjeåsen Farm** — 600 m above the fjord. ⚠️ **One-way road: up on the hour, down on the half-hour.** Off-cycle means a 30–60 min wait. *(Dry weather also puts the 4 km Simadal hike with its rope ladder back on the table.)*
-- **Vøringfossen** and the Måbødalen switchbacks on the Rv7
-- **Viking mounds** — 350 of them, 90 min, free. **Save for Tuesday; this one works in rain.**
+**[Bondhus Valley / Sunndal–Bondhusvatnet](https://www.alltrails.com/trail/norway/vestland/bondhusdalen)** · 11.1 km (or 6.1 km from Sunndal) · **554 m gain** · 4–4.5 hr · **4.7 (703–816)**. This is LP's *"blue-green glacier lake… beautiful views with less effort."*
 
-**Daylight Monday: 07:00–19:59**, about 13 hours. No time pressure.
+⚠️ **They're on opposite sides of the icefield.** Bondhus is at **Sunndal near Rosendal, west of Folgefonna**; Buarbreen is the one close to Odda. **Agree which before setting off.**
+
+**Daylight Monday 06:59–19:58** — ~13 hours, no time pressure.
+
+---
+
+## Tuesday, the wet day — Eidfjord
+
+All of these work in rain:
+
+- **Vøringfossen** — LP's canyon walk from Storegjel, 4 km, two hours. *"The roar can be deafening the closer you get."* **Heavy rain makes this better, not worse.**
+- **Kjeåsen Farm** — 600 m above the fjord. ⚠️ **One-way road: up on the hour, down on the half-hour.** Off-cycle means a 30–60 min wait. *(Skip the 4 km Simadal hike — it involves a rope ladder.)*
+- **Viking mounds** — 350 of them, 90 min, free, tourist-office map.
+- **Steinsdalsfossen** — free, beside the road, you walk behind it. Catch it leaving Norheimsund.
