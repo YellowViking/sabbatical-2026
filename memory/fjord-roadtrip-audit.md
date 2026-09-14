@@ -167,13 +167,15 @@ Prices are the **total for 2 adults** for that stay; `pp/n` is per person per ni
 |---|---|---|---:|---:|---:|:--:|
 | Sat 12 | Haukeland | campsite (as planned) | — | ~$28–42 | ~$14–21 | ✗ |
 | **Sun 13** | **Norheimsund** | **Kvamseter Lodge** — studio apt | 8.0 | $151 | **$76** | ✓ |
-| **Mon 14** | **Eidfjord** | **Eidfjord Gjestgiveri** — basic cabin | 8.2 | $80 | **$40** | ✓ |
-| **Tue 15** | **Odda** | **Trolltunga Lodge** — double | 8.2 | ~$157 | **~$78** | ✓ |
+| **Mon 14** ⇄ | **Odda** ✅ *stayed* | **Trolltunga Apartmentel** | — | — | — | ✓ |
+| **Tue 15** ⇄ | **Eidfjord** | *(bed not yet booked)* | — | — | — | ✓ |
 | **Wed 16–Fri 18** | **Aurland** | **Winjum Cabin Stegastein** — private chalet | 7.2 | $341 | **$57** | ✓ |
 | Sat 19 | Bergen | *(Buyu flies out 20:00)* | — | — | — | ✗ |
 | Sun 20 | Bergen | Bergen Hostel Montana — triple, private bath | 8.6 | $145 | $73 | ✗ |
 
 **Buyu's 6 nights (Sun 13 → Sat 19): $729 for two = ≈$61 pp/night.**
+
+⇄ **Mon/Tue were swapped on the day** (see [`hardanger-day-swap.md`](hardanger-day-swap.md)). Monday was the region's only dry day, so **Odda + Buarbreen moved to Monday** and Eidfjord took Tuesday's rain. Vindicated: Odda's Tuesday came in at **15.1 mm** — the hike would have been a washout.
 
 The two Bergen nights at the end are Mazen's only — Buyu's flight leaves **Saturday at 20:00**, the same day the car goes back at 17:00.
 

@@ -1,6 +1,12 @@
 # ⚡ Swap Monday and Tuesday — one dry day left
 
-*Written Sun 13 Sep 2026, from Øystese. Forecast pulled the same evening. **Nothing is booked yet — this is a free choice.***
+*Written Sun 13 Sep 2026 from Øystese. **Updated Mon 14 Sep — the swap was taken.***
+
+## ✅ Outcome
+
+**Swapped, and it was the right call.** Monday was spent in **Odda**, staying at **Trolltunga Apartmentel**, and we hiked **[Lower Buarbreen](https://www.alltrails.com/trail/norway/vestland/nedre-buarbreen)** — so the glacier hike landed on the dry day and the Buarbreen-vs-Bondhus question below resolved to **Buarbreen**.
+
+**Odda's Tuesday came in at 15.1 mm.** On the original order that hike would have been a washout.
 
 ---
 
@@ -90,9 +96,44 @@ Availability above is live as of tonight; prices are per room for 2 adults.
 
 ## Tuesday, the wet day — Eidfjord
 
+**Refreshed Mon 14 Sep from [MET Norway](https://api.met.no) (yr.no's own model) — now 1 day out, so this is reliable where the 9-day number was not.**
+
+**19.8 mm over the day, rain in every hour from 07:00 to 20:00.** Open-Meteo's blended forecast says 9.0 mm, but MET Norway, ECMWF and ICON all cluster at **19.8–22.9 mm** — so the blend is the outlier. Trust MET Norway in Norway.
+
+| Window | Intensity | Use it for |
+|---|---|---|
+| 07:00–08:00 | 0.7 mm/h | early start |
+| **08:00–10:00** | **1.9–2.8 mm/h** *heavy* | ❌ worst of the morning |
+| **11:00–13:00** | **0.4–0.8 mm/h** ⭐ | **the best window — go to Vøringfossen here** |
+| **14:00–17:00** | **1.3–3.2 mm/h** *heavy* | ❌ peak of the day |
+| 18:00–21:00 | 0.0–0.4 mm/h | clears out; 21:00 partly cloudy |
+
+⚠️ **Cloud is 100% all day, so Kjeåsen at 600 m will be inside the cloud — the view is the whole point, so it's likely wasted.** Vøringfossen and the Viking mounds don't depend on a view.
+
 All of these work in rain:
 
 - **Vøringfossen** — LP's canyon walk from Storegjel, 4 km, two hours. *"The roar can be deafening the closer you get."* **Heavy rain makes this better, not worse.**
 - **Kjeåsen Farm** — 600 m above the fjord. ⚠️ **One-way road: up on the hour, down on the half-hour.** Off-cycle means a 30–60 min wait. *(Skip the 4 km Simadal hike — it involves a rope ladder.)*
 - **Viking mounds** — 350 of them, 90 min, free, tourist-office map.
 - **Steinsdalsfossen** — free, beside the road, you walk behind it. Catch it leaving Norheimsund.
+
+⚠️ **Kjeåsen's one-way rule** (up on the hour, down on the half-hour) is **Lonely Planet's, not confirmed on an official page** — `eidfjord.no` lists the attraction as open in autumn but doesn't publish the hours. **Check with the Eidfjord tourist office** (`turistinfo@visiteidfjord.no`, +47 53 67 34 00) before driving up.
+
+---
+
+## 🛏 Tuesday night bed — NOT booked
+
+Checked Mon 14 Sep on Google Hotels for **Tue 15 → Wed 16, 2 adults**. Availability is fine and it's the cheapest stop on the route:
+
+| | Score | Night |
+|---|---|---|
+| **Eidfjord Gjestgiveri** | 4.0 (63) | **NOK 295 ≈ $30** |
+| Sæbø Camping | 4.0 (1.1K) | NOK 300 ≈ $30 |
+| Eidfjord Hytter | 4.1 (251) | NOK 527 ≈ $53 |
+| Vik Pensjonat | 4.4 (395) | NOK 950 ≈ $95 |
+| Vøringfoss Hotel | 4.3 (1.1K) | NOK 2,118 |
+| Eidfjord Hotel | 4.4 (197) | NOK 2,220 |
+
+These are Google's "from" rates — confirm the real total in the booking flow.
+
+⚠️ **Wed 16 is worse than Tuesday**: Eidfjord **22.0 mm**, Aurland **20.1 mm**. **Thu 17 is the clear day** (Aurland 0.7 mm, 38%) — worth pushing the Sognefjord viewpoints and Stegastein to Thursday.
