@@ -4,7 +4,7 @@
 
 ## ✅ Outcome
 
-**Swapped, and it was the right call.** Monday was spent in **Odda**, staying at **Trolltunga Apartmentel**, and we hiked **[Lower Buarbreen](https://www.alltrails.com/trail/norway/vestland/nedre-buarbreen)** — so the glacier hike landed on the dry day and the Buarbreen-vs-Bondhus question below resolved to **Buarbreen**.
+**Swapped, and it was the right call.** Monday was spent in **Odda**, staying at **Trolltunga Aparthotel**, and we hiked **[Lower Buarbreen](https://www.alltrails.com/trail/norway/vestland/nedre-buarbreen)** — so the glacier hike landed on the dry day and the Buarbreen-vs-Bondhus question below resolved to **Buarbreen**.
 
 **Odda's Tuesday came in at 15.1 mm.** On the original order that hike would have been a washout.
 

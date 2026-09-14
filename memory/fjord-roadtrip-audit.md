@@ -167,7 +167,7 @@ Prices are the **total for 2 adults** for that stay; `pp/n` is per person per ni
 |---|---|---|---:|---:|---:|:--:|
 | Sat 12 | Haukeland | campsite (as planned) | — | ~$28–42 | ~$14–21 | ✗ |
 | **Sun 13** | **Norheimsund** | **Kvamseter Lodge** — studio apt | 8.0 | $151 | **$76** | ✓ |
-| **Mon 14** ⇄ | **Odda** ✅ *stayed* | **Trolltunga Apartmentel** | — | — | — | ✓ |
+| **Mon 14** ⇄ | **Odda** ✅ *stayed* | **Trolltunga Aparthotel** | — | — | — | ✓ |
 | **Tue 15** ⇄ | **Eidfjord** | *(bed not yet booked)* | — | — | — | ✓ |
 | **Wed 16–Fri 18** | **Aurland** | **Winjum Cabin Stegastein** — private chalet | 7.2 | $341 | **$57** | ✓ |
 | Sat 19 | Bergen | *(Buyu flies out 20:00)* | — | — | — | ✗ |
