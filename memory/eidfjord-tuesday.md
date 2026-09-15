@@ -88,7 +88,23 @@ Both at Øvre Eidfjord, ~200 m from the Natursenter. Tue 15 → Wed 16, 2 adults
 - **Hæreid burial mounds** (4.6 · 452) — was pencilled for 18:00 on 0.2 mm/h; it's now **2.9 mm/h**, dry only after sunset (19:53).
 - **Trolltrain** — **3.3 (21)**. Just bad.
 - **Skytjefossen / Kinsarvik church** — no review evidence either way, and Kinsarvik costs 30–45 min of the dry window.
-- **Driving on to Aurland tonight** — reversed. Planned against 1.3 mm/h; it's now 3.2 leaving, 5.1 at 17:00, and **Aurland is still raining at 20:00**. Two hours of mountain driving into dusk to gain a wet Wednesday. Not worth it.
+- **Driving on to Aurland tonight** — dropped, because **Wednesday morning is dry** (below). Not because tonight is merely bad.
+
+---
+
+## 🚙 Wednesday — leave early, the morning is dry
+
+**The 22.1 mm Wednesday figure is back-loaded into the afternoon. The morning is nearly clear.**
+
+| 08:00–14:00 | Tonight 18–21 | **Wed morning** |
+|---|---|---|
+| Eidfjord | 4.5 mm | **2.9 mm** (0.1–0.6 mm/h) |
+| **Voss** *(midpoint)* | 1.7 mm | **0.3 mm — 0.0 from 10:00** |
+| Aurland | **5.8 mm** (2.8 at 19:00) | **1.2 mm** (0.1–0.3 mm/h) |
+
+**Leave Eidfjord ~08:30, arrive Aurland ~11:00 — dry the whole way**, and with a genuinely dry window at Voss for **Tvindefossen** or a coffee-and-charge stop.
+
+*This is why the Tuesday-evening transfer was dropped: it would have put the car on the road through the two wettest hours and arrived in the dark, to buy a morning that's dry anyway. The app's original Wednesday transfer was right.*
 
 ---
 
