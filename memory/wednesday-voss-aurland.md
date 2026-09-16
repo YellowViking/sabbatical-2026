@@ -1,71 +1,82 @@
-# 🚙 Wednesday 16 Sep — Voss → Aurland
+# 🚙 Wednesday 16 Sep — Voss → Lærdalsøyri
 
-*Pulled live Tue 22:45 from **MET Norway**. You're in Voss, so most of the transfer is already banked.*
+*Live MET Norway pull, 08:22. **Destination changed from Aurland to Lærdalsøyri** — see why at the bottom.*
 
 ---
 
-## ☁️ The governing fact: no views tomorrow
+## ⏱ Today's schedule — 121.8 km · 2h06 driving
 
-| | Rain | **Low cloud** |
+| Time | | Detour |
 |---|---|---|
-| 09:00–14:00 | 0.2–0.4 mm/h drizzle | **99%** |
-| **15:00–19:00** | **0.0 — dry** | **92–97%** |
+| **09:30** | **Leave Voss.** Light rain 0.1–0.3 mm/h, 11°C | |
+| **09:50** | **Tvindefossen** · 4.8 (432) — ~110 m falls **right beside the E16**, car park at the base | **0 min** |
+| **10:45** | **Kjelfossen** · 4.6 (51) — snow-melt cascade above Gudvangen | +4 min |
+| **11:00** | **Gudvangen** — head of **Nærøyfjord** (UNESCO). ⚠️ *patchy fog 52–64% here midday* | **0 min** |
+| **12:00** | **Undredal** — 20 houses, **Norway's smallest stave church** (seats 40), the goat cheese. **Lunch.** | +14 min |
+| **14:00** | Through Aurland, then the **Lærdal Tunnel** — 24.5 km, longest road tunnel in the world, blue-lit caverns every 6 km | |
+| **14:45** | **Lærdalsøyri.** Check in | |
+| **15:30** | **Gamle Lærdalsøyri** on foot — ~160 preserved 18th–19th c. wooden buildings | |
+| **17:00** | **AUGA sauna** · **5.0 (47)** · Grandavegen — opens 17:00 | |
 
-**It goes dry at 15:00 but stays socked in.** So tomorrow is for **waterfalls, villages and water level** — things that don't need a horizon. Save every viewpoint for Thursday morning.
+**Rain stops ~14:00. Temps 10–14°C.**
 
----
+### 🛏 Tonight — not yet booked
 
-## 🗺 The run north — ~110 km
-
-| | | |
+| | Score | |
 |---|---|---|
-| **09:00** | Voss → **Skjervsfossen** | 17 km · 20 min |
-| **10:15** | → **Tvindefossen** (E16, roadside) | 34 km · 36 min |
-| **11:15** | → **Stalheim** hairpins | 23 km · 25 min |
-| **12:00** | → **Gudvangen** / Nærøyfjord | 14 km · 17 min |
-| **13:30** | → **Undredal** | 20 km · 21 min |
-| **15:00** | → **Aurland** — arrive as it dries | 21 km · 22 min |
-| **15:00–19:00** | dry: Flåm–Aurland valley path, Otternes, or sauna | |
+| **Lærdalsøren Motor Guesthouse** | **8.3 (361)** | **NOK 1,041** |
+| **Lærdal Ferie- og Fritidspark** | 7.8 **(2,925)** | **NOK 944** — salmon museum + cafe on site |
+| Lærdal Hotel | 8.1 (1,209) | NOK 1,795 |
 
-### ⭐ Skjervsfossen — the find
-
-**4.8 from 2,265 reviews** · free · open 24 h · *"great facilities to see it safely from the top or the bottom."*
-17 km south of Voss — a **36-minute detour**, and worth it: it's the best-reviewed thing within reach and a waterfall is *better* in drizzle.
-
-### ⚠️ Stalheim is a viewpoint
-
-At 99% low cloud you will see nothing. Drive the hairpins for the road itself, don't budget time for the view.
+Also in town: **Fredag & Fretland Bakeri** · 4.8 (403) · opens 10:00 — for the morning.
 
 ---
 
-## 🚨 Thursday morning is the ONLY clear window left in the trip
+## ❌ Not today
 
-**Aurland, low cloud:**
+- **Aurlandsfjellet / the Snow Road** — at 1,308 m it's **sleet till 10:00, fog 74→100% all day, 0.3–1.5°C**, still 85% fog at 20:00. Tomorrow morning instead.
+- **Stegastein** — 4.7 (8,478) but sits at 650 m in 93–100% low cloud. Tomorrow at ~11:45 on the way down.
+- **Stalheim** — a viewpoint, and there is nothing to view.
+- **FjordSafari** — deferred; it works at water level any day.
+
+---
+
+## ➡️ Thursday 17 — the only clear window of the week
+
+**Low cloud at 1,308 m: 74% at 09:00 → 0% at 11:00 → 73% by 13:00, sleet after.**
 
 | | |
 |---|---|
-| **Thu 09:00** | **7.6%** — high cirrus only |
-| **Thu 11:00** | **0.1%** ⭐ clearest air of the week |
-| Thu 13:00 | 82% — closing |
-| Thu 15:00–19:00 | 92–97% — shut |
-| **Fri 08:00 / 14:00** | **95% / 98%** + 2.3–2.5 mm rain |
-| **Sat 08:00 / 14:00** | **100% / 86%** + 3.5–4.8 mm rain |
+| **09:45** | Leave Lærdalsøyri |
+| **10:00–11:30** | **Aurlandsfjellet north entry → over the summit.** 0% cloud |
+| **11:45** | **Stegastein** on the descent — as the route is designed |
+| **12:00** | Aurland. **48 km / 47 min total** |
+| 13:00+ | Closes in. **Otternes Bygdetun** 4.5 (390), or FjordSafari |
 
-**Friday and Saturday are both wet and blind.** There is no second chance.
-
-### So Thursday must open with the high viewpoints
-
-- **08:30–09:30 Stegastein** — 8 km / 8 min from Aurland, low cloud 7.6%
-- **09:45–12:00 Snow Road / Aurlandsfjellet** toward Lærdal — at 11:00 low cloud is **0.1%**, so the 1,300 m plateau would be at its absolute best
-- After 13:00 it closes in — drop to valley level
-
-⚠️ **Rimstigen doesn't fit.** It's 35 min away plus ~4 hours; starting at 09:30 you'd summit around 13:00 into 82% cloud. Either start it at 07:30 and skip Stegastein, or accept the summit view is gone. Given Stegastein is 8 minutes away and needs 45 minutes, **Stegastein is the better use of a 3-hour window.**
+⚠️ **−1.9 to −0.4 °C across the top.** Check `vegvesen.no` that morning — Dalsnibba closed from snow on 9 Sep and this road is only 200 m lower.
 
 ---
 
-## 📌 Notes
+## ➡️ Friday 18 — drive to Bergen
 
-- **Flåmsbana** — 4.5 **(18,735)**, opens 06:45. Runs up to Myrdal at 867 m, which is *inside* tomorrow's cloud — but Kjosfossen and the valley are below it, and rain suits the waterfall stop. NOK 730 return.
-- **St Olav's Cross — 3.8 (11)** — skip.
-- Nothing is booked in Aurland yet. **Winjum Cabin** 7.2 (1,528) — ⚠️ *not* Winjum **Apartments**, which is **3.6 (154)**.
-- **Svingen Guesthouse 4.9 (65)** — "Book Direct for best price", no OTA rate visible. Worth a call.
+Aurland **95–98% low cloud, 2.3–2.5 mm**. Bergen **1.3 mm/h heavy, 100% cloud**. Nothing outdoors works anywhere.
+
+**→ Aurland → Bergen, 176 km / 3h11.** Then KODE, Bryggens Museum, the aquarium — and LP says **the Bryggen alleys are "worth walking wet."**
+
+## ➡️ Saturday 19 — Bergen on foot
+
+**Car back 17:00, flight 20:00.** Driving already done, so no deadline but the car.
+
+🚫 **Cut Rimstigen.** The app has it Saturday 08:30 (4 hrs) then 185 km — and its own text calls Saturday *"the tightest day of the trip."* Saturday is **86–100% low cloud, 3.5–4.8 mm**: four hours uphill into cloud, on the day of a 20:00 international flight. Moving the drive to Friday removes the trip's biggest schedule risk.
+
+---
+
+## Why Lærdalsøyri tonight, not Aurland
+
+**Thursday becomes one-way.** From Lærdalsøyri: **48 km / 47 min** over the top and down past Stegastein. From Aurland: **81 km / 81 min**, driving the tunnel twice to reach the start.
+
+Costs **+32 km / +31 min today**, returns **−33 km / −34 min tomorrow** — and you drive the Snow Road once, in the direction Statens vegvesen recommends (*"Stegastein is a natural place to stop on your way down from the mountain"*).
+
+It also settles the sauna that's been open since Day 4, and Aurland's headline sight is fogged today regardless.
+
+**Still to book:** tonight (Lærdalsøyri) · Thursday (Aurland) · **Friday (Bergen — a Friday night in a city, the one that could actually bite).**
