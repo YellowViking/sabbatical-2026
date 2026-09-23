@@ -65,18 +65,44 @@
 | ❌ | ~~Gotland / Visby~~ | 3 | **0** | **SKIPPED** — the #1 swing, spent as designed |
 | ✅ | ~~Helsinki~~ | 2 | — | **done** Sep 21–23 |
 | 🔵 **NOW** | **Tallinn** | ~~3~~ **4** | — | **Sep 23–27 booked.** Walls + Telliskivi + **Lahemaa/Viru** bog day |
-| 🚆 | **Tartu** | **0–2** | **0–2** | On the line at 13:05. LP: *"cradle of culture"* · Toomemägi · **Aparaaditehas** |
-| 🚆 | **Gauja** (Sigulda·Cēsis) | **0–2** | **0–2** | LP Main Area · autumn colour · ⚠️ **no budget beds** |
-| 🚆 | **Riga** | **3** | **3–6** | market + Art Nouveau + **Gauja day trip** · LP allocates 3 days · ⚠️ **undecided** |
-| ⚠️ → | Lithuanian coast | 2 | **0–3** | **Curonian Spit** · ⚠️ **west, off the rail spine = backtrack** |
-| 🚆 → | **Šiauliai / Kaunas** | 2 | **0–2** | **Hill of Crosses** + art deco · **both on the line** |
-| 🚆 → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · 🚆 onward to Central Europe **overland, TBD** |
+| 🚆 | **Tartu** | **1** | 1 | LP gives it 1 day. Toomemägi · **Aparaaditehas** · off the 13:05 |
+| 🚆 | **Gauja** (Sigulda) | **0 or 2** | 0–2 | ⏳ **decided by lodging price** — see the fork below |
+| 🚆 | **Riga** | **3** | 3 | ✅ **LP's number.** Market + Art Nouveau + Gauja day trip |
+| ❌ | ~~Lithuanian coast~~ | ~~2~~ **0** | — | **CUT.** Westward out-and-back; no-backtrack wins |
+| 🚆 → | **Šiauliai** | **1** | 0–1 | **Hill of Crosses** · on the line at 18:41 |
+| 🚆 → | **Kaunas** | **2** | 2 | ✅ **LP's number.** Castle, Old Town square, art deco New Town |
+| 🚆 → | **Vilnius** | **2** | **2–4** | LP's number. OT + Užupis + **Trakai** · ⭐ **the designated +1** — driest stop, and where onward travel gets arranged |
 | early Oct | **Slovenia** | 7 | **6–9** | **Split** LJU + Bled/Bohinj · caves/Piran optional |
 | mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice area · Split hub · DBV · skip Krka default |
 | late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
 | **~mid-Nov** | ✈ home NAP/FCO | — | — | one-way SEA |
 
 **Default sum ~83n.** Trading inside ranges → roughly **80–88n**, still under 90.
+
+---
+
+### 🚆 The Baltic ladder — dated *(set Sep 23; LP's conventional allocations)*
+
+Nights follow **Lonely Planet's own day counts**, the coast is cut to preserve the no-backtrack rule, and Gauja is the one open variable.
+
+**Branch A — no Gauja nights (day-trip it from Rīga) · 9n**
+
+| | Move | Stay |
+|---|---|---|
+| **Sun 27 Sep** | Tallinn **10:18** → Tartu **13:05** | **Tartu 1n** |
+| **Mon 28 Sep** | Tartu **13:05** → Rīga **16:55** | **Rīga 3n** *(+ Sigulda day trip)* |
+| **Thu 1 Oct** | Rīga **16:55** → Šiauliai **18:41** | **Šiauliai 1n** |
+| **Fri 2 Oct** | Šiauliai → Kaunas | **Kaunas 2n** |
+| **Sun 4 Oct** | Kaunas → Vilnius | **Vilnius 2n** |
+| **Tue 6 Oct** | → Central Europe, overland | — |
+
+**Branch B — Gauja gets 2 nights · 11n**
+
+Identical, except Mon 28 Sep you get off early at **Sigulda 15:59** for **2n**, then hop Sigulda → Rīga (47 min–1h09, **€2.80**) on **Wed 30 Sep**. Everything downstream shifts +2 days; Vilnius ends **Thu 8 Oct**.
+
+**Schengen:** Branch A leaves the Baltics on **day 44**, Branch B on **day 46**. With SLO 7 + HR 13 + IT ~20 to come, both land home around **Nov 15–17** against a **Nov 21** hard stop. Both fit; A keeps 2 more days of buffer.
+
+⏳ **The Gauja fork is a lodging question, not a routing one.** Rīga↔Sigulda is **€2.80 and under ~70 min**, with LP's only budget beds in Latvia sitting in Rīga. So Branch B has to justify itself on *price and atmosphere*, not access. Decide when the quotes are in.
 
 **Example trades (pick any):** CPH 4 + GOT 0 = same week shape · GOT 3 (Vrångö) from Gotland · Gotland 0 → Riga 12 or Bergen 7 · Bergen 5 city+fjord tight if rushing south.
 
@@ -184,7 +210,7 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 
 🚆 **Onward: keep going by train.** The intent from Vilnius is to reach **Central Europe overland**, not to fly out. Not yet researched — to be worked out on the ground. *(The old air options are parked, not recommended: VNO→LJU has no nonstop at €144/6–8 h, and the RIX→PRG €101/1h50 fallback exists if rail ever fails.)* Two facts for whoever picks this up: **Rail Baltica is unfinished**, so the practical southbound corridor runs **via Poland** — and Poland is on the already-visited list **for stops**; transiting is fine, sleeping there is what to avoid.
 
-**Klaipėda / Curonian Spit** sits **west, off the main line** — a deliberate out-and-back, where **Kaunas and Šiauliai are already on the way**. Weigh it on weather and time, not on principle.
+❌ **Klaipėda / Curonian Spit — CUT (Sep 23).** It's a westward out-and-back off the main line, and **no backtracking is the priority**. Kaunas and Šiauliai are already on the way and cover Lithuania's inland highlights. *(If it ever comes back: the €1.70 return foot ferry with free bikes is still the draw, and it needs clear weather, not a date.)*
 
 ⚠️ **Weather rule — the coast is 3–4× wetter than inland.** Climatology 2019–25: **Sep 20–29 is the driest block of the whole autumn** everywhere; by mid-October the coast rains on **53–63%** of days while Vilnius holds at 41%. **Do the Spit on clear days, not to a schedule**, and leave Vilnius late if dates slip — it's the most weather-robust stop.
 
@@ -209,7 +235,7 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 ⚠️ **Cut 10n → 3n** (Sep 12 2026). No work on this leg, so the cowork/workday/year-base rationale is gone — and **Lonely Planet allocates Riga 3 days** (Old Town, Art Nouveau, Rundāle excursion, Jūrmala day trip). Gauja/Sigulda is a **day trip by train**, not a reason to add nights. **7 nights freed — spend them south**, where it's ~5°C warmer with an extra hour of daylight, not in a region whose wet-day rate hits 53–63% by mid-October.  
 **Guide:** [food · nature · lodging · transit · money · year-base](memory/riga-local-food.md).
 
-### Gauja National Park — **0–2n** *(new, added Sep 23 2026 — the train made it free)*
+### Gauja National Park — **0 or 2n** ⏳ *(decided by lodging price — see the ladder in §1)*
 **Three stations on the line: Valmiera 15:06 · Cēsis 15:30 · Sigulda 15:59.** LP names Gauja one of only **four "Main Areas" in Latvia** — *"Latvia's Switzerland, or so they say"* — and calls the valley *"Latvia's top outdoors destination, with Sigulda serving as its hub,"* best *"in autumn, when the hills are ablaze in yellow and bright red."* That is exactly now.
 
 **Sigulda is the base if you sleep here** — most beds by a distance (~3,700 lodging reviews vs Cēsis ~1,150, Valmiera ~200), plus the tourist office **at the station** (LP's explicit top tip: walking maps), bike rental at Veloriba, bus **3112** to Turaida 8–9×/day. **Cēsis is a 30-min train or €3.40 bus day trip**, so you needn't choose between them.
@@ -221,7 +247,7 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 | **Turaida Castle** (1214, 42 m Donjon Tower) | €8 |
 | **Cēsis Castle** (two castles, candle lantern) | €12 |
 
-⚠️ **No budget beds exist here.** Zero hostels in Sigulda or Cēsis; every LP pick is €€ or €€€ (*Mazais Līvkalns, Hotel Sigulda, Spa Hotel Ezeri; Glūdas Grava, Kārlamūiža, Villa Santa*). The traffic is domestic Latvian spa-and-weekend, not backpacker. **Alternative: 0n here, base Rīga, day-trip Sigulda (56 min).**
+⚠️ **No budget beds exist here.** Zero hostels in Sigulda or Cēsis; every LP pick is €€ or €€€ (*Mazais Līvkalns, Hotel Sigulda, Spa Hotel Ezeri; Glūdas Grava, Kārlamūiža, Villa Santa*). The traffic is domestic Latvian spa-and-weekend, not backpacker. **Alternative: 0n here, base Rīga, day-trip Sigulda** — verified **€2.80**, **47 min–1h09**, several morning departures. At that price the valley has to win on atmosphere, not access.
 
 ### Lithuanian coast — **2n** *(⚠️ now off-spine — see §4 routing)*
 **Klaipėda or Palanga**, reached Riga → Klaipėda (5h10, €11). The draw is the **Curonian Spit** — UNESCO dunes and pine forest, **€1.70 return foot ferry, bicycles free**, cycle path 50 km south to Nida. **Palanga is the cheaper, better-rated base**: Viktoras Apartments **$44/n, 9.7 from 339 reviews**, kitchen, 0.7 km from centre; Palanga Camping Hostel $28/n dorm. Klaipėda apartments run $40–60/n for weaker scores; **Nida is $50–81/n** — day-trip it instead of sleeping there.

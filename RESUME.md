@@ -37,7 +37,7 @@ Burn ~90 Schengen days late-Aug→mid-Nov on a fresh NW→SE arc; exit ~mid-Nov 
 **Done (Aug 24 – Sep 23):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen → Stockholm → *(Bergen again + friend fjord road trip: Hardanger, Aurland/Flåm, Lærdal, Geiranger, Gaularfjellet)* → **drove Oslo → Stockholm** → ⛴ overnight → **Helsinki 2n** → ⛴ **Tallinn**.
 **Gotland: skipped** (the #1 swing, as designed). **Riga-first entry: abandoned.**
 
-**Planned (Sep 27 →):** Tallinn 4n → 🚆 **Baltic rail spine south** — Tartu / **Gauja (Sigulda·Cēsis)** / **Rīga** / Šiauliai·Kaunas / **Vilnius** → Ljubljana 7n → Croatia 13n (Oct) → **Italy ~20n** → ✈ Seattle from Naples/Rome ~mid-Nov. One ~90-day Schengen stint.
+**Planned (Sep 27 →):** Tallinn 4n → 🚆 **Baltic rail ladder south, LP's own day counts** — **Tartu 1n** → *(**Gauja 0 or 2n**, ⏳ pending lodging)* → **Rīga 3n** → **Šiauliai 1n** → **Kaunas 2n** → **Vilnius 2n (+1)** → 🚆 **overland to Central Europe, route TBD** → Ljubljana 7n → Croatia 13n → **Italy ~20n** → ✈ Seattle ~mid-Nov. Baltics leave on Schengen **day 44 (A)** or **46 (B)**; home ~Nov 15–17 vs a Nov 21 cap.
 
 - ⚠️ **The Baltic direction REVERSED.** The old plan flew into Riga, swept south to Vilnius, then flew *back north* to Tallinn to exit via Helsinki. Reality enters at **Tallinn (north)** and runs **south to Vilnius** by train — **nothing is retraced; latitude falls at every stop.** From Vilnius the intent is to **keep going overland into Central Europe** rather than fly out; route not yet worked out.
 - Baltic "base" idea is weakened: no remote work on this leg, and **Lonely Planet allocates Riga 3 days**. Nights are for living, not obligation.
@@ -51,14 +51,14 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 ## Open items *(rewritten Sep 23 — everything above Stockholm is now history)*
 
 ### 🔴 Blocking, this week
-- [ ] **How many nights does Rīga get?** LP says **3**; the repo's old "base" logic said 6–10 but that rationale died with the no-work decision. **Everything downstream waits on this number.**
-- [ ] **Sleep in Gauja, or day-trip it from Rīga?** Sigulda is LP's hub and has the most beds (~3,700 lodging reviews vs Cēsis ~1,150), **but Latvia's entire budget tier is Rīga-only** — Hostelworld lists **11 hostels in 3 cities** nationwide, zero in Sigulda or Cēsis, and every LP Gauja pick is €€/€€€. Rīga base + 56-min day trips is the cheap play; sleeping in the valley buys the autumn light. *Needs a price comparison, not a judgement call.*
+- [x] ✅ **Night counts SET (Sep 23) — Lonely Planet's conventional allocations.** Tartu **1** · Rīga **3** · Šiauliai **1** · Kaunas **2** · Vilnius **2 (+1 available)**. Lithuanian coast **cut** — no backtracking. Dated ladder in `itinerary.md` §1.
+- [ ] ⏳ **THE ONE OPEN VARIABLE: Gauja 0n or 2n — decide on the lodging quotes.** Rīga↔Sigulda is **€2.80, 47 min–1h09**, so access is a non-issue; and **Latvia's entire budget tier is Rīga-only** (Hostelworld: 11 hostels in 3 cities nationwide, zero in Sigulda or Cēsis; every LP Gauja pick is €€/€€€). Branch B must win on price and autumn atmosphere, not convenience. **Branch A = 9n, Branch B = 11n** — see `itinerary.md` §1.
 - [ ] **Book the Sun Sep 27 train.** Presale windows differ: **Elron 14d · Vivi 10d · LTG Link 30d**. 🚨 Only **16 seats** on the Rīga–Vilnius leg are held for Elron through-ticket holders.
 - [ ] **Beds unbooked from Sep 27 onward** — Gauja/Rīga/Vilnius all open.
 
 ### 🟠 Route decisions the reversal created
 - [ ] 🚆 **Vilnius → Central Europe by train — intent set, route TBD.** Keep going overland rather than flying out. Not yet researched; figure it out on the ground. Two things worth knowing when we do: **Rail Baltica is unfinished**, so the practical rail corridor south runs **via Poland**, and Poland is on the already-visited list *for stops* — transiting is fine, sleeping there is the thing to avoid.
-- [ ] **Curonian Spit / Klaipėda (2n) — keep or cut?** Purely a time/weather call now: it's a westward out-and-back off the main line, whereas **Kaunas and Šiauliai are already on it**.
+- [x] ❌ **Curonian Spit / Klaipėda — CUT (Sep 23).** Westward out-and-back; **no backtracking is the priority**. Kaunas and Šiauliai are already on the line and carry Lithuania's inland highlights.
 - [ ] **Pärnu is dropped** — LP gives it 3 days but files it under "the summer capital" (beaches/SUP/windsurfing), and **Elron returns zero trains** Tallinn→Pärnu. Wrong season, wrong transport.
 
 ### 🟢 Running / background
