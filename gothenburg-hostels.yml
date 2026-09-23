@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e3] [cursor=pointer]:
+    - /url: "#basiclayout"
+  - banner [ref=e2127]:
+    - generic [ref=e2128]:
+      - navigation [ref=e2129]:
+        - link "Booking.com" [ref=e2133] [cursor=pointer]:
+          - /url: https://www.booking.com/index.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9nb3RoZW5idXJnLCBzd2VkZW5IM1gEaLQCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALAt4rUBsACAdICJDI1YjQ5ODc3LTUzNDYtNGZmNy1iMWU3LTdjZDUxZjNjNzMzM9gCAeACAQ&sid=7172a4606f4b96d9a2caf3fd9cd85242
+        - generic [ref=e2136]:
+          - button "Prices in U.S. Dollar, USD" [ref=e2138] [cursor=pointer]
+          - 'button "Language: English (US)" [ref=e2141] [cursor=pointer]'
+          - link "Customer support" [ref=e2146] [cursor=pointer]:
+            - /url: https://secure.booking.com/help.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9nb3RoZW5idXJnLCBzd2VkZW5IM1gEaLQCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALAt4rUBsACAdICJDI1YjQ5ODc3LTUzNDYtNGZmNy1iMWU3LTdjZDUxZjNjNzMzM9gCAeACAQ&sid=7172a4606f4b96d9a2caf3fd9cd85242&source=header&src=profile_contact_cs
+          - link "List your property" [ref=e2151] [cursor=pointer]:
+            - /url: https://join.booking.com/?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9nb3RoZW5idXJnLCBzd2VkZW5IM1gEaLQCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALAt4rUBsACAdICJDI1YjQ5ODc3LTUzNDYtNGZmNy1iMWU3LTdjZDUxZjNjNzMzM9gCAeACAQ&lang=en-us&sid=7172a4606f4b96d9a2caf3fd9cd85242&utm_medium=frontend&utm_source=topbar
+          - button "Your account menu Buyu Chen Genius Level 3" [ref=e2155] [cursor=pointer]
+      - navigation "What are you looking for?" [ref=e2166]:
+        - menubar [ref=e2169]:
+          - menuitem "Stays" [ref=e2170] [cursor=pointer]
+          - menuitem "Flights" [ref=e2176] [cursor=pointer]
+          - menuitem "Flight + Hotel" [ref=e2182] [cursor=pointer]
+          - menuitem "Car rental" [ref=e2188] [cursor=pointer]
+          - menuitem "Cruises" [ref=e2194] [cursor=pointer]
+          - menuitem "Attractions" [ref=e2200] [cursor=pointer]
+          - menuitem "Airport taxis" [ref=e2206] [cursor=pointer]
+  - generic [ref=e98]:
+    - region "Search properties" [ref=e2214]:
+      - generic [ref=e2215]:
+        - generic [ref=e2219]:
+          - generic [ref=e2224]
+          - button "Clear" [ref=e2231] [cursor=pointer]
+        - button "Select dates Wed, Aug 26 — Sat, Aug 29" [ref=e2237] [cursor=pointer]:
+          - generic [ref=e2242]
+        - generic [ref=e2250] [cursor=pointer]:
+          - generic [ref=e2251]: Select occupancy
+          - 'button "Number of travelers and rooms. Currently selected: 1 adult · 0 children · 1 room" [ref=e2253]'
+        - button "Search" [ref=e2260] [cursor=pointer]
+    - generic [ref=e2262]:
+      - navigation "Navigation history menu (breadcrumbs)" [ref=e2264]:
+        - list [ref=e2265]:
+          - listitem [ref=e2266]
+          - listitem [ref=e2269]
+          - listitem [ref=e2275]
+          - listitem [ref=e2281]
+          - listitem [ref=e2287]
+      - generic [ref=e2293]:
+        - generic [ref=e2294]:
+          - generic [ref=e2298]
+          - region "Filters" [ref=e2307]
+        - generic [ref=e3279]:
+          - generic [ref=e3280]
+          - generic [ref=e3288]
+  - contentinfo [ref=e1885]:
+    - contentinfo [ref=e4310]:
+      - navigation "Quick Links" [ref=e4313]:
+        - list [ref=e4314]:
+          - listitem [ref=e4315]
+          - listitem [ref=e4319]
+          - listitem [ref=e4323]
+          - listitem [ref=e4327]
+          - listitem [ref=e4331]
+          - listitem [ref=e4335]
+          - listitem [ref=e4339]
+          - listitem [ref=e4343]
+          - listitem [ref=e4347]
+          - listitem [ref=e4351]
+          - listitem [ref=e4355]
+          - listitem [ref=e4359]
+          - listitem [ref=e4363]
+          - listitem [ref=e4367]
+          - listitem [ref=e4371]
+          - listitem [ref=e4375]
+      - generic [ref=e4380]:
+        - generic [ref=e4381]:
+          - heading "Support" [level=3] [ref=e4383]
+          - list [ref=e4384]
+        - generic [ref=e4394]:
+          - heading "Discover" [level=3] [ref=e4396]
+          - list [ref=e4397]
+        - generic [ref=e4428]:
+          - heading "Terms and settings" [level=3] [ref=e4430]
+          - list [ref=e4431]
+        - generic [ref=e4450]:
+          - heading "Partners" [level=3] [ref=e4452]
+          - list [ref=e4453]
+        - generic [ref=e4466]:
+          - heading "About" [level=3] [ref=e4468]
+          - list [ref=e4469]
+      - generic [ref=e4495]:
+        - generic [ref=e4496]:
+          - 'button "Language: English (US)" [ref=e4498] [cursor=pointer]'
+          - button "Prices in U.S. Dollar" [ref=e4503] [cursor=pointer]
+        - separator [ref=e4505]
+        - generic [ref=e4506]:
+          - generic [ref=e4507]: Booking.com is part of Booking Holdings Inc., the world leader in online travel and related services.
+          - generic [ref=e4509]: Copyright © 1996–2026 Booking.com™. All rights reserved.
+        - generic [ref=e4510]:
+          - img "Booking.com" [ref=e4511]
+          - img "Priceline.com" [ref=e4514]
+          - img "Kayak" [ref=e4518]
+          - img "Agoda" [ref=e4533]
+          - img "OpenTable" [ref=e4542]
+  - text: 끖 낝 끲 낝 넌
+  - alert [ref=e2124]

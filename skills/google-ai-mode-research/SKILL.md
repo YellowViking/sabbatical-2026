@@ -14,7 +14,7 @@ description: >
 Playwright MCP (`@playwright/mcp --browser chrome`) already shows:
 
 ```
-Google Account: Buyu Chen (destiny.fox.1990@gmail.com)
+Google Account: <your signed-in account>
 ```
 
 **You do not need to paste passwords into chat.** If Sign in appears:

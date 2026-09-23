@@ -56,19 +56,21 @@
 
 | Phase (≈) | Stop | Default | Flex range | Core idea / if you stretch |
 |---|---|---:|---|---|
-| late Aug | **Copenhagen** | 3 | **3–5** | Jet-lag land; **+1** easy if wiped. Louisiana/Malmö only if ≥4n |
-| → | **Gothenburg** | 2 | **0–3** | Skip OK (long CPH→OSL). **+1** enables full **Vrångö** |
-| → | **Oslo** | 3 | **2–4** | Ekeberg / Hovedøya / Mathallen |
-| → | **Stavanger + Preikestolen** | 3 | **2–4** | Weather buffer; dawn hike. Don’t starve below ~2–3 in storms |
-| → | **Bergen + fjords** | 6 | **4–7** | **Split** city + Aurland/Flåm area; Undredal quieter |
-| early Sep | **Stockholm** | 5 | **4–6** | Tyresta + views; **5n consensus** nature-first · Grinda if 6n |
-| | **Gotland / Visby** | 3 | **0–3** | **#1 swing** — skip, or 2n + Folhammar/Fårö |
-| | **Helsinki** | 2 | **1–3** | Ferry-in; Löyly; +1 if Nuuksio+Porvoo |
-| mid Sep | **Tallinn** | 3 | **2–4** | Walls + Telliskivi + **Lahemaa/Viru** · 2n = city only |
-| | **Riga** | **3** | **3–6** | market + Art Nouveau + **Gauja day trip** · LP allocates 3 days |
-| → | Lithuanian coast | 2 | **1–3** | **Curonian Spit** · Palanga or Klaipėda |
-| → | **Kaunas** | 2 | **0–2** | Old Town + art deco · **on the Klaipėda→Vilnius road** |
-| → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** |
+| ✅ late Aug | ~~Copenhagen~~ | 3 | — | **done** |
+| ✅ → | ~~Gothenburg~~ | 2 | — | **done** |
+| ✅ → | ~~Oslo~~ | 3 | — | **done** |
+| ✅ → | ~~Stavanger + Preikestolen~~ | 3 | — | **done** |
+| ✅ → | ~~Bergen + fjords~~ | 6 | — | **done** — plus the Sep 12–20 friend road trip (Hardanger · Aurland/Flåm · Lærdal · Geiranger · Gaularfjellet) |
+| ✅ early Sep | ~~Stockholm~~ | 5 | — | **done** · returned by road Sep 20–21, then ⛴ overnight |
+| ❌ | ~~Gotland / Visby~~ | 3 | **0** | **SKIPPED** — the #1 swing, spent as designed |
+| ✅ | ~~Helsinki~~ | 2 | — | **done** Sep 21–23 |
+| 🔵 **NOW** | **Tallinn** | ~~3~~ **4** | — | **Sep 23–27 booked.** Walls + Telliskivi + **Lahemaa/Viru** bog day |
+| 🚆 | **Tartu** | **0–2** | **0–2** | On the line at 13:05. LP: *"cradle of culture"* · Toomemägi · **Aparaaditehas** |
+| 🚆 | **Gauja** (Sigulda·Cēsis) | **0–2** | **0–2** | LP Main Area · autumn colour · ⚠️ **no budget beds** |
+| 🚆 | **Riga** | **3** | **3–6** | market + Art Nouveau + **Gauja day trip** · LP allocates 3 days · ⚠️ **undecided** |
+| ⚠️ → | Lithuanian coast | 2 | **0–3** | **Curonian Spit** · ⚠️ **west, off the rail spine = backtrack** |
+| 🚆 → | **Šiauliai / Kaunas** | 2 | **0–2** | **Hill of Crosses** + art deco · **both on the line** |
+| 🚆 → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · ⚠️ **exit unsolved** |
 | early Oct | **Slovenia** | 7 | **6–9** | **Split** LJU + Bled/Bohinj · caves/Piran optional |
 | mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice area · Split hub · DBV · skip Krka default |
 | late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
@@ -162,35 +164,44 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 
 > **Scandi options / off-beat / how to spend extra nights:** [memory/scandinavia-optional-offbeat.md](memory/scandinavia-optional-offbeat.md)
 
-### 🧭 Baltic routing
+### 🧭 Baltic routing — ⚠️ REVERSED Sep 23 2026
 
-> **Riga** *(land ✈ booked)* → **coast + Curonian Spit** → **Kaunas** → **Vilnius** → ✈ **Tallinn** → ⛴ **Helsinki** → ✈ **Prague** → rail to **Ljubljana**
+> ⛴ **Helsinki → Tallinn** *(done)* → 🚆 **Tartu → Valga → Gauja → Rīga → Šiauliai/Kaunas → Vilnius** → ✈ south to Slovenia
 
-**Sweep south, then jump north over Latvia.** The €20–39 Vilnius→Tallinn flight is what makes this work — without it, landing in the middle capital forces an out-and-back. Nothing is retraced and nothing is skipped.
+**The old shape is dead.** It read *Riga (land ✈) → coast → Kaunas → Vilnius → ✈ Tallinn → ⛴ Helsinki → ✈ Prague* — i.e. sweep south, then **jump back north over Latvia** on a €20–39 airBaltic hop. That depended on flying *into* Riga from Bergen. **That flight was not taken** (see §9), the trip came south through Helsinki instead, and the whole Baltic run inverted.
+
+**Now it's one train.** Service **012/112/873**, once daily, one change at Valga — Estonia's Elron (Stadler FLIRT) to Valga, then LTG Link (PESA 730 ML) all the way to Vilnius. Full stop list, fares and booking traps: **[memory/baltic-train-spine.md](memory/baltic-train-spine.md)**.
 
 | Leg | Mode | Time | ~Cost |
 |---|---|---|---|
-| Riga → Palanga / Klaipėda | **Lux Express** (stops at Liepāja, **Palanga Airport**, Palanga, Klaipėda) | 5h10 | **€11** |
-| **Curonian Spit ferry** | foot ferry from Klaipėda Old Port, **bikes free** | 5–15 min | **€1.70 return** |
-| coast → Kaunas → Vilnius | bus/rail | ~4 h | ~€20 |
-| **Vilnius → Tallinn** | airBaltic nonstop | **1h10** | **€20–39** |
-| Tallinn → Helsinki | ferry | 2 h | ~€20 |
-| **Helsinki → Prague** | Finnair nonstop | 2h10 | **€117** |
-| Prague → Ljubljana | rail | ~7h30 | €18–45 |
+| Tallinn 10:18 → **Tartu** 13:05 | Elron | 2h47 | €14.50 seg |
+| → **Valga** 14:28 *(change)* → **Valmiera** 15:06 | Elron / Vivi | — | — |
+| → **Cēsis** 15:30 → **Sigulda** 15:59 | Vivi | — | €22.60 / €24.00 from Tallinn |
+| → **Rīga** 16:55 | Vivi | 6h29 total | **€29.00–30.70** live |
+| → **Šiauliai** 18:41 → **Vilnius** 21:22 | LTG Link | 11 h total | **€39.00** through |
+| Sigulda ⇄ Cēsis *(day trip)* | train 30 min · bus €3.40 | — | — |
+| **Vilnius → Ljubljana** | ⚠️ **no nonstop** | 6–8 h | **€144** |
 
-**Helsinki flies both exits nonstop** — Prague €117/2h10, Ljubljana €120/2h40 — so the exit airport was never a constraint. Vilnius has **no** nonstop to Ljubljana (€144, 6–8 h). Fallback if the shape changes: **RIX→PRG €101/1h50**.
+🚨 **The exit problem moved with the route.** Helsinki was chosen as the old exit *because* it flies nonstop to both Prague (€117/2h10) and Ljubljana (€120/2h40). Helsinki is now spent as the **entry**, and **Vilnius has no nonstop to Ljubljana**. Price VNO/KUN southbound — and **RIX→PRG €101/1h50** as the fallback — *before* committing Vilnius nights.
+
+⚠️ **Klaipėda / Curonian Spit is now a backtrack.** It lies **west, off the rail spine**; the train route was picked precisely because latitude falls at every stop. Kaunas and Šiauliai are *on* the line and cost nothing; the coast costs a westward out-and-back. Decide deliberately.
+
+⚠️ **Weather rule — the coast is 3–4× wetter than inland.** Climatology 2019–25: **Sep 20–29 is the driest block of the whole autumn** everywhere; by mid-October the coast rains on **53–63%** of days while Vilnius holds at 41%. **Do the Spit on clear days, not to a schedule**, and leave Vilnius late if dates slip — it's the most weather-robust stop.
 
 ⚠️ **Weather rule — the coast is 3–4× wetter than inland.** Climatology 2019–25: **Sep 20–29 is the driest block of the whole autumn** everywhere; by mid-October the coast rains on **53–63%** of days while Vilnius holds at 41%. **Do the Spit on clear days, not to a schedule**, and leave Vilnius late if dates slip — it's the most weather-robust stop.
 
 ❌ **Palanga entry rejected.** BGO→PLQ (Norwegian, €56 nonstop) wins on pure routing but departs **15:10**, which kills the last fjord day and Rimstigen. PLQ also has **no southbound routes**, so it can't serve as an exit.
 
-### Tallinn — default **3n** · flex **2–4n**
-**Arrive by Lux Express from Riga; exit by ferry to Helsinki** (~2h) and fly south from there. **Old Town walls** (don’t dine Raekoja plats) · **Telliskivi/Kalamaja** food · **Kadriorg** · **Viru bog/Lahemaa** on the nature day.  
-**Nights:** 3 = sweet spot (city + one bog day); 2 = drop Lahemaa; 4 only if stealing carefully from Gotland/Riga. Beds: **Fat Margaret’s** ⭐ private first · Viru ⭐ dorm fallback · *not* Imaginary.
+### Tallinn — **4n LIVE** *(Sep 23–27)* · was default 3n
+✅ **Arrived by ferry from Helsinki** (Tallink MyStar, D-Terminal); **exits SOUTH by train**, not back to Helsinki. **Old Town walls** (don’t dine Raekoja plats) · **Telliskivi/Kalamaja** food · **Kadriorg** · **Viru bog/Lahemaa** on the nature day.
+✅ **Bed booked:** **Harbour Hub Hostel**, Paadi tn 14a, single private / shared bath, **€85 for 4n**. ⚠️ Check-in **14:00–22:00**, checkout **11:00**. *(The old picks — Fat Margaret’s ⭐ private, Viru ⭐ dorm — were never used.)*
+**Departure:** the **10:18** on Sun Sep 27 from **Balti jaam** — leave the bed ~09:30, before checkout.
 **Guide:** [food · nature · lodging · transit · money · nights](memory/tallinn-local-food.md).
 
-### Riga — default **3n** · flex **3–6n**
-**Fly in from Bergen** ✅ (Norwegian, lands 22:55 Sat 19 Sep — Bolt into town at that hour). **Central Market** (not OT squares) · Art Nouveau Quiet Centre · **Sigulda/Gauja** · **Ķemeri bog** · Jūrmala *or* Rundāle. *Park leftover Scandi days here or trim if Italy needs buffer.*
+### Riga — default **3n** · flex **3–6n** · ⚠️ **night count still undecided**
+❌ ~~Fly in from Bergen (Norwegian, lands 22:55 Sat 19 Sep)~~ — **not flown; the plan changed to drive Oslo→Stockholm.** **Arrive by train from the north, 16:55**, and leave south by the same line. **Central Market** (not OT squares) · Art Nouveau Quiet Centre · **Sigulda/Gauja** · **Ķemeri bog** · Jūrmala *or* Rundāle. *Park leftover Scandi days here or trim if Italy needs buffer.*
+
+🏨 **Rīga holds Latvia's entire budget tier.** Hostelworld lists **11 hostels in 3 cities** countrywide; LP's only **€** picks in Latvia are both here — **Cinnamon Sally** (*"relentless… homey and sociable, by the train station"*) and **Naughty Squirrel** (*"backpacker Old Town star"*). Every Gauja pick is €€/€€€. That's the real argument for basing here and day-tripping out.
 
 ⚠️ **Lodging is ~half the budgeted $72/n** — live sweep Sep 10 across Booking apartments/hostels/aparthotels **and Airbnb**. Best full-kitchen pick **Light of Matisa Street, $454/10n ($45/n), Location 9.2, private kitchen + washing machine**; central fallback **VERMA studios $433, Location 9.7, 0.7 km** (kitchenette only). **Hostel private rooms cost the same or more** than whole apartments, and **3 Monks' shared kitchen has no stove**. **Amella is now $98/n** — the $62–82 in the guide is stale. Details: [riga-lodging](memory/riga-local-food.md).  
 **Through-walk option:** use two sponge nights for a contiguous **Forest Trail / E11** stage pair around Sigulda–Līgatne–Cēsis; confirm official GPX, beds and return transit first.
@@ -198,7 +209,21 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 ⚠️ **Cut 10n → 3n** (Sep 12 2026). No work on this leg, so the cowork/workday/year-base rationale is gone — and **Lonely Planet allocates Riga 3 days** (Old Town, Art Nouveau, Rundāle excursion, Jūrmala day trip). Gauja/Sigulda is a **day trip by train**, not a reason to add nights. **7 nights freed — spend them south**, where it's ~5°C warmer with an extra hour of daylight, not in a region whose wet-day rate hits 53–63% by mid-October.  
 **Guide:** [food · nature · lodging · transit · money · year-base](memory/riga-local-food.md).
 
-### Lithuanian coast — **2n** *(new stop)*
+### Gauja National Park — **0–2n** *(new, added Sep 23 2026 — the train made it free)*
+**Three stations on the line: Valmiera 15:06 · Cēsis 15:30 · Sigulda 15:59.** LP names Gauja one of only **four "Main Areas" in Latvia** — *"Latvia's Switzerland, or so they say"* — and calls the valley *"Latvia's top outdoors destination, with Sigulda serving as its hub,"* best *"in autumn, when the hills are ablaze in yellow and bright red."* That is exactly now.
+
+**Sigulda is the base if you sleep here** — most beds by a distance (~3,700 lodging reviews vs Cēsis ~1,150, Valmiera ~200), plus the tourist office **at the station** (LP's explicit top tip: walking maps), bike rental at Veloriba, bus **3112** to Turaida 8–9×/day. **Cēsis is a 30-min train or €3.40 bus day trip**, so you needn't choose between them.
+
+| | ~Cost |
+|---|---|
+| Gauja valley walks · **Mežtaka (Forest Trail)** | **free** |
+| Sigulda cable car → Krimulda Manor | €19 return |
+| **Turaida Castle** (1214, 42 m Donjon Tower) | €8 |
+| **Cēsis Castle** (two castles, candle lantern) | €12 |
+
+⚠️ **No budget beds exist here.** Zero hostels in Sigulda or Cēsis; every LP pick is €€ or €€€ (*Mazais Līvkalns, Hotel Sigulda, Spa Hotel Ezeri; Glūdas Grava, Kārlamūiža, Villa Santa*). The traffic is domestic Latvian spa-and-weekend, not backpacker. **Alternative: 0n here, base Rīga, day-trip Sigulda (56 min).**
+
+### Lithuanian coast — **2n** *(⚠️ now off-spine — see §4 routing)*
 **Klaipėda or Palanga**, reached Riga → Klaipėda (5h10, €11). The draw is the **Curonian Spit** — UNESCO dunes and pine forest, **€1.70 return foot ferry, bicycles free**, cycle path 50 km south to Nida. **Palanga is the cheaper, better-rated base**: Viktoras Apartments **$44/n, 9.7 from 339 reviews**, kitchen, 0.7 km from centre; Palanga Camping Hostel $28/n dorm. Klaipėda apartments run $40–60/n for weaker scores; **Nida is $50–81/n** — day-trip it instead of sleeping there.
 
 **2 nights, not 3** — Palanga town is a half-day (pier, beach, **free Botanical Park** + Amber Museum as the rain fallback); the Spit is the one full day and it needs weather. **Go on the clear days, not to a schedule.**
@@ -411,7 +436,8 @@ Nordic private-value targets are often **~$85–110** (dorm fallback ~$20–55) 
 
 | Topic | Outcome |
 |---|---|
-| **Live · Sep 3** | Solo · now in **Stavanger** · ✅ **Lysefjordgata 12 booked Sep 2–6, 2,853 NOK** · **skip Haugesund** · ✅ FlixBus **Sep 6 09:50–14:30, €27.48** to BGO · Montana mostly-private pick **2,689 member fixed / 2,988 non-member fixed**; dorm-heavy floor 2,198/2,442 · reserve Hardanger/Sogn + headline Bergen sights for the Sep 12–20 friend trip |
+| **Live · Sep 23** | Solo · **Helsinki → Tallinn today** (Tallink MyStar 10:30, €21.48) · ✅ Harbour Hub Sep 23–27 €85 · **Scandinavia complete**, Gotland skipped · **Baltics reversed to a north→south train run** · Bergen→Riga flight **not flown**, tax claim filed |
+| **Baltic direction** | ⚠️ **REVERSED Sep 23.** Enter Tallinn, run south by rail to Vilnius. Latitude falls at every stop → **zero backtracking**. But the **exit moved to Vilnius, which has no nonstop to Ljubljana** — unsolved |
 | **Schengen** | One continuous ≤90 stint · baseline **~83n** · ~6–7d buffer · no mid-trip “reset” myth |
 | **Winter** | Fly home from Italy · western Balkans **deferred** (non-Schengen, later trip) |
 | **Spring** | Provisional Iberia / S. France / Greece · full fresh 90 needs ~**May** return |
@@ -444,10 +470,13 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Stavanger→Bergen Sep 6 BOOKED:** FlixBus **09:50–14:30** direct, **€27.48**.
 - [x] **Bergen→Stockholm Sep 8 BOOKED** (Sep 7) — Finnair **AY0806** 10:50→12:10 nonstop, **3,250 Avios + $42.70** via BA Executive Club, 23kg bag included.
 - [x] **Stockholm→Bergen Sep 13 BOOKED** (Sep 10) — Finnair **AY0805** 08:45→10:05 nonstop, **3,250 Avios + $28.10** via BA Executive Club, 23kg bag included. Cash was $163 → **4.15¢/Avios**. Avios balance now ~0.
-- [x] **Bergen→Riga Sep 19 BOOKED** (Sep 10) — Norwegian **D8 2023** 20:00→22:55 nonstop, **EUR 76.48** (LowFare 55.96 + cabin bag 19.00 + 1.99% card surcharge 1.52). ⚠️ Booked ~21% above the morning fare — the bucket stepped up the same day. **No checked bag: weigh the Farpoint against the 10 kg combined cabin cap before BGO.**
-- [x] **Riga bed Sep 19–22 BOOKED** (Sep 12) — **3 Monks Hostel**, Old Town, **Triple Semi-Private Sleeping Space**, 3n, **EUR 55.00** (46.44 + 8.56 tax) = **EUR 18.33/n**. Booked **direct on the property's Cloudbeds engine**, ~10% under Booking.com's $71 — reached via **Google Maps → "Visit website"**, which is the only channel that exposed it (a web search for an official site found nothing but OTAs). **Pay Later** deposit, **free cancellation to 24 h before check-in**. Property 9.2/307, **Location 9.8**, Staff 9.7. ⚠️ Shared kitchen has **fridge/freezer/knives but no stove**; no alcohol on premises; quiet hours 22:00–08:00; check-in from 15:00 but **access codes** allow late self-entry (flight lands 22:55). Direct line **+371 24334333**.
+- [x] ~~**Bergen→Riga Sep 19 BOOKED**~~ — Norwegian **D8 2023**, **EUR 76.48**. ❌ **NOT FLOWN.** The plan changed mid-road-trip: drove **Oslo → Stockholm** and ferried to Helsinki instead. The flight **operated early and on time**, so there is no EU261 claim; the LowFare and the €19 cabin-bag fee are **non-refundable**. ✅ **Tax refund claim submitted Sep 23** *(ref in private memory)* — only government taxes and airport charges are recoverable. Lesson kept in [`memory/norwegian-tax-refund-pending`]: the "four days after your last flight" block is on the **lookup** path only — go straight to the claim-form URL without `&preProcessed=true`.
+- [x] ~~**Riga bed Sep 19–22 BOOKED**~~ — ❌ **LAPSED** with the Bergen→Riga flight. Free cancellation, Pay Later deposit, so nothing was lost. **Rīga is unbooked again** and the dates have moved to ~Sep 28+. *(Research below still stands and is still the best channel intel in this repo.)* — **3 Monks Hostel**, Old Town, **Triple Semi-Private Sleeping Space**, 3n, **EUR 55.00** (46.44 + 8.56 tax) = **EUR 18.33/n**. Booked **direct on the property's Cloudbeds engine**, ~10% under Booking.com's $71 — reached via **Google Maps → "Visit website"**, which is the only channel that exposed it (a web search for an official site found nothing but OTAs). **Pay Later** deposit, **free cancellation to 24 h before check-in**. Property 9.2/307, **Location 9.8**, Staff 9.7. ⚠️ Shared kitchen has **fridge/freezer/knives but no stove**; no alcohol on premises; quiet hours 22:00–08:00; check-in from 15:00 but **access codes** allow late self-entry (flight lands 22:55). Direct line **+371 24334333**.
       *Market context: the budget line of $72/n is ~2× reality — whole apartments run $38–46/n. Private alternative was Modern Loft Studio, Location 9.8, real kitchen with hob, ~EUR 146/3n.*
-- [ ] **Book the Baltic exit flight from Helsinki** — **HEL→PRG €117 (2h10)** or **HEL→LJU €120 (2h40)**, both Finnair nonstop. Leaving from HEL rather than TLL removes the Tallinn→Riga return leg. ⚠️ **No usable Avios award on any of these** — four routes checked on BA: BGO→HEL and TLL→LJU show *no availability*, HEL→LJU economy unavailable, HEL→PRG prices at **12,000 Avios + $40 = 0.80¢/Avios**, well under the 1.3–1.5¢ bar. **Pay cash and keep MR for the November flight home.**
+- [x] ~~**Book the Baltic exit flight from Helsinki**~~ — ❌ **MOOT.** Helsinki became the **entry**, not the exit. *(Kept for the award research: BA showed no usable Avios on any Baltic exit — BGO→HEL and TLL→LJU no availability, HEL→LJU economy unavailable, HEL→PRG **12,000 Avios + $40 = 0.80¢/Avios**, well under the 1.3–1.5¢ bar. Cash, and keep MR for November.)*
+- [ ] 🔴 **NEW — solve the southbound exit from Vilnius.** The old plan exited via Helsinki *precisely because* **Vilnius has no nonstop to Ljubljana (€144, 6–8 h)**. Price **VNO→LJU / VNO→PRG / KUN→** plus rail, and re-check **RIX→PRG €101/1h50** as the fallback, **before** committing Vilnius nights. This is the single biggest unresolved consequence of the route reversal.
+- [ ] 🔴 **Book the Sun Sep 27 train** — Tallinn **10:18**, the only daily service reaching Gauja in daylight and continuing to Vilnius. Presale: **Elron 14d · Vivi 10d · LTG Link 30d**; 🚨 only **16 seats** on Rīga–Vilnius are held for Elron through-ticket holders. Live prices **€29.00–30.70** to Rīga, **€39.00** to Vilnius. Deep-link pattern and traps: [`memory/baltic-train-spine.md`](memory/baltic-train-spine.md).
+- [ ] 🔴 **Decide Rīga nights (3 vs 6) and whether Gauja gets its own nights** — everything downstream waits on these two numbers.
 - [ ] **Lithuanian coast beds (2n, ~Sep 24–26)** — **Viktoras Apartments, Palanga, $44/n, 9.7 from 339 reviews**, kitchen, 0.7 km. Cheaper: Palanga Camping Hostel $28/n dorm (8.4/150), Irenos Svetaine $35/n (9.6/138). **Book on the weather, not the calendar.**
 - [x] **Stockholm bed Sep 8–11 BOOKED** (Sep 7) — **City Hostel**, Fleminggatan 19 Kungsholmen, bed in **10-bed mixed dorm (30 m², single bed)**, 3n, **NOK 679 via Agoda**, non-refundable. Cheapest of seven channels; Agoda beat Booking by 308 NOK on the same room.
 - [x] **Stockholm bed Fri 11 – Sun 13 BOOKED** (Sep 9) — **STF Skeppsholmen**, Flaggmansvägen 8, **Economy Single Room (9 m², private, shared bath)**, 2n, **SEK 1,952 = USD 203.76 via Agoda**, non-refundable. Property 9.0/3,640. The 50 m² single-bed dorm sold out first; remaining STF dorm was 15 m² bunks, so the private single was taken deliberately. ⚠️ **Agoda tip:** the first checkout quoted 2,152.54 — re-selecting from the live room list re-applied a SEK 278 coupon and restored 1,952. **Never reuse an Agoda checkout URL**; its `sai` price is frozen at click time while coupons only re-run on a fresh pick.

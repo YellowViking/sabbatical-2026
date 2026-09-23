@@ -10,6 +10,7 @@
 | [Gothenburg](gothenburg-local-food.md#money-savers) | SE city |
 | [Oslo](oslo-local-food.md#money-savers) | NO capital |
 | [Stavanger](stavanger-local-food.md#money-savers) | Preikestolen base |
+| [Haugesund + Karmøy](haugesund-karmoy-local-food.md#food--money) | Live coastal candidate |
 | [Bergen + fjords](bergen-local-food.md#money-savers) | City + Flåm pocket |
 | [Stockholm](stockholm-local-food.md#money-savers) | SE capital |
 | [Gotland / Visby](gotland-local-food.md#money-savers) | **Optional** island · SE rules |
@@ -36,7 +37,7 @@
 | **Tip** | Included; round up small only if exceptional (0–10%) |
 | **eSIM before landing** | Airalo/Nomad/etc. ~$5–15 — skip airport kiosks |
 | **Free nature first** | Parks, beaches, fortress grounds, hikes — core of this trip |
-| **Alcohol is the budget killer** | SE/NO monopolies; bar beer often $8–15 — supermarket (DK) or limit |
+| **Alcohol is the budget killer** | SE/NO monopolies; bar beer often $8–15 — supermarket (DK) or limit. **Live per-city beer prices + brewery-tour verdicts:** [itinerary §6 drinks line](../itinerary.md) |
 
 **US traveler:** VAT refund rarely worth the hassle on small hostel/food spend; don’t plan around it.
 
@@ -62,7 +63,7 @@
 | Tip | Detail |
 |---|---|
 | **Groceries** | **Willys, Lidl** cheapest · **ICA / Coop** ~20% more |
-| **Alcohol** | **Systembolaget** only for >~3.5% ABV · closed evenings/Sundays · plan ahead · bar beer $8–12 |
+| **Alcohol** | **Systembolaget** only for >~3.5% ABV · **closes ~15:00 Sat, shut Sun** — buy Friday · bar pint **72–110 kr ($7.5–11.5)** vs retail **9.90–29 kr ($1.04–3.04)**, live Sep 2026 · [Stockholm beer section](stockholm-local-food.md#beer--breweries-) |
 | **Allemansrätten** | Right of public access — tent **1 night**, far from houses, leave no trace (not a city hostel substitute) |
 | **Trains** | **SJ** advance = large savings |
 | **Lunch** | **Dagens lunch** often $11–14 incl. salad/bread/coffee |
@@ -98,6 +99,7 @@
 | **Trap** | **Raekoja plats** tourist menus |
 | **Transit** | Day ticket if Kadriorg + hops; else singles · **Bolt** late |
 | **Cards** | Near-100% cashless |
+| **Beer** | Taproom €4–7 / Old Town €5–9 / Rimi 0.5L **€1.71** · Põhjala tour €20 · **public drinking banned** · [beer section](tallinn-local-food.md#beer--breweries-) |
 | **City detail** | [tallinn guide § money](tallinn-local-food.md#money-savers) |
 
 ---
@@ -113,6 +115,7 @@
 | **Coaches** | Lux TLL–RIX–VNO beat flights |
 | **Bolt** | Backup, not default |
 | **Cards** | Cashless fine |
+| **Beer** | **Cheapest on the route.** RIX 0.3L €3.50–5.50 · VNO pint €4–7 · market 0.5L €1.80 / €1.61 · brewery-shop cans €1.75–3.50. Skip €38–60 tours; **Valmiermuiža €16–19** is the one worth it. **Public drinking fined in LV** · [RIX beer](riga-local-food.md#beer--breweries-) · [VNO beer](vilnius-local-food.md#beer--breweries-) |
 | **Detail** | [riga money](riga-local-food.md#money-savers) · [vilnius money](vilnius-local-food.md#money-savers) |
 
 ---

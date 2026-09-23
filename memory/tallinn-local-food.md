@@ -1,6 +1,7 @@
 # Tallinn — food, nature, lodging, transit & money
 *Default **3n** · flex **2–4n** · after HEL ferry · before Riga (Lux bus) · nature-first · euro · ~€1 ≈ $1.10–1.15 · AI Mode Pro · Aug 2026*
-*Arrive ferry from HEL · exit bus south → Riga base. Nordic money habits still apply; Estonia is cheaper than FI/SE/NO.*
+*Arrive ferry from HEL · **exit by TRAIN south** (Balti jaam 10:18 → Tartu/Gauja/Rīga/Vilnius). Nordic money habits still apply; Estonia is cheaper than FI/SE/NO.*
+*⚠️ **LIVE Sep 23–27 2026, 4n**, Harbour Hub Hostel, Paadi tn 14a (check-in 14:00–22:00, checkout 11:00).*
 
 **Spine legs:** [scandi-transit.md](scandi-transit.md) (HEL ferry + Baltic hop) · **Money index:** [scandi-money-tips.md](scandi-money-tips.md#tallinn--estonia-ee)
 
@@ -12,7 +13,7 @@
 |---|---|
 | **Trip context** | First Baltic capital · decompress after Nordics prices · gateway to **Riga sponge** |
 | **Nights** | **3 default** ⭐ · **2** = city only (no Lahemaa) · **4** = + bog day slow *or* second museum/island |
-| **Arrive/leave** | **HEL→TLL ferry ~2h** · leave **Lux Express → Riga ~4–4.5h** |
+| **Arrive/leave** | ✅ **HEL→TLL ferry 2h** (Tallink MyStar, D-Terminal) · leave 🚆 **train south from Balti jaam 10:18** |
 | **Pace** | Old Town **walk not dine** · Telliskivi/Kalamaja food · Kadriorg · optional **Viru bog / Lahemaa** |
 
 ### Length → plan
@@ -71,7 +72,8 @@ Crisp ~10–14°C · fewer cruise peaks than July · still fine for boardwalks �
 |---|---|---|---|---|
 | **HEL → TLL** | Ferry | ~2h | ~$30–60 | Multiple/day · midweek cheaper · avoid Fri PM crush if you can |
 | **Port → bed** | Tram/walk/Bolt | 10–25m | few $ | D-terminal area → Old Town / Telliskivi |
-| **TLL → Riga** | **Lux Express** bus | ~4–4.5h | ~$15–30 | **Tallinn Coach Station**, Lastekodu 46 — not Balti Jaam; book seat |
+| **TLL → Riga** ⭐ | 🚆 **Train 012/112/873** | **6h29** | **€29–30.70** | ⚠️ **Supersedes the bus.** Departs **Balti jaam 10:18** (NOT the coach station), one change at Valga, arrives Rīga **16:55** — and stops at **Tartu, Valmiera, Cēsis, Sigulda** on the way. Continues to **Vilnius 21:22 (€39)**. Full spine: [baltic-train-spine.md](baltic-train-spine.md) |
+| *(old)* TLL → Riga | Lux Express bus | ~4–4.5h | ~$15–30 | Faster and cheaper, but **Tallinn Coach Station, Lastekodu 46** — and it skips every Gauja stop. Fallback only. |
 | Skip HEL | Rare STO→TLL ferry exists — out of default spine |
 
 ### Bed → sights
@@ -166,6 +168,47 @@ Crisp ~10–14°C · fewer cruise peaks than July · still fine for boardwalks �
 
 ---
 
+## Beer & breweries 🍺
+
+*Live prices pulled **Sep 4 2026** · €1 = $1.16. Tallinn draft runs **~20% dearer than Riga** (Numbeo restaurant draft 0.5L **€6.00** vs €5.00) — the one Baltic stop where the drinks line actually strains.*
+
+### Põhjala Tap Room ⭐ — the anchor
+Peetri 5, **Noblessner** (converted submarine factory) · **Tue–Thu 12–24 · Fri–Sat 12–01 · Sun 10–17** · 24 rotating taps + Texas BBQ kitchen.
+
+| Item | ~EUR | ~USD |
+|---|---|---|
+| Põhjala **Gimme Danger** 10.5% GF imperial stout (btl) | €5 | ~$5.80 |
+| Pühaste Dekadents 11.2% · BrewDog Hazy Jane · Weihenstephaner 50cl | €7 | ~$8.13 |
+| Põhjala **Cellar Series** (ask for selection) | €8 | ~$9.30 |
+| Cantillon Gueuze / Oude Kriek Oude Beersel | €16–18 | ~$19–21 |
+| Tori Siidritalu cider 33cl | €6.50 | ~$7.55 |
+| Põhjala beer schnapps / gin, 4cl | €5.50 / €5 | ~$6.4 / $5.8 |
+| **Brewery tour** — 45m, 3–4 tastings, 20 spots | **€20** | ~$23 |
+| Sauna, up to 8 | €80/h then €60/h, 2h min | ~$93 / $70 |
+
+**Tours:** Tue/Thu/Fri **18:00 EN** · Sat–Sun **14:00 EN** · Fri 19:00 EE. **Pre-register ≥24h** (shop@pohjalabeer.com).
+The 24 taps are screen-only — **draft prices are not published anywhere**; budget the €4–7 / 0.5L band.
+**Live menu:** [qr.pohjalabeer.com](https://qr.pohjalabeer.com/index-en.html) — it's their real Google Sheet, so it's always current. BBQ mains €11–29 (the €135 "BBQ Feast" is a group platter).
+
+### Price bands
+
+| Where | 0.5L pour | Note |
+|---|---|---|
+| **Telliskivi / Kalamaja / Noblessner** taprooms | **€4–7** | Põhjala 0.33L ~€4.50 · Humalate Vabariik from €4.20 |
+| Old Town | €5–9 | **Hell Hunt** pint €5.50–6.50 — the sane OT option |
+| **Balti Jaama Turg** cans | €2.50–3.50 | Next to Telliskivi; the budget move |
+| Rimi / Selver, 0.5L domestic | **€1.71** | Numbeo, live |
+
+### Budget check
+[Itinerary §6](../itinerary.md) budgets **$15/day for 3 drinks**. Three taproom pours = **€13.50–19.50 ($16–23)** → runs **~$1–8/day hot**; over 3n that's **+$3–24**, immaterial. But that only holds in Telliskivi/Kalamaja/Noblessner — **three Old Town pints blows the line outright**, which is the same rule the Food section already gives you.
+
+### Free / cheap version
+- **Walking into any taproom is free.** The €20 tour buys 3–4 tastings you'd nearly cover by ordering two bottles — take it for the production floor, not the beer.
+- **Balti Jaama Turg cans €2.50–3.50** are the honest budget play — but **public drinking is banned in Estonia**, so that's an apartment/hostel-kitchen drink, not a park drink.
+- Bonus from their live menu: **Hell Hunt's weekday lunch is €2.90 soup / €3.80 main** in Old Town. That reads low for 2026 — verify on arrival, but if it holds it's the cheapest sit-down food in this guide.
+
+---
+
 ## Lodging (hostels & budget)
 
 *§7 shortlist · central · free cancel while flex · re-check before book. Skip **Imaginary Hostel**.*
@@ -203,7 +246,7 @@ Eye mask for dorms. Kitchen = Rimi win.
 | **Bolt** | Often beats slow multi-transfer late night |
 | **Tallinn Card** | Skip unless museum stack day |
 | **Cashless** | Cards everywhere — small cash optional |
-| **Alcohol** | Cheaper than FI but still a budget leak — supermarket vs bars |
+| **Alcohol** | Taproom €4–7 / Old Town €5–9 / Rimi 0.5L **€1.71** — see [Beer & breweries](#beer--breweries-) |
 | **Day rate** | Inside Baltics blend ~**$90–100**/n hostel-lean (itinerary §6 lumps Baltics ~$92) |
 
 After HEL prices, Tallinn feels like a gift — don’t “catch up” with two fancy dinners every night; save splurge energy for one plate + Riga long stay.

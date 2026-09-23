@@ -47,6 +47,10 @@ memory/scandi-money-tips.md           ← DK/SE/NO rules + city money anchors
 memory/europe-year-base-nomad.md      ← year-base / nomad legal+city shortlist
 memory/restaurant-previews/           ← research dumps (usually untracked)
 skills/                               ← Playwright research how-tos
+├── google-maps-saved-places/         ← bulk-save to Saved lists (createitem batch)
+├── google-maps-labels/               ← "Add a label" on coordinate pins (UI-only; no listing needed)
+├── google-ai-mode-research/          ← udm=50 answer extraction
+└── …
 
 **Year-base rule:** fall city guides may include a short **Year-base scout** section (workday test, cowork, winter honesty). Do not imply Schengen tourist days = a 12-month right to stay. Deep visa comparison lives only in `europe-year-base-nomad.md` + itinerary one-liners.
 ```

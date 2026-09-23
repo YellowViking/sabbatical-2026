@@ -113,6 +113,37 @@ Finland is euro and pricey — same Nordic habits (tap water, cook if kitchen, l
 
 ---
 
+## Beer & breweries 🍺
+
+*Live prices pulled **Sep 4 2026** · €1 = $1.16. **Helsinki is the most expensive drinking city on the fall route** — Numbeo restaurant draft 0.5L **€8.00**, ahead of Stockholm (€7.16) and **60% over Riga**. On a 2-night stop that's a rounding error; treat it as a **one-good-pint city, not a session city**.*
+
+| Where | ~EUR | ~USD |
+|---|---|---|
+| Neighborhood pub pint (Expatistan, Apr 2026) | **€7** | ~$8.13 |
+| Craft bar, 0.33–0.5L | €8–10 | ~$9.3–11.6 |
+| Numbeo restaurant draft 0.5L | €8.00 | ~$9.30 |
+| Numbeo market 0.5L domestic | €3.35 | ~$3.89 |
+| **Alko** — Maku Cashmere NEIPA can (live) | **€3.99** | ~$4.64 |
+| Alko — Mufloni DIPA · BrewDog Punk IPA (live) | €4.29 | ~$4.99 |
+| Alko — Thornbridge Hacksaw · Brew York Juiced IPA (live) | €5.49 | ~$6.38 |
+| Alko — specialty / limited release (live) | €7.63–11.99 | ~$8.9–13.9 |
+| Barley & Bait — Tuesday special | €5 | ~$5.81 |
+
+**Where to actually buy:** since **10 Jun 2024** Finnish grocery stores (S-Market, K-Market, Lidl) sell fermented drinks **up to 8% ABV** — the old 5.5% cap is gone. That covers nearly every IPA and stout, so **you rarely need Alko at all**; Alko is for spirits and >8% beer.
+
+**Brewpubs to check on the ground:** **Bryggeri Helsinki** (central brewhouse/restaurant) and the **Suomenlinna brewery restaurant** by the island ferry pier. Neither publishes a live price list — assume the €8–10 craft band.
+
+### Budget check
+[Itinerary §6](../itinerary.md) folds HEL into the Nordic living line. Three bar pints = **€21–24 ($24–28)/day** — roughly **$9–13/day over** the Baltic $15 pattern and the highest per-drink number anywhere on the route. Over 2n that's only ~$20–26 total, so **don't restructure the stop** — just don't run three bar pints a night.
+
+### Free / cheap version
+- **Grocery cans at €3.35** are less than half the bar price and now reach craft strengths — the single biggest saving available in this city.
+- **Suomenlinna is already on the plan**, and the ferry runs on your HSL ticket — the island walk is free whether or not you stop at the brewery by the pier.
+- **Skip guided beer tours here entirely.** At €8–10 a pour the arithmetic never works.
+- Drink the good pint *in* Helsinki, then reload in **Tallinn** — a 2h ferry away at €4–7, or €1.71 from Rimi. See [Tallinn](tallinn-local-food.md#beer--breweries-).
+
+---
+
 ## Lodging (hostels & budget)
 
 **Area:** **Kamppi / central** for the ferry/core · **Hakaniemi / Kallio** for food/value.
@@ -135,7 +166,7 @@ Finland is euro and pricey — same Nordic habits (tap water, cook if kitchen, l
 | **HSL day vs singles** | Suomenlinna ferry day often loves a **day ticket** — math in app |
 | **Sauna** | Löyly is a splurge with a point — skip a second paid museum if needed |
 | **Groceries** | Lidl / S-market / K-Market for picnic |
-| **Alcohol** | Pricey on-premise; Alko for takeaway if you care |
+| **Alcohol** | Dearest on the route: pub pint **€7**, craft €8–10, grocery 0.5L **€3.35**. Groceries now sell to **8% ABV** (since Jun 2024) so Alko is rarely needed — see [Beer & breweries](#beer--breweries-) |
 | **Tallinn next** | Food gets cheaper after HEL — don’t blow budget on two fancy HEL dinners |
 | **Day rate** | Itinerary ~**$160**/n Citybox-class all-in |
 

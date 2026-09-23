@@ -12,7 +12,7 @@
 |---|---|
 | **Trip context** | Decompress after Nordics $ · absorb swing nights · optional year-base scorecard |
 | **Nights** | **10 default** ⭐ · **7** = trim day trips · **12** = steal from Gotland/HEL/CPH |
-| **Arrive/leave** | **Lux Express TLL→RIX ~4–4.5h** · leave **Lux/Ecolines → Vilnius ~4h** |
+| **Arrive/leave** | 🚆 **Train from Tallinn, arrives 16:55** (via Tartu/Cēsis/Sigulda) · leave 🚆 **same line south → Šiauliai → Vilnius 21:22**. Bus is the fallback, not the default — see [baltic-train-spine.md](baltic-train-spine.md) |
 | **Pace** | Centrs life + Central Market + **2–3 nature days** + **3+ workdays** if scouting |
 
 ### Length → plan
@@ -52,7 +52,8 @@ Cool, good hiking · fewer summer party crowds · shorter days — note daylight
 ### Arrive / leave
 | Leg | Mode | Time | ~USD | Notes |
 |---|---|---|---|---|
-| **TLL → Riga** | Lux Express | ~4–4.5h | ~$15–30 | Wifi coach · book seat |
+| **TLL → Riga** ⭐ | 🚆 **Train 012/112/873** | **6h29** | **€29–30.70** | Balti jaam **10:18** → Rīga **16:55**, one change at Valga. Stops **Tartu · Valmiera · Cēsis · Sigulda**. Continues **Vilnius 21:22 (€39)** |
+| *(fallback)* TLL → Riga | Lux Express bus | ~4–4.5h | ~$15–30 | Faster, cheaper, but skips every Gauja stop |
 | **Bus station → bed** | Tram/walk/Bolt | 10–25m | few $ | Amella / Centrs |
 | **Riga → Vilnius** | Lux / Ecolines | ~4h | ~$15–25 | Day coach |
 | **Day trips** | Vivi train | 30–75m | ~$3–8 | Sigulda / Ķemeri / Jūrmala |
@@ -148,6 +149,47 @@ Boots for bog boardwalk; shell for Atlantic-ish wind.
 
 ---
 
+## Beer & breweries 🍺
+
+*Live prices pulled **Sep 4 2026** · €1 = $1.16. **Riga is the cheapest drinking city on the whole fall route** — Numbeo restaurant draft 0.5L **€5.00**, against Tallinn €6.00, Stockholm €7.16 and Helsinki €8.00. This is where the 10-night sponge pays.*
+
+### The Beer District — one courtyard, two breweries
+**A. Briāna iela 9a** (Avoti) holds **Labietis Culture Taproom** *and* the **Valmiermuiža Beer Embassy**. That single address is where the €60 guided "Riga Beer District" tour starts — **walking it yourself is free**.
+
+**Labietis Culture Taproom** — A. Briāna 9a-2 · **16 taps** · Mon–Thu 15–24 · Fri–Sat 13–02 · Sun 13–24 · an official Riga cultural space (live music, screenings, festivals). Pagan/herb ales: juniper, heather, meadowsweet.
+Second outlet in the **Central Market Gastronomy Pavilion** — 8 taps + takeaway, so it pairs with the market food day.
+
+| Item | ~EUR | ~USD |
+|---|---|---|
+| Labietis 0.3L pour | €3.50–5.50 | ~$4.1–6.4 |
+| Labietis can, **brewery webshop** (live) | **€2.93–3.50** | ~$3.4–4.1 |
+| Labietis 4-pack / larger packs (live) | €6.30 / €12.00–12.90 | ~$7.3 / $14–15 |
+| Valmiermuiža bottle, **brewery webshop** (live) | **€1.75–2.65** | ~$2.0–3.1 |
+| **Folkklubs Ala Pagrabs** 0.3L (medieval cellar, folk nights) | €3.50–5 | ~$4.1–5.8 |
+| Old Town draft 0.5L · craft | €3–6 · €3.50–8 | ~$3.5–9.3 |
+| Rimi / Maxima craft 0.33L | €1.50–3.50 | ~$1.7–4.1 |
+| Numbeo: restaurant draft 0.5L / market 0.5L | €5.00 / €1.80 | ~$5.8 / $2.1 |
+
+### Tours — worth it or not
+
+| Tour | Price (live) | Verdict |
+|---|---|---|
+| **Valmiermuiža brewery**, Valmiera (~1h50 by train) | **€16** classic / 3 brews / 1.5–2h · **€19** special / 5 brews / 2h · €24 cask-aged distilled lager (max 15) · €50 sommelier masterclass (min 20) | ⭐ **The one worth taking** — a real working brewery, not a bar crawl. Group minimums €64 / €76 · beer-paired snacks +€8 · **10% off Mon–Wed** · book **degustacijas@valmiermuiza.lv** |
+| Riga Beer District, 4h / 12 beers | €60 (min €180/tour) | ❌ Starts at A. Briāna 9a — walk it free |
+| Brewery visit + 5-beer tasting, 2h | €38 | ❌ That's ~11 Labietis cans |
+| Pub crawl, 3h | €42 | ❌ |
+
+### Budget check
+[Itinerary §6](../itinerary.md) budgets **$15/day × 10n = $150**. Three taproom pours = **€10.50–16.50 ($12–19)/day** → **$122–192 across the stay**, midpoint sitting right on the line. **No change needed** — and retail-at-the-apartment nights pull it well under.
+
+### Free / cheap version
+- **Walk A. Briāna 9a yourself** — two breweries, one courtyard, €0 entry, no guide.
+- **Brewery-shop retail beats every guided tasting**: a self-run 5-beer flight from the Labietis / Valmiermuiža shops runs **~€12–17** vs €38–60 guided.
+- **Central Market Labietis stand** — 8 taps inside the food anchor you're visiting anyway.
+- ⚠️ **Public drinking still draws a police fine in Latvia.** Carrying an open container has been legal since 2020, but *consuming* in parks and streets is not — buy retail, drink at the apartment.
+
+---
+
 ## Lodging (hostels & budget)
 
 *§7 shortlist · kitchen wins for 10n · free cancel while flex · re-check before book.*
@@ -182,6 +224,7 @@ Boots for bog boardwalk; shell for Atlantic-ish wind.
 | **Cowork day pass** | Double9-class ~€12 · OracleTang-class ~€18 — try **one** before monthly fantasy |
 | **Lunch menus** | Beat dinner prices |
 | **OT squares** | Tourist tax |
+| **Alcohol** | Cheapest on the route: 0.3L pour €3.50–5.50, brewery-shop cans **€1.75–3.50**. Skip the €38–60 tours; walk A. Briāna 9a free. **Public drinking is fined** — see [Beer & breweries](#beer--breweries-) |
 | **Day rate (trip)** | Itinerary ~**$90–100**/n apt-lean all-in |
 | **Month fantasy** | Research ~**€1.7–2.4k / ~$2.0–2.8k** comfortable solo (housing+food+cowork+transit) — **tourist 90 ≠ right to stay** |
 

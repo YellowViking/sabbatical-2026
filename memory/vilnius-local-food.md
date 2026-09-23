@@ -110,6 +110,36 @@ Good lake walking weather · book LJU flight with buffer after Trakai day.
 
 ---
 
+## Beer & breweries 🍺
+
+*Live prices pulled **Sep 4 2026** · €1 = $1.16. Lithuania is the **traditional-beer** stop, not the craft stop. The thing you can't get in Tallinn or Riga is **kaimiškas** — rural farmhouse beer from the northern countryside.*
+
+| Where | What | ~EUR | ~USD |
+|---|---|---|---|
+| **Šnekutis** (Užupis, est. 2006) ⭐ | Pint of kaimiškas | €5–6 | ~$5.8–7.0 |
+| **Šnekutis / Špunka** | **3 pints + a snack, per person** | **€15–20** | ~$17–23 |
+| Prohibicija | Same evening on rarer imports | €25+ | ~$29+ |
+| Any local bar | Pint, local beer | €4–7 | ~$4.6–8.1 |
+| **Alaus Biblioteka** (Beer Library) | Six-pack, their own shop (live) | €27.90 | ~$32 |
+| Alaus Biblioteka | Themed gift sets (IPA / dark / sour) | €24.90–29.90 | ~$29–35 |
+| Numbeo | Restaurant draft 0.5L / market 0.5L | **€5.00 / €1.61** | ~$5.8 / $1.9 |
+
+**Order with the beer at Šnekutis:** cepelinai, vėdarai, or *kepta duona* (fried garlic bread). That pairing is why a €15–20 evening covers the drink *and* the meal.
+
+**Vilnius is the cheapest of the five cities on groceries** (market 0.5L €1.61) **and on cheap meals** (€12 vs Riga's €14.50) — even though restaurant draft matches Riga at €5.00.
+
+⚠️ **Event, and why it's out:** Alaus Biblioteka runs an **Oktoberfest Sat Sep 26, 17:00, €34.90 ticketed**. On the *live* schedule (Bergen through Sep 20) Vilnius lands around **mid-October** — so this is **not reachable**. Flagged so it doesn't get planned around.
+
+### Budget check
+[Itinerary §6](../itinerary.md) budgets **$15/day × 3n**. Three pints ≈ **€12–18 ($14–21)/day** — on the line to slightly hot, same shape as Tallinn. But a **Šnekutis evening at €15–20 pp covers drinks *and* dinner**, which makes it the cheapest combined night of the Baltic block.
+
+### Free / cheap version
+- The **self-guided craft walk** (Baziliskas → riverside Alaus Namai) is the free version of every paid Vilnius beer tour.
+- **Šnekutis is already the budget option** — a locals' room, not a craft-price room. Don't upgrade to Prohibicija unless you specifically want rare imports at €25+/evening.
+- Groceries are the cheapest on the route: **€1.61** for an apartment beer.
+
+---
+
 ## Lodging (hostels & budget)
 
 *§7 shortlist · named beds only · free cancel while flex · re-check before book.*
@@ -134,6 +164,7 @@ Good lake walking weather · book LJU flight with buffer after Trakai day.
 | **Halės** | DIY dinner |
 | **Airport bus €1** | Skip taxi |
 | **Bolt** | Only when tired/bags |
+| **Alcohol** | Pint €4–7 · market 0.5L **€1.61** (cheapest of the five cities). A **Šnekutis** evening €15–20 pp covers beer *and* dinner — see [Beer & breweries](#beer--breweries-) |
 | **Day rate** | Itinerary ~**$80–90**/n hostel-lean |
 
 **Year-base:** too short for a lab — 3n is a **compare-to-Riga** vibe check only ([europe-year-base-nomad.md](europe-year-base-nomad.md)).

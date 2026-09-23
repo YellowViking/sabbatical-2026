@@ -1,0 +1,46 @@
+.session-backups/
+.playwright-mcp/
+
+# transient network dumps (may contain session cookies)
+*.network-request
+*.network-response
+
+# Copyrighted book text (Lonely Planet, library loan) — NEVER commit.
+# Staging area only; the real cache lives outside this repo at
+# ~/Library/Caches/sabbatical-lonely-planet/
+.lp-cache/
+lp-*.json
+lp-*.txt
+
+# Editor
+.vscode/
+
+# Separate project that happens to live in this folder — has its own .git
+# and 66 MB of node_modules. Not part of the trip planning repo.
+or-cost-monitor/
+
+# One-off capture, superseded by the notes in memory/stavanger-local-food.md
+stavanger-booking-widget-after-click.md
+
+# ---------------------------------------------------------------------------
+# Research scratch. This repo is PUBLIC — keep raw captures out of it.
+# Findings belong in itinerary.md / memory/*.md, not the dumps they came from.
+# ---------------------------------------------------------------------------
+
+# Browser screenshots from booking flows (may show account state)
+*.png
+
+# Raw API / booking-engine captures (airline, hotel, loyalty)
+amex-*.json
+klm-*.json
+yf.json
+seats-aero-*
+flyingblue-*
+guidecompaniet-*.json
+
+# Scraper text dumps
+playwright-*.txt
+maps-search-*.txt
+
+# local CDP debug log
+memory/restaurant-previews/run.log

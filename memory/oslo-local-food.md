@@ -8,7 +8,7 @@
 |---|---|
 | **Trip context** | Scandi capital #3 · recover legs before **Preikestolen** · fall **≤90 Schengen** |
 | **Nights** | **3 default** · **2** = cut lake + one museum · **4** = sauna + deeper Nordmarka |
-| **Arrive/leave** | Usually train from GOT · leave toward Stavanger (air/rail) when ready |
+| **Arrive/leave** | **Live:** Aug 30 FlixBus from GOT · leave Sep 1 toward Stavanger / optional 1n Kristiansand |
 | **Pace** | Free parks/islands first · pick **one** big museum · husmannskost not Aker Brygge |
 
 ### Length → plan
@@ -31,6 +31,37 @@
 ### Late Aug
 Sunset still long enough for Ekeberg evenings. **Fårikål** season starts ~Sep — may appear as late-Aug specials. Save hard hiking for Stavanger.
 
+## Live solo plan — Aug 30–Sep 1 · **2n at Cochs**
+
+| Need | Current answer |
+|---|---|
+| **Bed** | **Cochs Pensjonat**, Parkveien 25 · Sun Aug 30 and Mon Aug 31 · 2n |
+| **Bed evidence** | Booking **8.3/3,433** · location **9.4** · 24-hour front desk · across from Slottsparken |
+| **Weather** | Sun **16–19°C**, cloudy / ~1.6mm · Mon **16–21°C**, dry / cloudy *(MET Aug 29)* |
+| **Onward** | Leave **Sep 1** · Kristiansand remains **0–1n**, not 2n · Stavanger date still open |
+
+**Sun Aug 30:** leave the pack at Cochs · do laundry nearby · Opera roof + Akershus · MUNCH only if a useful same-day slot remains · Ekeberg toward evening.
+
+**Mon Aug 31:** nature-first full day: Sognsvann **or** Hovedøya, then Vigeland + Grünerløkka / Akerselva. The National Museum is not the Monday plan.
+
+### Laundry from Cochs — today
+
+Use [Clean Cocos Frogner](https://www.google.com/maps/dir/?api=1&origin=Cochs+Pensjonat%2C+Parkveien+25%2C+Oslo&destination=Clean+Cocos%2C+Skovveien+6%2C+Oslo&travelmode=walking), **Skovveien 6**: **14m / 1.2km walk**.
+
+1. Go before **22:00**; it is open daily **06:00–22:00**, including Sunday.
+2. If the door asks for a code, enter **30820**. The operator also says no code/key is normally needed during opening hours.
+3. Choose one of six washers, load up to **8kg**, select the program, then pay **79 NOK** by contactless card/phone or Appwash.
+4. Do **not** add detergent: fragrance-free detergent is automatically dosed and included. No fabric softener is used.
+5. The popular wash program takes about **60m**. Before drying, **empty the grey lint filter**; move the load to one of six dryers and pay another **79 NOK**.
+
+Total for one wash + one dry is **158 NOK**. Free Wi-Fi is available; reported password is **cleankokos** or **cleancocos**, but there are only three seats and no device charging. Keep the clothes with you; the unattended shop disclaims responsibility.
+
+**Customer-review audit:** Clean Cocos Frogner is only **Google 3.8/115**. Positive reports say the machines work, card-terminal payment is easy, and Sunday around **09:00** had plenty available. Recurring negatives are a tiny/crowded room on Sunday afternoon, overflowing bins / clothes left in a corner, and occasional app or payment-machine failures. **Use the in-room contactless card terminal** rather than Appwash: the app requires a prepaid top-up and turns failures into a refund/support process. Bring a wipe because no paper towels are provided. If a cycle fails, photograph the machine number and transaction; weekend app chat remains available, and the Norway emergency number is **+47 33 39 89 43**.
+
+**Closer but less reliable:** Café Laundromat, Underhaugsveien 2, is **650m / 9m** away and open Sunday. Its headline scores mostly review the café (**Google 4.1/1.2k · Tripadvisor 3.5/254 · Yelp 3.3/71**), not just the machines. Laundry-specific reports are mixed: four washers and only two dryers, 10 NOK coin operation (change at the bar), and at least one detailed report of clothes remaining wet after an hour of drying. Choose it for the staffed café, not for the most predictable laundry.
+
+Southbound research: [Oslo → Stavanger railway stops](oslo-stavanger-stopovers.md).
+
 ---
 
 ## Getting around *(transport in this guide)*
@@ -49,8 +80,8 @@ Islands (Hovedøya) + metro use the right **Ruter** product — buy in-app befor
 ### Arrive / leave this hub
 | Leg | Mode | Time | Notes |
 |---|---|---|---|
-| **From GOT** | Train | 3.5–4h | **Göteborg C → Oslo S** |
-| **To Stavanger** | **Flight** preferred | ~1h + airport | Or train 8h+ · Entur/Vy |
+| **From GOT** | **Live: FlixBus** | **3h35** | Aug 30 **08:50–12:25** · Nils Ericsonterminalen → Oslo bussterminal |
+| **To Stavanger** | F5 train / stopover candidates | ~8h direct | Kristiansand is on the main line; Arendal is an R50 branch; Egersund is ~1h from Stavanger |
 | Airport → city | Flytoget / Vy → Oslo S | ~20–30m | Then walk/tram to bed |
 
 ### Bed → Oslo S
@@ -194,6 +225,8 @@ Islands (Hovedøya) + metro use the right **Ruter** product — buy in-app befor
 | **Cochs Pensjonat** | Frogner / Palace | 8.3–8.7 | — | **68–114** | full private room | **Welhavens gate tram** · ~2m | Historic · kitchenettes · Vigeland side | [Maps](https://www.google.com/maps/search/?api=1&query=Cochs+Pensjonat+Oslo) |
 
 *Bed privacy: **Bunks official site** confirms blackout curtains on every bunk. K7 = bunks+lockers only, no curtain claim. Dump: `hostel-curtains-primary-vs-gemini.md`. Bring earplugs.*
+
+**Live Aug 30–Sep 1:** staying at **Cochs Pensjonat**. Its listings do not advertise guest laundry; use Clean Cocos Frogner above or ask the 24-hour desk whether an unlisted service is available.
 
 ### How to choose
 | You want | Book |

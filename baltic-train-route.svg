@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1210" width="860" height="1210" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<style>
+  :root { color-scheme: light dark; }
+  .surface { fill: #fcfcfb; }
+  .ink     { fill: #0b0b0b; }
+  .ink2    { fill: #52514e; }
+  .muted   { fill: #898781; }
+  .rule    { stroke: #e1e0d9; }
+  .ring    { stroke: #fcfcfb; }
+  .ee { stroke: #2a78d6; }  .ee-f { fill: #2a78d6; }
+  .lv { stroke: #eb6834; }  .lv-f { fill: #eb6834; }
+  .lt { stroke: #1baf7a; }  .lt-f { fill: #1baf7a; }
+  .band-ee { fill: #2a78d6; } .band-lv { fill: #eb6834; } .band-lt { fill: #1baf7a; }
+  @media (prefers-color-scheme: dark) {
+    .surface { fill: #1a1a19; }
+    .ink     { fill: #ffffff; }
+    .ink2    { fill: #c3c2b7; }
+    .rule    { stroke: #2c2c2a; }
+    .ring    { stroke: #1a1a19; }
+    .ee { stroke: #3987e5; } .ee-f { fill: #3987e5; }
+    .lv { stroke: #d95926; } .lv-f { fill: #d95926; }
+    .lt { stroke: #199e70; } .lt-f { fill: #199e70; }
+    .band-ee { fill: #3987e5; } .band-lv { fill: #d95926; } .band-lt { fill: #199e70; }
+  }
+  .t-title { font-size: 21px; font-weight: 700; }
+  .t-sub   { font-size: 13px; }
+  .t-stn   { font-size: 13px; font-weight: 650; }
+  .t-stn-m { font-size: 11px; font-weight: 400; }
+  .t-time  { font-size: 11.5px; font-variant-numeric: tabular-nums; }
+  .t-cty   { font-size: 15px; font-weight: 700; letter-spacing: 0.10em; }
+  .t-leg   { font-size: 12px; }
+  .t-note  { font-size: 11.5px; }
+</style>
+
+<rect width="860" height="1210" class="surface"/>
+
+<!-- country tint bands (route sections, not exact borders) -->
+<g opacity="0.055">
+  <rect x="0" y="76"  width="860" height="360" class="band-ee"/>
+  <rect x="0" y="436" width="860" height="270" class="band-lv"/>
+  <rect x="0" y="706" width="860" height="440" class="band-lt"/>
+</g>
+<g class="rule" stroke-width="1" stroke-dasharray="3 4">
+  <line x1="0" y1="436" x2="860" y2="436"/>
+  <line x1="0" y1="706" x2="860" y2="706"/>
+</g>
+
+<text x="40" y="38" class="ink t-title">Baltic rail spine — Tallinn → Vilnius</text>
+<text x="40" y="60" class="ink2 t-sub">Train 012/112/873 · one change at Valga · 11 h end to end · €39 through fare · geographic layout</text>
+
+<!-- country gutter labels -->
+<text x="822" y="110" class="ee-f t-cty" text-anchor="end" opacity="0.85">ESTONIA</text>
+<text x="822" y="466" class="lv-f t-cty" text-anchor="end" opacity="0.85">LATVIA</text>
+<text x="822" y="736" class="lt-f t-cty" text-anchor="end" opacity="0.85">LITHUANIA</text>
+
+<!-- ================= route ================= -->
+<g fill="none" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+  <polyline class="ee" points="310,103 442,139 490,241 526,314 492,346 452,435"/>
+  <polyline class="lv" points="452,435 384,482 368,528 343,543 323,559 240,600 198,660"/>
+  <polyline class="lt" points="198,660 187,742 154,803 179,828 226,932 259,975 278,1017 368,1053"/>
+</g>
+
+<!-- branches (no backtrack: short out-and-back or onward) -->
+<g fill="none" stroke-width="2" stroke-dasharray="5 5" class="lt" opacity="0.8">
+  <line x1="278" y1="1017" x2="217" y2="1011"/>
+  <line x1="368" y1="1053" x2="331" y2="1062"/>
+</g>
+
+<!-- ================= stations ================= -->
+<g stroke-width="2.5" class="ring">
+  <!-- ESTONIA -->
+  <circle cx="310" cy="103" r="9"   class="ee-f"/>
+  <circle cx="442" cy="139" r="3.5" class="ee-f" stroke="none" opacity="0.55"/>
+  <circle cx="490" cy="241" r="3.5" class="ee-f" stroke="none" opacity="0.55"/>
+  <circle cx="526" cy="314" r="7.5" class="ee-f"/>
+  <circle cx="492" cy="346" r="3.5" class="ee-f" stroke="none" opacity="0.55"/>
+  <rect x="444" y="427" width="16" height="16" rx="2.5" transform="rotate(45 452 435)" class="ee-f"/>
+  <!-- LATVIA -->
+  <circle cx="384" cy="482" r="7.5" class="lv-f"/>
+  <circle cx="368" cy="528" r="7.5" class="lv-f"/>
+  <circle cx="343" cy="543" r="3.5" class="lv-f" stroke="none" opacity="0.55"/>
+  <circle cx="323" cy="559" r="7.5" class="lv-f"/>
+  <circle cx="240" cy="600" r="9"   class="lv-f"/>
+  <circle cx="198" cy="660" r="3.5" class="lv-f" stroke="none" opacity="0.55"/>
+  <!-- LITHUANIA -->
+  <circle cx="187" cy="742" r="3.5" class="lt-f" stroke="none" opacity="0.55"/>
+  <circle cx="154" cy="803" r="7.5" class="lt-f"/>
+  <circle cx="179" cy="828" r="3.5" class="lt-f" stroke="none" opacity="0.55"/>
+  <circle cx="226" cy="932" r="3.5" class="lt-f" stroke="none" opacity="0.55"/>
+  <circle cx="259" cy="975" r="3.5" class="lt-f" stroke="none" opacity="0.55"/>
+  <circle cx="278" cy="1017" r="3.5" class="lt-f" stroke="none" opacity="0.55"/>
+  <circle cx="368" cy="1053" r="9"  class="lt-f"/>
+</g>
+<!-- branch ends: hollow ring = optional side trip -->
+<g fill="none" stroke-width="2.5" class="lt">
+  <circle cx="217" cy="1011" r="6"/>
+  <circle cx="331" cy="1062" r="6"/>
+</g>
+
+<!-- ================= labels ================= -->
+<g class="ink">
+  <text x="294" y="99"  class="t-stn" text-anchor="end">Tallinn</text>
+  <text x="540" y="311" class="t-stn">Tartu</text>
+  <text x="470" y="431" class="t-stn">Valga</text>
+  <text x="400" y="479" class="t-stn">Valmiera</text>
+  <text x="384" y="525" class="t-stn">Cēsis</text>
+  <text x="339" y="563" class="t-stn">Sigulda</text>
+  <text x="256" y="597" class="t-stn">Rīga</text>
+  <text x="140" y="800" class="t-stn" text-anchor="end">Šiauliai</text>
+  <text x="384" y="1050" class="t-stn">Vilnius</text>
+</g>
+<g class="ink2">
+  <text x="294" y="115"  class="t-time" text-anchor="end">10:18 · dep</text>
+  <text x="540" y="327"  class="t-time">13:05</text>
+  <text x="470" y="447"  class="t-time">14:28 · change trains</text>
+  <text x="400" y="495"  class="t-time">15:06</text>
+  <text x="384" y="541"  class="t-time">15:30</text>
+  <text x="339" y="579"  class="t-time">15:59</text>
+  <text x="256" y="613"  class="t-time">16:55</text>
+  <text x="140" y="816"  class="t-time" text-anchor="end">18:41</text>
+  <text x="384" y="1066" class="t-time">21:22 · arr</text>
+</g>
+<!-- pass-through stations -->
+<g class="muted">
+  <text x="452" y="136" class="t-stn-m">Tapa <tspan class="t-time">11:09</tspan></text>
+  <text x="500" y="238" class="t-stn-m">Jõgeva <tspan class="t-time">12:26</tspan></text>
+  <text x="502" y="350" class="t-stn-m">Elva <tspan class="t-time">13:28</tspan></text>
+  <text x="333" y="540" class="t-stn-m" text-anchor="end">Līgatne <tspan class="t-time">15:50</tspan></text>
+  <text x="212" y="663" class="t-stn-m">Jelgava <tspan class="t-time">17:30</tspan></text>
+  <text x="177" y="745" class="t-stn-m" text-anchor="end">Joniškis <tspan class="t-time">18:04</tspan></text>
+  <text x="189" y="831" class="t-stn-m">Radviliškis <tspan class="t-time">18:58</tspan></text>
+  <text x="236" y="935" class="t-stn-m">Kėdainiai <tspan class="t-time">19:43</tspan></text>
+  <text x="269" y="978" class="t-stn-m">Jonava <tspan class="t-time">20:05</tspan></text>
+  <text x="288" y="1020" class="t-stn-m">Kaišiadorys <tspan class="t-time">20:30</tspan></text>
+</g>
+<!-- branch labels -->
+<g class="ink2">
+  <text x="207" y="1008" class="t-stn-m" text-anchor="end" font-weight="650">Kaunas</text>
+  <text x="207" y="1022" class="t-note" text-anchor="end">branch · ~35 min</text>
+  <text x="321" y="1066" class="t-stn-m" text-anchor="end" font-weight="650">Trakai</text>
+  <text x="321" y="1080" class="t-note" text-anchor="end">branch · ~30 min</text>
+</g>
+
+<!-- Gauja bracket -->
+<g class="lv" fill="none" stroke-width="1.6" opacity="0.75">
+  <path d="M 486 470 q 10 0 10 10 l 0 30 q 0 10 10 10 q -10 0 -10 10 l 0 30 q 0 10 -10 10"/>
+</g>
+<text x="512" y="530" class="lv-f t-leg" font-weight="650">Gauja</text>
+<text x="512" y="545" class="lv-f t-leg" font-weight="650">National Park</text>
+<text x="512" y="561" class="ink2 t-note">3 stations on the line</text>
+
+<!-- ================= legend ================= -->
+<g transform="translate(42,150)">
+  <rect x="0" y="0" width="216" height="150" rx="8" class="surface" stroke="#c3c2b7" stroke-opacity="0.35"/>
+  <text x="14" y="24" class="ink t-leg" font-weight="700">Stop type</text>
+  <circle cx="22" cy="46" r="9" class="ink" opacity="0.82"/>
+  <text x="40" y="50" class="ink2 t-leg">Capital / major hub</text>
+  <circle cx="22" cy="72" r="7.5" class="ink" opacity="0.82"/>
+  <text x="40" y="76" class="ink2 t-leg">Worth breaking the trip</text>
+  <circle cx="22" cy="96" r="3.5" class="muted"/>
+  <text x="40" y="100" class="ink2 t-leg">Passes through only</text>
+  <rect x="15" y="115" width="14" height="14" rx="2.5" transform="rotate(45 22 122)" class="ink" opacity="0.82"/>
+  <text x="40" y="126" class="ink2 t-leg">Change of trains</text>
+</g>
+
+<!-- ================= no-backtrack callout ================= -->
+<g transform="translate(42,336)">
+  <line x1="0" y1="0" x2="0" y2="86" class="lv" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <text x="16" y="14" class="ink t-leg" font-weight="700">No backtracking</text>
+  <text x="16" y="36" class="ink2 t-note">Latitude falls at every single stop,</text>
+  <text x="16" y="52" class="ink2 t-note">59.4°N Tallinn → 54.7°N Vilnius.</text>
+  <text x="16" y="74" class="ink2 t-note">Every secondary city below is</text>
+  <text x="16" y="90" class="ink2 t-note">already on the way — no detour.</text>
+</g>
+
+<!-- footnote -->
+<text x="40" y="1160" class="muted t-note">Times verified live on elron.pilet.ee for Sun 27 Sep 2026. Rīga–Vilnius times shift with engineering works — re-check before travelling.</text>
+<text x="40" y="1178" class="muted t-note">Positions are true lat/long; tinted bands mark the route’s country sections, not exact national borders.</text>
+</svg>
