@@ -70,7 +70,7 @@
 | 🚆 | **Riga** | **3** | **3–6** | market + Art Nouveau + **Gauja day trip** · LP allocates 3 days · ⚠️ **undecided** |
 | ⚠️ → | Lithuanian coast | 2 | **0–3** | **Curonian Spit** · ⚠️ **west, off the rail spine = backtrack** |
 | 🚆 → | **Šiauliai / Kaunas** | 2 | **0–2** | **Hill of Crosses** + art deco · **both on the line** |
-| 🚆 → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · ⚠️ **exit unsolved** |
+| 🚆 → | **Vilnius** | 3 | **2–4** | OT + Užupis + **Trakai** · 🚆 onward to Central Europe **overland, TBD** |
 | early Oct | **Slovenia** | 7 | **6–9** | **Split** LJU + Bled/Bohinj · caves/Piran optional |
 | mid Oct | **Croatia** | 13 | **11–15** | **Split bases** ZG · Plitvice area · Split hub · DBV · skip Krka default |
 | late Oct–mid Nov | **Italy** | ~20 | **18–22** | Keep warm finale + home flight |
@@ -180,11 +180,11 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 | → **Rīga** 16:55 | Vivi | 6h29 total | **€29.00–30.70** live |
 | → **Šiauliai** 18:41 → **Vilnius** 21:22 | LTG Link | 11 h total | **€39.00** through |
 | Sigulda ⇄ Cēsis *(day trip)* | train 30 min · bus €3.40 | — | — |
-| **Vilnius → Ljubljana** | ⚠️ **no nonstop** | 6–8 h | **€144** |
+| **Vilnius → Central Europe** | 🚆 **overland — TBD** | — | — |
 
-🚨 **The exit problem moved with the route.** Helsinki was chosen as the old exit *because* it flies nonstop to both Prague (€117/2h10) and Ljubljana (€120/2h40). Helsinki is now spent as the **entry**, and **Vilnius has no nonstop to Ljubljana**. Price VNO/KUN southbound — and **RIX→PRG €101/1h50** as the fallback — *before* committing Vilnius nights.
+🚆 **Onward: keep going by train.** The intent from Vilnius is to reach **Central Europe overland**, not to fly out. Not yet researched — to be worked out on the ground. *(The old air options are parked, not recommended: VNO→LJU has no nonstop at €144/6–8 h, and the RIX→PRG €101/1h50 fallback exists if rail ever fails.)* Two facts for whoever picks this up: **Rail Baltica is unfinished**, so the practical southbound corridor runs **via Poland** — and Poland is on the already-visited list **for stops**; transiting is fine, sleeping there is what to avoid.
 
-⚠️ **Klaipėda / Curonian Spit is now a backtrack.** It lies **west, off the rail spine**; the train route was picked precisely because latitude falls at every stop. Kaunas and Šiauliai are *on* the line and cost nothing; the coast costs a westward out-and-back. Decide deliberately.
+**Klaipėda / Curonian Spit** sits **west, off the main line** — a deliberate out-and-back, where **Kaunas and Šiauliai are already on the way**. Weigh it on weather and time, not on principle.
 
 ⚠️ **Weather rule — the coast is 3–4× wetter than inland.** Climatology 2019–25: **Sep 20–29 is the driest block of the whole autumn** everywhere; by mid-October the coast rains on **53–63%** of days while Vilnius holds at 41%. **Do the Spit on clear days, not to a schedule**, and leave Vilnius late if dates slip — it's the most weather-robust stop.
 
@@ -437,7 +437,7 @@ Nordic private-value targets are often **~$85–110** (dorm fallback ~$20–55) 
 | Topic | Outcome |
 |---|---|
 | **Live · Sep 23** | Solo · **Helsinki → Tallinn today** (Tallink MyStar 10:30, €21.48) · ✅ Harbour Hub Sep 23–27 €85 · **Scandinavia complete**, Gotland skipped · **Baltics reversed to a north→south train run** · Bergen→Riga flight **not flown**, tax claim filed |
-| **Baltic direction** | ⚠️ **REVERSED Sep 23.** Enter Tallinn, run south by rail to Vilnius. Latitude falls at every stop → **zero backtracking**. But the **exit moved to Vilnius, which has no nonstop to Ljubljana** — unsolved |
+| **Baltic direction** | ⚠️ **REVERSED Sep 23.** Enter Tallinn, run south by rail to Vilnius. Latitude falls at every stop → **zero backtracking**. Onward from Vilnius = **overland into Central Europe**, route TBD |
 | **Schengen** | One continuous ≤90 stint · baseline **~83n** · ~6–7d buffer · no mid-trip “reset” myth |
 | **Winter** | Fly home from Italy · western Balkans **deferred** (non-Schengen, later trip) |
 | **Spring** | Provisional Iberia / S. France / Greece · full fresh 90 needs ~**May** return |
@@ -474,7 +474,7 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] ~~**Riga bed Sep 19–22 BOOKED**~~ — ❌ **LAPSED** with the Bergen→Riga flight. Free cancellation, Pay Later deposit, so nothing was lost. **Rīga is unbooked again** and the dates have moved to ~Sep 28+. *(Research below still stands and is still the best channel intel in this repo.)* — **3 Monks Hostel**, Old Town, **Triple Semi-Private Sleeping Space**, 3n, **EUR 55.00** (46.44 + 8.56 tax) = **EUR 18.33/n**. Booked **direct on the property's Cloudbeds engine**, ~10% under Booking.com's $71 — reached via **Google Maps → "Visit website"**, which is the only channel that exposed it (a web search for an official site found nothing but OTAs). **Pay Later** deposit, **free cancellation to 24 h before check-in**. Property 9.2/307, **Location 9.8**, Staff 9.7. ⚠️ Shared kitchen has **fridge/freezer/knives but no stove**; no alcohol on premises; quiet hours 22:00–08:00; check-in from 15:00 but **access codes** allow late self-entry (flight lands 22:55). Direct line **+371 24334333**.
       *Market context: the budget line of $72/n is ~2× reality — whole apartments run $38–46/n. Private alternative was Modern Loft Studio, Location 9.8, real kitchen with hob, ~EUR 146/3n.*
 - [x] ~~**Book the Baltic exit flight from Helsinki**~~ — ❌ **MOOT.** Helsinki became the **entry**, not the exit. *(Kept for the award research: BA showed no usable Avios on any Baltic exit — BGO→HEL and TLL→LJU no availability, HEL→LJU economy unavailable, HEL→PRG **12,000 Avios + $40 = 0.80¢/Avios**, well under the 1.3–1.5¢ bar. Cash, and keep MR for November.)*
-- [ ] 🔴 **NEW — solve the southbound exit from Vilnius.** The old plan exited via Helsinki *precisely because* **Vilnius has no nonstop to Ljubljana (€144, 6–8 h)**. Price **VNO→LJU / VNO→PRG / KUN→** plus rail, and re-check **RIX→PRG €101/1h50** as the fallback, **before** committing Vilnius nights. This is the single biggest unresolved consequence of the route reversal.
+- [ ] 🚆 **Vilnius → Central Europe, overland.** Intent set: keep the train spine going rather than fly out. **Not researched yet — figure it out on the ground.** Note **Rail Baltica is unfinished**, so the practical corridor runs **via Poland**; Poland is already-visited *for stops*, but transiting is fine.
 - [ ] 🔴 **Book the Sun Sep 27 train** — Tallinn **10:18**, the only daily service reaching Gauja in daylight and continuing to Vilnius. Presale: **Elron 14d · Vivi 10d · LTG Link 30d**; 🚨 only **16 seats** on Rīga–Vilnius are held for Elron through-ticket holders. Live prices **€29.00–30.70** to Rīga, **€39.00** to Vilnius. Deep-link pattern and traps: [`memory/baltic-train-spine.md`](memory/baltic-train-spine.md).
 - [ ] 🔴 **Decide Rīga nights (3 vs 6) and whether Gauja gets its own nights** — everything downstream waits on these two numbers.
 - [ ] **Lithuanian coast beds (2n, ~Sep 24–26)** — **Viktoras Apartments, Palanga, $44/n, 9.7 from 339 reviews**, kitchen, 0.7 km. Cheaper: Palanga Camping Hostel $28/n dorm (8.4/150), Irenos Svetaine $35/n (9.6/138). **Book on the weather, not the calendar.**

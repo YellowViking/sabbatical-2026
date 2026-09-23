@@ -39,7 +39,7 @@ Burn ~90 Schengen days late-Aug→mid-Nov on a fresh NW→SE arc; exit ~mid-Nov 
 
 **Planned (Sep 27 →):** Tallinn 4n → 🚆 **Baltic rail spine south** — Tartu / **Gauja (Sigulda·Cēsis)** / **Rīga** / Šiauliai·Kaunas / **Vilnius** → Ljubljana 7n → Croatia 13n (Oct) → **Italy ~20n** → ✈ Seattle from Naples/Rome ~mid-Nov. One ~90-day Schengen stint.
 
-- ⚠️ **The Baltic direction REVERSED.** The old plan flew into Riga, swept south to Vilnius, then flew *back north* to Tallinn to exit via Helsinki. Reality enters at **Tallinn (north)** and runs **south to Vilnius** by train. Nothing is retraced — latitude falls at every stop — but **the exit problem moved with it** (see Open items).
+- ⚠️ **The Baltic direction REVERSED.** The old plan flew into Riga, swept south to Vilnius, then flew *back north* to Tallinn to exit via Helsinki. Reality enters at **Tallinn (north)** and runs **south to Vilnius** by train — **nothing is retraced; latitude falls at every stop.** From Vilnius the intent is to **keep going overland into Central Europe** rather than fly out; route not yet worked out.
 - Baltic "base" idea is weakened: no remote work on this leg, and **Lonely Planet allocates Riga 3 days**. Nights are for living, not obligation.
 
 ## Already visited — DO NOT re-route through (from blog.buyuchen.org, 2023 sabbatical)
@@ -57,8 +57,8 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 - [ ] **Beds unbooked from Sep 27 onward** — Gauja/Rīga/Vilnius all open.
 
 ### 🟠 Route decisions the reversal created
-- [ ] ⚠️ **The Baltic exit is now unsolved.** The old plan exited via **Helsinki → Prague €117 / → Ljubljana €120 (Finnair nonstop)** *specifically because* **Vilnius has no nonstop to Ljubljana (€144, 6–8 h)**. Helsinki is now spent as an *entry*, and Vilnius is the south end. **Price VNO→LJU / VNO→PRG / KUN→ + rail before committing Vilnius nights.**
-- [ ] **Curonian Spit / Klaipėda (2n) — keep or cut?** It sits **west, off the rail spine**, so it reintroduces exactly the backtracking the train route was chosen to avoid. Kaunas and Šiauliai are *on* the line; Klaipėda is not.
+- [ ] 🚆 **Vilnius → Central Europe by train — intent set, route TBD.** Keep going overland rather than flying out. Not yet researched; figure it out on the ground. Two things worth knowing when we do: **Rail Baltica is unfinished**, so the practical rail corridor south runs **via Poland**, and Poland is on the already-visited list *for stops* — transiting is fine, sleeping there is the thing to avoid.
+- [ ] **Curonian Spit / Klaipėda (2n) — keep or cut?** Purely a time/weather call now: it's a westward out-and-back off the main line, whereas **Kaunas and Šiauliai are already on it**.
 - [ ] **Pärnu is dropped** — LP gives it 3 days but files it under "the summer capital" (beaches/SUP/windsurfing), and **Elron returns zero trains** Tallinn→Pärnu. Wrong season, wrong transport.
 
 ### 🟢 Running / background
