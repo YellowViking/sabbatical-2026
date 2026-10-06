@@ -132,6 +132,18 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 | [ProperUNIT Bright Apartment](https://www.booking.com/hotel/pl/properunit-bright-apartment-in-old-town-with-ac.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **€149 ★** | €177 | — | 9.5 but only 20 reviews |
 | [Gvarna Apartamenty](https://www.booking.com/hotel/pl/gvarna-apartamenty.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | €166 ★ | €166 ★ | — | 170 m from the station; 9.3 (578) |
 
+**Google Maps sellers (every channel Google indexes, 1 guest, re-run ~13:00):**
+
+| Property | Cheapest seller on Maps | vs Booking | Notes |
+|---|---|---|---|
+| Luma Terra 8-bed | **[Bluepillow → Agoda](https://www.bluepillow.co.uk/search/62de8e5bde4e4eebed16c1d8?begin=2026-10-10&end=2026-10-13&adults=1&childs=0&infants=0&childrens=0&currency=EUR&language=en) €64 total ★** | €72 | Bluepillow's "Check Availability" hands you to Agoda at a partner rate |
+| White Wolf House | **Official site €27/n ≈ €81 ★** | €87 | Female dorm only |
+| Pension Brezina | **Super.com €213 ★** | €242 | Same as the Google Hotels check |
+| Hotel DAP | Vio / Closest Hotel / Etrip / ZenHotels €80/n ≈ €240 | €268 | Resellers, probably without breakfast; Booking's €89/n includes breakfast |
+| City Pop | HomeToGo / Agoda €87–88/n ≈ €261 | €265 | ⚠️ Maps matched "City Pop 2NIGHT Prague", which may be a different building |
+| City 5 | Booking = Agoda = Bluepillow €103/n | €309 | |
+| Nowy Świat Suite · Gvarna | no sellers on Maps | — | Booking/Agoda only (€147 / €166) |
+
 **Prague, Sat 10 → Tue 13: private**
 
 | Property | Booking | Agoda | Google Hotels sellers | Notes |
