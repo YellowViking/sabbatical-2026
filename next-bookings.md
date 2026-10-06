@@ -136,7 +136,7 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 
 | Property | Booking | Agoda | Google Hotels sellers | Notes |
 |---|---|---|---|---|
-| 💰 [Pension Brezina](https://www.booking.com/hotel/cz/brezina.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €242 | €242 | **Super.com 925 PLN ≈ €211 ★** (checked on Super.com, incl. taxes & fees) | 8.5 (1,380), 7% bad, location 9.1; **1.1 km from Praha hl.n.**, 1.6 km to the Old Town |
+| 💰 [Pension Brezina](https://www.booking.com/hotel/cz/brezina-pension.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €242 | €242 | **Super.com 925 PLN ≈ €211 ★** (checked on Super.com, incl. taxes & fees) | 8.5 (1,380), 7% bad, location 9.1; **1.1 km from Praha hl.n.**, 1.6 km to the Old Town |
 | [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €268 *(the €242 "1 left" rate is gone)* | €268 | "Closest Hotel" PLN 352/n ≈ €241 (unknown reseller; breakfast probably not included) | Booking's rate includes breakfast |
 | [City Pop Prague](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **€265 ★** | not listed | not on Google | 9.0 (2,212), 6% bad |
 | [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €309 | sold out | trivago ≈ €303 | 9.8, 0% bad |
