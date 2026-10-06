@@ -116,7 +116,7 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 | | Hostel | Bed €/night (3n) | Score (reviews) · location | Notes |
 |---|---|---|---|---|
 | 💰 | [Mleczarnia](https://www.booking.com/hotel/pl/hostel-mleczarnia-wroclaw.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **12-bed €17 (€51)** | 8.8 (1,140), 8% bad · 9.6 | Kitchen; 500 m to Market Square; bunk curtains **not confirmed** |
-| | [RYNEK 30 Hostel](https://www.booking.com/hotel/pl/rynek-30-hostel.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | twin room **€41** (only a female 6-bed dorm left, €21) | 8.7 (1,552), 8% bad · **9.8** | On the Market Square; kitchen per its site |
+| | [RYNEK 30 Hostel](https://www.booking.com/hotel/pl/rynek-30-hostel.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | twin room **€41** (no mixed dorm beds left) | 8.7 (1,552), 8% bad · **9.8** | On the Market Square; kitchen per its site |
 
 A private flat (Nowy Świat €49) costs €32/night more than a Mleczarnia bunk.
 
@@ -137,7 +137,7 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 | Property | Sat 10 → Tue 13 | **Sun 11 → Wed 14** | Cheapest bookable site |
 |---|---|---|---|
 | Luma Terra, 8-bed dorm | Agoda €62 | **[Agoda €62.50](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-11&checkout=2026-10-14&NumberofAdults=1&NumberofChildren=0&Rooms=1)** | Agoda (coupon −$10); Booking €72 |
-| White Wolf House, female dorm | — | **[Own site €65.91](https://www.whitewolfhostel.com/reservations/?arrival=2026-10-11&departure=2026-10-14&persons=1)** · Agoda €70 ([link](https://www.agoda.com/partners/partnersearch.aspx?hid=47587699&checkin=2026-10-11&checkout=2026-10-14&NumberofAdults=1&NumberofChildren=0&Rooms=1)** | Own site (confirmed on its booking page); Booking €87 |
+| ⭐ White Wolf House, 8-bed mixed | mixed beds sold out | **[Own site €75.97](https://www.whitewolfhostel.com/reservations/?arrival=2026-10-11&departure=2026-10-14&persons=1)** (10-bed mixed €77.04) | Own site, read on its booking engine; Booking mixed €93 |
 | Pension Brezina | Expedia ~€231 (to confirm) · Booking €242 | **[Booking €171](https://www.booking.com/hotel/cz/brezina-pension.html?checkin=2026-10-11&checkout=2026-10-14&group_adults=1&no_rooms=1&selected_currency=EUR)** = Priceline = Agoda €172 | Booking |
 | Hotel DAP | Booking / Agoda €268 (breakfast) | not available on Agoda | — |
 | Aparthotel City 5 | €309 | Agoda €306 | — |
@@ -157,7 +157,7 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 | Property | Booking | Agoda | Direct / Google | Notes |
 |---|---|---|---|---|
 | ⭐ [Luma Terra](https://www.booking.com/hotel/cz/luma-terra-prague-hostel.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) 8-bed | **€72 ★** | €72 ★ | direct (Cloudbeds) €79.76 | Curtains confirmed in the photos; ⚠️ its own site lists "bar crawls" as an amenity |
-| [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €87 ★ (female dorm only) | €86 | Google PLN 139/n | |
+| [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | mixed beds sold out for Sat 10–Tue 13; from Sun 11 the mixed bunk is €93 on Booking, €75.97 on its own site | | | |
 
 ## ⚡ Book Prague first (weekend)
 
@@ -193,7 +193,7 @@ Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adu
 | | Hostel | Bed €/night (3n) | Score (reviews) · location | Notes |
 |---|---|---|---|---|
 | ⭐💰 | [Luma Terra Prague Hostel](https://www.booking.com/hotel/cz/luma-terra-prague-hostel.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **8-bed €24 (€72)** · 6-bed €35 · 4-bed €39 | 8.9 (3,050), **5% bad** · 9.3 | **Privacy curtain, 3 lights, outlet, locker per bed**; kitchen + patio. **0.84 km walk from Praha hl.n.** (the train), 1.4 km to Old Town |
-| | [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | female dorm only, €29 | **9.3 (3,186), 3% bad · 9.9** | Curtains + reading light; 150 m from Old Town Square. Mixed beds sold out |
+| | [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | Sat 10 start: sold out (no mixed beds). **Sun 11 start: 8-bed mixed €75.97 on its own site** | **9.3 (3,186), 3% bad · 9.9** | Curtains + reading light; 150 m from Old Town Square |
 
 Ruled out: Czech Inn, Sir Toby's, Elf, Onefam Míru, Sophie's, Charles Bridge, Prague Dream (happy hour / party); Little Quarter (no kitchen); Ahoy, Orange, Downtown (10–13% bad reviews).
 
