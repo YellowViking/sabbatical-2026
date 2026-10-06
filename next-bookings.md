@@ -12,7 +12,7 @@
 > | Wed 7 → Fri 9 | Wrocław, **Nowy Świat Suite** (private flat), **€79 for 2 nights** | [Booking](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) (Agoda same) |
 > | Fri 9 | 🚆 IC 261 Baltic Express **09:13 → Praha hl.n. 13:14**, direct, 921 CZK ≈ €38 (České dráhy or PKP Intercity) | [IDOS](https://idos.cz/en/vlakyautobusy/spojeni/vysledky/?date=09.10.2026&time=08:00&f=Wroclaw%20Glowny&fc=100003&t=Praha%20hl.n.&tc=100003) |
 > | Fri 9 → Mon 12 | Prague, **Luma Terra 8-bed mixed dorm**: **Agoda $71 ≈ €64** for 3 nights with your coupon (Booking €80). White Wolf is sold out | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-09&checkout=2026-10-12&NumberofAdults=1&NumberofChildren=0&Rooms=1) |
-> | Mon 12 | 🚆 Prague **7:37 → Graz 15:00** (or 9:37 → 16:44), via Břeclav and Vienna, 909 CZK ≈ €37. **Graz, 1 night** | to price |
+> | Mon 12 | 🚆 **rj 251 Vindobona, Praha-Holešovice 10:36 → Graz 17:19, direct**, 1,245 CZK ≈ €51. **Graz, 1 night** | to price |
 > | Tue 13 | 🚆 Graz **9:22 → Lesce-Bled 11:31** (2 h 09 min via Villach and the Karawanks tunnel; also 11:22 and 13:22) | ÖBB |
 > | Tue 13 → Fri 16 | **Bled / Bohinj, 3 nights.** Midweek is cheaper and quieter; Wed–Fri sunny, 19–22 °C | to price |
 > | Fri 16 → Sun 18 | 🚆 Lesce-Bled → Ljubljana, ~1 h (10:01 / 11:32 / 12:43). **Ljubljana, 2 nights** (1 is enough if short on time) | to price |
@@ -27,8 +27,9 @@
 | Wed 7, alt. | IC 145 "Wigry" → IC 1642 "Fredro" | Białystok **11:32** → Warszawa Centralna 13:07 · **13:20** → **Wrocław Gł. 17:27** | 1 change at Warszawa Centralna, 13 min (86 zł) |
 | Wed 7, alt. | IC 1628 "Mickiewicz" | Białystok **12:15** → Wrocław **19:12** | **Direct** |
 | **Fri 9** | IC 261 "Baltic Express" | Wrocław Gł. **09:13** → **Praha hl.n. 13:14** | **Direct** |
-| **Mon 12** ⭐ | rj 275 → EC 203 → rj 750 | Praha **7:37** → Břeclav 10:47 · **10:55** → Wien Hbf 11:49 · **12:24** → **Graz 15:00** | **2 changes: Břeclav (8 min), Vienna (35 min)** |
-| Mon 12, alt. | rj 277 → EC 103 → WESTbahn | Praha **9:37** → Břeclav 12:47 · **12:55** → Wien 13:49 · **14:15** → **Graz 16:44** | 2 changes (Břeclav 8 min, Vienna 26 min) |
+| **Mon 12** ⭐ | **rj 251 "Vindobona"** | **Praha-Holešovice 10:36** → **Graz Hbf 17:19** (metro C from I.P. Pavlova, by Luma Terra, to Nádraží Holešovice, 4 stops) | **Direct**, 1,245 CZK ≈ €51 |
+| Mon 12, alt. | rj 53 / rj 255 "Vindobona" | Praha hl.n. **6:37 → 13:19** / **14:37 → 21:19** | **Direct** |
+| Mon 12, alt. | rj 275 → EC 203 → rj 750 | Praha hl.n. **7:37** → Břeclav 10:47 · **10:55** → Wien 11:49 · **12:24** → **Graz 15:00** | 2 changes (Břeclav 8 min, Vienna 35 min), 909 CZK |
 | **Tue 13** ⭐ | rjx 19556 → D 313 | Graz **9:22** → Villach 10:27 · **10:38** → **Lesce-Bled 11:31** | **1 change at Villach, 11 min** |
 | Tue 13, alt. | rjx 133 → D 315 | Graz **11:22** → Villach 12:27 · **12:38** → **Lesce-Bled 13:28** | 1 change (Villach, 11 min) |
 | **Fri 16** | R 2411 / D 313 / R 2415 | Lesce-Bled **10:01→10:59** / **11:32→12:27** / **12:43→13:51** Ljubljana | **Direct** |
