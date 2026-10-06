@@ -104,6 +104,15 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 | | [Studio Centrum](https://www.booking.com/hotel/pl/studio-centrum-wroclaw.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (studio with kitchen) | €47 (€140) | 8.9 (only 34 reviews) · 9.9 | 420 m / 1.1 km |
 | 💰 | [Hotel Traffic Stare Miasto](https://www.booking.com/hotel/pl/traffic.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **Google Hotels €38**, Booking €46 (2-night check) | 9.0 (**3,889**), 4% bad · 9.8 | 430 m / 0.9 km. ⚠️ Didn't show in the 3-night sweep, so check Friday availability |
 
+**Wrocław dorms, 3 nights.** Hostel sweep: 8+, has a kitchen, no happy hour.
+
+| | Hostel | Bed €/night (3n) | Score (reviews) · location | Notes |
+|---|---|---|---|---|
+| 💰 | [Mleczarnia](https://www.booking.com/hotel/pl/hostel-mleczarnia-wroclaw.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **12-bed €17 (€51)** | 8.8 (1,140), 8% bad · 9.6 | Kitchen; 500 m to Market Square; bunk curtains **not confirmed** |
+| | [RYNEK 30 Hostel](https://www.booking.com/hotel/pl/rynek-30-hostel.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | twin room **€41** (only a female 6-bed dorm left, €21) | 8.7 (1,552), 8% bad · **9.8** | On the Market Square; kitchen per its site |
+
+A private flat (Nowy Świat €49) costs €32/night more than a Mleczarnia bunk.
+
 ## ⚡ Book Prague first (weekend)
 
 Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adult](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) is €242 for 3 nights with breakfast, and Booking shows "We have 1 left" at that rate.** The next rate is €268.
@@ -130,6 +139,15 @@ Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adu
 | ⭐💰 | [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (**breakfast included**, Dejvice, metro A) | **€81 (€242)** | 8.8 (1,308), 4% bad · 9.3 | 2.3 km (metro) / 3.4 km |
 | | [City Pop Prague Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (studio) | €88 (€264) | 9.0 (**2,211**), 6% bad · 9.4 | 1.35 km / 1.6 km |
 | ✨ | [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (1-bedroom flat) | €103 (€309) | **9.8 (649), 0% bad** · 9.6 | 2.2 km / 3.2 km |
+
+**Prague dorms, 3 nights** (the cheap option). Hostel sweep within 3 km: 8+, kitchen, no happy hour, ≤6% bad reviews.
+
+| | Hostel | Bed €/night (3n) | Score (reviews) · location | Notes |
+|---|---|---|---|---|
+| ⭐💰 | [Luma Terra Prague Hostel](https://www.booking.com/hotel/cz/luma-terra-prague-hostel.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **8-bed €24 (€72)** · 6-bed €35 · 4-bed €39 | 8.9 (3,050), **5% bad** · 9.3 | **Privacy curtain, 3 lights, outlet, locker per bed**; kitchen + patio. **0.84 km walk from Praha hl.n.** (the train), 1.4 km to Old Town |
+| | [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | female dorm only, €29 | **9.3 (3,186), 3% bad · 9.9** | Curtains + reading light; 150 m from Old Town Square. Mixed beds sold out |
+
+Ruled out: Czech Inn, Sir Toby's, Elf, Onefam Míru, Sophie's, Charles Bridge, Prague Dream (happy hour / party); Little Quarter (no kitchen); Ahoy, Orange, Downtown (10–13% bad reviews).
 
 **Still to check:**
 - **Chase Travel:** the session expired, so sign in and search **1 adult**. About $50 of hotel credit is left, roughly a Wrocław night or half a Prague night.
