@@ -23,9 +23,9 @@
 | Day | Train(s) | Depart → Arrive | Change? |
 |---|---|---|---|
 | **Tue 6** | LTG IC 33 → PKP IC 141 "Hańcza" | Vilnius **12:35** → Mockava 14:52 🇱🇹 · Mockava **15:12 🇱🇹 (14:12 🇵🇱)** → **Białystok 17:07** | **1 change at Mockava, 20 min.** Clocks go back 1 h at the border |
-| **Wed 7** ⭐ | IC 145 "Wigry" → IC 1642 "Fredro" | Białystok **11:32** → Warszawa Centralna 13:07 · **13:20** → **Wrocław Gł. 17:27** | **1 change at Warszawa Centralna, 13 min** |
+| **Wed 7** ✅ chosen | **IC 1626 "Leśmian"** | Białystok **10:15** → **Wrocław Gł. 16:43** | **Direct**, 85 zł on [Koleo](https://koleo.pl/) |
+| Wed 7, alt. | IC 145 "Wigry" → IC 1642 "Fredro" | Białystok **11:32** → Warszawa Centralna 13:07 · **13:20** → **Wrocław Gł. 17:27** | 1 change at Warszawa Centralna, 13 min (86 zł) |
 | Wed 7, alt. | IC 1628 "Mickiewicz" | Białystok **12:15** → Wrocław **19:12** | **Direct** |
-| Wed 7, alt. | IC 1626 "Leśmian" | Białystok **10:15** → Wrocław **16:43** | **Direct** (no time for the Sybir Museum) |
 | **Fri 9** | IC 261 "Baltic Express" | Wrocław Gł. **09:13** → **Praha hl.n. 13:14** | **Direct** |
 | **Mon 12** ⭐ | rj 275 → EC 203 → rj 750 | Praha **7:37** → Břeclav 10:47 · **10:55** → Wien Hbf 11:49 · **12:24** → **Graz 15:00** | **2 changes: Břeclav (8 min), Vienna (35 min)** |
 | Mon 12, alt. | rj 277 → EC 103 → WESTbahn | Praha **9:37** → Břeclav 12:47 · **12:55** → Wien 13:49 · **14:15** → **Graz 16:44** | 2 changes (Břeclav 8 min, Vienna 26 min) |
