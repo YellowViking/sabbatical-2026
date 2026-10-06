@@ -93,7 +93,7 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 | **Wed 7** | Morning: **Sybir Museum, free on Wednesdays** (opens 9:30). Train **11:32 → Wrocław 17:27** (1 change, 86 zł), or 12:15 → 19:12 direct. Evening: Market Square, then **Ostrów Tumski at dusk**, when the gas lamps are lit by hand (sunset 18:16). Free |
 | **Thu 8** (21 °C, some rain) | Old Town: Town Hall, Market Hall, St Elizabeth's tower, the dwarf statues (free), the Nadodrze street-art quarter; Panorama Racławicka or the National Museum if it rains |
 | **Fri 9** (15 °C, 9 h of sun) | **Outdoors: hike Ślęża**, the 718 m "holy mountain" about 1 h away by train or bus (free). Or Centennial Hall (UNESCO), Szczytnicki Park and the Japanese Garden |
-| **Sat 10** | FlixBus **09:30 → Prague Florenc 13:50** or 10:30 → 14:45 (**€18.99–19.49**) · [FlixBus Sat 10](https://shop.flixbus.lt/search?departureCity=40de575f-8646-11e6-9066-549f350fcb0c&arrivalCity=40de1ad1-8646-11e6-9066-549f350fcb0c&rideDate=10.10.2026&adult=1&_locale=en&currency=EUR) |
+| **Sat 10** | 🚆 **Train IC 261 "Baltic Express" Wrocław Główny 09:13 → Praha hl.n. 13:14**, direct, 4 h, **722 CZK (≈ €29)** on České dráhy · [IDOS timetable with ČD cart](https://idos.cz/en/vlakyautobusy/spojeni/vysledky/?date=10.10.2026&time=08:00&f=Wroclaw%20Glowny&fc=100003&t=Praha%20hl.n.&tc=100003). Also sold by PKP Intercity. Fallback: FlixBus 09:30, €19 |
 
 **Wrocław stays, 3 nights, 1 adult.** Booking sweep: 8.5+, ≤6% of reviews under 7, location 9+.
 
@@ -118,7 +118,7 @@ Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adu
 
 | Day | Plan (forecast) |
 |---|---|
-| **Sat 10** (17 °C, showers) | Arrive at Florenc about 14:00. Old Town Square, the Astronomical Clock, the Jewish Quarter streets, **Charles Bridge at dusk** (free) |
+| **Sat 10** (17 °C, showers) | Arrive at **Praha hl.n. 13:14**; to Hotel DAP it's metro C → A to Dejvická (~15 min). Old Town Square, the Astronomical Clock, the Jewish Quarter streets, **Charles Bridge at dusk** (free) |
 | **Sun 11** (sunny) | **Prague Castle grounds** (free to walk; interiors paid), Lesser Town, **Petřín Hill on foot** (free), Strahov |
 | **Mon 12** (sunny) | **Vyšehrad** fortress and the riverside (free), Letná beer garden, *or* a day trip to **Bohemian Switzerland** (Pravčická brána rock arch, about 1½ h by train via Děčín) |
 | **Tue 13** | Onward to Slovenia; the Prague → Ljubljana night bus is to be priced. Or stay one more sunny day |
