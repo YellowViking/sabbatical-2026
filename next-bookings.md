@@ -36,6 +36,22 @@ The filter: overall score ≥ 8.5, at least 20 reviews, 6% or fewer of reviews u
 
 **Evening (sunset 17:52):** Branicki Palace gardens (free), then Kościuszko Market Square.
 
+**Top sights.** All are saved to Google Maps → *Want to go*; the stay (Apartamenty Branicka) is in *Starred places*. Hours and prices for the two museums are from their official sites. Everything else is free and open outdoors.
+
+| Sight | Cost | When | From the main square |
+|---|---|---|---|
+| ⭐ **Branicki Palace and gardens** (the "Versailles of Podlasie") | **gardens free** | evening walk or morning | 400 m |
+| Cathedral Basilica of the Assumption (small white church joined to a red-brick neo-Gothic cathedral) | free | anytime | 100 m |
+| Kościuszko Market Square and Town Hall (Podlasie Museum) | square free | evening | 0 |
+| Planty park and its lit fountain | free | evening | 550 m |
+| St. Nicholas Orthodox Cathedral (iconostasis) | free | morning | 300 m |
+| St. Roch Church (modernist, viewing tower) | free | anytime | 850 m |
+| Great Synagogue memorial (Jewish heritage) | free | anytime | 400 m |
+| ⭐ **Sybir Memorial Museum** (Siberia deportations; needs 1½–2 h) | **free on Wednesdays** (otherwise about 25 zł) | **Tue–Fri 9:30–17:00**, closed Mon | about 2 km (taxi) |
+| Ludwik Zamenhof Centre (inventor of Esperanto) | 8 zł | daytime | 650 m |
+
+**Wednesday morning:** if you want the free Sybir Museum (opens 9:30), skip the 10:15 train and take the **11:32 → Wrocław 17:27** (one change, 86 zł) or the 12:15 → 19:12 (direct, 85 zł).
+
 **Food tonight.** Ratings, addresses and price bands are from Google's business panels (6 Oct). Dishes come from Google AI Mode, so treat them as leads. Exchange rate: about 4 zł per $1.
 
 | Place | Google rating | Where | Price | Order |
