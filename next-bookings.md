@@ -49,6 +49,18 @@ The filter: overall score ≥ 8.5, at least 20 reviews, 6% or fewer of reviews u
 
 Skip Kartaczewnia (Lipowa 2): 3.9 on Google.
 
+**Beer tonight.** Everything here is within about 270 m of Rynek Kościuszki. Ratings and addresses are from Google's business panels (6 Oct). What each place pours, and the prices, come from AI Mode, so treat them as leads.
+
+| Place | Type | Google rating | Where | Opens | What's on |
+|---|---|---|---|---|---|
+| **Browar Stary Rynek** | **Brewpub that brews on site** | 4.4 (732) | Rynek Kościuszki 11 | 12:00 | House pils, *marcowe* (märzen), wheat, seasonals. About 18 zł for 0.5 l |
+| ⭐ **33 Krany** | Craft multi-tap (33 taps) | 4.6 | Legionowa 14/16 | 16:00 | Polish craft: hazy IPAs, sours, pastry stouts |
+| **Beer4u** | Craft pub | 4.7 (246) | Legionowa 14/16, next door to 33 Krany | 17:00 | Craft taps and a big bottle list |
+| **Multibrowar** | Craft bar and restaurant | 4.6 | Icchoka Malmeda 8 | 12:00 | About 16 taps of Podlasie and Polish micro-breweries, plus *kartacze* |
+| Karafka | *Nalewki* (fruit liqueurs) and beer bar | 5.0 (45) | Dr Ireny Białówny 9 | 16:00 | Local craft beer and Podlasie liqueurs |
+
+The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
+
 
 ## 3 · Wed 7: onward (pick one)
 
