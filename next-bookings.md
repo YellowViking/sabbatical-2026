@@ -132,13 +132,13 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 | [ProperUNIT Bright Apartment](https://www.booking.com/hotel/pl/properunit-bright-apartment-in-old-town-with-ac.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **€149 ★** | €177 | — | 9.5 but only 20 reviews |
 | [Gvarna Apartamenty](https://www.booking.com/hotel/pl/gvarna-apartamenty.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | €166 ★ | €166 ★ | — | 170 m from the station; 9.3 (578) |
 
-**Bookable sites only (re-checked ~14:00).** Comparison sites (Bluepillow, HomeToGo, trivago…) are excluded. Agoda prices are **your signed-in VIP price with coupons applied**. Totals are for 1 adult.
+**Bookable sites only (re-checked ~14:00).** Only real booking sites count: Booking, Agoda, Expedia, Hotels.com, Priceline, Trip.com, Hostelworld, or the property's own site. Super.com, Bluepillow, HomeToGo and similar are excluded. Agoda prices are **your signed-in VIP price with coupons applied**. Totals are for 1 adult.
 
 | Property | Sat 10 → Tue 13 | **Sun 11 → Wed 14** | Cheapest bookable site |
 |---|---|---|---|
 | Luma Terra, 8-bed dorm | Agoda €62 | **[Agoda €62.50](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-11&checkout=2026-10-14&NumberofAdults=1&NumberofChildren=0&Rooms=1)** | Agoda (coupon −$10); Booking €72 |
-| White Wolf House, female dorm | — | **[Agoda €70](https://www.agoda.com/partners/partnersearch.aspx?hid=47587699&checkin=2026-10-11&checkout=2026-10-14&NumberofAdults=1&NumberofChildren=0&Rooms=1)** | own site ~€66–81, Booking €87 |
-| Pension Brezina | Super.com / Agoda €213–214 | **Super.com €166** (Booking €171, Agoda €172) | Super.com, confirmed on its own page |
+| White Wolf House, female dorm | — | **[Own site €65.91](https://www.whitewolfhostel.com/reservations/?arrival=2026-10-11&departure=2026-10-14&persons=1)** · Agoda €70 ([link](https://www.agoda.com/partners/partnersearch.aspx?hid=47587699&checkin=2026-10-11&checkout=2026-10-14&NumberofAdults=1&NumberofChildren=0&Rooms=1)** | Own site (confirmed on its booking page); Booking €87 |
+| Pension Brezina | Expedia ~€231 (to confirm) · Booking €242 | **[Booking €171](https://www.booking.com/hotel/cz/brezina-pension.html?checkin=2026-10-11&checkout=2026-10-14&group_adults=1&no_rooms=1&selected_currency=EUR)** = Priceline = Agoda €172 | Booking |
 | Hotel DAP | Booking / Agoda €268 (breakfast) | not available on Agoda | — |
 | Aparthotel City 5 | €309 | Agoda €306 | — |
 | Nowy Świat Suite (Wrocław) | €147 for 3 nights, Wed 7–Sat 10 · €79 for 2 nights, Wed 7–Fri 9 | | Booking = Agoda (no coupon) |
@@ -147,7 +147,7 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 
 | Property | Booking | Agoda | Google Hotels sellers | Notes |
 |---|---|---|---|---|
-| 💰 [Pension Brezina](https://www.booking.com/hotel/cz/brezina-pension.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €242 | €242 | **Super.com 925 PLN ≈ €211 ★** (checked on Super.com, incl. taxes & fees) | 8.5 (1,380), 7% bad, location 9.1; **1.1 km from Praha hl.n.**, 1.6 km to the Old Town |
+| 💰 [Pension Brezina](https://www.booking.com/hotel/cz/brezina-pension.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €242 | €242 | Expedia ~€231 on Maps (Super.com excluded: not a booking site) | 8.5 (1,380), 7% bad, location 9.1; **1.1 km from Praha hl.n.**, 1.6 km to the Old Town |
 | [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €268 *(the €242 "1 left" rate is gone)* | €268 | "Closest Hotel" PLN 352/n ≈ €241 (unknown reseller; breakfast probably not included) | Booking's rate includes breakfast |
 | [City Pop Prague](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **€265 ★** | not listed | not on Google | 9.0 (2,212), 6% bad |
 | [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €309 | sold out | trivago ≈ €303 | 9.8, 0% bad |
@@ -161,7 +161,7 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 
 ## ⚡ Book Prague first (weekend)
 
-> **Update 12:00:** the €242 Hotel DAP rate has sold, and it's now €268. See the cross-check table above: Brezina via Super.com (€211) is the cheapest private room.
+> **Update 12:00:** the €242 Hotel DAP rate has sold, and it's now €268. Cheapest private room on a real booking site: Brezina, Booking €171 (Sun 11 → Wed 14).
 
 Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adult](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) is €242 for 3 nights with breakfast, and Booking shows "We have 1 left" at that rate.** The next rate is €268.
 
