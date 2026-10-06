@@ -104,6 +104,16 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 | | [Studio Centrum](https://www.booking.com/hotel/pl/studio-centrum-wroclaw.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (studio with kitchen) | €47 (€140) | 8.9 (only 34 reviews) · 9.9 | 420 m / 1.1 km |
 | 💰 | [Hotel Traffic Stare Miasto](https://www.booking.com/hotel/pl/traffic.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **Google Hotels €38**, Booking €46 (2-night check) | 9.0 (**3,889**), 4% bad · 9.8 | 430 m / 0.9 km. ⚠️ Didn't show in the 3-night sweep, so check Friday availability |
 
+## ⚡ Book Prague first (weekend)
+
+Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adult](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) is €242 for 3 nights with breakfast, and Booking shows "We have 1 left" at that rate.** The next rate is €268.
+
+- Google Hotels shows ~€80/night through another seller ("Closest Hotel") and €89/night for Booking without Genius. Your Genius rate (€81/night with breakfast) matches the cheapest anywhere.
+- The Old Town itself runs €120+ on every site this weekend. The good hostels have only dorms left.
+- Backups:
+  - [City Pop Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR): €264, some room types show 1–3 left.
+  - [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR): €309, rated 9.8.
+
 ## 5 · Prague: 3 nights (Sat 10 → Tue 13), +1 optional
 
 | Day | Plan (forecast) |
