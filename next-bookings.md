@@ -84,17 +84,44 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
   👉 [Koleo: Białystok → Wrocław Główny](https://koleo.pl/rozklad-pkp/bialystok/wroclaw-glowny/07-10-2026_08:00)
 - **B. Stay a second night** for a **Białowieża Forest** day trip (primeval forest, wild bison; about 1 h 40 each way), then go to Wrocław on Thu 8. Extend the same room by a night.
 
-## 4 · Wrocław, 2 nights (Wed 7 → Fri 9): not researched yet
+## 4 · Wrocław: 3 nights (Wed 7 → Sat 10)
 
-- Median 8+ private room was about **€32/night** in the 3 Oct sweep.
-- Shortlist starting points (8.5+ reviews and location still to be checked):
-  - [Booking: Wrocław, 9+, within 1 km, 1 adult](https://www.booking.com/searchresults.html?ss=Wroc%C5%82aw&checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&group_children=0&selected_currency=EUR&order=price&nflt=review_score%3D90%3Bdistance%3D1000)
-  - [Google Hotels: Wrocław](https://www.google.com/travel/search?q=hotels%20in%20Wroc%C5%82aw)
-  - Chase Travel: search *Wroclaw Old Town*, 1 guest. About $50 of hotel credit should be left after Białystok.
-- Free things to do: the Market Square, Ostrów Tumski at dusk (the gas lamps are lit by hand), the dwarf statues, Centennial Hall and Szczytnicki Park.
+**Why 3 nights:** the Wrocław → Prague bus costs €34–38 on Friday but **€17–19 on Saturday**, and Prague beds cost about twice Wrocław's. The extra night here is cheaper than a Prague night, and you reach Prague for its sunny Sun–Tue.
 
-## 5 · Fri 9 (or Thu 8): Wrocław → Prague
+| Day | Plan (forecast) |
+|---|---|
+| **Wed 7** | Morning: **Sybir Museum, free on Wednesdays** (opens 9:30). Train **11:32 → Wrocław 17:27** (1 change, 86 zł), or 12:15 → 19:12 direct. Evening: Market Square, then **Ostrów Tumski at dusk**, when the gas lamps are lit by hand (sunset 18:16). Free |
+| **Thu 8** (21 °C, some rain) | Old Town: Town Hall, Market Hall, St Elizabeth's tower, the dwarf statues (free), the Nadodrze street-art quarter; Panorama Racławicka or the National Museum if it rains |
+| **Fri 9** (15 °C, 9 h of sun) | **Outdoors: hike Ślęża**, the 718 m "holy mountain" about 1 h away by train or bus (free). Or Centennial Hall (UNESCO), Szczytnicki Park and the Japanese Garden |
+| **Sat 10** | FlixBus **09:30 → Prague Florenc 13:50** or 10:30 → 14:45 (**€18.99–19.49**) · [FlixBus Sat 10](https://shop.flixbus.lt/search?departureCity=40de575f-8646-11e6-9066-549f350fcb0c&arrivalCity=40de1ad1-8646-11e6-9066-549f350fcb0c&rideDate=10.10.2026&adult=1&_locale=en&currency=EUR) |
 
-- FlixBus, about 4 h, **€15.49–15.99**, many departures a day.
-  👉 [FlixBus Wrocław → Prague, Fri 9 Oct](https://shop.flixbus.lt/search?departureCity=40de575f-8646-11e6-9066-549f350fcb0c&arrivalCity=40de1ad1-8646-11e6-9066-549f350fcb0c&rideDate=09.10.2026&adult=1&_locale=en&currency=EUR) (the `.lt` storefront prices in € and was the cheapest; the US `.com` one shows $)
-- Prague forecast: cloudy Thu 8, 13 °C on Fri 9, showers Sat 10, **sunny Sun 11 – Tue 13**.
+**Wrocław stays, 3 nights, 1 adult.** Booking sweep: 8.5+, ≤6% of reviews under 7, location 9+.
+
+| | Property | €/night (3n total) | Score (reviews) · location | To Market Square / station |
+|---|---|---|---|---|
+| ⭐ | [Nowy Świat Suite](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (whole 1-bedroom flat) | **€49 (€147)** | 9.2 (164), 3% bad · **9.8** | 400 m / 1.7 km |
+| 🚉 | [Gvarna Apartamenty](https://www.booking.com/hotel/pl/gvarna-apartamenty.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (double room) | €55 (€166) | **9.3 (578)**, 2% bad · 9.6 | 1.2 km / **170 m** from the train and bus stations |
+| | [Studio Centrum](https://www.booking.com/hotel/pl/studio-centrum-wroclaw.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (studio with kitchen) | €47 (€140) | 8.9 (only 34 reviews) · 9.9 | 420 m / 1.1 km |
+| 💰 | [Hotel Traffic Stare Miasto](https://www.booking.com/hotel/pl/traffic.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **Google Hotels €38**, Booking €46 (2-night check) | 9.0 (**3,889**), 4% bad · 9.8 | 430 m / 0.9 km. ⚠️ Didn't show in the 3-night sweep, so check Friday availability |
+
+## 5 · Prague: 3 nights (Sat 10 → Tue 13), +1 optional
+
+| Day | Plan (forecast) |
+|---|---|
+| **Sat 10** (17 °C, showers) | Arrive at Florenc about 14:00. Old Town Square, the Astronomical Clock, the Jewish Quarter streets, **Charles Bridge at dusk** (free) |
+| **Sun 11** (sunny) | **Prague Castle grounds** (free to walk; interiors paid), Lesser Town, **Petřín Hill on foot** (free), Strahov |
+| **Mon 12** (sunny) | **Vyšehrad** fortress and the riverside (free), Letná beer garden, *or* a day trip to **Bohemian Switzerland** (Pravčická brána rock arch, about 1½ h by train via Děčín) |
+| **Tue 13** | Onward to Slovenia; the Prague → Ljubljana night bus is to be priced. Or stay one more sunny day |
+
+**Prague stays, 3 nights, 1 adult.** Central Prague costs €80+ on every channel this weekend, and the good hostels have **only dorms left** (Czech Inn dorm from €15 on Google Hotels).
+
+| | Property | €/night (3n total) | Score (reviews) · location | To Old Town / Florenc |
+|---|---|---|---|---|
+| ⭐💰 | [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (**breakfast included**, Dejvice, metro A) | **€81 (€242)** | 8.8 (1,308), 4% bad · 9.3 | 2.3 km (metro) / 3.4 km |
+| | [City Pop Prague Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (studio) | €88 (€264) | 9.0 (**2,211**), 6% bad · 9.4 | 1.35 km / 1.6 km |
+| ✨ | [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (1-bedroom flat) | €103 (€309) | **9.8 (649), 0% bad** · 9.6 | 2.2 km / 3.2 km |
+
+**Still to check:**
+- **Chase Travel:** the session expired, so sign in and search **1 adult**. About $50 of hotel credit is left, roughly a Wrocław night or half a Prague night.
+- **Google Hotels** for the Prague finalists.
+- Then save these to Maps (sights → Want to go, food → Restaurants, the stay → Starred).
