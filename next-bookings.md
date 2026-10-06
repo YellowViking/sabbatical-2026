@@ -95,7 +95,14 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 | **Fri 9** (15 °C, 9 h of sun) | **Outdoors: hike Ślęża**, the 718 m "holy mountain" about 1 h away by train or bus (free). Or Centennial Hall (UNESCO), Szczytnicki Park and the Japanese Garden |
 | **Sat 10** | 🚆 **Train IC 261 "Baltic Express" Wrocław Główny 09:13 → Praha hl.n. 13:14**, direct, 4 h, **722 CZK (≈ €29)** on České dráhy · [IDOS timetable with ČD cart](https://idos.cz/en/vlakyautobusy/spojeni/vysledky/?date=10.10.2026&time=08:00&f=Wroclaw%20Glowny&fc=100003&t=Praha%20hl.n.&tc=100003). Also sold by PKP Intercity. Fallback: FlixBus 09:30, €19 |
 
-**Wrocław stays, 3 nights, 1 adult.** Booking sweep: 8.5+, ≤6% of reviews under 7, location 9+.
+**Wrocław stays, 3 nights, 1 adult: ✅ decided on a private room** (still getting over the illness). Booking sweep: 8.5+, ≤6% of reviews under 7, location 9+.
+
+**Live re-check, Tue 6 Oct afternoon:**
+- **Nowy Świat Suite:** Booking €147 = Agoda $164.80 (≈ €147). Google Hotels has no rates ("call or visit website") and there's no direct engine. **Book it.**
+- **Gvarna:** Booking €166 = Agoda $185.54 (≈ €166).
+- **Studio Centrum:** now €168 on Booking, not €140, and not available on Agoda.
+- **Hotel Traffic:** now €216 on Booking (1 left) and $211.69 ≈ €189 on Agoda, so ❌ out.
+- **Chase Travel:** not checked yet (needs sign-in). The $50 credit could take ~€45 off if a property is listed there.
 
 | | Property | €/night (3n total) | Score (reviews) · location | To Market Square / station |
 |---|---|---|---|---|
