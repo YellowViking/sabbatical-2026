@@ -6,6 +6,14 @@
 
 ---
 
+> ### ✅ Plan as of Tue 6 Oct, afternoon (no detours: little time left)
+> | When | What | Book |
+> |---|---|---|
+> | Wed 7 → Sat 10 | Wrocław, **Nowy Świat Suite** (private, recovering), €147 for 3 nights | [Booking](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (Agoda same price) |
+> | Sat 10 | 🚆 IC 261 **09:13 → Praha hl.n. 13:14**, 722 CZK. *Optional:* Wrocław parkrun 9:00 at Jaz Opatowicki, then IC 263 13:13 → 17:14 (573 CZK) | [IDOS](https://idos.cz/en/vlakyautobusy/spojeni/vysledky/?date=10.10.2026&time=08:00&f=Wroclaw%20Glowny&fc=100003&t=Praha%20hl.n.&tc=100003) |
+> | Sat 10 → Tue 13 | Prague, **Luma Terra 8-bed mixed dorm**, ~€62 for 3 nights with your Agoda coupon (Booking €72). Curtains, kitchen, 840 m from hl.n. | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-10&checkout=2026-10-13&NumberofAdults=1&NumberofChildren=0&Rooms=1) |
+> | Tue 13 | Onward to Slovenia by rail (to plan) | |
+
 ## 1 · Today, Tue 6 Oct: train Vilnius → Białystok
 
 - **LTG Link 12:35 → Białystok 17:07**, about 4½ h with one same-platform change at Mockava. **€23** (non-refundable fare; the flexible fare costs more).
