@@ -34,7 +34,21 @@ The filter: overall score ≥ 8.5, at least 20 reviews, 6% or fewer of reviews u
 
 [Google Hotels, Białystok](https://www.google.com/travel/search?q=hotels%20in%20Bia%C5%82ystok) is the index. Set the dates and 1 guest, and use "View prices" for each property.
 
-**Evening (sunset 17:52):** Branicki Palace gardens (free), Kościuszko Market Square, Podlasie food (potato babka, kartacze).
+**Evening (sunset 17:52):** Branicki Palace gardens (free), then Kościuszko Market Square.
+
+**Food tonight.** Ratings, addresses and price bands are from Google's business panels (6 Oct). Dishes come from Google AI Mode, so treat them as leads. Exchange rate: about 4 zł per $1.
+
+| Place | Google rating | Where | Price | Order |
+|---|---|---|---|---|
+| ⭐ **Enklawa** | 4.7 | Rynek Kościuszki 26a (on the square) | 40–80 zł | potato babka (*babka ziemniaczana*), beef tartare |
+| **Multibrowar** (brewpub) | 4.6 | Icchoka Malmeda 8, about 270 m from the square | 40–60 zł | *kartacze* (meat-filled potato dumplings), *żurek* (sour rye soup), house beer |
+| Zapiecek | 4.5 | Rynek Kościuszki 13 | 40–60 zł | *kartacze*, pierogi |
+| 💰 **Bar Podlasie** (Społem milk bar) | 4.5 | Rynek Kościuszki 15 | **20–40 zł** | cheap *kartacze*, babka, pierogi. ⚠️ Milk bars usually close around 18:00, so it may be tight after a 17:07 train |
+| Gospoda Podlaska | 4.3 | Rynek Kościuszki 18 | 40–60 zł | regional menu: *kartacze*, babka, *solyanka* |
+| Halva (Tatar cuisine) | 4.7 | Rycerska 1, **4 km out** (taxi) | 40–120 zł | *pierekaczewnik* (Tatar layered pie), Tatar dumplings |
+
+Skip Kartaczewnia (Lipowa 2): 3.9 on Google.
+
 
 ## 3 · Wed 7: onward (pick one)
 
