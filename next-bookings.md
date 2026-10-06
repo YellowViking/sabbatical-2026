@@ -18,6 +18,23 @@
 > | Fri 16 → Sun 18 | 🚆 Lesce-Bled → Ljubljana, ~1 h (10:01 / 11:32 / 12:43). **Ljubljana, 2 nights** (1 is enough if short on time) | to price |
 > | Sun 18 | 🚆 Ljubljana **14:45 → Zagreb 17:23**, direct, 623 CZK ≈ €25 → Plitvice → Split | |
 
+## 🚆 Every train: exact times and changes (from IDOS, 6 Oct)
+
+| Day | Train(s) | Depart → Arrive | Change? |
+|---|---|---|---|
+| **Tue 6** | LTG IC 33 → PKP IC 141 "Hańcza" | Vilnius **12:35** → Mockava 14:52 🇱🇹 · Mockava **15:12 🇱🇹 (14:12 🇵🇱)** → **Białystok 17:07** | **1 change at Mockava, 20 min.** Clocks go back 1 h at the border |
+| **Wed 7** ⭐ | IC 145 "Wigry" → IC 1642 "Fredro" | Białystok **11:32** → Warszawa Centralna 13:07 · **13:20** → **Wrocław Gł. 17:27** | **1 change at Warszawa Centralna, 13 min** |
+| Wed 7, alt. | IC 1628 "Mickiewicz" | Białystok **12:15** → Wrocław **19:12** | **Direct** |
+| Wed 7, alt. | IC 1626 "Leśmian" | Białystok **10:15** → Wrocław **16:43** | **Direct** (no time for the Sybir Museum) |
+| **Fri 9** | IC 261 "Baltic Express" | Wrocław Gł. **09:13** → **Praha hl.n. 13:14** | **Direct** |
+| **Mon 12** ⭐ | rj 275 → EC 203 → rj 750 | Praha **7:37** → Břeclav 10:47 · **10:55** → Wien Hbf 11:49 · **12:24** → **Graz 15:00** | **2 changes: Břeclav (8 min), Vienna (35 min)** |
+| Mon 12, alt. | rj 277 → EC 103 → WESTbahn | Praha **9:37** → Břeclav 12:47 · **12:55** → Wien 13:49 · **14:15** → **Graz 16:44** | 2 changes (Břeclav 8 min, Vienna 26 min) |
+| **Tue 13** ⭐ | rjx 19556 → D 313 | Graz **9:22** → Villach 10:27 · **10:38** → **Lesce-Bled 11:31** | **1 change at Villach, 11 min** |
+| Tue 13, alt. | rjx 133 → D 315 | Graz **11:22** → Villach 12:27 · **12:38** → **Lesce-Bled 13:28** | 1 change (Villach, 11 min) |
+| **Fri 16** | R 2411 / D 313 / R 2415 | Lesce-Bled **10:01→10:59** / **11:32→12:27** / **12:43→13:51** Ljubljana | **Direct** |
+| **Sun 18** | INT 211 "Sava" | Ljubljana **14:45** → **Zagreb Gl. 17:23** | **Direct** (EC 115 "Mimara" 16:45→19:20 also direct) |
+| After Zagreb | — | Zagreb → Plitvice → Split | **No train to Plitvice: bus.** Zagreb → Split has a direct train if you skip Plitvice |
+
 ## 1 · Today, Tue 6 Oct: train Vilnius → Białystok
 
 - **LTG Link 12:35 → Białystok 17:07**, about 4½ h with one same-platform change at Mockava. **€23** (non-refundable fare; the flexible fare costs more).
