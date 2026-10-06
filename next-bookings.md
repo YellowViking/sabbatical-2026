@@ -120,7 +120,37 @@ The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 
 A private flat (Nowy Świat €49) costs €32/night more than a Mleczarnia bunk.
 
+## 🔎 Cross-checked finalists (Tue 6 Oct, ~12:00, 1 adult, 3-night totals)
+
+Narrowed on Booking until the results fit one page, then checked **Booking · Agoda · Google Hotels (every seller) · direct site**. Chase Travel is still to do (signed out). ★ = cheapest channel. Rates: $1 = €0.8925, €1 = 4.38 PLN.
+
+**Wrocław, Wed 7 → Sat 10 (private)**
+
+| Property | Booking | Agoda | Google / direct | Notes |
+|---|---|---|---|---|
+| ⭐ [Nowy Świat Suite](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **€147 ★** | €147 ★ | not sold on Google | Whole flat, 9.2, 3% bad, location 9.8, 400 m to the Market Square |
+| [ProperUNIT Bright Apartment](https://www.booking.com/hotel/pl/properunit-bright-apartment-in-old-town-with-ac.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **€149 ★** | €177 | — | 9.5 but only 20 reviews |
+| [Gvarna Apartamenty](https://www.booking.com/hotel/pl/gvarna-apartamenty.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | €166 ★ | €166 ★ | — | 170 m from the station; 9.3 (578) |
+
+**Prague, Sat 10 → Tue 13: private**
+
+| Property | Booking | Agoda | Google Hotels sellers | Notes |
+|---|---|---|---|---|
+| 💰 [Pension Brezina](https://www.booking.com/hotel/cz/brezina.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €242 | €242 | **Super.com 925 PLN ≈ €211 ★** (checked on Super.com, incl. taxes & fees) | 8.5 (1,380), 7% bad, location 9.1; **1.1 km from Praha hl.n.**, 1.6 km to the Old Town |
+| [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €268 *(the €242 "1 left" rate is gone)* | €268 | "Closest Hotel" PLN 352/n ≈ €241 (unknown reseller; breakfast probably not included) | Booking's rate includes breakfast |
+| [City Pop Prague](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **€265 ★** | not listed | not on Google | 9.0 (2,212), 6% bad |
+| [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €309 | sold out | trivago ≈ €303 | 9.8, 0% bad |
+
+**Prague, Sat 10 → Tue 13: dorm**
+
+| Property | Booking | Agoda | Direct / Google | Notes |
+|---|---|---|---|---|
+| ⭐ [Luma Terra](https://www.booking.com/hotel/cz/luma-terra-prague-hostel.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) 8-bed | **€72 ★** | €72 ★ | direct (Cloudbeds) €79.76 | Curtains confirmed in the photos; ⚠️ its own site lists "bar crawls" as an amenity |
+| [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €87 ★ (female dorm only) | €86 | Google PLN 139/n | |
+
 ## ⚡ Book Prague first (weekend)
+
+> **Update 12:00:** the €242 Hotel DAP rate has sold, and it's now €268. See the cross-check table above: Brezina via Super.com (€211) is the cheapest private room.
 
 Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adult](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) is €242 for 3 nights with breakfast, and Booking shows "We have 1 left" at that rate.** The next rate is €268.
 
