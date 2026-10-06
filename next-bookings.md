@@ -6,13 +6,16 @@
 
 ---
 
-> ### ✅ Plan as of Tue 6 Oct, afternoon (no detours: little time left)
+> ### ✅ Plan as of Tue 6 Oct, ~15:00: Wrocław cut to 2 nights, everything one day earlier
 > | When | What | Book |
 > |---|---|---|
-> | Wed 7 → Sat 10 | Wrocław, **Nowy Świat Suite** (private, recovering), €147 for 3 nights | [Booking](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) (Agoda same price) |
-> | Sat 10 | 🚆 IC 261 **09:13 → Praha hl.n. 13:14**, 722 CZK. *Optional:* Wrocław parkrun 9:00 at Jaz Opatowicki, then IC 263 13:13 → 17:14 (573 CZK) | [IDOS](https://idos.cz/en/vlakyautobusy/spojeni/vysledky/?date=10.10.2026&time=08:00&f=Wroclaw%20Glowny&fc=100003&t=Praha%20hl.n.&tc=100003) |
-> | Sat 10 → Tue 13 | Prague, **Luma Terra, "1 Person in 8-Bed Dormitory – Mixed"**: **Agoda $69 ≈ €62** for 3 nights incl. taxes (pay now, AGODASPONSORED −$11), or $77 with free cancellation. Own site €79.89, Booking €80. ✅ checked live Tue 6 Oct ~14:00. White Wolf has no mixed beds left for Sat. Curtains, kitchen, 840 m from hl.n. | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-10&checkout=2026-10-13&NumberofAdults=1&NumberofChildren=0&Rooms=1) |
-> | Tue 13 | Onward to Slovenia by rail (to plan) | |
+> | Wed 7 → Fri 9 | Wrocław, **Nowy Świat Suite** (private flat), **€79 for 2 nights** | [Booking](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) (Agoda same) |
+> | Fri 9 | 🚆 IC 261 Baltic Express **09:13 → Praha hl.n. 13:14**, direct, 921 CZK ≈ €38 (České dráhy or PKP Intercity) | [IDOS](https://idos.cz/en/vlakyautobusy/spojeni/vysledky/?date=09.10.2026&time=08:00&f=Wroclaw%20Glowny&fc=100003&t=Praha%20hl.n.&tc=100003) |
+> | Fri 9 → Mon 12 | Prague, **Luma Terra 8-bed mixed dorm**: **Agoda $71 ≈ €64** for 3 nights with your coupon (Booking €80). White Wolf is sold out | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-09&checkout=2026-10-12&NumberofAdults=1&NumberofChildren=0&Rooms=1) |
+> | Mon 12 | 🚆 Prague → **Graz** (~7 h via Vienna, about €37). 1 night | to price |
+> | Tue 13 → Thu 15 | 🚆 Graz → **Ljubljana** (~3½ h). 2 nights | to price |
+> | Thu 15 → Sun 18 | 🚆 Ljubljana → Lesce-Bled (50 min). **Bled / Bohinj, 3 nights**, sunny Thu–Mon | to price |
+> | Sun 18 / Mon 19 → | Zagreb → Plitvice → Split (rain in Bled Tue 20) | |
 
 ## 1 · Today, Tue 6 Oct: train Vilnius → Białystok
 
