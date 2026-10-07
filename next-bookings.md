@@ -50,6 +50,44 @@ Chase links work only while you're signed in to Chase, and this search session e
 - **Free:** Rynek 30's twin on Chase, $0 with the credit (about $20 left).
 - **Most comfortable for the money:** Nowy Świat flat at €65, or Hotel Traffic on Agoda at €82.
 
+
+## 🍽 Wrocław tonight (Wed 7): food & beer, prices checked 7 Oct
+
+Prices come from each place's own menu: Konspira's website, Szynkarnia's PDF (15 Sep), Targowa's menu board and Stu Mostów's booking page. Ze Smakiem and Spiż prices are from guest photos of their menus. Tap counts are from ontap.pl, ratings from Google Maps. About 4 zł = $1. Distances are from the flat on Nowy Świat. Every place is saved in Maps: food in **Restaurants**, bars in **Craft beer 🍺**.
+
+**What a good price is here:** a plate of pierogi **27–35 zł for 9** (the Rynek charges 45–56) · żurek **≤ 30 zł** · Silesian roulade **65–75 zł** · craft beer **18–23 zł per 0.5 l** (25+ is premium) · bread with lard **1 zł at Spiż** (27–30 elsewhere).
+
+### Food
+
+| | Place | Order (price) | Open today | Map |
+|---|---|---|---|---|
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWno5Q1Q97LAZMnYEKHodQxIHnB09Tsm_Wmj8m7nmZqMlbO3lVHpbSR-m98wEj-sArCKHsTp-VPjJbiKDURSl1gb5ACdfUsVSKvUiy_7NvHSZa-1zilzHBfEu5FbQY6x_BEouf2dIArSu612=w800-h600-k-no" width="150"> | ⭐💰 **Ze Smakiem**<br>Św. Mikołaja 32/33 · 220 m<br>4.9★ (1.4k) | **Ruskie, 27 zł for 9** · mushroom 31 · duck & cranberry 39 · beef & chanterelle 42 | until **20:00** | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Ze%20Smakiem%2C%20%C5%9Awi%C4%99tego%20Miko%C5%82aja%2032/33%2C%20Wroc%C5%82aw) |
+| <img src="https://restauracjakonspira.pl/img/menu/dg-rolada.jpg" width="150"> | **Konspira** (1980s-underground theme)<br>Plac Solny 11 · 340 m<br>4.6★ (12.5k) | **Silesian beef roulade 72.99 zł** · żurek 34.99 (in a bread bowl 44.99) · peasant pierogi ×7 42.99 · Student set (gzik) 34.99 | kitchen until 22:00; walk in | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Konspira%2C%20Plac%20Solny%2011%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpJAyr4IyMctEaYINtby_0u_3Y8uBStYLWfoQUa6WqtZWxLdDUzLPrrriU4EZmUC-MPL_oY-_rkkGpM09eaWS3ZbExeumsjhhsVRoD1O-sWoKr-hn6-9UDRqEp4Z9p-7P-hdBPMHe47Sg=w800-h600-k-no" width="150"> | **Targowa** (16 craft taps)<br>Piaskowa 17, in the Market Hall · 830 m<br>4.5★ (8k) | **Żurek 24 zł** · Silesian roulade 68 · beer-cured pork knuckle 68 · beef cheeks 68 · *skip the pierogi (48)* | until midnight | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Targowa%20Craft%20Beer%20and%20Food%2C%20Piaskowa%2017%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2dsc97mz1UQkgzQh4JT0iTjenZXPLXbD5UT4UewydkG90oPF2s0lZN5AIEDL0d8AGrLvlftqDwaJgSLMJHfG4SK72_MAmC1hgVJMbbrXBmFEq711nnM5snffZdwBDagADO_48bQ=w800-h600-k-no" width="150"> | **Szynkarnia** (17 craft taps)<br>Św. Antoniego 15 · 390 m<br>4.6★ (5.7k) | **Blood sausage (kaszanka) 42 zł** · flatbread (podpłomyk) 34–43 · tartare 45 · schabowy 49 | 16:00–24:00 | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Szynkarnia%2C%20%C5%9Awi%C4%99tego%20Antoniego%2015%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1oL-EIbm762vFsEqQSXlvtYm9lfEDLOX_e8MpLPs2Vi13VMLslZlMvQAq05xTR0ZKptI5eBslg2OwCuF1rClYrUw8RmkEZoEjWsyN-KGIu5cti0MIZvjuGvzKtJ-jWaNVqd4=w800-h600-k-no" width="150"> | 💰 **Bar Pierożek**<br>Sądowa 7 · ~900 m<br>4.6★ (698) | Pierogi, 20–40 zł (prices not online) | until **19:00** | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Bar%20Piero%C5%BCek%2C%20S%C4%85dowa%207%2C%20Wroc%C5%82aw) |
+
+### Beer (more than 10 taps, or brewed on site)
+
+| | Place | Taps | Price | Map |
+|---|---|---|---|---|
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5WRTlYaXA1YhajV9MQo0aLqeDXtg6GDuLjBIiFW7BWle3VGdCoY2MrgumgMnAqQCp4KjZ9doHBKxAcnf9cxc_iakw4Jy7AEeJJBVG71OzeQvrmnAOCjQxAN9EdoR2-vM01z8w=w800-h600-k-no" width="150"> | ⭐ **Szynkarnia** | 17 rotating taps, an English hand pump, a Czech side-pull tap | **0.5 l 18–25 zł** (Czech 11° lager 18) | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Szynkarnia%2C%20%C5%9Awi%C4%99tego%20Antoniego%2015%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qdx8ld_GsV4M93wi9luJSp41TrwMkOX2W-x9IHSEN0B-3l9vCiiJC42orUbVxsNPmByy-2zs3f5qFdkHi25wjMdz8UenD0I6mEwEc_cmvhZPLMgb1_0H1wo5LuVzHm4xNfJH0uUABqTWw2=w800-h600-k-no" width="150"> | **Bistro Stu Mostów**<br>Świdnicka 4a · 560 m | 20 taps (Stu Mostów + guests) | **Flight 4×150 ml 37 zł** · ⚠️ recent warm-beer reviews | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Bistro%20Stu%20Most%C3%B3w%2C%20%C5%9Awidnicka%204a%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-H-qrSiHJWJSD5DLJKdyuVPN3khqMj6-Bma96oWuLtH_aGvyxJgc1L7zFHRQ610Jy7PzYUu63ZFRcWyjJGC7UdKRB8EZ7rK6GxmSEFkNwm0tbFNjbhVvBMr_PJk2IjE-za_gZzA=w800-h600-k-no" width="150"> | **Targowa** | 16 taps | 0.5 l 17–23 zł | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Targowa%20Craft%20Beer%20and%20Food%2C%20Piaskowa%2017%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ScwZvyWIBXO7RcPFrmsL_mpAZKIF1fnXZxZFBpDNFWPrYT7ZrgHg2qoQATLriU1VbR2ce3alxLeBlO3REL7fV99jNqKcaSXp4A0cQS8_1fE8IoaEBy5HWQrXtBeNqjDPdnT2va2A=w800-h600-k-no" width="150"> | **AleBrowar**<br>Włodkowica 27 · 450 m | 13 taps, all its own beers | ~20 zł · bright room | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=AleBrowar%2C%20Paw%C5%82a%20W%C5%82odkowica%2027%2C%20Wroc%C5%82aw) |
+| <img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWke92cpY_DXtwLfyqpxBJ1-Wd8EnruCKgNtYps3v_Tdc5YhhAjcKk8v9P4Rqiso9sI_qlZut2PmSv5uEuz0yu_d_zKa20RCrIoW5CaK4y1_rhdPsdvVjBWraFoLMkJ4I41L_p8Xkqsouc-7=w800-h600-k-no" width="150"> | **Spiż** (brews on site)<br>Rynek, under the Town Hall · 350 m | 8 house beers | **Flight 4×125 ml 30 zł** · 0.5 l 20–21 · **lard bread 1 zł** | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Spi%C5%BC%2C%20Rynek-Ratusz%202%2C%20Wroc%C5%82aw) |
+
+**Plan:**
+
+1. **Ze Smakiem ruskie, 27 zł.** Go before 19:30.
+2. **Two lagers at Szynkarnia, 36 zł.**
+3. **Stu Mostów flight, 37 zł.**
+4. **Spiż lard bread, 1 zł**, plus a beer if you want one.
+
+That comes to **≈ 110 zł (~$27)**. If you'd rather sit down at one place: Targowa, with żurek, the roulade and 2 beers, ≈ 135 zł + 10% tip.
+
+Skipped: **Pub Pod Trzema Miotłami** is a Harry Potter cocktail bar, not a beer bar. **Pierogarnia Stary Młyn** on the Rynek charges tourist prices.
+
 ## 🛏 Prague Fri 9 → Mon 12 (3 nights), swept Wed 7 ~10:00
 
 **Weather:** Fri ☀ 10 h · **Sat rain (9 mm)**, a museum day · Sun ☀ 10 h · Mon ☀ 6 h.
