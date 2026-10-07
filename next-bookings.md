@@ -18,6 +18,27 @@
 > | Fri 16 → Sun 18 | 🚆 Lesce-Bled → Ljubljana, ~1 h (10:01 / 11:32 / 12:43). **Ljubljana, 2 nights** (1 is enough if short on time) | to price |
 > | Sun 18 | 🚆 Ljubljana **14:45 → Zagreb 17:23**, direct, 623 CZK ≈ €25 → Plitvice → Split | |
 
+## 🛏 Wrocław tonight: Wed 7 → Fri 9 (2 nights, 1 adult), checked ~00:30 Wed
+
+Starter III (Dyrekcyjna 1) is **sold out everywhere**, Chase included. Prices are 2-night totals with taxes. Agoda = your signed-in price with coupon. $1 ≈ €0.89.
+
+| | Property | Cheapest real site | Booking | Agoda | Chase | Reviews · bad · location | Distance |
+|---|---|---|---|---|---|---|---|
+| 💰 | [Nowy Świat Suite](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) (whole flat) | **€65** Booking = Agoda | €65 | $73 | not listed | 9.2 (164) · 3% · 9.8 | 420 m Market Sq · 1.7 km station |
+| ⭐ | [Hotel Traffic Stare Miasto](https://www.agoda.com/partners/partnersearch.aspx?hid=6502213&checkin=2026-10-07&checkout=2026-10-09&NumberofAdults=1&NumberofChildren=0&Rooms=1) (hotel, small room) | **Agoda $92 ≈ €82** | €92 | **$92** (−$15 coupon) | $114.74 | 9.0 (3,889) · 4% · 9.8 | 430 m Market Sq · 0.9 km station |
+| 🎟 | Kamienica Pod Aniołami | **Chase $112 → ≈ $12 after the $100 credit** | €117 | $119 | **$112.39** | 9+ (2,942) · 5% · 9.7 | 330 m Market Sq · 1.2 km station |
+| 🎟 | A.S HOME Kościuszki II | Chase $101 → ≈ $1 after credit | €98 | — | $101.38 | (99) · 4% · 9.2 | **370 m station** |
+| | [Vena apartment](https://www.booking.com/hotel/pl/vena-apartment.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €84 Booking | €84 | $95 | — | 9.3 (86) · 2% · 9.6 | 1.2 km · 2.3 km |
+| | [Apartament Domo](https://www.booking.com/hotel/pl/apartament-domo.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €86 Booking | €86 | $97 | — | 9.3 (187) · 3% · 9.7 | 380 m · 1.7 km |
+| | [Apartamenty Hexus](https://www.booking.com/hotel/pl/apartamenty-hexus-ofiar-oswiecimskich.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €87 Booking | €87 | $105 | — | 9.6 (140) · 1% · 9.9 | **150 m Market Sq** · 1.2 km |
+| | A.S.HOME Kościuszki 89 | €88 Booking | €88 | $99 | — | 9.3 (110) · 2% · 9.4 | **400 m station** |
+| | Odrzańska Residence | Chase $114 | €119 | $121 | $114.36 | (2,136) · 6% · 9.7 | 270 m Market Sq |
+
+**Pick:**
+- **Cheapest:** Nowy Świat Suite at €65.
+- **Using the $100 Chase credit:** Kamienica Pod Aniołami, ≈ $12 out of pocket.
+- **Best hotel for cash:** Traffic on Agoda, €82.
+
 ## 🚆 Every train: exact times and changes (from IDOS, 6 Oct)
 
 | Day | Train(s) | Depart → Arrive | Change? |
