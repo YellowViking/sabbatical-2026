@@ -30,8 +30,8 @@ Starter III (Dyrekcyjna 1) is **sold out everywhere**, Chase included. Prices ar
 | 🎟 | A.S HOME Kościuszki II | Chase $101 → ≈ $1 after credit | €98 | — | $101.38 | (99) · 4% · 9.2 | **370 m station** |
 | | [Vena apartment](https://www.booking.com/hotel/pl/vena-apartment.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €84 Booking | €84 | $95 | — | 9.3 (86) · 2% · 9.6 | 1.2 km · 2.3 km |
 | | [Apartament Domo](https://www.booking.com/hotel/pl/apartament-domo.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €86 Booking | €86 | $97 | — | 9.3 (187) · 3% · 9.7 | 380 m · 1.7 km |
-| | [Apartamenty Hexus](https://www.booking.com/hotel/pl/apartamenty-hexus-ofiar-oswiecimskich.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €87 Booking | €87 | $105 | — | 9.6 (140) · 1% · 9.9 | **150 m Market Sq** · 1.2 km |
-| | A.S.HOME Kościuszki 89 | €88 Booking | €88 | $99 | — | 9.3 (110) · 2% · 9.4 | **400 m station** |
+| | [Apartamenty Hexus](https://www.booking.com/hotel/pl/apartamenty-hexus-ofiar-oswiecimskich-wroclaw-rynek.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €87 Booking | €87 | $105 | — | 9.6 (140) · 1% · 9.9 | **150 m Market Sq** · 1.2 km |
+| | [A.S.HOME Kościuszki 89](https://www.booking.com/hotel/pl/ashome-kosciuszki-89.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €88 Booking | €88 | $99 | — | 9.3 (110) · 2% · 9.4 | **400 m station** |
 | | Odrzańska Residence | Chase $114 | €119 | $121 | $114.36 | (2,136) · 6% · 9.7 | 270 m Market Sq |
 
 **Pick:**
