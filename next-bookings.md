@@ -63,6 +63,20 @@ Chase links work only while you're signed in to Chase, and this search session e
 | | [Arbes 10 "At the yellow Duck"](https://www.booking.com/hotel/cz/at-the-yellow-duck.html?checkin=2026-10-09&checkout=2026-10-12&group_adults=1&no_rooms=1&selected_currency=EUR), whole 1-bedroom flat | Booking €245 | Agoda n/a | 34 · 0% · 9.6 | Smíchov, 1.6 km from Old Town; the cheapest good private |
 | | City Pop Aparthotel | Booking €341 | — | 2,220 · 6% · 9.4 | |
 
+
+**Prague hostels: every platform, Fri 9 → Mon 12, cheapest mixed or male dorm bed, 3 nights, € (checked Wed 7 ~11:30; $1 ≈ €0.89)**
+
+| Hostel | Chase (after the $100 credit) | Agoda* | Booking | Hostelworld | Own site | Bad reviews · curtains |
+|---|---|---|---|---|---|---|
+| ⭐ **Luma Terra** | €76 8-bed / €87 7-bed mixed → **€0** | €64 | €80 | €80 | €80 (8-bed, non-refundable) | **5%** · ✅ |
+| Onefam Arbes | €68 → €0 | €76 | €84 | **€71** | — | 8% · ✅ |
+| Little Quarter | €61 → €0 | €71 | €78 | **€64** | — | 9% · ? |
+| Equity Point | €62 → €0 | €65 | not found | not listed | — | ? (no review data) |
+| Hostel One Home | €82 → €0 | €59 | — | no mixed dorm left | — | ? |
+| Hostel Relax | €46 → €0 | €55 | €60 | — | — | ❌ **41%** |
+
+\*Agoda shows the cheapest bed of any type, so it could be a women-only dorm; check the room name at checkout.
+
 - **Sold out** for Fri–Mon: Brezina, Hotel DAP, Aparthotel City 5, White Wolf.
 - **Other dorms run happy hours:** Onefam Míru, Prague Dream, Czech Inn, Sir Toby's.
 - **Agoda + Hostelworld city-wide sweeps (7 Oct):** cheaper beds are only at party/happy-hour hostels (Czech Inn €50, Sir Toby's €57) or Orange (€56, 11% bad). Wellness Rooms Central (€95 for 3 nights) has 26% bad reviews, so it's out.
