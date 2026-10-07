@@ -57,15 +57,43 @@ Prices come from each place's own menu: Konspira's website, Szynkarnia's PDF (15
 
 **What a good price is here:** a plate of pierogi **27–35 zł for 9** (the Rynek charges 45–56) · żurek **≤ 30 zł** · Silesian roulade **65–75 zł** · craft beer **18–23 zł per 0.5 l** (25+ is premium) · bread with lard **1 zł at Spiż** (27–30 elsewhere).
 
-### Food
+### Food: one photo per dish
 
-| | Place | Order (price) | Open today | Map |
-|---|---|---|---|---|
-| <img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWno5Q1Q97LAZMnYEKHodQxIHnB09Tsm_Wmj8m7nmZqMlbO3lVHpbSR-m98wEj-sArCKHsTp-VPjJbiKDURSl1gb5ACdfUsVSKvUiy_7NvHSZa-1zilzHBfEu5FbQY6x_BEouf2dIArSu612=w800-h600-k-no" width="150"> | ⭐💰 **Ze Smakiem**<br>Św. Mikołaja 32/33 · 220 m<br>4.9★ (1.4k) | **Ruskie, 27 zł for 9** · mushroom 31 · duck & cranberry 39 · beef & chanterelle 42 | until **20:00** | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Ze%20Smakiem%2C%20%C5%9Awi%C4%99tego%20Miko%C5%82aja%2032/33%2C%20Wroc%C5%82aw) |
-| <img src="https://restauracjakonspira.pl/img/menu/dg-rolada.jpg" width="150"> | **Konspira** (1980s-underground theme)<br>Plac Solny 11 · 340 m<br>4.6★ (12.5k) | **Silesian beef roulade 72.99 zł** · żurek 34.99 (in a bread bowl 44.99) · peasant pierogi ×7 42.99 · Student set (gzik) 34.99 | kitchen until 22:00; walk in | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Konspira%2C%20Plac%20Solny%2011%2C%20Wroc%C5%82aw) |
-| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpJAyr4IyMctEaYINtby_0u_3Y8uBStYLWfoQUa6WqtZWxLdDUzLPrrriU4EZmUC-MPL_oY-_rkkGpM09eaWS3ZbExeumsjhhsVRoD1O-sWoKr-hn6-9UDRqEp4Z9p-7P-hdBPMHe47Sg=w800-h600-k-no" width="150"> | **Targowa** (16 craft taps)<br>Piaskowa 17, in the Market Hall · 830 m<br>4.5★ (8k) | **Żurek 24 zł** · Silesian roulade 68 · beer-cured pork knuckle 68 · beef cheeks 68 · *skip the pierogi (48)* | until midnight | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Targowa%20Craft%20Beer%20and%20Food%2C%20Piaskowa%2017%2C%20Wroc%C5%82aw) |
-| <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2dsc97mz1UQkgzQh4JT0iTjenZXPLXbD5UT4UewydkG90oPF2s0lZN5AIEDL0d8AGrLvlftqDwaJgSLMJHfG4SK72_MAmC1hgVJMbbrXBmFEq711nnM5snffZdwBDagADO_48bQ=w800-h600-k-no" width="150"> | **Szynkarnia** (17 craft taps)<br>Św. Antoniego 15 · 390 m<br>4.6★ (5.7k) | **Blood sausage (kaszanka) 42 zł** · flatbread (podpłomyk) 34–43 · tartare 45 · schabowy 49 | 16:00–24:00 | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Szynkarnia%2C%20%C5%9Awi%C4%99tego%20Antoniego%2015%2C%20Wroc%C5%82aw) |
-| <img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1oL-EIbm762vFsEqQSXlvtYm9lfEDLOX_e8MpLPs2Vi13VMLslZlMvQAq05xTR0ZKptI5eBslg2OwCuF1rClYrUw8RmkEZoEjWsyN-KGIu5cti0MIZvjuGvzKtJ-jWaNVqd4=w800-h600-k-no" width="150"> | 💰 **Bar Pierożek**<br>Sądowa 7 · ~900 m<br>4.6★ (698) | Pierogi, 20–40 zł (prices not online) | until **19:00** | [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Bar%20Piero%C5%BCek%2C%20S%C4%85dowa%207%2C%20Wroc%C5%82aw) |
+#### ⭐💰 Ze Smakiem (pierogi, 9 per plate)
+
+Św. Mikołaja 32/33 · 220 m · 4.9★ (1.4k) · open until **20:00** · photos are the restaurant's own · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Ze%20Smakiem%2C%20%C5%9Awi%C4%99tego%20Miko%C5%82aja%2032/33%2C%20Wroc%C5%82aw)
+
+<table><tr><td align="center" width="25%"><img src="https://restaumatic-production.imgix.net/uploads/accounts/259903/media_library/780f2ae8-de6c-468f-9261-ba255509de25.jpg?auto=compress%2Cformat&fit=crop&w=400&h=300" width="200"><br><b>Ruskie (potato & farmer's cheese) ⭐</b><br>**27 zł**</td><td align="center" width="25%"><img src="https://restaumatic-production.imgix.net/uploads/accounts/259903/media_library/b92189b0-b4e5-4f0b-8f95-841a3b878b14.jpg?auto=compress%2Cformat&fit=crop&w=400&h=300" width="200"><br><b>Pork</b><br>**34 zł**</td><td align="center" width="25%"><img src="https://restaumatic-production.imgix.net/uploads/accounts/259903/media_library/aac34df4-21ba-44ed-ab75-23e900eebe80.jpg?auto=compress%2Cformat&fit=crop&w=400&h=300" width="200"><br><b>Veal & chanterelle</b><br>**42 zł**</td><td align="center" width="25%"><img src="https://restaumatic-production.imgix.net/uploads/accounts/259903/media_library/4110b9b5-c2fb-4d29-950b-12fb95abf3ee.jpg?auto=compress%2Cformat&fit=crop&w=400&h=300" width="200"><br><b>Blueberry (sweet)</b><br>**31 zł**</td></tr></table>
+
+#### Konspira (hearty Polish food, 1980s-underground theme)
+
+Plac Solny 11 · 340 m · 4.6★ (12.5k) · kitchen until 22:00, walk in · photos are the restaurant's own · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Konspira%2C%20Plac%20Solny%2011%2C%20Wroc%C5%82aw)
+
+<table><tr><td align="center" width="25%"><img src="https://restauracjakonspira.pl/img/menu/dg-rolada.jpg" width="200"><br><b>Silesian beef roulade ⭐</b><br>**72.99 zł**<br><sub>Silesian dumplings, red cabbage</sub></td><td align="center" width="25%"><img src="https://restauracjakonspira.pl/img/menu/zupy-zurek-w-chlebie.jpg" width="200"><br><b>Żurek (sour rye soup)</b><br>**34.99 zł**</td><td align="center" width="25%"><img src="https://restauracjakonspira.pl/img/menu/zupy-zurek.jpg" width="200"><br><b>Żurek in a bread bowl</b><br>**44.99 zł**</td><td align="center" width="25%"><img src="https://restauracjakonspira.pl/img/menu/pierogi-chlopskie.jpg" width="200"><br><b>Peasant pierogi ×7</b><br>**42.99 zł**<br><sub>potato, bacon, curd & smoked cheese</sub></td></tr><tr><td align="center" width="25%"><img src="https://restauracjakonspira.pl/img/menu/przystawki-gzik.jpg" width="200"><br><b>Student set (gzik)</b><br>**34.99 zł**<br><sub>herbed curd cheese & jacket potatoes</sub></td></tr></table>
+
+#### Targowa (16 craft taps + Polish food)
+
+Piaskowa 17, in the Market Hall · 830 m · 4.5★ (8k) · until midnight · guest photos from Google Maps · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Targowa%20Craft%20Beer%20and%20Food%2C%20Piaskowa%2017%2C%20Wroc%C5%82aw)
+
+<table><tr><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmd97Ob2TEmYfLIs067KNI2pKqbZVCg9aMJm8al6V5r1ZBD6bUXM5yrVyRHzIAqOVk7k9CfmFsMwz7MzGwaV9RJyybaGU4vJB0R8gRxyYd6N3IUpuS4kQgYS8-C7RgJF7vgtl07sDlYOt8=w600-h450-k-no" width="200"><br><b>Żurek</b><br>**24 zł** 💰<br><sub>soup photo, probably żurek</sub></td><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmHmB88Le_OZ539sgjkgrSzHRQiHK4IveIhQc6hyMRXScOU47Ceq7zO3DXduOYNjfic7CamrwlqnbArjiYxhHm0UGpULYWezfIERlMbpKhsQ2vB7W74wjjLttQX6K7au5SgHpTKI12-b3j=w600-h450-k-no" width="200"><br><b>Silesian beef roulade ⭐</b><br>**68 zł**</td><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmA8fz59nrCGjU5od3I22dwf0yMwfux6A3F5Mxp4OjF5N8jAtWLj8zEp2695qUQDnJyLmE2Qw7lIfedw2ag2JsvujmdbTDnhyvdIDawu0Dh5V46K5qOIT3eVDmJJVqqpaPROTg=w600-h450-k-no" width="200"><br><b>Beer-cured pork knuckle</b><br>**68 zł**<br><sub>most-mentioned dish (141 reviews)</sub></td><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaZt2C3UPn1RTsmLf6-Pr81xsDGNSPOKNjmfbhERBHLTpmPDoDlmhLTrDAnyfNX9aAONuteorq6cozjqEkW4lYdg6u8OiRCaCTDf10wiZDj8-Wf6qsf2GrSmokTaV21YMa2ppu=w600-h450-k-no" width="200"><br><b>Beef cheeks in dark beer</b><br>**68 zł**</td></tr><tr><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlp1m8XDszQzM-lEBA4LUz1CghbzW1iOfFW5_AfS19k7fbyWBYlccF_uW9B2ZP4cnYOLNW_x2nXEUdlWI3wEuSYpedUec1P7jWEUbWNh06iGnmHFSTOQaPmqyey4Zn6_3xZBkO-=w600-h450-k-no" width="200"><br><b>Schabowy (pork cutlet fried in lard, egg)</b><br>**64 zł**</td></tr></table>
+
+#### Szynkarnia (17 craft taps + snacks)
+
+Św. Antoniego 15 · 390 m · 4.6★ (5.7k) · 16:00–24:00 · guest photos from Google Maps · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Szynkarnia%2C%20%C5%9Awi%C4%99tego%20Antoniego%2015%2C%20Wroc%C5%82aw)
+
+<table><tr><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2dsc97mz1UQkgzQh4JT0iTjenZXPLXbD5UT4UewydkG90oPF2s0lZN5AIEDL0d8AGrLvlftqDwaJgSLMJHfG4SK72_MAmC1hgVJMbbrXBmFEq711nnM5snffZdwBDagADO_48bQ=w600-h450-k-no" width="200"><br><b>Kaszanka (blood sausage)</b><br>**42 zł**<br><sub>likely match</sub></td><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkf_jPHFiAhbS_L23YuIVEs3Xq85xvIsY3UG08PpfIiwvSkNaml3bTL805_Nl1Jvv4siMZNPSC4xF7gPL8uvyC0Zg64Zakez8vAEk6X0TykmcA5HqQ8AkecvGo9hEmDjC0hrRBU=w600-h450-k-no" width="200"><br><b>Podpłomyk (sourdough flatbread)</b><br>**34–43 zł**</td><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RR0MmmH1knlPM07c58Uy08yLSLBfGqbN2RA2iybWVorAvvfKbQuTXxXDpWrsBAwivutd2CdsYnI7MpuesJApdnD7at9I_CWFd8rPxxSstzPDoovXF9fXvL_j9tQLd7gKAXUkXxYw6mOW19=w600-h450-k-no" width="200"><br><b>Beef tartare</b><br>**45 zł**</td></tr></table>
+
+#### 💰 Bar Pierożek
+
+Sądowa 7 · ~900 m · 4.6★ (698) · until **19:00** · prices not online · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Bar%20Piero%C5%BCek%2C%20S%C4%85dowa%207%2C%20Wroc%C5%82aw)
+
+<table><tr><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1oL-EIbm762vFsEqQSXlvtYm9lfEDLOX_e8MpLPs2Vi13VMLslZlMvQAq05xTR0ZKptI5eBslg2OwCuF1rClYrUw8RmkEZoEjWsyN-KGIu5cti0MIZvjuGvzKtJ-jWaNVqd4=w800-h600-k-no" width="200"><br><b>Pierogi (strawberry shown)</b><br>20–40 zł</td></tr></table>
+
+#### Spiż (house beer + 1 zł lard bread)
+
+Rynek, under the Town Hall · 350 m · until midnight · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Spi%C5%BC%2C%20Rynek-Ratusz%202%2C%20Wroc%C5%82aw)
+
+<table><tr><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWke92cpY_DXtwLfyqpxBJ1-Wd8EnruCKgNtYps3v_Tdc5YhhAjcKk8v9P4Rqiso9sI_qlZut2PmSv5uEuz0yu_d_zKa20RCrIoW5CaK4y1_rhdPsdvVjBWraFoLMkJ4I41L_p8Xkqsouc-7=w800-h600-k-no" width="200"><br><b>Lard bread + house beer</b><br>**1 zł** + 20–21 zł (0.5 l)<br><sub>tasting flight 4×125 ml 30 zł</sub></td></tr></table>
 
 ### Beer (more than 10 taps, or brewed on site)
 
