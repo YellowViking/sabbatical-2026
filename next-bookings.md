@@ -18,27 +18,35 @@
 > | Fri 16 → Sun 18 | 🚆 Lesce-Bled → Ljubljana, ~1 h (10:01 / 11:32 / 12:43). **Ljubljana, 2 nights** (1 is enough if short on time) | to price |
 > | Sun 18 | 🚆 Ljubljana **14:45 → Zagreb 17:23**, direct, 623 CZK ≈ €25 → Plitvice → Split | |
 
-## 🛏 Wrocław tonight: Wed 7 → Fri 9 (2 nights, 1 adult), checked ~00:30 Wed
+## 🛏 Wrocław tonight: Wed 7 → Fri 9 (2 nights, 1 adult), full sweep ~01:00 Wed
 
-Starter III (Dyrekcyjna 1) is **sold out everywhere**, Chase included. Prices are 2-night totals with taxes. Agoda = your signed-in price with coupon. $1 ≈ €0.89.
+How this was swept:
+- **Chase:** all 321 Wrocław stays; for the 38 under $140 within 3 km, I read the **whole room list** and kept the cheapest *private* room.
+- **Booking:** every hostel rated 8+ within 2 km, plus all apartments and hotels rated 8+, again reading the room lists.
+- **Agoda:** your signed-in prices for the finalists.
 
-| | Property | Cheapest real site | Booking | Agoda | Chase | Reviews · bad · location | Distance |
-|---|---|---|---|---|---|---|---|
-| 💰 | [Nowy Świat Suite](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) (whole flat) | **€65** Booking = Agoda | €65 | $73 | not listed | 9.2 (164) · 3% · 9.8 | 420 m Market Sq · 1.7 km station |
-| ⭐ | [Hotel Traffic Stare Miasto](https://www.agoda.com/partners/partnersearch.aspx?hid=6502213&checkin=2026-10-07&checkout=2026-10-09&NumberofAdults=1&NumberofChildren=0&Rooms=1) (hotel, small room) | **Agoda $92 ≈ €82** | €92 | **$92** (−$15 coupon) | $114.74 | 9.0 (3,889) · 4% · 9.8 | 430 m Market Sq · 0.9 km station |
-| 🎟 | **Rynek 30 Hostel, private twin** ("Classic Double Room, courtyard view", 2 single beds, 10 m²) | **Chase $80 → $0 after the credit** (≈$20 credit left) | twin €97 | — | **$80** · men-only dorm bed $42 | 8.7 (1,552) · **8%** · 9.8 | **on the Market Square** · 1.4 km station |
-| 🎟 | Kamienica Pod Aniołami | **Chase $112 → ≈ $12 after the $100 credit** | €117 | $119 | **$112.39** | 9+ (2,942) · 5% · 9.7 | 330 m Market Sq · 1.2 km station |
-| 🎟 | A.S HOME Kościuszki II | Chase $101 → ≈ $1 after credit | €98 | — | $101.38 | (99) · 4% · 9.2 | **370 m station** |
-| | [Vena apartment](https://www.booking.com/hotel/pl/vena-apartment.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €84 Booking | €84 | $95 | — | 9.3 (86) · 2% · 9.6 | 1.2 km · 2.3 km |
-| | [Apartament Domo](https://www.booking.com/hotel/pl/apartament-domo.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €86 Booking | €86 | $97 | — | 9.3 (187) · 3% · 9.7 | 380 m · 1.7 km |
-| | [Apartamenty Hexus](https://www.booking.com/hotel/pl/apartamenty-hexus-ofiar-oswiecimskich-wroclaw-rynek.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €87 Booking | €87 | $105 | — | 9.6 (140) · 1% · 9.9 | **150 m Market Sq** · 1.2 km |
-| | [A.S.HOME Kościuszki 89](https://www.booking.com/hotel/pl/ashome-kosciuszki-89.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | €88 Booking | €88 | $99 | — | 9.3 (110) · 2% · 9.4 | **400 m station** |
-| | Odrzańska Residence | Chase $114 | €119 | $121 | $114.36 | (2,136) · 6% · 9.7 | 270 m Market Sq |
+Prices are 2-night totals with taxes. Women-only rooms are excluded. "Bad" = share of reviews under 7.
+
+**Shortlist** (≤ 8% bad reviews):
+
+| | Property · room | Cheapest real site | Other sites | Reviews · bad · location | To Market Sq / station |
+|---|---|---|---|---|---|
+| 💰 | [VICE CITY Hostel](https://www.booking.com/hotel/pl/vice-city-hostel.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) · private **small twin** | **Booking €54** | — | 2,471 · 7% · 9.6 | 410 m / 1.45 km |
+| 💰 | [Nowy Świat Suite](https://www.booking.com/hotel/pl/nowy-swiat-suite.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) · whole flat | **€65** Booking = Agoda | not on Chase | 164 · 3% · 9.8 | 420 m / 1.7 km |
+| 🎟 | Rynek 30 Hostel · private twin, courtyard, own bathroom | **Chase $80 → $0 with the credit** | Booking €97 | 1,552 · 8% · 9.8 | on the square / 1.24 km |
+| ⭐ | [Hotel Traffic Stare Miasto](https://www.agoda.com/partners/partnersearch.aspx?hid=6502213&checkin=2026-10-07&checkout=2026-10-09&NumberofAdults=1&NumberofChildren=0&Rooms=1) · hotel room | **Agoda $92 ≈ €82** | Booking €92, Chase $115 | 3,889 · 4% · 9.8 | 430 m / 0.9 km |
+| | [Vena apartment](https://www.booking.com/hotel/pl/vena-apartment.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | Booking €84 | Agoda $95 | 86 · 2% · 9.6 | 1.2 km / 2.3 km |
+| | [Apartament Domo](https://www.booking.com/hotel/pl/apartament-domo.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | Booking €86 | Agoda $97 | 187 · 3% · 9.7 | 380 m / 1.7 km |
+| | [Apartamenty Hexus](https://www.booking.com/hotel/pl/apartamenty-hexus-ofiar-oswiecimskich-wroclaw-rynek.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | Booking €87 | Agoda $105 | 140 · 1% · 9.9 | **150 m** / 1.2 km |
+| | [A.S.HOME Kościuszki 89](https://www.booking.com/hotel/pl/ashome-kosciuszki-89.html?checkin=2026-10-07&checkout=2026-10-09&group_adults=1&no_rooms=1&selected_currency=EUR) | Booking €88 | Agoda $99 | 110 · 2% · 9.4 | 1.2 km / **400 m** |
+| 🎟 | Kamienica Pod Aniołami · double | **Chase $112 → ≈ $12 with the credit** | Booking €117, Agoda $119 | 2,942 · 5% · 9.7 | 330 m / 1.2 km |
+
+**Rejected:** too many bad reviews (Krasnal 41%, hostelswidnicka24 18%, U Szermierzy 20%, MoHo S/M/L 12–21%, Great Polonia Dwarf 13%, Wratislavia 13%, Babel 12%, Bemma 10%, Moon 9%), female-only (GIRLSTEL), or sold out (Starter III). Coffee House (Chase $75.52) has no reviews to check.
 
 **Pick:**
-- **Cheapest:** Nowy Świat Suite at €65.
-- **Using the $100 Chase credit:** Rynek 30's private twin is **free** ($80, and about $20 of credit stays unused). Kamienica Pod Aniołami is the nicer place at ≈ $12 out of pocket.
-- **Best hotel for cash:** Traffic on Agoda, €82.
+- **Cheapest decent private room:** VICE CITY twin, €54 on Booking.
+- **Free:** Rynek 30's twin on Chase, $0 with the credit (about $20 left).
+- **Most comfortable for the money:** Nowy Świat flat at €65, or Hotel Traffic on Agoda at €82.
 
 ## 🚆 Every train: exact times and changes (from IDOS, 6 Oct)
 
