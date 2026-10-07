@@ -90,7 +90,7 @@ Chase links work only while you're signed in to Chase, and this search session e
 | **Wed 7** ✅ chosen | **IC 1626 "Leśmian"** | Białystok **10:15** → **Wrocław Gł. 16:43** | **Direct**, 85 zł on [Koleo](https://koleo.pl/) |
 | Wed 7, alt. | IC 145 "Wigry" → IC 1642 "Fredro" | Białystok **11:32** → Warszawa Centralna 13:07 · **13:20** → **Wrocław Gł. 17:27** | 1 change at Warszawa Centralna, 13 min (86 zł) |
 | Wed 7, alt. | IC 1628 "Mickiewicz" | Białystok **12:15** → Wrocław **19:12** | **Direct** |
-| **Fri 9** | IC 261 "Baltic Express" | Wrocław Gł. **09:13** → **Praha hl.n. 13:14** | **Direct** |
+| **Fri 9** | IC 261 "Baltic Express" | Wrocław Gł. **09:13** → **Praha hl.n. 13:14** | **Direct.** Cheapest: **[České dráhy](https://www.cd.cz/en/spojeni-a-jizdenka/) 921 CZK ≈ €38**; PKP Intercity e-IC 198.91 PLN ≈ €45 |
 | **Mon 12** ⭐ | **rj 251 "Vindobona"** | **Praha-Holešovice 10:36** → **Graz Hbf 17:19** (metro C from I.P. Pavlova, by Luma Terra, to Nádraží Holešovice, 4 stops) | **Direct.** Cheapest: **[ÖBB €36.30](https://shop.oebbtickets.at/en/ticket)** (from Praha-Holesovice to Graz Hbf, Mon 12 Oct, 10:00). ČD 1,245 CZK ≈ €51 |
 | Mon 12, alt. | rj 53 / rj 255 "Vindobona" | Praha hl.n. **6:37 → 13:19** / **14:37 → 21:19** | **Direct** |
 | Mon 12, alt. | rj 275 → EC 203 → rj 750 | Praha hl.n. **7:37** → Břeclav 10:47 · **10:55** → Wien 11:49 · **12:24** → **Graz 15:00** | 2 changes (Břeclav 8 min, Vienna 35 min), 909 CZK |
