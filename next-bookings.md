@@ -56,6 +56,7 @@ Chase links work only while you're signed in to Chase, and this search session e
 
 | | Property | Cheapest real site | Other sites | Reviews · bad · location | Notes |
 |---|---|---|---|---|---|
+| 🎟⭐ | **Luma Terra on Chase Travel: "1 Person in 7-Bed Dormitory – Mixed" $97.70 → $0 with the $100 credit** (8-bed $85 → $0) | Chase | | | Pay with the Sapphire card so the credit applies |
 | ⭐ | Luma Terra, 8-bed **mixed** dorm | **[Agoda $71 ≈ €64](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-09&checkout=2026-10-12&NumberofAdults=1&NumberofChildren=0&Rooms=1)** (coupon −$10) | Booking €80 | 3,055 · 5% · 9.3 | Kitchen, privacy curtains, no happy hour; 840 m from hl.n. Check that it says **"Mixed"** at checkout |
 | | Onefam Arbes, 8-bed mixed dorm | **Hostelworld ≈ €71** | Booking €84 | 420 · 8% · 9.1 (Hostelworld 95%) | Kitchen; no happy-hour flag, but Onefam hostels are social (family dinners). Smíchov, 1.7 km from Old Town |
 | | The Clock Inn, dorm | Hostelworld ≈ €75 | — | Hostelworld 90% (2,019) | ⚠️ Rooftop bar + bar, so a party risk |
@@ -65,7 +66,7 @@ Chase links work only while you're signed in to Chase, and this search session e
 - **Sold out** for Fri–Mon: Brezina, Hotel DAP, Aparthotel City 5, White Wolf.
 - **Other dorms run happy hours:** Onefam Míru, Prague Dream, Czech Inn, Sir Toby's.
 - **Agoda + Hostelworld city-wide sweeps (7 Oct):** cheaper beds are only at party/happy-hour hostels (Czech Inn €50, Sir Toby's €57) or Orange (€56, 11% bad). Wellness Rooms Central (€95 for 3 nights) has 26% bad reviews, so it's out.
-- **Chase Travel not checked** (you're signed out). Its $100 credit could bring a €250–340 private down to about €160–250.
+- **Chase Travel (checked 7 Oct ~11:00, 800 listings, room lists read):** dorms Luma Terra $85–98, Onefam Arbes $76, Equity Point $69 (all $0 after the credit). Cheapest decent private: Gallery Hotel SIS $269 → $169 after the credit (3.2 km out). Brezina and White Wolf are sold out there too.
 
 ## 🚆 Every train: exact times and changes (from IDOS, 6 Oct)
 
