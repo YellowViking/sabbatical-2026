@@ -50,6 +50,20 @@ Chase links work only while you're signed in to Chase, and this search session e
 - **Free:** Rynek 30's twin on Chase, $0 with the credit (about $20 left).
 - **Most comfortable for the money:** Nowy Świat flat at €65, or Hotel Traffic on Agoda at €82.
 
+## 🛏 Prague Fri 9 → Mon 12 (3 nights), swept Wed 7 ~10:00
+
+**Weather:** Fri ☀ 10 h · **Sat rain (9 mm)**, a museum day · Sun ☀ 10 h · Mon ☀ 6 h.
+
+| | Property | Cheapest real site | Other sites | Reviews · bad · location | Notes |
+|---|---|---|---|---|---|
+| ⭐ | Luma Terra, 8-bed **mixed** dorm | **[Agoda $71 ≈ €64](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-09&checkout=2026-10-12&NumberofAdults=1&NumberofChildren=0&Rooms=1)** (coupon −$10) | Booking €80 | 3,055 · 5% · 9.3 | Kitchen, privacy curtains, no happy hour; 840 m from hl.n. Check that it says **"Mixed"** at checkout |
+| | [Arbes 10 "At the yellow Duck"](https://www.booking.com/hotel/cz/arbes-10-at-the-yellow-duck.html?checkin=2026-10-09&checkout=2026-10-12&group_adults=1&no_rooms=1&selected_currency=EUR), whole 1-bedroom flat | Booking €245 | Agoda n/a | 34 · 0% · 9.6 | Smíchov, 1.6 km from Old Town; the cheapest good private |
+| | City Pop Aparthotel | Booking €341 | — | 2,220 · 6% · 9.4 | |
+
+- **Sold out** for Fri–Mon: Brezina, Hotel DAP, Aparthotel City 5, White Wolf.
+- **Other dorms run happy hours:** Onefam Míru, Prague Dream.
+- **Chase Travel not checked** (you're signed out). Its $100 credit could bring a €250–340 private down to about €160–250.
+
 ## 🚆 Every train: exact times and changes (from IDOS, 6 Oct)
 
 | Day | Train(s) | Depart → Arrive | Change? |
