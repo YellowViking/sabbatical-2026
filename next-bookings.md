@@ -30,6 +30,8 @@
 
 ## 🚆 Every train: exact times and changes (from IDOS, 6 Oct)
 
+> ⚠️ Rows up to **Fri 9** were ridden or are current. **Mon 12 onward (Graz routing) is superseded** by the proposed route above; its trains are listed there.
+
 | Day | Train(s) | Depart → Arrive | Change? |
 |---|---|---|---|
 | **Tue 6** | LTG IC 33 → PKP IC 141 "Hańcza" | Vilnius **12:35** → Mockava 14:52 🇱🇹 · Mockava **15:12 🇱🇹 (14:12 🇵🇱)** → **Białystok 17:07** | **1 change at Mockava, 20 min.** Clocks go back 1 h at the border |
