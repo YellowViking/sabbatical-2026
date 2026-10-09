@@ -5,7 +5,7 @@
 
 ---
 
-## 🛏 Prague Fri 9 → Mon 12 (3 nights), swept Wed 7 ~10:00
+## 🛏 Prague Fri 9 → Mon 12 (3 nights), swept Wed 7 Oct ~10:00
 
 **Weather:** Fri ☀ 10 h · **Sat rain (9 mm)**, a museum day · Sun ☀ 10 h · Mon ☀ 6 h.
 
@@ -152,14 +152,14 @@ Left out at 10 taps or fewer: The Beer Spot, Drinkøtéka, Dno pytle, Beer & Fri
 | [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | mixed beds sold out for Sat 10–Tue 13; from Sun 11 the mixed bunk is €93 on Booking, €75.97 on its own site | | | |
 
 
-### ⚡ Book Prague first (weekend)
+### ⚡ Prague booking urgency (6 Oct, superseded)
 
-> **Update 12:00:** the €242 Hotel DAP rate has sold, and it's now €268. Cheapest private room on a real booking site: Brezina, Booking €171 (Sun 11 → Wed 14).
+> **Update 6 Oct 12:00:** the €242 Hotel DAP rate had sold and risen to €268. Cheapest private room on a real booking site: Brezina, Booking €171 (Sun 11 → Wed 14).
 
 Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adult](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) is €242 for 3 nights with breakfast, and Booking shows "We have 1 left" at that rate.** The next rate is €268.
 
 - Google Hotels shows ~€80/night through another seller ("Closest Hotel") and €89/night for Booking without Genius. Your Genius rate (€81/night with breakfast) matches the cheapest anywhere.
-- The Old Town itself runs €120+ on every site this weekend. The good hostels have only dorms left.
+- The Old Town itself ran €120+ on every site for the weekend of 10–13 Oct. The good hostels have only dorms left.
 - Backups:
   - [City Pop Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR): €264, some room types show 1–3 left.
   - [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR): €309, rated 9.8.
@@ -174,7 +174,7 @@ Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adu
 | **Mon 12** (sunny) | **Vyšehrad** fortress and the riverside (free), Letná beer garden, *or* a day trip to **Bohemian Switzerland** (Pravčická brána rock arch, about 1½ h by train via Děčín) |
 | **Tue 13** | Onward to Slovenia; the Prague → Ljubljana night bus is to be priced. Or stay one more sunny day |
 
-**Prague stays, 3 nights, 1 adult.** Central Prague costs €80+ on every channel this weekend, and the good hostels have **only dorms left** (Czech Inn dorm from €15 on Google Hotels).
+**Prague stays, 3 nights, 1 adult.** Central Prague cost €80+ on every channel for the weekend of 10–13 Oct, and the good hostels have **only dorms left** (Czech Inn dorm from €15 on Google Hotels).
 
 | | Property | €/night (3n total) | Score (reviews) · location | To Old Town / Florenc |
 |---|---|---|---|---|

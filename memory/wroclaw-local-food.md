@@ -5,7 +5,7 @@
 
 ---
 
-## 🛏 Wrocław tonight: Wed 7 → Fri 9 (2 nights, 1 adult), full sweep ~01:00 Wed
+## 🛏 Wrocław lodging: Wed 7 → Fri 9 (2 nights, 1 adult), swept ~01:00 Wed 7 Oct
 
 How this was swept:
 - **Chase:** all 321 Wrocław stays; for the 38 under $140 within 3 km, I read the **whole room list** and kept the cheapest *private* room.
@@ -38,7 +38,7 @@ Chase links work only while you're signed in to Chase, and this search session e
 - **Most comfortable for the money:** Nowy Świat flat at €65, or Hotel Traffic on Agoda at €82.
 
 
-## 🍽 Wrocław tonight (Wed 7): food & beer, prices checked 7 Oct
+## 🍽 Wrocław food & beer (Wed 7 → Fri 9), prices checked 7 Oct
 
 Prices come from each place's own menu: Konspira's website, Szynkarnia's PDF (15 Sep), Targowa's menu board and Stu Mostów's booking page. Ze Smakiem and Spiż prices are from guest photos of their menus. Tap counts are from ontap.pl, ratings from Google Maps. About 4 zł = $1. Distances are from the flat on Nowy Świat. Every place is saved in Maps: food in **Restaurants**, bars in **Craft beer 🍺**.
 
@@ -122,10 +122,10 @@ Skipped: **Pub Pod Trzema Miotłami** is a Harry Potter cocktail bar, not a beer
 **Wrocław stays, 3 nights, 1 adult: ✅ decided on a private room** (still getting over the illness). Booking sweep: 8.5+, ≤6% of reviews under 7, location 9+.
 
 **Live re-check, Tue 6 Oct afternoon:**
-- **Nowy Świat Suite:** Booking €147 = Agoda $164.80 (≈ €147). Google Hotels has no rates ("call or visit website") and there's no direct engine. **Book it.**
+- **Nowy Świat Suite:** Booking €147 = Agoda $164.80 (≈ €147). Google Hotels has no rates ("call or visit website") and there's no direct engine. → **Chosen** (the 2-night Wed 7 → Fri 9 stay).
 - **Gvarna:** Booking €166 = Agoda $185.54 (≈ €166).
-- **Studio Centrum:** now €168 on Booking, not €140, and not available on Agoda.
-- **Hotel Traffic:** now €216 on Booking (1 left) and $211.69 ≈ €189 on Agoda, so ❌ out.
+- **Studio Centrum:** €168 by 6 Oct on Booking, not €140, and not available on Agoda.
+- **Hotel Traffic:** €216 by 6 Oct on Booking (1 left) and $211.69 ≈ €189 on Agoda, so ❌ out.
 - **Chase Travel:** not checked yet (needs sign-in). The $50 credit could take ~€45 off if a property is listed there.
 
 | | Property | €/night (3n total) | Score (reviews) · location | To Market Square / station |
@@ -147,7 +147,7 @@ A private flat (Nowy Świat €49) costs €32/night more than a Mleczarnia bunk
 
 ### 🔎 Cross-checked finalists (Tue 6 Oct, ~12:00, 1 adult, 3-night totals)
 
-Narrowed on Booking until the results fit one page, then checked **Booking · Agoda · Google Hotels (every seller) · direct site**. Chase Travel is still to do (signed out). ★ = cheapest channel. Rates: $1 = €0.8925, €1 = 4.38 PLN.
+Narrowed on Booking until the results fit one page, then checked **Booking · Agoda · Google Hotels (every seller) · direct site**. Chase Travel wasn't checked at this stage (signed out); see the Chase notes in the lodging section above. ★ = cheapest channel. Rates: $1 = €0.8925, €1 = 4.38 PLN.
 
 **Wrocław, Wed 7 → Sat 10 (private)**
 
@@ -157,7 +157,7 @@ Narrowed on Booking until the results fit one page, then checked **Booking · Ag
 | [ProperUNIT Bright Apartment](https://www.booking.com/hotel/pl/properunit-bright-apartment-in-old-town-with-ac.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | **€149 ★** | €177 | — | 9.5 but only 20 reviews |
 | [Gvarna Apartamenty](https://www.booking.com/hotel/pl/gvarna-apartamenty.html?checkin=2026-10-07&checkout=2026-10-10&group_adults=1&no_rooms=1&selected_currency=EUR) | €166 ★ | €166 ★ | — | 170 m from the station; 9.3 (578) |
 
-**Bookable sites only (re-checked ~14:00).** Only real booking sites count: Booking, Agoda, Expedia, Hotels.com, Priceline, Trip.com, Hostelworld, or the property's own site. Super.com, Bluepillow, HomeToGo and similar are excluded. Agoda prices are **your signed-in VIP price with coupons applied**. Totals are for 1 adult.
+**Bookable sites only (re-checked 6 Oct ~14:00).** Only real booking sites count: Booking, Agoda, Expedia, Hotels.com, Priceline, Trip.com, Hostelworld, or the property's own site. Super.com, Bluepillow, HomeToGo and similar are excluded. Agoda prices are **your signed-in VIP price with coupons applied**. Totals are for 1 adult.
 
 | Property | Sat 10 → Tue 13 | **Sun 11 → Wed 14** | Cheapest bookable site |
 |---|---|---|---|

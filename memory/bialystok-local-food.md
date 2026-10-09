@@ -5,14 +5,14 @@
 
 ---
 
-## 1 · Today, Tue 6 Oct: train Vilnius → Białystok
+## 1 · Tue 6 Oct: train Vilnius → Białystok
 
 - **LTG Link 12:35 → Białystok 17:07**, about 4½ h with one same-platform change at Mockava. **€23** (non-refundable fare; the flexible fare costs more).
   👉 [Book on LTG Link](https://bilietas.ltglink.lt/journeys?oStop=17&dStop=246&oDate=2026-10-06&fareClasses=BONUS_SCHEME_GROUP.ADULT%2C1)
 - **Bring your passport.** Poland checks the Lithuanian border until 30 Mar 2027.
 - The 06:27 train is the only earlier one, and it was ruled out (too early).
 
-## 2 · Tonight, Tue 6 → Wed 7: Białystok room (1 night, 1 adult)
+## 2 · Tue 6 → Wed 7: Białystok room (1 night, 1 adult)
 
 The filter: overall score ≥ 8.5, at least 20 reviews, 6% or fewer of reviews under 7, **Booking location score above 9**, in town.
 
@@ -49,9 +49,9 @@ The filter: overall score ≥ 8.5, at least 20 reviews, 6% or fewer of reviews u
 | ⭐ **Sybir Memorial Museum** (Siberia deportations; needs 1½–2 h) | **free on Wednesdays** (otherwise about 25 zł) | **Tue–Fri 9:30–17:00**, closed Mon | about 2 km (taxi) |
 | Ludwik Zamenhof Centre (inventor of Esperanto) | 8 zł | daytime | 650 m |
 
-**Wednesday morning:** if you want the free Sybir Museum (opens 9:30), skip the 10:15 train and take the **11:32 → Wrocław 17:27** (one change, 86 zł) or the 12:15 → 19:12 (direct, 85 zł).
+**Wed 7 morning option (not taken; you rode the 10:15):** if you want the free Sybir Museum (opens 9:30), skip the 10:15 train and take the **11:32 → Wrocław 17:27** (one change, 86 zł) or the 12:15 → 19:12 (direct, 85 zł).
 
-**Food tonight.** Ratings, addresses and price bands are from Google's business panels (6 Oct). Dishes come from Google AI Mode, so treat them as leads. Exchange rate: about 4 zł per $1.
+**Food (Tue 6 evening).** Ratings, addresses and price bands are from Google's business panels (6 Oct). Dishes come from Google AI Mode, so treat them as leads. Exchange rate: about 4 zł per $1.
 
 | Place | Google rating | Where | Price | Order |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ The filter: overall score ≥ 8.5, at least 20 reviews, 6% or fewer of reviews u
 
 Skip Kartaczewnia (Lipowa 2): 3.9 on Google.
 
-**Beer tonight.** Everything here is within about 270 m of Rynek Kościuszki. Ratings and addresses are from Google's business panels (6 Oct). What each place pours, and the prices, come from AI Mode, so treat them as leads.
+**Beer (Tue 6 evening).** Everything here is within about 270 m of Rynek Kościuszki. Ratings and addresses are from Google's business panels (6 Oct). What each place pours, and the prices, come from AI Mode, so treat them as leads.
 
 | Place | Type | Google rating | Where | Opens | What's on |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Skip Kartaczewnia (Lipowa 2): 3.9 on Google.
 The Żubr brewery (Browar Dojlidy) doesn't offer regular public tours.
 
 
-## 3 · Wed 7: onward (pick one)
+## 3 · Wed 7: onward (options considered; **A chosen**: IC 10:15 → Wrocław 16:43)
 
 - **A. Straight to Wrocław:** IC **10:15 → 16:43**, direct, 85 zł. An 08:15 → 14:44 runs too.
   👉 [Koleo: Białystok → Wrocław Główny](https://koleo.pl/rozklad-pkp/bialystok/wroclaw-glowny/07-10-2026_08:00)
