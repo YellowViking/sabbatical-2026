@@ -1,20 +1,85 @@
-# Trip index: Vilnius → Poland → Prague → Slovenia → Bosnia → Split → ⛴ Italy
+# Trip index: Prague → Brno → Graz → Ljubljana → Bled → Zagreb (Plitvice) → Trieste → Italy → Sicily
 
-*Updated 9 Oct 2026. City guides (lodging · food · beer · day plans) live in `memory/`, one file per city, same as the earlier stops. Prices are for 1 adult.*
+*Updated Sun 11 Oct 2026. Prices are for 1 adult and were checked live on 10–11 Oct. "Lead" means it came from Google's AI answer and hasn't been confirmed on an official site yet. Nothing below is booked unless marked ✅.*
 
-| City | Guide |
-|---|---|
-| Białystok (Tue 6) | [memory/bialystok-local-food.md](memory/bialystok-local-food.md) |
-| Wrocław (Wed 7 → Fri 9) | [memory/wroclaw-local-food.md](memory/wroclaw-local-food.md) |
-| Prague (Fri 9 → Mon 12) | [memory/prague-local-food.md](memory/prague-local-food.md) |
-| Slovenia (Ljubljana, Bled, Bohinj) | [memory/slovenia-local-food.md](memory/slovenia-local-food.md) |
-| Croatia (Zagreb, Split) | [memory/croatia-local-food.md](memory/croatia-local-food.md) |
+| Stop | Dates | Guide |
+|---|---|---|
+| Białystok · Wrocław · Prague | 6 → 12 Oct | [Białystok](memory/bialystok-local-food.md) · [Wrocław](memory/wroclaw-local-food.md) · [Prague](memory/prague-local-food.md) |
+| **Brno** | Mon 12 → Tue 13 | [memory/brno-local-food.md](memory/brno-local-food.md) |
+| **Graz** | Tue 13 → Wed 14 | [memory/graz-local-food.md](memory/graz-local-food.md) |
+| **Ljubljana + Bled** | Wed 14 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) |
+| **Zagreb + Plitvice** | Sun 18 → Tue 20 | [memory/zagreb-plitvice-oct2026.md](memory/zagreb-plitvice-oct2026.md) |
+| **Italy (+ Sicily)** | Tue 20 Oct → ~21 Nov | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
 
-**Rules:** lodging cross-checked on Google Hotels/Maps (index), Booking, Agoda and Chase Travel (keep the $100 credit unless Chase is within ~10% and uses the whole $100); trains bought from each operator's own shop, cheapest wins; avoid big-event dates (Ljubljana marathon Sun 18 Oct = 96% sold out).
+**Rules used:** trains first (bus only when the train is 2–3× slower, as in Croatia), ranked on journey time *and* price, bought on each operator's own shop. Every leg was Googled first for options and sellers. Avoid big-event nights. Weather decides the order: dry north Italy in late October, the wettest region (Naples/Amalfi) kept short, warm Sicily last. The flight home goes at the end of the Schengen 90 days.
 
 ---
 
-## 🗺 Proposed route from Prague (9 Oct, not booked)
+## 🗺 Route (11 Oct)
+
+| Night of | Stop | Why |
+|---|---|---|
+| Mon 12 | **Brno** | Cheap, on the direct Prague–Graz rail line. Monday closes most indoor sights, so it's an outdoor and viewpoint afternoon |
+| Tue 13 | **Graz** | LP's "most vibrant" Austrian city. An overnight instead of a rushed 3-hour stop |
+| Wed 14, Thu 15 | **Ljubljana** | LP says 2–3 days. Leave **before Fri 16**: marathon eve, 92% booked |
+| Fri 16, Sat 17 | **Bled** | Lake, Vintgar Gorge, a Bohinj day. Forecast dry, 17–19 °C |
+| Sun 18, Mon 19 | **Zagreb** | Base for a **Plitvice day trip on Mon 19** (bus only) |
+| Tue 20 → ~21 Nov | **Italy, north → south, about 32 nights, then fly home from Sicily** | See the Italy guide |
+
+**Dropped:** the lower Balkans (Bosnia, Split, Dubrovnik) and the Split → Ancona ferry.
+- **Weather:** Sarajevo forecast 5–6 °C with rain on 20–23 Oct.
+- **Transport:** Bosnia is buses only.
+- **Schengen:** Dalmatia burns Schengen days, while north Italy is dry in late October.
+
+Also dropped: Rijeka (Plitvice → Rijeka is a 5½ h bus) and Český Krumlov (Český Krumlov → Graz is a 7½ h train).
+
+## 🚆 Every leg after Prague: times, changes, cheapest seller
+
+| Day | Train / bus | Depart → arrive | Changes | Cheapest (where to buy) | Buy when |
+|---|---|---|---|---|---|
+| **Mon 12** | ČD **rj 277 *Metropolitan*** | Praha hl.n. **09:37** → Brno hl.n. **12:13** (2 h 36) | Direct | **379 CZK** on [cd.cz](https://www.cd.cz/en/) (RegioJet 11:01 → 13:40 is €9.70–11.80 if you'd rather go later) | Now |
+| **Tue 13** | **rj 53 *Vindobona*** | Brno **09:18** → Graz Hbf **13:19** (4 h 01) | Direct | **ÖBB €25** ([shop.oebbtickets.at](https://shop.oebbtickets.at/en/ticket)); ČD charges 996 CZK | Now (saver fare, non-refundable) |
+| Tue 13, alt. | RJ 251 | Brno 13:18 → Graz 17:19 | Direct | ÖBB €25.70 | Only if you want Brno's underground sights on Tuesday morning |
+| **Wed 14** | **IR 575** | Graz **14:28** → Ljubljana **17:38** (3 h 10) | Direct | **ÖBB €12.90** | Now |
+| Wed 14, alt. | EC 71 *Emona* (restaurant car) | Graz 10:28 → Ljubljana 13:53 | Direct | ÖBB €26.90 (SŽ €35.80, ČD about €45; FlixBus 08:35 → 11:15 is €13.99) | |
+| ⚠️ | Any route **via Villach** | | | SŽ runs **replacement buses Villach – Jesenice from 12 to 18 Oct**, and ÖBB's results don't show it | Avoid |
+| **Fri 16** | SŽ regional | Ljubljana **09:35** → Lesce-Bled **10:29** (hourly, 50–60 min) | Direct | **SŽ €5.80** (eshop.sz.si or the station; ÖBB charges €10.60) | On the day |
+| | SŽ connecting bus | Lesce-Bled station → Bled lake (runs until 25 Oct) | | | |
+| **Sat 17** | Arriva bus (lead) | Bled → Bohinj (Ribčev Laz), about hourly, 35–40 min | | about €3–4 | On the bus |
+| **Sun 18** | D 315 + INT 211 | Lesce-Bled **13:29** → Ljubljana 14:14 · **14:45** → Zagreb **17:23** | 1 change, Ljubljana (31 min) | **SŽ €9 "Zagreb Spezial"** (counter only: **buy at Ljubljana station on Wed 14 or Thu 15**) + SŽ €5.80 to Ljubljana (**−30% at weekends** in the SŽ e-shop). ÖBB's through fare is €35.40 | |
+| Sun 18, alt. | EC 115 | Lesce-Bled 15:48 → Zagreb about 19:15 | Direct | SŽ €5.80 + €9 | |
+| **Mon 19** | FlixBus | Zagreb **06:45** → Plitvice **09:00** · back **16:15 → 18:37** (or 17:15 → 19:05) | Direct | **€16.99** each way + park **€23** (official, October; ticket sales until 15:00) | When the forecast settles |
+| **Tue 20** | FlixBus | Zagreb **07:30** → Trieste **11:30** (4 h) | Direct | **€16.99** (the train takes 5 h+) | Later |
+| **Tue 20** | Trenitalia **IC 594** | Trieste **13:27** → Padova **15:48** | Direct | **€13.90** (regionals €18.10) | Later |
+
+**About €160 of transport from Prague to Padua.**
+
+## 🛏 Beds (Booking.com unless noted; checked 10–11 Oct; not booked)
+
+| Night(s) | Pick | Score · distance | Price | Notes |
+|---|---|---|---|---|
+| Brno, Mon 12 | **Internesto Brno** | 8.6 · 150 m from the centre | €45 | Luggage storage. Check-out 10:00 |
+| Graz, Tue 13 | **Limehome Trauttmansdorffgasse** via **Chase Travel** | 8.8 · 390 m from Hauptplatz | $80 (hotel credit applies; Booking €65) | Ask for **an upper floor, not the basement**. Self check-in, so do it online the day before |
+| Ljubljana, 14–15 | **AMS Rooms** or **Dežela Okusov B&B** | 8.5 · 500 m / 8.4 · 900 m | €144 / €126 for 2 nights | About €15/night above a normal week (marathon week) |
+| Bled, 16–17 | **Zemva Stays** apartment or Jack's Apartments | 9.3 / 9.6 | €130 / €149 for 2 nights | Bled is 77–84% booked; book soon. Dorm: Bled Hostel €50 for 2 nights |
+| Zagreb, 18–19 | **Guesthouse Centar 2** | 8.5 · 350 m | €77 for 2 nights | Shared bathroom |
+
+## 🌦 Forecast (Open-Meteo, 11 Oct)
+
+| Day | Where | High/low · rain |
+|---|---|---|
+| Mon 12 | Brno | 15/5 °C, dry |
+| Tue 13 – Wed 14 | Graz | 15–16 / 7–8 °C, dry |
+| Wed 14 – Fri 16 | Ljubljana | 16–17 °C, dry |
+| Fri 16 – Sat 17 | Bled | 18–19 °C, dry |
+| Sun 18 | Zagreb | 16/6 °C, dry |
+| **Mon 19** | **Plitvice** | **9/3 °C, 1.2 mm**: cold, take layers. If it turns wet, move Plitvice to Tue 20 and start Italy on Wed 21 |
+
+---
+
+<details><summary>Proposed route as of 9 Oct (superseded: ferry and Bosnia plan)</summary>
+
+### Proposed route from Prague (9 Oct, superseded)
 
 | Dates | Stop | How | Schengen |
 |---|---|---|---|
@@ -50,6 +115,9 @@
 
 
 ---
+
+
+</details>
 
 <details><summary>Plan as of 6 Oct (superseded)</summary>
 
