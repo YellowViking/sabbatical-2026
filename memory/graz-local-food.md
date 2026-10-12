@@ -48,9 +48,32 @@ There are no Marriott, Hilton, Hyatt or IHG hotels in Graz. The Ramada is 15 min
 
 **Graz Card** (LP tip): covers the Kunsthaus, Landeszeughaus, Eggenberg and city transport. It's only worth it for 2+ museums.
 
-## Food: LP picks
+## 🍽 Food (checked 12 Oct on each restaurant's own site; saved to Maps "Restaurants")
 
-- **Altsteirische Schmankerlstube:** Styrian classics. Open daily.
-- **Geniesserei am Markt:** by the farmers' market. Tue–Sat.
-- **Mohrenwirt:** Bib Gourmand. **Closed Tuesday.**
-- **Scheucher:** dry-aged steak. €€€.
+| Place | Google · from Limehome | Order (price) | Hours |
+|---|---|---|---|
+| **Der Steirer** ⭐ | 4.6 (5,334) · 600 m | **Backhendl** (½ Styrian chicken, 5 pieces) **€17.50** · Kürbiscremesuppe (pumpkin soup) €6.50 · Steirersalat with Käferbohnen (runner beans) + Kernöl (pumpkin-seed oil) €7.90 · Schweinsbraten (roast pork, from 18:00) €19.00 · "Styrian tapas" small plates | Daily 11:00–24:00 (kitchen to 23:00) |
+| Der Steirer, **weekday lunch** | | 11:30–14:30: soup + main **€14.00** (main alone €12.50). **Tue 13:** Paprikahendl with herb penne. **Wed 14:** Rinderbraten (roast beef) with Erdäpfelschmarrn (potato hash) | |
+| **Wirtshaus Bernsteiner** (cheapest Backhendl) | 4.7 (222) · about 1 km (Gries) | **½ Backhendl €14.50**; Kürbiscremesuppe; weekday lunch menu | Mon–Fri 10:00–22:00 (**kitchen closes 21:00**) |
+| **Glöckl Bräu** (brewpub, 160 m) | 4.6 (5,808) | Käferbohnensalat about €8.80 · Schweinsbraten about €18 · **beer €4.80 per 0.5 l** (menu PDF; dish names partly unreadable) | Daily |
+| **Mohrenwirt** (Bib Gourmand) | **4.8** (1,090) · 670 m | Organic Styrian cooking. **Wed–Sat 11:30–23:00, so Wed 14 lunch works.** Book online; they seat in fixed time slots | Closed Tue |
+| Skip | | Altsteirische Schmankerlstub'n (4.2), Landhauskeller (4.4, pricey), Geniesserei am Markt (lunch only) | |
+
+## 🍺 Beer (saved to Maps "Craft beer 🍺")
+
+| Bar | Google · from Limehome | Taps | Tue hours |
+|---|---|---|---|
+| **HOPS Craft Beer Pub**, Prokopigasse 14 (courtyard vault) | **4.8** (649) · **160 m** | about **14 taps** (lead): Graz's One Eyed Jock house beers + Austrian craft; about €6.10/0.5 l (lead) | **18:00–24:00** (Bier Guide, InTravel) |
+| Glöckl Bräu | 4.6 · 160 m | Tank beer, not craft | Daily |
+
+## Suggested plan
+
+- **Tue 13**
+  - Lunch at Der Steirer if you're there by 14:30 (€14).
+  - Schlossberg at sunset.
+  - **Dinner:** Der Steirer's Backhendl and pumpkin soup (about €24), or Bernsteiner's €14.50 Backhendl, ordered **before 21:00**.
+  - **HOPS** from 18:00.
+- **Wed 14**
+  - Farmers' market in the morning.
+  - **Lunch:** Mohrenwirt (book online), or Der Steirer's €14 Rinderbraten lunch.
+  - IR 575 at 14:28.
