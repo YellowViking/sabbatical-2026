@@ -29,9 +29,45 @@
 - **Ficlek** (4.7 from 3,669 reviews): behind Dolac market. The best value overall. Also: grenadirmarš (potato and pasta) €6.90, bučnica (pumpkin strudel) €4.40.
 - **La Štruk** (4.6 from 9,531 reviews): Skalinska 5. The štrukli specialist. Deep-fried štrukli bites €6.
 - **Batak Tkalčićeva** (4.6 from 3,293 reviews): price list dated 10 Sep 2026. Ćevapi with cheese €6.90 (5 pieces) or €8.90 (7 pieces); gourmet pljeskavica €12.50.
-- 🍺 **[Valhalla beer bar](https://www.google.com/maps/search/?api=1&query=Valhalla%20beer%20bar%20Tkal%C4%8Di%C4%87eva%20Zagreb)**, 25 m from the hostel: 12–15 Croatian craft taps, open until 01:00. **No prices are published online.** Expect about €4–6 for craft and €3–4 for a local lager, but check the board.
+### Is it local, at local prices? Same dish, different places
 
-**Best-value evening (about €30):** turkey with mlinci at Ficlek, then two Croatian craft beers at Valhalla. **Cheapest:** Batak ćevapi at €5.90 plus a beer. **Thursday lunch:** štrukli soup at La Štruk, €6.50.
+| Dish | Local price | Where locals pay it | Our tourist-zone picks |
+|---|---|---|---|
+| Štrukli, baked | **€6.50** | Gostionica **Purger**, Petrinjska 33 (4.5 from 3,247, 520 m, 07:00–23:00) | Lanterna €10 · Ficlek €10.40 · La Štruk €11 · Vinodol €13 |
+| Sarma | **€8.50** (Medvedgrad Ilica gablec, **today, Wed 14**) | Pivnica Medvedgrad, Ilica 49 (630 m) | Purger €13 · Ficlek €13.90 |
+| Turkey with mlinci | — | not on the cheap menus | **Ficlek €16.60** · Vinodol €25 |
+| Ćevapi, 5 pieces | **€5.90** | **Batak** (a Zagreb chain, same prices in its mall branches) | Mali Medo's ćevapčići €13.90 |
+| Weekday lunch (gablec) | **€4–8.50** | **Zalogajnica Modena**, Koturaška 53 (1.4 km south of the main station; Mon–Fri 10:30–16:00). Today: stew €4, liver €6, pork loin €8.50 | — |
+| Beer, 0.5 l | **€3.50** Ožujsko · **€3.90** house pilsner | Purger · Mali Medo | — |
+
+**Verdict:**
+- **Batak** charges local prices.
+- **Ficlek** is fair for turkey with mlinci, but its štrukli cost about 60% more than Purger's.
+- **La Štruk** is the tourist version.
+- **The local move:** gablec at Medvedgrad Ilica (Thu 15: meat roll €8.50 or green noodles €7; Fri 16: fried hake €7), or štrukli at Purger.
+
+Saved to Maps → Restaurants: Purger, Modena.
+
+## 🍺 Craft beer and breweries (all saved to Maps → Craft beer)
+
+| Place | Distance from the hostel | Rating | Wed/Thu hours | Beer and prices |
+|---|---|---|---|---|
+| **Valhalla beer bar** | 25 m | 4.6 (1,667) | 10:00–01:00 | Croatian craft in a rock/metal bar. Prices not published; *lead:* €4–4.50 for 0.5 l (Nova Runda, Pulfer, Zmajska, Primarius) |
+| **Pivnica Pinta** | 30 m | 4.6 (1,051) | 09:00–24:00 | Old-school locals' pub. *Lead:* €2.50–4 |
+| **Krolo** | 55 m | 4.7 (740) | 08:00–01:00 | Students and an alternative crowd. *Lead:* from €2.50 for 0.3 l; Mlinarica, Varionica, Pulfer |
+| **Carpe Diem** | 210 m | 4.7 (608) | 08:00–02:00 | Big terrace on Opatovina. *Lead:* €4.50–5 for 0.5 l; Križevačka on tap |
+| **Pivnica Mali Medo** (Medvedgrad brewpub) | 225 m | 4.5 (7,796) | 10:00–24:00 (menu; Maps says from 12:00) | ✅ **Verified menu:** Zlatni medvjed pilsner **€3.90**, Grička vještica **€4.10**, Baltazar hoppy lager €4.20, **Fakin IPA €4.90** (0.5 l). **7-beer tester €9.90** |
+| **Tolkien's House** | 340 m | 4.6 (2,300) | 11:00–24:00/01:00 | Lord of the Rings theme, open since 1996. *Lead:* €4–4.50 |
+| **Pivnica Medvedgrad Ilica** | 630 m | 4.4 (6,226) | 10:00–24:00 | ✅ Seasonal beers: Fantom 53 Italian pilsner €4.60, Crni Jack black IPA €5.20, Küss die Hand helles €3.60 (0.5 l). **Gablec €7–10** |
+| **The Beertija** | 820 m | 4.6 (3,319) | 09:00–01:00 | Locals' favourite; 100+ bottles, sculpture garden. *Lead:* €4.50–5 for 0.5 l |
+| The Garden Brewery Taproom | **5 km** (Žitnjak, tram) | 4.7 (1,817) | 10:00–24:00 | Croatia's best-known craft brewery, at the source. Only worth it on a Zagreb day |
+| Zmajska brewery · Pulfer | 9 km / 7 km | 4.9 | Zmajska 11–20, Pulfer 9–16 | Production sites; drink their beer at Valhalla or Krolo instead |
+
+*Also in range but not craft-led:* Kozel Pub, Harat's (Irish), Bikers Beer Factory (3 km), BIR brewpub (2.5 km), Teacher's Pub Brewery (2.2 km), Le Petit Belge (Belgian, 1.5 km).
+
+**Crawl from the hostel:** Valhalla → Pinta → Krolo (all on Radićeva, within 55 m) → Carpe Diem → Mali Medo for the tester → Tolkien's House (all within 350 m).
+
+✅ = brewery's own menu PDF (autumn 2026). *Lead* = Google AI Mode, not confirmed; check the board.
 
 *Photos: La Štruk's and Batak's own sites, and Ficlek's dish photos on Tripadvisor (same plates and lace cloths as its own gallery).*
 
