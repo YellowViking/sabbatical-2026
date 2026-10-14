@@ -1,4 +1,4 @@
-# Trip index: Prague → Brno → Graz → Ljubljana → Bled → Zagreb (Plitvice) → Trieste → Italy → Sicily
+# Trip index: Prague → Brno → Graz → Zagreb (Plitvice) → Bled → Trieste → Italy → Sicily
 
 *Updated Sun 11 Oct 2026. Prices are for 1 adult and were checked live on 10–11 Oct. "Lead" means it came from Google's AI answer and hasn't been confirmed on an official site yet. Nothing below is booked unless marked ✅.*
 
@@ -7,15 +7,27 @@
 | Białystok · Wrocław · Prague | 6 → 12 Oct | [Białystok](memory/bialystok-local-food.md) · [Wrocław](memory/wroclaw-local-food.md) · [Prague](memory/prague-local-food.md) |
 | **Brno** | Mon 12 → Tue 13 | [memory/brno-local-food.md](memory/brno-local-food.md) |
 | **Graz** | Tue 13 → Wed 14 | [memory/graz-local-food.md](memory/graz-local-food.md) |
-| **Ljubljana + Bled** | Wed 14 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) |
-| **Zagreb + Plitvice** | Sun 18 → Tue 20 | [memory/zagreb-plitvice-oct2026.md](memory/zagreb-plitvice-oct2026.md) |
-| **Italy (+ Sicily)** | Tue 20 Oct → ~21 Nov | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
+| **Zagreb + Plitvice** ✅ bed booked | Wed 14 → Fri 16 | [memory/zagreb-plitvice-oct2026.md](memory/zagreb-plitvice-oct2026.md) (food photos + prices) |
+| **Bled** | Fri 16 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) |
+| **Trieste** | Sun 18 → Mon 19 | Bohinj railway Bled Jezero 11:34 → Nova Gorica 13:14, walk into Italy, Gorizia 14:18 → Trieste 15:02 (about €20) |
+| **Italy (+ Sicily)** | Mon 19 Oct → ~21 Nov | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
 
 **Rules used:** trains first (bus only when the train is 2–3× slower, as in Croatia), ranked on journey time *and* price, bought on each operator's own shop. Every leg was Googled first for options and sellers. Avoid big-event nights. Weather decides the order: dry north Italy in late October, the wettest region (Naples/Amalfi) kept short, warm Sicily last. The flight home goes at the end of the Schengen 90 days.
 
 ---
 
-## 🗺 Route (11 Oct)
+## 🗺 Route (14 Oct: Zagreb first, no Ljubljana night)
+
+| Night of | Stop | How you get there |
+|---|---|---|
+| Wed 14, Thu 15 | **Zagreb** ✅ Main Square Hostel | 🚌 FlixBus 09:15 Graz Webling → Zagreb 12:00 |
+| Fri 16, Sat 17 | **Bled** (Bled Hostel, not booked yet) | 🚆 EC 214 08:16 → Lesce-Bled 11:56 direct (€35.40, ÖBB), or via a Ljubljana afternoon (about €10.60) |
+| Sun 18 | **Trieste** (Smart Rooms €65, 8.1, not booked) | 🚆 Bohinj railway 11:34 → Nova Gorica 13:14 · walk or cross-border bus to Gorizia · 🚆 14:18 → Trieste 15:02 |
+| Mon 19 → | **Padua, Italy** (one day earlier than the 11 Oct plan) | 🚆 Trieste → Padova, about 2 h, €15–18 |
+
+Why: Zagreb from Graz, then Slovenia, then Italy has no backtracking. It's about 12 h 50 of travel before Italy, against about 15 h for the Ljubljana-first versions. Ljubljana's marathon weekend (16–18 Oct) is avoided as well. **Sections below dated 11 Oct are superseded from Wed 14 onward.**
+
+## 🗺 Route (11 Oct, superseded from Wed 14)
 
 | Night of | Stop | Why |
 |---|---|---|

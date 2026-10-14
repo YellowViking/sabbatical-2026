@@ -1,6 +1,8 @@
 # Ljubljana + Bled: Wed 14 → Sun 18 Oct 2026
 
-*2 nights in Ljubljana (14, 15), then 2 in Bled (16, 17). Checked 10–11 Oct. The older general Slovenia notes are in [slovenia-local-food.md](slovenia-local-food.md).*
+> ⚠️ **Updated 14 Oct: the Ljubljana overnight is dropped.** The route is now Zagreb (14–16) → **Bled (Fri 16 → Sun 18)** → Bohinj railway to Trieste. Ljubljana is only a possible Friday-afternoon stop between trains (see [zagreb-plitvice-oct2026.md](zagreb-plitvice-oct2026.md)). The Bled and Bohinj notes below still apply.
+
+*Original plan: 2 nights in Ljubljana (14, 15), then 2 in Bled (16, 17). Checked 10–11 Oct. The older general Slovenia notes are in [slovenia-local-food.md](slovenia-local-food.md).*
 
 ## ⚠️ The marathon
 
