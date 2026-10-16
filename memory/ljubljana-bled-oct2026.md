@@ -1,4 +1,46 @@
-# Ljubljana + Bled: Wed 14 → Sun 18 Oct 2026
+# Bled (Lesce base): Fri 16 → Sun 18 Oct 2026, then Ljubljana
+
+## ✅ Booked 16 Oct: base in Lesce, not Bled
+
+Bled itself was 84% full on Booking, and next weekend (23–25 Oct) is no better at 86%, so this is late-October Bled in general, not a one-weekend markup. Bled Hostel had sold out.
+
+| | |
+|---|---|
+| **Bed** ✅ | **1A Adventure Hostel**, Begunjska cesta 5, Lesce. Booked on **Agoda**, the cheapest channel (dorm US$25/night including taxes; Booking US$59 for 2 nights; Hostelworld had no dorm beds left). Rated 9.0 on Hostelworld, 8.3 on Booking. **Free shuttle to Lake Bled**; 10% off canyoning or rafting booked at reception. Check-in 13:00–22:00, check-out by 10:00. [📍 Map](https://www.google.com/maps/search/?api=1&query=1%20A%20Adventure%20Hostel%2C%20Begunjska%20cesta%205%2C%204248%20Lesce) |
+| **Weekend premium** | Small: about +US$4.50 for the Agoda dorm and +€8–12 for Hostelworld privates compared with other dates. The cost is mainly availability |
+| **Ljubljana → Lesce-Bled ticket** ✅ | SŽ e-shop, €5.80, 2nd class, valid **16.10.2026** (date only, no train number shown) |
+
+### Fri 16: Zagreb → Lesce
+
+| Time | Step | Ticket | Map |
+|---|---|---|---|
+| 09:30 | Walk from Main Square Hostel to Zagreb Glavni kolodvor (1.3 km, 17 min) | | [🚶 Directions](https://www.google.com/maps/dir/?api=1&origin=Main%20Square%20Hostel%2C%20Ulica%20Ivana%20Tkal%C4%8Di%C4%87a%207%2C%20Zagreb&destination=Zagreb%20Glavni%20kolodvor&travelmode=walking) |
+| ~09:50 | **HŽ international counter.** Ask for the **"Ljubljana Spezial" one-way** | **€9**, counter only (the windows are in the corridor to the left of the main hall; open daily 05:20–21:40) | [📍 Station](https://www.google.com/maps/search/?api=1&query=Zagreb%20Glavni%20kolodvor%2C%20Trg%20kralja%20Tomislava%2012%2C%20Zagreb) |
+| **10:28 → 13:07** | 🚆 **R 432** Zagreb → Ljubljana, direct | Spezial | |
+| **13:30 → 14:26** | 🚆 **LP 314** Ljubljana → Lesce-Bled, direct (23 min to change, same station) | ✅ SŽ e-ticket | |
+| 14:30 | Walk to the hostel: right onto Železniška ulica, about 260 m, then right (283 m, 4 min) | | [🚶 Directions](https://www.google.com/maps/dir/?api=1&origin=46.360428%2C14.158158&destination=1%20A%20Adventure%20Hostel%2C%20Begunjska%20cesta%205%2C%20Lesce&travelmode=walking) |
+| Afternoon | Hostel shuttle, or the bus from **Lesce ŽP** (beside the station) to Bled, about 8 min | | [🚌 Bus](https://www.google.com/maps/dir/?api=1&origin=Lesce%20%C5%BDP%20bus%20stop%2C%20Lesce&destination=Bled%20Union%20bus%20stop%2C%20Bled&travelmode=transit) |
+
+**If late:** later Ljubljana → Lesce-Bled trains leave at 14:28, 14:48 and 15:20, all direct; the ticket shows only the date. The next Zagreb train is INT 210 at 12:50 (→ Ljubljana 15:31).
+
+**Lesson:** ÖBB's "€10.60 Zagreb → Lesce-Bled" turned out to be **Ljubljana → Lesce-Bled only**; its offer page said "Ticket valid for section of the journey only". Cross-border Croatia ↔ Slovenia tickets are sold only at counters (HŽ and SŽ). Each operator's e-shop sells domestic tickets only.
+
+### Sat 17: Bled and Bohinj
+- **Rail replacement buses this week:** Lesce-Bled ↔ Jesenice/Villach (12–18 Oct) and Vintgar ↔ Jesenice (23 Sep – 25 Oct). Bled Jezero still has trains toward Bohinjska Bistrica and Nova Gorica, and SŽ runs a connecting bus Lesce-Bled ↔ Bled Jezero (until 25 Oct).
+- For Bohinj, the Arriva bus from Bled is simplest.
+
+### Sun 18: Lesce-Bled → Ljubljana (Ljubljana marathon day; arrive after the race)
+| Train | Times | Ticket |
+|---|---|---|
+| RG 313 | 11:32 → 12:27 | SŽ e-shop **€4.10** (−30% at weekends) |
+| **MV 315** | **13:29 → 14:14** | same |
+| LP 2497 | 14:37 → 15:39 | same |
+
+Check-out is 10:00, so leave your bag at the hostel. Sunday-night bed in Ljubljana (not booked): Hostel Celica private €58 (9.3), Fuzzy Log private €33 (9.1), AdHoc dorm €27. **Italy from Mon 19: to be decided** (options: FlixBus Ljubljana 16:00 → Padua 20:40 €20.49; train D 316 09:35 via Villach → Padova 15:38–15:48, €60).
+
+---
+
+## Earlier notes (10–14 Oct)
 
 > ⚠️ **Updated 14 Oct: the Ljubljana overnight is dropped.** The route is now Zagreb (14–16) → **Bled (Fri 16 → Sun 18)** → Bohinj railway to Trieste. Ljubljana is only a possible Friday-afternoon stop between trains (see [zagreb-plitvice-oct2026.md](zagreb-plitvice-oct2026.md)). The Bled and Bohinj notes below still apply.
 

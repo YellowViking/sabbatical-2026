@@ -1,6 +1,6 @@
-# Trip index: Prague → Brno → Graz → Zagreb (Plitvice) → Bled → Trieste → Italy → Sicily
+# Trip index: Prague → Brno → Graz → Zagreb → Bled (Lesce) → Ljubljana → Italy → Sicily
 
-*Updated Sun 11 Oct 2026. Prices are for 1 adult and were checked live on 10–11 Oct. "Lead" means it came from Google's AI answer and hasn't been confirmed on an official site yet. Nothing below is booked unless marked ✅.*
+*Updated Fri 16 Oct 2026 (Bled/Ljubljana); earlier sections Sun 11 Oct. Prices are for 1 adult and were checked live on 10–11 Oct. "Lead" means it came from Google's AI answer and hasn't been confirmed on an official site yet. Nothing below is booked unless marked ✅.*
 
 | Stop | Dates | Guide |
 |---|---|---|
@@ -8,15 +8,26 @@
 | **Brno** | Mon 12 → Tue 13 | [memory/brno-local-food.md](memory/brno-local-food.md) |
 | **Graz** | Tue 13 → Wed 14 | [memory/graz-local-food.md](memory/graz-local-food.md) |
 | **Zagreb + Plitvice** ✅ bed booked | Wed 14 → Fri 16 | [memory/zagreb-plitvice-oct2026.md](memory/zagreb-plitvice-oct2026.md) (food photos + prices) |
-| **Bled** | Fri 16 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) |
-| **Trieste** | Sun 18 → Mon 19 | Bohinj railway Bled Jezero 11:34 → Nova Gorica 13:14, walk into Italy, Gorizia 14:18 → Trieste 15:02 (about €20) |
-| **Italy (+ Sicily)** | Mon 19 Oct → ~21 Nov | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
+| **Bled, staying in Lesce** ✅ bed + train booked | Fri 16 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) (Friday step-by-step with map links) |
+| **Ljubljana** | Sun 18 → Mon 19 | Train Lesce-Bled → Ljubljana Sunday afternoon (€4.10); bed not booked |
+| **Italy (+ Sicily)** | from Mon 19 Oct (entry route TBD) → ~21 Nov | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
 
 **Rules used:** trains first (bus only when the train is 2–3× slower, as in Croatia), ranked on journey time *and* price, bought on each operator's own shop. Every leg was Googled first for options and sellers. Avoid big-event nights. Weather decides the order: dry north Italy in late October, the wettest region (Naples/Amalfi) kept short, warm Sicily last. The flight home goes at the end of the Schengen 90 days.
 
 ---
 
-## 🗺 Route (14 Oct: Zagreb first, no Ljubljana night)
+## 🗺 Route (16 Oct: Bled via Lesce, then Ljubljana)
+
+| Night of | Stop | How you get there |
+|---|---|---|
+| Wed 14, Thu 15 | **Zagreb** ✅ Main Square Hostel | 🚌 FlixBus Graz → Zagreb |
+| Fri 16, Sat 17 | **Lesce/Bled** ✅ 1A Adventure Hostel (Agoda) | 🚆 R 432 Zagreb 10:28 → Ljubljana 13:07 (HŽ Ljubljana Spezial €9, counter) · 🚆 LP 314 13:30 → Lesce-Bled 14:26 (✅ SŽ €5.80) |
+| Sun 18 | **Ljubljana** (not booked) | 🚆 Lesce-Bled → Ljubljana, e.g. 13:29 → 14:14 (SŽ €4.10) |
+| Mon 19 → | **Italy** (TBD) | FlixBus to Padua, or a train via Villach |
+
+Changed because Bled Hostel sold out and Bled was 84% full, so the base moved to Lesce, 4 minutes from Lesce-Bled station. Trieste on Sunday became Ljubljana.
+
+## 🗺 Route (14 Oct: Zagreb first, no Ljubljana night; superseded from Fri 16)
 
 | Night of | Stop | How you get there |
 |---|---|---|
