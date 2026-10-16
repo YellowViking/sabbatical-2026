@@ -49,27 +49,30 @@ Bled itself was 84% full on Booking, and next weekend (23–25 Oct) is no better
 
 ## 🥾 AllTrails 4.7★+ hikes, Triglav National Park (pulled 16 Oct 2026)
 
-### ⭐ Top 3 by public transport (AllTrails 4.7★+ filter, trailhead ≤ 2.5 km from a year-round bus or train stop; checked 16 Oct)
+### ⭐ The most popular hikes: AllTrails 4.7★+ **and 1,000+ reviews**, reachable by public transport (checked 16 Oct)
 
 Method:
-- AllTrails' own filter (`rating_min=4.7`) gives 72 trails; 41 of them have 20+ reviews.
-- Each trailhead was matched to stops on **year-round** lines in OpenStreetMap: Arriva Ljubljana–Bled–Bohinj (Ukanc), Alpetour Jesenice–Kranjska Gora, and the SŽ Bohinj railway.
-- Seasonal lines (the Pokljuka bus, the Vršič/Bovec line, the Vrata and Peričnik shuttles) were excluded; they stop by October.
-- Saturday frequency was checked on Google: **both corridors run about hourly.**
+- AllTrails' own 4.7★ filter, run over a map box covering Bled, Bohinj, Kranjska Gora and Radovljica (120 trails; this includes the Bled trails, which sit outside the national-park area).
+- **Only 4 trails have 1,000+ reviews.**
+- Each was checked for a year-round bus, using OpenStreetMap route data plus Google.
 
-| # | Hike | ★ (reviews) | Length · climb | Getting there from Lesce | Notes |
+| # | Hike | ★ (reviews) | Length · climb | Public transport from Lesce | Status |
 |---|---|---|---|---|---|
-| 1 | [**Mostnica Gorge – Mostnica Waterfall**](https://www.alltrails.com/trail/slovenia/bohinj/soteska-mostnice-in-slap-voje-iz-stare-fuzine) | 4.7 (2,118) | 10.6 km · 260 m, about 2 h 45 | Hostel shuttle at 10:00 or the bus to Bled, then **Arriva Bled → Bohinj** (about hourly, 32–40 min, about €3–4 cash), then **1.4 km** from the Bohinj Jezero (Ribčev Laz) stop to Stara Fužina, or ride on to the Stara Fužina stop | Open daily until 30 Nov; **€4** entry, cash |
-| 2 | [**Vogar Viewpoint**](https://www.alltrails.com/trail/slovenia/bohinj/na-razgledno-tocko-vogar) (or the flat [**Lake Bohinj loop**](https://www.alltrails.com/trail/slovenia/bohinj/podaljsana-krozna-pot-ob-bohinjskem-jezeru-po-lovski-poti), which starts at the bus stop) | 4.7 (450) / 4.7 (67) | 6.1 km · 481 m, hard / 12.4 km · 146 m | Same bus and same trailhead as #1 (1.5 km from the stop) | Combine with #1 into one Bohinj day. The best panorama of the lake |
-| 3 | [**Martuljek Waterfalls**](https://www.alltrails.com/trail/slovenia/kranjska-gora/gozd-martuljek-martuljski-slapovi): lower fall [2.9 km](https://www.alltrails.com/trail/slovenia/kranjska-gora/spodnji-martuljkov-slap) or both falls 6.6 km | 4.7 (132) / 4.7 (92) | 2.9 km · 148 m, or 6.6 km · 377 m | Train or replacement bus Lesce-Bled → **Jesenice** (replacement buses run 12–18 Oct), then the **bus Jesenice → Gozd Martuljek Zg. Rute** (about hourly, about 24 min, €2–3). The stop is **400 m** from the trailhead | Free. The upper fall has steep steel-cable sections |
+| 1 | [**Mostnica Gorge – Mostnica Waterfall via Stara Fužina**](https://www.alltrails.com/trail/slovenia/bohinj/soteska-mostnice-in-slap-voje-iz-stare-fuzine) | 4.7 (**2,118**) | 10.6 km · 260 m, about 2 h 45 | ✅ Hostel shuttle at 10:00 (or bus) to Bled, then the **Arriva bus to Bohinj** (about hourly, 32–40 min, about €3–4), then **1.4 km** from the Bohinj Jezero stop | Open until 30 Nov; **€4** entry |
+| 2 | [**Lake Bled – Ojstrica – Velika Osojnica – Mala Osojnica**](https://www.alltrails.com/trail/slovenia/bled/blejsko-jezero-ojstrica-velika-osojnica-mala-osojnica) | 4.7 (**1,114**) | 4.5 km · 311 m, about 2–2.5 h | ✅ Bus Lesce ŽP → Bled (about 8 min), then a **45–50 min lakeside walk** to Velika Zaka; or a local bus to **Mlino** (then 20 min); or a train to **Bled Jezero** (10 min walk) | Free. The classic Bled postcard view. Steep, with ropes and a metal staircase; wet leaves in October. **Ideal for sunset (18:15 Fri, 18:13 Sat)** |
+| ✗ | Mount Viševnik | 4.8 (1,512) | 8.5 km · 720 m | ❌ The Pokljuka bus ended in September; taxi about €35–50 each way | Possible frost or snow |
+| ✗ | Slemenova Špica | 4.8 (1,268) | 6 km · 395 m | ❌ The Vršič bus ran only until 30 Sep | Possible frost or snow |
 
-**Dropped because they're not reachable without a car in October:**
-- Slemenova Špica and Vršič: the Vršič bus ran only until 30 Sep.
-- Mount Viševnik and the Pokljuka routes: the Pokljuka bus ended in September.
-- Peričnik Waterfall: the Vrata shuttle is seasonal.
-- Seven Lakes, Kredarica and Triglav: trailheads 4–12 km from a bus, plus the October snow risk.
+**Next most popular (900–999 reviews, all in Bled, all reachable by bus):**
+- [Lake Bled loop via the town centre](https://www.alltrails.com/trail/slovenia/bled/blejsko-jezero), 4.7 (966), 6.3 km, flat.
+- Lake Bled + Velika Osojnica, 4.7 (930), 9 km · 334 m.
+- Ojstrica loop, 4.7 (904), 3.2 km · 214 m.
 
-These were found through a Google AI overview (citing Rome2Rio and bohinj.si) plus OpenStreetMap route data. Arriva's own site was down on 16 Oct, so check the exact departure on the stop board or in the Arriva app.
+**Plan:**
+- **Fri 16:** Ojstrica / Mala Osojnica at sunset. This is the same viewpoint as the 17:30 slot in the hour-by-hour plan.
+- **Sat 17:** Mostnica Gorge, plus Vogar if you have the legs.
+
+Both trails are saved to Google Maps → Want to go.
 
 | Trail | ★ | Reviews | Length · climb | Difficulty · type | Time | Area · from Lesce | Map |
 |---|---|---|---|---|---|---|---|
