@@ -49,6 +49,30 @@ Bled itself was 84% full on Booking, and next weekend (23–25 Oct) is no better
 
 ## 🥾 AllTrails 4.7★+ hikes, Triglav National Park (pulled 16 Oct 2026)
 
+### 🍂 Popular fall hikes, reachable without a car (checked 16 Oct)
+
+Sources:
+- [Bled tourism's "10 autumn hikes"](https://www.bled.si/en/inspiration/blog/2025101509073320/10-unforgettable-autumn-hikes-in-bled-and-the-julian-alps/)
+- Triglav National Park's fall-colours guide
+- Bohinj guides
+
+Each was cross-checked against AllTrails (rating and reviews) and Google (October hours, bus).
+
+| Hike | Why in autumn | AllTrails | Getting there | October status |
+|---|---|---|---|---|
+| **Mostnica Gorge – Voje valley** | Bohinj guides' top autumn walk; gorge and meadows in fall colour | 4.7 (**2,118**) | Bus Bled → Bohinj, then 1.4 km | Open until 30 Nov, €4 |
+| **Bled Round Trail** (Castle, Kuhovnica, **Ojstrica, Mala Osojnica**, **Straža**) | bled.si autumn **#1**; 14 km, about 4.5 h; every lake viewpoint | Ojstrica–Osojnica section 4.7 (**1,114**) | Starts at Bled (bus Lesce ŽP → Bled, about 8 min) | Free (castle extra). Do the Ojstrica / Mala Osojnica part at **sunset** |
+| **Vintgar Gorge + Hom / St Catherine loop** | bled.si autumn **#2**; gorge boardwalks plus the hilltop church view | 4.6 (**1,268**) | **Vintgar e-shuttle** from Bled bus station every 15 min (included in the ticket) | **Open 09:00–15:00 daily, closes for winter after October.** **€15 All-in-One, online timed slot only**; arrive 40 min early |
+| Savica Waterfall | Bohinj classic; 78 m double fall | 4.5 (752) | Bus to Ukanc, then **about 5 km / 50–60 min walk** (the summer shuttle has ended) | 09:00–17:00, €4; closes in bad weather |
+| Planica – Tamar | bled.si autumn #9; valley under the north faces | 4.5 (132) | Year-round bus Jesenice → Rateče, then walk | Shaded and often already wintry; long day |
+
+**Larch hikes that need a car in October:** Slemenova Špica, Seven Lakes Valley, Planina Lipanca, Goreljek (no Vršič or Pokljuka bus after September).
+
+**How it fits the weekend:**
+- **Fri:** Ojstrica / Mala Osojnica at sunset.
+- **Sat:** Mostnica Gorge (10:00 hostel shuttle).
+- **Sun morning:** Vintgar on a 09:00 slot, if you book online. Leave your bag at the hostel and be back for the 13:29 train.
+
 ### ⭐ The most popular hikes: AllTrails 4.7★+ **and 1,000+ reviews**, reachable by public transport (checked 16 Oct)
 
 Method:
