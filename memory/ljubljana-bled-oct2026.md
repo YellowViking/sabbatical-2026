@@ -49,6 +49,17 @@ Bled itself was 84% full on Booking, and next weekend (23–25 Oct) is no better
 
 ## 🥾 AllTrails 4.7★+ hikes, Triglav National Park (pulled 16 Oct 2026)
 
+### ⭐ Top 3 with AllTrails' own 4.7★+ filter (`rating_min=4.7`, AllTrails' default most-popular order), checked on Google 16 Oct
+
+| # | Trail | ★ (reviews) | Length · climb | October status (Google) | From Lesce without a car |
+|---|---|---|---|---|---|
+| 1 | [**Mostnica Gorge – Mostnica Waterfall via Stara Fužina**](https://www.alltrails.com/trail/slovenia/bohinj/soteska-mostnice-in-slap-voje-iz-stare-fuzine) | 4.7 (2,118) | 10.6 km · 260 m, about 2 h 45 | ✅ **Open daily 1 Apr – 30 Nov**; **€4** entry (cash at the gate; a lower October fee is mentioned) | ✅ Bus Bled → Bohinj, then Stara Fužina. **Best pick for Sat 17** |
+| 2 | [**Slemenova Špica**](https://www.alltrails.com/trail/slovenia/kranjska-gora/slemenova-spica) | 4.8 (1,268) | 6 km · 395 m (from Vršič Pass, 1,611 m) | ⚠️ Golden larches in October, but frost or early snow possible at 1,911 m | ❌ The **free Vršič shuttle ran only 1 Jun – 30 Sep**; the road is open but there's no bus, so a taxi from Kranjska Gora |
+| 3 | [**Mount Viševnik**](https://www.alltrails.com/trail/slovenia/bohinj/okoli-visevnika) | 4.8 (1,512) | 8.5 km · 720 m (from Rudno Polje, 1,347 m), 3–5 h | ⚠️ Possible mud, frost or early snow on the summit ridge | ❌ **The Pokljuka seasonal bus ended in September**; taxi from Bled about €35–50 each way |
+
+So for a car-free Saturday: **#1 Mostnica Gorge**, adding **Vogar Viewpoint** (#6 on the same list, 4.7★, starts at the same trailhead) if you have the legs. #2 and #3 only make sense with a taxi. Sources: Google AI overview citing bohinj.si, e-slovenie.com, kranjska-gora.si, erjavcevakoca.com, bled.si and AllTrails reviews from 15 Oct.
+
+
 Source: [AllTrails, Triglav National Park](https://www.alltrails.com/parks/slovenia/bled/triglavski-narodni-park), all **162** trails fetched through its explore API. **72 rate 4.7★ or higher.** The table shows the **32 with 50+ reviews**, where the rating means something; the rest are listed underneath. **All saved to Google Maps → Want to go** (27 pins; some trails share a destination pin). "From Lesce" is straight-line distance from the hostel.
 
 **🚌 = doable from Lesce by public transport in a day** (Bled or Bohinj buses). For **Sat 17**, the best fit is **Mostnica Gorge** (4.7★, 2,118 reviews), starting at Stara Fužina (about 2 km from Ribčev Laz on Lake Bohinj), plus **Vogar Viewpoint** or the **Lake Bohinj loop**. **Pokljuka Gorge** is the closest (9 km), but check the buses.
