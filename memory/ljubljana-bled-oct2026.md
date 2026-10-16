@@ -10,6 +10,43 @@ Bled itself was 84% full on Booking, and next weekend (23–25 Oct) is no better
 | **Weekend premium** | Small: about +US$4.50 for the Agoda dorm and +€8–12 for Hostelworld privates compared with other dates. The cost is mainly availability |
 | **Ljubljana → Lesce-Bled ticket** ✅ | SŽ e-shop, €5.80, 2nd class, valid **16.10.2026** (date only, no train number shown) |
 
+### ⏱ Fri 16, hour by hour (local time; sunset 18:15, 16/6 °C, dry)
+
+| Time | What | Boarding / details |
+|---|---|---|
+| 09:00 | Pack; breakfast. **Buy food for the train**: R 432 is a regional train, so don't count on a buffet | Bakeries and burek around Dolac and Tkalčićeva |
+| **09:30** | Check out of Main Square Hostel and walk to Zagreb Glavni kolodvor (17 min) | |
+| **09:50** | **HŽ international counter** (corridor to the left of the main hall): *"Ljubljana Spezial, one-way, 10:28"*, **€9** | Then find **"Ljubljana 10:28"** on the departures board (*Odlasci*) for the platform (*kolosijek* = track) |
+| **10:15** | **Be on the platform.** Boarding usually starts 10–15 min before departure | Platforms aren't published online (ÖBB has no track data for this train), so use the board |
+| **10:28 → 13:07** | 🚆 **R 432** Zagreb → Ljubljana (2 h 39) | Keep your **passport handy** at the Dobova border. Both countries are in Schengen, but spot checks happen |
+| **13:07** | Arrive in Ljubljana. Check the **Odhodi** (departures) board for **"Lesce-Bled / Jesenice 13:30"** | 23 min to change, same station |
+| **13:20** | **On the platform** for LP 314 | SŽ e-ticket on your phone |
+| **13:30 → 14:26** | 🚆 **LP 314** Ljubljana → Lesce-Bled (56 min) | Sit on the **left** side, facing forward, for the Karavanke mountain views (not verified) |
+| **14:30** | Walk 4 min to 1A Adventure Hostel; check in (from 13:00) | Ask about the **free Bled shuttle times** and Saturday's options |
+| **15:00** | Hostel shuttle, or the bus from **Lesce ŽP** to Bled (about 8 min) | about €1–2 by bus |
+| **15:15–17:15** | **Lake Bled loop**, 6 km, flat, about 1 h 45 (free). Lakeside path, views of the island church and the castle | |
+| **17:30** | Climb to **Mala Osojnica / Ojstrica** viewpoint (about 20–30 min, steep and rooty; head-torch for the descent) for **sunset at 18:15** | Free. The classic postcard view of Bled |
+| **19:00** | Dinner in Bled. **Kremšnita** (Bled cream cake) for dessert | |
+| ~20:30 | Back to Lesce by bus, taxi, or a 4 km walk (about 50 min) | **Check the last bus and shuttle with the hostel** (not verified) |
+
+### Sat 17, suggested (sunrise 07:23, sunset 18:13, 16/8 °C, dry)
+
+| Time | What |
+|---|---|
+| 08:30 | Bus or shuttle to Bled; Arriva bus from Bled to **Bohinj** (Ribčev Laz), about 35–40 min. Times are a lead; check them on arriva.si or at the station |
+| 10:00–14:00 | **Lake Bohinj**: lakeside walk, or **Savica waterfall** (bus or walk from Ukanc; entry fee). Quieter and wilder than Bled |
+| 15:00 | Back to Bled. Optional: **Vintgar Gorge** (check opening and online tickets first; season into autumn) or **Bled Castle** (entry fee) |
+| 18:13 | Sunset from **Straža hill** or the lakeshore |
+| Evening | Dinner; back to Lesce |
+
+### Sun 18
+| Time | What |
+|---|---|
+| 09:30 | Pack. **Check out by 10:00** and leave your bag at reception |
+| 10:00–12:45 | Free morning: Radovljica old town (about 2 km from Lesce; beekeeping museum, gingerbread), or a last Bled visit |
+| **13:15** | Collect your bag; walk to Lesce-Bled station |
+| **13:29 → 14:14** | 🚆 **MV 315** → Ljubljana. **Buy the €4.10 SŽ ticket in the e-shop first**, or pay a €12 penalty on board. It's marathon day, so arrive after the race |
+
 ### Fri 16: Zagreb → Lesce
 
 | Time | Step | Ticket | Map |
