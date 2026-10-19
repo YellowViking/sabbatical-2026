@@ -32,6 +32,40 @@
 | Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
 | Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
 
+## 🔇 Party check redone from **reviews** (19 Oct). Booking's "happy hour" filter is **not** a party flag
+
+Method: Booking's review search for *party / loud / noisy / music / drunk* vs *quiet / calm* (newest 25 matches per word; "neg" = mentioned as a complaint), plus the share of reviews below 7.
+
+| Hostel | Happy-hour filter? | What reviews say | Verdict |
+|---|---|---|---|
+| **Casali, Trieste** (8.4, 2,028) | yes | Noise complaints are creaky beds and open windows; "party" only once; 15 "quiet" | ✅ **Not a party hostel.** €22 vs ControVento €37 |
+| ControVento, Trieste (8.7, 584, 4% bad) | no | A pub across the road plays loud music **at weekends**. Thursday is fine | ✅ |
+| Anda, Mestre | yes | "crazy party in the bar every 2 days" | ❌ party (not needed now) |
+| Hotello, Padua | no | common-room music sometimes loud; street noise | ✅ (padlock + earplugs) |
+| **Plus Florence** (current pick) | no | "bar in front of the hostel, noise very loud till 3am"; lots of loud/noisy complaints | ⚠️ **noisy** |
+| **My Friends, Florence** (8.8, 1,906, 7% bad) | no | **21 "quiet", 9 "calm"**; complaints are snoring and cramped bathrooms | ✅ **new Florence pick** |
+| YellowSquare / Ostello Bello Florence | yes | "noise from the party", "party zone" | ❌ party |
+| **La Controra, Naples** (8.9, 1,190, 6% bad) | yes | **10 "quiet", 7 "calm"**; complaints are hallway doors | ✅ **new Naples pick** (better rated than Mancini 8.7) |
+| Hostel of the Sun, Naples (8.6) | yes | common area loud on weekend nights | ⚠️ ok |
+| **Ostello Vucciria, Palermo** (current pick) | no | "party every night of the week in a bar under…" (Vucciria nightlife) | ❌ **noisy** |
+| **Hostelò, Palermo** (8.8, 529, 5% bad) | yes | **no party or noise complaints**; one "no bed curtains" | ✅ **new Palermo pick** |
+| Ostello Bello Palermo | yes | many party/loud complaints | ❌ |
+| The Yard, Catania | yes | "Partyhostel, eher laut", late noise | ❌ |
+| Eco Hostel, Catania (current pick) | no | 14% of reviews below 7; some noise; basic shared bathrooms | ⚠️ the only other 8.0+ option; keep, but consider a private |
+| Generator, Rome | yes | under-18 school groups, noisy, 17% below 7 | ❌ |
+| The Rock (Matera), LoL (Syracuse), Il Sassolino (Riomaggiore) | no | little or no noise | ✅ |
+
+**Picks that change:**
+
+| Stop | New pick | Total | Instead of |
+|---|---|---|---|
+| Trieste (if staying) | ControVento €37, or **Casali €22** (also fine) | | — |
+| Florence 28–31 | **My Friends** | €112 | Plus Florence €93 |
+| Naples 6–10 | **La Controra** | €115 | Mancini €113 |
+| Palermo 18–21 | **Hostelò** | €137 | Vucciria €110 |
+
+---
+
 ## ➡️ v5 (19 Oct, latest): **straight to Padua on Thu 22** (no Trieste), Padua base 22–28
 
 - **Thu 22 (rain everywhere), relaxed start:** check out about 09:20 → 🚌 **FlixBus 09:45 → Trieste 11:30** (€23.99) → walk 2 min to Trieste Centrale, coffee or lunch → 🚆 **12:16 → Padova 14:38** (1 change, €18.10). **Total €42.** Cheaper alternative: 🚌 09:45 → Venice-Mestre 14:10 (€30.99) + 🚆 regional 14:23 → Padova 14:38 (€4.05; 13-min change, fallback 14:53 → 15:07). Earlier: 07:40 bus → Padova 11:38.
