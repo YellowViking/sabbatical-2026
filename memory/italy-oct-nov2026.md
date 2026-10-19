@@ -32,7 +32,36 @@
 | Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
 | Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
 
-## 🛏 Bed per stop: live availability and the pick (checked 19 Oct, 1 adult)
+## 🔁 Re-dated 19 Oct evening ("we can move days"): **current plan**
+
+Every start date from 22 Oct to 1 Nov was scanned for each northern stop. Findings:
+- **Bologna has non-party hostels free during the fair** (only the hotels were full).
+- **Venice has no non-party hostel on any date.** Anda (bar, happy hour) is the only hostel within reach, so moving dates can't fix that.
+- **Florence and La Spezia are open on every date.**
+
+So **Bologna comes first, Verona becomes a day trip** (dropping the €72/n private B&B), and everything else shifts by about a day.
+
+| Dates | Stop | Forecast | ✅ Bed (non-party, 8.0+, free on these nights) | Total | Getting there |
+|---|---|---|---|---|---|
+| Thu 22 → Sun 25 (3) | **Bologna** (+ **Verona day trip on Sat 24**, about 50 min by Frecciarossa) | 22–23 dry, 20 °C; 24 rain in Bologna but **dry in Verona** | **Bohoostel** 8.5 (1,985), 1.8 km | **€152** on Booking (check direct, which was cheaper on other dates) | 🚌 **FlixBus Ljubljana 12:10 → Bologna 19:30, direct, €28.99** (or 05:05 → 11:35) |
+| Sun 25 → Wed 28 (3) | **Venice** (stay in Mestre) + Padua day trip | dry, 15–17 °C | **Anda Venice Hostel** 8.9 (11,670), 200 m from Mestre station. ⚠ Bar and happy hour; it's the only hostel option | **€90** | 🚆 Bologna → Venice, about 1 h 30 |
+| Wed 28 → Fri 30 (2) | **Cinque Terre** (La Spezia) | **dry, 18 °C** | **Grand Hostel Manin** 9.2 (513), 200 m | **€93** | 🚆 Venice → La Spezia, about 4½–5 h (via Florence/Pisa or Milan) |
+| Fri 30 → Tue 3 Nov (4) | **Florence** (+ Siena; Lucca Comics on 28 Oct – 1 Nov if you want it) | dry 30 Oct – 2 Nov | **Plus Florence** 8.5 (20,721), 1.1 km | **€101** (Booking; Agoda was cheaper on other dates) | 🚆 La Spezia → Florence, about 2 h |
+| Tue 3 → Sat 7 (4) | **Rome** | 3rd ⛈ (travel day) | **Lisa House** 8.9 (male dorm) or **Beds&Rooms Tiburtina** 8.9 | **€166–169** | 🚆 Florence → Rome, about 1 h 30 |
+| Sat 7 → Tue 10 (3) | **Naples + Amalfi** | | **Hostel Mancini** 8.7 (2,266) | **€84** Booking (Hostelworld was cheaper on other dates) | 🚆 about 1 h 10 |
+| Tue 10 → Fri 13 (3) | **Matera** | | **The Rock Hostel** 9.0 (829) | **€88** | 🚌 Naples → Matera (to check) |
+| Fri 13 → Mon 16 (3) | **Palermo** | | **Ostello Vucciria** 9.1 (360) | **€120** | ✈ Bari → Palermo (Ryanair Fri 13 15:05 was €28.59 on 10 Oct; re-price) |
+| Mon 16 → Thu 19 (3) | **Syracuse / Ortigia** | | **LoL Hostel** 8.6 (1,039) | **€80** | 🚌/🚆 |
+| Thu 19 → Sat 21 (2) | **Catania + Etna** → ✈ home 21 Nov | | **Eco Hostel** 8.1 (1,285) | **€61** (direct was cheaper on other dates) | |
+
+**Total about €1,040 for 30 nights (about €35/n).** That's the same as before, but every stop now has a dorm bed except the Venice compromise, there's no €72/n Verona private, and you get one extra Sicily night.
+
+**Book first:**
+1. **Bohoostel, 22–25**, and the FlixBus to Bologna.
+2. **Anda, 25–28.**
+3. **Grand Hostel Manin, 28–30.**
+
+## 🛏 Bed per stop for the earlier Verona-first version (superseded by the re-dated plan above)
 
 How these were checked:
 - **Booking hostel sweep:** hostels only, rated 8.0+, available for the exact nights. "Party" hostels (Booking's happy-hour filter) were excluded unless there was no alternative.
