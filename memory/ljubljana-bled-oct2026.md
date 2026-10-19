@@ -179,7 +179,11 @@ Check-out is 10:00, so leave your bag at the hostel. Sunday-night bed in Ljublja
 
 **Getting there, Tue 20:** 🚆 Lesce-Bled → Ljubljana, direct, about hourly: **D 311 09:31 → 10:17**, R 2411 10:01 → 10:59, D 313 11:32 → 12:27. **SŽ e-shop €5.80** (ÖBB charges €10.60).
 
-**Beds, 2 nights (book tonight):**
+**✅ Booked 19 Oct:**
+- **AdHoc Hostel**, Ljubljana, Tue 20 → Thu 22 (Hostelworld 9.2, about 300 m from the centre). [📍 Map](https://www.google.com/maps/search/?api=1&query=AdHoc%20Hostel%2C%20Ljubljana)
+- **SŽ ticket** Lesce-Bled → Ljubljana, Tue 20.
+
+*Other options that were considered:*
 
 | Hostel | Rating | Price |
 |---|---|---|
