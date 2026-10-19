@@ -219,7 +219,7 @@ Skip Party Hostel Zzz (party hostel).
 | 18:00 | **Metelkova** (art squat), then dinner | [📍](https://www.google.com/maps/search/?api=1&query=Metelkova%20Ljubljana) |
 
 ### Thu 22
-Check out early → 🚌 **FlixBus 07:40 → Trieste 09:10** → 🚆 **09:39 → Padova 11:38** (€40.44). Hotello Padova (see the Italy doc).
+Check out about 09:20 → 🚌 **FlixBus 09:45 → Trieste 11:30** → 🚆 **12:16 → Padova 14:38** (€42). Hotello Padova (see the Italy doc).
 
 ## ⚠️ The marathon
 
