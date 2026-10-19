@@ -1,4 +1,49 @@
-# Italy (+ Sicily): Tue 20 Oct → ~Sat 21 Nov 2026 (draft, about 32 nights)
+# Italy (+ Sicily): **revised 19 Oct**, Thu 22 Oct → Sat 21 Nov 2026 (30 nights)
+
+*Revised 19 Oct from the live 16-day forecast (Open-Meteo, 20 Oct – 3 Nov) and live Booking.com availability (1 adult, 8.0+ rated, EUR). Hostelworld was used for cities without Booking hostels. Nothing is booked. The 11 Oct draft is below for reference.*
+
+## What changed and why
+
+- **Thu 22 – Sun 25 the north is blocked:**
+  - **Venice is 98% booked**, and every Venice and Mestre hostel is sold out (Venice Marathon, Sun 25).
+  - **Padua is 85% and Bologna 91% booked** (Auto e Moto d'Epoca classic-car fair, 22–25 Oct).
+  - **Trieste is 85% booked.**
+  - **Verona is open.** So: **Verona first, then Venice from the 25th.** a&o Mestre is US$63 for 3 nights and Anda US$90.
+- **Weather:**
+  - Storms in the north Tue 20 – Thu 22, and showers Sat 24.
+  - Then a **dry spell across all of Italy, about Sun 25 → Mon 2 Nov**: 17–21 °C in the north, 20–24 °C in Sicily.
+  - **A storm everywhere on Tue 3 Nov.** That's a museum day (Uffizi or Accademia in Florence).
+  - The dry window covers Venice, Bologna and, most importantly, **Cinque Terre (30 Oct – 1 Nov)**, the most weather-dependent stop. Beyond day 7 the forecast is only indicative.
+- **The order stays north → south.** The south and Sicily are warm and dry through early November, and Sicily remains the last, longest block.
+
+## Plan (30 nights)
+
+| Dates | Stop | Nights | Forecast | Beds available (Booking 8.0+, 1 adult) | Notes |
+|---|---|---|---|---|---|
+| Thu 22 → Sun 25 Oct | **Verona** (+ Lake Garda / Sirmione) | 3 | 22 ⛈, 23–25 dry, 14–16 °C | **No hostels.** Private rooms: Euromotel Croce Bianca 9.4 €63/n (4.7 km out, Hostelworld), **B&B Cittadella 9.8 €76/n** (1.7 km), Booking from €69/n | Arena, Juliet's balcony, Castelvecchio, Piazza delle Erbe. **Sirmione day on Sat 24** |
+| Sun 25 → Wed 28 | **Venice** (stay in Mestre) | 3 | dry, 15–17 °C | **a&o Mestre US$63/3 n**; Anda Venice 8.9 US$90/3 n | Arrive after the marathon. San Marco, Rialto, cicchetti, Murano/Burano. **Padua day trip** (Scrovegni, book ahead) |
+| Wed 28 → Fri 30 | **Bologna** | 2 | dry, 17–18 °C | Bohoostel 8.5 €38/n | Food capital; Quadrilatero, towers, porticoes up to San Luca |
+| Fri 30 → Sun 1 Nov | **Cinque Terre** (La Spezia base) | 2 | **dry, 18–19 °C** | Grand Hostel Manin 9.2 €55/n; private Switch Holiday 8.9 €51/n | **Ferries end 1 Nov.** All Saints weekend, so **book early** |
+| Sun 1 → Wed 4 | **Florence** (+ Siena) | 3 | 1–2 dry; **3 ⛈** | **Plus Florence 8.5 €18/n** (dorm) | After Lucca Comics and the holiday, so prices drop. Museum day on the 3rd |
+| Wed 4 → Sun 8 | **Rome** | 4 | (normal: 19/11 °C, 46% wet days) | Lisa House 8.9 €42/n | Works in rain |
+| Sun 8 → Wed 11 | **Naples + Amalfi** | 3 | (normal: 50–60% wet days) | **Safestay Materdei 8.1 €19/n** | Pompeii; Path of the Gods on a dry day |
+| Wed 11 → Sat 14 | **Matera** | 3 | (normal: 16–17/8 °C) | The Rock Hostel 9.0 €29/n | Bus from Naples (to check) |
+| Sat 14 → Tue 17 | **Palermo** | 3 | (normal: 20/14 °C) | Ostello Vucciria 9.1 €38/n | ✈ Bari → Palermo (Ryanair, to re-price) |
+| Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
+| Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
+
+**Book now, in this order:**
+1. **Verona** (Thursday; few cheap rooms).
+2. **Venice 25–28** (hostels only free from the 25th).
+3. **Cinque Terre 30 Oct – 1 Nov** (holiday weekend, last ferries).
+
+Florence, Rome and the south have plenty of availability.
+
+**Getting from Ljubljana to Verona, Thu 22:** 🚌 **FlixBus 12:55 → 18:40, direct, €21.49.** The train is 07:42 → 15:00 with 3 changes, including a Nova Gorica → Gorizia border walk; ÖBB quotes €45.20, which may cover only part of the trip. The bus is cheaper and simpler on a rainy day.
+
+---
+
+## Draft of 11 Oct (superseded by the plan above)
 
 *Built on 10–11 Oct from Lonely Planet *Italy*, Open-Meteo 10-year normals (2016–2025), live Booking.com availability and the event websites. **Draft:** Italian train times and the Matera links aren't checked yet. Nothing is booked.*
 

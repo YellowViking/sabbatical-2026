@@ -175,6 +175,28 @@ Check-out is 10:00, so leave your bag at the hostel. Sunday-night bed in Ljublja
 
 *Original plan: 2 nights in Ljubljana (14, 15), then 2 in Bled (16, 17). Checked 10–11 Oct. The older general Slovenia notes are in [slovenia-local-food.md](slovenia-local-food.md).*
 
+## 🏙 Ljubljana, Tue 20 → Thu 22 Oct (added 19 Oct)
+
+**Getting there, Tue 20:** 🚆 Lesce-Bled → Ljubljana, direct, about hourly: **D 311 09:31 → 10:17**, R 2411 10:01 → 10:59, D 313 11:32 → 12:27. **SŽ e-shop €5.80** (ÖBB charges €10.60).
+
+**Beds, 2 nights (book tonight):**
+
+| Hostel | Rating | Price |
+|---|---|---|
+| H2O Hostel | Booking 8.2 | dorm €56 for 2 nights |
+| Turn Hostel | Hostelworld 8.2, 400 m from the centre | dorm €26/night |
+| Fuzzy Log (ibis Styles hostel) | 9.1 | private €57/night |
+
+Skip Party Hostel Zzz (party hostel).
+
+**Weather:** **Tue 20 sunny, 19 °C. Wed 21 rain all day** (15 mm). Thu 22 rain.
+
+| Day | Plan |
+|---|---|
+| **Tue 20 (sunny): outdoors** | Drop your bag. **Prešernov trg → Triple Bridge → Ljubljanica riverbanks** → **Central Market** (Plečnik's colonnade) → walk up to **Ljubljana Castle** (the grounds are free; the tower view costs extra) → **Tivoli Park → Rožnik hill** (an easy forest walk) for late afternoon → riverside dinner. All free except the castle tower |
+| **Wed 21 (rain): indoors** | **National and University Library** (Plečnik) → **Plečnik House** (book a slot) → **National Gallery** → **Metelkova** (art squat, worth a look even in rain) → Open Kitchen is Fridays only, so try a gostilna for štruklji and kranjska klobasa → evening craft beer |
+| **Thu 22** | Check out → 🚌 **FlixBus 12:55 → Verona 18:40** (€21.49). The morning is free: market, or a café if it's still raining |
+
 ## ⚠️ The marathon
 
 The **Ljubljana Marathon is on Sun 18 Oct**, with the expo on 15–17 Oct. Booking.com shows Ljubljana **92% booked for Fri 16** (only 72 places left, rated 8+, central). Wed 14 and Thu 15 are fine but about €15/night dearer than a normal week. So: **leave Ljubljana on Fri 16 morning.**
