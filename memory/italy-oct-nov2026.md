@@ -48,7 +48,8 @@
 
 | Date | Leg | Fastest sensible option | Time | Price |
 |---|---|---|---|---|
-| Thu 22 | Ljubljana → Bologna | 🚌 FlixBus 12:10 → 19:30, direct (or 05:05 → 11:35) | 7 h 20 | €28.99 |
+| **Thu 22** | Ljubljana → **Trieste** (overnight to break up the 7 h 20 through bus) | 🚌 FlixBus **14:35 → 16:10**, direct (or 09:45 / 07:40) | 1 h 35 | €22.99 |
+| **Fri 23** | Trieste → Bologna | 🚆 **IC 594 + FR 9427, 13:27 → 16:59**, 1 change | 3 h 32 | €43.90 |
 | Sat 24 | Bologna ⇄ Verona (day trip) | 🚆 regional 08:10 → 09:35, direct | 1 h 25 each way | €10.80 each way |
 | Sun 25 | Bologna → Venice S. Lucia | 🚆 Frecciarossa, hourly, direct | 1 h 33 | €27.90–36 |
 | Wed 28 | Venice → **Florence** | 🚆 FR 9411 09:26 → 11:39, direct | 2 h 13 | €37.90–40.90 |
@@ -69,7 +70,8 @@
 
 | Nights | Stop | ✅ Pick | Total | Backup |
 |---|---|---|---|---|
-| 22–25 | Bologna | Bohoostel 8.5 (1,985) | €152 | Dopa 8.9 · €240 |
+| 22–23 | **Trieste** | **ControVento** 8.7 (584), 800 m | €37 | Casali 8.4 · €22 (party-flagged) |
+| 23–25 | Bologna | Bohoostel 8.5 (1,985) | €106 | Dopa 8.9 · €182 |
 | 25–28 | Venice (Mestre) | Anda 8.9 (11,670) ⚠ bar and happy hour; the only hostel | €90 | (none non-party) |
 | 28–31 | Florence | Plus Florence 8.5 (20,721) | €93 | My Friends 8.8 · €112 |
 | 31–2 Nov | Cinque Terre | **Il Sassolino, in Riomaggiore** 9.1 (91) | €99 | Ostello ninin de ma', Framura 8.4 · €83 |
@@ -81,10 +83,10 @@
 | 17–18 | Agrigento | Villa Pirandello (private) 8.4, 450 m | €39 | Valle dei Templi Rent BedRooms 8.5 · €48 |
 | 18–21 | Palermo | Ostello Vucciria 9.1 (360) | €110 | |
 
-**About €1,065 for 30 nights.**
+**About €1,055 for 30 nights** (with the Trieste night).
 
 **v3 day by day (summary):**
-- 22 bus · 23 Bologna · 24 Verona · 25 Venice (afternoon) · 26 Venice · 27 Padua/Rialto
+- 22 Ljubljana morning → bus to **Trieste** (Piazza Unità and Molo Audace at night) · 23 **Trieste morning (dry): San Giusto, Canal Grande, Barcola → Miramare** → train to Bologna 16:59 · 24 Verona · 25 Venice (afternoon) · 26 Venice · 27 Padua/Rialto
 - 28 → Florence · 29 Uffizi/Duomo · 30 Siena · 31 → Riomaggiore (Via dell'Amore, Manarola sunset)
 - **1 Nov Cinque Terre hike** (last ferry day) · 2 → Rome down the coast · 3 ⛈ Vatican (open Tue) · 4 Colosseum/Forum · 5 Appian Way/Ostia
 - 6 → Naples, Archaeological Museum · 7 Sansevero/underground · 8 Pompeii · 9 Path of the Gods (driest day)
