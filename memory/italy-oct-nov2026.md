@@ -37,15 +37,19 @@
 - **Thu 22 (rain everywhere):** Ljubljana morning, check out of AdHoc → 🚌 **FlixBus 14:35 → Padua 19:15, direct, 4 h 40, €26.99** (or 12:10 → 17:45 €20.49, or 16:00 → 20:40 €25.49). Trains need 3–4 changes plus the Gorizia border walk, so the bus wins.
 - **Bed:** ✅ **Hotello Padova, 22–28 (6 nights): €174 on Expedia** (€29/n; Hotels.com €29, Agoda €30, Hostelworld/Booking €35). About 300 m from Padova station.
 
-| Day | Plan |
-|---|---|
-| Thu 22 🌧 | Bus; arrive 19:15; dinner near the hostel |
-| Fri 23 ☀ | **Padua**: **Scrovegni Chapel (book a slot)**, Basilica di Sant'Antonio, Prato della Valle, Palazzo della Ragione and its market squares, spritz on Piazza delle Erbe |
-| Sat 24 | **Verona day trip** (dry there; Venice gets rain): FR 44 min €16.90, or regional 1 h 33 €8.50 |
-| Sun 25 | Venice Marathon in the morning, so pick one: **Vicenza** (Palladio; LP's *Northern Grandeur* gives it 1 day; about 15–25 min) or a quiet morning, then **Venice in the afternoon** (Cannaregio cicchetti) |
-| Mon 26 ☀ | **Venice day 1** (regional 27 min, €5): San Marco, Palazzo Ducale, Accademia, Zattere sunset |
-| Tue 27 ☀ | **Venice day 2**: Rialto market, Murano and Burano |
-| Wed 28 | 🚆 → **Bologna stopover** (FR 09:56 → 10:59, €19.90; bag in left luggage) → 🚆 **Florence** |
+**6 nights, sized by need** (LP: Venice chapter "Three Days to Explore", Padua 1, Verona 1) and **re-ordered for weather and the marathon**:
+
+| Day | Plan | Why that day |
+|---|---|---|
+| Thu 22 🌧 | Bus; arrive 19:15 | arrival |
+| **Fri 23 ☀** | **Venice day 1**: San Marco, Palazzo Ducale, Rialto (market open), Cannaregio cicchetti | Venice is dry and there's no marathon |
+| **Sat 24** | **Verona day trip**: Arena, Piazza delle Erbe, Castel San Pietro view | Venice rains, Verona is dry |
+| **Sun 25** | **Padua**: Scrovegni Chapel (book a slot), Sant'Antonio, Prato della Valle, Palazzo della Ragione | Venice Marathon day; Padua's sights are mostly indoors |
+| **Mon 26 ☀** | **Venice day 2**: Accademia or Peggy Guggenheim, Dorsoduro, a traghetto, Zattere sunset | dry |
+| **Tue 27 ☀** | **Venice day 3**: Rialto fish market (closed Sun–Mon) → **Murano and Burano** | dry, islands day |
+| Wed 28 | Check out → Bologna stopover → Florence | onward |
+
+Nothing is compressed. The trip still totals 30 nights: Padua 6, Florence 3, Cinque Terre 2, Rome 4, Naples 4, Matera 2, Sicily 9.
 
 **Compared with v4 (Trieste overnight):**
 - **Pros:** one bus instead of bus + train, one less check-in, Padua gets a full dry day, and Sunday frees up for Vicenza. Cheaper: €174 + €27 vs €37 + €140 + €23 + €26.
