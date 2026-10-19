@@ -69,6 +69,21 @@ Nothing is compressed. The trip still totals 30 nights: Padua 6, Florence 3, Cin
 
 **Bed:** ✅ **Hotello Padova – Hostel & More** 8.4 (911), not party-flagged, 700 m from the centre, 10-bed mixed dorm. Free 23–28 Oct. **€140 for 5 nights on Expedia (€28/n)**; Hotels.com €29/n, Agoda €30/n, Booking €200. Confirm the Expedia total before paying.
 
+**Hotello reviews (Booking, 912 reviews; read 19 Oct)**
+
+Ratings: 54% are 9+, **11% are below 7** (101 of 912). Category scores: location 9.3, staff 9.3, cleanliness 8.6, comfort 8.5, value 8.5, facilities 8.3, Wi-Fi 8.2.
+
+Downsides, newest first:
+- **No working kitchen.** "Kitchen wasn't operational yet, construction going on" (Sep–Oct 2026); there's a microwave and fridge in the lounge. This breaks the kitchen criterion.
+- **Noise:** the hostel is on busy Corso del Popolo with little soundproofing, and the common-room music can be loud until about 23:00.
+- **Bathrooms:** shared, mixed-gender; showers leak or flood and have nowhere to put clothes; one cockroach report (Aug 2026). **No bed-bug mentions.**
+- **Bring your own padlock** for the per-bed lockers. Some bottom bunks lack full bed curtains, and the steel curtain rods are noisy.
+- **Station neighbourhood:** some find it a bit unsafe at night. One review complains about homeless people using the showers.
+
+The good: right by the station, friendly staff, a numbered locker per bed, a lounge with a fridge.
+
+**Verdict:** fine for 6 nights on a budget if you bring a padlock and earplugs. Ask for a **6-bed room on the courtyard side, upper bunk with a curtain**, and plan meals out. Alternatives if any of this is a deal-breaker: AQUA (Abano, 9.7, has a spa, but about 1 h a day of buses), Urban Suite private (€86/n), or Venice privates for 25–28 (€146/n).
+
 **Hostel vs private, and a better location? (checked 19 Oct)**
 
 | Option | Where | Rating | Price | Notes |
