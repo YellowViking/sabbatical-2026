@@ -48,13 +48,55 @@ So **Bologna comes first, Verona becomes a day trip** (dropping the €72/n priv
 | Wed 28 → Fri 30 (2) | **Cinque Terre** (La Spezia) | **dry, 18 °C** | **Grand Hostel Manin** 9.2 (513), 200 m | **€93** | 🚆 Venice → La Spezia, about 4½–5 h (via Florence/Pisa or Milan) |
 | Fri 30 → Tue 3 Nov (4) | **Florence** (+ Siena; Lucca Comics on 28 Oct – 1 Nov if you want it) | dry 30 Oct – 2 Nov | **Plus Florence** 8.5 (20,721), 1.1 km | **€101** (Booking; Agoda was cheaper on other dates) | 🚆 La Spezia → Florence, about 2 h |
 | Tue 3 → Sat 7 (4) | **Rome** | 3rd ⛈ (travel day) | **Lisa House** 8.9 (male dorm) or **Beds&Rooms Tiburtina** 8.9 | **€166–169** | 🚆 Florence → Rome, about 1 h 30 |
-| Sat 7 → Tue 10 (3) | **Naples + Amalfi** | | **Hostel Mancini** 8.7 (2,266) | **€84** Booking (Hostelworld was cheaper on other dates) | 🚆 about 1 h 10 |
-| Tue 10 → Fri 13 (3) | **Matera** | | **The Rock Hostel** 9.0 (829) | **€88** | 🚌 Naples → Matera (to check) |
+| Sat 7 → Wed 11 (4) | **Naples + Pompeii + Amalfi** | | **Hostel Mancini** 8.7 (2,266) | **€113** Booking (Hostelworld was cheaper on other dates) | 🚆 about 1 h 10 |
+| Wed 11 → Fri 13 (2) | **Matera** | | **The Rock Hostel** 9.0 (829) | **€59** | 🚌 Naples → Matera (to check) |
 | Fri 13 → Mon 16 (3) | **Palermo** | | **Ostello Vucciria** 9.1 (360) | **€120** | ✈ Bari → Palermo (Ryanair Fri 13 15:05 was €28.59 on 10 Oct; re-price) |
 | Mon 16 → Thu 19 (3) | **Syracuse / Ortigia** | | **LoL Hostel** 8.6 (1,039) | **€80** | 🚌/🚆 |
 | Thu 19 → Sat 21 (2) | **Catania + Etna** → ✈ home 21 Nov | | **Eco Hostel** 8.1 (1,285) | **€61** (direct was cheaper on other dates) | |
 
-**Total about €1,040 for 30 nights (about €35/n).** That's the same as before, but every stop now has a dorm bed except the Venice compromise, there's no €72/n Verona private, and you get one extra Sicily night.
+### 📅 Day by day (sized from LP Italy's itineraries: Venice 2 + Padua 1, Bologna 1, Verona 1, Cinque Terre "over two days", Florence 2 + Siena 1, Rome 3, Naples 2 + Pompeii 1)
+
+**Nights per stop:** Bologna 3 · Venice 3 · Cinque Terre 2 · Florence 4 · Rome 4 · Naples 4 · Matera 2 · Palermo 3 · Syracuse 3 · Catania 2 = 30.
+- **Verona is a day trip, not 3 nights:** LP gives it 1 day, and it has no hostels.
+- **Matera was cut from 3 to 2 nights** and the night given to Naples/Amalfi: Amalfi needs a dry day, and Naples is the wettest stop, so it needs a spare day.
+
+(check) = timetable or opening detail not yet confirmed on the official site.
+
+| Day | Where you sleep | Plan |
+|---|---|---|
+| **Thu 22 Oct** | Bologna | Ljubljana morning → 🚌 FlixBus 12:10 → Bologna 19:30. Dinner in the Quadrilatero |
+| **Fri 23** ☀ | Bologna | **LP's Bologna day:** Piazza Maggiore, Basilica di San Petronio, Archiginnasio, Asinelli tower (timed ticket), Pinacoteca. Late afternoon: **walk the 3.8 km of porticoes up to San Luca** (free, outdoors). Aperitivo |
+| **Sat 24** ☀ in Verona | Bologna | 🚆 **Verona day trip** (about 50 min by Frecciarossa, longer by regional train): Arena, Piazza delle Erbe, Juliet's courtyard, Ponte Pietra → **Castel San Pietro viewpoint** (free) → Castelvecchio |
+| **Sun 25** ☀ | Venice (Anda, Mestre) | 🚆 Bologna → Venice, about 1 h 30. **Marathon morning**, so skip San Marco until the afternoon. Cannaregio, **cicchetti crawl on Fondamenta degli Ormesini** |
+| **Mon 26** ☀ | Venice | Early: **Basilica di San Marco**, then Palazzo Ducale. Afternoon: Accademia or the Peggy Guggenheim, a traghetto across the Grand Canal, sunset from the Zattere |
+| **Tue 27** ☀ | Venice | Morning **Rialto market** (the fish market is shut Sun–Mon) → 🚆 **Padua half-day: Scrovegni Chapel (book a slot)**, Basilica di Sant'Antonio. Or Murano and Burano by vaporetto |
+| **Wed 28** ☀ | La Spezia (Manin) | 🚆 Venice → La Spezia, about 4½–5 h. Evening: Portovenere by bus, or rest |
+| **Thu 29** ☀ | La Spezia | **Cinque Terre hike day** (Cinque Terre card, about €7.50): Monterosso → Vernazza → Corniglia on the coastal path; train between villages; Manarola at sunset. Ferries run until 1 Nov |
+| **Fri 30** ☀ | Florence (Plus) | Morning Riomaggiore and the Via dell'Amore → 🚆 to Florence, about 2–2½ h. **Piazzale Michelangelo at sunset** (free) |
+| **Sat 31** ☀ | Florence | **Duomo complex** (dome climb booked), Baptistery, **Uffizi** (book), Piazza della Signoria, Ponte Vecchio |
+| **Sun 1 Nov** ☀ | Florence | **First Sunday: state museums are free** (Accademia's *David*, though the queues are long; book or go early). Oltrarno, Santo Spirito, Boboli |
+| **Mon 2** ☀ | Florence | 🚆/🚌 **Siena day trip** (Uffizi and Accademia are closed on Mondays anyway): Piazza del Campo, Torre del Mangia, Duomo |
+| **Tue 3** ⛈ | Rome (Lisa House) | 🚆 Florence → Rome, about 1 h 30. Rain-proof afternoon: **Pantheon**, Piazza Navona, Trevi; Trastevere dinner |
+| **Wed 4** | Rome | **Colosseum + Forum + Palatine** (book a timed entry). Monti in the evening |
+| **Thu 5** | Rome | **Vatican Museums + Sistine Chapel** (book; closed Sundays) + St Peter's and the dome climb |
+| **Fri 6** | Rome | Outdoors and cheap: **Appian Way** by bike or on foot plus the catacombs, or **Ostia Antica** by regional train. Borghese Gallery if booked |
+| **Sat 7** | Naples (Mancini) | 🚆 Rome → Naples, about 1 h 10. **Archaeological Museum** (Pompeii's finds), Spaccanapoli, **pizza** |
+| **Sun 8** | Naples | **Cappella Sansevero** (*Veiled Christ*), Napoli Sotterranea, the view from **Castel Sant'Elmo** |
+| **Mon 9** | Naples | 🚆 Circumvesuviana → **Pompeii** (open daily) |
+| **Tue 10** | Naples | **Amalfi Coast on the driest day:** SITA bus → **Path of the Gods** (Bomerano → Nocelle → Positano). Swap with Sun 8 or Mon 9 if it rains |
+| **Wed 11** | Matera (The Rock) | 🚌 Naples → Matera (about 3½–4 h, check). **Sassi walk, sunset at the Belvedere** |
+| **Thu 12** | Matera | **Murgia Park gorge hike** to the cave churches (free), Casa Grotta, Palombaro Lungo |
+| **Fri 13** | Palermo (Vucciria) | 🚌 Matera → Bari airport → ✈ **Bari → Palermo** (Ryanair 15:05 was €28.59; re-price). Evening street food |
+| **Sat 14** | Palermo | **Cappella Palatina / Palazzo dei Normanni**, the cathedral, **Ballarò and Capo markets** |
+| **Sun 15** | Palermo | Day trip: **Cefalù** (climb the Rocca, free) or **Monreale** (cathedral mosaics) |
+| **Mon 16** | Syracuse (LoL) | 🚌 Palermo → Syracuse (about 3–3½ h, check). Evening on Ortigia |
+| **Tue 17** | Syracuse | **Neapolis park** (Greek theatre, Ear of Dionysius), Ortigia market, Fonte Aretusa |
+| **Wed 18** | Syracuse | **Noto** (baroque) + **Vendicari nature reserve** (coastal walk) |
+| **Thu 19** | Catania (Eco) | 🚆/🚌 to Catania, about 1 h. Fish market, Via Crociferi, Piazza del Duomo |
+| **Fri 20** | Catania | **Etna**: AST bus to Rifugio Sapienza (one a day, check), free trails around the Silvestri craters (about 8/2 °C up there) |
+| **Sat 21** | ✈ home | Catania → home (points; Schengen day 90) |
+
+**Total about €1,020 for 30 nights (about €34/n)** after the Naples/Matera swap. That's the same as before, but every stop now has a dorm bed except the Venice compromise, there's no €72/n Verona private, and you get one extra Sicily night.
 
 **Book first:**
 1. **Bohoostel, 22–25**, and the FlixBus to Bologna.
