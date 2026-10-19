@@ -32,6 +32,37 @@
 | Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
 | Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
 
+## 🛏 Bed per stop: live availability and the pick (checked 19 Oct, 1 adult)
+
+How these were checked:
+- **Booking hostel sweep:** hostels only, rated 8.0+, available for the exact nights. "Party" hostels (Booking's happy-hour filter) were excluded unless there was no alternative.
+- **Google Maps seller list:** Agoda, Hostelworld, Expedia, Trip.com and the property's own site, to find the cheapest channel.
+- **Maps' nightly figure can leave out fees,** so confirm the total on the booking page.
+- **Male-only dorms are fine; female-only rooms are excluded.**
+
+| Dates | Stop | ✅ Pick | Rating (reviews) | Total · cheapest channel | Location | Backup |
+|---|---|---|---|---|---|---|
+| 22 → 25 Oct (3) | Verona (no hostels) | **B&B Cittadella** (private) | 9.8 | **€216** · Booking (€72/n) | 1.7 km, walkable | Euromotel Croce Bianca 9.4 · €195 · Hostelworld · 4.7 km out (bus) |
+| 25 → 28 (3) | Venice (Mestre) | **Anda Venice Hostel** | 8.9 (11,670) | **€90** · Hotels.com (€30/n) | **200 m from Mestre station**, 10 min to Venice | ⚠ Has a bar with happy hour (social, big). If you'd rather avoid that: Camping Serenissima (Mira, about 10 km, bus), private about €131 on Booking or from €19/n direct (room type to confirm) |
+| 28 → 30 (2) | Bologna | **Bohoostel** | 8.5 (1,985) | **about €54** · direct (€27/n); Booking €77 | 1.8 km | Hostel Il Nosadillo 8.3 (1,900) · €81 · 600 m |
+| 30 → 1 Nov (2) | Cinque Terre (La Spezia) | **Grand Hostel Manin** | 9.2 (513) | **€98** · Hostelworld/Booking/Agoda (€49/n) | 200 m from the centre, close to the station | Costello 9.6 (579) · €131 · 400 m |
+| 1 → 4 (3) | Florence | **Plus Florence** | 8.5 (20,721) | **€42** · Agoda (€14/n); Booking €56 | 1.1 km, near Santa Maria Novella | My Friends 8.8 (1,906) · €74 · 800 m |
+| 4 → 8 (4) | Rome | **Lisa House** (male dorm) | 8.9 (466) | **€169** · Booking | 3.8 km | Beds&Rooms Tiburtina 8.9 · €166 · 4.2 km; Free Hostels Roma 8.6 · €271 · 2.2 km |
+| 8 → 11 (3) | Naples | **Hostel Mancini** | 8.7 (2,266) | **€75** · Hostelworld (€25/n); Booking €84 | 1.6 km, next to Garibaldi station | Safestay Materdei 8.1 · €58 |
+| 11 → 14 (3) | Matera | **The Rock Hostel** (male 8-bed) | 9.0 (829) | **€78** · Booking (€26/n) | 700 m | (the only 8.0+ hostel) |
+| 14 → 17 (3) | Palermo | **Ostello Vucciria** | 9.1 (360) | **€96** · Booking (€32/n) | 600 m, Vucciria market | (the others are party-flagged) |
+| 17 → 19 (2) | Syracuse | **LoL Hostel** | 8.6 (1,039) | **€46** · Expedia or direct (€23/n) | 1.3 km | (the only 8.0+ hostel) |
+| 19 → 21 (2) | Catania | **Eco Hostel** | 8.1 (1,285) | **€44** · direct (€22/n); Booking €61 | 400 m | The Yard 9.1 · €70 (party-flagged) |
+
+**Total about €1,010 for 30 nights (about €34/night).** Verona is the only expensive stop, because it has no hostels.
+
+**Book in this order:**
+1. **Verona** (Thursday).
+2. **Anda, 25–28.**
+3. **Grand Hostel Manin, 30 Oct – 1 Nov** (holiday weekend).
+
+Florence onwards has plenty of availability; book about a week ahead so the weather can still re-order stops.
+
 **Book now, in this order:**
 1. **Verona** (Thursday; few cheap rooms).
 2. **Venice 25–28** (hostels only free from the 25th).
