@@ -32,7 +32,69 @@
 | Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
 | Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
 
-## 🔁 Re-dated 19 Oct evening ("we can move days"): **current plan**
+## 🧭 v3 routing (19 Oct night): **current plan**. No double passes, real travel times, aligned with Lonely Planet
+
+**What was wrong with v2:**
+- Venice → Cinque Terre → Florence ran through Florence twice: Venice → La Spezia 4 h 54 via Florence, then back 2 h 16.
+- Bari → Palermo has jumped to **€62**, while **Bari → Catania is €15–17**.
+
+**LP check:**
+- **North:** LP's *Highlights of Italy* runs Venice (2) → Bologna (1) → Florence (2) → Pisa (1) → Rome (3) → Naples (1). We follow it, except that Bologna comes before Venice, because Venice is sold out 22–25.
+- **Campania:** LP's *South Coast*: Naples 2 + Pompeii + Amalfi.
+- **Sicily:** LP's *Slice of Sicily* runs **Catania → Syracuse → Noto → Ragusa → Agrigento**. v3 follows it east → west and ends in Palermo.
+- **Matera:** LP says it's "hard to reach"; use FAL trains from Bari, or FlixBus/Itabus.
+
+**Leg by leg** (times from **Trenitalia's own planner**, FlixBus and Ryanair; checked 19 Oct):
+
+| Date | Leg | Fastest sensible option | Time | Price |
+|---|---|---|---|---|
+| Thu 22 | Ljubljana → Bologna | 🚌 FlixBus 12:10 → 19:30, direct (or 05:05 → 11:35) | 7 h 20 | €28.99 |
+| Sat 24 | Bologna ⇄ Verona (day trip) | 🚆 regional 08:10 → 09:35, direct | 1 h 25 each way | €10.80 each way |
+| Sun 25 | Bologna → Venice S. Lucia | 🚆 Frecciarossa, hourly, direct | 1 h 33 | €27.90–36 |
+| Wed 28 | Venice → **Florence** | 🚆 FR 9411 09:26 → 11:39, direct | 2 h 13 | €37.90–40.90 |
+| Fri 30 | Florence ⇄ Siena (day trip) | 🚆 08:10 → 09:38, direct | 1 h 28 | €10.80 |
+| Sat 31 | Florence → La Spezia (→ Riomaggiore, 8 min) | 🚆 10:28 → 12:36, 1 change (Pisa) | 2 h 08 | €15.90–18.70 |
+| Mon 2 Nov | La Spezia → **Rome**, down the coast | 🚆 IC 8613 13:16 → 17:03, **direct** | 3 h 47 | €28.90 |
+| Fri 6 | Rome → Naples | 🚆 FR/IC, direct | 1 h 08–1 h 10 | €18.90–22.90 |
+| Tue 10 | Naples → Matera | 🚌 Miccolis 06:15 (about 4 h 05) or Marino 14:00 (about 4 h 45); Itabus about 3 h 25–4 h 25. **Not checked on the operators' sites** (Google leads); FlixBus only runs a 02:15 night bus | about 4 h | €7–15 |
+| Thu 12 | Matera → Bari, then ✈ **Bari → Catania** | 🚌 FlixBus 11:15 → 12:20 (or the FAL train); afternoon in Bari's old town; ✈ **Ryanair 22:05 → 23:15** | 1 h 05 + 1 h 10 | €9.49 + **€16.99** (+ cabin bag) |
+| Sat 14 | Catania → Syracuse | 🚆 rail-replacement bus | 1 h 08 | €8.80 |
+| Tue 17 | Syracuse → Agrigento | 🚌 7:15 / 8:06 / 9:30, 1 change (Google lead) | about 4 h 10 | about €19 |
+| Wed 18 | Agrigento → Palermo | 🚆/🚌 direct (to check) | about 2 h | |
+| Sat 21 | ✈ **home from Palermo** | Points; check award space PMO vs CTA | | |
+
+**Remaining backtrack:** about 1 h 30 (Venice → Florence passes Bologna again). It's the unavoidable cost of Venice being sold out on 22–25. Total time moving is about 33 h over 30 days. **Skipping Agrigento** (Syracuse → Palermo by train, 4 h 54) saves about 1 h 15 but loses LP's Valley of the Temples.
+
+**Beds for the v3 dates** (non-party, 8.0+, checked free on these nights):
+
+| Nights | Stop | ✅ Pick | Total | Backup |
+|---|---|---|---|---|
+| 22–25 | Bologna | Bohoostel 8.5 (1,985) | €152 | Dopa 8.9 · €240 |
+| 25–28 | Venice (Mestre) | Anda 8.9 (11,670) ⚠ bar and happy hour; the only hostel | €90 | (none non-party) |
+| 28–31 | Florence | Plus Florence 8.5 (20,721) | €93 | My Friends 8.8 · €112 |
+| 31–2 Nov | Cinque Terre | **Il Sassolino, in Riomaggiore** 9.1 (91) | €99 | Ostello ninin de ma', Framura 8.4 · €83 |
+| 2–6 | Rome | Lisa House 8.9 (male dorm) | €169 | Roma Scout Center 8.3 (2,961) · €153 |
+| 6–10 | Naples | Hostel Mancini 8.7 (2,266) | €113 | Safestay Materdei 8.1 · €109 |
+| 10–12 | Matera | The Rock Hostel 9.0 (829) | €59 | |
+| 12–14 | Catania | Eco Hostel 8.1 (1,285) | €61 | |
+| 14–17 | Syracuse | LoL Hostel 8.6 (1,039) | €80 | |
+| 17–18 | Agrigento | Villa Pirandello (private) 8.4, 450 m | €39 | Valle dei Templi Rent BedRooms 8.5 · €48 |
+| 18–21 | Palermo | Ostello Vucciria 9.1 (360) | €110 | |
+
+**About €1,065 for 30 nights.**
+
+**v3 day by day (summary):**
+- 22 bus · 23 Bologna · 24 Verona · 25 Venice (afternoon) · 26 Venice · 27 Padua/Rialto
+- 28 → Florence · 29 Uffizi/Duomo · 30 Siena · 31 → Riomaggiore (Via dell'Amore, Manarola sunset)
+- **1 Nov Cinque Terre hike** (last ferry day) · 2 → Rome down the coast · 3 ⛈ Vatican (open Tue) · 4 Colosseum/Forum · 5 Appian Way/Ostia
+- 6 → Naples, Archaeological Museum · 7 Sansevero/underground · 8 Pompeii · 9 Path of the Gods (driest day)
+- 10 → Matera · 11 Murgia gorge hike · 12 → Bari, ✈ Catania
+- 13 **Etna** · 14 Catania fish market → Syracuse · 15 Ortigia + Neapolis · 16 Noto + Vendicari
+- 17 → Agrigento, Valley of the Temples at sunset · 18 → Palermo · 19 Palermo · 20 Cefalù/Monreale · 21 ✈ home
+
+---
+
+## 🔁 v2, re-dated 19 Oct evening (superseded by v3 above)
 
 Every start date from 22 Oct to 1 Nov was scanned for each northern stop. Findings:
 - **Bologna has non-party hostels free during the fair** (only the hotels were full).
