@@ -44,6 +44,21 @@
 
 **Bed:** ✅ **Hotello Padova – Hostel & More** 8.4 (911), not party-flagged, 700 m from the centre, 10-bed mixed dorm. Free 23–28 Oct. **€140 for 5 nights on Expedia (€28/n)**; Hotels.com €29/n, Agoda €30/n, Booking €200. Confirm the Expedia total before paying.
 
+**Base sweep, 23–28 Oct** (17 towns within about 1 h of Venice; Booking 8.0+ hostels with the party flag, 8.0+ privates, and Hostelworld):
+
+| Town | Booked | Best non-party hostel | Cheapest 8.0+ private | To Venice |
+|---|---|---|---|---|
+| Venice / Mestre / Lido | 95–98% | none (Anda is party-flagged, €59/n on Hostelworld these dates) | €79–150/n | — |
+| **Padua** | 86% | ✅ **Hotello Padova**, Corso del Popolo 2, **about 300 m from the station**. 8.4 Booking (911) / 9.0 Hostelworld. **€28/n Expedia**, €34 Hostelworld, €40 Booking | €74/n | **regional 27 min, €5** |
+| Abano Terme (spa town, 11 km from Padua) | — | AQUA Hotel & Hostel 9.7 (267), €25/n Hostelworld | — | bus to Padua, then train: about 1 h+ each way |
+| Treviso | 92% | none (Nomad is party-flagged) | €68/n, 9.5 km out | about 30–40 min |
+| Verona | 71% | none central (Ostello La Sosta is 21 km out, no reviews) | €66/n | 1 h 10+ |
+| Vicenza, Ferrara, Conegliano, Rovigo, Jesolo | 74–92% | none | €56–88/n | 45 min – 1 h+ |
+| Chioggia | — | Domus Clugiae (guesthouse) €67/n | €64/n | about 1 h by bus or boat |
+| Bassano, Castelfranco | 74% | Bassano's hostel shows €293/n (group room) | €42–72/n | about 1 h |
+
+**Result:** Hotello is the only well-reviewed, non-party hostel near a station that's free for all 5 nights, and it's the cheapest. AQUA is a good spa-town alternative, but it adds about an hour a day of buses.
+
 **Why it beats v3:**
 - No Bologna ⇄ Venice backtrack.
 - No party hostel (Anda dropped).
