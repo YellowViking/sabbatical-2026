@@ -34,17 +34,17 @@
 
 ## ➡️ v5 (19 Oct, latest): **straight to Padua on Thu 22** (no Trieste), Padua base 22–28
 
-- **Thu 22 (rain everywhere):** Ljubljana morning, check out of AdHoc → 🚌 **FlixBus 14:35 → Padua 19:15, direct, 4 h 40, €26.99** (or 12:10 → 17:45 €20.49, or 16:00 → 20:40 €25.49). Trains need 3–4 changes plus the Gorizia border walk, so the bus wins.
+- **Thu 22 (rain everywhere), arrive by noon:** check out early → 🚌 **FlixBus 07:40 → Trieste 09:10** (€14.49) → walk **160 m / 2 min** to Trieste Centrale → 🚆 **09:39 → Padova 11:38** (1 change, €25.95; direct 09:39 → 11:44 €28.90). **Total €40.44.** Earliest alternative: 🚌 05:05 → Venice-Mestre 09:10 (€19.99) + 🚆 09:53 → Padova 10:07 (€4.05). The direct bus only arrives at 17:45 (12:10 departure) or 19:15 (14:35).
 - **Bed:** ✅ **Hotello Padova, 22–28 (6 nights): €174 on Expedia** (€29/n; Hotels.com €29, Agoda €30, Hostelworld/Booking €35). About 300 m from Padova station.
 
 **6 nights, sized by need** (LP: Venice chapter "Three Days to Explore", Padua 1, Verona 1) and **re-ordered for weather and the marathon**:
 
 | Day | Plan | Why that day |
 |---|---|---|
-| Thu 22 🌧 | Bus; arrive 19:15 | arrival |
+| **Thu 22 🌧** | Arrive 11:38, drop your bag → **Padua (mostly indoor, so good in rain)**: **Scrovegni Chapel (book an afternoon slot)**, Palazzo della Ragione, Sant'Antonio | rainy day, indoor sights |
 | **Fri 23 ☀** | **Venice day 1**: San Marco, Palazzo Ducale, Rialto (market open), Cannaregio cicchetti | Venice is dry and there's no marathon |
 | **Sat 24** | **Verona day trip**: Arena, Piazza delle Erbe, Castel San Pietro view | Venice rains, Verona is dry |
-| **Sun 25** | **Padua**: Scrovegni Chapel (book a slot), Sant'Antonio, Prato della Valle, Palazzo della Ragione | Venice Marathon day; Padua's sights are mostly indoors |
+| **Sun 25** | **Vicenza** (Palladio: Teatro Olimpico, Basilica Palladiana, walk up to La Rotonda; LP's *Northern Grandeur* gives it 1 day; about 15–25 min by train) + Prato della Valle in the evening | Venice Marathon day |
 | **Mon 26 ☀** | **Venice day 2**: Accademia or Peggy Guggenheim, Dorsoduro, a traghetto, Zattere sunset | dry |
 | **Tue 27 ☀** | **Venice day 3**: Rialto fish market (closed Sun–Mon) → **Murano and Burano** | dry, islands day |
 | Wed 28 | Check out → Bologna stopover → Florence | onward |
