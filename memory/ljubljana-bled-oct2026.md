@@ -201,10 +201,10 @@ Skip Party Hostel Zzz (party hostel).
 |---|---|---|
 | ~09:30 | 🚆 Lesce-Bled → Ljubljana (✅ SŽ ticket), e.g. D 311 09:31 → 10:17 | |
 | 10:30 | Walk to **AdHoc Hostel**, Cankarjevo nabrežje 27, on the river (1.4 km, 18 min); drop your bag | [🚶 to hostel](https://www.google.com/maps/dir/?api=1&origin=Ljubljana%20railway%20station&destination=AdHoc%20Hostel%2C%20Cankarjevo%20nabre%C5%BEje%2027%2C%20Ljubljana&travelmode=walking) |
-| 11:00 | **Central Market** and Plečnik's colonnade → Triple Bridge → Dragon Bridge (free) | [📍](https://www.google.com/maps/search/?api=1&query=Ljubljana%20Central%20Market) |
-| 12:30 | Lunch near the market (Open Kitchen is Fridays only) | |
-| 13:30 | Walk up to **Ljubljana Castle** (grounds free; the tower and exhibitions cost extra). The view over the Alps on a clear day | [📍](https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle) |
-| **14:50** | **Free Classic Tour, 15:00–17:00** ✅: **in front of the pink Franciscan church, Prešernov trg**, look for the **yellow umbrella**. Free; a tip of about €10 is customary | [📍](https://www.google.com/maps/search/?api=1&query=Franciscan%20Church%20of%20the%20Annunciation%2C%20Pre%C5%A1ernov%20trg%204%2C%20Ljubljana) |
+| 11:00 | **Ljubljana Castle** (the tour doesn't go there): walk up from Stari trg (grounds free; the tower view costs extra) | [📍](https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle) |
+| 12:30 | Down through **Gornji trg → Stari trg** (old-town streets the classic tour skips), then **Križanke** courtyard (Plečnik) | [📍](https://www.google.com/maps/search/?api=1&query=Kri%C5%BEanke%20Ljubljana) |
+| 13:30 | Lunch near Stari trg, then a coffee by the river | |
+| **14:50** | **Free Classic Tour, 15:00–17:00** ✅ (covers the Market, the Triple/Butchers'/Dragon/Cobblers' bridges, Prešeren Sq, the Cathedral, Town Hall, the Robba Fountain, Congress Sq, the University and the NUK exterior, so don't do those beforehand): **in front of the pink Franciscan church, Prešernov trg**, look for the **yellow umbrella**. Free; a tip of about €10 is customary | [📍](https://www.google.com/maps/search/?api=1&query=Franciscan%20Church%20of%20the%20Annunciation%2C%20Pre%C5%A1ernov%20trg%204%2C%20Ljubljana) |
 | 17:15 | **Tivoli Park** → up to **Rožnik** or the Tivoli hill for **sunset at 18:07** | [📍](https://www.google.com/maps/search/?api=1&query=Tivoli%20Park%20Ljubljana) |
 | 19:00 | Dinner by the river; craft beer | |
 
@@ -212,7 +212,7 @@ Skip Party Hostel Zzz (party hostel).
 
 | Time | What | Nav |
 |---|---|---|
-| 10:00 | **National and University Library (NUK)**, Plečnik's masterpiece (the reading room is by short tour or with restrictions; check at the door) | [📍](https://www.google.com/maps/search/?api=1&query=National%20and%20University%20Library%20Ljubljana) |
+| 10:00 | **NUK interior**, Plečnik's library (the tour only shows the outside; check reading-room access at the door) | [📍](https://www.google.com/maps/search/?api=1&query=National%20and%20University%20Library%20Ljubljana) |
 | 11:30 | **Plečnik House** (guided slots; book ahead) or the **National Gallery** | [📍](https://www.google.com/maps/search/?api=1&query=Ple%C4%8Dnik%20House%20Ljubljana) |
 | 13:00 | Lunch: a gostilna for **štruklji** or kranjska klobasa | |
 | **14:50** | **Communist Tour, 15:00–17:30** ✅: **in front of the big University building, Kongresni trg** (4 min from the hostel), yellow umbrella. **€15 cash at the start.** Light rain expected (70–84% chance, about 0.2–1.8 mm/h), so bring a rain jacket | [📍](https://www.google.com/maps/search/?api=1&query=University%20of%20Ljubljana%2C%20Kongresni%20trg%2012%2C%20Ljubljana) |
