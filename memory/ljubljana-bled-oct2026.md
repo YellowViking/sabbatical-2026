@@ -195,11 +195,31 @@ Skip Party Hostel Zzz (party hostel).
 
 **Weather:** **Tue 20 sunny, 19 °C. Wed 21 rain all day** (15 mm). Thu 22 rain.
 
-| Day | Plan |
-|---|---|
-| **Tue 20 (sunny): outdoors** | Drop your bag. **Prešernov trg → Triple Bridge → Ljubljanica riverbanks** → **Central Market** (Plečnik's colonnade) → walk up to **Ljubljana Castle** (the grounds are free; the tower view costs extra) → **Tivoli Park → Rožnik hill** (an easy forest walk) for late afternoon → riverside dinner. All free except the castle tower |
-| **Wed 21 (rain): indoors** | **National and University Library** (Plečnik) → **Plečnik House** (book a slot) → **National Gallery** → **Metelkova** (art squat, worth a look even in rain) → Open Kitchen is Fridays only, so try a gostilna for štruklji and kranjska klobasa → evening craft beer |
-| **Thu 22** | Check out → 🚌 **FlixBus 12:55 → Verona 18:40** (€21.49). The morning is free: market, or a café if it's still raining |
+### ⏱ Tue 20 (☀ 19 °C, sunset 18:07)
+
+| Time | What | Nav |
+|---|---|---|
+| ~09:30 | 🚆 Lesce-Bled → Ljubljana (✅ SŽ ticket), e.g. D 311 09:31 → 10:17 | |
+| 10:30 | Walk to **AdHoc Hostel**, Cankarjevo nabrežje 27, on the river (1.4 km, 18 min); drop your bag | [🚶 to hostel](https://www.google.com/maps/dir/?api=1&origin=Ljubljana%20railway%20station&destination=AdHoc%20Hostel%2C%20Cankarjevo%20nabre%C5%BEje%2027%2C%20Ljubljana&travelmode=walking) |
+| 11:00 | **Central Market** and Plečnik's colonnade → Triple Bridge → Dragon Bridge (free) | [📍](https://www.google.com/maps/search/?api=1&query=Ljubljana%20Central%20Market) |
+| 12:30 | Lunch near the market (Open Kitchen is Fridays only) | |
+| 13:30 | Walk up to **Ljubljana Castle** (grounds free; the tower and exhibitions cost extra). The view over the Alps on a clear day | [📍](https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle) |
+| **14:50** | **Free Classic Tour, 15:00–17:00** ✅: **in front of the pink Franciscan church, Prešernov trg**, look for the **yellow umbrella**. Free; a tip of about €10 is customary | [📍](https://www.google.com/maps/search/?api=1&query=Franciscan%20Church%20of%20the%20Annunciation%2C%20Pre%C5%A1ernov%20trg%204%2C%20Ljubljana) |
+| 17:15 | **Tivoli Park** → up to **Rožnik** or the Tivoli hill for **sunset at 18:07** | [📍](https://www.google.com/maps/search/?api=1&query=Tivoli%20Park%20Ljubljana) |
+| 19:00 | Dinner by the river; craft beer | |
+
+### ⏱ Wed 21 (🌧 rain all day, about 14–16 °C)
+
+| Time | What | Nav |
+|---|---|---|
+| 10:00 | **National and University Library (NUK)**, Plečnik's masterpiece (the reading room is by short tour or with restrictions; check at the door) | [📍](https://www.google.com/maps/search/?api=1&query=National%20and%20University%20Library%20Ljubljana) |
+| 11:30 | **Plečnik House** (guided slots; book ahead) or the **National Gallery** | [📍](https://www.google.com/maps/search/?api=1&query=Ple%C4%8Dnik%20House%20Ljubljana) |
+| 13:00 | Lunch: a gostilna for **štruklji** or kranjska klobasa | |
+| **14:50** | **Communist Tour, 15:00–17:30** ✅: **in front of the big University building, Kongresni trg** (4 min from the hostel), yellow umbrella. **€15 cash at the start.** Light rain expected (70–84% chance, about 0.2–1.8 mm/h), so bring a rain jacket | [📍](https://www.google.com/maps/search/?api=1&query=University%20of%20Ljubljana%2C%20Kongresni%20trg%2012%2C%20Ljubljana) |
+| 18:00 | **Metelkova** (art squat), then dinner | [📍](https://www.google.com/maps/search/?api=1&query=Metelkova%20Ljubljana) |
+
+### Thu 22
+Check out → 🚌 **FlixBus 12:55 → Verona 18:40** (€21.49).
 
 ## ⚠️ The marathon
 
