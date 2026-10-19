@@ -10,7 +10,7 @@
 | **Zagreb + Plitvice** ✅ bed booked | Wed 14 → Fri 16 | [memory/zagreb-plitvice-oct2026.md](memory/zagreb-plitvice-oct2026.md) (food photos + prices) |
 | **Bled, staying in Lesce** ✅ bed + train booked | Fri 16 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) (Friday step-by-step with map links) |
 | **Ljubljana** ✅ AdHoc Hostel + train booked | Tue 20 → Thu 22 | Train Lesce-Bled → Ljubljana (SŽ €5.80); plan + beds in [ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) |
-| **Italy (+ Sicily)** | Thu 22 Oct → 21 Nov (v4): Trieste → **Padua base 23–28** (Venice, Verona day trips) → Bologna stopover → Florence (Siena) → Cinque Terre → Rome → Naples → Matera → ✈ Catania → Syracuse → Agrigento → Palermo → ✈ home. Legs, times and beds are in the Italy doc | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
+| **Italy (+ Sicily)** | Thu 22 Oct → 21 Nov (v5): **Padua base 22–28** (bus straight from Ljubljana) (Venice, Verona day trips) → Bologna stopover → Florence (Siena) → Cinque Terre → Rome → Naples → Matera → ✈ Catania → Syracuse → Agrigento → Palermo → ✈ home. Legs, times and beds are in the Italy doc | [memory/italy-oct-nov2026.md](memory/italy-oct-nov2026.md) |
 
 **Rules used:** trains first (bus only when the train is 2–3× slower, as in Croatia), ranked on journey time *and* price, bought on each operator's own shop. Every leg was Googled first for options and sellers. Avoid big-event nights. Weather decides the order: dry north Italy in late October, the wettest region (Naples/Amalfi) kept short, warm Sicily last. The flight home goes at the end of the Schengen 90 days.
 

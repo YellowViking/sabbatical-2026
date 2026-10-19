@@ -32,7 +32,28 @@
 | Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
 | Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
 
-## 🏠 v4 (19 Oct, latest): **Padua as the Venice base** (user's idea). Replaces Bologna 23–25 + Anda 25–28
+## ➡️ v5 (19 Oct, latest): **straight to Padua on Thu 22** (no Trieste), Padua base 22–28
+
+- **Thu 22 (rain everywhere):** Ljubljana morning, check out of AdHoc → 🚌 **FlixBus 14:35 → Padua 19:15, direct, 4 h 40, €26.99** (or 12:10 → 17:45 €20.49, or 16:00 → 20:40 €25.49). Trains need 3–4 changes plus the Gorizia border walk, so the bus wins.
+- **Bed:** ✅ **Hotello Padova, 22–28 (6 nights): €174 on Expedia** (€29/n; Hotels.com €29, Agoda €30, Hostelworld/Booking €35). About 300 m from Padova station.
+
+| Day | Plan |
+|---|---|
+| Thu 22 🌧 | Bus; arrive 19:15; dinner near the hostel |
+| Fri 23 ☀ | **Padua**: **Scrovegni Chapel (book a slot)**, Basilica di Sant'Antonio, Prato della Valle, Palazzo della Ragione and its market squares, spritz on Piazza delle Erbe |
+| Sat 24 | **Verona day trip** (dry there; Venice gets rain): FR 44 min €16.90, or regional 1 h 33 €8.50 |
+| Sun 25 | Venice Marathon in the morning, so pick one: **Vicenza** (Palladio; LP's *Northern Grandeur* gives it 1 day; about 15–25 min) or a quiet morning, then **Venice in the afternoon** (Cannaregio cicchetti) |
+| Mon 26 ☀ | **Venice day 1** (regional 27 min, €5): San Marco, Palazzo Ducale, Accademia, Zattere sunset |
+| Tue 27 ☀ | **Venice day 2**: Rialto market, Murano and Burano |
+| Wed 28 | 🚆 → **Bologna stopover** (FR 09:56 → 10:59, €19.90; bag in left luggage) → 🚆 **Florence** |
+
+**Compared with v4 (Trieste overnight):**
+- **Pros:** one bus instead of bus + train, one less check-in, Padua gets a full dry day, and Sunday frees up for Vicenza. Cheaper: €174 + €27 vs €37 + €140 + €23 + €26.
+- **Con:** you skip Trieste.
+
+---
+
+## 🏠 v4 (superseded by v5): **Padua as the Venice base** (user's idea). Replaces Bologna 23–25 + Anda 25–28
 
 - **Thu 22:** Ljubljana → 🚌 FlixBus 14:35 → **Trieste** 16:10 (€22.99). ControVento €37.
 - **Fri 23 ☀:** Trieste morning → 🚆 **09:39 → Padova 11:38** (1 change, €25.95; direct 11:44 €28.90; or 13:27 → 15:38 €20.05). Afternoon in Padua: **Scrovegni Chapel (book a slot)**, Basilica di Sant'Antonio, Prato della Valle.

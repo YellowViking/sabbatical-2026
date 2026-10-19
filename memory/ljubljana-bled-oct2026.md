@@ -219,7 +219,7 @@ Skip Party Hostel Zzz (party hostel).
 | 18:00 | **Metelkova** (art squat), then dinner | [📍](https://www.google.com/maps/search/?api=1&query=Metelkova%20Ljubljana) |
 
 ### Thu 22
-Check out → 🚌 **FlixBus 14:35 → Trieste 16:10** (€22.99). Overnight at ControVento, then Fri 13:27 → Bologna 16:59 (see the Italy doc).
+Check out → 🚌 **FlixBus 14:35 → Padua 19:15**, direct (€26.99). Hotello Padova (see the Italy doc).
 
 ## ⚠️ The marathon
 
