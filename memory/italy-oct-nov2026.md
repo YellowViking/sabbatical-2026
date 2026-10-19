@@ -69,6 +69,17 @@ Nothing is compressed. The trip still totals 30 nights: Padua 6, Florence 3, Cin
 
 **Bed:** ✅ **Hotello Padova – Hostel & More** 8.4 (911), not party-flagged, 700 m from the centre, 10-bed mixed dorm. Free 23–28 Oct. **€140 for 5 nights on Expedia (€28/n)**; Hotels.com €29/n, Agoda €30/n, Booking €200. Confirm the Expedia total before paying.
 
+**Hostel vs private, and a better location? (checked 19 Oct)**
+
+| Option | Where | Rating | Price | Notes |
+|---|---|---|---|---|
+| ✅ **Hotello Padova, dorm** | 6 min walk to Padova station | 8.4 / 9.0 HW | **€174 for 6 nights** (Expedia, 10-bed) · Booking: 10-bed US$239, **6-bed US$245** | Hostel only (no private rooms). Take the **6-bed** for about US$6 more |
+| Private in Padua | Urban Suite, **1 km from the station**, shared bathroom | 9.6 | **€86/n = €516** | The only 8.0+ private within about 1 km. Every cheaper private (€61–79/n) is **8–25 km out** |
+| Private **in Venice** (25–28 only) | Albergo Basilea / Goldmine / Ca' Dei Leoni, **200–550 m from Santa Lucia** | 8.0–8.7 | **€146–157/n**, about €440–470 for 3 nights | Venice evenings and sunsets without the train, for **about €350 more** than the dorm |
+| Mestre | near the station | 8.9 | €116–131/n | 97% booked; no non-party hostel |
+
+**Verdict:** for the money, Hotello is also the best-placed budget base (station on the doorstep, 27 min to Venice). The only upgrade worth considering is **sleeping in Venice for 25–28 at about €146/n**, for the evenings and sunsets.
+
 **Base sweep, 23–28 Oct** (17 towns within about 1 h of Venice; Booking 8.0+ hostels with the party flag, 8.0+ privates, and Hostelworld):
 
 | Town | Booked | Best non-party hostel | Cheapest 8.0+ private | To Venice |
