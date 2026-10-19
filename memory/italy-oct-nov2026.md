@@ -32,6 +32,29 @@
 | Tue 17 → Thu 19 | **Syracuse / Ortigia** | 2 | (normal: 20/14 °C) | LoL Hostel 8.6 €27/n | Noto day trip |
 | Thu 19 → Sat 21 | **Catania + Etna** → ✈ home 21 Nov | 2 | (normal: 20/13 °C) | Eco Hostel 8.1 €30/n | Schengen day 90 = 21 Nov |
 
+## 🏠 v4 (19 Oct, latest): **Padua as the Venice base** (user's idea). Replaces Bologna 23–25 + Anda 25–28
+
+- **Thu 22:** Ljubljana → 🚌 FlixBus 14:35 → **Trieste** 16:10 (€22.99). ControVento €37.
+- **Fri 23 ☀:** Trieste morning → 🚆 **09:39 → Padova 11:38** (1 change, €25.95; direct 11:44 €28.90; or 13:27 → 15:38 €20.05). Afternoon in Padua: **Scrovegni Chapel (book a slot)**, Basilica di Sant'Antonio, Prato della Valle.
+- **Sat 24:** **Verona day trip**, dry there while Venice gets rain: 🚆 FR 44 min €16.90, or regional 1 h 33 €8.50.
+- **Sun 25:** Venice Marathon in the morning, so go in the **afternoon** (cicchetti in Cannaregio), or keep it as a quiet Padua day.
+- **Mon 26 ☀:** **Venice day 1**: 🚆 regional **27 min, €5**. San Marco, Palazzo Ducale, Accademia, Zattere sunset.
+- **Tue 27 ☀:** **Venice day 2**: Rialto market, Murano and Burano.
+- **Wed 28:** 🚆 Padova → **Bologna** FR 09:56 → 10:59 (€19.90). **Bologna stopover** with your bag in left luggage at Bologna Centrale: Piazza Maggiore, Asinelli tower, Quadrilatero lunch. Then 🚆 → **Florence** (regional 1 h 47 €10; Frecciarossa about 40 min costs more).
+
+**Bed:** ✅ **Hotello Padova – Hostel & More** 8.4 (911), not party-flagged, 700 m from the centre, 10-bed mixed dorm. Free 23–28 Oct. **€140 for 5 nights on Expedia (€28/n)**; Hotels.com €29/n, Agoda €30/n, Booking €200. Confirm the Expedia total before paying.
+
+**Why it beats v3:**
+- No Bologna ⇄ Venice backtrack.
+- No party hostel (Anda dropped).
+- One unpack for 5 nights.
+- Venice is still 2½ days, Verona 1, Bologna a half-day on the way.
+- About **€170 including the Venice trains**, against €196 for Bologna + Anda.
+
+Florence (28–31) onwards is unchanged.
+
+---
+
 ## 🧭 v3 routing (19 Oct night): **current plan**. No double passes, real travel times, aligned with Lonely Planet
 
 **What was wrong with v2:**
