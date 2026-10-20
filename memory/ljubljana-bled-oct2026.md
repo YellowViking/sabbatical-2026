@@ -237,6 +237,20 @@ Distances are from AdHoc Hostel (Cankarjevo nabrežje 27). Everything is saved t
 | **Slovenska hiša Ljubljančanka** | 4.7 (1,721) | 285 m | 11:00–22:00 | Štruklji with wild-garlic sauce **€12.40** (as a side **€5.50**) · kranjska with honey mustard and cracklings potatoes **€15.30** · **Union draught 0.5 l €4.40**, Union IPA 0.5 l €5.30 | [📍](https://www.google.com/maps/search/?api=1&query=Slovenska%20hi%C5%A1a%20Ljubljan%C4%8Danka) |
 | **Burek Olimpija** | 4.7–4.8 | 500–900 m | branch by the river 09:00–21:00; another open 24 h | Burek (cheese or meat); Google band €1–5 | [📍](https://www.google.com/maps/search/?api=1&query=Burek%20Olimpija%20Ljubljana) |
 
+
+#### What to order (photos)
+
+<table>
+<tr><th>Photo</th><th>Dish</th><th>Where</th><th>Price</th></tr>
+<tr><td><img src="https://imageproxy.wolt.com/menu/menu-images/e6a54c94-c4f1-11e9-a714-0a5864688903_Klobasarna_product-4062.jpeg" width="200"></td><td><b>Kranjska klobasa</b><br>Carniolan sausage with mustard, horseradish and a roll<br><sub>Photo: Klobasarna (Wolt)</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Klobasarna%20Ljubljana">Klobasarna</a></td><td><b>half €5.50 · whole €9.50</b></td></tr>
+<tr><td><img src="https://www.moji-struklji.si/wp-content/uploads/2023/04/Mesni_strukelj-moja_strukljarnica-687x1030-1.jpg" width="200"></td><td><b>Savoury štrukelj with chanterelle sauce</b><br>Rolled dumpling, filling of your choice (meat shown), with a small salad. Or take it inside the 10:00–15:00 <i>malica</i> with a stew<br><sub>Photo: Moji štruklji</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Moji%20%C5%A1truklji%20Slovenije%20Ljubljana">Moji štruklji</a></td><td><b>€12</b></td></tr>
+<tr><td><img src="https://www.hitrazlica.com/wp-content/uploads/2021/11/jota-scaled.jpg" width="200"></td><td><b>Jota</b><br>Sauerkraut, bean and smoked-pork stew; on the 19 Oct menu at both places<br><sub>Photo: Hitra žlica</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Hitra%20%C5%BElica%20Ljubljana">Hitra žlica · Moji štruklji</a></td><td><b>Moji štruklji €8 · Hitra žlica not posted</b></td></tr>
+<tr><td><img src="https://ljubljancanka.si/wp-content/uploads/sites/3/2025/02/Rectangle-19.png" width="200"></td><td><b>Idrija žlikrofi with beef ragout</b><br>Small potato dumplings with slow-cooked beef. Cheaper: cheese štruklji with wild-garlic sauce €12.40 (no photo)<br><sub>Photo: Ljubljančanka</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Slovenska%20hi%C5%A1a%20Ljubljan%C4%8Danka">Ljubljančanka</a></td><td><b>€17.80</b></td></tr>
+<tr><td><img src="https://sarajevo84.net/wp-content/uploads/CEVAPI-TOP-OF-TOP-SARAJEVO.jpg" width="200"></td><td><b>Ćevapi</b><br>Grilled minced-meat rolls in <i>somun</i> flatbread with onion<br><sub>Photo: Sarajevo '84</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Sarajevo%2084%20Ljubljana">Sarajevo '84</a></td><td><b>€10–15 (Google band)</b></td></tr>
+<tr><td><img src="https://media-cdn.tripadvisor.com/media/photo-s/17/c0/ed/c1/fried-chicken-at-druga.jpg" width="200"></td><td><b>Fried chicken with potatoes</b><br>A Slovenian home-cooking classic<br><sub>Photo: guest photo, Tripadvisor</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Druga%20Violina%20Ljubljana">Druga Violina</a></td><td><b>€10–15 (Google band)</b></td></tr>
+<tr><td><img src="https://www.burekolimpija.si/wp-content/uploads/2021/06/burek-olimpija-slider.jpg" width="200"></td><td><b>Burek</b><br>Cheese or meat, with drinking yoghurt the local way<br><sub>Photo: Burek Olimpija</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Burek%20Olimpija%20Ljubljana">Burek Olimpija</a></td><td><b>€1–5 (Google band)</b></td></tr>
+</table>
+
 Odprta kuhna (Open Kitchen) runs on **Fridays only**, so you'll miss it.
 
 ### Drink (craft beer)
