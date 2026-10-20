@@ -221,6 +221,48 @@ Skip Party Hostel Zzz (party hostel).
 ### Thu 22
 Check out about 09:20 → 🚌 **FlixBus 09:45 → Trieste 11:30** → 🚆 **12:16 → Padova 14:38** (€42). Hotello Padova (see the Italy doc).
 
+## 🍽🍺 Ljubljana food and drink (checked 20 Oct; prices from each place's own site or menu)
+
+Distances are from AdHoc Hostel (Cankarjevo nabrežje 27). Everything is saved to Maps: food → Restaurants, beer → Craft beer.
+
+### Eat
+
+| Place | Rating | Distance | Hours (Tue/Wed) | What to order · price | Map |
+|---|---|---|---|---|---|
+| **Moji štruklji Slovenije** (Plečnik's market arcades) | 4.6 (2,125) | 300 m | 07:30–20:00 | **Malica (set lunch) €12**, 10:00–15:00 · **štruklji with chanterelle sauce €12** · *jota* or *ričet* stew **€8** · soup €6 · Idrija *žlikrofi* €14 | [📍](https://www.google.com/maps/search/?api=1&query=Moji%20%C5%A1truklji%20Slovenije%20Ljubljana) |
+| **Klobasarna** | 4.6 (2,327) | 230 m | 10:00–21:00 | **Kranjska klobasa (Carniolan sausage): half €5.50, whole €9.50**; "na žlico" stew €6.50 | [📍](https://www.google.com/maps/search/?api=1&query=Klobasarna%20Ljubljana) |
+| **Hitra žlica** (cafeteria, locals' lunch) | 4.5 (292) | 425 m | **10:00–15:00 only** | Changing daily menu (19 Oct: *jota*, beef stew with buckwheat *žganci*, *pasulj* with sausage, mushroom soup, apple strudel). Prices not posted; Google band €5–10 | [📍](https://www.google.com/maps/search/?api=1&query=Hitra%20%C5%BElica%20Ljubljana) |
+| **Druga Violina** (social enterprise) | 4.5 (2,921) | 220 m | **08:00–16:00** | Traditional Slovenian dishes; Google band €10–15 | [📍](https://www.google.com/maps/search/?api=1&query=Druga%20Violina%20Ljubljana) |
+| **Sarajevo '84** | 4.7 (**9,445**) | 470 m | 10:00–24:00 | Ćevapi; Google band €10–15 | [📍](https://www.google.com/maps/search/?api=1&query=Sarajevo%2084%20Ljubljana) |
+| **Slovenska hiša Ljubljančanka** | 4.7 (1,721) | 285 m | 11:00–22:00 | Štruklji with wild-garlic sauce **€12.40** (as a side **€5.50**) · kranjska with honey mustard and cracklings potatoes **€15.30** · **Union draught 0.5 l €4.40**, Union IPA 0.5 l €5.30 | [📍](https://www.google.com/maps/search/?api=1&query=Slovenska%20hi%C5%A1a%20Ljubljan%C4%8Danka) |
+| **Burek Olimpija** | 4.7–4.8 | 500–900 m | branch by the river 09:00–21:00; another open 24 h | Burek (cheese or meat); Google band €1–5 | [📍](https://www.google.com/maps/search/?api=1&query=Burek%20Olimpija%20Ljubljana) |
+
+Odprta kuhna (Open Kitchen) runs on **Fridays only**, so you'll miss it.
+
+### Drink (craft beer)
+
+| Place | Rating | Distance | Hours (Tue/Wed) | Prices | Map |
+|---|---|---|---|---|---|
+| **Pub Lajbah** | 4.7 (1,794) | 520 m | 12:00–24:00 | **Beer flight €12**; Slovenian craft (Human Fish, Reservoir Dogs, Bevog…) | [📍](https://www.google.com/maps/search/?api=1&query=Pub%20Lajbah%20Ljubljana) |
+| **:PROJEKT Craft Beer Shop & Bar** | 4.9 (269) | 600 m | **12:30–20:30** | Bottle shop and taps | [📍](https://www.google.com/maps/search/?api=1&query=%3APROJEKT%20Craft%20Beer%20Ljubljana) |
+| **LOO-BLAH-NAH** (Ljubljana brewery's own pub) | 4.5 (112) | 310 m | 12:00–22:00 | | [📍](https://www.google.com/maps/search/?api=1&query=Pub%20LOO-BLAH-NAH%20Center%20Ljubljana) |
+| **Voyager craft bar & yard** | 4.9 (145) | 950 m | **17:00–22:00** | Small **€3.60–4.20**, large **€4.80–5.60**; food €10–15 (kranjska €12) | [📍](https://www.google.com/maps/search/?api=1&query=Voyager%20craft%20bar%20Ljubljana) |
+| Tektonik taproom | 4.8 (229) | 1.2 km | 14:00–20:30 | Slovenia's best-known craft brewery | [📍](https://www.google.com/maps/search/?api=1&query=Tektonik%20kraft%20pivovarna%20Ljubljana) |
+| Union Pub (brewery pub) | 4.5 (4,357) | 1.3 km | 12:00–22:30 | Union on tap (about €4.40 for 0.5 l elsewhere) | [📍](https://www.google.com/maps/search/?api=1&query=Union%20Pub%20Ljubljana) |
+| Sir William's pub | 4.6 (1,398) | 620 m | 08:00–01:00 | Belgian and craft bottles | [📍](https://www.google.com/maps/search/?api=1&query=Sir%20William%27s%20pub%20Ljubljana) |
+
+Human Fish (Vrhnika) and Reservoir Dogs (Nova Gorica) brew outside the city; drink them at Lajbah or :PROJEKT.
+
+### How it fits your two days
+
+- **Tue lunch, after the castle (about 13:30):** **Moji štruklji** for the *malica* set at €12, or štruklji €12; or **Klobasarna** for half a sausage at €5.50. Both are by the market, on your way to the 15:00 tour.
+- **Tue evening, after Rožnik:** **Sarajevo '84** for ćevapi, or **Ljubljančanka** (štruklji €12.40, Union €4.40). Then **Lajbah**, flight €12, open until midnight.
+- **Wed lunch (rainy), before the 15:00 Communist Tour:** **Hitra žlica**, the locals' daily lunch (10:00–15:00), or **Druga Violina** (until 16:00).
+- **Wed evening:** **Voyager** (17:00–22:00, about €5 for a large) or **LOO-BLAH-NAH**; a late burek at Burek Olimpija.
+- **Thu, before the 09:45 bus:** burek or a bakery near the station.
+
+---
+
 ## ⚠️ The marathon
 
 The **Ljubljana Marathon is on Sun 18 Oct**, with the expo on 15–17 Oct. Booking.com shows Ljubljana **92% booked for Fri 16** (only 72 places left, rated 8+, central). Wed 14 and Thu 15 are fine but about €15/night dearer than a normal week. So: **leave Ljubljana on Fri 16 morning.**
