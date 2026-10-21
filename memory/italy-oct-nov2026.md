@@ -1,6 +1,52 @@
-# Italy (+ Sicily): **revised 19 Oct**, Thu 22 Oct → Sat 21 Nov 2026 (30 nights)
+# Italy (+ Sicily): **revised 21 Oct (v6)**, Thu 22 Oct → Sat 21 Nov 2026 (30 nights)
 
 *Revised 19 Oct from the live 16-day forecast (Open-Meteo, 20 Oct – 3 Nov) and live Booking.com availability (1 adult, 8.0+ rated, EUR). Hostelworld was used for cities without Booking hostels. Nothing is booked. The 11 Oct draft is below for reference.*
+
+## ➡️ v6 (21 Oct, current): Padua 4 n → Lake Como 2 n → Cinque Terre → Florence → Rome onward unchanged
+
+**Why it changed (21 Oct):**
+- **Weather:** the 21 Oct forecast puts high pressure over all of Italy from **Sun 25 to Tue 3 Nov**. Every stop on this list is dry: Lake Como 16–20 °C, Cinque Terre 20–22 °C on 28–30, Florence 19–21 °C.
+- **Padua cut from 6 to 4 nights:** Lonely Planet sizes this as Venice 2 days, Verona 1 and Padua 1. The two dropped days were optional: Vicenza and the Murano/Burano islands day.
+- **Lake Como instead of the Bologna stopover:** a nature stop with free hikes, on the way to Cinque Terre via Milan.
+- **Milan skipped:** the Last Supper is **sold out 24–30 Oct** (checked on its official shop), the rest is city sightseeing, and you change trains there anyway.
+- **What it costs:** Vicenza, the islands day and Bologna, plus about 4–5 h more on trains. **From Rome (2 Nov) on, every date is unchanged.**
+
+| Dates | Stop | Nights | Bed (checked 20–21 Oct, 1 adult) | Getting there |
+|---|---|---|---|---|
+| Thu 22 → Mon 26 | **Padua** (Venice ×2, Verona, Padua) | 4 | **Hotello Padova**, 10-bed mixed dorm, 8.4 (914), 11% of reviews under 7. **Chase US$120.78 − $49.50 credit = $71.28 (≈ €64)**, non-refundable. Agoda $117.81, Expedia €112, own site €119.70 | 🚌 FlixBus Ljubljana **09:45 → Venezia Mestre 14:10** (€30.99) → 🚆 regional to Padova, 14 min, €4.05, every 15–30 min |
+| Mon 26 → Wed 28 | **Lake Como** (Como town) | 2 | **Ostello Bello Lake Como** 9.0 (2,210), **6.7% under 7**, cleanliness 9.0, free food for dinner. **€54 Agoda** (Trip.com/Hotels.com €58, own site €60). Backup: Lake Como Beach Hostel, Domaso, 8.7, €50. ❌ Not La Primula, Menaggio (20% under 7, bed-bug report 20 Oct) | 🚆 **FR 9718 Padova 09:16 → Milano → Como S. Giovanni 12:23** (1 change, €40.30) |
+| Wed 28 → Fri 30 | **Cinque Terre** (Riomaggiore) | 2 | **Il Sassolino**, €88 (Booking/Agoda/Expedia €44/n). Backups in La Spezia: Costello 9.6, Grand Hostel Manin 9.2 | 🚆 **EC 31 Como S. Giovanni 11:10 → La Spezia 15:21** (1 change, €39.90) → regional to Riomaggiore |
+| Fri 30 → Mon 2 Nov | **Florence** | 3 | **My Friends** 8.8 (1,907), €99 Agoda. Backups: YellowSquare 8.9, Ostello Bello Firenze 8.7 | 🚆 La Spezia **09:28 → Firenze SMN 11:33** (IC 651 + RV, 1 change, €20.80) |
+| Mon 2 Nov → | Rome → Naples → Matera → ✈ Bari–Catania → Syracuse → Agrigento → Palermo → ✈ home 21 Nov | | as in v5 below | |
+
+**Status:** nothing in Italy is booked yet.
+
+### Forecast, 21 Oct (Open-Meteo)
+
+| | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Padua | ☀21° | 🌦18° | 🌦15° | ⛅14° | | | | | | | | |
+| Venice | | ☀ to 20:00 | | ⛅15° | | | | | | | | |
+| Verona | | | **☀16°, dry all day** | | | | | | | | | |
+| Como | | | | | ☀16° | ☀17° | ☀19° | | | | | |
+| Riomaggiore | | | | | | | ☀20° | ☀22° | ☀22° | | | |
+| Florence | | | | | | | | | ☀19° | ☀21° | ☀21° | ☀20° |
+
+**Venice tides** (official tide-forecast data): high tide **95 cm at 09:55 on Fri 23**, so the low corner of Piazza San Marco may flood. Go to Rialto first, San Marco after about 11:00. **No day-tripper access fee in October.**
+
+### Day by day (all sights saved to Maps → Want to go)
+
+| Day | Plan |
+|---|---|
+| **Thu 22** | Bus + train in → drop your bag at Hotello → **Scrovegni Chapel** about 16:00 (€14, includes the Eremitani museums; every slot was free on 20 Oct; buy on cappelladegliscrovegni.vivaticket.it) → Basilica di Sant'Antonio → Prato della Valle |
+| **Fri 23 · Venice 1** | 🚆 08:22/08:53 regional (€5, about 30 min) → Strada Nova → **Rialto Bridge + market** (fish market Tue–Sat) → **San Marco** after 11:00: Basilica €10 (book a slot at tickets.basilicasanmarco.it), Palazzo Ducale €35 (optional; free alternative: Riva degli Schiavoni → Via Garibaldi) → Dorsoduro: Salute (free), Accademia or Guggenheim (optional) → **Zattere sunset about 18:15** → Campo Santa Margherita. Showers from about 20:00 |
+| **Sat 24 · Verona** | 🚆 RV 08:53 → Verona Porta Nuova 10:26 (€8.50; FR 08:16 → 09:00 is €18.90) → **Arena** (€12) → Piazza delle Erbe, Piazza dei Signori, Casa di Giulietta courtyard (free) → *risino* at Pasticceria Scapini → Castelvecchio + Ponte Scaligero → along the Adige → Ponte Pietra → Giardino Giusti (€12, optional) → **Castel San Pietro sunset** (steps free, funicular €3) |
+| **Sun 25 · Venice 2 (afternoon)** | Clocks go back. **Marathon:** runners on the Zattere and at the Riva Sette Martiri finish until about 15:40, so avoid both. Morning in Padua (Palazzo della Ragione area) → train about 12:30 → **Cannaregio**: Ghetto, Madonna dell'Orto → **Frari** → Basilica di San Marco opens 14:00 on Sundays if you skipped it Friday → cicchetti on Fondamenta dei Ormesini / Misericordia; sunset about 17:00 |
+| **Mon 26** | 🚆 to Como (arrive 12:23) → lakefront to Villa Olmo (free) → **Brunate funicular → Faro Voltiano** for sunset about 17:00 |
+| **Tue 27** | Bus C10 up the west shore → **Greenway del Lago di Como** (about 10 km, free) → ferry back via Bellagio (autumn timetable to 1 Nov; times still to confirm) |
+| **Wed 28** | 🚆 to Cinque Terre (arrive La Spezia 15:21) |
+
+---
 
 ## What changed and why
 
