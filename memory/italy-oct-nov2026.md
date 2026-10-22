@@ -48,6 +48,96 @@
 
 ---
 
+## 🍽🍺 Padua, Venice, Verona: food and drink (checked 22 Oct)
+
+How this was put together:
+- **Google Maps sweep:** 38 food searches and 15 beer searches, keeping places rated 4.5+ with 300+ reviews.
+- **Prices:** taken from each place's own menu wherever it publishes one (marked ✔). Venice bacari don't publish menus, so their prices come from recent reviews (marked "reported").
+- **Maps:** everything is saved, with food under Restaurants and drinking places under Craft beer.
+
+### 💶 Locals' price vs tourist price
+
+| Same thing | Locals' place | Tourist strip |
+|---|---|---|
+| **Spritz** | Do Draghi, Campo Santa Margherita: **€3** (reported) · Al Mercà, Rialto: €2.50–4 (reported) | **Caffè Florian, Piazza San Marco: €17, plus €7 per person for the music** (reported) |
+| **Cicchetto** (one small bite) | All'Ombra della Piazza, Padua: **€1.50 ✔** · Al Squero, Venice: €2–2.50 (reported) | — |
+| **Sarde in saor** (sweet-sour sardines) | at a bacaro, as a cicchetto: about €2 | Hostaria Sant'Aponal, sit-down: **€16** (its own menu) |
+| **Pastissada de caval** (Verona's horse stew) | **Osteria al Duca: €26 for any first course + any second course ✔** (bigoli with donkey ragù + pastissada with polenta) | La Molinara: pastas €15 ✔, horse steak €22 ✔, cover charge €3.50 ✔ |
+
+### What to order (photos)
+
+<table>
+<tr><th>Photo</th><th>Dish</th><th>Where</th><th>Price</th></tr>
+<tr><td><img src="https://images.squarespace-cdn.com/content/v1/5e9ce6e3159e846c74524789/1588525452337-MDSKHUR2524HM7ZI7BHT/ODP-13+IMG_6414.jpg" width="200"></td><td><b>Cicchetti</b><br>Baccalà mantecato, stracciatella with anchovy, and more. Meatballs €2<br><sub>Photo: the place's own</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=All%27Ombra%20della%20Piazza%20Padova">All'Ombra della Piazza</a>, Padua</td><td><b>€1.50 each ✔</b></td></tr>
+<tr><td><img src="https://media-cdn.tripadvisor.com/media/photo-s/16/78/c0/0a/bigoli-al-ragu-d-anatra.jpg" width="200"></td><td><b>Bigoli with duck ragù</b><br>Padua's classic thick pasta<br><sub>Guest photo of the dish, Tripadvisor; not confirmed to be from Ai Scarponi</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Osteria%20Ai%20Scarponi%20Padova">Osteria Ai Scarponi</a>, Padua</td><td><b>€17 ✔</b> · 6 spuncioti (Venetian bar snacks) €14 ✔</td></tr>
+<tr><td><img src="https://www.bacarotourvenezia.com/wp-content/gf-uploads/2016/11/DSCF8869.jpg" width="200"></td><td><b>Cicchetti counter</b><br>Eat standing on the canal, facing the San Trovaso gondola yard<br><sub>Photo: bacarotourvenezia.com</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Osteria%20Al%20Squero%20Venezia">Osteria Al Squero</a>, Dorsoduro</td><td>€2–2.50 each (reported)</td></tr>
+<tr><td><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/2f/97/8b/nice-selection-of-food.jpg?w=600&h=600&s=1" width="200"></td><td><b>Mini panini</b><br>Standing room only, by the Rialto market<br><sub>Guest photo, Tripadvisor</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Al%20Merc%C3%A0%20Campo%20Bella%20Vienna%20Venezia">Al Mercà</a>, Rialto</td><td>€1.50–2 each (reported)</td></tr>
+<tr><td><img src="https://www.hostariasantaponal.com/content/images/2024/04/hostaria-sant-aponal-sarde-in-saor-1.jpg" width="200"></td><td><b>Sarde in saor</b><br>Sweet-sour sardines with onions and polenta, sit-down<br><sub>Photo: the place's own</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Hostaria%20Sant%27Aponal%20Venezia">Hostaria Sant'Aponal</a>, San Polo</td><td>€16 (its own menu)</td></tr>
+<tr><td><img src="https://media-cdn.tripadvisor.com/media/photo-s/07/3d/fc/4a/pastissada-de-caval-con.jpg" width="200"></td><td><b>Pastissada de caval</b><br>Horse stew with polenta, a Verona classic<br><sub>Guest photo of the dish, Tripadvisor; restaurant not confirmed</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Osteria%20al%20Duca%20Verona">Osteria al Duca</a>, Verona</td><td><b>€26 for first + second course ✔</b></td></tr>
+<tr><td><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/83/05/3a/la-gang-carne-sala-della.jpg?w=600&h=-1&s=1" width="200"></td><td><b>Focaccia "Gang"</b><br>Lessinia carne salà (cured beef), Grana, rocket<br><sub>Guest photo at Porta Borsari, Tripadvisor</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Focacceria%20La%20Figaccia%20Verona">La Figaccia</a>, Verona</td><td>€1–10 (Google price band)</td></tr>
+<tr><td><img src="https://learche.it/wp-content/uploads/2019/04/Risino.jpg" width="200"></td><td><b>Risino</b><br>Shortcrust pastry with rice custard, Lonely Planet's tip<br><sub>Generic photo, not taken at Scapini</sub></td><td><a href="https://www.google.com/maps/search/?api=1&query=Pasticceria%20Scapini%20Verona">Pasticceria Scapini</a>, Verona</td><td>—</td></tr>
+</table>
+
+### Padua
+
+| Place | Rating | Hours (Thu–Sun) | Why |
+|---|---|---|---|
+| **All'Ombra della Piazza**, by Piazza della Frutta | 4.6 (2,052) | 11–14, 17–20:30; Sat open all day | **Cicchetti €1.50 ✔**, small pizzas €5–7 ✔, sandwiches €8–10 ✔ |
+| **Al Merca'**, under the Palazzo della Ragione | 4.7 (336) | 10:00–02:00; closed Sun | Cicchetti bar in a historic building; spritz about €4 (reported) |
+| **Enoteca Severino**, by the Basilica di Sant'Antonio | 4.7 (686) | 10–14, 17–22; Sat 10–22; closed Sun | Locals' wine bar, €1–10 |
+| **Bar dai Chimici** | 4.5 (579) | 07:00–20:00 weekdays | Tramezzini (soft sandwiches), the student breakfast and lunch |
+| **Osteria Ai Scarponi** | 4.5 (1,352) | 12:30–14:30, 19:30–22:30 | **Bigoli with duck €17 ✔** |
+| Gelateria Portogallo | 4.7 (2,421) | 12:00–24:00 | Top gelato |
+
+### Venice
+
+| Place | Rating | Hours | Why |
+|---|---|---|---|
+| **Al Mercà**, Rialto | 4.7 (1,237) | 10–14:30, 18–21:30; **closed Sun** | Mini panini and spritz, standing |
+| **Bar All'Arco**, Rialto | 4.7 (1,683) | 10:00–14:30; **closed Sun** | Lonely Planet's cicchetti pick, right after the market |
+| **Osteria Al Squero**, Dorsoduro | 4.7 (5,760) | Fri 10:00–20:30; Sat to 15:00; **closed Sun** | Cicchetti facing the gondola yard, on the way to the Zattere |
+| **Do Draghi**, Campo Santa Margherita | 4.9 (2,360) | 18:00–02:00 daily | **Spritz €3**, where students go |
+| **Cantina Aziende Agricole**, Cannaregio | 4.7 (1,193) | 11:00–22:00 daily | Locals' wine-and-cicchetti bar; **open Sunday** |
+| Pasticceria Tonolo, Dorsoduro | 4.6 (3,042) | 07:30–19:00; Sun to 13:00 | Old-school pastry shop |
+| Gelateria Gallonetto | 4.9 (5,065) | 11:00–23:00 | Gelato |
+| Hostaria Sant'Aponal | 4.7 (8,011) | 11:00–22:00 | The sit-down option (sarde in saor €16) |
+
+### Verona
+
+| Place | Rating | Hours (Sat) | Why |
+|---|---|---|---|
+| **Osteria al Duca** (in "Romeo's house") | 4.5 (3,468) | 12–14:30, 18:30–22:30; closed Sun | **€26 two-course menu ✔**: bigoli with donkey ragù, then pastissada de caval |
+| **Il Vicoletto Trattoria** | 4.8 (2,105) | 12:00–15:00 (lunch only) | Local trattoria, €20–30 |
+| **Osteria A Le Petarine** | 4.7 (935) | 12–14:15, 19–21 | Local osteria, €20–30 |
+| **La Figaccia** | 4.8 (2,092) | 11:30–21:30 | Stuffed focaccia, the cheap lunch |
+| **La Bottega della Gina** | 4.7 (4,556) | 10:00–21:30 | Fresh pasta to take away, €10–20 |
+| Trattoria La Molinara | 4.6 (1,527) | 12:30–14:30, 19:30–22:30 | Pastas €15 ✔, horse steak €22 ✔ |
+| Pasticceria Scapini | | | Risino for breakfast |
+
+### 🍺 Craft beer
+
+| City | Place | Rating | Hours | Notes |
+|---|---|---|---|---|
+| Padua | **Hype Taproom**, Via San Biagio 17 | 4.7 (127) | Maps shows evenings only; check before you go | Padua brewery's own taproom: **9 taps** of its beers plus guests (opened Nov 2025) |
+| Padua | Bar Umbe | 4.6 (554) | 17:30–01:30 | Beer bar off Piazza delle Erbe, €1–10 |
+| Padua | Birrolandia | 4.6 (1,644) | Fri lunch + 19:00–02:00; closed Sun | Large tap list, 1.4 km out |
+| Padua | White Pony Pub & Shop · Foramoda | 4.6 · 4.7 | evenings | Pub plus bottle shop |
+| Venice | **Birreria Zanon**, Cannaregio | 4.6 (680) | 11:30–23:00; Sun to 22:00 | Craft beer bar |
+| Venice | Il Santo Bevitore | 4.4 (1,383) | 16:00–02:00 daily | Craft pub, Cannaregio |
+| Venice | H2NO Enobirrateca | 4.4 (307) | 11:00–22:00; closed Sun | Taps plus a bottle shop |
+| Verona | **Santa Maria Craft Pub** | 4.8 (1,300) | 12:00–01:00 | **15 taps: small €3.50–4, large €6–7 ✔** |
+| Verona | Birreria Iter | 4.5 (1,313) | 18:00–02:00 | 13 taps, 2 km out |
+| Verona | Beer Shop L'ArtigianAle | 4.7 (102) | 11–12:30, 16–20:30 | Bottle shop |
+
+### How it fits the days
+
+- **Thu 22, Padua:** after the Scrovegni Chapel, spritz and €1.50 cicchetti at All'Ombra della Piazza (until 20:30) → Hype Taproom or Bar Umbe.
+- **Fri 23, Venice:** panini at Al Mercà or Bar All'Arco right after the Rialto market (both close at 14:30) → cicchetti at Al Squero on the way to the Zattere → **€3 spritz at Do Draghi** (opens 18:00, on Campo Santa Margherita).
+- **Sat 24, Verona:** risino at Scapini → **lunch at Osteria al Duca, €26** for bigoli and pastissada (12:00–14:30), or La Figaccia if you want it quick → a beer at Santa Maria Craft Pub before the train.
+- **Sun 25, Venice (afternoon):** Al Mercà, All'Arco and Al Squero are **closed on Sunday**. Go to Cantina Aziende Agricole, Birreria Zanon or Il Santo Bevitore in Cannaregio instead.
+
+---
+
 ## What changed and why
 
 - **Thu 22 – Sun 25 the north is blocked:**
