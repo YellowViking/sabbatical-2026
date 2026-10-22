@@ -50,6 +50,8 @@
 
 ## 🍽🍺 Padua, Venice, Verona: food and drink (checked 22 Oct)
 
+**Padua, everything (sights, Scrovegni slots, food, CRAK):** see [padua-guide.md](padua-guide.md).
+
 **Trieste:** see [trieste-local-food.md](trieste-local-food.md) (buffets, capo in b, Mastro Birraio; 28 Maps pins).
 
 How this was put together:
