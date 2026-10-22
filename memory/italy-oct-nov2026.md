@@ -50,6 +50,8 @@
 
 ## 🍽🍺 Padua, Venice, Verona: food and drink (checked 22 Oct)
 
+**Trieste:** see [trieste-local-food.md](trieste-local-food.md) (buffets, capo in b, Mastro Birraio; 28 Maps pins).
+
 How this was put together:
 - **Google Maps sweep:** 38 food searches and 15 beer searches, keeping places rated 4.5+ with 300+ reviews.
 - **Prices:** taken from each place's own menu wherever it publishes one (marked ✔). Venice bacari don't publish menus, so their prices come from recent reviews (marked "reported").
