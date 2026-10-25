@@ -2,7 +2,34 @@
 
 *Revised 19 Oct from the live 16-day forecast (Open-Meteo, 20 Oct – 3 Nov) and live Booking.com availability (1 adult, 8.0+ rated, EUR). Hostelworld was used for cities without Booking hostels. Nothing is booked. The 11 Oct draft is below for reference.*
 
-## ➡️ v7 (25 Oct, current): Bologna 2 → Florence 3 → Cinque Terre 3 → Rome from 3 Nov. Shift dates, cut the tail
+## 🌸 Florence 27–30 Oct (+ Siena, + the Pisa stop on the way out), checked 25 Oct
+
+**Bed:** **My Friends**, 8.8 (1,907), 0.8 km from the centre, **€75 for 3 nights on Agoda** (Hostelworld €84). Backups: YellowSquare 8.9, Ostello Bello Firenze 8.7.
+
+**Rules applied:**
+- **No churches**, so no Duomo, Baptistery, San Lorenzo, Santa Croce or Santa Maria Novella.
+- **Pay only for unique sights.** Only the Uffizi and Boboli; the Accademia is optional.
+
+| Day | Plan | Cost |
+|---|---|---|
+| **Tue 27** | 🚆 FR 9405 Bologna 09:02 → Florence 09:39 (direct, €29; or 09:05 → 10:52, 1 change, €10) → bag at My Friends → **lampredotto** (tripe sandwich, Florence's street food) at Famiglia Bambi in the Mercato Centrale → Ponte Vecchio → Oltrarno, Piazza Santo Spirito → **Boboli Gardens** (unique; €10 same day, €13 in advance; 8:15–17:30, last entry an hour before) → **Piazzale Michelangelo for sunset, about 17:05** (free) → dinner in Oltrarno (Trattoria La Casalinga, €20–30) → **Archea Brewery** (4.8; Tuesday 18:00–01:00) | about €45 |
+| **Wed 28** | 🚆 **Siena**: RE 18203 08:10 → 09:38 (direct, €10.80) → **Piazza del Campo** (free) → **Torre del Mangia** (€10; a unique civic tower, 400 steps) → the medieval lanes and the **Fortezza Medicea** ramparts (free) → *pici* pasta for lunch → RE 18234 17:18 → Florence 18:52 (direct, €10.80) | about €32 |
+| **Thu 29** | **Uffizi** at opening, 8:15 (**€25 on the day, €29 booked**; Tuesday–Sunday) → **Sant'Ambrogio market** (7:00–14:00) → **Sergio Pollini** lampredotto (€3.50–5, reported; Monday–Saturday 9:30–16:00) → 🚌 bus 7 to **Fiesole** (€1.70, 25 min) for the hill views over Florence, then **walk back down the old Via Vecchia Fiesolana** (about 5 km downhill) → beer at Birreria Art. 17 or Love Craft | about €35 |
+| **Fri 30** | 🚆 RV 4019 Florence 09:28 → **Pisa** 10:28 (direct, €9.80) → Piazza dei Miracoli and the Leaning Tower from outside (free) → RE 18367 13:06 → **La Spezia** 14:20 (direct, €8.90) → Riomaggiore | about €19 |
+
+**Value food, locals vs tourists:**
+- **Lampredotto:** about **€3.50–5** at Pollini or Bambi (reported).
+- **Fixed-price lunch:** **€10–14** at Ostaria dei Centopoveri (reported).
+- **Bistecca:** the tourist-strip steak houses charge **€30–90** per person (Google's price band).
+- Trattoria Mario: lunch only, a locals' trattoria.
+
+**Optional:** the **Accademia** (Michelangelo's David), €20 + €4 booking. It's unique, but it's one statue; I'd skip it unless you really want it.
+
+**Maps:** 36 places saved and checked by reading the lists back. Two bad pins were fixed: Fiesole had landed in Padua, and Torre del Mangia hadn't saved.
+
+---
+
+## ➡️ v7 (25 Oct, current): Bologna **1 night (26)** → Florence 27–30 → Cinque Terre 30 Oct–2 Nov → **Rome 2 Nov** (later dates unchanged). *The table below still shows the 2-night Bologna draft; the user cut it to 1 night.*
 
 **Rule (user, 25 Oct):** shift the dates. If Italy doesn't fit before 21 Nov, cut stops from the end (Sicily). Never shorten a place we visit.
 
