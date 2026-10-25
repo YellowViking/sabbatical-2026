@@ -1,8 +1,35 @@
-# Italy (+ Sicily): **revised 21 Oct (v6)**, Thu 22 Oct → Sat 21 Nov 2026 (30 nights)
+# Italy (+ Sicily): **revised 25 Oct (v7)**, Thu 22 Oct → Sat 21 Nov 2026 (30 nights)
 
 *Revised 19 Oct from the live 16-day forecast (Open-Meteo, 20 Oct – 3 Nov) and live Booking.com availability (1 adult, 8.0+ rated, EUR). Hostelworld was used for cities without Booking hostels. Nothing is booked. The 11 Oct draft is below for reference.*
 
-## ➡️ v6 (21 Oct, current): Padua 4 n → Lake Como 2 n → Cinque Terre → Florence → Rome onward unchanged
+## ➡️ v7 (25 Oct, current): Bologna 2 → Florence 3 → Cinque Terre 3 → Rome from 3 Nov. Shift dates, cut the tail
+
+**Rule (user, 25 Oct):** shift the dates. If Italy doesn't fit before 21 Nov, cut stops from the end (Sicily). Never shorten a place we visit.
+
+**Route consensus:**
+- **Lonely Planet "Highlights":** Venice → **Bologna 1** → **Florence 2** → **Pisa 1** → Rome 3.
+- **Lonely Planet "Central Italy":** Florence 2 + **Siena 1**.
+- **Lonely Planet Emilia-Romagna:** "warrants pumping the brakes"; its longer plans add Modena, Ferrara and Parma.
+- **Lonely Planet, Cinque Terre:** "over two days".
+- **Google (kimkim, r/ItalyTravel):** north to south, **Venice → Florence → Cinque Terre → Rome**.
+
+**Dropped:** Lake Como (a detour).
+
+**Rules applied:** no churches; pay only for sights that are unique on this route.
+
+| Dates | Stop | What | Bed (live 25 Oct, 1 adult) | Train in |
+|---|---|---|---|---|
+| **26–28** | **Bologna** | Day 1: food, the Quadrilatero market streets, Piazza Maggiore, the **San Luca portico walk** (3.8 km under 666 arches up Colle della Guardia), wine at Osteria del Sole, craft beer. Day 2: **Ferrara**, cycle the 9 km Renaissance wall loop (about 1h30 by bike; Todisco Brothers rental, 9–19) | **Dopa Hostel** 9.0 (2,270), central, **€90** for 2 nights (Booking/Agoda) · or Bohoostel 8.5, **€58** on its own site, 1.8 km out | IC 584 Padova 09:50 → Bologna 11:12, direct, **€15.50** |
+| **28–31** | **Florence** | Florence ×2 (Ponte Vecchio, Oltrarno, Mercato Centrale, Piazzale Michelangelo at sunset; the **Uffizi** is the one unique paid sight) + a **Siena** day trip (Piazza del Campo; Torre del Mangia €10) | **My Friends** 8.8 (1,907), **€78** for 3 nights (Agoda) | FR Bologna → Florence, 37 min (about €33), or a regional, 1h47 (€10) |
+| **31 Oct–3 Nov** | **Cinque Terre** (Riomaggiore) | ⚠️ The coastal path's Corniglia–Vernazza–Monterosso stretch is **closed** (national park notice). Do the **Palmaria island loop** (trail 510, 6–8 km, boat from Portovenere about €5) and **Levanto → Monterosso** (high trail, 7–8 km, free, open). The **Via dell'Amore** costs €20 for 900 m: skip it. Ferries go to winter service from 2 Nov | **Il Sassolino** 9.1, **€132** for 3 nights (Booking/Agoda) · backup Costello 9.6 | Florence → La Spezia, direct regional, about 2h30 (about €16). It passes Pisa (Piazza dei Miracoli, free from outside) |
+| **3 Nov →** | **Rome** | Colosseum and Forum (unique) | to pick | FR 8551 La Spezia 08:32 → Rome 11:36 (direct, €42.90) or FB (€26.90) |
+| later | Naples → Matera → Sicily | every date **+1 day**. Re-price the Bari → Catania flight. **Cut from the end if needed** | | |
+
+**Weather (25 Oct forecast):** sunny, 15–22°, through 4 Nov. **Rome has a storm on 5 Nov** (31 mm), so that's a good day for indoor Rome.
+
+---
+
+## ➡️ v6 (21 Oct, superseded): Padua 4 n → Lake Como 2 n → Cinque Terre → Florence → Rome onward unchanged
 
 **Why it changed (21 Oct):**
 - **Weather:** the 21 Oct forecast puts high pressure over all of Italy from **Sun 25 to Tue 3 Nov**. Every stop on this list is dry: Lake Como 16–20 °C, Cinque Terre 20–22 °C on 28–30, Florence 19–21 °C.
