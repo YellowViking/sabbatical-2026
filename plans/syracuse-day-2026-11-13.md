@@ -1,13 +1,15 @@
 # Syracuse day trip — Fri 13 Nov 2026 (from Catania)
 
-**▶ [Open the whole day route in Google Maps (walking, 10 stops)](https://www.google.com/maps/dir/Stazione+di+Siracusa/Neapolis+Archaeological+Park,+Siracusa/Via+Luigi+Bignami+2,+Siracusa/Ortigia+Street+Market,+Siracusa/Caseificio+Borderi,+Siracusa/Pasticceria+Artale,+Siracusa/Castello+Maniace,+Siracusa/Piazza+Duomo,+Siracusa/Fonte+Aretusa,+Siracusa/Stazione+di+Siracusa/data=!4m2!4m1!3e2)**: 8.8 km, about 2 h of walking in total.
+**▶ [Open the whole day route in Google Maps (walking, 10 stops)](https://www.google.com/maps/dir/Stazione+di+Siracusa/Neapolis+Archaeological+Park,+Siracusa/Via+Luigi+Bignami+2,+Siracusa/Caseificio+Borderi,+Siracusa/Pasticceria+Artale,+Siracusa/Lungomare+di+Levante+Ortigia,+Siracusa/Castello+Maniace,+Siracusa/Piazza+Duomo,+Siracusa/Fonte+Aretusa,+Siracusa/Stazione+di+Siracusa/data=!4m2!4m1!3e2)**: 9.6 km, about 2 h 12 of walking in total. In Ortigia it **loops round the seafront**: north end (market) → east side (Lungomare di Levante, Forte Vigliena, Cala Rossa) → Castello Maniace at the tip → west side (Fonte Aretusa, Lungomare Alfeo) → back over the bridge.
 
 The same route in parts, for phone browsers that drop stops:
 [Morning](https://www.google.com/maps/dir/?api=1&origin=Siracusa+station%2C+Siracusa&destination=Caseificio+Borderi%2C+Siracusa&waypoints=Neapolis+Archaeological+Park%2C+Siracusa%7CVia+Luigi+Bignami+2%2C+Siracusa%7COrtigia+Street+Market%2C+Siracusa&travelmode=walking) ·
-[Afternoon](https://www.google.com/maps/dir/?api=1&origin=Caseificio+Borderi%2C+Siracusa&destination=Fonte+Aretusa%2C+Siracusa&waypoints=Pasticceria+Artale%2C+Siracusa%7CCastello+Maniace%2C+Siracusa%7CPiazza+Duomo%2C+Siracusa&travelmode=walking) ·
+[Afternoon](https://www.google.com/maps/dir/?api=1&origin=Caseificio+Borderi%2C+Siracusa&destination=Castello+Maniace%2C+Siracusa&waypoints=Pasticceria+Artale%2C+Siracusa%7CLungomare+di+Levante+Ortigia%2C+Siracusa%7CSpiaggia+di+Cala+Rossa%2C+Siracusa&travelmode=walking) · [Late afternoon](https://www.google.com/maps/dir/?api=1&origin=Castello+Maniace%2C+Siracusa&destination=Fonte+Aretusa%2C+Siracusa&waypoints=Piazza+Duomo%2C+Siracusa&travelmode=walking) ·
 [Back to station](https://www.google.com/maps/dir/?api=1&origin=Fonte+Aretusa%2C+Siracusa&destination=Siracusa+station%2C+Siracusa&travelmode=walking)
 
 ![Day route](syracuse-day-2026-11-13-route.png)
+
+![Ortigia seafront loop](syracuse-day-2026-11-13-ortigia.png)
 
 | Time | Stop | Notes |
 |---|---|---|
@@ -16,13 +18,14 @@ The same route in parts, for phone browsers that drop stops:
 | ~12:05 | **Ravo Mattoni mural** (Caravaggio copy), Via Luigi Bignami 2 | Outdoor and free. On the way to Ortigia |
 | ~12:25–13:30 | **Ortigia Street Market** + lunch at **Caseificio Borderi** | Stalls Mon–Sat 07:00–13:45. Borderi 09:00–16:00. Fratelli Burgio next door for a deli board + wine |
 | ~13:45 | **Fontana di Diana** (Piazza Archimede) + **Pasticceria Artale** | Almond/pistachio granita, cannoli. Artale closes 16:00 |
-| ~14:15–15:15 | **Castello Maniace** (optional, paid) | Closes 15:45 |
+| ~14:00–14:30 | **East seafront**: Lungomare di Levante → Forte Vigliena → Cala Rossa | Free. Open sea views |
+| ~14:30–15:30 | **Castello Maniace** at the southern tip (optional, paid) | Closes 15:45. If you skip it, the tip's walls and views are still free from outside |
 | ~15:30–16:20 | **Piazza Duomo** | Late-afternoon golden light |
 | 16:25–16:55 | **Fonte Aretusa** | **Sunset 16:50**. Starling murmurations just before dusk |
 
 ## Getting back to Catania
 
-The walk from Fonte Aretusa to the station takes about 25 min. The options after sunset:
+After sunset, walk back up the **west seafront (Lungomare Alfeo)** to the bridge. Fonte Aretusa to the station is about 25 min. The options after sunset:
 
 - **Interbus** ~17:45, about 1 h 20. Leaves from the bus stops by the station. **Buy online in advance**, because a full bus takes no standing passengers.
 - **Trenitalia 17:28 → 19:19** (€8.80). This is a replacement bus the whole way, so Interbus is quicker.
