@@ -1,7 +1,10 @@
 # Sicily, final days: Taormina → Cefalù → Palermo → home (15–20 Nov 2026)
 
-Everything below is tagged in Google Maps with a visible note:
-- **Want to go:** 🚶 walks, 🥾 hikes, 🚲 bike loop
+Everything below is tagged in Google Maps with a visible note, in lists with their own pin icons:
+- **🚲 Bike – Palermo coast**
+- **🚶 Walks – Sicily**
+- **🥾 Hikes – Sicily**
+- **Want to go:** sights
 - **Restaurants:** food
 - **Craft beer:** 🍺 craft beer, 💶 cheap drinks, 🍷 wine
 
