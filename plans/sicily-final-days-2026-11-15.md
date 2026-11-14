@@ -48,15 +48,18 @@ Villa Maria → station is 600 m, 8 min on the flat. Buy in the Trenitalia app.
 
 ## Palermo, 16–20 Nov
 
-**Bed: Ostello Bello Palermo** (own booking site, Mews, code `Weloveyou` −10%):
+**Beds: checkout totals for 4 nights, including the €16 city tax** (resweep 15 Nov; Agoda read from its checkout page, Booking cards include taxes):
 
-| Room, 4 nights | Own site + code | Elsewhere |
+| Option | Total | Channel / others |
 |---|---|---|
-| **Single private ensuite** | **€187.33** (1 left on 14 Nov) | Hostelworld €224.48. Not sold on Booking, Agoda or Traveloka |
-| Dorm bed | €99.70 | Agoda €113.15 · Hostelworld €113.52 · Booking €135 · Traveloka €91 (not a booking site I trust) |
+| **Ostello Bello dorm** (9.0, 1,853 reviews) | **€108.49** | **Agoda with the DISCOVER coupon** · own site + `Weloveyou` €115.70 · Hostelworld ≈ €129.50 · Booking €135 |
+| Ostello Vucciria dorm (9.1, bed curtains, nightlife square) | €124 | Agoda / Booking |
+| **Alba e i Mori**, double with private bathroom (8.2, 1,096 reviews) | **€170.80** | Agoda · Booking €171 |
+| Santa Oliva Homestay, single with private bathroom (8.2) | €176 | Booking |
+| Ostello Bello single ensuite | €203.33 | Own site + code (only seller) |
 
-Backup dorm: **Ostello Vucciria** (9.1, has bed curtains, on a nightlife square), Agoda €103.62 · own site €108 · Booking €124.
-Avoid **Hostelò**: bed-bug reports Sep–Oct 2026.
+- Avoid **Hostelò**: bed-bug reports Sep–Oct 2026.
+- **+BELLO Club** (free, "up to 20% off") is untested.
 
 **🚲 Bike loop (Tue 17):**
 - Rent from **Palermo on Bike / Social Bike**, Discesa dei Giudici 13: **€15 for the day** (€10 for up to 4 h).
