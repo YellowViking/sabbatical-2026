@@ -13,7 +13,7 @@ Prices were checked live on 14–15 Nov 2026.
 |---|---|---|
 | **Sun 15** | Monte Veneretta hike, then LP's Taormina walk down to the coast (see below) | B&B Villa Maria, Giardini Naxos |
 | **Mon 16** | Train to Cefalù with luggage storage: the Rocca, then the rocks to Capo Cefalù, sunset. Evening train to Palermo | Ostello Bello Palermo |
-| **Tue 17** | Calmest day of the week (gusts about 15 km/h): **bike loop** to Mondello and Capo Gallo | Ostello Bello |
+| **Tue 17** | Calmest day of the week (gusts about 15 km/h): **coastal bike ride** to Mondello and Capo Gallo | Ostello Bello |
 | **Wed 18** | Markets in the morning (Ballarò, Capo), Monte Pellegrino via the Scala Vecchia | Ostello Bello |
 | **Thu 19** | Windy (gusts up to 86 km/h), so a city day: **free walking tour at 10:00**, No Mafia Memorial, La Cala. Online check-in for the flight | Ostello Bello |
 | **Fri 20** | 05:55 train to the airport, then fly home | — |
@@ -57,8 +57,9 @@ Avoid **Hostelò**: bed-bug reports Sep–Oct 2026.
 
 **🚲 Bike loop (Tue 17):**
 - Rent from **Palermo on Bike / Social Bike**, Discesa dei Giudici 13: **€15 for the day** (€10 for up to 4 h).
-- Route: Parco della Favorita → Mondello → **Capo Gallo lighthouse** (15.5 km, about 53 min), back along the Addaura coast road → Foro Italico (21 km, about 1h12). **36.8 km in total.**
-  ▶ [Bike loop in Google Maps](https://www.google.com/maps/dir/Palermo+on+Bike,+Discesa+dei+Giudici+13,+Palermo/Palazzina+Cinese,+Palermo/Piazza+Mondello,+Palermo/Il+Faro+Capo+Gallo,+Palermo/Piazza+Mondello,+Palermo/Addaura,+Palermo/Foro+Italico,+Palermo/Palermo+on+Bike,+Discesa+dei+Giudici+13,+Palermo/data=!4m2!4m1!3e1)
+- Route: **along the coast both ways.** Foro Italico → Arenella → the Addaura road under Monte Pellegrino → Mondello → **Capo Gallo lighthouse** (19.5 km, about 1h04), then back the same way. **39.7 km in total, about 2h14.**
+  ▶ [Coastal bike route in Google Maps](https://www.google.com/maps/dir/Palermo+on+Bike,+Discesa+dei+Giudici+13,+Palermo/Foro+Italico,+Palermo/Arenella,+Palermo/Addaura,+Palermo/Piazza+Mondello,+Palermo/Il+Faro+Capo+Gallo,+Palermo/Piazza+Mondello,+Palermo/Addaura,+Palermo/Arenella,+Palermo/Foro+Italico,+Palermo/Palermo+on+Bike,+Discesa+dei+Giudici+13,+Palermo/data=!4m2!4m1!3e1)
+- Shorter option: go out through Parco della Favorita (15.5 km to the lighthouse) and come back along the coast, 36.8 km in total. I haven't checked how busy the Addaura coast road is with cars.
 - I haven't checked whether bikes are allowed on the final track inside the reserve. Lock up at the gate and walk if needed.
 
 **🚶 Free walking tour:** *Palermo Past & Present* (GuruWalk 4.87 from 1,207 reviews; Freetour 9.7). Daily at **10:00**, 2 h, tip-based. Meet outside the "Premier" shoe store, **Via Maqueda 461**.
