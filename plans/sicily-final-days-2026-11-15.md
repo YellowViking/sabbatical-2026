@@ -8,18 +8,18 @@ Everything below is tagged in Google Maps with a visible note, in lists with the
 - **Restaurants:** food
 - **Craft beer:** 🍺 craft beer, 💶 cheap drinks, 🍷 wine
 
-Prices were checked live on 14–15 Nov 2026.
+Prices were checked live on 14–15 Nov 2026. Day-by-day plan updated 16 Nov.
 
 ## Day by day
 
-| Day | Plan | Bed |
-|---|---|---|
-| **Sun 15** | Monte Veneretta hike, then LP's Taormina walk down to the coast (see below) | B&B Villa Maria, Giardini Naxos |
-| **Mon 16** | Train to Cefalù with luggage storage: the Rocca, then the rocks to Capo Cefalù, sunset. Evening train to Palermo | Ostello Bello Palermo |
-| **Tue 17** | Calmest day of the week (gusts about 15 km/h): **coastal bike ride** to Mondello and Capo Gallo | Ostello Bello |
-| **Wed 18** | Markets in the morning (Ballarò, Capo), Monte Pellegrino via the Scala Vecchia | Ostello Bello |
-| **Thu 19** | Windy (gusts up to 86 km/h), so a city day: **free walking tour at 10:00**, No Mafia Memorial, La Cala. Online check-in for the flight | Ostello Bello |
-| **Fri 20** | 05:55 train to the airport, then fly home | — |
+| Day | Daytime | Evening (food / drinks) | Bed |
+|---|---|---|---|
+| **Sun 15** | Monte Veneretta hike, then LP's Taormina walk down to the coast | Taormina or Giardini | B&B Villa Maria, Giardini Naxos |
+| **Mon 16** | **07:01** train → Cefalù 10:03. Bag drop, the **Rocca** (last entry 15:00), the rocks walk to Capo Cefalù, sunset at the Bastione 16:46. **17:18** → Palermo 18:11 | Ballarak Magione taproom or Birreria Fusto | Ostello Bello **dorm** (Agoda) |
+| **Tue 17** | Calmest day (gusts about 15 km/h): **coastal bike ride** Palermo → Mondello → Capo Gallo lighthouse and back (39.7 km) | High Hops, or Social Bike's craft-beer ride at 17:00 if it runs (min 2) | Ostello Bello dorm |
+| **Wed 18** | Ballarò and Capo markets in the morning, then **Monte Pellegrino** via the Scala Vecchia | Vucciria night: Taverna Azzurra → Spina Bar | Ostello Bello dorm |
+| **Thu 19** | Windy (gusts up to 86 km/h): **free walking tour 10:00** (Via Maqueda 461), No Mafia Memorial, La Cala. **Flight check-in from 09:35.** Move the bag to the single | Beering (until 24). Early night | Ostello Bello **single** (own site) |
+| **Fri 20** | Leave **05:30** → train **05:55** → Palermo Aeroporto 06:31 → **TK 09:35** | — | — |
 
 ## Sun 15: Monte Veneretta + Taormina walk
 - **Getting up there:** from Villa Maria, walk about 10 min to the *Villagonia Via Nazionale* stop by the station. Take Interbus **IN09 at 09:15** to Taormina, then **IN10** to Castelmola (arrives 10:05). Alternatively, IN10 direct at 09:11. Later IN10 buses up: 10:11, 11:11.
@@ -44,7 +44,16 @@ Villa Maria → station is 600 m, 8 min on the flat. Buy in the Trenitalia app.
 - **Rocca:** winter hours 08:00–17:00, **last entry 15:00** (official site visitcefalu.com). LP gives €5; the official site sells only a €10 combined pass. Up via Vicolo Saraceni, 1.5 km, 240 m of climbing.
 - **Rocks walk:** from Porto Vecchio go through the jetty arch → Bastione Capo Marchiafava (sunset 16:46) → Capo Cefalù lighthouse.
   ▶ [Cefalù walk (walking)](https://www.google.com/maps/dir/Stazione+di+Cefal%C3%B9/Vicolo+Saraceni,+Cefal%C3%B9/Tempio+di+Diana,+Cefal%C3%B9/Spiaggia+del+Porto+Vecchio,+Cefal%C3%B9/Bastione+di+Capo+Marchiafava,+Cefal%C3%B9/Faro+di+Capo+Cefal%C3%B9/Stazione+di+Cefal%C3%B9/data=!4m2!4m1!3e2)
-- **Food (open Mondays):** La Cefalù Nostrana (4.9), Tinchité, Le Chat Noir (lunch 12:30–14:00), Duomo Gelatieri dal 1952.
+- **Eating plan (everything here is open on Mondays and tagged):**
+
+| Time | Where |
+|---|---|
+| 10:15 | Arancina at **La Cefalù Nostrana** (4.9, from 09:00), or Sfizi nostrani / Da Saro |
+| ~13:30 | Lunch at **Pasta da qui!** (cheap fresh pasta, 11–17) or **Mas Que Nada** (4.7, 12–16). Alternatives: Doppio Zero pizza, Passafiume, Galleria (seafood), Le Chat Noir (12:30–14:00), Tinchité |
+| ~16:30 | Cannolo at **Cangelosi** (reopens 16:30), L'Angolo delle Dolcezze, or Duomo Gelatieri dal 1952 |
+| 16:45 | A glass of wine at **Le Petit Tonneau** (sea balcony) or **Tentazioni Mediterranee**. Kalapinta craft beer has no Monday hours listed, so check first |
+
+- **Closed on Mondays:** Sfrigola, La Brace, Triscele, History Pinsa, Karma, Pasta e Pasti.
 
 ## Palermo, 16–20 Nov
 
@@ -60,6 +69,33 @@ Villa Maria → station is 600 m, 8 min on the flat. Buy in the Trenitalia app.
 
 - Avoid **Hostelò**: bed-bug reports Sep–Oct 2026.
 - **+BELLO Club** (free, "up to 20% off") is untested.
+
+**Chosen split: dorm Mon–Wed + single on Thu (≈ €134)**
+
+Cost per night, including the €4 city tax:
+
+| Night | Dorm (Agoda checkout) | Single (own site + `Weloveyou`) |
+|---|---|---|
+| Mon 16 | €26.38 | €48.35 |
+| Tue 17 | €27.90 | €51.66 |
+| Wed 18 | €27.95 | €51.66 |
+| Thu 19 | €27.90 | €51.66 |
+
+- **Booking 1:** Agoda, dorm, Mon 16 → Thu 19 (about €82). Pick a *mixed* dorm, never a female one. Ask for a bed away from the pool and the metal stairs.
+- **Booking 2:** own site, Single Private Room, Thu 19 → Fri 20 (about €52), using the link `…mewsStart=2026-11-19&mewsEnd=2026-11-20&mewsVoucherCode=Weloveyou`. Only 1 single was showing, so book this one first.
+- **Why the single on Thu:** a quiet room for packing before the 05:30 start and a proper night's sleep before 15+ hours of travel.
+
+**Ostello Bello vs Ostello Vucciria (reviews read 15 Nov)**
+
+| | Ostello Bello | Ostello Vucciria |
+|---|---|---|
+| Booking / Hostelworld / Google | 9.0 (1,854) / 9.6 (864) / 4.7 (636) | 9.1 (380) / 8.5 (20) / 4.7 (81) |
+| Location | 9.1 / HW 93: by the port, 0.9 km to Quattro Canti, 1.6 km to Centrale | 9.4: 0.3 km to Quattro Canti |
+| Atmosphere (HW) | 97: pool, rooftop, events, very social | 76: quiet and not social, but above a nightlife square |
+| Downsides | No bed curtains; pool music and DJ until about 1 am; loud metal stairs; younger crowd | Shared chain-and-padlock lockers, no luggage storage, reception until 17:00, "earplugs a must" at weekends; opened 2025 |
+| Price, 4 nights incl. tax | €108.49 (Agoda DISCOVER) | €124 everywhere (own site €108 + €16; no codes found) |
+
+- **Why Ostello Bello's location score is lower:** reviewers say the port area isn't interesting, it's a 20–25 min walk to the very centre, people ask for money to "park" cars outside, and there's street noise. In practice it's handy for the seafront bike start and about 20 min on foot to Centrale for Friday's train.
 
 **🚲 Bike loop (Tue 17):**
 - Rent from **Palermo on Bike / Social Bike**, Discesa dei Giudici 13: **€15 for the day** (€10 for up to 4 h).
