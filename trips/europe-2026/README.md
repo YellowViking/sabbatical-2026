@@ -2,45 +2,53 @@
 
 **24 Aug – 20 Nov 2026 · 89 days (one Schengen stint, just under the 90-day limit) · solo · budget · train-first**
 
-The route ran north-west to south-east through countries I hadn't visited before. It went from Copenhagen up the Norwegian coast and fjords, across to the Baltics, overland through Poland, Czechia and Austria, then Croatia and Slovenia, and down Italy to Sicily. It ended with the flight home from Palermo the day before the Schengen limit ran out. Each place has a guide in [`guides/`](guides/) covering food, beer, sights, hikes, transport and where to sleep.
+The route ran north-west to south-east through countries I hadn't visited before. It went from Copenhagen up the Norwegian coast and fjords, back through Stockholm and by ferry via Helsinki to the Baltics, overland through Poland, Czechia and Austria, then Croatia and Slovenia, and down Italy to Sicily. It ended with the flight home from Palermo the day before the Schengen limit ran out. Each place has a guide in [`guides/`](guides/) covering food, beer, sights, hikes, transport and where to sleep.
 
 ![Baltic train route](baltic-train-route.svg)
 
 ## Route as travelled
 
-Dates marked *≈* are reconstructed from the planning notes rather than from a booking.
+Dates come from the bookings and card statements (check-in → check-out).
 
 | Dates | Where | Bed | Getting there / highlights | Guide |
 |---|---|---|---|---|
-| 24 Aug → ≈ 28 Aug | **Copenhagen** | Hostel | Flew Seattle → Copenhagen (SAS) | [copenhagen](guides/copenhagen.md) |
-| ≈ late Aug | **Gothenburg** | Hostel | Train | [gothenburg](guides/gothenburg.md) |
-| ≈ late Aug – 2 Sep | **Oslo** | Hostel | Train · stopover options to Stavanger | [oslo](guides/oslo.md) · [Oslo → Stavanger stopovers](guides/oslo-stavanger-stopovers.md) |
+| 24 → 27 Aug | **Copenhagen** | MEININGER (dorm) | Flew Seattle → Copenhagen (SAS, on points) | [copenhagen](guides/copenhagen.md) |
+| 27 → 30 Aug | **Gothenburg** | Hyatt Place (on points) | Train | [gothenburg](guides/gothenburg.md) |
+| 30 Aug → 1 Sep | **Oslo** | Hostel | Train | [oslo](guides/oslo.md) |
+| 1 → 2 Sep | **Kristiansand** | Room (Booking.com) | Train, a stopover on the way to Stavanger | [Oslo → Stavanger stopovers](guides/oslo-stavanger-stopovers.md) |
 | 2 → 6 Sep | **Stavanger** | Private room | Preikestolen hike, Stavanger parkrun | [stavanger](guides/stavanger.md) |
 | 6 → 8 Sep | **Bergen** | Montana hostel | FlixBus Stavanger → Bergen (direct). Skipped Haugesund | [bergen](guides/bergen.md) |
-| 8 → 13 Sep | **Stockholm** | City Hostel, then STF | BA Avios flights Bergen ⇄ Stockholm | [stockholm](guides/stockholm.md) |
-| 13 → 19 Sep | **Norwegian fjords road trip** (with a friend) | Guesthouses, Airbnb | Hardanger (Odda, Eidfjord, Vøringsfossen) → Voss → Lærdal → Geiranger → Gaularfjellet and Vikafjellet → Bergen | [bergen](guides/bergen.md) · [scandinavia-transit](guides/scandinavia-transit.md) |
-| 19 → ≈ 22 Sep | **Riga** | 3 Monks (booked direct) | Norwegian Bergen → Riga | [riga](guides/riga.md) · [baltics train spine](guides/baltics-train-spine.md) |
-| ≈ late Sep | **Tallinn** (± Helsinki by ferry) | Hostel | Baltics done as a north–south train run | [tallinn](guides/tallinn.md) · [helsinki](guides/helsinki.md) |
-| 3 → 6 Oct | **Vilnius** | Hostel | FlixBus Riga → Vilnius | [vilnius](guides/vilnius.md) |
-| 6 → ≈ 7 Oct | **Białystok** | Hotel (Chase Travel credit) | Train from Vilnius via the Polish border | [bialystok](guides/bialystok.md) |
-| ≈ 7 → 10 Oct | **Wrocław** | Private room | Polish trains | [wroclaw](guides/wroclaw.md) |
-| 10 → 12 Oct | **Prague** | Dorm | IC 261 Baltic Express Wrocław → Prague (direct) | [prague](guides/prague.md) |
+| 8 → 13 Sep | **Stockholm** | City Hostel, then STF af Chapman | BA Avios flights Bergen ⇄ Stockholm | [stockholm](guides/stockholm.md) |
+| 13 → 19 Sep | **Norwegian fjords road trip** (with a friend) | Airbnb, guesthouses, a fjord campsite, then a hotel near Oslo | Kvam → Hardanger (Odda, Eidfjord, Vøringsfossen) → Voss → Lærdal → Sognefjellet → Geiranger → Lom → Oslo | [bergen](guides/bergen.md) · [scandinavia-transit](guides/scandinavia-transit.md) |
+| 19 → 20 Sep | **Stockholm** again | Hotel (Amex Fine Hotels + Resorts credit) | Drove Oslo → Stockholm instead of flying Bergen → Riga (that ticket went unused) | [stockholm](guides/stockholm.md) |
+| 20 → 21 Sep | **Silja Line ferry** | Cabin, overnight | Stockholm → Helsinki | [scandinavia-transit](guides/scandinavia-transit.md) |
+| 21 → 23 Sep | **Helsinki** | Hostel | | [helsinki](guides/helsinki.md) |
+| 23 → 27 Sep | **Tallinn** | Harbour Hub Hostel | Tallink ferry Helsinki → Tallinn | [tallinn](guides/tallinn.md) |
+| 27 → 29 Sep | **Tartu** | Apartment | Train: the Baltics done as a north–south train run | [baltics train spine](guides/baltics-train-spine.md) |
+| 29 → 30 Sep | **Cēsis** (Gauja National Park) | Guesthouse | Train via Valga | [baltics train spine](guides/baltics-train-spine.md) |
+| 30 Sep → 3 Oct | **Riga** | Apartment | Train | [riga](guides/riga.md) |
+| 3 → 6 Oct | **Vilnius** | Studio apartment | FlixBus Riga → Vilnius | [vilnius](guides/vilnius.md) |
+| 6 → 7 Oct | **Białystok** | Hotel (Chase Travel credit) | LTG Link train from Vilnius over the Polish border | [bialystok](guides/bialystok.md) |
+| 7 → 9 Oct | **Wrocław** | Private room | IC 1626 Białystok → Wrocław (direct) | [wroclaw](guides/wroclaw.md) |
+| 9 → 12 Oct | **Prague** | Luma Terra hostel (dorm) | ČD train Wrocław → Prague | [prague](guides/prague.md) |
 | 12 → 13 Oct | **Brno** | 10-Z Bunker (a Cold War bunker hostel) | Train | [brno](guides/brno.md) |
-| 13 → 14 Oct | **Graz** | Hostel | Railjet | [graz](guides/graz.md) |
+| 13 → 14 Oct | **Graz** | Room (Booking.com) | ÖBB train Brno → Graz | [graz](guides/graz.md) |
 | 14 → 16 Oct | **Zagreb** (+ Plitvice) | Main Square Hostel | FlixBus Graz → Zagreb | [croatia](guides/croatia.md) |
 | 16 → 20 Oct | **Bled**, staying in **Lesce** | 1A Adventure Hostel | Train Zagreb → Ljubljana → Lesce-Bled. Bled itself was sold out for the Ljubljana marathon weekend | [slovenia](guides/slovenia.md) |
 | 20 → 22 Oct | **Ljubljana** | AdHoc Hostel | Train Lesce-Bled → Ljubljana | [slovenia](guides/slovenia.md) |
-| 22 → 26 Oct | **Padua** (base for Venice and Verona) | Hotello Padova (Chase Travel credit) | Via Trieste | [italy](guides/italy.md) · [trieste](guides/trieste.md) |
-| 26 → 27 Oct | **Bologna** | Hostel | Train | [italy](guides/italy.md) |
-| 27 → 30 Oct | **Florence** (+ Siena day trip) | Hostel | Train | [italy](guides/italy.md) |
-| 30 Oct → ≈ 2 Nov | **Cinque Terre / La Spezia** | Hostel | Train | [italy](guides/italy.md) |
-| ≈ 2 → 9 Nov | **Naples** (Pompeii, Vesuvius, Amalfi coast) | Hostel | Train | [italy](guides/italy.md) |
-| ≈ 9 → 11 Nov | **Calabria** (Reggio Calabria) | — | Regional trains down the Tyrrhenian coast | [italy](guides/italy.md) |
+| 22 → 23 Oct | **Trieste** | Controvento | FlixBus Ljubljana → Trieste | [trieste](guides/trieste.md) |
+| 23 → 26 Oct | **Padua** (base for Venice and Verona) | Hotello Padova (Chase Travel credit) | Train Trieste → Padua | [italy](guides/italy.md) |
+| 26 → 27 Oct | **Bologna** | Ostello Bello | Train | [italy](guides/italy.md) |
+| 27 → 30 Oct | **La Spezia** (base for Cinque Terre and Portovenere) | Costello hostel | Train via Parma. Vernazza, Riomaggiore, Portovenere | [italy](guides/italy.md) |
+| 30 Oct → 2 Nov | **Florence** | Emerald Palace Hostel | Train, with a stop in Pisa on the way | [italy](guides/italy.md) |
+| 2 → 7 Nov | **Rome** | Hotel, then The RomeHello hostel | Train Florence → Rome | [italy](guides/italy.md) |
+| 7 → 10 Nov | **Naples** (Pompeii, Vesuvius, Amalfi coast) | Ostello Bello Napoli | Train | [italy](guides/italy.md) |
+| 10 → 11 Nov | **Reggio Calabria** | Room (Booking.com) | Regional trains down the Tyrrhenian coast | [italy](guides/italy.md) |
 | 11 → 14 Nov | **Catania** (+ Syracuse/Ortigia day trip on 13 Nov) | The Yard Hostel (booked direct) | Train → Blu Jet ferry across the strait → train | [sicily](guides/sicily.md) |
 | 14 → 16 Nov | **Taormina**, staying in Giardini Naxos | B&B Villa Maria | Castelmola, Monte Veneretta, the Mazzarò steps | [sicily](guides/sicily.md) |
 | 16 Nov | **Cefalù** (day stop with luggage storage) | — | The Rocca, the rocks walk to Capo Cefalù | [sicily](guides/sicily.md) |
 | 16 → 20 Nov | **Palermo** | Ostello Bello | Coastal bike ride to Capo Gallo, markets, Monte Pellegrino | [sicily](guides/sicily.md) |
-| 20 Nov | ✈ **Home** | — | Palermo → Istanbul → Seattle (Turkish Airlines, cash fare) | — |
+| 20 Nov | ✈ **Home** | — | TK1374 / TK203 Palermo → Istanbul → Seattle (Turkish Airlines, cash fare) | — |
 
 ## How it was planned
 

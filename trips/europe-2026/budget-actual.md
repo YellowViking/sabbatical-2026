@@ -50,6 +50,21 @@ Living cost per day here means lodging, food and drink, and sights and incidenta
 
 **Scandinavia came in close to the plan. Everything after Stockholm ran 3–55% under.** Italy made the biggest difference: it was the longest stretch (29 days against 20 planned nights) and the most over-budgeted, mainly because dorm beds and cheap private rooms cost about a third of the $95/night forecast.
 
+## The forecast priced the planned route
+
+The forecast was built for the **route as planned** before departure, not the one travelled. Plans changed along the way: Gotland was skipped, the Baltics shrank, Croatia's coast was dropped, a Poland–Czechia–Austria leg was added, and Italy grew and took in Sicily.
+
+| Region | Planned nights | Actual nights |
+|---|---:|---:|
+| Nordics (Denmark, Sweden, Norway, Finland, Gotland) | 27 | 30 |
+| Baltics | 16 | 13 |
+| Poland, Czechia, Austria | 0 | 8 |
+| Slovenia + Croatia | 20 | 8 |
+| Italy (incl. Sicily) | 20 | 29 |
+| **Total** | **83** | **88** |
+
+**The route change explains very little of the difference.** I re-priced the forecast's own per-region living rates on the nights actually spent (the added Central European nights at an assumed $120/day, since the forecast had no rate for them). That gives **about $144 a night, against $142.50 for the planned route**. The extra Italy nights were dear in the forecast; dropping Croatia and Gotland roughly offset them. Actual living spend (lodging, food and drink, sights and incidentals) was **about $101 a night, 30% below the route-adjusted forecast**. The saving came from what things cost, mostly beds, not from where the trip went.
+
 ## By week (Sunday to Saturday)
 
 | Week | Dates | Mostly in | Spend | Per day |
