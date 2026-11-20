@@ -6,7 +6,7 @@ Long, solo, budget, train-first trips, planned with AI agents and browser automa
 
 | Trip | Dates | Countries | Status |
 |---|---|---|---|
-| [**Europe 2026**](trips/europe-2026/README.md): Scandinavia → Baltics → Central Europe → Slovenia/Croatia → Italy → Sicily | 24 Aug – 20 Nov 2026 (89 days, one Schengen stint) | Denmark, Sweden, Norway, Latvia, Estonia, Lithuania, Poland, Czechia, Austria, Croatia, Slovenia, Italy | ✅ Done |
+| [**Europe 2026**](trips/europe-2026/README.md) · [budget forecast](trips/europe-2026/budget-forecast.md): Scandinavia → Baltics → Central Europe → Slovenia/Croatia → Italy → Sicily | 24 Aug – 20 Nov 2026 (89 days, one Schengen stint) | Denmark, Sweden, Norway, Latvia, Estonia, Lithuania, Poland, Czechia, Austria, Croatia, Slovenia, Italy | ✅ Done |
 | [**Latin America**](trips/latam/README.md) | — | — | 🧭 Next: planning |
 
 ## City and region guides (Europe 2026)

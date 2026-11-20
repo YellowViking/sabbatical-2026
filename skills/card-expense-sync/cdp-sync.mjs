@@ -303,10 +303,11 @@ async function writeWeek(tab, n, grid, allowed) {
   }
   // Countries are dropdowns, which a paste would wipe, so they are typed — one cell at a time,
   // each with its own selection, and only where the sheet differs.
-  if (rows.every((r) => r.country)) {
+  // Type the countries we know; a day with no spend at all (e.g. after the trip ended) has none.
+  if (rows.some((r) => r.country)) {
     const now = await gviz(tab, 'Weeks', `A${d0}:G${d6}`);
     for (const [i, r] of rows.entries()) {
-      if (now.find((g) => g[0] === String(i + 1))?.[6] === r.country) continue;
+      if (!r.country || now.find((g) => g[0] === String(i + 1))?.[6] === r.country) continue;
       await tab.cell(`Weeks!G${d0 + i}`);
       await tab.type(r.country + '\n');
     }
