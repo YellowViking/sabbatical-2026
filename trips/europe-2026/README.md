@@ -68,6 +68,6 @@ Dates marked *≈* are reconstructed from the planning notes rather than from a 
 
 ## Notes
 
-- **Budget:** the pre-trip forecast is in [budget-forecast.md](budget-forecast.md): carry about $17k, expected spend about $15.6–16.3k for 83 nights. It includes the living-cost model by region, the transport estimates and the value of the award flights.
+- **Budget:** the pre-trip forecast is in [budget-forecast.md](budget-forecast.md): carry about $17k, expected spend about $15.6–16.3k for 83 nights. It includes the living-cost model by region, the transport estimates and the value of the award flights. **What it actually cost:** [budget-actual.md](budget-actual.md): **$11.3k cash over 88 nights ($126/day), about 25% under the forecast**. Lodging ran at roughly half the plan; intercity transport ran over.
 - Actual spending was tracked privately in a spreadsheet, synced from card statements (see [`skills/card-expense-sync`](../../skills/card-expense-sync/)). It isn't published here.
 - Reusable research that isn't tied to one city is in [`research/`](../../research/).

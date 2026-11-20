@@ -21,7 +21,7 @@ This page will become the trip's single source of truth, like [Europe 2026](../e
 - [ ] Countries and the overall direction of the route (what's already been visited, and what's fresh)
 - [ ] Seasons and weather by region and month: rainy seasons, altitude, hurricane season
 - [ ] Entry rules: visa or e-visa, maximum stay per country, onward-ticket requirements, reciprocity fees
-- [ ] Budget per day by country, and the cash/ATM/card situation. Build it the way the [Europe budget forecast](../europe-2026/budget-forecast.md) was built: lodging + food + drinks + local costs per region, a 10% cushion, then transport, sights, insurance
+- [ ] Budget per day by country, and the cash/ATM/card situation. Build it the way the [Europe budget forecast](../europe-2026/budget-forecast.md) was built, adjusted for the [lessons from what Europe actually cost](../europe-2026/budget-actual.md#lessons-for-the-next-budget): lodging + food + drinks + local costs per region, a 10% cushion, then transport, sights, insurance
 - [ ] Transport backbone: long-distance bus networks and booking sites, any passenger trains, regional budget airlines, border crossings
 - [ ] Safety by city and route, including night buses
 - [ ] Health: vaccinations, altitude, water
