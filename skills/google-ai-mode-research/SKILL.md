@@ -120,14 +120,9 @@ return i >= 0 ? t.slice(i) : t;
 1. Confirm account chip (signed in).
 2. Select **Pro** if not checked.
 3. Run one tight prompt (local food, 4.5★+, value>service, neighborhoods, must-order, local currency + USD). Expand to nature / lodging / transit / money / nights when building a full hub guide.
-4. Early-stop extract → `memory/restaurant-previews/playwright-<city>.txt`.
-5. Write compact `memory/<city>-local-food.md` (standalone book — see project `.github/copilot-instructions.md`).
-6. **Wire the entry point** — do not stop at the sub-md. Per copilot-instructions:
-   - `itinerary.md` §4 hub blurb + single `**Guide:**` link (no TOC spam)
-   - §1 baseline table if default/flex/core idea/nights changed (re-sum ~83n / ≤90)
-   - §6 costs + §7 lodging one-liner when beds/$/day change
-   - `memory/scandi-transit.md` + `memory/scandi-money-tips.md` indexes
-   - `RESUME.md` guide list if needed
+4. Early-stop extract → save the raw dump **outside the repo** (e.g. `~/.local/share/ai-mode-dumps/<city>.txt`).
+5. Write or extend the guide `trips/<trip>/guides/<place>.md` (section order in `.github/copilot-instructions.md`).
+6. **Wire it in:** link the guide from the trip's `trips/<trip>/README.md` route table and from the root `README.md` guide index.
 7. Optional follow-up query only if gaps (don’t thrash).
 
 ---

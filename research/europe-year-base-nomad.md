@@ -4,7 +4,7 @@
 **This is a different problem from the fall sabbatical hop.**  
 Fall = ≤**90 Schengen** days of *travel*. Year-base = **legal stay + cost + daily life + nature + hub** so you can live somewhere and *use* Europe.
 
-**Pair with:** [itinerary.md](../trips/europe-2026/README.md) · [tallinn-local-food.md](../trips/europe-2026/guides/tallinn.md) · [riga-local-food.md](../trips/europe-2026/guides/riga.md) *(year-base field scorecard)* · [vilnius-local-food.md](../trips/europe-2026/guides/vilnius.md) · [RESUME.md](../trips/europe-2026/README.md)
+**Pair with:** [Europe 2026 trip log](../trips/europe-2026/README.md) · [tallinn-local-food.md](../trips/europe-2026/guides/tallinn.md) · [riga-local-food.md](../trips/europe-2026/guides/riga.md) *(year-base field scorecard)* · [vilnius-local-food.md](../trips/europe-2026/guides/vilnius.md) · [RESUME.md](../trips/europe-2026/README.md)
 
 **Not legal advice.** Visa income floors, tax, and “apply in-country” rules change — verify official portals before any application. Ballparks below are **research snapshots (2026 discourse)**, not filings.
 

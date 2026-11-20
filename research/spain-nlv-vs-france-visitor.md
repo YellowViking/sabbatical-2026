@@ -1,7 +1,7 @@
 # Spain NLV vs France long-stay visitor (VLS-T)
 *Deep dive for **high savings · no employer · sabbatical** · US citizen · nature-first · Aug 2026 research snapshot*
 
-**Parent:** [europe-year-base-nomad.md](europe-year-base-nomad.md) · **Fall trip:** [itinerary.md](../trips/europe-2026/README.md) (scout only — these visas are a **separate consulate track**)
+**Parent:** [europe-year-base-nomad.md](europe-year-base-nomad.md) · **Fall trip:** [Europe 2026 trip log](../trips/europe-2026/README.md) (scout only — these visas are a **separate consulate track**)
 
 **Not legal advice.** Thresholds, forms, and consulate practice change. Verify:
 - Spain: your **consulate of residence** + MAEUEC “non-working / non-lucrative” pages  
