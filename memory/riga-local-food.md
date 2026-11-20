@@ -1,261 +1,143 @@
-# Riga — food, nature, lodging, transit, money & year-base scout
-*Default **10n** · flex **7–12n** · **#2 swing / sponge** · after Tallinn (Lux) · before Vilnius · nature-first · euro · ~€1 ≈ $1.10–1.15 · AI Mode Pro · Aug 2026*
+# Rīga: sights, nature, food, beer, lodging & transport
 
-**Role:** longest fall stay · cheapest multi-week **lifestyle lab** on the spine · **not** an automatic year visa (see [europe-year-base-nomad.md](europe-year-base-nomad.md)).  
-**Spine:** [scandi-transit.md](scandi-transit.md) · **Money index:** [scandi-money-tips.md](scandi-money-tips.md)
+*Euro. The cheapest drinking city of the Baltic capitals and a good place to slow down. Researched Aug–Oct 2026.*
 
----
-
-## Flexible fit
-
-| | |
-|---|---|
-| **Trip context** | Decompress after Nordics $ · absorb swing nights · optional year-base scorecard |
-| **Nights** | **10 default** ⭐ · **7** = trim day trips · **12** = steal from Gotland/HEL/CPH |
-| **Arrive/leave** | 🚆 **Train from Tallinn, arrives 16:55** (via Tartu/Cēsis/Sigulda) · leave 🚆 **same line south → Šiauliai → Vilnius 21:22**. Bus is the fallback, not the default — see [baltic-train-spine.md](baltic-train-spine.md) |
-| **Pace** | Centrs life + Central Market + **2–3 nature days** + **3+ workdays** if scouting |
-
-### Length → plan
-
-| Nights | Do |
-|---|---|
-| **7** | City core + **one** of Sigulda **or** Ķemeri + light Jūrmala · fewer workdays |
-| **10 default** ⭐ | Skeleton below — market life · Art Nouveau · Sigulda · Ķemeri · Jūrmala *or* Rundāle · work blocks |
-| **12** | Second Gauja day · slower food · extra cowork · don’t invent FOMO museums |
-
-| Idea | 10n |
-|---|---|
-| Central Market (not OT squares) | **YES** daily lean |
-| Quiet Centre / Art Nouveau | **YES** |
-| **Sigulda / Gauja** | **YES** full day |
-| **Ķemeri bog** | **YES** |
-| **Jūrmala** coast pines | YES half/full |
-| **Rundāle** | optional one day |
-| Old Town square dinners | **NO** |
-| Month-lease fantasy without visa | **NO** — score only |
-
-### Mid–late Sep
-Cool, good hiking · fewer summer party crowds · shorter days — note daylight for year-base winter honesty.
+**Related:** [baltic-train-spine.md](baltic-train-spine.md) · [scandi-money-tips.md](scandi-money-tips.md) · Prev north: [tallinn-local-food.md](tallinn-local-food.md) · Next south: [vilnius-local-food.md](vilnius-local-food.md)
 
 ---
 
-## Getting around
+## How long
 
-### Apps & tickets
-| | |
-|---|---|
-| **Local** | **Rīgas satiksme** app — tram/bus · ~€1.50 / 90 min ballpark |
-| **Trains** | **Vivi** (Latvian rail) — Sigulda, Ķemeri, Jūrmala cheap |
-| **Ride** | **Bolt** |
-| **Intercity** | **Lux Express** / Ecolines / Flix — TLL · VNO |
+Lonely Planet gives Rīga **2–3 city days**. Add a night per day trip you want (Sigulda/Gauja, Ķemeri bog). A week or more only makes sense as a slow "live here" stay with workdays and a kitchen.
 
-### Arrive / leave
-| Leg | Mode | Time | ~USD | Notes |
+Mid–late September is cool and good for hiking; days shorten fast. By October Jūrmala is an off-season resort and the Rundāle gardens are finished.
+
+---
+
+## Getting there and around
+
+| Leg | How | Notes |
+|---|---|---|
+| **From Tallinn** | 🚆 Train 10:18 from Balti jaam → Rīga ≈16:50, one change at Valga, €29–31 (Sep 2026) | Stops at Tartu, Valmiera, Cēsis, Sigulda. Bus (Lux Express, ~4–4.5 h) is faster but skips Gauja. See [baltic-train-spine.md](baltic-train-spine.md) |
+| **To Vilnius** | Bus ~4 h: FlixBus from **€10.49**, several a day (Oct 2026); also Lux Express / Ecolines | Or the evening through train (Rīga 16:55 → Vilnius ≈21:20) |
+| To Kaunas | FlixBus 09:50 → 13:55, €12.99 (Sep 2026) | |
+| **Day trips** | **Vivi** trains: Sigulda €2.80, 47 min–1 h 09; Ķemeri / Jūrmala similar | Cheap and frequent |
+| Local | **Rīgas satiksme** app, ~€1.50 / 90 min; **Bolt** | Centrs, market and Old Town are walkable |
+
+---
+
+## Sights
+
+| Sight | Time | Cost | Notes |
+|---|---|---|---|
+| **Alberta iela Art Nouveau** (Quiet Centre) | 2 h | free | Façades; pick a café on the block |
+| **Central Market** hangars | 1–2 h | free | Food + atmosphere |
+| **Old Town** | 2 h | free | Walk the ramparts; photos, not dinner |
+| National / Occupation museums | 2 h | paid | Rain picks |
+
+**Skip:** every dinner on Livu / Town Hall square, anything with a promoter and a laminated "Baltic feast", the €38–60 beer tours (see below).
+
+## Nature and day trips
+
+| Place | Time | Cost (2026) | Notes | Maps |
 |---|---|---|---|---|
-| **TLL → Riga** ⭐ | 🚆 **Train 012/112/873** | **6h29** | **€29–30.70** | Balti jaam **10:18** → Rīga **16:55**, one change at Valga. Stops **Tartu · Valmiera · Cēsis · Sigulda**. Continues **Vilnius 21:22 (€39)** |
-| *(fallback)* TLL → Riga | Lux Express bus | ~4–4.5h | ~$15–30 | Faster, cheaper, but skips every Gauja stop |
-| **Bus station → bed** | Tram/walk/Bolt | 10–25m | few $ | Amella / Centrs |
-| **Riga → Vilnius** | Lux / Ecolines | ~4h | ~$15–25 | Day coach |
-| **Day trips** | Vivi train | 30–75m | ~$3–8 | Sigulda / Ķemeri / Jūrmala |
+| **Sigulda / Gauja valley** | full day (or 1–2 nights) | Vivi ~€2.80 each way | Cliffs, Turaida, cable car, caves, forest trails; best in autumn colour. Budget beds are scarce in Gauja: Rīga is the cheap base | [Maps](https://www.google.com/maps/search/?api=1&query=Sigulda+Gauja) |
+| **Ķemeri bog** | half–full day | train ~€5 | Classic boardwalk | [Maps](https://www.google.com/maps/search/?api=1&query=Kemeri+National+Park+bog) |
+| **Baltā Kāpa** (White Dune), Pabaži | half day | free | Cliff/dune walk LP calls one of the most enchanting spots on the Latvian coast; good clear-weather option | [Maps](https://www.google.com/maps/search/?api=1&query=Balta+Kapa+Pabazi) |
+| Jūrmala | half–full day | train ~€3 | Pines + beach; summer resort, quiet off-season | [Maps](https://www.google.com/maps/search/?api=1&query=Jurmala+beach) |
+| Rundāle Palace | full day | ~€17 ticket + ~3½ h of bus | Gardens are done by October; summer only | [Maps](https://www.google.com/maps/search/?api=1&query=Rundale+Palace) |
 
-### Bed → sights / food
-| Place | How |
-|---|---|
-| **Central Market** | Walk/tram from Centrs · near station belt |
-| **Art Nouveau / Quiet Centre** | Walk Alberta iela cluster |
-| **Old Town** | Walk — **photos not dinner** |
-| **Cowork** | Bolt/tram midtown |
-| **Sigulda** | Train from central |
+Boots for bog boardwalks; a shell for the wind.
 
----
+## Sample plans
 
-## Sample plan — **10n default**
-
-| Day | Focus | Meals |
-|---|---|---|
-| **D0** | Lux in · check-in · **Central Market** graze · light OT walls | Market kiosk |
-| **D1** | **Art Nouveau** walk · Centrs cafés · optional museum | Quiet Centre lunch special |
-| **D2** | **Workday / recovery** (cowork or apt kitchen) | Cook + one casual dinner |
-| **D3** | **Sigulda / Gauja** full day | Picnic train · simple dinner back |
-| **D4** | City slow · markets · parks | Market + bakery |
-| **D5** | **Ķemeri bog** boardwalk | Picnic |
-| **D6** | **Workday** + evening Centrs | Cook |
-| **D7** | **Jūrmala** pines + beach *or* **Rundāle** | Train snacks / palace café careful |
-| **D8** | Flex: second nature · laundry · friends/meetup | — |
-| **D9** | Work half · buffer errands | — |
-| **Exit** | Coach → **Vilnius** | Station coffee |
-
-**7n compress:** drop Rundāle + one workday; keep Sigulda **or** Ķemeri.  
-**12n:** +1 Gauja / +1 pure rest / +1 cowork.  
-**Rain:** markets, museums, Art Nouveau indoor courtyards, cook day.
-
----
-
-## Nature 🌿
-
-| Place | ★ | Time | ~€ | Notes | Maps |
-|---|---|---|---|---|---|
-| **Gauja / Sigulda** | 4.8 | full day | train ~€4 | Cliffs, forest, valley — **primary** | [Maps](https://www.google.com/maps/search/?api=1&query=Sigulda+Gauja) |
-| **Ķemeri bog** | 4.8 | half–full | train ~€5 | Boardwalk classic | [Maps](https://www.google.com/maps/search/?api=1&query=Kemeri+National+Park+bog) |
-| **Jūrmala** | 4.6 | half–full | train ~€3 | Pines + beach · not only “resort strip” | [Maps](https://www.google.com/maps/search/?api=1&query=Jurmala+beach) |
-| **Rundāle gardens** | 4.7 | full day | bus ~€7 + ticket | Palace park · optional culture day | [Maps](https://www.google.com/maps/search/?api=1&query=Rundale+Palace) |
-
-Boots for bog boardwalk; shell for Atlantic-ish wind.
-
----
-
-## City / culture
-
-| Sight | Time | Notes |
-|---|---|---|
-| **Alberta iela Art Nouveau** | 2h | Free façades |
-| **Central Market** hangars | 1–2h | Food + vibe |
-| **Old Town** | 2h | Walk ramparts · skip square menus |
-| **National / occupation museums** | 2h | Rain picks — check Maps ★ |
-
-**Kill-list:** every dinner on Livu/Town Hall square · bar-only “Riga experience.”
+- **2 city days:** (1) Central Market graze, Old Town ramparts, Herrings and dills lunch; (2) Art Nouveau walk, Quiet Centre lunch special, A. Briāna 9a beer courtyard in the evening.
+- **+1 day each:** Sigulda/Gauja; Ķemeri bog or Baltā Kāpa.
+- Rain: markets, museums, Art Nouveau courtyards, cook.
 
 ---
 
 ## Food
 
-*Win = Central Market + Quiet Centre lunch menus + kitchen nights — not OT tourist menus.*
+The win is Central Market + Quiet Centre lunch menus (~€9–13) + kitchen nights, not Old Town tourist menus.
 
-### 10-night eat plan
-| Habit | Do |
-|---|---|
-| Most days | **Market** produce, smoked fish, rye, kiosk €6–10 plates |
-| 3–4× | Quiet Centre / Centrs **lunch specials** ~€9–13 |
-| 2–3× | Named casual dinner (table below) |
-| Many | **Cook** at Amella / apt |
-| Avoid | OT square “Baltic feast” traps |
-
-### Anchors *(Maps place pins verified Aug 2026 — not search guesses)*
-
-| Place | Maps ★ (n) | Order | ~€ | Maps |
+| Place | Maps ★ (n), Aug 2026 | Order | ~€ | Maps |
 |---|---|---|---|---|
-| **Rīgas Centrāltirgus** | **4.4** (55k) ⚠️ | Smoked fish, rye, hemp butter, hangar kiosks/canteen trays | 3–12 | [Maps](https://www.google.com/maps/place/Riga+Central+Market/@56.9438573,24.1149982,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfd4d1c236e3:0x38d769786a660bd4!8m2!3d56.9438573!4d24.1149982) |
-| **Herrings and dills** *(Siļķītes un Dillītes — market, Nēģu iela 7)* | **4.7** (544) | Marinated Baltic herring + rye + potatoes | 5–10 | [Maps](https://www.google.com/maps/place/Herrings+and+dills/@56.9434022,24.1138184,17z/data=!4m6!3m5!1s0x46eecfd574100003:0x77bfb2a46a719999!8m2!3d56.9434022!4d24.1138184!16s%2Fg%2F11g6mkqfdd) |
-| **LIDO Vērmanītis** | **4.4** (9.7k) ⚠️ value | **Pelēkie zirņi** · **aukstā zupa** · lunch combo | 8–14 | [Maps](https://www.google.com/maps/place/LIDO+V%C4%93rman%C4%ABtis/@56.9528728,24.1197857,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfd27375c9ab:0xf321951ed21f35e2!8m2!3d56.9528728!4d24.1197857) |
-| **Lidojošā varde** (Flying Frog) | **4.4** (2.0k) ⚠️ value | Business lunch · **karbonāde** | 9–15 | [Maps](https://www.google.com/maps/place/Lidojo%C5%A1%C4%81+varde/@56.9581304,24.1105758,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfc5791d5a19:0x76cea0916d588f1a!8m2!3d56.9581304!4d24.1105758) |
-| **B7, restorāns** | **4.8** (131) | One nicer Quiet Centre plate | Maps **€50+** band · not a cheap lunch default | [Maps](https://www.google.com/maps/place/B7,+restor%C4%81ns/@56.9608578,24.0999295,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfb976e05073:0xb6c067279a668670!8m2!3d56.9608578!4d24.0999295) |
-| **Alberta iela** *(walk, not a restaurant)* | **4.8** (293) street | Art Nouveau façades · pick cafés on the block live | lunch varies | [Maps](https://www.google.com/maps/place/Alberta+iela/@56.9595006,24.1079011,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfc5982e59b7:0xc7cd0f7e87d07ab6!8m2!3d56.9595006!4d24.1079011) |
+| **Rīgas Centrāltirgus** (Central Market) | 4.4 (55k) | Smoked fish, rye, hemp butter, hangar kiosk/canteen trays | 3–12 | [Maps](https://www.google.com/maps/place/Riga+Central+Market/@56.9438573,24.1149982,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfd4d1c236e3:0x38d769786a660bd4!8m2!3d56.9438573!4d24.1149982) |
+| **Herrings and dills** (*Siļķītes un Dillītes*, market, Nēģu iela 7) | 4.7 (544) | Marinated Baltic herring + rye + potatoes | 5–10 | [Maps](https://www.google.com/maps/place/Herrings+and+dills/@56.9434022,24.1138184,17z/data=!4m6!3m5!1s0x46eecfd574100003:0x77bfb2a46a719999!8m2!3d56.9434022!4d24.1138184!16s%2Fg%2F11g6mkqfdd) |
+| **LIDO Vērmanītis** | 4.4 (9.7k), value | *Pelēkie zirņi* (grey peas) · *aukstā zupa* (cold beet soup) · lunch combo | 8–14 | [Maps](https://www.google.com/maps/place/LIDO+V%C4%93rman%C4%ABtis/@56.9528728,24.1197857,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfd27375c9ab:0xf321951ed21f35e2!8m2!3d56.9528728!4d24.1197857) |
+| **Lidojošā varde** (Flying Frog) | 4.4 (2.0k), value | Business lunch · *karbonāde* | 9–15 | [Maps](https://www.google.com/maps/place/Lidojo%C5%A1%C4%81+varde/@56.9581304,24.1105758,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfc5791d5a19:0x76cea0916d588f1a!8m2!3d56.9581304!4d24.1105758) |
+| **B7, restorāns** | 4.8 (131) | One nicer Quiet Centre dinner | €50+ | [Maps](https://www.google.com/maps/place/B7,+restor%C4%81ns/@56.9608578,24.0999295,17z/data=!3m1!4b1!4m6!3m5!1s0x46eecfb976e05073:0xb6c067279a668670!8m2!3d56.9608578!4d24.0999295) |
 
-**Also on Maps (same brand, different pin):** *Siļķītes un Dillītes \| Herring and dill* at **Tirgoņu iela 4** (~4.9 / 115) — OT edge, not the market pavilion. Prefer **Nēģu iela 7** for market day.
+Herrings and dills has a second outlet at **Tirgoņu iela 4** (Old Town edge, ~4.9★); the Nēģu iela 7 market stall is the one for a market day.
 
-*⚠️ under ~4.5 kept for volume + local value. Gemini named the places; **stars/addresses/links re-checked on Google Maps** (place IDs). Dropped vague “market food court” search link (it only reopened Centrāltirgus).*
-
-**Kill-list:** Livu / Town Hall square menus · anything with a promoter and laminated “Baltic feast.” · bare `maps/search/?api=1&query=Name` without opening the place pin (can hit Seattle/wrong city or a list).
+Maps tip: open the place pin, not a bare `maps/search/?api=1&query=Name` link, which can land on the wrong city.
 
 ---
 
-## Beer & breweries 🍺
+## Beer
 
-*Live prices pulled **Sep 4 2026** · €1 = $1.16. **Riga is the cheapest drinking city on the whole fall route** — Numbeo restaurant draft 0.5L **€5.00**, against Tallinn €6.00, Stockholm €7.16 and Helsinki €8.00. This is where the 10-night sponge pays.*
+Numbeo restaurant draft 0.5 l **€5.00** vs Tallinn €6.00, Stockholm €7.16, Helsinki €8.00 (Sep 2026). **Public drinking is fined in Latvia** (carrying an open container is legal, consuming in parks and streets is not), so retail beer is an apartment drink.
 
-### The Beer District — one courtyard, two breweries
-**A. Briāna iela 9a** (Avoti) holds **Labietis Culture Taproom** *and* the **Valmiermuiža Beer Embassy**. That single address is where the €60 guided "Riga Beer District" tour starts — **walking it yourself is free**.
+### The Beer District: one courtyard, two breweries
+**A. Briāna iela 9a** (Avoti) holds **Labietis Culture Taproom** and the **Valmiermuiža Beer Embassy**. It's where the €60 guided "Riga Beer District" tour starts; walking it yourself is free.
 
-**Labietis Culture Taproom** — A. Briāna 9a-2 · **16 taps** · Mon–Thu 15–24 · Fri–Sat 13–02 · Sun 13–24 · an official Riga cultural space (live music, screenings, festivals). Pagan/herb ales: juniper, heather, meadowsweet.
-Second outlet in the **Central Market Gastronomy Pavilion** — 8 taps + takeaway, so it pairs with the market food day.
+**Labietis** (A. Briāna 9a-2): 16 taps, Mon–Thu 15–24 · Fri–Sat 13–02 · Sun 13–24. Pagan/herb ales (juniper, heather, meadowsweet); live music and screenings. Second outlet with 8 taps in the **Central Market Gastronomy Pavilion**.
 
-| Item | ~EUR | ~USD |
+| Item (Sep 2026) | ~€ |
+|---|---|
+| Labietis 0.3 l pour | 3.50–5.50 |
+| Labietis can, brewery webshop | 2.93–3.50 |
+| Valmiermuiža bottle, brewery webshop | 1.75–2.65 |
+| **Folkklubs Ala Pagrabs** 0.3 l (medieval cellar, folk nights) | 3.50–5 |
+| Old Town draft 0.5 l · craft | 3–6 · 3.50–8 |
+| Rimi / Maxima craft 0.33 l | 1.50–3.50 |
+
+### Tours: which are worth it
+
+| Tour | Price (Sep 2026) | Verdict |
 |---|---|---|
-| Labietis 0.3L pour | €3.50–5.50 | ~$4.1–6.4 |
-| Labietis can, **brewery webshop** (live) | **€2.93–3.50** | ~$3.4–4.1 |
-| Labietis 4-pack / larger packs (live) | €6.30 / €12.00–12.90 | ~$7.3 / $14–15 |
-| Valmiermuiža bottle, **brewery webshop** (live) | **€1.75–2.65** | ~$2.0–3.1 |
-| **Folkklubs Ala Pagrabs** 0.3L (medieval cellar, folk nights) | €3.50–5 | ~$4.1–5.8 |
-| Old Town draft 0.5L · craft | €3–6 · €3.50–8 | ~$3.5–9.3 |
-| Rimi / Maxima craft 0.33L | €1.50–3.50 | ~$1.7–4.1 |
-| Numbeo: restaurant draft 0.5L / market 0.5L | €5.00 / €1.80 | ~$5.8 / $2.1 |
+| **Valmiermuiža brewery**, Valmiera (~1 h 50 by train) | €16 classic (3 beers, 1.5–2 h) · €19 special (5 beers) · €24 cask-aged lager (max 15) | **The one worth taking**: a real working brewery. 10% off Mon–Wed; book degustacijas@valmiermuiza.lv |
+| Riga Beer District, 4 h / 12 beers | €60 | Skip: walk A. Briāna 9a free |
+| Brewery visit + 5-beer tasting, 2 h | €38 | Skip: ≈ 11 Labietis cans |
+| Pub crawl, 3 h | €42 | Skip |
 
-### Tours — worth it or not
-
-| Tour | Price (live) | Verdict |
-|---|---|---|
-| **Valmiermuiža brewery**, Valmiera (~1h50 by train) | **€16** classic / 3 brews / 1.5–2h · **€19** special / 5 brews / 2h · €24 cask-aged distilled lager (max 15) · €50 sommelier masterclass (min 20) | ⭐ **The one worth taking** — a real working brewery, not a bar crawl. Group minimums €64 / €76 · beer-paired snacks +€8 · **10% off Mon–Wed** · book **degustacijas@valmiermuiza.lv** |
-| Riga Beer District, 4h / 12 beers | €60 (min €180/tour) | ❌ Starts at A. Briāna 9a — walk it free |
-| Brewery visit + 5-beer tasting, 2h | €38 | ❌ That's ~11 Labietis cans |
-| Pub crawl, 3h | €42 | ❌ |
-
-### Budget check
-[Itinerary §6](../itinerary.md) budgets **$15/day × 10n = $150**. Three taproom pours = **€10.50–16.50 ($12–19)/day** → **$122–192 across the stay**, midpoint sitting right on the line. **No change needed** — and retail-at-the-apartment nights pull it well under.
-
-### Free / cheap version
-- **Walk A. Briāna 9a yourself** — two breweries, one courtyard, €0 entry, no guide.
-- **Brewery-shop retail beats every guided tasting**: a self-run 5-beer flight from the Labietis / Valmiermuiža shops runs **~€12–17** vs €38–60 guided.
-- **Central Market Labietis stand** — 8 taps inside the food anchor you're visiting anyway.
-- ⚠️ **Public drinking still draws a police fine in Latvia.** Carrying an open container has been legal since 2020, but *consuming* in parks and streets is not — buy retail, drink at the apartment.
+Self-run 5-beer flight from the Labietis / Valmiermuiža shops: ~€12–17.
 
 ---
 
-## Lodging (hostels & budget)
+## Where to stay
 
-*§7 shortlist · kitchen wins for 10n · free cancel while flex · re-check before book.*
-
-### Where
 | Area | Why |
 |---|---|
-| **Centrs / Quiet Centre** | Art Nouveau · cafés · walkable |
-| **Near Central Market / station fringe** | Day trips + market · watch pure party hostels |
-| **Latgale fringe (Amella area)** | Aparthotel value · short tram/Bolt to core |
+| **Centrs / Quiet Centre** | Art Nouveau, cafés, walkable |
+| **Near the Central Market / station** | Day trips + market; watch for party hostels |
+| **Latgale fringe** (Amella area) | Aparthotel value; short tram to the core |
 
-**⚠ Avoid:** far suburbs with no tram plan; OT party basements if you need sleep for workdays.
+Avoid far suburbs without a tram, and Old Town party basements if you need sleep.
 
-### Picks
+**Lodging lessons (Sep–Oct 2026):** whole studio apartments ran ~€40–45/night and often cost the same as or less than a hostel's private room. The cheapest flats hide 1–4/10 reviews that "most relevant" sorting buries, so pull the full score distribution before booking.
 
-| Place | Area | ~$ / n | Nearest rail / bus | Notes | Maps |
-|---|---|---|---|---|---|
-| **Aparthotel Amella** ⭐ | Market fringe | **~$62–82** | **Riga Central station** · ~5m; Turgeņeva coach stop ~2m | Kitchen · laundry · year-base sim | [Maps](https://www.google.com/maps/search/?api=1&query=Aparthotel+Amella+Riga) |
-| **Blue Bird** ⭐ hostel | OT / central | capsule/dorm ~$20–50 | **Nacionālā opera tram** · ~6m | Capsules ≠ full apt | [Maps](https://www.google.com/maps/search/?api=1&query=Blue+Bird+capsule+hostel+Riga) |
-| **Naughty Squirrel** | OT / coach-station edge | dorm ~$20–35 | **13. janvāra iela tram** · ~2m; Riga Coach Station ~3m | Social backpacker alt | [Maps](https://www.google.com/maps/search/?api=1&query=Naughty+Squirrel+Hostel+Riga) |
-| **Gutenbergs** | OT edge | **~$80+** | **Nacionālais teātris tram** · ~6m | Mid hotel backup | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Gutenbergs+Riga) |
-
----
-
-## Money savers
-
-| Tip | Detail |
-|---|---|
-| **Kitchen + market** | Biggest lever vs Nordics |
-| **Vivi trains** | Day trips for coffee-money fares |
-| **Rīgas satiksme** | Don’t Bolt every hop |
-| **Cowork day pass** | Double9-class ~€12 · OracleTang-class ~€18 — try **one** before monthly fantasy |
-| **Lunch menus** | Beat dinner prices |
-| **OT squares** | Tourist tax |
-| **Alcohol** | Cheapest on the route: 0.3L pour €3.50–5.50, brewery-shop cans **€1.75–3.50**. Skip the €38–60 tours; walk A. Briāna 9a free. **Public drinking is fined** — see [Beer & breweries](#beer--breweries-) |
-| **Day rate (trip)** | Itinerary ~**$90–100**/n apt-lean all-in |
-| **Month fantasy** | Research ~**€1.7–2.4k / ~$2.0–2.8k** comfortable solo (housing+food+cowork+transit) — **tourist 90 ≠ right to stay** |
+| Place | Area | Price seen | Notes | Maps |
+|---|---|---|---|---|
+| **3 Monks Hostel** | Old Town | triple semi-private sleeping space ~€18/night, direct on its Cloudbeds engine (Sep 2026) | Direct beat the OTAs | [Maps](https://www.google.com/maps/search/?api=1&query=3+Monks+Hostel+Riga) |
+| **Ieva's PEARL in Riga heart** | Centrs | apartment ~€44/night (Booking, Oct 2026) | Quiet, clean; Rimi 50 m; 1 km walk from the Central Station | [Maps](https://www.google.com/maps/search/?api=1&query=Ieva%27s+PEARL+Riga) |
+| **Merkela 7 Central Apartments** | by Central Station | studio with stove ~€40/night (Booking, Sep 2026) | 9.1, no reviews under 7; stairs only, dark | [Maps](https://www.google.com/maps/search/?api=1&query=Merkela+7+Central+Apartments+Riga) |
+| **Aparthotel Amella** | Market fringe | ~$62–98/night (2026) | Kitchen, laundry; 5 min to the station | [Maps](https://www.google.com/maps/search/?api=1&query=Aparthotel+Amella+Riga) |
+| **Blue Bird** hostel | Old Town / central | capsule/dorm ~$20–50 | Capsules | [Maps](https://www.google.com/maps/search/?api=1&query=Blue+Bird+capsule+hostel+Riga) |
+| **Naughty Squirrel** | by the coach station | dorm ~$20–35 | Social backpacker hostel | [Maps](https://www.google.com/maps/search/?api=1&query=Naughty+Squirrel+Hostel+Riga) |
+| Hotel Gutenbergs | Old Town edge | ~$80+ | Mid-range backup | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Gutenbergs+Riga) |
 
 ---
 
-## Year-base scout *(lifestyle lab — not a visa)*
+## Money tips
 
-Riga is the **best on-trip apartment simulation**. It is **not** Spain NLV / France VLS-T and usually **not** an easy savings-only year lock (see [europe-year-base-nomad.md](europe-year-base-nomad.md) · [spain-nlv-vs-france-visitor.md](spain-nlv-vs-france-visitor.md)).
+- Kitchen + Central Market is the biggest lever.
+- Vivi trains make day trips almost free; don't Bolt every hop.
+- Lunch menus beat dinner prices.
+- Drinks: 0.3 l pour €3.50–5.50, brewery-shop cans/bottles €1.75–3.50 (Sep 2026).
+- Coworking day pass ~€12–18 if you need a desk.
 
-### Scorecard (1–5) — fill on D8–D9
-| Dimension | Score | Note |
-|---|---|---|
-| Monthly cost feel | /5 | vs $2–2.8k research band |
-| Workday (apt or cowork) | /5 | Wifi, noise, chair |
-| Nature loop habit | /5 | Would Gauja/Ķemeri be monthly? |
-| Social / English | /5 | Meetups, cowork, loneliness |
-| Winter honesty | /5 | Mid-Sep dark already? Extrapolate |
-| “Home” dull Sunday | /5 | Grocery + laundry OK? |
-| Legal realism | /5 | Likely **low** without job/means visa elsewhere |
+## Living here?
 
-**Pass for “return later”:** average ≥4 on lifestyle **and** you accept legal path is **elsewhere** (ES/FR means, GE/AL, or seasonal 90).
-
-### Field checklist
-- [ ] 3+ full **work/reset days** (not only tourism)
-- [ ] One **cowork day pass**
-- [ ] Sigulda **and/or** Ķemeri as habit test
-- [ ] Market → cook dinner 3×
-- [ ] 22:00 neighborhood walk
-- [ ] 10 lines: lease 6 months? **yes / maybe / no** — and **why legally no**
-
----
-
-## Optional
-Swing nights from Gotland 0 / HEL 0 → Riga 12. Next: [vilnius-local-food.md](vilnius-local-food.md) → fly LJU.
+Rīga is the best Baltic "try living here" city: cheap, walkable, good nature by train. A comfortable solo month was estimated at ~€1.7–2.4k (housing, food, cowork, transit) in 2026. Tourist days are not a right to stay; see [europe-year-base-nomad.md](europe-year-base-nomad.md) and [spain-nlv-vs-france-visitor.md](spain-nlv-vs-france-visitor.md). Test it with a few workdays, a cowork pass, a Gauja/Ķemeri habit, cooking from the market, and an honest look at how dark it already is.

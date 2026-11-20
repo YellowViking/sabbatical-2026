@@ -1,14 +1,24 @@
----
-name: flights-points-vs-cash
-description: "When planning flights/hotels, cross-check points/miles redemption vs. cash before recommending a booking; Google Flights is the cash baseline"
-metadata: 
-  node_type: memory
-  type: feedback
-  originSessionId: e02c15bb-b0a4-409b-b0b7-f59669d2af3f
----
+# Points vs cash: when to redeem
 
-When planning any flight or hotel, cross-check **points/miles redemption value against the cash price** whenever a redemption could plausibly make sense — don't just quote cash. Use **Google Flights as the cash-price baseline** (user finds it reliable for cash estimates).
+A short rule for flights and hotels: before booking, compare the points or miles price with the cash price, and only redeem when the points buy real value.
 
-**Why:** The user actively optimizes travel with points/miles and doesn't want to overpay cash on a booking where a redemption is clearly better value (or vice-versa — burn miles on a cheap ticket where cash is better).
+## The rule
 
-**How to apply:** Compute cents-per-point = (cash price ÷ points required). Rule of thumb — redeem when value clears ~1.3–1.5¢/pt or higher (premium cabins, expensive routes, pricey hotel nights, one-way flights home); pay **cash** on cheap economy positioning legs where redemption would come in under ~1¢/pt. To do this concretely I need the user's program balances + status (transferable points like Amex MR / Chase UR / Capital One / Bilt, airline miles, hotel points). Link [[sabbatical-2026-europe]].
+1. **Get the cash baseline.** For flights, use Google Flights (reliable for cash fares). For hotels, use the cheapest whitelisted booking site for the same room and dates, with taxes and fees included.
+2. **Work out the value per point:** cents per point = (cash price − taxes/fees you still pay on the award) ÷ points required × 100.
+3. **Decide:**
+   - **Redeem** when the value is about **1.3–1.5¢ per point or more**. This usually happens with premium cabins, expensive routes, one-way long-haul flights home, and pricey hotel nights.
+   - **Pay cash** when the value is under about **1¢ per point**. This is typical for cheap economy positioning flights and budget carriers, where a redemption wastes points.
+   - Between 1¢ and 1.3¢, it is a judgment call. Lean towards cash if the points could go to a better redemption later.
+
+## What to check
+
+- **Which currencies can reach the award.** Transferable points (Amex MR, Chase UR, Capital One, Bilt) can move to several airline and hotel programmes, so price the same flight in each partner programme before transferring. Transfers are usually one-way and permanent.
+- **Taxes and surcharges.** Some programmes add large fuel surcharges to awards. Include them in the calculation above.
+- **Cash-fare extras.** Budget carriers charge separately for cabin bags. Add the bag fee to the cash price before comparing it with an award that includes a bag.
+- **Earning on cash bookings.** A cash fare earns miles and card points. For close calls, subtract that from the cash price.
+
+## Related
+
+- Award search tools and endpoints are listed in the repo's `AGENTS.md`, in the "Known structured paths" table.
+- See [Hyatt in Scandinavia](hyatt-scandinavia.md) for a worked hotel example, and the [trip log](../trips/europe-2026/README.md) for what was actually booked.

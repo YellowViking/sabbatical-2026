@@ -1,150 +1,102 @@
-# Copenhagen — food, nature, attractions, lodging & transport
-*Default **3n** · flex **3–5n** · start ~**late Aug 2026** (SEA long-haul) · nature-first · ~6.9 DKK ≈ $1 · AI Mode Pro · Jul–Aug 2026*
-*Spine + other cities: [scandi-transit.md](scandi-transit.md)*
+# Copenhagen — food, nature, sights, lodging & transport
+*Good length **3 nights** (4–5 to add Louisiana / Malmö / Dyrehaven) · nature-first · prices seen Jul–Aug 2026 at ~6.9 DKK ≈ $1*
+*Other Scandinavian cities and the transit spine: [scandi-transit.md](scandi-transit.md)*
 
-## Flexible fit
-
-| | |
-|---|---|
-| **Trip context** | Fall opener → GOT/OSL → Norway hikes → … → ~mid-Nov · **~83n baseline / ≤90 Schengen** |
-| **Nights** | **3 default** · **+1–2** from swing pool (Gotland/Riga) if jet lag or you want day-trips |
-| **Leave when** | Ready — train → Gothenburg **or** skip GOT straight to Oslo |
-| **Pace** | Nights ≠ full days. Arrival evening is low-energy. Save legs for Preikestolen/Bergen. |
-
-### Default 3n — yes / no
+## How long
 
 | Idea | 3n | 4–5n |
 |---|---|---|
-| Tivoli recovery night | **YES** | YES |
-| Green ring parks + food | **YES** | YES |
-| Amager / harbour bath | **YES** | YES |
-| Louisiana | skip | **unlocked** |
-| Malmö/Lund | skip | **unlocked** |
-| Dyrehaven | skip | **unlocked** |
+| Tivoli night (good jet-lag cure) | yes | yes |
+| Green-ring parks + smørrebrød | yes | yes |
+| Amager Strand / harbour bath | yes | yes |
+| Louisiana | skip | yes |
+| Malmö / Lund | skip | yes |
+| Dyrehaven | skip | yes |
 | Museum marathon | no | still no |
 
-### Late Aug conditions
-- Sunset ~**20:30–20:45**. Harbour swim ~**18–20°C**.
-- Use CPH to clear jet lag — not as a peak-hike week.
+- Arriving on a long-haul flight, treat Copenhagen as jet-lag recovery, not a big-hike stop. The arrival evening is low-energy.
+- Late August: sunset ~20:30–20:45; harbour water ~18–20°C.
 
----
+## Getting around
 
-## Getting around *(transport in this guide)*
-
-Full spine (all legs): [scandi-transit.md](scandi-transit.md).
-
-### Apps & tickets
 | | |
 |---|---|
 | Planner | **Rejseplanen** |
-| Tickets | **DOT tickets** (metro/bus/S-tog) · long-distance **DSB** / **SJ** app |
-| Walk nav | Google/Apple Maps (still buy fares in DOT) |
-| Day pass | Worth it if **Amager + 2+ other paid rides**; else singles + walk Indre By |
+| Tickets | **DOT tickets** app (metro, bus, S-tog) · long distance **DSB** / **SJ** apps |
+| Day pass | Worth it only for Amager + 2 or more other paid rides; otherwise singles and walk Indre By |
+| Bike | Donkey Republic — best for an Amager day |
 
-### Arrive / leave this hub
-| Leg | Mode | Book | Time | ~USD | Notes |
-|---|---|---|---|---|---|
-| **CPH airport → Tivoli-side bed** | Øresund train | DOT / DSB | ~13m | $5–7 | Direct to **København H** · Next House ~6m walk |
-| **CPH airport → Urban Camper** | Metro **M2 → M3** | DOT | ~35m | $5–7 | Transfer at Kongens Nytorv → **Nørrebro** · hostel ~3m walk |
-| **Exit → Gothenburg** | Train | SJ / DSB | 3.5–4h | $25–45 | **København H → Göteborg C** · station buffer **30–40 min** |
-| **Skip GOT → Oslo** | Train same corridor onward | SJ/Vy | longer day | — | Only if dropping GOT |
+### Arrive / leave
+| Leg | Mode | Time | ~USD (2026) | Notes |
+|---|---|---|---|---|
+| Airport → København H | Øresund train | ~13m | $5–7 | Best if sleeping near Tivoli / the station |
+| Airport → Nørrebro (Urban Camper) | Metro M2 → M3 (change Kongens Nytorv) | ~35m | $5–7 | Hostel ~3m from Nørrebro station |
+| → Gothenburg | Train SJ / DSB | 3.5–4h | $25–45 | København H → Göteborg C · allow 30–40 min at the station |
+| → Oslo direct | Train same corridor | long day | — | Only if skipping Gothenburg |
 
-### Bed → station (luggage)
-| Bed | To **København H** |
-|---|---|
-| **Urban Camper** ⭐ value | Walk ~3m → **Nørrebro M3** direct to H · ~15–20m door-to-door |
-| **Next House / Steel House** ⭐ | Walk **5–12 min** (Tivoli / Vesterport side) |
-| **CityHub** | Metro/bus ~10–15m **or** walk 20–25m |
-| citizenM Rådhuspladsen | Walk ~5–10m to H / metro |
+**Jet-lag tip:** sleep near København H / Tivoli so the airport and first meals are walks, not a metro puzzle. Don't put Amager on the departure morning.
 
-### Bed → attractions
-| Place | From Next/Steel | From CityHub |
+### From central beds to sights
+| Place | From Tivoli-side beds | Notes |
 |---|---|---|
-| **Tivoli** | Walk 2–8m | Bus ~10m |
-| **Nyhavn** | Metro Kongens Nytorv + walk · or 25–35m walk | Metro |
-| **Green-ring parks** (Ørsteds, King’s Garden…) | Walk loop from Indre By | Metro to centre then walk |
-| **Christiania edge** | Walk/metro Christianshavn | Metro |
-| **Amager Strand / harbour bath** | Metro **M2** ~20–25m | Same M2 |
-| **Louisiana** *(4–5n)* | Train Øresund → Humlebæk + walk | Same from H |
-| **Malmö** *(4–5n)* | Train H → Malmö C ~40m | Same |
+| Tivoli | walk 2–8m | |
+| Nyhavn | metro Kongens Nytorv, or walk 25–35m | |
+| Green-ring parks | walking loop from Indre By | |
+| Christiania | walk / metro Christianshavn | |
+| Amager Strand / Islands Brygge | metro M2 ~20–25m | |
+| Louisiana | Øresund train → Humlebæk + walk | 4–5n only |
+| Malmö | train H → Malmö C ~40m | 4–5n only |
 
-**Urban Camper transit tax:** M3 from Nørrebro reaches København H / Kongens Nytorv directly; allow roughly 15–25m door-to-door for central sights and a few extra DOT rides versus a Tivoli-side bed. Nordvest/Nørrebro food is useful enough that not every evening requires a return downtown.
+From Nørrebro (Urban Camper), M3 reaches København H / Kongens Nytorv directly: allow 15–25m door-to-door for central sights. Nørrebro / Nordvest food is good enough that not every evening needs a trip downtown.
 
-### Bed → food (guide picks)
-| Place | How from Tivoli-side beds |
-|---|---|
-| **Torvehallerne / Hallernes** | Walk/metro ~15–20m toward Nørreport |
-| **Josephines** (Nørrebro) | Metro/bus toward Nørrebro ~15–20m |
-| **Schønnemann / Kronborg / Lille Apotek** | Walk Indre By 10–20m |
-| **Chicky Grill** (Halmtorvet) | Walk ~10m · *not* deep Istedgade night loiter |
-| **Karla / Rådhus smørrebrød** | Walk centre |
-| **Københavner Cafeen / Klubben** | Short walk / bus — check Maps pin |
+## Sample 3-night plan
 
-**Jet-lag tip:** sleep **near H/Tivoli** so airport + first food are walks, not a metro puzzle.
+| Day | Focus | Meals |
+|---|---|---|
+| Arrival | Drop bags · easy Nyhavn walk · **Tivoli** lights | Light / Torvehallerne |
+| Day 1 | Green-ring parks · Christiania edge · smørrebrød | Josephines / Kronborg / Schønnemann lunch · Chicky Grill / Karla / Lille Apotek dinner |
+| Day 2 | Amager Strand and/or Islands Brygge · optional Kalvebod Fælled | Picnic · whatever must-eat is left |
+| Departure | Bakery · 30–40 min station buffer | Train picnic |
 
----
+With 4–5 nights, add one or two of Louisiana, Malmö/Lund or Dyrehaven (not all). Refshaleøen harbour sauna fits any warm afternoon.
 
-## Sample plan — **3n default** *(slide dates)*
+## Nature & parks
 
-| Day | Energy | Focus | Meals |
+| Place | ★ | Time | Maps |
 |---|---|---|---|
-| **D0 arrive** | 🛑 Jet lag | Bags · Nyhavn easy · **Tivoli** lights | Light / Torvehallerne |
-| **D1** | ⚡ | Green ring parks · Christiania edge · smørrebrød | Josephines/Kronborg/Schønnemann · Chicky/Karla/Lille Apotek |
-| **D2** | 🚴 | Amager Strand and/or Islands Brygge · optional Kalvebod | Picnic · leftover must-eat |
-| **Exit AM** | 🎒 | Bakery · station buffer ≥30–40 min | Train picnic → GOT or OSL |
+| **Kongens Have** | 4.6 | 1h | [Maps](https://www.google.com/maps/search/?api=1&query=Kongens+Have+Copenhagen) |
+| **Botanisk Have** | 4.5 | 1h | [Maps](https://www.google.com/maps/search/?api=1&query=Botanisk+Have+Copenhagen) |
+| **Ørstedsparken** | 4.6 | 30m | [Maps](https://www.google.com/maps/search/?api=1&query=%C3%98rstedsparken+Copenhagen) |
+| **Assistens Kirkegård** | 4.7 | 1h | [Maps](https://www.google.com/maps/search/?api=1&query=Assistens+Kirkeg%C3%A5rd+Copenhagen) |
+| **Amager Strandpark** | 4.6 | 2h | [Maps](https://www.google.com/maps/search/?api=1&query=Amager+Strandpark+Copenhagen) |
+| **Havnebadet Islands Brygge** | 4.5 | 1h | [Maps](https://www.google.com/maps/search/?api=1&query=Havnebadet+Islands+Brygge+Copenhagen) |
+| Kalvebod Fælled | 4.6 | 3h | [Maps](https://www.google.com/maps/search/?api=1&query=Kalvebod+F%C3%A6lled+Copenhagen) |
 
-### If **4–5n**
-Insert after D1 or instead of rushing D2: **Louisiana** *or* **Malmö/Lund** *or* **Dyrehaven** (pick 1–2, not all). Refshaleøen sauna anytime warm afternoon.
+Also: **Refshaleøen** harbour sauna + swim (industrial edge). Cisternerne only if already in Frederiksberg. For a longer stay: Louisiana, Dyrehaven, Bellevue coast ride, Frederiksberg Have, a Malmö day.
 
-**Exit tip:** don’t put Amager on the departure morning.
+## City sights (light fill-ins)
 
----
-
-## Nature & parks 🌿 *(what still fits)*
-
-| Place | ★ | Time | When | Maps |
-|---|---|---|---|---|
-| **Kongens Have** | 4.6 | 1h | Fri PM / Sat AM | [Maps](https://www.google.com/maps/search/?api=1&query=Kongens+Have+Copenhagen) |
-| **Botanisk Have** | 4.5 | 1h | Sat AM | [Maps](https://www.google.com/maps/search/?api=1&query=Botanisk+Have+Copenhagen) |
-| **Ørstedsparken** | 4.6 | 30m | Sat AM | [Maps](https://www.google.com/maps/search/?api=1&query=%C3%98rstedsparken+Copenhagen) |
-| **Assistens Kirkegård** | 4.7 | 1h | Sat | [Maps](https://www.google.com/maps/search/?api=1&query=Assistens+Kirkeg%C3%A5rd+Copenhagen) |
-| **Amager Strandpark** | 4.6 | 2h | **Sun PM** | [Maps](https://www.google.com/maps/search/?api=1&query=Amager+Strandpark+Copenhagen) |
-| **Havnebadet Islands Brygge** | 4.5 | 1h | Sun | [Maps](https://www.google.com/maps/search/?api=1&query=Havnebadet+Islands+Brygge+Copenhagen) |
-| Kalvebod Fælled | 4.6 | 3h | Sun only if energy | [Maps](https://www.google.com/maps/search/?api=1&query=Kalvebod+F%C3%A6lled+Copenhagen) |
-
-**Optional if energy (still no extra night):** **Refshaleøen** harbour sauna + swim (industrial edge; Sat/Sun PM). Cisternerne only if already in Frederiksberg — usually skip on this landing.
-
-**Parked for a longer CPH someday:** Louisiana, Dyrehaven, Bellevue coast ride, Frederiksberg Have, Malmö day.
-
----
-
-## City sights *(light fill-ins only)*
-
-| Sight | When | ~USD | Notes | Maps |
-|---|---|---|---|---|
-| **Nyhavn** walk | Fri | free | Skip café tourist prices | [Maps](https://www.google.com/maps/search/?api=1&query=Nyhavn+Copenhagen) |
-| **Tivoli** | **Fri night** | entry ~$29 | Jet-lag defeater · online entry | [Maps](https://www.google.com/maps/search/?api=1&query=Tivoli+Gardens+Copenhagen) |
-| **Rundetaarn** | Sat if near | $9 | On-site | [Maps](https://www.google.com/maps/search/?api=1&query=Rundetaarn+Copenhagen) |
-| **Christiania** | Sat PM | free | No resident photos | [Maps](https://www.google.com/maps/search/?api=1&query=Freetown+Christiania+Copenhagen) |
-| Rosenborg **garden** | Sat | free | Interior optional / skip if tired | [Maps](https://www.google.com/maps/search/?api=1&query=Rosenborg+Castle+Copenhagen) |
-| Canal cruise | optional Sat | ~$15 | Only if weather perfect | [Maps](https://www.google.com/maps/search/?api=1&query=Nyhavn+Copenhagen) |
-
-**Bike:** Donkey Republic — best Sun Amager.
+| Sight | ~USD (2026) | Notes | Maps |
+|---|---|---|---|
+| **Nyhavn** walk | free | Skip the café prices; Netto beer on the quay | [Maps](https://www.google.com/maps/search/?api=1&query=Nyhavn+Copenhagen) |
+| **Tivoli** | entry ~$29 | Best at night · buy online | [Maps](https://www.google.com/maps/search/?api=1&query=Tivoli+Gardens+Copenhagen) |
+| **Rundetaarn** | $9 | Pay on site | [Maps](https://www.google.com/maps/search/?api=1&query=Rundetaarn+Copenhagen) |
+| **Christiania** | free | No photos of residents | [Maps](https://www.google.com/maps/search/?api=1&query=Freetown+Christiania+Copenhagen) |
+| Rosenborg garden | free | Castle interior optional | [Maps](https://www.google.com/maps/search/?api=1&query=Rosenborg+Castle+Copenhagen) |
+| Canal cruise | ~$15 | Only in perfect weather | [Maps](https://www.google.com/maps/search/?api=1&query=Nyhavn+Copenhagen) |
 
 ## Food
 
 ### 3-night eat plan
-
 | When | Eat |
 |---|---|
-| Lunch | Smørrebrød — Josephines / Rådhus / Kronborg or Schønnemann (book) / Hallernes · **or picnic in Kongens Have** |
-| 1 dinner | **AYCE stegt flæsk** — Klubben (daily) or Københavner Cafeen (Mon/Tue) |
-| 1 dinner | Chicky Grill (flæskesteg) or Karla |
-| 1 dinner | Lille Apotek platter or Færgecafé stew |
+| Lunch | Smørrebrød — Josephines / Rådhus / Kronborg or Schønnemann (book) / Hallernes · or a picnic in Kongens Have |
+| Dinner 1 | **All-you-can-eat stegt flæsk** — Klubben (daily) or Københavner Cafeen (Mon/Tue) |
+| Dinner 2 | Chicky Grill (flæskesteg) or Karla |
+| Dinner 3 | Lille Apotek platter or Færgecafé stew |
 | Anytime | DØP hot dog · Sankt Peders pastry |
 
 ### Must-try foods
-
 | Food | Order at | Maps |
 |---|---|---|
 | Smørrebrød | Kronborg / Josephines | [Kronborg](https://www.google.com/maps/search/?api=1&query=Restaurant+Kronborg+Brol%C3%A6ggerstr%C3%A6de+Copenhagen) · [Josephines](https://www.google.com/maps/search/?api=1&query=Josephines+Sm%C3%B8rrebr%C3%B8d+Rantzausgade+Copenhagen) |
@@ -157,8 +109,7 @@ Insert after D1 or instead of rushing D2: **Louisiana** *or* **Malmö/Lund** *or
 | Pølse | DØP | [Maps](https://www.google.com/maps/search/?api=1&query=D%C3%98P+hotdog+Rundetaarn+Copenhagen) |
 | Pastry | Sankt Peders Bageri | [Maps](https://www.google.com/maps/search/?api=1&query=Sankt+Peders+Bageri+Copenhagen) |
 
-### Restaurants — order this
-
+### Restaurants — what to order (prices Aug 2026)
 | Place | ★ | Order | ~USD | Maps |
 |---|---|---|---|---|
 | **Josephines Smørrebrød** | 4.9 | Roast beef smørrebrød (or kartoffelmad) | $12 | [Maps](https://www.google.com/maps/search/?api=1&query=Josephines+Sm%C3%B8rrebr%C3%B8d+Rantzausgade+Copenhagen) |
@@ -173,92 +124,67 @@ Insert after D1 or instead of rushing D2: **Louisiana** *or* **Malmö/Lund** *or
 | **Københavner Cafeen** | 4.4 | AYCE stegt flæsk **Mon/Tue** or house platter | $35 | [Maps](https://www.google.com/maps/search/?api=1&query=K%C3%B8benhavner+Cafeen+Badstuestr%C3%A6de+10+Copenhagen) |
 | **Klubben** | 4.0 ⚠️ | AYCE stegt flæsk **daily** | $29 | [Maps](https://www.google.com/maps/search/?api=1&query=Restaurant+Klubben+Enghavevej+4+Copenhagen) |
 
-### AYCE stegt flæsk
+### All-you-can-eat stegt flæsk
 | Place | When | ~USD | ★ |
 |---|---|---|---|
 | Københavner Cafeen | Mon–Tue dinner | $35 | 4.4 |
-| Klubben | Daily | $29 | 4.0 |
+| Klubben | daily | $29 | 4.0 |
 | Rio Bravo | Mon–Sat (+ beer) | $51 | 3.9 |
 | Frederik VI | Wed dinner | $22 | ~4.2 |
 
-**Book food:** Schønnemann, Kronborg, Københavner AYCE. **Walk-in:** Josephines, Rådhus, Hallernes, Chicky.  
-Smørrebrød = mostly **lunch**, closes mid-afternoon.
+**Book:** Schønnemann, Kronborg, Københavner AYCE. **Walk in:** Josephines, Rådhus, Hallernes, Chicky Grill. Smørrebrød is mostly a **lunch** food; places close mid-afternoon.
 
----
+## Where to stay
 
-## Lodging *(hostels + budget)*
-
-*Criteria match itinerary §7: review **>8**, high count, **central**, social OK; typical cost. Late-Aug ballpark · ~6.9 DKK≈$1 · prefer **free cancellation** while nights flex 3–5. AI Mode Pro Aug 2026 — re-check Booking before pay.*
-
-### Where to stay
 | Area | Why |
 |---|---|
 | **Indre By** | Safest walkable core · Tivoli / Rådhuspladsen / Torvehallerne |
-| **Vesterbro west** (Vesterbrogade / Meatpacking edge) | Local cafés, bars · still central |
-| **Nørrebro edge** | Lakes, multicultural food · tram/metro in |
+| **Vesterbro west** (Vesterbrogade / Meatpacking edge) | Local cafés and bars · still central |
+| **Nørrebro** | Lakes, multicultural food · metro in |
 
-**⚠ Avoid:** first **2–3 blocks of Istedgade** behind Hovedbanegården (red-light / open drug scene at night). Day transit through station is fine.  
-**Generator** sits ~7.8–8.0 and **no kitchen** → food spend up; OK backup only.
+**Avoid** the first 2–3 blocks of **Istedgade** behind the main station at night (red-light area, open drug scene). Passing through the station by day is fine.
 
-### Picks
+### Hostels and budget beds worth considering (prices seen Aug 2026, 1 adult, late-Aug weekdays)
 
-| Place | Area | Score | Dorm ~$ | Private ~$ | Bed privacy | Nearest rail / bus | Notes | Maps |
+| Place | Area | Score | Dorm ~$/n | Private ~$/n | Bed privacy | Nearest station | Notes | Maps |
 |---|---|---|---|---|---|---|---|---|
-| **Urban Camper** ⭐ value | Nordvest · Nørrebro M3 | **8.3 B (3,959) · 4.3 G (988)** | **37 NR / 41 flex direct** | 134–148 | 4-bed indoor mixed tent | **Nørrebro M3 / S-tog** · ~3m | Direct VAT incl. · linen+towel+drink · shared bath | [Maps](https://www.google.com/maps/search/?api=1&query=Urban+Camper+Hostel+Bar+Copenhagen) |
-| **Next House** | Indre By (Tivoli side) | 8.6–9.0 | **40–60** | 120–160 | **No curtains** (open bunk alcoves) | **København H** · ~6m | Best social poshtel · meet-ups, bars, cinema · light+power at bed | [Maps](https://www.google.com/maps/search/?api=1&query=Next+House+Copenhagen) |
-| **Steel House** | Vesterbro edge | 8.4–8.6 | **45–65** | 130–170 | **Semi-private bunks** (official); curtains **unverified / mixed reviews** | **Vesterport S-tog** · ~2m | Pool + gym · calmer halls · not Istedgade | [Maps](https://www.google.com/maps/search/?api=1&query=Steel+House+Copenhagen) |
-| **CityHub** ⭐ private | Vesterbro west | 8.8–8.9 | — (hubs) | **90–130** | **Private Hub** (official/Booking) | **Frederiksberg Allé M3** · ~6m | App capsule · sauna · max privacy without hotel $ | [Maps](https://www.google.com/maps/search/?api=1&query=CityHub+Copenhagen) |
-| **Generator** | Indre By (Adelgade) | ~7.8–8.0 ⚠️ | 40–65 | 140–190 | typically open bunks | **Kongens Nytorv metro** · ~5m | Super central · lively · **no kitchen** | [Maps](https://www.google.com/maps/search/?api=1&query=Generator+Hostel+Copenhagen) |
-| **citizenM Rådhuspladsen** | Indre By | ~8.6 | — | 200–270 | full private room | **Rådhuspladsen M3/M4** · ~2m | Splurge · 7F lounge workspace · Tivoli door | [Maps](https://www.google.com/maps/search/?api=1&query=citizenM+R%C3%A5dhuspladsen+Copenhagen) |
+| **Urban Camper** ⭐ value | Nordvest · Nørrebro | Booking 8.3 (3,959) · Google 4.3 (988) | **41** flexible direct (37 non-refundable) | 134–148 | 4-bed mixed indoor tent | Nørrebro M3 / S-tog ~3m | Direct rate includes VAT, linen, towel and a drink · shared bath | [Maps](https://www.google.com/maps/search/?api=1&query=Urban+Camper+Hostel+Bar+Copenhagen) |
+| **Next House** | Indre By (Tivoli side) | 8.6–9.0 | 40–60 (4-bed ~$60 direct) | 120–160 | **No curtains** (open bunk alcoves) | København H ~6m | Most social poshtel · bars, cinema · light + power at bed | [Maps](https://www.google.com/maps/search/?api=1&query=Next+House+Copenhagen) |
+| **Steel House** | Vesterbro edge | 8.4–8.6 | 45–65 | 130–170 | "Semi-private bunks" (official); curtains disputed in reviews | Vesterport S-tog ~2m | Pool + gym · calmer · not on Istedgade | [Maps](https://www.google.com/maps/search/?api=1&query=Steel+House+Copenhagen) |
+| **CityHub** ⭐ private | Vesterbro west | 8.8–8.9 | — | 90–130 | Private "Hub" capsule with door | Frederiksberg Allé M3 ~6m | App-run capsule · sauna | [Maps](https://www.google.com/maps/search/?api=1&query=CityHub+Copenhagen) |
+| MEININGER | Central | — | ~49 (10-bed mixed, direct) | — | — | Central | Worse room/value than Urban Camper | — |
+| **Generator** | Indre By (Adelgade) | ~7.8–8.0 ⚠️ | 40–65 | 140–190 | Open bunks | Kongens Nytorv ~5m | Very central, lively, **no kitchen** — backup only | [Maps](https://www.google.com/maps/search/?api=1&query=Generator+Hostel+Copenhagen) |
+| **citizenM Rådhuspladsen** | Indre By | ~8.6 | — | 200–270 | Private room | Rådhuspladsen M3/M4 ~2m | Splurge · lounge workspace | [Maps](https://www.google.com/maps/search/?api=1&query=citizenM+R%C3%A5dhuspladsen+Copenhagen) |
 
-### Live Aug 24–27 rate check *(1 adult · male/mixed only · Aug 16)*
+Screened out (Aug 2026): Sleep in Heaven (cheapest at ~$38/n but Booking 7.4 and 16-bed dorms), Copenhagen Downtown (7.3, party focus), a&o Nørrebro (6.9).
 
-| Option | Room | Final flexible total | Cancellation | Verdict |
-|---|---|---:|---|---|
-| **Urban Camper direct** ⭐ | 4-bed mixed indoor tent | **DKK 803 / $124.39 · $41.46/n** | Full refund ≥48h before arrival | **Best value** · VAT, linen, towel, one drink included |
-| **Next House direct** | 4-bed “For all” dorm | **DKK 1,168.50 / ~$181 · ~$60/n** | Free until 3d before arrival | Pay ~$57 more for central-station convenience + stronger facilities |
-| **MEININGER direct** | max-10-bed mixed dorm | **DKK 948 / ~$147 · ~$49/n** | Free until 18:00 arrival day | Central, but worse room/value than Urban Camper |
-| **Sleep in Heaven / Booking** | 16-bed mixed dorm | **$115 after 25% VAT · $38.33/n** | Free until Aug 19 | Cheapest, but 7.4 Booking + 16 beds; not worth saving $9 |
+**Gotcha:** Booking's Copenhagen hostel headline prices **exclude the 25% VAT**. Open the room table (or the direct site) before comparing.
 
-**Rejected/unavailable:** Copenhagen Downtown = ~$124 after VAT but 7.3 + explicit party focus · a&o Nørrebro = 6.9 and ~$171 after VAT · Danhostel City could not cover all three nights. Booking’s Copenhagen hostel headlines exclude **25% VAT**; always open the room table before comparing.
+Bed privacy was checked against official sites and Booking text, not just AI summaries; see [hostel-bed-privacy-check.md](hostel-bed-privacy-check.md). Bring earplugs.
 
-*Bed privacy: **primary check Aug 2026** (Maps → official site + Booking), not Gemini-only. See `memory/restaurant-previews/hostel-curtains-primary-vs-gemini.md`. Bring earplugs.*
-
-| Place | Gemini said | Primary |
-|---|---|---|
-| Steel House | YES curtains | Official = **semi-private bunks** only; reviews **split** on curtains → don’t assume |
-| Next House | NO / alcove | **Confirmed no bed curtains**; solid wall opening / alcove |
-| CityHub | private hub | **Confirmed** private Hub (door/capsule), not a shared bunk |
-
-### How to choose
-| You want | Book |
+| You want | Pick |
 |---|---|
-| Best price/quality balance | **Urban Camper direct flexible** |
-| Central arrival/exit convenience | **Next House** |
-| Social dorm + some bed enclosure | **Steel House** (*semi-private* — confirm photos for your room type) or Next House alcove |
-| Social dorm, don’t need curtains | **Next House** |
-| Max privacy without hotel $ | **CityHub** |
-| Quiet + fitness | **Steel House** |
-| Work lounge / treat | citizenM |
-| Stretch 3→5n | Free-cancel flex rate; late-Aug weekends sell |
+| Best price/quality | **Urban Camper** (direct, flexible rate) |
+| Central arrival/departure, social | **Next House** (~$19/n more than Urban Camper) |
+| Some bed enclosure, quiet, gym | **Steel House** (check room photos) |
+| Most privacy without hotel prices | **CityHub** |
+| Treat / work lounge | citizenM |
 
-**Budget:** live pick = Urban Camper direct flexible **~$41/night**; central premium = Next House **~$60**. Solid privates are currently ~$130+ and fail the value cap. Urban Camper is ~35m from the airport and ~15–25m from central sights; Next House wins only when that convenience is worth ~$19/night.
+Solid private rooms were ~$130+/n in late August 2026, so a good dorm is the value play here.
 
----
-
-## Money savers
-*Country rules: [scandi-money-tips.md](scandi-money-tips.md) · Denmark · AI Mode Pro Aug 2026*
+## Money savers (Denmark)
+*Country rules: [scandi-money-tips.md](scandi-money-tips.md)*
 
 | Do | Skip / watch |
 |---|---|
-| **Netto / Lidl / Rema 1000** near centre for breakfast + picnic | Meny/Irma for staples |
-| **Hostel kitchen** 1–2 dinners ($4–8) | Restaurant dinner every night ($30+) |
-| **Smørrebrød at lunch** only | “Dinner smørrebrød” tourist pricing |
-| **Free:** Amager Strand, Islands Brygge baths, parks, Kastellet grounds, green ring | **Nyhavn café** table prices (beer from Netto on the quay) |
-| Walk Indre By most days | **Copenhagen Card** on 3n unless 3+ big paid sights same day |
-| **DOT 24h** only if Amager + multiple zones | Random single tickets that add up without a plan |
-| Supermarket beer (no monopoly) | Airport booze / harbour cocktails |
-| Tap water always | Bottled water |
-| Tivoli = one paid night if you want lights — budget it | Stacking every paid museum on landing days |
+| **Netto / Lidl / Rema 1000** for breakfast + picnics | Meny/Irma for staples |
+| Hostel kitchen for 1–2 dinners ($4–8) | Restaurant dinner every night ($30+) |
+| Smørrebrød at **lunch** | "Dinner smørrebrød" tourist pricing |
+| **Free:** Amager Strand, Islands Brygge baths, parks, Kastellet grounds, green ring | Nyhavn café tables |
+| Walk Indre By | **Copenhagen Card** on 3 nights unless 3+ big paid sights in one day |
+| DOT 24h only for Amager + several zones | Unplanned single tickets |
+| Supermarket beer (no state monopoly in Denmark) | Airport booze / harbour cocktails |
+| Tap water | Bottled water |
+| Tivoli as the one paid night | Stacking paid museums on arrival days |
 
-**Stretch 4–5n:** Louisiana is a **paid** ticket (grounds not a free loophole) — only if you want the art day. Malmö lunch can undercut CPH restaurant prices after cheap Øresund train.
+Louisiana is a **paid** ticket (no free grounds loophole) — only for a real art day. A Malmö lunch can undercut Copenhagen prices after the cheap Øresund train.

@@ -1,296 +1,155 @@
-# Tallinn — food, nature, lodging, transit & money
-*Default **3n** · flex **2–4n** · after HEL ferry · before Riga (Lux bus) · nature-first · euro · ~€1 ≈ $1.10–1.15 · AI Mode Pro · Aug 2026*
-*Arrive ferry from HEL · **exit by TRAIN south** (Balti jaam 10:18 → Tartu/Gauja/Rīga/Vilnius). Nordic money habits still apply; Estonia is cheaper than FI/SE/NO.*
-*⚠️ **LIVE Sep 23–27 2026, 4n**, Harbour Hub Hostel, Paadi tn 14a (check-in 14:00–22:00, checkout 11:00).*
+# Tallinn: sights, nature, food, beer, lodging & transport
 
-**Spine legs:** [scandi-transit.md](scandi-transit.md) (HEL ferry + Baltic hop) · **Money index:** [scandi-money-tips.md](scandi-money-tips.md#tallinn--estonia-ee)
+*Euro. Cheaper than Helsinki/Stockholm, but the dearest drinking city in the Baltics. Researched Aug–Sep 2026.*
 
----
-
-## Flexible fit
-
-| | |
-|---|---|
-| **Trip context** | First Baltic capital · decompress after Nordics prices · gateway to **Riga sponge** |
-| **Nights** | **3 default** ⭐ · **2** = city only (no Lahemaa) · **4** = + bog day slow *or* second museum/island |
-| **Arrive/leave** | ✅ **HEL→TLL ferry 2h** (Tallink MyStar, D-Terminal) · leave 🚆 **train south from Balti jaam 10:18** |
-| **Pace** | Old Town **walk not dine** · Telliskivi/Kalamaja food · Kadriorg · optional **Viru bog / Lahemaa** |
-
-### Length → plan
-
-| Nights | Do |
-|---|---|
-| **2** | D0 ferry PM: walls + viewpoints · D1 Telliskivi + Kadriorg · evening/next bus — **no** full Lahemaa |
-| **3 default** ⭐ | City + food hubs + Kadriorg · **one nature day** (Viru bog / Lahemaa) · exit |
-| **4** | Above + slower KUMU/Seaplane *or* second coast · only if stealing from Riga carefully |
-
-| Idea | 3n |
-|---|---|
-| Old Town walls / Toompea views | **YES** — photos + walk |
-| **Telliskivi + Kalamaja** | **YES** — food base |
-| **Kadriorg** park + palace grounds | **YES** |
-| **KUMU** | optional rain |
-| **Lahemaa / Viru bog** | **YES** on 3n (full day) |
-| Raekoja plats restaurants | **NO** |
-| Baltic islands (Saaremaa etc.) | **4n+** / not this pass |
-
-### Nights consensus *(Google AI Mode Pro, Aug 2026)*
-
-| Advice | Nights |
-|---|---|
-| Typical first-timer city-only | **2–3n** |
-| **City + one nature day** (our lean) | **3n** ⭐ |
-| Museums deep + islands | **4n+** |
-| 2n with Lahemaa | **too rushed** |
-
-**Verdict:** **3 default / 2–4 flex is right.** Don’t rob Riga’s sponge for a 5th Tallinn museum day; do steal **+1 from Gotland skip** if you want a calm bog day without rushing the bus.
-
-### Mid-Sep
-Crisp ~10–14°C · fewer cruise peaks than July · still fine for boardwalks · pack shell for bog wind.
+**Related:** [scandi-transit.md](scandi-transit.md) (Helsinki ferry) · [scandi-money-tips.md](scandi-money-tips.md#estonia-cheaper-than-the-nordics) · [baltic-train-spine.md](baltic-train-spine.md) (train south) · Next south: [riga-local-food.md](riga-local-food.md)
 
 ---
 
-## Getting around
+## How long
 
-### Apps & tickets
-| | |
-|---|---|
-| **Local transit** | **pilet.ee** / **Ühiskaart** · trams/buses · real-time: Transit app or local tracker |
-| **Ride / scooters** | **Bolt** (cheap, local) |
-| **Ferry in** | **Tallink**, Viking, Eckerö — compare **laevapiletid.ee** |
-| **Bus out** | **Lux Express** app/site → Riga (wifi, seat, hot drinks) |
-| Walk | Old Town + Kalamaja are walkable; Kadriorg = tram |
+- **2 nights:** city only (Old Town walls, Telliskivi, Kadriorg). No Lahemaa.
+- **3 nights (sweet spot):** city + one full nature day (Viru bog / Lahemaa).
+- **4 nights:** add KUMU / Seaplane Harbour or a slower coast day.
 
-| Pass idea | When |
-|---|---|
-| 1h single | few rides |
-| **1-day / 3-day** | Kadriorg + cross-town + airport/port hops |
-| Tallinn Card | Usually **skip** on 3n unless stacking 3+ paid museums |
-
-### Arrive / leave
-| Leg | Mode | Time | ~USD | Notes |
-|---|---|---|---|---|
-| **HEL → TLL** | Ferry | ~2h | ~$30–60 | Multiple/day · midweek cheaper · avoid Fri PM crush if you can |
-| **Port → bed** | Tram/walk/Bolt | 10–25m | few $ | D-terminal area → Old Town / Telliskivi |
-| **TLL → Riga** ⭐ | 🚆 **Train 012/112/873** | **6h29** | **€29–30.70** | ⚠️ **Supersedes the bus.** Departs **Balti jaam 10:18** (NOT the coach station), one change at Valga, arrives Rīga **16:55** — and stops at **Tartu, Valmiera, Cēsis, Sigulda** on the way. Continues to **Vilnius 21:22 (€39)**. Full spine: [baltic-train-spine.md](baltic-train-spine.md) |
-| *(old)* TLL → Riga | Lux Express bus | ~4–4.5h | ~$15–30 | Faster and cheaper, but **Tallinn Coach Station, Lastekodu 46** — and it skips every Gauja stop. Fallback only. |
-| Skip HEL | Rare STO→TLL ferry exists — out of default spine |
-
-### Bed → sights
-| Place | How |
-|---|---|
-| **Old Town / walls** | Walk if OT or Fat Margaret edge · 15–25m walk from Telliskivi |
-| **Telliskivi / Balti Jaam** | Walk from Kalamaja beds · tram/bus from OT |
-| **Kadriorg + KUMU** | Tram **1/3** toward Kadriorg |
-| **Patkuli / Kohtuotsa viewpoints** | Walk Toompea |
-| **Lahemaa / Viru** | Day tour van **or** bus + long local — tour easier solo |
-
-### Bed → food
-| Place | How |
-|---|---|
-| **Telliskivi** | Walk cluster |
-| **Balti Jaam market** | Next to Telliskivi / station |
-| **Kalamaja** streets | Walk west of station |
-| **Old Town dinner** | Only if you pick a **side street** — not the square |
+Mid-September is crisp (~10–14 °C), past the cruise-ship peak, still fine for boardwalks. Bring a shell for bog wind.
 
 ---
 
-## Sample plan — **3n default**
+## Getting there and around
 
-| Day | Focus | Meals |
+| Leg | How | Notes |
 |---|---|---|
-| **D0 PM ferry** | Drop bags · **Old Town walls** · Toompea viewpoints · sunset | Balti Jaam graze *or* Telliskivi casual — **not** Raekoja plats |
-| **D1 city** | **Telliskivi** AM · **Kadriorg** park (+ KUMU if rain/art) · Kalamaja wander | **Päevapakkumine** lunch · Kurze or burger dinner |
-| **D2 nature** | **Viru bog / Lahemaa** full day (tour or DIY) | Picnic from Rimi · simple dinner back |
-| **Exit** | Morning Lux bus → **Riga** | Station coffee + snack |
+| **Helsinki → Tallinn** | Ferry ~2 h (Tallink MyStar, Viking, Eckerö) | Many a day; ~€20–60, midweek cheapest, avoid Fri PM / Sat AM. Compare on laevapiletid.ee. Tallink arrives at **D-Terminal**, a short walk to the Old Town and the harbour hostels |
+| **Tallinn → Rīga / Vilnius** | 🚆 Train from **Balti jaam 10:18**, one change at Valga, Rīga ≈16:50, Vilnius ≈21:20 (€29–39, Sep 2026) | Stops at Tartu, Valmiera, Cēsis, Sigulda. Full details: [baltic-train-spine.md](baltic-train-spine.md) |
+| Tallinn → Rīga (fallback) | Lux Express bus, ~4–4.5 h, ~€15–30 | From **Tallinn Coach Station, Lastekodu 46**. Faster and cheaper, but skips every Gauja stop |
+| Local | Trams/buses via pilet.ee / Ühiskaart; **Bolt** for rides | Old Town + Kalamaja are walkable; Kadriorg = tram 1 or 3 |
+| Lahemaa / Viru bog | Day-tour van (easiest solo) or bus + long local leg | |
 
-**2n compress:** drop D2 nature; soft Kadriorg half-day.  
-**4n expand:** second coast / Seaplane Harbour / slower food — take from Gotland or Riga top, not Italy buffer first.  
-**Rain D2:** KUMU + Seaplane Harbour + market — reschedule bog if 4n.
-
----
-
-## Nature & parks 🌿
-
-| Place | ★ | Time | ~USD | Notes | Maps |
-|---|---|---|---|---|---|
-| **Kadriorg Park** | 4.8 | 2–3h | **free** grounds | Baroque + forest paths · swan ponds | [Maps](https://www.google.com/maps/search/?api=1&query=Kadriorg+Park+Tallinn) |
-| **Viru bog** (Lahemaa) | 4.9 | full day | tour ~€50–80 *or* DIY transit | Boardwalk over bog · **3n hero** | [Maps](https://www.google.com/maps/search/?api=1&query=Viru+Bog+Estonia) |
-| **Lahemaa NP** coast | 4.8 | full day | same day as Viru often | Manors + shore if tour loops | [Maps](https://www.google.com/maps/search/?api=1&query=Lahemaa+National+Park) |
-| **Rocca al Mare / beach strip** | — | half | free–low | Only if skipping full NP | [Maps](https://www.google.com/maps/search/?api=1&query=Stroomi+beach+Tallinn) |
-
-**Boots:** boardwalk can be wet — trail shoes. Mid-Sep bugs milder than peak summer.
+**Tallinn Card:** usually skip unless you stack 3+ paid museums in a day.
 
 ---
 
-## City / culture
+## Sights
 
-| Sight | Time | ~USD | Notes | Maps |
+| Sight | Time | Cost | Notes | Maps |
 |---|---|---|---|---|
-| **Old Town walls / towers** | 2–3h | free–low wall segments | UNESCO core · climb 1–2 towers max | [Maps](https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town) |
-| **Toompea viewpoints** | 45–90m | free | Patkuli, Kohtuotsa | [Maps](https://www.google.com/maps/search/?api=1&query=Kohtuotsa+viewpoint+Tallinn) |
-| **Telliskivi Creative City** | 2h+ | free wander | Murals, shops, food | [Maps](https://www.google.com/maps/search/?api=1&query=Telliskivi+Creative+City) |
-| **KUMU** | 2h | paid | Best art if rain | [Maps](https://www.google.com/maps/search/?api=1&query=KUMU+Tallinn) |
-| **Seaplane Harbour** | 2h | paid | Maritime / kids-ok · optional | [Maps](https://www.google.com/maps/search/?api=1&query=Seaplane+Harbour+Tallinn) |
+| **Old Town walls / towers** | 2–3 h | free–low | UNESCO core; climb one or two towers at most | [Maps](https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town) |
+| **Toompea viewpoints** (Patkuli, Kohtuotsa) | 45–90 min | free | Best at sunset | [Maps](https://www.google.com/maps/search/?api=1&query=Kohtuotsa+viewpoint+Tallinn) |
+| **Telliskivi Creative City** | 2 h+ | free | Murals, shops, food | [Maps](https://www.google.com/maps/search/?api=1&query=Telliskivi+Creative+City) |
+| **Kadriorg Park** (4.8★) | 2–3 h | free grounds | Baroque palace grounds, forest paths, swan ponds | [Maps](https://www.google.com/maps/search/?api=1&query=Kadriorg+Park+Tallinn) |
+| **KUMU** | 2 h | paid | Best art museum; rain pick | [Maps](https://www.google.com/maps/search/?api=1&query=KUMU+Tallinn) |
+| **Seaplane Harbour** | 2 h | paid | Maritime museum; optional | [Maps](https://www.google.com/maps/search/?api=1&query=Seaplane+Harbour+Tallinn) |
 
-**Kill-list:** dinner on **Raekoja plats** · hop-on bus as “seeing Tallinn” · airport-hotel base.
+**Skip:** dinner on Raekoja plats (Town Hall Square), the hop-on bus, airport-hotel bases.
+
+## Nature
+
+| Place | Time | Cost | Notes | Maps |
+|---|---|---|---|---|
+| **Viru bog** (Lahemaa, 4.9★) | full day | tour ~€50–80, or DIY transit | Boardwalk over the bog; the best nature day from Tallinn | [Maps](https://www.google.com/maps/search/?api=1&query=Viru+Bog+Estonia) |
+| **Lahemaa NP coast** | full day | often the same tour | Manors + shore | [Maps](https://www.google.com/maps/search/?api=1&query=Lahemaa+National+Park) |
+| Stroomi beach / Rocca al Mare | half day | free | Only if skipping the national park | [Maps](https://www.google.com/maps/search/?api=1&query=Stroomi+beach+Tallinn) |
+
+The boardwalk can be wet: wear trail shoes. Take a Rimi picnic.
+
+## Sample 3-day plan
+
+- **Day 1 (arrival):** Old Town walls, Toompea viewpoints at sunset. Eat at Balti Jaam market or Telliskivi, not the square.
+- **Day 2:** Telliskivi and Kalamaja in the morning, Kadriorg (+ KUMU if raining), weekday lunch special, Põhjala in the evening.
+- **Day 3:** Viru bog / Lahemaa full day.
+- Rain swap: KUMU + Seaplane Harbour + the market.
 
 ---
 
 ## Food
 
-*Cheaper than Helsinki. Win = market + Telliskivi/Kalamaja + weekday lunch specials — not medieval theme restaurants on the square.*
+The win is Balti Jaam market + Telliskivi/Kalamaja + weekday lunch specials (*päevapakkumine*, €5–8), not medieval theme restaurants on the square.
 
-### 3-night eat plan
+| Place | ★ | Order | ~€ (2026) | Maps |
+|---|---|---|---|---|
+| **Kaks Kokapoissi** (Telliskivi) | 4.8 | Cheeseburger | €8–13 | [Maps](https://www.google.com/maps/search/?api=1&query=Kaks+Kokapoissi+Tallinn) |
+| **The Kurze** (Kalamaja) | 4.8 | Meat kurze dumplings | €10–14 | [Maps](https://www.google.com/maps/search/?api=1&query=The+Kurze+Tallinn) |
+| **Ülo** | 4.6 | Veg / creative plates | €12–20 | [Maps](https://www.google.com/maps/search/?api=1&query=%C3%9Clo+restaurant+Tallinn) |
+| **Samsa Family Bakers** (Balti Jaam) | 4.5 | Lamb plov / samsa | €4–8 | [Maps](https://www.google.com/maps/search/?api=1&query=Samsa+Family+Bakers+Tallinn) |
+| **Baojaam** (Balti Jaam) | 4.5 | Gua bao | ~€8 for 2 | [Maps](https://www.google.com/maps/search/?api=1&query=Baojaam+Tallinn) |
 
-| When | Eat |
+For one traditional Estonian plate, look for a *päevapakkumine* with pork, cabbage and black bread, or a well-reviewed tavern off the square (Maps ★ ≥ 4.5). Supermarkets (Rimi, Selver): rye bread (*rukkileib*), sprats, kefir.
+
+### Weekday lunch deals (menus seen Sep 2026)
+
+| Where | Deal |
 |---|---|
-| 1+ | **Balti Jaam** stalls (samsa, bao, produce) |
-| 1 dinner | **Telliskivi** burger / casual |
-| 1 dinner | **Kalamaja** kurze / dumplings or creative veg |
-| Weekday | **Päevapakkumine** lunch €5–8 |
-| Daily | Rimi/Selver rye bread, kefir, picnic for bog day |
-| Avoid | Town Hall Square menus as default |
-
-### Must-try / order-this
-
-| Place | ★ | Order | ~EUR | ~USD | Maps |
-|---|---|---|---|---|---|
-| **Kaks Kokapoissi** (Telliskivi) | 4.8 | Juustuburger | €8–13 | ~$9–15 | [Maps](https://www.google.com/maps/search/?api=1&query=Kaks+Kokapoissi+Tallinn) |
-| **The Kurze** (Kalamaja) | 4.8 | Meat kurze dumplings | €10–14 | ~$12–16 | [Maps](https://www.google.com/maps/search/?api=1&query=The+Kurze+Tallinn) |
-| **Ülo** | 4.6 | Veg / creative plates | €12–20 | ~$14–23 | [Maps](https://www.google.com/maps/search/?api=1&query=%C3%9Clo+restaurant+Tallinn) |
-| **Samsa Family Bakers** (Balti Jaam) | 4.5 | Lamb plov / samsa | €4–8 | ~$5–9 | [Maps](https://www.google.com/maps/search/?api=1&query=Samsa+Family+Bakers+Tallinn) |
-| **Baojaam** (Balti Jaam) | 4.5 | Gua bao | ~€8 / 2 | ~$9 | [Maps](https://www.google.com/maps/search/?api=1&query=Baojaam+Tallinn) |
-
-**Classic Estonian** (if you want one traditional plate): look **päevapakkumine** with pork/cabbage/black bread — or a well-reviewed non-square tavern; verify Maps ★ ≥4.5.
-
-**Book:** Lahemaa tour if using one · weekend Telliskivi evenings maybe. **Walk-in:** market, most casual.
+| **Hell Hunt**, Old Town, **Tue–Fri** (closed Mon) | Soup ~€4.50 · main (e.g. schnitzel, salmon pasta) ~€6.90. Weekly menu on their own site |
+| **Humalakoda**, Balti Jaam 2nd floor, **Mon–Fri from 12:00**, while it lasts | Soup of the day €4.90 · main of the day €7.90 · **beer of the day 0.33 l €3.50** |
 
 ---
 
-## Beer & breweries 🍺
+## Beer
 
-*Live prices pulled **Sep 4 2026** · €1 = $1.16. Tallinn draft runs **~20% dearer than Riga** (Numbeo restaurant draft 0.5L **€6.00** vs €5.00) — the one Baltic stop where the drinks line actually strains.*
+Tallinn draft runs ~20% dearer than Rīga (Numbeo restaurant 0.5 l: €6.00 vs €5.00, Sep 2026). Supermarket 0.5 l domestic ~€1.71. **Public drinking is banned in Estonia**, so retail cans are a hostel/apartment drink.
 
-### Põhjala Tap Room ⭐ — the anchor
-Peetri 5, **Noblessner** (converted submarine factory) · **Tue–Thu 12–24 · Fri–Sat 12–01 · Sun 10–17** · 24 rotating taps + Texas BBQ kitchen.
+### Põhjala Tap Room (the anchor)
+Peetri 5, **Noblessner** (converted submarine factory). Tue–Thu 12–24 · Fri–Sat 12–01 · Sun 10–17. 24 rotating taps + Texas BBQ kitchen.
 
-| Item | ~EUR | ~USD |
+**They pour 0.25 l and 0.4 l, not 0.5 l.** Board seen Sep 2026:
+
+| | 0.25 l | 0.4 l |
 |---|---|---|
-| Põhjala **Gimme Danger** 10.5% GF imperial stout (btl) | €5 | ~$5.80 |
-| Pühaste Dekadents 11.2% · BrewDog Hazy Jane · Weihenstephaner 50cl | €7 | ~$8.13 |
-| Põhjala **Cellar Series** (ask for selection) | €8 | ~$9.30 |
-| Cantillon Gueuze / Oude Kriek Oude Beersel | €16–18 | ~$19–21 |
-| Tori Siidritalu cider 33cl | €6.50 | ~$7.55 |
-| Põhjala beer schnapps / gin, 4cl | €5.50 / €5 | ~$6.4 / $5.8 |
-| **Brewery tour** — 45m, 3–4 tastings, 20 spots | **€20** | ~$23 |
-| Sauna, up to 8 | €80/h then €60/h, 2h min | ~$93 / $70 |
+| Põhjala Laager 4.7% (cheapest) | €4.50 | €5.50 |
+| Saturnus · Kask (GF) · Uus Maailm (GF) | €5.00 | €6.00 |
+| Core range (Virmalised, Kosmos, Taevas, Must Kuld, Öö…) | €5.50 | €6.50 |
+| Piknik · Padi DIPA | €6.00 | €7.00 |
+| Cellar Series barrel-aged (12–15%) | €8.50 | — |
 
-**Tours:** Tue/Thu/Fri **18:00 EN** · Sat–Sun **14:00 EN** · Fri 19:00 EE. **Pre-register ≥24h** (shop@pohjalabeer.com).
+So the core range works out at ~€8/0.5 l equivalent. Food menu at [qr.pohjalabeer.com](https://qr.pohjalabeer.com/index-en.html): snacks €4–5.50, small plates €7–9.50, BBQ mains €11–28.
 
-✅ **Draft prices ARE gettable — corrected Sep 23 2026.** The old note ("screen-only, budget €4–7/0.5L") was wrong twice over. The `tap-list.html` page renders empty, but it embeds an iframe from `menu.pohjalabeer.com/qr.html` fed by **Untappd Business** (`business.untappd.com/api/v1/menus/60304?full=true` — 403s if you call it from the wrong origin; just load the iframe URL and read the DOM).
+- **Brewery tour:** 45 min, 3–4 tastings, €20 (Tue/Thu/Fri 18:00 EN, Sat–Sun 14:00 EN). Pre-register ≥24 h (shop@pohjalabeer.com). Take it for the production floor, not the beer.
+- The website's `tap-list.html` renders empty; the live board is an iframe at `menu.pohjalabeer.com/qr.html` (Untappd Business). Load the iframe URL and read it.
 
-⚠️ **They pour 0.25 L and 0.4 L — there is no 0.5 L.** Live board Sep 23 2026:
+### Price bands (Sep 2026)
 
-| | 0.25 L | 0.4 L |
-|---|---|---|
-| **Põhjala Laager 4.7%** *(cheapest)* | €4.50 | **€5.50** |
-| Saturnus 5.0% · Kask 5.0% GF · Uus Maailm 4.7% GF | €5.00 | €6.00 |
-| Core range (Virmalised, Kosmos, Taevas, Must Kuld, Öö 10.5%…) | €5.50 | €6.50 |
-| Piknik 6.0% · Padi 8.0% DIPA | €6.00 | €7.00 |
-| Mikkeller Hop Shop 4.9% | €6.50 | €7.50 |
-| Peanut Butter Bänger 12.5% | €7.90 | — |
-| **Cellar Series** (Timeless Treasures, Roggenwolf, Titaan, Barrique Noire, Marble, 12–15%) | **€8.50** | — |
+| Where | 0.5 l |
+|---|---|
+| Telliskivi / Kalamaja / Noblessner taprooms | €4–8 (Humalate Vabariik from €4.20) |
+| Old Town | €5–9. **Hell Hunt** house Hele 33 cl €4.50 / 50 cl €5.50, the cheapest real pint found; IPA €7/€8 |
+| Balti Jaama Turg cans | €2.50–3.50 |
+| Rimi / Selver | ~€1.71 |
 
-So a 0.4 L of the core range is **€6.50** → **~€8.10/0.5 L equivalent**, well above the €4–7 the guide used to claim. Only the Laager lands in that band.
-
-**Food menu:** [qr.pohjalabeer.com](https://qr.pohjalabeer.com/index-en.html). Snacks €4–5.50 (pork rinds €4, beer nuts €5, onion rings €5, fries €5.50, mac & cheese €5); small plates €7–9.50; BBQ mains €11–28 (€135 "BBQ Feast" is a group platter).
-
-### Price bands
-
-| Where | 0.5L pour | Note |
-|---|---|---|
-| **Telliskivi / Kalamaja / Noblessner** taprooms | **€4–7** | Põhjala 0.33L ~€4.50 · Humalate Vabariik from €4.20 |
-| Old Town | €5–9 | **Hell Hunt** pint €5.50–6.50 — the sane OT option |
-| **Balti Jaama Turg** cans | €2.50–3.50 | Next to Telliskivi; the budget move |
-| Rimi / Selver, 0.5L domestic | **€1.71** | Numbeo, live |
-
-### Budget check
-[Itinerary §6](../itinerary.md) budgets **$15/day for 3 drinks**. Three taproom pours = **€13.50–19.50 ($16–23)** → runs **~$1–8/day hot**; over 3n that's **+$3–24**, immaterial. But that only holds in Telliskivi/Kalamaja/Noblessner — **three Old Town pints blows the line outright**, which is the same rule the Food section already gives you.
-
-### Free / cheap version
-- **Walking into any taproom is free.** The €20 tour buys 3–4 tastings you'd nearly cover by ordering two bottles — take it for the production floor, not the beer.
-- **Balti Jaama Turg cans €2.50–3.50** are the honest budget play — but **public drinking is banned in Estonia**, so that's an apartment/hostel-kitchen drink, not a park drink.
-- ❌ **CORRECTED 23 Sep 2026.** The old note said Hell Hunt's weekday lunch was "€2.90 soup / €3.80 main". **It isn't** — see the verified table below.
-
-### ☕ Lunch deals & happy hours — verified 23 Sep 2026
-
-**Weekday lunch (*päevapakkumine*) is the best daily habit in this city.**
-
-| Where | Deal | Source |
-|---|---|---|
-| **Hell Hunt** · Old Town · **Tue–Fri** ⚠️ closed Mon | Minestrone **€4.50** · Pork schnitzel + oven potatoes **€6.90** · Creamy salmon & zucchini pasta **€6.90** | their own site, menu dated **22.09–25.09** |
-| **Humalakoda** · Balti Jaam 2F · **Mon–Fri from 12:00**, while supplies last | Päevasupp **€4.90** · Päevapraad **€7.90** · **Päevaõlu 0.33 L €3.50** | humalakoda.ee/menuu |
-
-**Hell Hunt draft (official):** Hele **33 cl €4.50 / 50 cl €5.50** · IPA 7.00/8.00 · Guinness 6.00/7.00. At **€11.00/L** that Hele is the cheapest real pint found in any Tallinn pub — Põhjala's core range is €16.25/L.
-
-**Happy hours — reported, NOT confirmed by any venue:**
-- **Põhjala Tap Room** — weekdays **15:00–18:00, ~30% off draft** (Finnish travel piece, Jul 2026); the tap room's own Instagram says **Wed 15:00–17:00** + **free pub quiz 18:00**. Their website mentions neither. At −30%: Laager 0.4 L ≈ **€3.85**, core ≈ **€4.55**.
-- **Humalakoda** — **17:00–18:00, half price** on selected drinks (2 Google reviews).
-- **Gin Spot Bar**, Telliskivi — daily **16:00–17:30** (their Instagram, Aug 2026).
-
-🔎 **Pattern: Tallinn venues don't publish happy hours.** Humalakoda's site renders the raw key `home.happy-hour.text` in *both* languages; Põhjala's taproom page omits it entirely. Reviews and venue Instagram are the only sources — treat times as "probably, ask at the bar".
+**Happy hours (reported, not confirmed by the venues):** Põhjala weekdays ~15:00–18:00 (~30% off draft) per a travel piece, or Wed 15:00–17:00 + free pub quiz 18:00 per its Instagram · Humalakoda 17:00–18:00 half price on selected drinks · Gin Spot Bar (Telliskivi) daily 16:00–17:30. Tallinn venues rarely publish happy hours, so ask at the bar.
 
 ---
 
-## Lodging (hostels & budget)
+## Where to stay
 
-*§7 shortlist · central · free cancel while flex · re-check before book. Skip **Imaginary Hostel**.*
-
-### Where to stay
 | Area | Why |
 |---|---|
-| **Old Town edge / Fat Margaret gate** | Walls at the door · slightly quieter than square |
-| **Telliskivi / Kalamaja** | Best food · station for Lux bus · 15–25m walk to OT |
+| **Old Town edge / Fat Margaret gate / harbour** | Walls at the door; quieter than the square; walk from the ferry |
+| **Telliskivi / Kalamaja** | Best food; next to Balti jaam station; 15–25 min walk to the Old Town |
 | **Rotermann** | Modern middle ground |
 
-**⚠ Avoid:** Lasnamäe panels; airport hotels.
+Avoid Lasnamäe panel blocks and airport hotels.
 
-### Picks
+| Place | Area | Price seen | Notes | Maps |
+|---|---|---|---|---|
+| **Harbour Hub Hostel**, Paadi tn 14a | Harbour | single private, shared bath, ~€21/night (Hostelworld, Sep 2026) | 6 min walk from D-Terminal. Check-in 14:00–22:00, checkout 11:00 (bag drop before) | [Maps](https://www.google.com/maps/search/?api=1&query=Harbour+Hub+Hostel+Tallinn) |
+| **Viru Backpackers** | Old Town (Viru) | dorm ~$25–40 | Classic backpacker pick | [Maps](https://www.google.com/maps/search/?api=1&query=Viru+Backpackers+Hostel+Tallinn) |
+| **Fat Margaret's** | Old Town gate | private ~$45–60 | Sauna | [Maps](https://www.google.com/maps/search/?api=1&query=Fat+Margaret%27s+Hostel+Tallinn) |
+| **Munkenhof** | Old Town | ~$30–45 | Kitchen | [Maps](https://www.google.com/maps/search/?api=1&query=Old+Town+Munkenhof+Guesthouse+Tallinn) |
+| Espak Hostel | Luite / Viadukti | dorm varies | Bus-only location; only if the rate compensates | [Maps](https://www.google.com/maps/search/?api=1&query=Espak+Hostel+Tallinn) |
 
-| Place | Area | Lean ~$ | Nearest rail / bus | Notes | Maps |
-|---|---|---|---|---|---|
-| **Viru Backpackers** ⭐ dorm | OT Viru | dorm ~$25–40 | **Viru tram** · ~3m | Best backpacker pick | [Maps](https://www.google.com/maps/search/?api=1&query=Viru+Backpackers+Hostel+Tallinn) |
-| **Fat Margaret's** ⭐ private | OT gate | ~$45–60 | **Suur Rannavärav tram** · ~1m | Sauna · hybrid private | [Maps](https://www.google.com/maps/search/?api=1&query=Fat+Margaret%27s+Hostel+Tallinn) |
-| **Espak Hostel** | Luite / Viadukti | dorm varies | **Viadukti bus** · ~2m | Out-of-core, bus-only tradeoff · only if rate compensates | [Maps](https://www.google.com/maps/search/?api=1&query=Espak+Hostel+Tallinn) |
-| **Munkenhof** | OT | ~$30–45 | **Mere puiestee tram** · ~4m | Kitchen · established | [Maps](https://www.google.com/maps/search/?api=1&query=Old+Town+Munkenhof+Guesthouse+Tallinn) |
-
-Eye mask for dorms. Kitchen = Rimi win.
-
----
-
-## Money savers
-
-| Tip | Detail |
-|---|---|
-| **Päevapakkumine** | Weekday lunch specials **€5–8** — best daily habit |
-| **Balti Jaam** | Stall meals beat sit-down tourist OT |
-| **Rimi / Selver** | Rye (*rukkileib*), sprats, picnic for Lahemaa |
-| **Skip Raekoja plats dining** | Same rule as Gamla Stan squares |
-| **Bolt** | Often beats slow multi-transfer late night |
-| **Tallinn Card** | Skip unless museum stack day |
-| **Cashless** | Cards everywhere — small cash optional |
-| **Alcohol** | Taproom €4–7 / Old Town €5–9 / Rimi 0.5L **€1.71** — see [Beer & breweries](#beer--breweries-) |
-| **Day rate** | Inside Baltics blend ~**$90–100**/n hostel-lean (itinerary §6 lumps Baltics ~$92) |
-
-After HEL prices, Tallinn feels like a gift — don’t “catch up” with two fancy dinners every night; save splurge energy for one plate + Riga long stay.
+Skip Imaginary Hostel. Bring an eye mask for dorms.
 
 ---
 
-## Optional / off-beat
-- **Lahemaa** is the nature unlock at 3n; islands wait for another trip.  
-- Swing: Gotland 0 can fund **Tallinn 4** *or* thicker Riga — Riga usually wins for multi-week base.  
-- Next hub: **[Riga](riga-local-food.md)** (default 10n) — full guide + year-base scout.
+## Money tips
 
-### Year-base scout *(light — only 3n)*
-Tallinn scores high on **e-gov / English / digital culture**; EE digital nomad income floors are often **steep**, and winters are dark. Use one **full workday** + a Telliskivi evening, then write a stay/maybe/no — don’t pick a year from Old Town alone. Full comparison: [europe-year-base-nomad.md](europe-year-base-nomad.md).
+- Weekday *päevapakkumine* lunch (€5–8) is the best daily habit.
+- Balti Jaam stalls beat sit-down Old Town restaurants.
+- Cards everywhere; cash optional.
+- Drinks: taproom €4–8, Old Town €5–9, supermarket ~€1.71 (Sep 2026).
+
+## Optional
+
+- Islands (Saaremaa etc.) need 4+ nights; save for another trip.
+- **Living here?** Tallinn scores high on e-government, English and digital culture, but Estonia's digital-nomad income floor is steep and winters are dark. See [europe-year-base-nomad.md](europe-year-base-nomad.md).

@@ -1,48 +1,82 @@
-# Prague — lodging, food & beer
-*Fri 9 → Mon 12 Oct 2026 · 3 nights · 1 adult · ~25 Kč ≈ €1 · prices live-checked 7–9 Oct*
+# Prague: sights, food, beer, lodging & transport
 
-**Route index:** [next-bookings.md](../next-bookings.md) (plan + every train) · Prev: [wroclaw-local-food.md](wroclaw-local-food.md)
+*~25 Kč ≈ €1. Prices checked Oct 2026.* Beds cost about twice Wrocław's; central private rooms ran €80+/night on every channel for an October weekend, so the good-value move is a curtained hostel dorm in Vinohrady and spending on tank Pilsner and svíčková instead.
+
+**Related:** Prev: [wroclaw-local-food.md](wroclaw-local-food.md) · Next: [brno-local-food.md](brno-local-food.md) · [graz-local-food.md](graz-local-food.md) · Trip record: [../trip-log.md](../trip-log.md)
 
 ---
 
-## 🛏 Prague Fri 9 → Mon 12 (3 nights), swept Wed 7 Oct ~10:00
+## Getting there and away (Oct 2026 timetable)
 
-**Weather:** Fri ☀ 10 h · **Sat rain (9 mm)**, a museum day · Sun ☀ 10 h · Mon ☀ 6 h.
+| Leg | Train / bus | Times | Cheapest seller |
+|---|---|---|---|
+| From Wrocław | IC 261 "Baltic Express" | Wrocław Gł. 09:13 → Praha hl.n. 13:14, direct | České dráhy 921 CZK (Fri) / 722 CZK (Sat); PKP Intercity ≈ €45 |
+| **To Brno** | ČD rj 277 "Metropolitan" | Praha hl.n. **09:37 → Brno hl.n. 12:13**, direct | **379 CZK** on cd.cz · RegioJet 11:01 → 13:40 €9.70–11.80 · FlixBus ~€7.49 |
+| **To Graz, direct** | **rj 251 "Vindobona"** | **Praha-Holešovice 10:36 → Graz Hbf 17:19** | **ÖBB €36.30** vs ČD 1,245 CZK (≈ €51) for the same train |
+| To Graz, other | rj 53 / rj 255 | Praha hl.n. 06:37 → 13:19 / 14:37 → 21:19, direct | |
 
-| | Property | Cheapest real site | Other sites | Reviews · bad · location | Notes |
-|---|---|---|---|---|---|
-| 🎟⭐ | **Luma Terra on Chase Travel: "1 Person in 7-Bed Dormitory – Mixed" $97.70 → $0 with the $100 credit** (8-bed $85 → $0) | Chase | | | Pay with the Sapphire card so the credit applies |
-| ⭐ | Luma Terra, 8-bed **mixed** dorm | **[Agoda $71 ≈ €64](https://www.agoda.com/partners/partnersearch.aspx?hid=33039183&checkin=2026-10-09&checkout=2026-10-12&NumberofAdults=1&NumberofChildren=0&Rooms=1)** (coupon −$10) | Booking €80 | 3,055 · 5% · 9.3 | Kitchen, privacy curtains, no happy hour; 840 m from hl.n. Check that it says **"Mixed"** at checkout |
-| | Onefam Arbes, 8-bed mixed dorm | **Hostelworld ≈ €71** | Booking €84 | 420 · 8% · 9.1 (Hostelworld 95%) | Kitchen; no happy-hour flag, but Onefam hostels are social (family dinners). Smíchov, 1.7 km from Old Town |
-| | The Clock Inn, dorm | Hostelworld ≈ €75 | — | Hostelworld 90% (2,019) | ⚠️ Rooftop bar + bar, so a party risk |
-| | [Arbes 10 "At the yellow Duck"](https://www.booking.com/hotel/cz/at-the-yellow-duck.html?checkin=2026-10-09&checkout=2026-10-12&group_adults=1&no_rooms=1&selected_currency=EUR), whole 1-bedroom flat | Booking €245 | Agoda n/a | 34 · 0% · 9.6 | Smíchov, 1.6 km from Old Town; the cheapest good private |
-| | City Pop Aparthotel | Booking €341 | — | 2,220 · 6% · 9.4 | |
+- **Search every main station, not just hl.n.** The direct 10:36 railjet leaves from **Praha-Holešovice** and is invisible in a search from Praha hl.n. (IDOS then offers a feeder via Pardubice instead). Holešovice is metro C from I.P. Pavlova, 4 stops.
+- For trains into Austria, ÖBB's shop is often much cheaper than ČD's for the same train.
+- Praha hl.n. to Vinohrady (Luma Terra) is an ~840 m walk.
 
+---
 
-**Prague hostels: every platform, Fri 9 → Mon 12, cheapest mixed or male dorm bed, 3 nights, € (checked Wed 7 ~11:30; $1 ≈ €0.89)**
+## Sights
 
-| Hostel | Chase (after the $100 credit) | Agoda* | Booking | Hostelworld | Own site | Bad reviews · curtains |
+| Sight | Cost | Notes |
+|---|---|---|
+| Old Town Square, Astronomical Clock, Jewish Quarter streets | free to walk | |
+| **Charles Bridge at dusk** | free | |
+| **Prague Castle grounds**, Lesser Town (Malá Strana) | grounds free; interiors paid | Lunch at U Glaubiců |
+| **Petřín Hill on foot**, Strahov | free | Take chlebíčky from Libeřské lahůdky for a picnic |
+| **Vyšehrad** fortress + riverside | free | Combine with lunch at U Kroka |
+| Letná beer garden | free entry | |
+| Kutná Hora | day trip | Good rain-day trip |
+| **Bohemian Switzerland** (Pravčická brána rock arch) | day trip | ~1½ h by train via Děčín |
+
+**3-day template:** (1) arrival: Old Town walk, Charles Bridge at dusk, U Bulínů, then Valhalla or Craft House; (2) Castle, Malá Strana, Petřín picnic, svíčková at Lokál Korunní, Beer Point; (3) Vyšehrad + U Kroka weekday lunch, or Kutná Hora if wet, then Zlý časy or BeerGeek.
+
+---
+
+## Where to stay
+
+### Hostels (3 nights, 1 adult, cheapest mixed or male dorm bed, Oct 2026)
+
+Filter: kitchen, privacy curtains, no happy hour / party, ≤ 6–8% bad reviews.
+
+| Hostel | Agoda* | Booking | Hostelworld | Own site | Chase Travel (≈ €) | Bad reviews · curtains |
 |---|---|---|---|---|---|---|
-| ⭐ **Luma Terra** | €76 8-bed / €87 7-bed mixed → **€0** | €64 | €80 | €80 | €80 (8-bed, non-refundable) | **5%** · ✅ |
-| Onefam Arbes | €68 → €0 | €76 | €84 | **€71** | — | 8% · ✅ |
-| Little Quarter | €61 → €0 | €71 | €78 | **€64** | — | 9% · ? |
-| Equity Point | €62 → €0 | €65 | not found | not listed | — | ? (no review data) |
-| Hostel One Home | €82 → €0 | €59 | — | no mixed dorm left | — | ? |
-| Hostel Relax | €46 → €0 | €55 | €60 | — | — | ❌ **41%** |
+| **Luma Terra** (Legerova 72, Vinohrady) | **€64** (signed-in coupon price) | €80 | €80 | €80 (Cloudbeds, non-refundable) | €76–87 | **5%** · ✅ |
+| Onefam Arbes (Smíchov) | €76 | €84 | **€71** | — | €68 | 8% · ✅ (social: family dinners) |
+| Little Quarter | €71 | €78 | **€64** | — | €61 | 9% · ? (no kitchen) |
+| Equity Point | €65 | not found | not listed | — | €62 | no review data |
+| White Wolf House (150 m from Old Town Sq) | — | €93 | — | **€75.97** (own engine) | — | 3% · ✅ (mixed beds sell out on Saturday starts) |
 
-\*Agoda shows the cheapest bed of any type, so it could be a women-only dorm; check the room name at checkout.
+\*Agoda shows the cheapest bed of any type, which can be a women-only dorm; check the room name ("Mixed") at checkout.
 
-- **Sold out** for Fri–Mon: Brezina, Hotel DAP, Aparthotel City 5, White Wolf.
-- **Other dorms run happy hours:** Onefam Míru, Prague Dream, Czech Inn, Sir Toby's.
-- **Agoda + Hostelworld city-wide sweeps (7 Oct):** cheaper beds are only at party/happy-hour hostels (Czech Inn €50, Sir Toby's €57) or Orange (€56, 11% bad). Wellness Rooms Central (€95 for 3 nights) has 26% bad reviews, so it's out.
-- **Chase Travel (checked 7 Oct ~11:00, 800 listings, room lists read):** dorms Luma Terra $85–98, Onefam Arbes $76, Equity Point $69 (all $0 after the credit). Cheapest decent private: Gallery Hotel SIS $269 → $169 after the credit (3.2 km out). Brezina and White Wolf are sold out there too.
+**Luma Terra** is the pick: 8.9 on ~3,050 reviews (location 9.3), curtain + 3 lights + outlet + locker per bed, kitchen and patio, 840 m from Praha hl.n., 1.4 km to the Old Town. Its own site lists "bar crawls" as an amenity, but it runs no happy hour. Its direct engine was dearer than Booking or Agoda.
 
+**Ruled out:** Czech Inn, Sir Toby's, Elf, Onefam Míru, Sophie's, Charles Bridge, Prague Dream (happy hour / party); The Clock Inn (rooftop bar); Ahoy, Orange, Downtown (10–13% bad); Hostel Relax (41% bad); Wellness Rooms Central (26% bad).
 
-## 🍽 Prague (Fri 9 → Mon 12): food & beer, checked 9 Oct
+### Private rooms (3 nights, 1 adult, an October weekend)
 
-From **Luma Terra (Legerova 72, Vinohrady)**. Prices come from each place's own menu or tap list unless marked *(AI)*. Ratings come from Google Maps, and photos are guest photos on Maps, each checked against the dish. About 25 Kč = €1. Saved in Maps: food in **Restaurants**, bars in **Craft beer 🍺**.
+| Property | Price seen | Score | Notes |
+|---|---|---|---|
+| [Pension Brezina](https://www.booking.com/hotel/cz/brezina-pension.html) | Booking €171 (Sun–Wed) to €242 (Sat–Tue) | 8.5 (1,380), 7% bad | 1.1 km from Praha hl.n. |
+| [Hotel DAP](https://www.booking.com/hotel/cz/dap.html) (Dejvice, metro A) | €242–268 with breakfast | 8.8 (1,308), 4% bad | Genius rate matched the cheapest anywhere |
+| [Arbes 10 "At the yellow Duck"](https://www.booking.com/hotel/cz/at-the-yellow-duck.html) (whole flat, Smíchov) | Booking €245 | 9.6 (34), 0% bad | |
+| [City Pop Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html) | €264–341 | 9.0 (2,211), 6% bad | |
+| [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html) | €306–309 | 9.8 (649), 0% bad | |
 
-**What a good price is:** tank Pilsner 0.5 l **59–79 Kč** (under 60 is great) · craft 0.5 l **79–129 Kč** · svíčková **335–390 Kč** at dinner, **170 Kč as a weekday lunch** · řízek **199–365 Kč** · goulash soup **75 Kč**. Weekday lunch menus (*polední menu*) run Mon–Fri only.
+Old Town privates ran €120+/night on every site for an October weekend. Weekend starts (Fri/Sat) cost more and sell out first; Sunday starts were noticeably cheaper.
+
+---
+
+## Food and beer
+
+Distances are from Luma Terra (Legerova 72, Vinohrady). Prices come from each place's own menu or tap list unless marked *(AI)*. Ratings from Google Maps; photos are guest photos on Maps, each checked against the dish.
+
+**What a good price is (Oct 2026):** tank Pilsner 0.5 l **59–79 Kč** (under 60 is great) · craft 0.5 l **79–129 Kč** · svíčková **335–390 Kč** at dinner, **170 Kč as a weekday lunch** · řízek **199–365 Kč** · goulash soup **75 Kč**. Weekday lunch menus (*polední menu*) run Mon–Fri only.
 
 ### Food
 
@@ -115,7 +149,7 @@ Mezibranská 19 · **300 m** · 4.7★ (4.2k) · [📍 Open in Maps](https://www
 
 <table><tr><td align="center" width="25%"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDJNWMmwqOn39AP9bhNxSLqZP0j0v3qS-r8LtPBSDAEthpdbsJK5J9tTPr2gbgv3teLtxVCgNzfo9taHrFLz-iueydoANHFz7rBMF7b1eboivMY8ovYvOmKhmUPgDUKWdgUxvuLb-C26kd=w400-h300-k-no" width="200"><br><b>Pay per decilitre with a card</b><br>build your own flight</td></tr></table>
 
-#### Hákovna · 12 taps (your building)
+#### Hákovna · 12 taps (in the Luma Terra building)
 
 Legerova 72 · **0 m** · 4.7★ · [📍 Open in Maps](https://www.google.com/maps/search/?api=1&query=Craft%20Beer%20Pub%20H%C3%A1kovna%2C%20Legerova%2072%2C%20Praha)
 
@@ -123,75 +157,3 @@ Legerova 72 · **0 m** · 4.7★ · [📍 Open in Maps](https://www.google.com/m
 
 
 Left out at 10 taps or fewer: The Beer Spot, Drinkøtéka, Dno pytle, Beer & Friends, Lya Beer Café, Illegal Beer, Blanická. Skip **Lokál Dlouhá** in the Old Town (tourist branch, řízek 365 Kč).
-
-**Plan:**
-
-- **Fri 9:** dinner at U Bulínů, then Valhalla or Craft House, then Hákovna downstairs.
-- **Sat 10 (rain):** Kutná Hora day trip, then Zlý časy for dinner and beer, or BeerGeek.
-- **Sun 11 (sun):** Prague Castle. Take chlebíčky to Petřín (free), or eat at U Glaubiců. Evening: svíčková at Lokál Korunní, then Beer Point.
-
-
----
-
-## Earlier planning (Sat 10 → Tue 13 version, superseded)
-
-**Prague, Sat 10 → Tue 13: private**
-
-| Property | Booking | Agoda | Google Hotels sellers | Notes |
-|---|---|---|---|---|
-| 💰 [Pension Brezina](https://www.booking.com/hotel/cz/brezina-pension.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €242 | €242 | Expedia ~€231 on Maps (Super.com excluded: not a booking site) | 8.5 (1,380), 7% bad, location 9.1; **1.1 km from Praha hl.n.**, 1.6 km to the Old Town |
-| [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €268 *(the €242 "1 left" rate is gone)* | €268 | "Closest Hotel" PLN 352/n ≈ €241 (unknown reseller; breakfast probably not included) | Booking's rate includes breakfast |
-| [City Pop Prague](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **€265 ★** | not listed | not on Google | 9.0 (2,212), 6% bad |
-| [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | €309 | sold out | trivago ≈ €303 | 9.8, 0% bad |
-
-**Prague, Sat 10 → Tue 13: dorm**
-
-| Property | Booking | Agoda | Direct / Google | Notes |
-|---|---|---|---|---|
-| ⭐ [Luma Terra](https://www.booking.com/hotel/cz/luma-terra-prague-hostel.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) 8-bed | **€72 ★** | €72 ★ | direct (Cloudbeds) €79.76 | Curtains confirmed in the photos; ⚠️ its own site lists "bar crawls" as an amenity |
-| [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | mixed beds sold out for Sat 10–Tue 13; from Sun 11 the mixed bunk is €93 on Booking, €75.97 on its own site | | | |
-
-
-### ⚡ Prague booking urgency (6 Oct, superseded)
-
-> **Update 6 Oct 12:00:** the €242 Hotel DAP rate had sold and risen to €268. Cheapest private room on a real booking site: Brezina, Booking €171 (Sun 11 → Wed 14).
-
-Checked live at about 10:00 on Tue 6 Oct: **[Hotel DAP, Sat 10 → Tue 13, 1 adult](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) is €242 for 3 nights with breakfast, and Booking shows "We have 1 left" at that rate.** The next rate is €268.
-
-- Google Hotels shows ~€80/night through another seller ("Closest Hotel") and €89/night for Booking without Genius. Your Genius rate (€81/night with breakfast) matches the cheapest anywhere.
-- The Old Town itself ran €120+ on every site for the weekend of 10–13 Oct. The good hostels have only dorms left.
-- Backups:
-  - [City Pop Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR): €264, some room types show 1–3 left.
-  - [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR): €309, rated 9.8.
-
-
-### Prague day plan: 3 nights (Sat 10 → Tue 13), +1 optional
-
-| Day | Plan (forecast) |
-|---|---|
-| **Sat 10** (17 °C, showers) | Arrive at **Praha hl.n. 13:14**; to Hotel DAP it's metro C → A to Dejvická (~15 min). Old Town Square, the Astronomical Clock, the Jewish Quarter streets, **Charles Bridge at dusk** (free) |
-| **Sun 11** (sunny) | **Prague Castle grounds** (free to walk; interiors paid), Lesser Town, **Petřín Hill on foot** (free), Strahov |
-| **Mon 12** (sunny) | **Vyšehrad** fortress and the riverside (free), Letná beer garden, *or* a day trip to **Bohemian Switzerland** (Pravčická brána rock arch, about 1½ h by train via Děčín) |
-| **Tue 13** | Onward to Slovenia; the Prague → Ljubljana night bus is to be priced. Or stay one more sunny day |
-
-**Prague stays, 3 nights, 1 adult.** Central Prague cost €80+ on every channel for the weekend of 10–13 Oct, and the good hostels have **only dorms left** (Czech Inn dorm from €15 on Google Hotels).
-
-| | Property | €/night (3n total) | Score (reviews) · location | To Old Town / Florenc |
-|---|---|---|---|---|
-| ⭐💰 | [Hotel DAP](https://www.booking.com/hotel/cz/dap.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (**breakfast included**, Dejvice, metro A) | **€81 (€242)** | 8.8 (1,308), 4% bad · 9.3 | 2.3 km (metro) / 3.4 km |
-| | [City Pop Prague Aparthotel](https://www.booking.com/hotel/cz/city-pop-prague.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (studio) | €88 (€264) | 9.0 (**2,211**), 6% bad · 9.4 | 1.35 km / 1.6 km |
-| ✨ | [Aparthotel City 5](https://www.booking.com/hotel/cz/aparthotel-city-5-praha-5.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) (1-bedroom flat) | €103 (€309) | **9.8 (649), 0% bad** · 9.6 | 2.2 km / 3.2 km |
-
-**Prague dorms, 3 nights** (the cheap option). Hostel sweep within 3 km: 8+, kitchen, no happy hour, ≤6% bad reviews.
-
-| | Hostel | Bed €/night (3n) | Score (reviews) · location | Notes |
-|---|---|---|---|---|
-| ⭐💰 | [Luma Terra Prague Hostel](https://www.booking.com/hotel/cz/luma-terra-prague-hostel.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | **8-bed €24 (€72)** · 6-bed €35 · 4-bed €39 | 8.9 (3,050), **5% bad** · 9.3 | **Privacy curtain, 3 lights, outlet, locker per bed**; kitchen + patio. **0.84 km walk from Praha hl.n.** (the train), 1.4 km to Old Town |
-| | [White Wolf House](https://www.booking.com/hotel/cz/sir-nicholas-winton-apartment-white-wolf-house.html?checkin=2026-10-10&checkout=2026-10-13&group_adults=1&no_rooms=1&selected_currency=EUR) | Sat 10 start: sold out (no mixed beds). **Sun 11 start: 8-bed mixed €75.97 on its own site** | **9.3 (3,186), 3% bad · 9.9** | Curtains + reading light; 150 m from Old Town Square |
-
-Ruled out: Czech Inn, Sir Toby's, Elf, Onefam Míru, Sophie's, Charles Bridge, Prague Dream (happy hour / party); Little Quarter (no kitchen); Ahoy, Orange, Downtown (10–13% bad reviews).
-
-**Still to check:**
-- **Chase Travel:** the session expired, so sign in and search **1 adult**. About $50 of hotel credit is left, roughly a Wrocław night or half a Prague night.
-- **Google Hotels** for the Prague finalists.
-- Then save these to Maps (sights → Want to go, food → Restaurants, the stay → Starred).

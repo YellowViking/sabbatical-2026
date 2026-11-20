@@ -1,175 +1,115 @@
-# Vilnius — food, nature, lodging, transit & money
-*Default **3n** · flex **2–4n** · after Riga · before ✈ Ljubljana · nature-first · euro · ~€1 ≈ $1.10–1.15 · AI Mode Pro · Aug 2026*
+# Vilnius: sights, nature, food, beer, lodging & transport
 
-**Spine:** [scandi-transit.md](scandi-transit.md) · **Money:** [scandi-money-tips.md](scandi-money-tips.md) · Prior base: [riga-local-food.md](riga-local-food.md)
+*Euro. Compact baroque capital; the cheapest Baltic capital for groceries and simple meals. Researched Aug–Oct 2026.*
 
----
-
-## Flexible fit
-
-| | |
-|---|---|
-| **Trip context** | Compact capital palate-cleanser after Riga sponge · exit flight south |
-| **Nights** | **3 default** ⭐ · **2** = city only (no Trakai) · **4** = Pavilniai + slower |
-| **Arrive/leave** | Bus **Riga→VNO ~4h** · leave **VNO airport → LJU** (connecting) |
-| **Pace** | Old Town + **Užupis** + **Trakai** lakes · one green ridge |
-
-### Length → plan
-
-| Nights | Do |
-|---|---|
-| **2** | OT + viewpoints + Užupis · **no** full Trakai |
-| **3 default** ⭐ | Above + **Trakai** day |
-| **4** | + **Pavilniai** / Pūčkoriai trail |
-
-| Idea | 3n |
-|---|---|
-| Gediminas / Three Crosses views | YES |
-| **Užupis** | YES |
-| **Trakai** castle + lake loop | **YES** |
-| Bernardine Gardens | YES |
-| Deep museum stack | soft-pedal |
-| OT tourist menus only | **NO** |
-
-### Mid–late Sep
-Good lake walking weather · book LJU flight with buffer after Trakai day.
+**Related:** [baltic-train-spine.md](baltic-train-spine.md) · [scandi-money-tips.md](scandi-money-tips.md) · Prev north: [riga-local-food.md](riga-local-food.md) · Next south (overland to Poland): [bialystok-local-food.md](bialystok-local-food.md)
 
 ---
 
-## Getting around
+## How long
 
-### Apps
-| | |
-|---|---|
-| **Local** | **m.Ticket / JUDU / Trafi**-class apps — singles ~€1 |
-| **Ride** | **Bolt** |
-| **Trakai** | **LTG Link** train ~35m · or bus |
-| **Airport** | Bus **1 / 2 / 3G** ~€1 · don’t need taxi |
+- **2 nights:** Old Town, viewpoints, Užupis. No full Trakai day.
+- **3 nights (sweet spot):** add **Trakai**. LP says 2 days but lists five city highlights + Trakai.
+- **4 nights:** add Pavilniai / Pūčkoriai.
 
-### Arrive / leave
-| Leg | Mode | ~USD | Notes |
-|---|---|---|---|
-| **Riga → Vilnius** | Lux / Ecolines | ~$15–25 | ~4h |
-| **Station → bed** | Walk/Bolt | few $ | OT / center hostels |
-| **→ LJU** | Flight connecting | ~$90–180 | Buffer 3h+ at VNO |
-
-### Bed → sights
-| Place | How |
-|---|---|
-| **Old Town / Gediminas** | Walk |
-| **Užupis** | Walk across river |
-| **Trakai** | Train/bus morning |
-| **Pavilniai** | City bus + hike |
-| **Airport** | Bus from center/station |
+**Arrive on a Saturday if you can.** Most museums close on Mondays and the University on Sundays; on a Saturday everything is open at once.
 
 ---
 
-## Sample plan — **3n default**
+## Getting there and away
 
-| Day | Focus | Meals |
+| Leg | How (prices seen Sep–Oct 2026) |
+|---|---|
+| **From Rīga** | Bus ~4 h, FlixBus from **€10.49** (several a day), also Lux Express / Ecolines. Or the evening through train from Tallinn/Rīga (arr. ≈21:20) |
+| From Kaunas | Train ~1 h, €10.80, ~37 a day |
+| **To Białystok / Poland** | **LTG Link 12:35 → Mockava → Białystok 17:07**, ~4½ h, one same-platform change at Mockava, **€23** (non-refundable fare; 06:27 → 11:07 for €12.90). Clocks go back 1 h at the border. **Bring a passport**: Poland runs checks on the Lithuanian border (until 30 Mar 2027). [LTG Link search](https://bilietas.ltglink.lt/journeys?oStop=17&dStop=246&fareClasses=BONUS_SCHEME_GROUP.ADULT%2C1) (Vilnius 17, Białystok 246) |
+| Overland further (Prague, Berlin) | FlixBus Vilnius → Prague is 18–24 h, €60–88; rail via Poland is the sane route (Białystok → Wrocław → Prague in daytime hops) |
+| **Flights (VNO)** | Ryanair, Wizz and airBaltic each fly ~19 routes. Sweep every carrier, not just Ryanair. No nonstop to Ljubljana |
+| Airport | Bus 1 / 2 / 3G, ~€1. No taxi needed |
+| Local | m.Ticket / Trafi apps, singles ~€1; Bolt when tired |
+
+---
+
+## Sights (prices Sep 2026)
+
+| Sight | Cost | Closed |
 |---|---|---|
-| **D0 PM bus** | Check-in · **Old Town** · Gediminas or Three Crosses sunset · Bernardine Gardens | Šnekutis / simple |
-| **D1** | **Trakai** full day — castle exterior + **lake loop** · kibinai picnic | Kibinai · light dinner VNO |
-| **D2** | **Užupis** · optional Pavilniai if energy · pack | Halės market graze · dienos pietūs |
-| **Exit** | Airport bus → **LJU** flight | — |
+| **Old Town** (baroque), Cathedral Square (walk through) | free | — |
+| **Užupis** "republic": art, river, cafés | free | — |
+| **Gediminas Hill / Castle** tower | €8 | — |
+| **Three Crosses** hill viewpoint | free | — |
+| **Bernardine Gardens** | free | — |
+| **KGB Museum** | €6 | Mon |
+| **Jewish Museum** | €6 | Mon |
+| **National Art Gallery** | €8 | Mon |
+| **Vilnius University** (courtyards, library) | €8 | Sun |
+| Palace of the Grand Dukes | €16 | — |
 
-**2n:** drop Trakai or compress to half-day.  
-**4n:** full Pavilniai + second OT food night.  
-**Rain:** museums + Užupis cafés + market.
+## Nature and day trips
 
----
-
-## Nature 🌿
-
-| Place | Time | ~€ | Notes | Maps |
+| Place | Time | Cost | Notes | Maps |
 |---|---|---|---|---|
-| **Trakai lakes** | full day | train ~€3–5 + castle ticket if enter | Loop paths > only castle selfie | [Maps](https://www.google.com/maps/search/?api=1&query=Trakai+Island+Castle) |
-| **Bernardine Gardens** | 1h | free | City green | [Maps](https://www.google.com/maps/search/?api=1&query=Bernardine+Gardens+Vilnius) |
-| **Pavilniai / Pūčkoriai** | half | bus | Exposure trail · **4n** | [Maps](https://www.google.com/maps/search/?api=1&query=Puckoriai+exposure+Vilnius) |
-| **Three Crosses / hill views** | 1h | free | Canopy over roofs | [Maps](https://www.google.com/maps/search/?api=1&query=Three+Crosses+Vilnius) |
+| **Trakai** island castle + lakes | full day | train/bus ~€3–5 (LTG Link ~35 min, or bus ~20–40 min); castle €12 | Walk the lake loop, don't just take the castle selfie. Kibinai picnic from a Trakai bakery (€2.50–4 each) | [Maps](https://www.google.com/maps/search/?api=1&query=Trakai+Island+Castle) |
+| **Pavilniai / Pūčkoriai** exposure | half day | city bus | Cliff trail | [Maps](https://www.google.com/maps/search/?api=1&query=Puckoriai+exposure+Vilnius) |
+| **Three Crosses / hill views** | 1 h | free | Over the roofs | [Maps](https://www.google.com/maps/search/?api=1&query=Three+Crosses+Vilnius) |
+| **Bernardine Gardens** | 1 h | free | City green | [Maps](https://www.google.com/maps/search/?api=1&query=Bernardine+Gardens+Vilnius) |
 
----
+## Sample 3-day plan
 
-## City / culture
-- Baroque **Old Town**, cathedral square (walk through).  
-- **Užupis** republic streets — art, river, cafés.  
-- Kill-list: only castle interior + tourist lunch in Trakai without the lake walk.
+- **Saturday:** the closure-prone museums (KGB, Jewish Museum, National Art Gallery, University); Gediminas or Three Crosses at sunset.
+- **Sunday:** Trakai full day (castle + lake loop).
+- **Monday:** Užupis, Palace of the Grand Dukes, Halės market, Pavilniai if energy.
+- Rain: museums + Užupis cafés + market.
 
 ---
 
 ## Food
 
-| Place | ★ | Order | ~€ | Maps |
+| Place | ★ | Order | ~€ (2026) | Maps |
 |---|---|---|---|---|
-| **Šnekutis** | 4.5 | Cepelinai, kepta duona | 4–8 | [Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0nekutis+Vilnius) |
-| **Etno Dvaras** | 4.5 | Šaltibarščiai, pancakes · **dienos pietūs** | 5–12 | [Maps](https://www.google.com/maps/search/?api=1&query=Etno+Dvaras+Vilnius) |
-| **Trakai bakeries** | — | **Kibinai** picnic | 2.5–4 each | Trakai center |
-| **Halės market** | — | Cheese, pickles, picnic | 1–5 | [Maps](https://www.google.com/maps/search/?api=1&query=Hales+Market+Vilnius) |
+| **Šnekutis** (Užupis) | 4.5 | Cepelinai, *kepta duona* (fried garlic bread), *vėdarai* | 4–8 | [Maps](https://www.google.com/maps/search/?api=1&query=%C5%A0nekutis+Vilnius) |
+| **Etno Dvaras** | 4.5 | *Šaltibarščiai* (cold beet soup), pancakes, weekday *dienos pietūs* | 5–12 | [Maps](https://www.google.com/maps/search/?api=1&query=Etno+Dvaras+Vilnius) |
+| **Halės market** | — | Cheese, pickles, picnic supplies | 1–5 | [Maps](https://www.google.com/maps/search/?api=1&query=Hales+Market+Vilnius) |
+| Trakai bakeries | — | **Kibinai** (meat pasties) | 2.50–4 each | Trakai centre |
 
-**Money:** weekday lunch sets · market dinner · skip castle-adjacent tourist terraces as default.
+Weekday lunch sets (*dienos pietūs*) are the best deal. Skip castle-adjacent tourist terraces in Trakai.
 
----
+## Beer
 
-## Beer & breweries 🍺
+Lithuania is the **traditional-beer** stop, not the craft stop: look for **kaimiškas**, rural farmhouse beer from the north.
 
-*Live prices pulled **Sep 4 2026** · €1 = $1.16. Lithuania is the **traditional-beer** stop, not the craft stop. The thing you can't get in Tallinn or Riga is **kaimiškas** — rural farmhouse beer from the northern countryside.*
+| Where (Sep 2026) | What | ~€ |
+|---|---|---|
+| **Šnekutis** | Pint of kaimiškas | 5–6 |
+| **Šnekutis / Špunka** | 3 pints + a snack, per person | 15–20 |
+| Prohibicija | Rarer imports, an evening | 25+ |
+| Any local bar | Pint of local beer | 4–7 |
+| **Alaus Biblioteka** (Beer Library) | Six-pack from its shop | 27.90 |
+| Numbeo | Restaurant draft 0.5 l / supermarket 0.5 l | 5.00 / 1.61 |
 
-| Where | What | ~EUR | ~USD |
-|---|---|---|---|
-| **Šnekutis** (Užupis, est. 2006) ⭐ | Pint of kaimiškas | €5–6 | ~$5.8–7.0 |
-| **Šnekutis / Špunka** | **3 pints + a snack, per person** | **€15–20** | ~$17–23 |
-| Prohibicija | Same evening on rarer imports | €25+ | ~$29+ |
-| Any local bar | Pint, local beer | €4–7 | ~$4.6–8.1 |
-| **Alaus Biblioteka** (Beer Library) | Six-pack, their own shop (live) | €27.90 | ~$32 |
-| Alaus Biblioteka | Themed gift sets (IPA / dark / sour) | €24.90–29.90 | ~$29–35 |
-| Numbeo | Restaurant draft 0.5L / market 0.5L | **€5.00 / €1.61** | ~$5.8 / $1.9 |
-
-**Order with the beer at Šnekutis:** cepelinai, vėdarai, or *kepta duona* (fried garlic bread). That pairing is why a €15–20 evening covers the drink *and* the meal.
-
-**Vilnius is the cheapest of the five cities on groceries** (market 0.5L €1.61) **and on cheap meals** (€12 vs Riga's €14.50) — even though restaurant draft matches Riga at €5.00.
-
-⚠️ **Event, and why it's out:** Alaus Biblioteka runs an **Oktoberfest Sat Sep 26, 17:00, €34.90 ticketed**. On the *live* schedule (Bergen through Sep 20) Vilnius lands around **mid-October** — so this is **not reachable**. Flagged so it doesn't get planned around.
-
-### Budget check
-[Itinerary §6](../itinerary.md) budgets **$15/day × 3n**. Three pints ≈ **€12–18 ($14–21)/day** — on the line to slightly hot, same shape as Tallinn. But a **Šnekutis evening at €15–20 pp covers drinks *and* dinner**, which makes it the cheapest combined night of the Baltic block.
-
-### Free / cheap version
-- The **self-guided craft walk** (Baziliskas → riverside Alaus Namai) is the free version of every paid Vilnius beer tour.
-- **Šnekutis is already the budget option** — a locals' room, not a craft-price room. Don't upgrade to Prohibicija unless you specifically want rare imports at €25+/evening.
-- Groceries are the cheapest on the route: **€1.61** for an apartment beer.
+A Šnekutis evening at €15–20 covers beer **and** dinner (cepelinai or kepta duona with it). The free alternative to the paid beer tours is a self-guided walk from Baziliskas to the riverside Alaus Namai.
 
 ---
 
-## Lodging (hostels & budget)
+## Where to stay
 
-*§7 shortlist · named beds only · free cancel while flex · re-check before book.*
+Saturday nights fill up: check early. Prices are per night, 1 adult, Oct 2026 unless noted.
 
-| Place | ~$ / n | Nearest rail / bus | Notes | Maps |
+| Place | Type · score | Price seen | Notes | Maps |
 |---|---|---|---|---|
-| **Downtown Forest** ⭐ | dorm ~$20–35 | **Subačiaus bus** · ~1m; Vilnius station ~18m | Social · camping option | [Maps](https://www.google.com/maps/search/?api=1&query=Downtown+Forest+Hostel+Vilnius) |
-| **Mikalo House** ⭐ | ~$25–55 | **Vilnius station** · ~12m; Vokiečių bus ~3m | Clean OT quality pick | [Maps](https://www.google.com/maps/search/?api=1&query=Mikalo+House+Vilnius) |
-| **Domus Maria** | hotel ~$70–120 | **Vilnius station** · ~9m; Aušros vartai bus ~2m | Quiet convent hotel if dorm fatigue | [Maps](https://www.google.com/maps/search/?api=1&query=Domus+Maria+Vilnius) |
-| **Jimmy Jumps** | dorm ~$20–35 | **Vilnius station** · ~14m; Užupio bus ~2m | Backup if others full | [Maps](https://www.google.com/maps/search/?api=1&query=Jimmy+Jumps+House+Vilnius) |
+| **Downtown Forest Hostel** (Užupis) | social hostel, 8.5 (≈4,000 reviews) | twin with shared bath ~€48 (Booking) | The one genuinely social hostel; campers share the hostel toilets. Hostelworld was dearer | [Maps](https://www.google.com/maps/search/?api=1&query=Downtown+Forest+Hostel+Vilnius) |
+| **Silvija House** | guesthouse, 9.0 | double with private bath ~€50 | Best value, quiet, shared kitchenette | [Maps](https://www.google.com/maps/search/?api=1&query=Silvija+House+Vilnius) |
+| **Your Home – Central** studio | apartment | ~€51 | Has a washer | [Maps](https://www.google.com/maps/search/?api=1&query=Your+Home+Central+Vilnius) |
+| **Mikalo House** | Old Town | ~$25–55 (Aug 2026) | Clean Old Town pick | [Maps](https://www.google.com/maps/search/?api=1&query=Mikalo+House+Vilnius) |
+| **Domus Maria** | convent hotel | ~$70–120 (Aug 2026) | Quiet; 9 min to the station | [Maps](https://www.google.com/maps/search/?api=1&query=Domus+Maria+Vilnius) |
+| Jimmy Jumps | classic social hostel | dorm ~$20–35 | Often full; not on Booking | [Maps](https://www.google.com/maps/search/?api=1&query=Jimmy+Jumps+House+Vilnius) |
 
-**Avoid:** far suburbs before early LJU flight without airport-bus plan. Prefer walk-to-OT + €1 airport bus.
-
----
-
-## Money savers
-
-| Tip | Detail |
-|---|---|
-| **Dienos pietūs** | Weekday lunch specials |
-| **Kibinai picnic** | Trakai without restaurant markup |
-| **Halės** | DIY dinner |
-| **Airport bus €1** | Skip taxi |
-| **Bolt** | Only when tired/bags |
-| **Alcohol** | Pint €4–7 · market 0.5L **€1.61** (cheapest of the five cities). A **Šnekutis** evening €15–20 pp covers beer *and* dinner — see [Beer & breweries](#beer--breweries-) |
-| **Day rate** | Itinerary ~**$80–90**/n hostel-lean |
-
-**Year-base:** too short for a lab — 3n is a **compare-to-Riga** vibe check only ([europe-year-base-nomad.md](europe-year-base-nomad.md)).
+Dominated in Oct 2026: 25 Hours Hostel (noise, old) and Bed&Blues (grubby reviews).
 
 ---
 
-## Optional
-If Riga stole your heart, **don’t** add VNO nights — protect LJU mountains. If Riga bored you, VNO 4n + Pavilniai is a fair last Baltic green hit before the Alps.
+## Money tips
+
+- *Dienos pietūs* weekday lunches; Halės market for a DIY dinner; kibinai picnic at Trakai.
+- €1 airport bus instead of a taxi.
+- Supermarket 0.5 l €1.61, the cheapest of the Baltic capitals (Sep 2026).

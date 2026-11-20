@@ -1,12 +1,13 @@
-# Trieste: food and drink (checked 22 Oct 2026)
+# Trieste: food and drink
+
+Researched October 2026 as a stop on the Ljubljana → Padua route (FlixBus Ljubljana → Trieste, then Trenitalia to Padova). Hours are as listed on Google Maps in October 2026.
 
 How this was put together:
 - **Google Maps sweep:** 20 searches (buffets, jota, sardoni, cafés, pastry, fish, craft beer), keeping places rated 4.4+ with 150+ reviews within 3 km of the centre.
 - **Prices are all "reported":** none of these places publish menu prices online. Buffet da Pepi's comes from its own price list as quoted by Google; the rest come from recent reviews.
 - **Distances** are from **Trieste Centrale station**; FlixBus arrives at the bus station next door.
-- **Maps:** all 28 places are saved, with food under Restaurants and drinking places under Craft beer.
 
-## 💶 Locals' price vs tourist price
+## 💶 Locals' price vs tourist price (Oct 2026)
 
 | Same thing | Locals' way | Tourist way |
 |---|---|---|
@@ -65,3 +66,21 @@ How this was put together:
 - **A short stop** (for example, off the bus, with a few hours before a train): Buffet Da Gildo, 0.4 km from the station, closes at 16:30 → **capo in b at the counter** of Caffè San Marco → gelato at Zampolli by the station.
 - **An afternoon and evening:** lunch at Buffet Clai or Al Gambero → presnitz at Pirona → Molo Audace at sunset → **Mastro Birraio from 18:00** (closed Mon), or Al Ciketo.
 - **Sunday:** most buffets close. Da Pepi is open 10–16, Osteria Marise is open, and Mastro Birraio opens at 18:00.
+
+## Getting there and away (Oct 2026 examples)
+
+| Leg | How | Time | Price seen |
+|---|---|---|---|
+| Ljubljana → Trieste | FlixBus, direct (several a day, e.g. 07:40, 09:45, 14:35) | about 1 h 35–1 h 45 | €22.99–23.99 |
+| Zagreb → Trieste | FlixBus 07:30 → 11:30, direct (the train takes 5 h+) | 4 h | €16.99 |
+| Trieste → Padova | Trenitalia **IC 594** 13:27 → 15:48, direct | 2 h 20 | €13.90 (regionals €18.10) |
+| Trieste → Padova | e.g. 12:16 → 14:38, 1 change | 2 h 20 | €18.10 |
+
+The bus station is next to Trieste Centrale, so a bus-to-train change takes minutes. A Ljubljana → Padua through bus exists but is about 4 h 40; breaking at Trieste costs little extra. The Ljubljana → Italy train (via Nova Gorica, with a walk across the border to Gorizia) has 3 changes and is slower than the bus.
+
+## Where to stay
+
+| Hostel | Rating | Price seen (Oct 2026) | Notes |
+|---|---|---|---|
+| **ControVento** | Booking 8.7 (584), 4% bad | €37 dorm | 800 m from the centre. A pub across the road plays loud music at weekends; weeknights are fine |
+| **Casali** | Booking 8.4 (2,028) | €22 dorm | Review check: noise complaints are creaky beds and open windows, not parties |

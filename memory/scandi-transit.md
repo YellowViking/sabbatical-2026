@@ -1,9 +1,9 @@
-# Scandinavia + Baltic hop — transport & last-mile
-*CPH → GOT → OSL → *(Kristiansand?)* → SVG → **BGO/fjords** → STO → (Gotland?) → HEL → **TLL → Riga** → … · late Aug–mid Sep 2026 · nature-first · AI Mode Pro + itinerary costs · Sep 2026*
+# Scandinavia + Baltics: transport & last-mile
+*Copenhagen → Gothenburg → Oslo → Stavanger → Bergen/fjords → Stockholm → Helsinki → Tallinn → Riga → Vilnius, and onward · nature-first · prices are ballparks from Jul–Sep 2026 unless dated*
 
-**Use with:** city guides (`*-local-food.md`) — each has **Getting around** + **Money savers**. This file = **all-legs index** + apps. Country money rules: [scandi-money-tips.md](scandi-money-tips.md).  
-**Guides:** [CPH](copenhagen-local-food.md) · [GOT](gothenburg-local-food.md) · [OSL](oslo-local-food.md) · [OSL→SVG stopovers](oslo-stavanger-stopovers.md) · [SVG](stavanger-local-food.md) · [HAU/Karmøy *(candidate)*](haugesund-karmoy-local-food.md) · [BGO](bergen-local-food.md) · [STO](stockholm-local-food.md) · [Gotland *(opt.)*](gotland-local-food.md) · [HEL *(opt. thin)*](helsinki-local-food.md) · [Tallinn](tallinn-local-food.md) · [Riga](riga-local-food.md) · [Vilnius](vilnius-local-food.md) · [Slovenia](slovenia-local-food.md) · [Croatia](croatia-local-food.md).
-**Rule:** book **sell-outs** early (Flåmsbana, Preikestolen shuttle, peak Vy); keep **beds free-cancel**.
+**Use with:** the city guides, which each have their own getting-around and money sections. This file is the all-legs index plus apps. Country money rules: [scandi-money-tips.md](scandi-money-tips.md).
+**Guides:** [Copenhagen](copenhagen-local-food.md) · [Gothenburg](gothenburg-local-food.md) · [Oslo](oslo-local-food.md) · [Oslo→Stavanger stopovers](oslo-stavanger-stopovers.md) · [Stavanger](stavanger-local-food.md) · [Bergen + fjords](bergen-local-food.md) · [Stockholm](stockholm-local-food.md) · [Helsinki](helsinki-local-food.md) · [Tallinn](tallinn-local-food.md) · [Riga](riga-local-food.md) · [Vilnius](vilnius-local-food.md) · [Baltic train spine](baltic-train-spine.md) · [Slovenia](slovenia-local-food.md) · [Croatia](croatia-local-food.md).
+**Rule:** book the sell-outs early (Flåmsbana, Preikestolen shuttle, peak-season Vy). Book budget one-way flights the moment you decide: fares step up within days.
 
 ---
 
@@ -11,205 +11,169 @@
 
 | Where | App / site | What it does |
 |---|---|---|
-| **DK** | **Rejseplanen** + **DOT tickets** / DSB | CPH metro/bus/S-tog + airport |
-| **SE GOT** | **Västtrafik To Go** | Trams/buses Zone A |
-| **SE STO** | **SL** app | Metro/tram/bus/ferry Stockholm |
-| **SE long** | **SJ** app | CPH↔GOT↔… long-distance (often with DSB/Öresund) |
-| **SE islands** | Destination Gotland · Waxholm/ferry ops | Visby · archipelago |
-| **FI HEL** | **HSL** app | Tram/metro/bus + Suomenlinna ferry |
-| **EE TLL** | **pilet.ee** / Ühiskaart · Transit app | Tram/bus · port + Kadriorg |
-| **LV RIX** | **Rīgas satiksme** · **Vivi** trains | City tram/bus · Sigulda/Ķemeri/Jūrmala |
-| **LT VNO** | **JUDU / m.Ticket / Trafi** · LTG Link | City bus · Trakai train |
-| **SI** | **Arriva** · SŽ · Urbana | LJU city · Bled/Bohinj · caves |
-| **HR** | **FlixBus/Arriva** · ZET · Promet Split · Jadrolinija · Libertas | ZG–Plitvice–Split–DBV · Hvar · Lapad buses |
-| **Baltic ferry** | Tallink / Viking / Eckerö · laevapiletid.ee | STO↔HEL · **HEL→Tallinn** |
-| **Baltic bus** | **Lux Express** / Ecolines / Flix | **TLL→Riga→Vilnius** |
-| **Ride** | **Bolt** | All three Baltics |
-| **NO all** | **Entur** | National planner (trains/buses/ferries) |
-| **NO trains** | **Vy** | OSL–BGO, regional; sells out summer |
-| **OSL local** | **Ruter** | Metro/tram/bus/ferry zones |
-| **SVG + Haugalandet local** | **Kolumbus** | Stavanger city + Haugesund/Karmøy 209/210 |
-| **Preikestolen** | **pulpitrock.no** | Shuttle — **not** buy-on-bus |
-| **BGO local** | **Skyss** | New app plans + sells tickets · **7-day Zone A 315 NOK** for Montana week |
-| **Flåm** | **flamsbana.no** / Norway’s Best | Railway + many cruise combos |
-| **Walk nav** | **Google Maps** / Apple Maps | Walking + live transit (still buy tickets in local apps) |
+| **DK** | **Rejseplanen** + **DOT** tickets / DSB | Copenhagen metro/bus/S-tog + airport |
+| **SE Gothenburg** | **Västtrafik To Go** | Trams/buses, Zone A |
+| **SE Stockholm** | **SL** | Metro/tram/bus/ferry |
+| **SE long distance** | **SJ** | Trains, often sold with DSB on Øresund routes |
+| **SE islands** | Destination Gotland · Waxholmsbolaget | Visby · archipelago |
+| **NO all** | **Entur** | National planner (trains, buses, ferries) |
+| **NO trains** | **Vy** · **Go-Ahead** (Sørlandsbanen) | Oslo–Bergen, regional; summer trains sell out |
+| **Oslo local** | **Ruter** | Metro/tram/bus/ferry zones |
+| **Stavanger + Haugesund local** | **Kolumbus** | City buses; Karmøy 209/210 |
+| **Preikestolen** | **pulpitrock.no** | Shuttle, bought in advance, not on the bus |
+| **Bergen local** | **Skyss** | Plans and sells tickets · 7-day Zone A 315 NOK (2026) |
+| **Flåm** | **flamsbana.no** / Norway's Best | Railway + cruise combos |
+| **FI Helsinki** | **HSL** | Tram/metro/bus + Suomenlinna ferry |
+| **Baltic Sea ferries** | Tallink Silja / Viking / Eckerö | Stockholm↔Helsinki overnight · Helsinki→Tallinn |
+| **EE Tallinn** | **pilet.ee** / Ühiskaart | Tram/bus; **elron.ee** for trains |
+| **LV Riga** | **Rīgas satiksme** · **Vivi** trains | City tram/bus · Sigulda/Ķemeri/Jūrmala |
+| **LT Vilnius** | **JUDU / m.Ticket / Trafi** · **LTG Link** | City bus · Trakai train |
+| **Baltic rail** | **Elron → Vivi → LTG Link** through ticket | Tallinn → Tartu → Valga → Gauja → Rīga → Šiauliai → Vilnius, once daily |
+| **Baltic coaches** | Lux Express / Ecolines / FlixBus | Faster for a straight Tallinn–Riga run |
+| **Ride hail** | **Bolt** | All three Baltic states |
+| **Walking nav** | Google / Apple Maps | Live transit; still buy tickets in the local apps |
 
-**Tickets:** phone wallets work almost everywhere; keep a physical card backup for locked hostel doors / some lockers.
+Phone wallets work almost everywhere; keep a physical card for hostel doors and lockers.
 
 ---
 
-## Intercity spine (hub → hub)
+## Intercity legs (hub → hub)
 
-| Leg | Mode | Book | Time | ~USD | Stations / notes | Last-mile to ⭐ bed |
-|---|---|---|---|---|---|---|
-| **SEA → CPH bed** | Metro **M2** | DOT / Rejseplanen | ~15–20m | ~$5–7 | Land **CPH** → **København H** / Rådhuspladsen area | **Next House / Steel House:** walk **5–12 min** from H / Vesterport · **CityHub:** bus/metro ~10–15 min or 20–25 min walk |
-| **CPH → GOT** | Train (Øresund + SJ/DSB corridor) | **SJ** / DSB / Omio | ~3.5–4h | ~$25–45* | **København H → Göteborg C** | **Slottsskogens:** tram ~10–15 min from C · **Royal/Heden:** walk **5–15 min** from C |
-| **GOT → OSL** *(Aug 30)* | **FlixBus** | FlixBus | **08:50–12:25 · 3h35** | **$35.98 snapshot** | Nils Ericsonterminalen → Oslo bussterminal | **Cochs Pensjonat:** metro/tram ~10–15m from Oslo S · staying Aug 30–Sep 1 |
-| **OSL → KRS → SVG** *(recommended; unbooked)* | Direct **F5** trains | **Go-Ahead** | Sep 1 **07:25–11:51** · Sep 2 **09:05–12:05** | **640 + 299 NOK** | Dry Kristiansand afternoon; direct OSL→SVG alternative **07:25–15:18 / 744 NOK** | **Citybox KRS:** 300m / 5m · **1,350 NOK fixed** · [detail](oslo-stavanger-stopovers.md) |
-| **SVG → HAU** *(skipped live)* | **FX652 / NW400 / VY190** coach | Entur · operators | **~1h45–2h direct** | Check live | Stavanger bussterminal → Haugesund bussterminal | Optional future coast stop only · [detail](haugesund-karmoy-local-food.md) |
-| **HAU → BGO** *(skipped live)* | **NW400 / VY190 / FX652** coach | Entur · operators | **~2h50–3h05 direct** | Check live | Haugesund bussterminal → Bergen busstasjon | Retained for optional Haugesund branch |
-| **SVG → BGO** ⭐ **✅ booked Sep 6** | **FlixBus** | FlixBus | **09:50–14:30 · 4h40 direct** | **€27.48 paid** | Stavanger bussterminal → Bergen busstasjon | Mobile ticket · bus 12 ~18m to Montana · target check-in ~15:15 |
-| **BGO → Flåm** | **Bergensbanen → Myrdal → Flåmsbana** | **Vy** + **flamsbana.no** | rail combo ~2.5–3.5h | Flåmsbana alone ~**$52** one-way + mainline | **Bergen S → Myrdal → Flåm** | **Camping:** walk **~5 min** · **Svingen:** short walk · **Undredal:** bus/taxi from Flåm (~20–30 min) |
-| **Flåm area local** | Bus / boat | Skyss-region / local | 10–40m | few $ | Flåm ↔ Aurland ↔ Gudvangen ↔ Undredal | Sleep quiet, day-trip hub |
-| **Exit → STO** | **Flight BGO→STO** *or* rail east via Oslo | Norwegian/SAS · Vy | flight ~1h · rail long | flight often **~$75*** | Prefer flight if time-poor after fjords | **City Backpackers** / Generator: metro/walk from T-Centralen |
-| **STO → Gotland** | Bus/rail → **Nynäshamn** → ferry | Destination Gotland | half day | ~$30–60* | Book if committed | Walk to Visby Logi inside walls |
-| **STO → HEL** | Overnight ferry | Tallink/Viking etc. | overnight | cabin varies | First 2–3h **on deck** | Kamppi/Citybox next AM |
-| **HEL → Tallinn** | Day ferry | Tallink / Viking / Eckerö | ~2h | ~$30–60* | Midweek cheaper · avoid Fri PM crush | Tram/Bolt → OT or Telliskivi |
-| **Tallinn → Riga** | **Lux Express** bus | luxexpress.eu | ~4–4.5h | ~$15–30* | Wifi + seat — book | Walk/Bolt → Amella / Centrs |
-| **Riga → Vilnius** | Lux / Ecolines | ~4h | ~$15–25* | Day coach | OT hostel walk/Bolt |
-| **Vilnius → LJU** | Flight (connect) | ~$90–180* | No nonstop usual | Airport bus **€1** · buffer 3h+ |
-| **LJU airport → city** | Airport bus | ~€4 | Skip taxi scams | Station / center |
-| **LJU ↔ Bled / Bohinj** | **Arriva** bus | ~€5–10* | Seasonal cuts Oct — check arriva.si | Split-base nights in Alps |
-| **LJU → Zagreb** | EC train or FlixBus | ~$15–40* | Prefer rail/bus vs private shuttle | Zagreb Glavni / bus station |
-| **ZG → Plitvice area** | FlixBus / Arriva | ~€12–15 | Morning out · ~2h | **Falling Lakes:** Korenica coach + hostel park shuttle · true gate-bed alt: Rastovača/Mukinje |
-| **Plitvice → Split** | FlixBus / Arriva | ~€18–24 | ~3.5–4h from park entrances | Split bus station → Varoš walk/Bolt |
-| **Split → Hvar** | Jadrolinija | varies | Mid-Oct thin — check day-return | Hvar Town / Fortica |
-| **Split → Dubrovnik** | FlixBus / Promet | ~€25–28 · ~4h | Fast ferries often off mid-Oct | Lapad bus 4/6 |
-| **DBV → Venice** | Flight **connect** | ~$80–200* | No nonstop usual | Or ferry Split→Ancona alt |
+| Leg | Mode | Book | Time | Price seen | Notes |
+|---|---|---|---|---|---|
+| **CPH airport → city** | Metro **M2** | DOT / Rejseplanen | ~15–20 min | ~$5–7 | To København H / Rådhuspladsen area |
+| **Copenhagen → Gothenburg** | Train (Øresund + SJ/DSB) | SJ / DSB | ~3.5–4h | ~$25–45 | København H → Göteborg C |
+| **Gothenburg → Oslo** | **FlixBus** | FlixBus | 08:50–12:25 (3h35) | $35.98 (Aug 2026) | Nils Ericsonterminalen → Oslo bussterminal. Vy/SJ trains also run |
+| **Oslo → Kristiansand → Stavanger** | Direct **F5** trains | **Go-Ahead** | e.g. 07:25–11:51 then 09:05–12:05 next day | 640 + 299 NOK (Sep 2026) | Splits the day with a Kristiansand stop. Straight Oslo→Stavanger 07:25–15:18, 744 NOK. Detail: [stopovers](oslo-stavanger-stopovers.md) |
+| **Stavanger → Haugesund → Bergen** | Coach **FX652 / NW400 / VY190** | Entur / operators | ~1h45–2h + ~2h50–3h05 | — | Optional Haugesund/Karmøy coast stop (Avaldsnes, Åkrasanden, Skudeneshavn on Kolumbus 209/210) |
+| **Stavanger → Bergen** | **FlixBus** direct | FlixBus | 09:50–14:30 (4h40) | **€27.48** (Sep 2026) | Stavanger bussterminal → Bergen busstasjon. Express boat ~4h is the alternative |
+| **Bergen → Flåm** | **Bergensbanen → Myrdal → Flåmsbana** | Vy + flamsbana.no | ~2.5–3.5h | Flåmsbana ~$52 one-way + mainline | Bergen S → Myrdal → Flåm |
+| Flåm area local | Bus / boat | Entur | 10–40 min | a few $ | Flåm ↔ Aurland ↔ Gudvangen ↔ Undredal |
+| **Bergen ↔ Stockholm** | Finnair **AY0806** / **AY0805** nonstop | Finnair / BA Avios | ~1h20 | $163–232 cash, or **3,250 Avios + $28–43** (Sep 2026) | BGO 10:50 → ARN 12:10 · ARN 08:45 → BGO 10:05. Rail via Oslo is the slow alternative |
+| **Bergen → Riga** | Norwegian **D8 2023** nonstop | Norwegian | 20:00–22:55 | LowFare €46–56 + €19 cabin bag (Sep 2026) | Cheapest exit from Bergen to anywhere in Europe on a Sep 2026 sweep. LowFare + à-la-carte bag means a 10 kg combined cabin cap |
+| **Oslo → Stockholm** | Road or SJ train | — | — | — | Useful when a Norway car trip ends in the east |
+| **Stockholm → Gotland** | Bus/rail → **Nynäshamn** → ferry | Destination Gotland | half a day | ~€50+ foot passenger | Thin schedules from late August |
+| **Stockholm → Helsinki** | Overnight ferry | Tallink Silja / Viking | overnight | cabin varies | First 2–3h on deck; cheap cabins sell out in summer |
+| **Helsinki → Tallinn** | Day ferry | Tallink / Viking / Eckerö | ~2h | Tallink MyStar 10:30 **€21.48** (Sep 2026) | 8+ sailings a day; midweek cheapest; avoid Friday PM / Saturday AM. Tallink lands at D-Terminal |
+| **Tallinn → Riga → Vilnius** | Through train 012/112/873 | elron.ee | Tallinn 10:18 → Rīga 16:55 → Vilnius 21:22 | €29–30.70 to Rīga, €39 to Vilnius (Sep 2026) | Departs **Balti jaam**; one change at Valga; stops Tartu, Valmiera, Cēsis, Sigulda, Šiauliai. Details: [Baltic train spine](baltic-train-spine.md) |
+| Tallinn → Riga (coach) | Lux Express | luxexpress.eu | ~4–4.5h | ~$15–30 | Faster, but skips the Gauja stops |
+| Riga ↔ Vilnius | LTG Link train / Lux / Ecolines | — | ~4h | €11–26 | |
+| **Vilnius → Ljubljana** | Flight with a connection | — | — | ~$90–180 | No nonstop. Helsinki had nonstops to Ljubljana (~€120) and Prague (~€117) in Sep 2026 |
+| Ljubljana airport → city | Airport bus | — | — | ~€4 | |
+| Ljubljana ↔ Bled / Bohinj | Arriva bus | arriva.si | — | ~€5–10 | Seasonal cuts from October |
+| Ljubljana → Zagreb | Train or FlixBus | — | — | ~$15–40 | |
+| Zagreb → Plitvice | FlixBus / Arriva | — | ~2h | ~€12–15 | |
+| Plitvice → Split | FlixBus / Arriva | — | ~3.5–4h | ~€18–24 | |
+| Split → Dubrovnik | FlixBus / Promet | — | ~4h | ~€25–28 | Fast ferries often stop by mid-October |
+| Dubrovnik → Venice | Flight with a connection | — | — | ~$80–200 | No nonstop; Split→Ancona ferry is the alternative |
 
-\*Ballpark late-Aug; *Lowfare* vanishes — book mainline **sooner** than you think.  
-**Sell-outs:** Vy summer, Flåmsbana + cruise connectors, Preikestolen early shuttles, Destination Gotland (later).
+Mainline cheap fares ("Lowfare", "Minipris") vanish early; book sooner than you think.
 
-### Live research from Sep 1 · Oslo → Stavanger
+### Luggage
+- Pick beds a walk from the station: that's the point of central hostels.
+- Big pack on Flåmsbana: overhead racks are fine; keep a daypack for hike days.
+- Airport trains/buses: allow 60–90 min before international flights, 45 min domestic.
 
-| Candidate | Railway status | Mobility / route call |
+---
+
+## Per-city last-mile
+
+### Copenhagen (Next House / Steel House / CityHub)
+**Hub:** København H · Metro M1–M4 · buses.
+
+| Go to | From Next/Steel House (Tivoli / H side) | From CityHub (Vesterbro west) |
 |---|---|---|
-| **Kristiansand** | Direct F5 mainline from Oslo and toward Stavanger | Active Voi + compact center; **0–1n candidate only**, not a selected 2n stay |
-| **Egersund** | Direct F5 mainline + L5 to Stavanger | Compact, but close enough to Stavanger that an overnight may be unnecessary |
-| **Arendal** | R50 branch from Nelaug | Active Voi; worthwhile coast town, but adds two changes versus Kristiansand |
-| **Kongsberg / Bø / smaller stops** | Official Sørlandsbanen stations | Date-specific closures or dispersed sights weaken the Aug 30 onward fit |
+| **Hovedbanegården** | Walk 5–10 min | Bus/metro ~10 min or walk 20+ |
+| **Tivoli** | Walk 2–8 min | Bus ~10 min |
+| **Torvehallerne / Nørreport** | Metro/walk ~15–20 min | Metro via Forum ~15–20 min |
+| **Nyhavn** | Metro to Kongens Nytorv + walk, or 25–35 min walk | Metro |
+| **Amager Strand** | Metro M2 toward Lufthavnen, ~20–25 min | Same |
 
-Grimstad, Risør, Lillesand, Mandal and Flekkefjord require a bus for the useful routing. Research only: [Southern Norway stopover guide](oslo-stavanger-stopovers.md).
+A day pass pays with 3+ paid rides; otherwise walk + 1–2 singles. Airport: metro M2 or the Øresund train from H.
 
-### Luggage pattern
-- One-bag: station → bed walk is the product design goal (why we pick central hostels).
-- Big pack on Flåmsbana: overhead OK; keep daypack for hike days.
-- Airport trains/buses: allow **60–90 min** before international; **45 min** domestic if you know the airport.
-
----
-
-## Per-city last-mile *(from ⭐ bed areas)*
-
-### Copenhagen *(Next House / Steel House / CityHub)*
-**Hub:** København H · Metro M1/M2/M3/M4 · buses. App: **Rejseplanen** + **DOT**.
-
-| Go to | From Next/Steel (Tivoli/H side) | From CityHub (Vesterbro W) |
-|---|---|---|
-| **Hovedbanegården** (exit trains) | Walk 5–10m | Bus/metro ~10m or walk 20m+ |
-| **Tivoli** | Walk 2–8m | Bus ~10m |
-| **Torvehallerne / Nørreport** | Metro/walk ~15–20m | Metro via Forum/Nørreport ~15–20m |
-| **Nyhavn** | Metro to Kongens Nytorv + walk · or 25–35m walk | Metro |
-| **Amager Strand** | Metro **M2** toward Lufthavnen → Øresund/Amager Strand area ~20–25m | Same metro |
-| **Food cluster** (Indre By smørrebrød) | Walk / short metro | Metro to centre |
-
-**Day pass:** useful if 3+ paid rides (Amager + cross-town). Many days = walk + 1–2 singles.  
-**Airport out:** Metro M2 or Øresund train from H.
-
----
-
-### Gothenburg *(Slottsskogens / Royal / Heden)*
-**Hub:** Göteborg C · trams. App: **Västtrafik To Go** (Zone A covers core + Botaniska).
+### Gothenburg (Slottsskogens / Royal / Heden)
+**Hub:** Göteborg C · trams (Zone A covers the core + Botaniska).
 
 | Go to | How |
 |---|---|
-| **Göteborg C** (trains) | Royal: walk ~5m · Heden: walk/tram ~10–15m · Slottsskogens: tram ~10–15m |
-| **Haga / Skansen Kronan** | Walk from Linné hostel ~10m · from C tram/walk ~15m |
-| **Saluhallen / Kåges** | Walk from C ~5–10m |
-| **Botaniska / Änggårdsbergen** | Tram **1/2/7/8** → Botaniska · then walk into reserve |
-| **Feskekôrka** | Walk from C / Haga edge |
-| **Food: Sjöbaren, Husaren** | Haga — walk |
+| **Göteborg C** | Royal: walk ~5 min · Heden: walk/tram 10–15 min · Slottsskogens: tram 10–15 min |
+| **Haga / Skansen Kronan** | Walk from the Linné hostel ~10 min; from C tram/walk ~15 min |
+| **Saluhallen / Kåges** | Walk from C 5–10 min |
+| **Botaniska / Änggårdsbergen** | Tram 1/2/7/8 → Botaniska, then walk into the reserve |
+| **Feskekôrka**, Sjöbaren, Husaren | Walk (Haga edge) |
 
-**Archipelago ferries:** same Västtrafik ticket family — optional on **3n** only.  
-**Day pass Zone A:** worth it on Botaniska day; else single tickets.
+Archipelago ferries use the same Västtrafik tickets. A Zone A day pass pays on the Botaniska day.
 
----
+### Oslo (Bunks / Citybox / K7 / Cochs)
+**Hub:** Oslo S · Nationaltheatret.
 
-### Oslo *(Bunks / Citybox / K7 / Cochs)*
-**Hub:** Oslo S · Nationaltheatret. App: **Ruter** (zone ticket / 24h as needed).
-
-| Go to | From Citybox / K7 (Sentrum–S) | From Bunks (Grünerløkka / Rodeløkka) | From Cochs (Frogner) |
+| Go to | From Citybox / K7 (sentrum) | From Bunks (Grünerløkka) | From Cochs (Frogner) |
 |---|---|---|---|
-| **Oslo S** | Walk 3–8m | Tram/metro ~10–15m | Metro/tram ~10–15m |
-| **Opera roof** | Walk 5–12m | Metro/tram to Bjørvika ~15–20m | Metro + walk |
-| **Munch** | Walk ~10–15m | Transit ~15–20m | Transit |
-| **Vigeland** | Tram/metro ~15–20m | Transit ~20–25m | **Walk ~15m** |
-| **Sognsvann** | Metro **5** to end ~25m | Metro 5 (connect) | Metro 5 via Majorstuen |
-| **Hovedøya** | Walk to harbour ferries **B1** etc. ~10–15m | Transit to harbour | Transit |
-| **Ekeberg** | Bus/tram toward Ekeberg ~15–20m | Transit | Transit |
-| **Schrøder** (St. Hanshaugen) | Tram/walk ~15m | Walk/tram short | Transit |
-| **Fiskeriet** Youngstorget | Walk ~10m | Tram toward centre | Transit |
-| **Mathallen / Syverkiosken** | Walk/tram north ~15–20m | **Walk** neighbourhood | Transit |
+| **Oslo S** | Walk 3–8 min | Tram/metro 10–15 min | Metro/tram 10–15 min |
+| **Opera roof** | Walk 5–12 min | Metro/tram 15–20 min | Metro + walk |
+| **Munch** | Walk 10–15 min | Transit 15–20 min | Transit |
+| **Vigeland** | Tram/metro 15–20 min | Transit 20–25 min | **Walk ~15 min** |
+| **Sognsvann** | Metro 5 to the end, ~25 min | Metro 5 | Metro 5 via Majorstuen |
+| **Hovedøya** | Walk to harbour ferry B1, 10–15 min | Transit | Transit |
+| **Ekeberg** | Bus/tram 15–20 min | Transit | Transit |
+| **Schrøder** (St. Hanshaugen) | Tram/walk ~15 min | Short walk/tram | Transit |
+| **Fiskeriet** (Youngstorget) | Walk ~10 min | Tram | Transit |
+| **Mathallen / Syverkiosken** | Walk/tram 15–20 min | Walk | Transit |
 
-**24h Ruter:** good if Sognsvann + ferry + cross-town same day. Opera/Vigeland/Ekeberg many walks from sentrum beds.  
-**Airport:** Flytoget or Vy regional from Oslo S.
+A 24h Ruter ticket pays on a Sognsvann + ferry + cross-town day. Airport: Flytoget or Vy regional from Oslo S.
 
----
+### Stavanger (Central Guest House / Skagen Brygge / Victoria)
+**Hub:** Byterminalen (buses) · Vågen harbour.
 
-### Stavanger *(Central Guesthouse / Skagen Brygge / Victoria)*
-**Hub:** **Byterminalen** (buses) · Vågen. App: **Kolumbus** · hike shuttle **pulpitrock.no**.
-
-| Go to | How from Vågen / Brødregata ⭐ |
+| Go to | How (from Vågen / Brødregata) |
 |---|---|
-| **Byterminalen** (Preikestolen bus) | **Walk 5–10 min** — why we ban Forus beds |
-| **Gamle Stavanger** | Walk 10–15m |
-| **Fisketorget / reker boats** | Walk along Vågen 5–10m |
-| **Kanelsnurren / Fortou** | Walk sentrum / Pedersgata ~10–15m |
-| **Petroleum Museum** | Walk harbour ~10–15m |
-| **Sverd i fjell** | Kolumbus bus **~#16** (~20–30m) |
-| **Airport SVG** | Airport bus from Byterminalen |
+| **Byterminalen** (Preikestolen bus) | Walk 5–10 min: the reason to avoid Forus beds |
+| **Gamle Stavanger** | Walk 10–15 min |
+| **Fisketorget / prawn boats** | Walk along Vågen 5–10 min |
+| **Kanelsnurren / Fortou** | Walk ~10–15 min |
+| **Petroleum Museum** | Walk ~10–15 min |
+| **Sverd i fjell** | Kolumbus bus ~#16, 20–30 min |
+| **Airport** | Airport bus from Byterminalen |
 
-**Live Preikestolen attempt · Thu Sep 3:** Pulpit Rock Tours **08:00** from **Byterminalen stop 2** → **08:50 Preikestolhytta**. Target **13:15 or 14:00** return; later options include 15:30. The outbound is departure-specific; the return ticket works on any departure within four days, **first-come-first-served**. Walk from Lysefjordgata around 07:15; no car needed.
-**Day pass:** only if stacking city buses; hike day is mostly shuttle pass + walk.
+**Preikestolen shuttle (Pulpit Rock Tours, 2026):** e.g. 08:00 from **Byterminalen stop 2** → 08:50 Preikestolhytta. The outbound is departure-specific; the return ticket works on any departure within four days, first come first served. No car needed.
 
----
+### Bergen
+**Hub:** Bergen S + the bus station. Skyss Zone A 7-day ticket (315 NOK, 2026) covers city buses, light rail (incl. airport), Fantoft/Troldhaugen and local trains to Arna/Trengereid; it excludes FlixBus, Flybussen, the Voss train beyond Trengereid and express boats. Singles 51 NOK / 60 min; 24h 136 NOK.
 
-### Bergen city *(Marken / Citybox)*
-**Hub:** **Bergen S** + bus terminal. App: **Skyss**.
-
-**Live Montana ticket:** in the new Skyss app buy **Adult → 7-day → Zone A (315 NOK)** and start it before boarding bus 12 on Sep 6. App ticket = no tap on/off; show it at inspection. Zone A covers city bus/light rail, airport light rail, Fantoft/Troldhaugen approaches and local train to Arna/Trengereid. Singles cost 51 NOK/60m; 24h costs 136 NOK. FlixBus, Flybussen, Voss beyond Trengereid and separately priced express boats are excluded.
-
-| Go to | From Marken / Citybox (by station) |
+| Go to | From sentrum / Bergen S |
 |---|---|
-| **Bergen S** (fjord trains) | Walk **2–8 min** |
-| **Bryggen** | Walk ~10–15m |
-| **Fløibanen** base | Walk ~10–15m |
-| **Stoltzekleiven / Sandviken** | Bus toward Sandviken **or** walk 25–40m |
+| **Bryggen** | Walk 10–15 min |
+| **Fløibanen** base | Walk 10–15 min (hike up free; funicular down optional) |
+| **Stoltzekleiven / Sandviken** | Bus toward Sandviken or walk 25–40 min |
 | **Ulriken cable** | Bus toward Ulriken |
-| **Pingvinen / Trekroneren / Godt Brød** | Walk sentrum 5–15m |
-| **KODE** | Walk ~10m (lake) |
-| **HI Montana** (if staying) | Skyss bus uphill — bad for early Myrdal trains |
+| **Pingvinen / Trekroneren / Godt Brød** | Walk 5–15 min |
+| **KODE** | Walk ~10 min |
+| **HI Montana** | Bus 12 uphill, ~18 min; a poor base for early Myrdal trains |
 
-**Fløyen:** hike up free / funicular down optional (buy in app/kiosk).  
-**Day pass:** mountain bus days yes; pure Bryggen+food days often walk-only.
-
----
-
-### Fjord pocket *(Flåm / Aurland / Undredal)*
+### Fjord pocket (Flåm / Aurland / Undredal)
 | Go to | How |
 |---|---|
-| **Flåm station** ↔ camping | Walk ~5 min |
-| **Svingen** | Short walk in Flåm |
-| **Ægir** | Walk Flåm centre |
-| **Aurland** (Marianne Bakeri) | Bus ~10 min from Flåm |
-| **Undredal** beds | Bus/taxi from Flåm |
-| **Gudvangen / Rimstigen** | Bus/boat from Flåm corridor |
-| **Stegastein** | Booked **shuttle** from Flåm area |
-| **Nærøyfjord cruise** | Pier at Flåm or Gudvangen per ticket |
-| **Myrdal → east/OSL** | Flåmsbana ↑ then Vy |
+| Flåm station ↔ camping | Walk ~5 min |
+| Svingen / Ægir | Short walk in Flåm |
+| Aurland (Marianne Bakeri) | Bus ~10 min from Flåm |
+| Undredal | Bus/taxi from Flåm |
+| Gudvangen / Rimstigen | Bus/boat along the Flåm corridor |
+| Stegastein | Booked shuttle from the Flåm area |
+| Nærøyfjord cruise | Pier at Flåm or Gudvangen, per ticket |
+| Myrdal → east | Flåmsbana up, then Vy |
 
-**Picnic supplies:** Coop in Flåm — walk from station.  
-**No car required** for the default plan if buses match (check Entur the night before Rimstigen).
+No car needed if buses line up; check Entur the night before Rimstigen. Coop in Flåm for picnic supplies.
 
 ---
 
-## Suggested “move days” checklist
+## Move-day checklist
 
-1. Night before: Entur/Maps route · seat/ticket screenshots · bed address offline  
-2. Station buffer: **30–40 min** domestic · more with bags + rain  
-3. First hour in town: walk bed → ATM/card · grocery · tomorrow’s hike/shuttle reconfirm  
-4. Rain Norway: waterproof pack cover on all train→boat transfers  
+1. Night before: route in Entur/Maps · screenshot tickets · bed address offline
+2. Station buffer: 30–40 min domestic, more with bags and rain
+3. First hour in town: grocery run · reconfirm tomorrow's hike/shuttle
+4. Norway rain: pack cover on for every train→boat transfer
 
 ---
 
-## Cost pointer
-Intercity ballparks roll into itinerary §6 **Transport ~$2k**. Local day tickets are inside city **all-in/day**. Big spikes: Preikestolen shuttle ~$49 · Flåmsbana ~$52 · Nærøyfjord ~$50–64 · Stegastein shuttle ~$35 (sightseeing/transport, not lodging).
+## Big-ticket transport/sightseeing costs (2026)
+Preikestolen shuttle ~$49 · Flåmsbana ~$52 · Nærøyfjord cruise ~$50–64 · Stegastein shuttle ~$35 · Geiranger–Hellesylt car ferry NOK 1,680.

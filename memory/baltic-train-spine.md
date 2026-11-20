@@ -1,35 +1,27 @@
-# Baltic train spine — Tallinn → Tartu → Valga → Rīga → Vilnius
+# Baltic train spine: Tallinn → Tartu → Valga → Rīga → Vilnius
 
-*Verified live on Elron's own planner, 23 Sep 2026, for a Sun 27 Sep departure. Supersedes the "Lux Express bus to Riga" assumption in [tallinn-local-food.md](tallinn-local-food.md).*
+*Times and fares checked on Elron's own planner, Sep 2026. Re-check before travelling: engineering works shift times by date block.*
 
-**There is now a through train across all three Baltic states.** Launched Jan 2025. One ticket, one train number, one change (at Valga). This is the spine — the bus is no longer the default.
+Since Jan 2025 a through train crosses all three Baltic states: one ticket, one train number, one change (at Valga). Travelling north→south it never retraces, and it stops at every good break point (Tartu, the Gauja valley, Rīga, Šiauliai). It beats the bus whenever you want the stops; the bus is only faster for a straight Tallinn–Rīga run.
 
 ---
 
-## The 10:18 — full stop list (the only one that reaches Vilnius)
+## The 10:18 from Tallinn (the only one that reaches Vilnius)
 
-Train **012/112/873**, Tallinn→Valga = Elron (Stadler FLIRT), Valga→Vilnius = LTG Link (PESA 730 ML).
+Train **012/112/873**: Tallinn→Valga is Elron (Stadler FLIRT), Valga→Vilnius is LTG Link (PESA 730 ML). Departs **Tallinn Balti jaam**, not the coach station.
 
 | | | | |
 |---|---|---|---|
 | 10:18 **Tallinn** (Balti jaam) | 11:09 Tapa | 12:26 Jõgeva | **13:05 Tartu** |
-| 13:28 Elva | **14:28 Valga** ← change | 15:06 **Valmiera** | 15:30 **Cēsis** |
-| 15:59 **Sigulda** | 16:38 Zemitāni | **16:55 Rīga** | 17:30 Jelgava |
-| 18:41 **Šiauliai** | 19:43 Kėdainiai | 20:30 Kaišiadorys | **21:22 Vilnius** |
+| 13:28 Elva | **14:14 / 14:28 Valga** ← change | 15:06 **Valmiera** | 15:30 **Cēsis** |
+| 15:59 **Sigulda** | 16:38 Zemitāni | **16:47–16:55 Rīga** | 17:30 Jelgava |
+| 18:41 **Šiauliai** | 19:43 Kėdainiai | 20:30 Kaišiadorys | **21:01–21:22 Vilnius** |
 
-**Tallinn → Riga = 6h29. Tallinn → Vilnius = 11h.** Long enough that breaking the journey is the point, not a detour.
+**Tallinn → Rīga ≈ 6½ h. Tallinn → Vilnius ≈ 11 h.** Long enough that breaking the journey is the point.
 
-## All three trains, Tallinn → Rīga (Sun 27 Sep, live)
+Other Tallinn → Rīga trains (Sep 2026): 13:19 → 20:18 (€30.70) and 14:27 → 20:46 (€29.00), both terminating in Rīga. Only the 10:18 continues to Lithuania and passes Cēsis/Sigulda in daylight.
 
-| Dep | Arr Rīga | Dur | Price | Goes to |
-|---|---|---|---|---|
-| **10:18** | 16:47 | 6h29 | €30.70 | **…and on to Vilnius 21:22** |
-| 13:19 | 20:18 | 6h59 | €30.70 | Rīga only |
-| 14:27 | 20:46 | 6h19 | €29.00 | Rīga only |
-
-Only the **10:18** continues to Lithuania, and only it hits Cēsis/Sigulda in daylight.
-
-## Fares from Elron's table (through ticket)
+## Fares (through ticket, Elron table, Sep 2026)
 
 | To | from Tallinn | from Tartu |
 |---|---|---|
@@ -40,27 +32,34 @@ Only the **10:18** continues to Lithuania, and only it hits Cēsis/Sigulda in da
 | Šiauliai | €32.00 | €21.10 |
 | **Vilnius** | €39.00 | €28.10 |
 
-⚠️ Live checkout quoted **€29.00–30.70** Tallinn→Rīga, above the €25.90 table. **Trust the planner, not the PDF table.**
-
----
+Live checkout quoted **€29.00–30.70** Tallinn→Rīga, above the table. **Trust the planner, not the PDF table.**
 
 ## Booking gotchas
 
 - **Presale windows differ by operator:** Elron **14 days** · Vivi (Valga–Rīga) **10 days** · LTG Link (Rīga–Vilnius) **30 days**. Buying the whole run through **Elron** is the one-stop way.
-- ⭐ **SPLITTING THE TICKET BEATS THE SEAT CAP (verified 26 Sep).** LTG's through booking Tartu→Sigulda showed **7 seats** at €12.40. Booked as two legs it's **€12.80 with no scarcity**:
-  - Elron **Tartu 13:05 → Valga 14:14**, **€6.50** — 5 direct trains that day, **Elron seating is unreserved**
-  - Vivi **Valga 14:28 → Sigulda 15:58**, **€6.30** — **78 tickets available**
-  The change at Valga is **14 minutes**, not the 0 the stop list implies (14:14 arrive / 14:28 depart, same train number 873 continuing). Trade-off: the split forfeits through-ticket protection if the Elron leg runs late.
-- ⚠️ **Rail replacement bus, Elva–Valga.** Elron's own search for **28 Sep 2026** carries *"Between Elva - Valga the train service is replaced by bus."* Unclear whether it hits the 13:05 through service — that one shows **1h09** vs 1h22–1h42 for the others, which suggests it may run as a train. **Confirm on Elron's travel-alerts page before relying on the Valga connection.**
-- **No bus alternative exists for the Gauja stops.** FlixBus has no city entry for Sigulda, Valmiera or Cēsis at all; its Tartu→Rīga coach is **7h40 / €21.49** and skips them. Lux Express's Tartu–Rīga route lists only **Valga** in Latvia. Rail is the only way into Gauja from the north.
-- 🚨 **Only 16 seats on the Rīga–Vilnius leg are reserved for Elron through-ticket holders** (carriage 2, seats 37–70 odd/even block). Book that leg early or you may not get the through fare.
+- **Splitting the ticket can beat a seat cap.** In Sep 2026 LTG's through booking Tartu→Sigulda showed only 7 seats at €12.40. As two legs it was €12.80 with no scarcity: Elron Tartu 13:05 → Valga 14:14 (€6.50, unreserved seating, several trains a day) + Vivi Valga 14:28 → Sigulda 15:58 (€6.30). The change at Valga is **14 minutes** (same train number continues). Trade-off: the split forfeits through-ticket protection if the Elron leg runs late.
+- **Only 16 seats on the Rīga–Vilnius leg are held for Elron through-ticket holders** (carriage 2). Book that leg early or you may not get the through fare.
 - Elron seats are **unreserved** except First Class. Rīga–Vilnius is fully numbered.
-- Bicycles need a separate ticket; online purchase guarantees the space.
-- **Rīga–Vilnius engineering works** shift times — Vilnius arrival 21:11–21:22 rather than the usual 21:01, varying by date block. Re-check before travelling.
-- Elron's own PDF timetable is **artwork, not text** — don't try to parse it. Use `elron.pilet.ee/en/otsing/<From>/<To>/<YYYY-MM-DD>`, which deep-links straight to live results.
+- **Rail-replacement buses** appear on Elron sections (e.g. Elva–Valga in late Sep 2026). Check Elron's travel-alerts page before relying on the Valga connection.
+- Bicycles need a separate ticket; buying online guarantees the space.
+- Elron's PDF timetable is artwork, not text. Use `elron.pilet.ee/en/otsing/<From>/<To>/<YYYY-MM-DD>`, which deep-links straight to live results.
+- **No bus alternative for the Gauja stops.** FlixBus has no stop at Sigulda, Valmiera or Cēsis; its Tartu→Rīga coach is 7h40 / €21.49 and skips them. Lux Express's Tartu–Rīga route stops only at Valga in Latvia. Rail is the only way into Gauja from the north.
 
 ## Why the stops are the good part
 
-**Gauja National Park has three stations on this line** — Valmiera, **Cēsis** (medieval castle), **Sigulda** ("Latvian Switzerland": Turaida, cable car, trails, caves). Sigulda is 56 min from Rīga, so it also works as a day trip if you don't want to overnight. **Šiauliai** = Hill of Crosses. **Tartu** = Estonia's university city, and it's the natural first break at 2h47 out.
+- **Tartu:** Estonia's university city, a natural first break 2h47 out.
+- **Gauja National Park has three stations on this line:** Valmiera, **Cēsis** (medieval castle) and **Sigulda** ("Latvian Switzerland": Turaida, cable car, trails, caves). Peaks in autumn colour. Budget beds in Latvia are almost all in Rīga, so a Rīga base with day trips is the cheap option (Rīga ↔ Sigulda by Vivi: **€2.80, 47 min–1 h 09**, frequent, Sep 2026).
+- **Šiauliai:** the Hill of Crosses. Only one train a day arrives (≈18:40), so it costs a night; the town itself has little else.
 
-Related: [[tallinn-local-food.md]], [[riga-local-food.md]], [[scandi-transit.md]]
+## Beyond the through train
+
+| Leg | Best option (seen Sep–Oct 2026) |
+|---|---|
+| Rīga → Vilnius direct | FlixBus / Lux Express / Ecolines, ~4 h, **from €10.49** (FlixBus, several a day) |
+| Rīga → Kaunas | FlixBus 09:50 → 13:55, €12.99, direct |
+| Kaunas → Vilnius | Train, ~1 h, €10.80, ~37 a day |
+| Vilnius → Białystok (Poland) | LTG Link via Mockava, see [vilnius-local-food.md](vilnius-local-food.md) and [bialystok-local-food.md](bialystok-local-food.md) |
+
+FlixBus fares can be read without a browser: `global.api.flixbus.com/search/autocomplete/cities?q=` → `/search/service/v4/search`.
+
+Related: [tallinn-local-food.md](tallinn-local-food.md) · [riga-local-food.md](riga-local-food.md) · [vilnius-local-food.md](vilnius-local-food.md) · [scandi-transit.md](scandi-transit.md)
