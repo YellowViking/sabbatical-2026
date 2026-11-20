@@ -1,6 +1,6 @@
 # Europe 2026: pre-trip budget forecast
 
-This is the cost model built **before and during** the trip, for an 83-night baseline route. The trip as travelled was 89 nights and went differently in places: Gotland and Croatia's coast were skipped, more of Italy was added, and Sicily was added. See the [trip log](README.md). For what it actually cost, see **[actual spend vs this forecast](budget-actual.md)**: $11.3k cash over 88 nights, about 25% under. Keep this page as the **template for budgeting the next trip** (see [Latin America](../latam/README.md)).
+This is the cost model built **before and during** the trip, for an 83-night baseline route. The trip as travelled was 89 nights and went differently in places: Gotland and Croatia's coast were skipped, more of Italy was added, and Sicily was added. See the [trip log](README.md). For what it actually cost, see **[actual spend vs this forecast](budget-actual.md)**: $11.4k cash over 88 nights, about 25% under. Keep this page as the **template for budgeting the next trip** (see [Latin America](../latam/README.md)).
 
 ## Bottom line
 
