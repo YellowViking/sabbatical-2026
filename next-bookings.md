@@ -4,9 +4,9 @@
 
 | Stop | Dates | Guide |
 |---|---|---|
-| Białystok · Wrocław · Prague | 6 → 12 Oct | [Białystok](memory/bialystok-local-food.md) · [Wrocław](memory/wroclaw-local-food.md) · [Prague](memory/prague-local-food.md) |
-| **Brno** | Mon 12 → Tue 13 | [memory/brno-local-food.md](memory/brno-local-food.md) |
-| **Graz** | Tue 13 → Wed 14 | [memory/graz-local-food.md](memory/graz-local-food.md) |
+| Białystok · Wrocław · Prague | 6 → 12 Oct | [Białystok](trips/europe-2026/guides/bialystok.md) · [Wrocław](trips/europe-2026/guides/wroclaw.md) · [Prague](trips/europe-2026/guides/prague.md) |
+| **Brno** | Mon 12 → Tue 13 | [trips/europe-2026/guides/brno.md](trips/europe-2026/guides/brno.md) |
+| **Graz** | Tue 13 → Wed 14 | [trips/europe-2026/guides/graz.md](trips/europe-2026/guides/graz.md) |
 | **Zagreb + Plitvice** ✅ bed booked | Wed 14 → Fri 16 | [memory/zagreb-plitvice-oct2026.md](memory/zagreb-plitvice-oct2026.md) (food photos + prices) |
 | **Bled, staying in Lesce** ✅ bed + train booked | Fri 16 → Sun 18 | [memory/ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) (Friday step-by-step with map links) |
 | **Ljubljana** ✅ AdHoc Hostel + train booked | Tue 20 → Thu 22 | Train Lesce-Bled → Ljubljana (SŽ €5.80); plan + beds in [ljubljana-bled-oct2026.md](memory/ljubljana-bled-oct2026.md) |

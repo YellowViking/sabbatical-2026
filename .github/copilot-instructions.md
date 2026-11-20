@@ -6,12 +6,12 @@ Planning repo for a Europe fall sabbatical (Schengen-aware). **Not a software ap
 
 | Priority | File | Role |
 |---|---|---|
-| **1 — start here** | [`itinerary.md`](../itinerary.md) | **Canonical hub:** route order, night defaults/ranges, costs, lodging shortlist, open items |
-| 2 | [`RESUME.md`](../RESUME.md) | Session handoff for a new agent |
+| **1 — start here** | [`itinerary.md`](../trips/europe-2026/README.md) | **Canonical hub:** route order, night defaults/ranges, costs, lodging shortlist, open items |
+| 2 | [`RESUME.md`](../trips/europe-2026/README.md) | Session handoff for a new agent |
 | 3 | `memory/*-local-food.md` | Per-hub deep guides (detail lives here) |
 | 4 | `memory/scandi-*.md` | Cross-cutting indexes (transit, money, off-beat) |
-| 5 | [`memory/europe-year-base-nomad.md`](../memory/europe-year-base-nomad.md) | **Parallel goal:** ~1-year base (sabbatical/savings; not fall ≤90 hop) |
-| 6 | [`memory/spain-nlv-vs-france-visitor.md`](../memory/spain-nlv-vs-france-visitor.md) | Spain NLV vs France VLS-T means-visa deep dive |
+| 5 | [`memory/europe-year-base-nomad.md`](../research/europe-year-base-nomad.md) | **Parallel goal:** ~1-year base (sabbatical/savings; not fall ≤90 hop) |
+| 6 | [`memory/spain-nlv-vs-france-visitor.md`](../research/spain-nlv-vs-france-visitor.md) | Spain NLV vs France VLS-T means-visa deep dive |
 
 **Rule:** After any substantive trip-planning change, **`itinerary.md` must still be a valid single-file overview.** Deep content goes in `memory/`; the itinerary **summarizes + links**, it does not go stale while a sub-doc is fresh.
 

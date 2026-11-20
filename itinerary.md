@@ -3,11 +3,11 @@
 **Depart** Seattle, ~mid/late Aug 2026 · **Length** 6–8 months · **Style** slow-ish travel (snappy per-stop), comfortable budget · **Threads** cities & culture + nature/hiking throughout.
 
 **Status:** fall leg (Aug → ~mid-Nov) planned & costed. Fits the 90-day Schengen window at **~83 nights baseline (~6–7-day buffer** — Italy trimmed for slack; see §2). **Nights are flexible ranges** — move days as energy/weather dictate; keep total **≤90**. Lodging picks are neighborhood-vetted (§7) but **re-bookable** as lengths shift. Winter = fly home; **Balkans deferred**. Spring = provisional (§5).
-**Parallel goal:** identify a **~1-year base** near/in Europe — fall stops are **lifestyle scouts**. Year-1 may be **unpaid sabbatical** (no employer → most DNVs out). See [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md).
+**Parallel goal:** identify a **~1-year base** near/in Europe — fall stops are **lifestyle scouts**. Year-1 may be **unpaid sabbatical** (no employer → most DNVs out). See [research/europe-year-base-nomad.md](research/europe-year-base-nomad.md).
 
 **Route in one line (order fixed; lengths flexible):** Copenhagen → Gothenburg → Oslo → **Stavanger/Preikestolen** → Bergen/fjords → Stockholm (+Gotland *optional*) → Helsinki → ⛴ Tallinn → **Riga (base)** → Vilnius → ✈ Ljubljana → Croatia → **Italy (Venice → Naples/Amalfi)** → ✈ home from Naples/Rome (~mid-Nov).
 
-> **Live execution — Sep 3:** traveling **solo** and now in **Stavanger**. ✅ **Booked:** **Central Guest House, Lysefjordgata 12 · Sep 2–6 (4n)**, standard queen/private ensuite, **2,853 NOK via Booking**; **FlixBus Sep 6 09:50–14:30**, Stavanger bussterminal → Bergen busstasjon, **€27.48**. **Working onward route:** direct to **Bergen Sep 6–12 (6n)** → [friend road trip **Sep 12–20**](https://deploy-fjords.vercel.app/); Bergen remains unbooked. **Bergen comfort pick:** Montana **private twin Sep 6–8 → 18-bed dorm Sep 8–11 → private twin Sep 11–12**, **2,689 NOK fixed with existing HI membership / 2,988 NOK without**. The dorm-heavy floor remains 2,198/2,442 NOK. **Overlap guard:** save Hardanger + Sogn and Bergen's headline sights — Flåm/Aurland, Nærøyfjord, Undredal, Stegastein, Rimstigen, Ulriken, Fløyen and Bryggen — for the friend trip. **Research:** [railway stops · station walks · beds · mobility](memory/oslo-stavanger-stopovers.md).
+> **Live execution — Sep 3:** traveling **solo** and now in **Stavanger**. ✅ **Booked:** **Central Guest House, Lysefjordgata 12 · Sep 2–6 (4n)**, standard queen/private ensuite, **2,853 NOK via Booking**; **FlixBus Sep 6 09:50–14:30**, Stavanger bussterminal → Bergen busstasjon, **€27.48**. **Working onward route:** direct to **Bergen Sep 6–12 (6n)** → [friend road trip **Sep 12–20**](https://deploy-fjords.vercel.app/); Bergen remains unbooked. **Bergen comfort pick:** Montana **private twin Sep 6–8 → 18-bed dorm Sep 8–11 → private twin Sep 11–12**, **2,689 NOK fixed with existing HI membership / 2,988 NOK without**. The dorm-heavy floor remains 2,198/2,442 NOK. **Overlap guard:** save Hardanger + Sogn and Bergen's headline sights — Flåm/Aurland, Nærøyfjord, Undredal, Stegastein, Rimstigen, Ulriken, Fløyen and Bryggen — for the friend trip. **Research:** [railway stops · station walks · beds · mobility](trips/europe-2026/guides/oslo-stavanger-stopovers.md).
 
 > **Next bed — unbooked:** Bergen **HI Montana mostly-private stay Sep 6–12: 2,689 NOK fixed with valid HI membership or 2,988 NOK without**; breakfast, linen and kitchen included. It buys two extra private nights for only 491–546 NOK over the dorm-heavy floor, with the same two room changes. The repeated twin category requires **two linked direct reservations**. Details and direct links live in the Bergen guide.
 
@@ -25,15 +25,15 @@
 | **Fri Sep 11** | Montana · private twin *(unbooked)* | Internal room change; bags at reception → **Løvstakken if trail dries**, else Fisheries Museum/Sandviken indoor time → **Kulturnatt i Bergen 18:00–00:00** (free museums, galleries, concerts and performances). |
 | **Sat Sep 12** | Checkout → friend road trip | Breakfast; checkout 10:00; luggage hold until rendezvous. Headline Bergen/fjord loop starts with friend. |
 
-**Forecast basis:** Yr updated Sep 3, 23:34: wet Mon–Wed; clear Thu–Fri. Recheck nightly; detailed Bergen gates are in the [Bergen solo runway](memory/bergen-local-food.md#solo-runway--low-overlap-with-sep-1220).
+**Forecast basis:** Yr updated Sep 3, 23:34: wet Mon–Wed; clear Thu–Fri. Recheck nightly; detailed Bergen gates are in the [Bergen solo runway](trips/europe-2026/guides/bergen.md#solo-runway--low-overlap-with-sep-1220).
 
-**Northbound car call:** no 4–5 day road trip on the current forecast; Florø/Stad/Stryn share the wet Mon–Wed front, while Bergen clears Thu–Fri. Optional only: decide Wednesday night on a **Thu–Fri Balestrand–Gaularfjellet loop**, returning before the friend trip; do not push to Stryn/Ålesund. [Decision detail](memory/bergen-local-food.md#northbound-car-decision).
+**Northbound car call:** no 4–5 day road trip on the current forecast; Florø/Stad/Stryn share the wet Mon–Wed front, while Bergen clears Thu–Fri. Optional only: decide Wednesday night on a **Thu–Fri Balestrand–Gaularfjellet loop**, returning before the friend trip; do not push to Stryn/Ålesund. [Decision detail](trips/europe-2026/guides/bergen.md#northbound-car-decision).
 
 **Pace check:** this is a usable Sunday arrival evening + four substantive full days + one deliberate recovery day, not six empty sightseeing days. If energy is high and Thu stays dry, swap Sandviken for a **Voss day trip** (~1h15 direct train each way); keep the Montana bed and return for Friday Culture Night.
 
 > Contents: [1) Fall at a glance](#1-fall-itinerary-at-a-glance) · [2) Schengen](#2-the-schengen-constraint) · [3) Avoid-list](#3-already-visited--route-around-these) · [4) Fall hubs](#4-fall-hubs--what-to-do--why-each-length) · [5) Winter & spring](#5-winter--spring-provisional) · [6) Costs](#6-costs-fall-leg) · [7) Lodging](#7-lodging) · [8) Locked outcomes](#8-locked-outcomes) · [9) Open items](#9-open-items--decisions) · [Appendix](#appendix--data-sources--method)  
-> **Transit how-to:** [memory/scandi-transit.md](memory/scandi-transit.md) · **Money savers (DK/SE/NO + cities):** [memory/scandi-money-tips.md](memory/scandi-money-tips.md) · **Year-base / nomad scout:** [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md)
-> **Transit how-to:** [memory/scandi-transit.md](memory/scandi-transit.md) · **Money savers (DK/SE/NO + cities):** [memory/scandi-money-tips.md](memory/scandi-money-tips.md) · **Hikes & cammini:** [route-fit shortlist](memory/europe-hikes-cammini.md) · **Year-base / nomad scout:** [memory/europe-year-base-nomad.md](memory/europe-year-base-nomad.md)
+> **Transit how-to:** [trips/europe-2026/guides/scandinavia-transit.md](trips/europe-2026/guides/scandinavia-transit.md) · **Money savers (DK/SE/NO + cities):** [trips/europe-2026/guides/scandinavia-money.md](trips/europe-2026/guides/scandinavia-money.md) · **Year-base / nomad scout:** [research/europe-year-base-nomad.md](research/europe-year-base-nomad.md)
+> **Transit how-to:** [trips/europe-2026/guides/scandinavia-transit.md](trips/europe-2026/guides/scandinavia-transit.md) · **Money savers (DK/SE/NO + cities):** [trips/europe-2026/guides/scandinavia-money.md](trips/europe-2026/guides/scandinavia-money.md) · **Hikes & cammini:** [route-fit shortlist](research/europe-hikes-cammini.md) · **Year-base / nomad scout:** [research/europe-year-base-nomad.md](research/europe-year-base-nomad.md)
 
 ---
 
@@ -102,26 +102,26 @@ Schengen = **90 days in any rolling 180-day period.** **Every stop above is Sche
 **Default do:** Tivoli recovery night · green-ring parks · Amager/harbour bath · smørrebrød & stegt flæsk.
 **If 4–5n:** add Louisiana and/or Malmö/Lund and/or Dyrehaven — unlocked only with the extra night(s).
 Beds: **Urban Camper** ⭐ 4-bed mixed tent **~$41 direct flex** (VAT + linen/towel + drink) · **Next House** central premium ~**$60**. No current private meets the ≤$110 value cap.
-**Guide:** [food · nature · lodging · transit · **money**](memory/copenhagen-local-food.md) (scales with length).
+**Guide:** [food · nature · lodging · transit · **money**](trips/europe-2026/guides/copenhagen.md) (scales with length).
 
 ### Gothenburg — default **2n** · flex **0–3n**
 On the CPH→Oslo line (~3.5h each hop). **0n** = skip (long travel day CPH→OSL). **2n** = Haga + Botaniska/Änggårdsbergen + räkmacka. **3n** = full **Vrångö** day.  
 Beds: **Hotell Heden** private target (~$90–110) · hostel fallback only if the final private rate misses the cap.
-**Guide:** [food · nature · lodging · transit · **money**](memory/gothenburg-local-food.md).
+**Guide:** [food · nature · lodging · transit · **money**](trips/europe-2026/guides/gothenburg.md).
 
 ### Oslo — default **3n** · flex **2–4n**
 Opera roof, Akershus, Vigeland, Munch *or* National Museum, Grünerløkka; **Ekeberg** sunset · **Sognsvann** · **Hovedøya**; husmannskost (Schrøder / Kaffistova / Fiskeriet) not Brygge. Bygdøy = rain backup.  
 **+1n:** sauna + Vettakollen/Nordmarka. *Emanuel Vigeland Mausoleum = Sundays only.*  
 **Live stay:** **Cochs Pensjonat · Aug 30–Sep 1 · 2n**. A third night is unavailable; depart Sep 1. Current recommendation is **Kristiansand Sep 1–2 (1n)**, still unbooked.
 Beds: **Citybox / Cochs** private target (~$85–115) · Bunks/K7 dorm only when the private premium is poor.
-**Guide:** [food · nature · lodging · transit · **money**](memory/oslo-local-food.md).
+**Guide:** [food · nature · lodging · transit · **money**](trips/europe-2026/guides/oslo.md).
 
 ### Stavanger + Preikestolen — default **3n** · flex **2–4n** ⭐
 Gamle Stavanger + street art; **Preikestolen** (weather buffer — dawn start on the clear day); optional Lysefjord cruise.  
 **+1n** if storms stack. **Kjerag** only after Preikestolen if car + fitness. **Skip Trolltunga** here (all-day; steals Bergen). *Late Aug = last good hike window.*  
 **Live execution:** arrive from Kristiansand **Sep 2** and stay through **Sep 6 (4n)**. **Thu Sep 3 is the current Preikestolen attempt**: dry but fully overcast morning forecast, rain later; Friday is heavy-rain museum weather and Saturday clears in the city after morning showers. Keep one Stavanger base.
 Food: harbour **reker**, Fisketorget soup, Janas smokehouse — not Skagenkaien traps. ✅ **Booked bed:** **Central Guest House, Lysefjordgata 12** ⭐ private ensuite, **2,853 NOK standard queen / Sep 2–6 via Booking**. Quieter Storhaug/Pedersgata setting, guest-verified shared kitchen/laundry, and **850m / 12m** to Byterminalen, with an uphill luggage approach.
-**Guide:** [food · nature · lodging · transit · **money**](memory/stavanger-local-food.md).
+**Guide:** [food · nature · lodging · transit · **money**](trips/europe-2026/guides/stavanger.md).
 
 ### Haugesund + Karmøy — **skipped live** · optional **1–3n** fallback
 Sep 2 decision: go directly **Stavanger → Bergen on Sep 6**. Retain Haugesund only as a future/open-ocean alternative: Avaldsnes Viking history, Åkrasanden and white-timber Skudeneshavn on Kolumbus 209/210; 2n earns one full weekday circuit.
@@ -136,14 +136,14 @@ Bryggen, Fløyen/Ulriken, KODE; **fjord block** (Flåm + Nærøyfjord + Stegaste
 
 Food: **Pingvinen** / Trekroneren / skillingsbolle — skip Torget tents. **Live pre-road-trip bed:** **HI Bergen Hostel Montana** ⭐ **private twin Sep 6–8 → 18-bed dorm Sep 8–11 → private twin Sep 11–12**. Fixed lodging is **2,689 NOK with HI membership / 2,988 NOK without**; **2,885.02 NOK including the card**. A 69-property Bergen sweep found no credible competitor below 5,100 NOK. Book as two linked direct reservations; breakfast + linen + kitchen; two internal room changes.
 **Local transit:** buy **Skyss adult 7-day Zone A, 315 NOK** in the new Skyss app and start it before bus 12 on arrival; it covers Bergen bus/light rail and the planned city trips.
-**Guide:** [food · nature · lodging · transit · **money**](memory/bergen-local-food.md).
+**Guide:** [food · nature · lodging · transit · **money**](trips/europe-2026/guides/bergen.md).
 
 ### Stockholm — default **5n** · flex **4–6n**
 Gamla Stan, **Vasa**, Djurgården, Södermalm, **Skogskyrkogården**; archipelago; **Tyresta**.  
 **Optional:** Nackareservatet or **Grinda**/outer islands. Soft-pedal Sigtuna/Uppsala if nature-first.  
 Food: Söder herring/meatballs · not Gamla Stan squares. Beds: **City Backpackers private** if ≤$110 · its dorm or Castanea fallback.
 **Nights (Gemini Pro check):** typical city-only 3–4n; **nature-first 5n is the sweet spot**; 6n only for Grinda/slow. Cut Gotland before cutting STO below 4.  
-**Guide:** [food · nature · lodging · transit · money · nights](memory/stockholm-local-food.md).
+**Guide:** [food · nature · lodging · transit · money · nights](trips/europe-2026/guides/stockholm.md).
 
 ### Gotland / Visby — default **3n** · flex **0–3n** *(#1 swing · optional stop)*
 Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/Bergen/Riga. **2n** minimum if going (1 walls + 1 island). **3n** only with **Folhammar / Gnisvärd / Fårö sunset**. *Late-Aug ferries — book if committed.* Beds: **Hotell Visby Börs** private target (~$88) · Visby Logi fallback.
@@ -151,36 +151,36 @@ Ferry Nynäshamn → Visby. **Skip entirely** for Schengen slack or to fund CPH/
 
 ### Helsinki — default **2n** · flex **1–3n** *(on spine · optional thin guide)*
 **STO→HEL overnight ferry** (first 2–3h **on deck**). Design District, Temppeliaukio, Suomenlinna; Nuuksio *or* lighter Lammassaari/Seurasaari; **Löyly**. **+1n** = Nuuksio *or* Porvoo (not both rushed). Then ~2h ferry → Tallinn. Beds: **Citybox** / Kamppi.  
-**Guide (optional):** [ferry · 2n plan · nature · lodging · money](memory/helsinki-local-food.md) — thin card, not a capital book.
+**Guide (optional):** [ferry · 2n plan · nature · lodging · money](trips/europe-2026/guides/helsinki.md) — thin card, not a capital book.
 
-> **Scandi options / off-beat / how to spend extra nights:** [memory/scandinavia-optional-offbeat.md](memory/scandinavia-optional-offbeat.md)
+> **Scandi options / off-beat / how to spend extra nights:** [trips/europe-2026/guides/scandinavia-offbeat.md](trips/europe-2026/guides/scandinavia-offbeat.md)
 
 ### Tallinn — default **3n** · flex **2–4n**
 HEL ferry in (~2h). **Old Town walls** (don’t dine Raekoja plats) · **Telliskivi/Kalamaja** food · **Kadriorg** · **Viru bog/Lahemaa** on the nature day. Exit **Lux Express → Riga**.  
 **Nights:** 3 = sweet spot (city + one bog day); 2 = drop Lahemaa; 4 only if stealing carefully from Gotland/Riga. Beds: **Fat Margaret’s** ⭐ private first · Viru ⭐ dorm fallback · *not* Imaginary.
-**Guide:** [food · nature · lodging · transit · money · nights](memory/tallinn-local-food.md).
+**Guide:** [food · nature · lodging · transit · money · nights](trips/europe-2026/guides/tallinn.md).
 
 ### Riga — default **10n** · flex **7–12n** *(#2 swing / sponge · year-base lab)*
 Lux bus from TLL. **Central Market** (not OT squares) · Art Nouveau Quiet Centre · **Sigulda/Gauja** · **Ķemeri bog** · Jūrmala *or* Rundāle · kitchen nights at **Amella**. *Park leftover Scandi days here or trim if Italy needs buffer.*  
 **Through-walk option:** use two sponge nights for a contiguous **Forest Trail / E11** stage pair around Sigulda–Līgatne–Cēsis; confirm official GPX, beds and return transit first.
 
 **Year-base scout:** 3+ workdays + cowork day pass + nature habit + “lease?” notes — **lifestyle only** (not a free year visa).  
-**Guide:** [food · nature · lodging · transit · money · year-base](memory/riga-local-food.md).
+**Guide:** [food · nature · lodging · transit · money · year-base](trips/europe-2026/guides/riga.md).
 
 ### Vilnius — default **3n** · flex **2–4n**
 Bus from Riga. Baroque Old Town, **Užupis**, viewpoints; **Trakai** lakes day; optional Pavilniai if 4n. Then ✈ **Ljubljana** (connecting). Beds: **Domus Maria / Mikalo private** first · Downtown Forest dorm fallback.
-**Guide:** [food · nature · lodging · transit · money](memory/vilnius-local-food.md).
+**Guide:** [food · nature · lodging · transit · money](trips/europe-2026/guides/vilnius.md).
 
 ### Slovenia — default **7n** · flex **6–9n**
 **Split:** ~3n **Ljubljana** + ~4n **Bled or Bohinj** (not seven city nights). Vintgar · Bohinj/Vogel · Mostnica; caves from LJU; Piran only if 8n+. Soča ≠ casual LJU day trip. Beds: **OH Apartments private** (LJU) · private ≤$100 in the Alps · Celica/Bled/Pod Voglom dorm fallback.
 **Through-walk option:** a 2-day **Juliana Trail** Bled→Pokljuka/Goreljek→Bohinj replaces the Vintgar/Vogel sampler; early-October snow or a closed intermediate bed cancels it. **No Triglav summit** on this pass.
 
-**Guide:** [food · nature · lodging · transit · money](memory/slovenia-local-food.md).
+**Guide:** [food · nature · lodging · transit · money](trips/europe-2026/guides/slovenia.md).
 
 ### Croatia (Zagreb → Split → Dubrovnik) — default **13n** · flex **11–15n**
 **Split bases:** ~3n **Zagreb** (Medvednica) · **1n Plitvice area** for dawn · ~5–6n **Split** (Marjan · Trogir · Hvar if ferries) · ~3–4n **Dubrovnik** (Lapad lean · Srđ hike · Pass not walls-only). **Skip Krka** default after Plitvice. Mid-Oct = **bus** Split→DBV (fast ferries thin). Exit: DBV→VCE *connect* or Split→Ancona ferry. Beds: private-heavy except **Falling Lakes** ⭐ no-car shuttle lean at Plitvice · Varoš/Radunica room (Split) · **Lapad apt** (DBV). House Tina is a Grabovac private alt, **not** a gate walk.
 **Year-base scout:** Zagreb = on-spine **HR nomad-permit** rehearsal + Medvednica habit (income thresholds move — verify). Split = January honesty test.  
-**Guide:** [food · nature · lodging · transit · money · year-base](memory/croatia-local-food.md).
+**Guide:** [food · nature · lodging · transit · money · year-base](trips/europe-2026/guides/croatia.md).
 
 ### Italy (Venice → Naples/Amalfi) — default **~20n** · flex **18–22n** · the warm finale ⭐
 - **Venice (3):** San Marco, Dorsoduro, Murano/Burano.
@@ -289,7 +289,7 @@ Confirmed core: Bergen→Stockholm ✅ **booked, 3,250 Avios + $42.70** (AY0806 
 
 **Return ARN→BGO Sun Sep 13 still unbooked:** Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28, 4 seats as of Sep 6. Remaining balance is **3,250 Avios — exactly the fare, no margin**; the +30% Amex→Avios bonus expires **Sep 27**.
 
-**How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](memory/scandi-transit.md) · [scandi-money-tips.md](memory/scandi-money-tips.md).
+**How-to:** city guides through **SI/HR** (CPH→…→Baltics→**Slovenia**→**Croatia** + optional Gotland/HEL) have **Getting around** + **Money savers**. Indexes: [scandi-transit.md](trips/europe-2026/guides/scandinavia-transit.md) · [scandi-money-tips.md](trips/europe-2026/guides/scandinavia-money.md).
 
 **⇒ Carry ~$17k; expected landing zone ~$15.6–16.3k.** *Other levers: Gotland cut, Italy −1wk (~−$1.2k living), more Riga nights, home flight on points, hotel points on Stockholm/Italy spikes.*
 
@@ -324,10 +324,10 @@ Entry ✅ booked on points (see above). **Remaining redemption target = the mid-
 ### Where the shortlists are
 | Block | Guides (lodging detail) |
 |---|---|
-| **Scandi** | [CPH](memory/copenhagen-local-food.md#lodging-hostels--budget) · [GOT](memory/gothenburg-local-food.md#lodging-hostels--budget) · [OSL](memory/oslo-local-food.md#lodging-hostels--budget) · [KRS candidate](memory/oslo-stavanger-stopovers.md#lodging--exact-dates) · [SVG](memory/stavanger-local-food.md#lodging-hostels--budget) · [HAU/Karmøy candidate](memory/haugesund-karmoy-local-food.md#lodging--exact-dates) · [BGO](memory/bergen-local-food.md#lodging-split-city--fjord) · [STO](memory/stockholm-local-food.md#lodging-hostels--budget) · [Gotland](memory/gotland-local-food.md#lodging-hostels--budget) · [HEL](memory/helsinki-local-food.md#lodging-hostels--budget) |
-| **Baltics** | [TLL](memory/tallinn-local-food.md#lodging-hostels--budget) · [RIX](memory/riga-local-food.md#lodging-hostels--budget) · [VNO](memory/vilnius-local-food.md#lodging-hostels--budget) |
-| **Alps** | [Slovenia](memory/slovenia-local-food.md#lodging-hostels--budget) (LJU + Bled/Bohinj split) |
-| **Adriatic** | [Croatia](memory/croatia-local-food.md#lodging-hostels--budget) (ZG · Plitvice · Split · DBV) |
+| **Scandi** | [CPH](trips/europe-2026/guides/copenhagen.md#lodging-hostels--budget) · [GOT](trips/europe-2026/guides/gothenburg.md#lodging-hostels--budget) · [OSL](trips/europe-2026/guides/oslo.md#lodging-hostels--budget) · [KRS candidate](trips/europe-2026/guides/oslo-stavanger-stopovers.md#lodging--exact-dates) · [SVG](trips/europe-2026/guides/stavanger.md#lodging-hostels--budget) · [HAU/Karmøy candidate](memory/haugesund-karmoy-local-food.md#lodging--exact-dates) · [BGO](trips/europe-2026/guides/bergen.md#lodging-split-city--fjord) · [STO](trips/europe-2026/guides/stockholm.md#lodging-hostels--budget) · [Gotland](memory/gotland-local-food.md#lodging-hostels--budget) · [HEL](trips/europe-2026/guides/helsinki.md#lodging-hostels--budget) |
+| **Baltics** | [TLL](trips/europe-2026/guides/tallinn.md#lodging-hostels--budget) · [RIX](trips/europe-2026/guides/riga.md#lodging-hostels--budget) · [VNO](trips/europe-2026/guides/vilnius.md#lodging-hostels--budget) |
+| **Alps** | [Slovenia](trips/europe-2026/guides/slovenia.md#lodging-hostels--budget) (LJU + Bled/Bohinj split) |
+| **Adriatic** | [Croatia](trips/europe-2026/guides/croatia.md#lodging-hostels--budget) (ZG · Plitvice · Split · DBV) |
 | **South (thin here)** | Italy — §4 one-liners until guide written; re-verify on Maps+Booking with the method above |
 
 ### Cost shape (ballpark only — not a shortlist)
@@ -352,7 +352,7 @@ Nordic private-value targets are often **~$85–110** (dorm fallback ~$20–55) 
 | **SLO / HR** | Early Oct Alps day-hikes · **SLO split** LJU+Bled/Bohinj · mid-Oct **HR multi-base** + Plitvice overnight · skip Krka default |
 | **Italy** | Amalfi / Cinque Terre **earlier** in the ~20n block · Rome/Florence/Venice fine late |
 | **Entry search** | Search cash + awards across **all practical European gateways**; count onward cost/time, self-transfer risk, route reversal, and seasonality · ✅ resolved: **SK938 booked on Virgin points** |
-| **Year-base** | Fall Riga = lifestyle lab only · means-visa path = ES/FR later ([hub](memory/europe-year-base-nomad.md)) |
+| **Year-base** | Fall Riga = lifestyle lab only · means-visa path = ES/FR later ([hub](research/europe-year-base-nomad.md)) |
 
 Hard constraints only: **90-day cap** + sell-out transport. Everything else floats inside §1 ranges.
 
@@ -374,10 +374,10 @@ Hard constraints only: **90-day cap** + sell-out transport. Everything else floa
 - [x] **Bergen→Stockholm Sep 8 BOOKED** (Sep 7) — Finnair **AY0806** 10:50→12:10 nonstop, **3,250 Avios + $42.70** via BA Executive Club, 23kg bag included.
 - [ ] **Book the return ARN→BGO Sun Sep 13** — Finnair **AY0805** 08:45→10:05, ~3,250 Avios + ~$28. Balance is exactly 3,250 Avios, so any reprice needs a top-up **before the +30% Amex→Avios bonus expires Sep 27**.
 - [x] **Stockholm bed Sep 8–11 BOOKED** (Sep 7) — **City Hostel**, Fleminggatan 19 Kungsholmen, bed in **10-bed mixed dorm (30 m², single bed)**, 3n, **NOK 679 via Agoda**, non-refundable. Cheapest of seven channels; Agoda beat Booking by 308 NOK on the same room.
-- [ ] **Stockholm bed Fri 11 – Sun 13 (2n)** — **STF Skeppsholmen**, take the **50 m² / single-bed** "Bed in 16-Bed Dormitory (Mixed)", not the unlabelled twin listing. Agoda ~854 non-ref vs **STF direct ~1,064 with free cancellation to 18:00 Thu Sep 10**. Both last-room. Details: [stockholm-local-food.md](memory/stockholm-local-food.md) §Lodging live audit.
+- [ ] **Stockholm bed Fri 11 – Sun 13 (2n)** — **STF Skeppsholmen**, take the **50 m² / single-bed** "Bed in 16-Bed Dormitory (Mixed)", not the unlabelled twin listing. Agoda ~854 non-ref vs **STF direct ~1,064 with free cancellation to 18:00 Thu Sep 10**. Both last-room. Details: [stockholm-local-food.md](trips/europe-2026/guides/stockholm.md) §Lodging live audit.
 - [ ] Reserve Norway peak items early (**Preikestolen** shuttle, **Flåm**, beds) — keep lodging cancellable.
 - [ ] **Back half:** May Schengen return vs non-Schengen early spring (Iberia/France/Greece).
-- [ ] **Year-base:** unpaid sabbatical + **high savings** → **Spain NLV vs France VLS-T** deep dive [spain-nlv-vs-france-visitor.md](memory/spain-nlv-vs-france-visitor.md) · hub [europe-year-base-nomad.md](memory/europe-year-base-nomad.md). Fall Riga/Zagreb = lifestyle only; apply means visa from US (not mid-fall).
+- [ ] **Year-base:** unpaid sabbatical + **high savings** → **Spain NLV vs France VLS-T** deep dive [spain-nlv-vs-france-visitor.md](research/spain-nlv-vs-france-visitor.md) · hub [europe-year-base-nomad.md](research/europe-year-base-nomad.md). Fall Riga/Zagreb = lifestyle only; apply means visa from US (not mid-fall).
 
 ---
 
@@ -433,4 +433,4 @@ Nordics (DKK/SEK/NOK) are the **most cashless places on earth** — tap for ever
 
 **Re-query lodging without a browser:** Hostelworld `/hostels/europe/<country>/<city>/` · HousingAnywhere `/s/<City>--<Country>/furnished-apartments` · Kayak vacation-rentals. **Booking.com/Airbnb bot-walled** (HTTP 202) → need the Playwright browser DOM-read; no travel MCP connected.
 
-**Artifact:** `~/sabbatical/itinerary.md`, mirrored to **github.com/YellowViking/sabbatical-2026** (+ `RESUME.md`).
+**Artifact:** `~/sabbatical/itinerary.md`, mirrored to **github.com/YellowViking/sabbatical-2026** (+ `trips/europe-2026/README.md`).

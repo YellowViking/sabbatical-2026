@@ -3,24 +3,24 @@
 **What this is:** planning artifacts for a 6–8 month budget slow-travel sabbatical through Europe, starting ~mid/late August 2026 from Seattle. Built with Claude Code. This file lets another Claude (or you) resume with full context.
 
 **How to resume (next Claude, read in this order):**
-0. `.github/copilot-instructions.md` — **how files link** + checklists so `itinerary.md` stays the entry point (table, §4 hubs, §6/§7, indexes).
-1. `itinerary.md` — the full plan (route, Schengen strategy, lodging, costs, flights, points).
+0. `.github/copilot-instructions.md` — **how files link** + checklists so `trips/europe-2026/README.md` stays the entry point (table, §4 hubs, §6/§7, indexes).
+1. `trips/europe-2026/README.md` — the full plan (route, Schengen strategy, lodging, costs, flights, points).
 2. City guides in `memory/*-local-food.md` (CPH→STO; optional Gotland+HEL; **TLL→Riga→Vilnius**; **Slovenia**; **Croatia** multi-base) — food, nature, lodging, transit, money; **Riga** + **Zagreb** year-base scouts. **Next: Italy.**
-3. `memory/scandi-transit.md` — spine through DBV→Venice · `memory/scandi-money-tips.md` — DK/SE/NO + Baltics + SI + HR.
-3b. **`memory/europe-year-base-nomad.md`** — year-base hub (sabbatical + savings). **`memory/spain-nlv-vs-france-visitor.md`** — deep dive **Spain NLV vs France VLS-T** (no-work means visas).
-3c. **`memory/europe-hikes-cammini.md`** — route-wide hike stack, weather gates, Aurlandsdalen / Juliana / Gauja swaps, Via Francigena mini-cammino, and spring Camino shortlist; **no hike trade has changed nights yet**.
-4. `memory/sabbatical-2026-europe.md` + `memory/flights-points-vs-cash.md` — persistent project + preference notes.
+3. `trips/europe-2026/guides/scandinavia-transit.md` — spine through DBV→Venice · `trips/europe-2026/guides/scandinavia-money.md` — DK/SE/NO + Baltics + SI + HR.
+3b. **`research/europe-year-base-nomad.md`** — year-base hub (sabbatical + savings). **`research/spain-nlv-vs-france-visitor.md`** — deep dive **Spain NLV vs France VLS-T** (no-work means visas).
+3c. **`research/europe-hikes-cammini.md`** — route-wide hike stack, weather gates, Aurlandsdalen / Juliana / Gauja swaps, Via Francigena mini-cammino, and spring Camino shortlist; **no hike trade has changed nights yet**.
+4. `trips/europe-2026/README.md` + `research/flights-points-vs-cash.md` — persistent project + preference notes.
 5. Continue from **Open items** below.
 
 ## Status (as of 2026-09-03)
 Fall leg fully specified and costed. Winter = fly home from Italy (leaning). Spring = Iberia/France/Greece (Italy is now a fall leg).
 
 ## Live execution (2026-09-03)
-- Traveling **solo** and currently in **Stavanger**. ✅ Central Guest House **Lysefjordgata 12 · standard queen · Sep 2–6 · 2,853 NOK via Booking**. Private ensuite; shared kitchen/laundry. Wednesday's downtown walk is done. Live plan: Thu museums/prep · **Fri Sep 4 Preikestolen weather-gated attempt** · **Sat Sep 5 Stavanger parkrun 09:30 at Gamlingen/Mosvatnet** · Sun transfer. Detailed times: [`memory/stavanger-local-food.md#live-dated-plan--sep-16`](memory/stavanger-local-food.md#live-dated-plan--sep-16).
+- Traveling **solo** and currently in **Stavanger**. ✅ Central Guest House **Lysefjordgata 12 · standard queen · Sep 2–6 · 2,853 NOK via Booking**. Private ensuite; shared kitchen/laundry. Wednesday's downtown walk is done. Live plan: Thu museums/prep · **Fri Sep 4 Preikestolen weather-gated attempt** · **Sat Sep 5 Stavanger parkrun 09:30 at Gamlingen/Mosvatnet** · Sun transfer. Detailed times: [`trips/europe-2026/guides/stavanger.md#live-dated-plan--sep-16`](trips/europe-2026/guides/stavanger.md#live-dated-plan--sep-16).
 - **Confirmed:** ✅ **Sep 6 09:50–14:30 FlixBus** Stavanger→Bergen is booked. **Still unconfirmed in repo:** Friday's Pulpit Rock Tours shuttle · Montana Sep 6–12.
-- Research guide: [`memory/oslo-stavanger-stopovers.md`](memory/oslo-stavanger-stopovers.md). Later western-Norway towns are open; **Bergen by Sep 11** remains the hard anchor.
+- Research guide: [`trips/europe-2026/guides/oslo-stavanger-stopovers.md`](trips/europe-2026/guides/oslo-stavanger-stopovers.md). Later western-Norway towns are open; **Bergen by Sep 11** remains the hard anchor.
 - **Do not duplicate the Sep 12–20 friend road trip:** it already schedules Ulriken, Norheimsund/Hardanger, Eidfjord/Vøringsfossen, Odda/Bondhusvatnet, Aurland/Flåm, Nærøyfjord, Undredal, Stegastein, Rimstigen, Bryggen and Fløyen. The solo runway should remain south of that loop, apart from a Bergen buffer night.
-- **Route decision:** skip Haugesund; go directly **Stavanger → Bergen on Sun Sep 6**. Preferred BGO Montana chain: **Sep 6–8 private twin + Sep 8–11 18-bed dorm + Sep 11–12 private twin**, **2,689 NOK lodging / 2,885.02 NOK including HI USA card**, breakfast + kitchen, unbooked. A 69-property exact-date sweep found no credible Bergen competitor below 5,100 NOK; the repeated twin category requires two linked direct reservations. Guide: [`memory/bergen-local-food.md`](memory/bergen-local-food.md).
+- **Route decision:** skip Haugesund; go directly **Stavanger → Bergen on Sun Sep 6**. Preferred BGO Montana chain: **Sep 6–8 private twin + Sep 8–11 18-bed dorm + Sep 11–12 private twin**, **2,689 NOK lodging / 2,885.02 NOK including HI USA card**, breakfast + kitchen, unbooked. A 69-property exact-date sweep found no credible Bergen competitor below 5,100 NOK; the repeated twin category requires two linked direct reservations. Guide: [`trips/europe-2026/guides/bergen.md`](trips/europe-2026/guides/bergen.md).
 
 ## Confirmed parameters
 - Duration 6–8 months; departs Seattle ~mid/late Aug 2026.
@@ -39,7 +39,7 @@ Copenhagen 3n (land here) → Gothenburg 2n → Oslo 3n → **Stavanger/Preikest
 Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria, Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey; brief France (Christmas 2023). Route AROUND these. The "go back to the Balkans" wish = the **western** Balkans, which were missed.
 
 ## Cost (fall leg)
-**Plan ~$15.6–16.3k cash** for the fixed ~83n fall; carry ~$17k. Living ~**$11.8k** = lodging **$6.5k** (including booked Stavanger + live Montana rate) + food **$2.7k** + **3 drinks/day $1.8k** + local/routine **$0.85k**; then 10% living cushion, transport **$1.6–1.8k**, sights **$0.75–0.9k**, and insurance/eSIM **$0.3–0.6k**. Detail: `itinerary.md` §6.
+**Plan ~$15.6–16.3k cash** for the fixed ~83n fall; carry ~$17k. Living ~**$11.8k** = lodging **$6.5k** (including booked Stavanger + live Montana rate) + food **$2.7k** + **3 drinks/day $1.8k** + local/routine **$0.85k**; then 10% living cushion, transport **$1.6–1.8k**, sights **$0.75–0.9k**, and insurance/eSIM **$0.3–0.6k**. Detail: `trips/europe-2026/README.md` §6.
 
 ## Open items
 - [x] **SEA→CPH BOOKED** (Aug 12): SAS **SK938** Aug 23, 15:55→10:10+1, direct 9h15, **25,500 Virgin Points + US$5.60**, 23kg checked bag included.
@@ -50,7 +50,7 @@ Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Buda
 - [ ] Book Norway (late-Aug peak) 1–3 months ahead; vet the Riga apartment's wifi before committing to 15 nights.
 - [ ] Optional: a pre-Norway non-Schengen **UK week** (if the cheap SEA fare lands in London) to delay the Schengen clock.
 - [ ] Firm up Phase 3 (spring: Italy/France/Iberia) closer to February — fold **year-base scouts** (Valencia/Madeira/Porto) if nomad shortlist still open.
-- [ ] **Year-base:** sabbatical + **savings** → ES NLV vs FR VLS-T (`memory/spain-nlv-vs-france-visitor.md`) or GE/AL or US+90d — not DNVs.
+- [ ] **Year-base:** sabbatical + **savings** → ES NLV vs FR VLS-T (`research/spain-nlv-vs-france-visitor.md`) or GE/AL or US+90d — not DNVs.
 
 ## Preferences (apply going forward)
 - Always cross-check points/miles redemption vs cash before booking; **Google Flights = cash baseline**. Redeem only when value clears ~1.3–1.5¢/pt.
