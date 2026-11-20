@@ -15,7 +15,7 @@ Planning a 6–8 month budget-conscious slow-travel sabbatical, departing Seattl
 - Optimize for: minimize backtracking + operating-cost efficiency (few multi-week bases, budget air/ferry for long hops, buses within clusters, monthly-rental discounts).
 
 **ALREADY VISITED — do NOT re-route through (from blog.buyuchen.org, 2023 sabbatical + earlier):**
-- Central/Eastern Europe: Poland (Kraków, Warsaw), Czechia (Prague), Slovakia (Bratislava), Hungary (Budapest), Austria.
+- Central/Eastern Europe: Poland (Kraków, Warsaw), Czechia (**Olomouc only — Prague was deliberately skipped, Brno never stopped at**), Slovakia (Bratislava), Hungary (Budapest), Austria (Vienna), **Germany (Munich, Saarbrücken — NOT in the blog; user-reported 26 Sep 2026)**.
 - Eastern Balkans + SE: Serbia (Belgrade), Bulgaria (Sofia, Plovdiv), Greece (Athens), Turkey.
 - France: brief Christmas 2023 stay only (largely fresh otherwise).
 - (Also extensive prior SE Asia + Latin America — not Europe-relevant.)

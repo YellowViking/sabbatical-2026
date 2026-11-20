@@ -40,12 +40,46 @@ Use this when the user wants to:
 
 1. **Logged-in Chrome** with the user's Google account (Maps must show avatar,
    not "Sign in").
-2. **Browser automation attached to that session**, not a fresh profile:
-   - Preferred: `chrome-devtools-mcp` with `--autoConnect` after enabling
-     remote debugging at `chrome://inspect/#remote-debugging`
-   - Or Playwright CDP to the same Chrome
+2. **Browser automation attached to that session**, not a fresh profile.
+   - Preferred: connect to a persistent debuggable Chrome over **CDP
+     (`http://127.0.0.1:9222`)**. See *Launching the debuggable Chrome* below.
+   - `chrome-devtools-mcp --autoConnect` (via
+     `chrome://inspect/#remote-debugging`) also works, but CDP is scriptable and
+     works headless-of-UI.
 3. Copilot/agent built-in browser tools often open an **unsigned** session —
    do **not** use those for this skill.
+
+> ⚠️ **Never launch automation against the *default* profile.** Chrome 136+
+> refuses `--remote-debugging-port` on the default user-data-dir, so attempts
+> to automate it silently fail or start a signed-out twin. Always use a
+> dedicated persistent profile.
+
+### Launching the debuggable Chrome
+
+```bash
+bash ~/sabbatical/skills/google-sheets-edit/cdp-up.sh   # start or reuse :9222
+```
+
+Idempotent — never kills a running instance, so the Google session survives.
+Log into Google / Maps **once**; it persists in
+`~/Documents/sabbatical-finance/chrome-cdp-profile` and is inherited by every
+future attach.
+
+Verify the attach actually carries the session before doing real work:
+
+```bash
+node ~/sabbatical/skills/google-maps-saved-places/cdp-check.mjs hyatt.com
+```
+
+It prints the bot-fingerprint surface (`navigator.webdriver`, `window.chrome`,
+plugins) and the cookie jar the target host sees. You want
+`verdict: looks like a real Chrome ✅` and a non-zero cookie count.
+
+> **Why not just use the Playwright MCP's own profile?** Its `mcp-chrome-*`
+> profiles under `~/Library/Caches/ms-playwright-mcp/` are separate cookie jars
+> per session. Verified 2026-09: **none** hold a Hyatt session (`0` cookies),
+> so Playwright alone can never reach a logged-in `hyatt.com`. The CDP profile
+> is the one that carries logins.
 
 ### VS Code MCP snippet (user `mcp.json`)
 
@@ -58,13 +92,18 @@ Use this when the user wants to:
       "args": [
         "-y",
         "chrome-devtools-mcp@latest",
-        "--autoConnect",
+        "--browser-url=http://127.0.0.1:9222",
         "--no-usage-statistics"
       ]
     }
   }
 }
 ```
+
+For Playwright, use `--cdp-endpoint http://127.0.0.1:9222` (attaches to the
+running browser and inherits its cookies). Avoid a bare
+`--browser chrome` with no `--user-data-dir`: it spawns a throwaway profile with
+no cookies, history, or logins.
 
 ---
 
@@ -243,7 +282,7 @@ should be deleted if accidentally created.
 | HTTP 200 but place missing | Wrong list id / wrong feature id | Verify feature from place URL; re-open Saved places list |
 | Save menu only "New list" | Place card empty / no feature | Open a full `/maps/place/...!1s0x...` URL first |
 | Suggest has no `0x…:0x…` | Ambiguous query | Add city name; or open place UI once |
-| Tools on signed-out Maps | Wrong browser context | Use `--autoConnect` Chrome, not built-in unsigned browser |
+| Tools on signed-out Maps | Wrong browser context | Attach over CDP to the `chrome-cdp-profile` Chrome, not built-in unsigned browser |
 | `Illegal invocation` on XHR hook | Bad prototype patch | Patch carefully; prefer capturing URL from one UI save only |
 
 ---
@@ -283,7 +322,7 @@ Count moved **3 → ~9–10**; all names visible under Saved places.
 
 ## Agent checklist
 
-- [ ] Chrome remote debugging / autoConnect to **logged-in** profile
+- [ ] `cdp-up.sh` reports up, then `cdp-check.mjs` shows real-Chrome verdict + cookies
 - [ ] User confirmed target list (default **Saved places**)
 - [ ] Harvest fresh createitem template this session
 - [ ] Resolve feature ids + coords for each place

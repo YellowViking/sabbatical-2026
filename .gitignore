@@ -44,3 +44,10 @@ maps-search-*.txt
 
 # local CDP debug log
 memory/restaurant-previews/run.log
+
+# research scratch
+.scratch/
+
+# local-only
+pompeii-3d/
+.mcp.json

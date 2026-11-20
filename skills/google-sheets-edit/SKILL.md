@@ -151,7 +151,30 @@ Playwright tool then fails. **Do not kill that Chrome** — another agent may be
 holds live logins.
 
 Escape hatch: a *separate*, **persistent** Chrome on a CDP port, driven with the
-`chrome-devtools-cdp` MCP (which expects `127.0.0.1:9222`).
+`chrome-devtools-cdp` MCP (which expects `127.0.0.1:9222`) — or, when no browser MCP is
+connected at all, with **`cdp.mjs`** in this folder (Node built-ins only):
+
+```bash
+node skills/google-sheets-edit/cdp.mjs list
+node skills/google-sheets-edit/cdp.mjs cell spreadsheets/d/<ID> 'Weeks!B746:E752'  # select; prints formula bar
+printf '40.86\n43.26\n' | node skills/google-sheets-edit/cdp.mjs type spreadsheets/d/<ID> -
+node skills/google-sheets-edit/cdp.mjs key  spreadsheets/d/<ID> Meta+Alt+Shift+1   # bound macro
+node skills/google-sheets-edit/cdp.mjs eval <tab> file.js '<arg>'                   # returns JSON
+node skills/google-sheets-edit/cdp.mjs shot <tab> /tmp/x.png
+```
+
+It is also a module (`import { attach } from './cdp.mjs'`) — `../card-expense-sync/cdp-sync.mjs`
+is built on it. Its `type` sends real key events, so everything below about typing applies.
+
+⚠️ **In a shared browser, paste — don't type.** `cdp.mjs paste` writes a whole TSV grid as one
+action (clipboard + the `paste` editing command; a bare Meta+V key event is ignored). On 25 Oct,
+typing a 28-cell block while another agent drove the same Chrome lost keystrokes and shifted
+values between cells. Pasting keeps the target's `$` number format. Still type dropdown cells,
+one cell per selection, because a paste wipes their validation.
+
+⚠️ **One select per write.** `cell` leaves the cell it read *selected*, so reading a cell and
+then typing writes into **that** cell. Reading `A708`, `D715`, `B715` and then typing put the
+value in `B715`. Always `cell` the target immediately before `type`.
 
 ```bash
 bash skills/google-sheets-edit/cdp-up.sh     # idempotent; reuses a running instance
@@ -162,6 +185,59 @@ bash skills/google-sheets-edit/cdp-up.sh     # idempotent; reuses a running inst
 so nobody has to sign in again. Tearing it down each time is the mistake — it only creates
 re-login work. (The profile holds live Google cookies, which is why it sits outside the public
 repo and outside `/tmp`.)
+
+## Bot-protected sites (Hyatt / Kasada) need a pre-warm
+
+Sites behind a JS challenge — **hyatt.com uses Kasada** — block automated navigation.
+Verified 2026-09-24 with single-variable A/B controls on cold (cookie-less) profiles:
+
+| Condition | Result |
+|---|---|
+| plain Chrome, no debug port | 200 |
+| attach, enable **no** CDP domains, then navigate | 200 |
+| attach, enable `Page` only, then navigate | 200 |
+| attach, enable `Network` / `Log` / `Debugger` / `Profiler`, then navigate | 200 |
+| attach, enable **`Runtime`**, then navigate | **blocked** |
+| attach, `Runtime` only (no `Page`), then navigate | **blocked** |
+| **pre-warmed** profile, attach with `Runtime` + `Page`, navigate | 200 |
+
+So the detector is narrow: **`Runtime.enable`** is the trigger — not CDP attachment in
+general, and not the `--remote-debugging-port` flag. The warm cookie jar matters too;
+without it the challenge has to be solved from scratch, which is when the block lands.
+
+`cdp-up.sh` covers both: it passes the warm URLs as Chrome **startup arguments**, waits
+20 s for the challenges to settle, and only then exposes `:9222`.
+
+```bash
+bash skills/google-sheets-edit/cdp-up.sh              # pre-warms google + hyatt
+bash skills/google-sheets-edit/cdp-up.sh --no-warm    # skip (spreadsheet-only work)
+WARM_URLS="https://example.com/" bash skills/google-sheets-edit/cdp-up.sh
+```
+
+Also note:
+
+- **A corrupt cookie DB blocks challenges permanently.** An earlier profile's
+  `Default/Cookies` was valid SQLite with *zero tables* (`schema 0`), so it could never
+  persist the solved token. The script validates `sqlite3 "$CK" ".tables"` and rebuilds
+  from the real profile if broken.
+- **Seed from the real Chrome profile, not Playwright's `mcp-chrome-*` jars.** Those
+  are per-session stores; they held **0** hyatt cookies.
+
+Useful Hyatt paths (all 200 once warmed):
+
+```
+hyatt.com/hyatt-place/en-US/tllzt-hyatt-place-tallinn            # hotel
+hyatt.com/hyatt-place/en-US/tllzt-hyatt-place-tallinn/rooms
+hyatt.com/shop/rooms/tllzt?checkinDate=YYYY-MM-DD&checkoutDate=YYYY-MM-DD&adults=1&rooms=1
+```
+
+The `/shop/rooms/...` URL is the useful one — it renders `Award Category N`,
+`World of Hyatt Free Night Award`, and `Points/Night` for real dates.
+
+> **Research caution:** the block is stochastic and lazy-loaded, so a small number of
+> trials will mislead. Early runs of this investigation "passed" 4/4 on cold profiles and
+> "blocked" on warm ones — the opposite of the truth — because repeated probing shifts the
+> outcome. Only trust a result reproduced across several iterations with one variable changed.
 
 On first run the script seeds the cookie jar from the Playwright profile, which **does** carry
 the Google session. Two traps it handles:
@@ -180,6 +256,13 @@ does nothing — Sheets never sees a trusted paste, even though `navigator.clipb
 succeeds and `readText` reads it back. Playwright's `keyboard.press` does work; the CDP tool's
 does not. Use `type_text` instead:
 
+- **Best method: select the whole block range first, then type column-major.** With a range
+  selected, Enter moves down and **wraps to the top of the next column inside the selection**.
+  So `select Weeks!B710:E716` then type 28 newline-separated values (all of B, then all of C…)
+  fills a 7×4 block in **two calls** instead of eight.
+- **Always prefix the sheet name** — `Weeks!B710:E716`, not `B710:E716`. The name box is
+  relative to the *active* sheet, and merely reading a cell like `Metadata!B1` switches it. An
+  unprefixed range silently wrote a whole block onto the Metadata tab.
 - **Newlines reliably move down one cell.** Type a whole column in one call.
 - **Tabs are NOT reliable — do not type a TSV block.** Sometimes they move right, sometimes the
   literal tab characters land in the cell, leaving `37.78 71.81 16.19 29.25` as a text string in

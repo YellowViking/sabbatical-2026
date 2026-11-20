@@ -65,7 +65,6 @@ skills/                               ← Playwright research how-tos
 | SVG | `memory/stavanger-local-food.md` |
 | BGO | `memory/bergen-local-food.md` |
 | STO | `memory/stockholm-local-food.md` |
-| Visby | `memory/gotland-local-food.md` (**optional** stop / thin card) |
 | HEL | `memory/helsinki-local-food.md` (**optional** thin guide; on spine) |
 | TLL | `memory/tallinn-local-food.md` |
 | RIX | `memory/riga-local-food.md` (sponge + year-base scout) |
@@ -213,7 +212,8 @@ Link **up** to spine indexes; do not depend on chat history.
 
 ## Live web research / booking automation
 
-- Prefer documented APIs, signed-session RPC/XHR, or in-page `fetch` over UI click-loops; use batch endpoints when available.
+- **API first, always** (user rule, 7 Oct 2026): every browser task starts from a documented API, the site's own XHR/`fetch`, a `curl`-able endpoint or a published file. Drive the UI only once, to capture the request, or when nothing structured exists, and say so. Endpoint table: [`AGENTS.md`](../AGENTS.md).
+- **Repeating the same page scrape more than ~3 times? Refactor first:** capture the page's own request, replay it in batch, and record the recipe — see [`AGENTS.md`](../AGENTS.md) for the steps, known endpoints, and throttling guardrails.
 - Follow the repo’s Maps, Photos, and AI Mode skills before inventing a browser workflow. Use UI only when no stable structured path exists or auth/captcha requires it.
 - For flights, scan all practical European gateways for cash and awards; rank onward cost/time, self-transfer risk, route reversal, and seasonality before live-confirming the finalist.
 - Never expose or commit cookies/tokens or `.playwright-mcp/` output, and stop booking flows before passenger or payment secrets.

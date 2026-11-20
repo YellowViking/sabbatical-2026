@@ -10,10 +10,8 @@
 | [Gothenburg](gothenburg-local-food.md#money-savers) | SE city |
 | [Oslo](oslo-local-food.md#money-savers) | NO capital |
 | [Stavanger](stavanger-local-food.md#money-savers) | Preikestolen base |
-| [Haugesund + Karmøy](haugesund-karmoy-local-food.md#food--money) | Live coastal candidate |
 | [Bergen + fjords](bergen-local-food.md#money-savers) | City + Flåm pocket |
 | [Stockholm](stockholm-local-food.md#money-savers) | SE capital |
-| [Gotland / Visby](gotland-local-food.md#money-savers) | **Optional** island · SE rules |
 | [Helsinki](helsinki-local-food.md#money-savers) | **Optional thin** · euro / HSL |
 | [Tallinn](tallinn-local-food.md#money-savers) | **EE** · päevapakkumine · Balti Jaam |
 | [Riga](riga-local-food.md#money-savers) | **LV** · Central Market · kitchen · Vivi |

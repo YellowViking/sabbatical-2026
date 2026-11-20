@@ -37,10 +37,14 @@ Use when the user wants:
 ## Prerequisites
 
 1. **Logged-in Chrome** (Maps shows avatar, not "Sign in").
-2. Browser automation attached to that session — Playwright MCP
-   (`@playwright/mcp --browser chrome`) or chrome-devtools-mcp `--autoConnect`.
+2. Browser automation attached to that session — connect over CDP
+   (`http://127.0.0.1:9222`) after `bash skills/google-sheets-edit/cdp-up.sh`.
+   See the saved-places skill for the full launch + verify recipe.
+   `chrome-devtools-mcp --autoConnect` also works.
 3. Copilot built-in browser tools open a **fresh unsigned** session — do **not**
    use them for account actions.
+4. Do **not** automate the *default* Chrome profile: Chrome 136+ blocks
+   `--remote-debugging-port` there.
 
 ---
 

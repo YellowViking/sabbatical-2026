@@ -187,8 +187,24 @@ Peetri 5, **Noblessner** (converted submarine factory) · **Tue–Thu 12–24 ·
 | Sauna, up to 8 | €80/h then €60/h, 2h min | ~$93 / $70 |
 
 **Tours:** Tue/Thu/Fri **18:00 EN** · Sat–Sun **14:00 EN** · Fri 19:00 EE. **Pre-register ≥24h** (shop@pohjalabeer.com).
-The 24 taps are screen-only — **draft prices are not published anywhere**; budget the €4–7 / 0.5L band.
-**Live menu:** [qr.pohjalabeer.com](https://qr.pohjalabeer.com/index-en.html) — it's their real Google Sheet, so it's always current. BBQ mains €11–29 (the €135 "BBQ Feast" is a group platter).
+
+✅ **Draft prices ARE gettable — corrected Sep 23 2026.** The old note ("screen-only, budget €4–7/0.5L") was wrong twice over. The `tap-list.html` page renders empty, but it embeds an iframe from `menu.pohjalabeer.com/qr.html` fed by **Untappd Business** (`business.untappd.com/api/v1/menus/60304?full=true` — 403s if you call it from the wrong origin; just load the iframe URL and read the DOM).
+
+⚠️ **They pour 0.25 L and 0.4 L — there is no 0.5 L.** Live board Sep 23 2026:
+
+| | 0.25 L | 0.4 L |
+|---|---|---|
+| **Põhjala Laager 4.7%** *(cheapest)* | €4.50 | **€5.50** |
+| Saturnus 5.0% · Kask 5.0% GF · Uus Maailm 4.7% GF | €5.00 | €6.00 |
+| Core range (Virmalised, Kosmos, Taevas, Must Kuld, Öö 10.5%…) | €5.50 | €6.50 |
+| Piknik 6.0% · Padi 8.0% DIPA | €6.00 | €7.00 |
+| Mikkeller Hop Shop 4.9% | €6.50 | €7.50 |
+| Peanut Butter Bänger 12.5% | €7.90 | — |
+| **Cellar Series** (Timeless Treasures, Roggenwolf, Titaan, Barrique Noire, Marble, 12–15%) | **€8.50** | — |
+
+So a 0.4 L of the core range is **€6.50** → **~€8.10/0.5 L equivalent**, well above the €4–7 the guide used to claim. Only the Laager lands in that band.
+
+**Food menu:** [qr.pohjalabeer.com](https://qr.pohjalabeer.com/index-en.html). Snacks €4–5.50 (pork rinds €4, beer nuts €5, onion rings €5, fries €5.50, mac & cheese €5); small plates €7–9.50; BBQ mains €11–28 (€135 "BBQ Feast" is a group platter).
 
 ### Price bands
 
@@ -205,7 +221,25 @@ The 24 taps are screen-only — **draft prices are not published anywhere**; bud
 ### Free / cheap version
 - **Walking into any taproom is free.** The €20 tour buys 3–4 tastings you'd nearly cover by ordering two bottles — take it for the production floor, not the beer.
 - **Balti Jaama Turg cans €2.50–3.50** are the honest budget play — but **public drinking is banned in Estonia**, so that's an apartment/hostel-kitchen drink, not a park drink.
-- Bonus from their live menu: **Hell Hunt's weekday lunch is €2.90 soup / €3.80 main** in Old Town. That reads low for 2026 — verify on arrival, but if it holds it's the cheapest sit-down food in this guide.
+- ❌ **CORRECTED 23 Sep 2026.** The old note said Hell Hunt's weekday lunch was "€2.90 soup / €3.80 main". **It isn't** — see the verified table below.
+
+### ☕ Lunch deals & happy hours — verified 23 Sep 2026
+
+**Weekday lunch (*päevapakkumine*) is the best daily habit in this city.**
+
+| Where | Deal | Source |
+|---|---|---|
+| **Hell Hunt** · Old Town · **Tue–Fri** ⚠️ closed Mon | Minestrone **€4.50** · Pork schnitzel + oven potatoes **€6.90** · Creamy salmon & zucchini pasta **€6.90** | their own site, menu dated **22.09–25.09** |
+| **Humalakoda** · Balti Jaam 2F · **Mon–Fri from 12:00**, while supplies last | Päevasupp **€4.90** · Päevapraad **€7.90** · **Päevaõlu 0.33 L €3.50** | humalakoda.ee/menuu |
+
+**Hell Hunt draft (official):** Hele **33 cl €4.50 / 50 cl €5.50** · IPA 7.00/8.00 · Guinness 6.00/7.00. At **€11.00/L** that Hele is the cheapest real pint found in any Tallinn pub — Põhjala's core range is €16.25/L.
+
+**Happy hours — reported, NOT confirmed by any venue:**
+- **Põhjala Tap Room** — weekdays **15:00–18:00, ~30% off draft** (Finnish travel piece, Jul 2026); the tap room's own Instagram says **Wed 15:00–17:00** + **free pub quiz 18:00**. Their website mentions neither. At −30%: Laager 0.4 L ≈ **€3.85**, core ≈ **€4.55**.
+- **Humalakoda** — **17:00–18:00, half price** on selected drinks (2 Google reviews).
+- **Gin Spot Bar**, Telliskivi — daily **16:00–17:30** (their Instagram, Aug 2026).
+
+🔎 **Pattern: Tallinn venues don't publish happy hours.** Humalakoda's site renders the raw key `home.happy-hour.text` in *both* languages; Põhjala's taproom page omits it entirely. Reviews and venue Instagram are the only sources — treat times as "probably, ask at the bar".
 
 ---
 

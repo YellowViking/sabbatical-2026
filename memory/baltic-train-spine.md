@@ -47,6 +47,12 @@ Only the **10:18** continues to Lithuania, and only it hits Cēsis/Sigulda in da
 ## Booking gotchas
 
 - **Presale windows differ by operator:** Elron **14 days** · Vivi (Valga–Rīga) **10 days** · LTG Link (Rīga–Vilnius) **30 days**. Buying the whole run through **Elron** is the one-stop way.
+- ⭐ **SPLITTING THE TICKET BEATS THE SEAT CAP (verified 26 Sep).** LTG's through booking Tartu→Sigulda showed **7 seats** at €12.40. Booked as two legs it's **€12.80 with no scarcity**:
+  - Elron **Tartu 13:05 → Valga 14:14**, **€6.50** — 5 direct trains that day, **Elron seating is unreserved**
+  - Vivi **Valga 14:28 → Sigulda 15:58**, **€6.30** — **78 tickets available**
+  The change at Valga is **14 minutes**, not the 0 the stop list implies (14:14 arrive / 14:28 depart, same train number 873 continuing). Trade-off: the split forfeits through-ticket protection if the Elron leg runs late.
+- ⚠️ **Rail replacement bus, Elva–Valga.** Elron's own search for **28 Sep 2026** carries *"Between Elva - Valga the train service is replaced by bus."* Unclear whether it hits the 13:05 through service — that one shows **1h09** vs 1h22–1h42 for the others, which suggests it may run as a train. **Confirm on Elron's travel-alerts page before relying on the Valga connection.**
+- **No bus alternative exists for the Gauja stops.** FlixBus has no city entry for Sigulda, Valmiera or Cēsis at all; its Tartu→Rīga coach is **7h40 / €21.49** and skips them. Lux Express's Tartu–Rīga route lists only **Valga** in Latvia. Rail is the only way into Gauja from the north.
 - 🚨 **Only 16 seats on the Rīga–Vilnius leg are reserved for Elron through-ticket holders** (carriage 2, seats 37–70 odd/even block). Book that leg early or you may not get the through fare.
 - Elron seats are **unreserved** except First Class. Rīga–Vilnius is fully numbered.
 - Bicycles need a separate ticket; online purchase guarantees the space.
