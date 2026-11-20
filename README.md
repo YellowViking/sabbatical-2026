@@ -9,6 +9,8 @@ Long, solo, budget, train-first trips, planned with AI agents and browser automa
 | [**Europe 2026**](trips/europe-2026/README.md) · [budget forecast](trips/europe-2026/budget-forecast.md) · [actual spend](trips/europe-2026/budget-actual.md): Scandinavia → Baltics → Central Europe → Slovenia/Croatia → Italy → Sicily | 24 Aug – 20 Nov 2026 (89 days, one Schengen stint) | Denmark, Sweden, Norway, Finland, Estonia, Latvia, Lithuania, Poland, Czechia, Austria, Croatia, Slovenia, Italy | ✅ Done |
 | [**Latin America**](trips/latam/README.md) | — | — | 🧭 Next: planning |
 
+[![Europe 2026 route map](trips/europe-2026/europe-route.svg)](trips/europe-2026/README.md)
+
 ## City and region guides (Europe 2026)
 
 | Region | Guides |
@@ -40,6 +42,7 @@ Long, solo, budget, train-first trips, planned with AI agents and browser automa
 | [`skills/google-ai-mode-research`](skills/google-ai-mode-research/) | Fast research with Google AI Mode in a signed-in browser (always confirmed on official sites) |
 | [`skills/google-sheets-edit`](skills/google-sheets-edit/) | Read and write a Google Sheet from a signed-in browser, with no OAuth setup |
 | [`skills/card-expense-sync`](skills/card-expense-sync/) | Pull card transactions, sort them into food, lodging, transport and other, and spread hotel costs per night. Personal data stays outside the repo |
+| [`tools/route-map`](tools/route-map/make_map.py) | Draws a trip's route map as an SVG (stops numbered, legs coloured by mode, light and dark mode, optional zoomed inset) from Natural Earth outlines |
 | [`or-cost-monitor/`](or-cost-monitor/) | A VS Code extension showing real-time OpenRouter API spend |
 
 ## How a trip is planned

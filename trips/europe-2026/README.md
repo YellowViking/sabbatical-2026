@@ -4,7 +4,9 @@
 
 The route ran north-west to south-east through countries I hadn't visited before. It went from Copenhagen up the Norwegian coast and fjords, back through Stockholm and by ferry via Helsinki to the Baltics, overland through Poland, Czechia and Austria, then Croatia and Slovenia, and down Italy to Sicily. It ended with the flight home from Palermo the day before the Schengen limit ran out. Each place has a guide in [`guides/`](guides/) covering food, beer, sights, hikes, transport and where to sleep.
 
-![Baltic train route](baltic-train-route.svg)
+![Europe 2026 route map: Copenhagen to Palermo by train, bus, ferry, flight and a fjord road trip](europe-route.svg)
+
+The Baltic rail leg in detail: [baltic-train-route.svg](baltic-train-route.svg).
 
 ## Route as travelled
 
