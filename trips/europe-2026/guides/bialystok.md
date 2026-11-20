@@ -2,7 +2,7 @@
 
 *~4 zł ≈ $1. Prices and ratings checked Oct 2026.* A good overnight break on the rail route from Lithuania into Poland: compact centre, free palace gardens, Podlasie food (*kartacze*, potato babka, Tatar dishes) and a solid beer scene.
 
-**Related:** Prev: [vilnius-local-food.md](vilnius.md) · Next: [wroclaw-local-food.md](wroclaw.md) · Trip record: [../trip-log.md](../trip-log.md)
+**Related:** Prev: [vilnius-local-food.md](vilnius.md) · Next: [wroclaw-local-food.md](wroclaw.md) · Trip record: [../trip-log.md](../README.md)
 
 ---
 

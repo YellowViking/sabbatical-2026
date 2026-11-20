@@ -2,7 +2,7 @@
 
 *~4 zł ≈ $1. Prices checked Oct 2026.* A lively Old Town with a huge market square, bronze dwarfs everywhere, Ostrów Tumski's gas lamps lit by hand at dusk, and one of Poland's best craft-beer scenes. Cheaper than Prague for beds by about half.
 
-**Related:** Prev: [bialystok-local-food.md](bialystok.md) · Next: [prague-local-food.md](prague.md) · Trip record: [../trip-log.md](../trip-log.md)
+**Related:** Prev: [bialystok-local-food.md](bialystok.md) · Next: [prague-local-food.md](prague.md) · Trip record: [../trip-log.md](../README.md)
 
 ---
 

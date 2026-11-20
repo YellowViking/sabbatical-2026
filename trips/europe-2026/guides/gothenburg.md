@@ -158,7 +158,7 @@ For a longer stay: Vrångö / Styrsö full day, Delsjön 8 km loop, Skatås.
 | **Hotel Royal** | Inom Vallgraven | ~9.0–9.1 | — | 145–196 | Private room | Göteborg C ~3–5m | Most central private · breakfast · Saluhallen 5m | [Maps](https://www.google.com/maps/search/?api=1&query=Hotel+Royal+Gothenburg) |
 | **Le Mat B&B** | near Avenyn | ~8.4 | — | ~93 | Private room | Valand tram ~2m | Boutique, organic breakfast | [Maps](https://www.google.com/maps/search/?api=1&query=Le+Mat+B%26B+G%C3%B6teborg) |
 
-Bed-privacy method: [hostel-bed-privacy-check.md](hostel-bed-privacy-check.md). Bring earplugs.
+Bed-privacy method: hostel-bed-privacy-check.md. Bring earplugs.
 
 | You want | Pick |
 |---|---|

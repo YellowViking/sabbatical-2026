@@ -1,6 +1,6 @@
 # Sicily guide
 
-Reference for a budget, solo, car-free trip around eastern and northern Sicily in late autumn, built from research and travel in Nov 2026. The mainland is in [italy-guide.md](italy.md); what actually happened on the 2026 trip is in [../trip-log.md](../trip-log.md).
+Reference for a budget, solo, car-free trip around eastern and northern Sicily in late autumn, built from research and travel in Nov 2026. The mainland is in [italy-guide.md](italy.md); what actually happened on the 2026 trip is in [../trip-log.md](../README.md).
 
 Picks follow these preferences: outdoors and free first, no churches, pay only for unique sights. All prices are Nov 2026 unless stated.
 

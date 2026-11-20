@@ -2,7 +2,7 @@
 
 *Checked Oct 2026.* Cheap, student-heavy, and right on the direct Prague–Vienna–Graz railjet line, so it breaks the long run south for little extra cost. **Most indoor sights close on Mondays**: arrive on a Monday for an outdoor/viewpoint afternoon and do the underground sights on Tuesday morning.
 
-**Related:** Prev: [prague-local-food.md](prague.md) · Next: [graz-local-food.md](graz.md) · Trip record: [../trip-log.md](../trip-log.md)
+**Related:** Prev: [prague-local-food.md](prague.md) · Next: [graz-local-food.md](graz.md) · Trip record: [../trip-log.md](../README.md)
 
 ---
 

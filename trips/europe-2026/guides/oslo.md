@@ -144,7 +144,7 @@ Oslo is expensive: husmannskost cafeterias and takeaway fish beat harbour terrac
 | **Citybox Oslo** ⭐ private | Sentrum by Oslo S | ~8.1 Booking · 4.2 Google | — | **85–116** | Private room | Oslo S ~4m; tram at the door | Self check-in · no dorms · guest kitchen | [Maps](https://www.google.com/maps/search/?api=1&query=Citybox+Oslo) |
 | **Cochs Pensjonat** | Frogner / by the Palace park | 8.3–8.7 (Booking 8.3 / 3,433; location 9.4) | — | **68–114** | Private room | Welhavens gate tram ~2m | Historic · kitchenettes · 24-hour desk · Vigeland side · no guest laundry advertised | [Maps](https://www.google.com/maps/search/?api=1&query=Cochs+Pensjonat+Oslo) |
 
-Bed-privacy method: [hostel-bed-privacy-check.md](hostel-bed-privacy-check.md). Bring earplugs.
+Bed-privacy method: hostel-bed-privacy-check.md. Bring earplugs.
 
 | You want | Pick |
 |---|---|

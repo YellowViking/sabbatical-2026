@@ -1,6 +1,6 @@
 # Italy guide: mainland, north to south
 
-Reference for a budget, solo, train-based trip through mainland Italy in autumn, built from research in Oct–Nov 2026. Sicily has its own guide: [sicily-guide.md](sicily.md). Trieste: [trieste-local-food.md](trieste.md). What actually happened on the 2026 trip: [../trip-log.md](../trip-log.md).
+Reference for a budget, solo, train-based trip through mainland Italy in autumn, built from research in Oct–Nov 2026. Sicily has its own guide: [sicily-guide.md](sicily.md). Trieste: [trieste-local-food.md](trieste.md). What actually happened on the 2026 trip: [../trip-log.md](../README.md).
 
 Picks follow these preferences: outdoors and free first; no churches (church sights are marked as such); pay only for a sight that nothing later on the route does better (skip the Verona Arena for the Colosseum, Giardino Giusti for Boboli, Roman theatres for Pompeii).
 

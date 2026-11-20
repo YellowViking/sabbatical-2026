@@ -160,7 +160,7 @@ Screened out (Aug 2026): Sleep in Heaven (cheapest at ~$38/n but Booking 7.4 and
 
 **Gotcha:** Booking's Copenhagen hostel headline prices **exclude the 25% VAT**. Open the room table (or the direct site) before comparing.
 
-Bed privacy was checked against official sites and Booking text, not just AI summaries; see [hostel-bed-privacy-check.md](hostel-bed-privacy-check.md). Bring earplugs.
+Bed privacy was checked against official sites and Booking text, not just AI summaries; see hostel-bed-privacy-check.md. Bring earplugs.
 
 | You want | Pick |
 |---|---|

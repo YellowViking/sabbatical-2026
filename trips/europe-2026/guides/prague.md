@@ -2,7 +2,7 @@
 
 *~25 Kč ≈ €1. Prices checked Oct 2026.* Beds cost about twice Wrocław's; central private rooms ran €80+/night on every channel for an October weekend, so the good-value move is a curtained hostel dorm in Vinohrady and spending on tank Pilsner and svíčková instead.
 
-**Related:** Prev: [wroclaw-local-food.md](wroclaw.md) · Next: [brno-local-food.md](brno.md) · [graz-local-food.md](graz.md) · Trip record: [../trip-log.md](../trip-log.md)
+**Related:** Prev: [wroclaw-local-food.md](wroclaw.md) · Next: [brno-local-food.md](brno.md) · [graz-local-food.md](graz.md) · Trip record: [../trip-log.md](../README.md)
 
 ---
 

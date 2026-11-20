@@ -21,4 +21,4 @@ A short rule for flights and hotels: before booking, compare the points or miles
 ## Related
 
 - Award search tools and endpoints are listed in the repo's `AGENTS.md`, in the "Known structured paths" table.
-- See [Hyatt in Scandinavia](hyatt-scandinavia.md) for a worked hotel example, and the [trip log](../trips/europe-2026/README.md) for what was actually booked.
+- See [Hyatt in Scandinavia](hyatt-points-scandinavia.md) for a worked hotel example, and the [trip log](../trips/europe-2026/README.md) for what was actually booked.
