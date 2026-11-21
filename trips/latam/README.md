@@ -36,33 +36,39 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Bolivia, Brazil, Uruguay, Paraguay | Rainy or hot and humid; Carnival is about 5–10 Feb 2027 |
 | Argentina's north-west (Salta, Jujuy) | Summer rains: better in another season |
 
-## Draft route v2 (21 Nov 2026): modelled, not hand-picked
+## Draft route v3 (21 Nov 2026): consensus days, 2-week floating buffer
 
 **How it was chosen:**
-- [`tools/route-optimizer/opt.py`](../../tools/route-optimizer/opt.py) tries every order of the regions (10,080 feasible routes).
-- It scores **expected wet days**, using each region's wet-day share per month from Open-Meteo 10-year normals, plus **2 wet-day equivalents per 1,000 km flown**.
-- It adds a travel day per long hop and keeps everything inside 1 Dec → 15 Mar.
-- **Priority regions (Brazil, Nicaragua) get guaranteed room and the most days. "Priority" doesn't mean visiting them first.**
+- [`tools/route-optimizer/opt.py`](../../tools/route-optimizer/opt.py) tries every order of the regions and every start day from 1 to 20 Dec.
+- It scores **expected wet days**, using each region's wet-day share per month from Open-Meteo 10-year normals, plus **2 wet-day equivalents per 1,000 km flown**. It adds a travel day per long hop.
+- **Days per region are the backpacker consensus only, not padded.** Brazil's come from blogs, Reddit and Hostelworld. The other regions are provisional until that research is in.
+- **A 2-week buffer floats.** The plan must end 14 days before 15 Mar, so the buffer can go wherever the trip needs it: weather, a trek, a place worth staying longer. The rest of the slack means a later start in December or an earlier return in March. Days aren't stretched to fill the window.
+- Priority regions (Brazil, Nicaragua) are guaranteed a place. "Priority" doesn't mean visiting them first.
 
-| ≈ Dates | Region | Days | Wet-day share then |
+| ≈ Dates | Region | Days (consensus) | Wet-day share then |
 |---|---|---|---|
-| 2 → 14 Dec | **Cuba** (Havana, Viñales, Cienfuegos, Trinidad) | 12 | 17% |
-| 15 → 23 Dec | **Brazil: far north-east** (Jericoacoara, Lençóis Maranhenses, Fortaleza) | 8 | 41%, its only dry window |
-| 23 → 30 Dec | **Brazil: Pipa, Recife/Olinda** (Christmas) | 7 | 65% |
-| 30 Dec → 7 Jan | **Brazil: Salvador + Chapada Diamantina** (New Year) | 8 | 50–61% |
-| 7 → 18 Jan | **Brazil: Rio, Paraty, Iguaçu** | 11 | 59% |
-| 19 → 28 Jan | **Atacama + Uyuni** (mirror season) | 9 | 33% |
-| 29 Jan → 6 Feb | **Panama** (Panama City, Pacific islands, Boquete) | 8 | 22–35% |
-| 6 → 16 Feb | **Costa Rica** (Pacific coast, Central Valley, Monteverde) | 10 | its best weeks |
-| 16 Feb → 4 Mar | **Nicaragua** (Ometepe, Granada, León) | 16 | 22–23% |
-| 4 → 11 Mar | **Honduras** (Copán Ruinas, Utila; backpacker route only) | 7 | 33%, its best month |
+| 5 → 15 Dec | **Cuba** (Havana 3, Viñales 2, Cienfuegos 1, Trinidad 3) | 10 | 17% |
+| 16 → 20 Dec | **Brazil: Fortaleza → Jericoacoara** | 4 | 41% |
+| 20 → 24 Dec | **Brazil: Pipa, Recife/Olinda** | 4 | 65% |
+| 24 Dec → 1 Jan | **Brazil: Salvador + Chapada Diamantina** (Christmas; New Year at Salvador's free Festival Virada) | 8 | 50–61% |
+| 1 → 10 Jan | **Brazil: Rio 4, Paraty/Ilha Grande 3, Iguaçu 2** | 9 | 59% |
+| 11 → 18 Jan | **Atacama + the 3-day jeep tour to Uyuni** | 7 | 33% |
+| 19 → 26 Jan | **Panama** (Panama City, Boquete, Pacific islands) | 7 | 35% |
+| 26 Jan → 5 Feb | **Costa Rica** | 10 | 57→50% |
+| 5 → 17 Feb | **Nicaragua** (León, Granada, Ometepe, San Juan del Sur) | 12 | 22% |
+| 17 → 24 Feb | **Honduras** (Copán Ruinas, Utila; backpacker route only) | 7 | 42% |
 
-- **Total:** 96 days of content plus travel days; it ends 11 Mar, with 4 days spare.
-- **Runner-up:** start in Brazil on 1 Dec and put Cuba at the end (26 Feb – 10 Mar). That's +1.1 expected wet days and +~900 km.
+- **Total:** 78 days of content plus 4 travel days. Leave ~4 Dec (any day 1–10 Dec scores about the same) and finish ~24 Feb. That leaves **20 days free: the 14-day buffer plus 6 more**, to start later or come home in early March.
+- **Where the buffer is likely to go:**
+  - Lençóis Maranhenses: its lagoons are mostly dry in December, so it's an add-on (dunes and a few lagoons that hold water all year), not a fixed stop.
+  - Chapada's Vale do Pati trek (+2–3 days).
+  - The Petrópolis–Teresópolis traverse or the Ilha Grande circuit near Rio.
+  - Spending buffer early pushes Central America later, into its drier February–March weeks.
+- **Runner-up:** start in Brazil on 1 Dec and put Cuba last. That's the same number of wet days, +~860 km.
 - **Still to do:**
-  - Replace the day estimates with traveller consensus.
-  - Confirm Cuba for the traveller's passport; if it drops out, Brazil gets the 12 days.
-  - Sweep flights for the 4–5 long hops.
+  - Replace the provisional days (Cuba, Atacama/Uyuni, Central America) with the consensus once the research is in.
+  - Confirm Cuba for the traveller's passport.
+  - Sweep flights for the long hops.
 
 **Costa Rica and Panama, wet-day %** (Dec / Jan / Feb / Mar):
 - Guanacaste 30/18/**12**/21
