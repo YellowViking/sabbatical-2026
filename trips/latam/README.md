@@ -36,18 +36,44 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Bolivia, Brazil, Uruguay, Paraguay | Rainy or hot and humid; Carnival is about 5–10 Feb 2027 |
 | Argentina's north-west (Salta, Jujuy) | Summer rains: better in another season |
 
-## Draft route v1 (21 Nov 2026): brand-new countries first, ordered by season
+## Draft route v2 (21 Nov 2026): modelled, not hand-picked
 
-**Rules:**
-- Countries never visited come first, and seasonality sets the order (10-year normals below).
-- **Brazil is the priority.** **Nicaragua for sure.** **Honduras** only along the easy backpacker route.
-- **Patagonia is deprioritized**, since it was just visited.
+**How it was chosen:**
+- [`tools/route-optimizer/opt.py`](../../tools/route-optimizer/opt.py) tries every order of the regions (10,080 feasible routes).
+- It scores **expected wet days**, using each region's wet-day share per month from Open-Meteo 10-year normals, plus **2 wet-day equivalents per 1,000 km flown**.
+- It adds a travel day per long hop and keeps everything inside 1 Dec → 15 Mar.
+- **Priority regions (Brazil, Nicaragua) get guaranteed room and the most days. "Priority" doesn't mean visiting them first.**
 
-| Phase | Dates (≈) | Where | Why then |
+| ≈ Dates | Region | Days | Wet-day share then |
 |---|---|---|---|
-| 1. **Brazil**, north-east → south | 1 Dec → ≈ 12 Jan | Lençóis Maranhenses / Jericoacoara → Fortaleza → Pipa/Natal → Recife/Olinda → Salvador + Chapada Diamantina → **Rio** (Christmas / New Year) → Paraty/Ilha Grande → **Iguaçu falls** | December is the **only dry window for the far north-east** (Jeri/Lençóis 39–41% wet days, rising to 88–96% by Feb–Mar). Rio and Iguaçu are the same all season, and the falls are fullest in summer |
-| 2. **Atacama (Chile) + Uyuni (Bolivia)** | ≈ 12 → 28 Jan | Santiago/Valparaíso (optional) → San Pedro de Atacama → 3-day jeep crossing → **Salar de Uyuni** in its rainy-season **mirror** | Atacama is still mostly dry in Jan (11%); Uyuni's mirror shows when water sits on the salt (Jan–Mar) |
-| 3. **Central America**, south → north | ≈ 28 Jan → mid-Mar | **Panama** (Boquete, Panama City, San Blas) → **Costa Rica**, dry Pacific side → **Nicaragua** (Ometepe, Granada, León) → **Honduras** (Copán Ruinas, Utila) → fly home | The dry season **deepens toward March**: León 3–8%, Boquete 26–30%, Utila/Copán at their best in March (30–35%). It also ends close to Seattle |
+| 2 → 14 Dec | **Cuba** (Havana, Viñales, Cienfuegos, Trinidad) | 12 | 17% |
+| 15 → 23 Dec | **Brazil: far north-east** (Jericoacoara, Lençóis Maranhenses, Fortaleza) | 8 | 41%, its only dry window |
+| 23 → 30 Dec | **Brazil: Pipa, Recife/Olinda** (Christmas) | 7 | 65% |
+| 30 Dec → 7 Jan | **Brazil: Salvador + Chapada Diamantina** (New Year) | 8 | 50–61% |
+| 7 → 18 Jan | **Brazil: Rio, Paraty, Iguaçu** | 11 | 59% |
+| 19 → 28 Jan | **Atacama + Uyuni** (mirror season) | 9 | 33% |
+| 29 Jan → 6 Feb | **Panama** (Panama City, Pacific islands, Boquete) | 8 | 22–35% |
+| 6 → 16 Feb | **Costa Rica** (Pacific coast, Central Valley, Monteverde) | 10 | its best weeks |
+| 16 Feb → 4 Mar | **Nicaragua** (Ometepe, Granada, León) | 16 | 22–23% |
+| 4 → 11 Mar | **Honduras** (Copán Ruinas, Utila; backpacker route only) | 7 | 33%, its best month |
+
+- **Total:** 96 days of content plus travel days; it ends 11 Mar, with 4 days spare.
+- **Runner-up:** start in Brazil on 1 Dec and put Cuba at the end (26 Feb – 10 Mar). That's +1.1 expected wet days and +~900 km.
+- **Still to do:**
+  - Replace the day estimates with traveller consensus.
+  - Confirm Cuba for the traveller's passport; if it drops out, Brazil gets the 12 days.
+  - Sweep flights for the 4–5 long hops.
+
+**Costa Rica and Panama, wet-day %** (Dec / Jan / Feb / Mar):
+- Guanacaste 30/18/**12**/21
+- Central Valley 37/24/**18**/25
+- Manuel Antonio 47/29/**25**/30
+- Monteverde 69/60/49/**45**
+- Arenal, Osa and the Caribbean coast 71–95% all window, with rainfall halving by Feb–Mar
+- Panama City 62/32/**22**/34
+- Pacific islands 73/38/**14**/18
+- Boquete 55/36/30/**26**
+- Bocas del Toro and San Blas 72–98%
 
 **Big events:**
 - **New Year in Rio** (Réveillon at Copacabana) fills beds and raises prices, so book early or spend it in Paraty or Salvador.

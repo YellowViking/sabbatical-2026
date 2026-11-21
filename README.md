@@ -42,6 +42,7 @@ Long, solo, budget, train-first trips, planned with AI agents and browser automa
 | [`skills/google-ai-mode-research`](skills/google-ai-mode-research/) | Fast research with Google AI Mode in a signed-in browser (always confirmed on official sites) |
 | [`skills/google-sheets-edit`](skills/google-sheets-edit/) | Read and write a Google Sheet from a signed-in browser, with no OAuth setup |
 | [`skills/card-expense-sync`](skills/card-expense-sync/) | Pull card transactions, sort them into food, lodging, transport and other, and spread hotel costs per night. Personal data stays outside the repo |
+| [`tools/route-optimizer`](tools/route-optimizer/opt.py) | Tries every order of a trip's regions and picks the one with the fewest expected wet days (Open-Meteo 10-year normals) and the least flying, inside the date window |
 | [`tools/route-map`](tools/route-map/make_map.py) | Draws a trip's route map as an SVG (stops numbered, legs coloured by mode, light and dark mode, optional zoomed inset) from Natural Earth outlines |
 | [`or-cost-monitor/`](or-cost-monitor/) | A VS Code extension showing real-time OpenRouter API spend |
 
