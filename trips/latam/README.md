@@ -17,7 +17,7 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Guatemala | twice, latest 2024 | Guatemala City, Antigua, Tikal |
 | Mexico | 2016 · 2022 · Mar – Apr 2025 | Cancún area (2016; a week of remote work there in 2022) · Querétaro, San Miguel de Allende, Guanajuato, Oaxaca, Puebla, Mexico City (2025) |
 | Belize | 2016 | |
-| Argentina | Dec 2025 – Jan 2026 | Buenos Aires, Mendoza, Bariloche, El Calafate, El Chaltén |
+| Argentina | earlier trips · Dec 2025 – Jan 2026 | Ushuaia / Tierra del Fuego (visited extensively) · Buenos Aires, Mendoza, Bariloche, El Calafate, El Chaltén |
 | Transit only | | Panama (airport stopover), Honduras (connection) |
 
 **Lessons from Argentina, Dec 2025 – Jan 2026:**
@@ -31,7 +31,6 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Region | Conditions |
 |---|---|
 | **Chile** top to bottom: Atacama, Santiago/Valparaíso, the lakes and Chiloé, the Carretera Austral, Torres del Paine, Punta Arenas | Summer. Chile's own holiday peak is Jan–Feb; late Feb–March is shoulder season |
-| **Tierra del Fuego / Ushuaia** | Summer. Connects to Torres del Paine through Punta Arenas |
 | **Southern Mexico:** Chiapas (San Cristóbal, Palenque, Sumidero Canyon); the Tren Maya beyond Cancún (Mérida, Campeche, Bacalar) | Dry season |
 | **Honduras** (Copán, Utila), **Nicaragua** (León, Ometepe), **Costa Rica**, **Panama** (Boquete, San Blas) | Dry season. Costa Rica's cloud forest stays changeable |
 | Bolivia, Brazil, Uruguay, Paraguay | Rainy or hot and humid; Carnival is about 5–10 Feb 2027 |
