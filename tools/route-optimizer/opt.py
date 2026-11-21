@@ -8,17 +8,19 @@ import itertools, math, datetime as dt
 # monthly expected wet-day share (Dec,Jan,Feb,Mar) from Open-Meteo 2016-2025 normals (representative places averaged)
 W={'BR far NE (Jeri, Lençóis, Fortaleza)':(41,76,89,94),'BR NE coast (Pipa, Recife/Olinda)':(65,70,73,80),'BR Bahia (Salvador, Chapada Diamantina)':(50,61,58,59),
    'BR south-east (Rio, Paraty, Iguaçu)':(54,59,57,51),'Atacama + Uyuni':(16,33,37,18),'Cuba':(17,22,19,20),'Panama':(63,35,22,26),'Costa Rica':(67,57,50,52),'Nicaragua':(41,28,22,23),'Honduras (Copán, Utila)':(62,49,42,33)}
-# consensus days. Brazil from blogs/Reddit/Hostelworld (21 Nov 2026); the rest provisional until research lands.
-D={'BR far NE (Jeri, Lençóis, Fortaleza)':4,      # Fortaleza→Jeri 1 + Jeri 3; Lençóis lagoons are dry in Dec, so it's an optional buffer add-on
+# consensus (typical) days from the 21 Nov 2026 research: blogs, Reddit, Wikivoyage, Hostelworld, Nomadic Matt, Broke Backpacker
+D={'BR far NE (Jeri, Lençóis, Fortaleza)':4,      # Fortaleza→Jeri 1 + Jeri 3; Lençóis lagoons are dry in Dec (optional, +3)
    'BR NE coast (Pipa, Recife/Olinda)':4,         # Pipa 2-3 ("11 days excessive"), Olinda 1-2
-   'BR Bahia (Salvador, Chapada Diamantina)':8,   # Salvador 3, Chapada ≥4 nights (Vale do Pati 4-5 days)
+   'BR Bahia (Salvador, Chapada Diamantina)':8,   # Salvador 3, Chapada ≥4 nights (Vale do Pati +2-3)
    'BR south-east (Rio, Paraty, Iguaçu)':9,       # Rio 4, Paraty/Ilha Grande 2-3, Iguaçu 2
-   'Atacama + Uyuni':7,                           # San Pedro 3-4 + the 3-day jeep tour to Uyuni (provisional)
-   'Cuba':10,                                     # Havana 3, Viñales 2, Cienfuegos 1, Trinidad 3 (provisional)
-   'Panama':7,                                    # Panama City 2, Boquete 3, Pacific islands 2 (provisional)
-   'Costa Rica':10,                               # the classic 10-day loop (provisional)
-   'Nicaragua':12,                                # León 3, Granada 2, Ometepe 3, San Juan del Sur 3 + 1 (provisional)
-   'Honduras (Copán, Utila)':7}                   # Copán 2, Utila 4, + a transit day (provisional)
+   'Atacama + Uyuni':8,                           # San Pedro 3-4 nights, 3-day jeep tour ending in Uyuni, +1 spare Uyuni day (La Paz optional, +3)
+   'Cuba':10,                                     # Havana 3, Viñales 3, Trinidad 4, Cienfuegos as a stop on the way
+   'Panama':6,                                    # Boquete 4, Panama City 2 (San Blas optional, +3)
+   'Costa Rica':3,                                # backpackers mostly pass through (a classic CR loop would be ~10)
+   'Nicaragua':14,                                # León 4, Granada 2, Ometepe 3-4, Somoto 1-2, San Juan del Sur 2
+   'Honduras (Copán, Utila)':8}                   # León→Copán transit 1, Copán 2, La Ceiba night 1, Utila 4 (Lake Yojoa optional, +2)
+import os
+for r in filter(None,os.environ.get('DROP','').split(',')): D.pop(r,None); W.pop(r,None)
 C={'SEA':(47.6,-122.3),'BR far NE (Jeri, Lençóis, Fortaleza)':(-3.7,-38.5),'BR NE coast (Pipa, Recife/Olinda)':(-7,-35),'BR Bahia (Salvador, Chapada Diamantina)':(-12.97,-39.5),
    'BR south-east (Rio, Paraty, Iguaçu)':(-23.5,-46),'Atacama + Uyuni':(-21.5,-67.5),'Cuba':(22,-80),'Panama':(9,-79.5),'Costa Rica':(10,-84.3),'Nicaragua':(12.4,-86.5),'Honduras (Copán, Utila)':(15.5,-88)}
 BR=['BR far NE (Jeri, Lençóis, Fortaleza)','BR NE coast (Pipa, Recife/Olinda)','BR Bahia (Salvador, Chapada Diamantina)','BR south-east (Rio, Paraty, Iguaçu)']
@@ -38,7 +40,7 @@ def evaluate(seq,start):
         legs.append((b,s,day)); prev=b
     tot+=km(prev,'SEA')
     return wet, tot, day, legs
-others=['Atacama + Uyuni','Cuba','Panama','Costa Rica','Nicaragua','Honduras (Copán, Utila)']
+others=[r for r in ['Atacama + Uyuni','Cuba','Panama','Costa Rica','Nicaragua','Honduras (Copán, Utila)'] if r in D]
 res=[]
 for off in range((START_MAX-START).days+1):
     start=START+dt.timedelta(days=off)

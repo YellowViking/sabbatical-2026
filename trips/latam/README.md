@@ -41,34 +41,72 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 **How it was chosen:**
 - [`tools/route-optimizer/opt.py`](../../tools/route-optimizer/opt.py) tries every order of the regions and every start day from 1 to 20 Dec.
 - It scores **expected wet days**, using each region's wet-day share per month from Open-Meteo 10-year normals, plus **2 wet-day equivalents per 1,000 km flown**. It adds a travel day per long hop.
-- **Days per region are the backpacker consensus only, not padded.** Brazil's come from blogs, Reddit and Hostelworld. The other regions are provisional until that research is in.
-- **A 2-week buffer floats.** The plan must end 14 days before 15 Mar, so the buffer can go wherever the trip needs it: weather, a trek, a place worth staying longer. The rest of the slack means a later start in December or an earlier return in March. Days aren't stretched to fill the window.
-- Priority regions (Brazil, Nicaragua) are guaranteed a place. "Priority" doesn't mean visiting them first.
+- **Days per region are the typical backpacker stay** (blogs, Reddit, Wikivoyage, Hostelworld, Nomadic Matt, The Broke Backpacker; researched 21 Nov 2026). Nothing is padded to fill the window.
+- **A 2-week buffer floats.** The plan must end 14 days before 15 Mar, so the buffer can go wherever the trip needs it. Any other slack means a later start or an earlier return.
 
-| ≈ Dates | Region | Days (consensus) | Wet-day share then |
-|---|---|---|---|
-| 5 → 15 Dec | **Cuba** (Havana 3, Viñales 2, Cienfuegos 1, Trinidad 3) | 10 | 17% |
-| 16 → 20 Dec | **Brazil: Fortaleza → Jericoacoara** | 4 | 41% |
-| 20 → 24 Dec | **Brazil: Pipa, Recife/Olinda** | 4 | 65% |
-| 24 Dec → 1 Jan | **Brazil: Salvador + Chapada Diamantina** (Christmas; New Year at Salvador's free Festival Virada) | 8 | 50–61% |
-| 1 → 10 Jan | **Brazil: Rio 4, Paraty/Ilha Grande 3, Iguaçu 2** | 9 | 59% |
-| 11 → 18 Jan | **Atacama + the 3-day jeep tour to Uyuni** | 7 | 33% |
-| 19 → 26 Jan | **Panama** (Panama City, Boquete, Pacific islands) | 7 | 35% |
-| 26 Jan → 5 Feb | **Costa Rica** | 10 | 57→50% |
-| 5 → 17 Feb | **Nicaragua** (León, Granada, Ometepe, San Juan del Sur) | 12 | 22% |
-| 17 → 24 Feb | **Honduras** (Copán Ruinas, Utila; backpacker route only) | 7 | 42% |
+**Typical days per region (short / typical / full):**
 
-- **Total:** 78 days of content plus 4 travel days. Leave ~4 Dec (any day 1–10 Dec scores about the same) and finish ~24 Feb. That leaves **20 days free: the 14-day buffer plus 6 more**, to start later or come home in early March.
-- **Where the buffer is likely to go:**
-  - Lençóis Maranhenses: its lagoons are mostly dry in December, so it's an add-on (dunes and a few lagoons that hold water all year), not a fixed stop.
-  - Chapada's Vale do Pati trek (+2–3 days).
-  - The Petrópolis–Teresópolis traverse or the Ilha Grande circuit near Rio.
-  - Spending buffer early pushes Central America later, into its drier February–March weeks.
-- **Runner-up:** start in Brazil on 1 Dec and put Cuba last. That's the same number of wet days, +~860 km.
-- **Still to do:**
-  - Replace the provisional days (Cuba, Atacama/Uyuni, Central America) with the consensus once the research is in.
-  - Confirm Cuba for the traveller's passport.
-  - Sweep flights for the long hops.
+| Region | Short | Typical | Full | Notes |
+|---|---|---|---|---|
+| Brazil: Fortaleza → Jericoacoara | 3 | 4 | 5 | Lençóis Maranhenses +3 optional: its lagoons are mostly dry in December |
+| Brazil: Pipa + Olinda | 3 | 4 | 5 | "11 days was excessive" |
+| Brazil: Salvador + Chapada Diamantina | 6 | 8 | 10 | Chapada ≥ 4 nights; the Vale do Pati trek is 4–5 days |
+| Brazil: Rio + Paraty/Ilha Grande + Iguaçu | 8 | 9 | 13 | Rio 4, Paraty/Ilha Grande 2–3, Iguaçu 2; add the Petrópolis–Teresópolis traverse or the Ilha Grande circuit for full |
+| Atacama + Uyuni | 6 | 8 | 9 | San Pedro 3–4 nights → the 3-day jeep tour ending in Uyuni → a spare Uyuni day (mirror effect and rain closures). La Paz +3 optional; leave Titicaca and the rest of Bolivia for May–Oct |
+| Cuba | 8 | 10 | 14 | Havana 3, Viñales 3, Trinidad 4, Cienfuegos on the way; skip Santiago |
+| Panama | 4 | 6 | 9 | Boquete 4, Panama City 2; San Blas +3 optional |
+| Costa Rica | 1 | 3 | 5 | Backpackers mostly pass through: it's the dearest country on the route. A classic Costa Rica loop would be ~10 |
+| Nicaragua | 10 | 14 | 21 | León 4, Granada 2, Ometepe 3–4, Somoto 1–2, San Juan del Sur 2 |
+| Honduras | 6 | 8 | 10 | León → Copán transit 1, Copán 2, a night in La Ceiba, Utila 4 (a dive course takes ~4 days); Lake Yojoa +2 optional |
+| **Total** | **55** | **74** | **101** | Without Cuba: 64 typical |
+
+**Best route with Cuba (74 days plus travel, ≈14 Dec → 2 Mar):**
+
+| ≈ Dates | Region | Days |
+|---|---|---|
+| 15 → 25 Dec | Cuba | 10 |
+| 26 → 30 Dec | Brazil: Fortaleza → Jericoacoara | 4 |
+| 30 Dec → 3 Jan | Brazil: Pipa, Recife/Olinda (New Year) | 4 |
+| 3 → 11 Jan | Brazil: Salvador + Chapada Diamantina | 8 |
+| 11 → 20 Jan | Brazil: Rio, Paraty, Iguaçu | 9 |
+| 21 → 29 Jan | Atacama + Uyuni | 8 |
+| 30 Jan → 5 Feb | Panama | 6 |
+| 5 → 8 Feb | Costa Rica | 3 |
+| 8 → 22 Feb | Nicaragua | 14 |
+| 22 Feb → 2 Mar | Honduras | 8 |
+
+- Any start from 1 to 14 Dec scores about the same. Starting on 1 Dec ends about 17 Feb.
+- **Without Cuba (64 days plus travel):** Brazil on 2–27 Dec (Rio at Christmas), Atacama/Uyuni over New Year, then Panama → Costa Rica → Nicaragua → Honduras, ending about 6 Feb if you leave on 1 Dec. Any start from 1 to 20 Dec scores about the same.
+
+**Cuba is CAUTION, close to NO-GO for budget independent travel (official sources, 21 Nov 2026):**
+- US law still allows "Support for the Cuban People" travel. Since 30 Sep 2026, though, even indirect deals with Restricted List entities are banned (GAESA, CIMEX, Gaviota, many hotels). In practice that means private casas and private businesses only.
+- US cards don't work. The UK says no foreign Visa or Mastercard works at all, so bring all your cash.
+- Blackouts last up to 12 h a day in Havana. There's no jet fuel at the main airports through 1 Dec (the notice has been renewed monthly), and Havana–province buses fell from 419 a day to 11.
+- The UK advises against all but essential travel, and Canada against non-essential travel.
+- Entry: an eVisa (evisacuba.cu), the D'Viajeros form within 72 h of arrival, and an onward ticket.
+- Copa flies Havana–Panama about 3 times a day, so Cuba connects through Panama.
+- **Decide in early January**, against the airport fuel notices and the UK/Canada advisories.
+
+**Getting around between regions:**
+- **Brazil:** fly Recife → Salvador, Salvador → Rio and Rio → Foz do Iguaçu. Buses only for trips under 8 h, bought at the station (online booking needs a Brazilian tax ID).
+- **Into Atacama:** fly to Calama via Santiago.
+- **Out of Bolivia:** Uyuni → La Paz (flight ~$125 or bus ~$43), then Santa Cruz → Panama City (Copa or Boliviana). There's no direct La Paz–Panama flight.
+- **Central America:**
+  - South to north. Tica Bus Panama City → San José ($58, ~16 h); San José → Managua ($33).
+  - **León → Copán:** a shuttle plus a boat across the Gulf of Fonseca via El Salvador, or a long day through Tegucigalpa. Shuttle from Copán to La Ceiba, a night in La Ceiba, then the morning ferry to Utila.
+  - Transit through San Pedro Sula and Tegucigalpa only; don't stay there.
+
+**Entry and advisories for US citizens:**
+
+| Country | Entry | US advisory |
+|---|---|---|
+| Brazil | e-visa, $80.90, brazil.vfsevisa.com (flight booking + bank statement ≥ $2,000) | Level 2 |
+| Chile | No visa | |
+| Bolivia | No visa since 3 Dec 2025 | Level 2 |
+| Panama | Onward ticket strictly enforced; $500 or proof of funds | Level 2 |
+| Costa Rica | Return ticket (Tica Bus checks it) | Level 2 |
+| Nicaragua | $10 stamp; email the migration form 7+ days ahead, to be safe | **Level 3**: may deny entry without explanation |
+| Honduras | No visa | **Level 3** (Copán and the Bay Islands aren't singled out) |
 
 **Costa Rica and Panama, wet-day %** (Dec / Jan / Feb / Mar):
 - Guanacaste 30/18/**12**/21
