@@ -36,7 +36,7 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Bolivia, Brazil, Uruguay, Paraguay | Rainy or hot and humid; Carnival is about 5–10 Feb 2027 |
 | Argentina's north-west (Salta, Jujuy) | Summer rains: better in another season |
 
-## Draft route v3 (21 Nov 2026): consensus days, 2-week floating buffer
+## Draft route v4 (21 Nov 2026): consensus days, 2-week floating buffer, no Cuba
 
 **How it was chosen:**
 - [`tools/route-optimizer/opt.py`](../../tools/route-optimizer/opt.py) tries every order of the regions and every start day from 1 to 20 Dec.
@@ -53,39 +53,37 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Brazil: Salvador + Chapada Diamantina | 6 | 8 | 10 | Chapada ≥ 4 nights; the Vale do Pati trek is 4–5 days |
 | Brazil: Rio + Paraty/Ilha Grande + Iguaçu | 8 | 9 | 13 | Rio 4, Paraty/Ilha Grande 2–3, Iguaçu 2; add the Petrópolis–Teresópolis traverse or the Ilha Grande circuit for full |
 | Atacama + Uyuni | 6 | 8 | 9 | San Pedro 3–4 nights → the 3-day jeep tour ending in Uyuni → a spare Uyuni day (mirror effect and rain closures). La Paz +3 optional; leave Titicaca and the rest of Bolivia for May–Oct |
-| Cuba | 8 | 10 | 14 | Havana 3, Viñales 3, Trinidad 4, Cienfuegos on the way; skip Santiago |
 | Panama | 4 | 6 | 9 | Boquete 4, Panama City 2; San Blas +3 optional |
-| Costa Rica | 1 | 3 | 5 | Backpackers mostly pass through: it's the dearest country on the route. A classic Costa Rica loop would be ~10 |
+| Costa Rica | 3 | **10** | 14 | A real stop while it's in season: Arenal, Monteverde, Manuel Antonio, Guanacaste. Backpackers who only pass through give it ~3 (it's the dearest country on the route) |
 | Nicaragua | 10 | 14 | 21 | León 4, Granada 2, Ometepe 3–4, Somoto 1–2, San Juan del Sur 2 |
 | Honduras | 6 | 8 | 10 | León → Copán transit 1, Copán 2, a night in La Ceiba, Utila 4 (a dive course takes ~4 days); Lake Yojoa +2 optional |
-| **Total** | **55** | **74** | **101** | Without Cuba: 64 typical |
+| **Total** | **50** | **71** | **96** | |
 
-**Best route with Cuba (74 days plus travel, ≈14 Dec → 2 Mar):**
+**Best route (71 days plus travel, ≈1 Dec → 13 Feb):**
 
 | ≈ Dates | Region | Days |
 |---|---|---|
-| 15 → 25 Dec | Cuba | 10 |
-| 26 → 30 Dec | Brazil: Fortaleza → Jericoacoara | 4 |
-| 30 Dec → 3 Jan | Brazil: Pipa, Recife/Olinda (New Year) | 4 |
-| 3 → 11 Jan | Brazil: Salvador + Chapada Diamantina | 8 |
-| 11 → 20 Jan | Brazil: Rio, Paraty, Iguaçu | 9 |
-| 21 → 29 Jan | Atacama + Uyuni | 8 |
-| 30 Jan → 5 Feb | Panama | 6 |
-| 5 → 8 Feb | Costa Rica | 3 |
-| 8 → 22 Feb | Nicaragua | 14 |
-| 22 Feb → 2 Mar | Honduras | 8 |
+| 2 → 6 Dec | Brazil: Fortaleza → Jericoacoara | 4 |
+| 6 → 10 Dec | Brazil: Pipa, Recife/Olinda | 4 |
+| 10 → 18 Dec | Brazil: Salvador + Chapada Diamantina | 8 |
+| 18 → 27 Dec | Brazil: Rio, Paraty, Iguaçu (Christmas in Rio) | 9 |
+| 28 Dec → 5 Jan | Atacama + Uyuni (New Year) | 8 |
+| 6 → 12 Jan | Panama | 6 |
+| 12 → 22 Jan | Costa Rica (Guanacaste ~8 mm of rain in January) | 10 |
+| 22 Jan → 5 Feb | Nicaragua | 14 |
+| 5 → 13 Feb | Honduras | 8 |
 
-- Any start from 1 to 14 Dec scores about the same. Starting on 1 Dec ends about 17 Feb.
-- **Without Cuba (64 days plus travel):** Brazil on 2–27 Dec (Rio at Christmas), Atacama/Uyuni over New Year, then Panama → Costa Rica → Nicaragua → Honduras, ending about 6 Feb if you leave on 1 Dec. Any start from 1 to 20 Dec scores about the same.
+- Any start from 1 to 18 Dec scores about the same. Leaving on 1 Dec leaves **31 days free**: the 14-day buffer plus 17 days to start later or come home earlier.
+- Spending buffer days early pushes Costa Rica into February, its driest month.
 
-**Cuba is CAUTION, close to NO-GO for budget independent travel (official sources, 21 Nov 2026):**
-- US law still allows "Support for the Cuban People" travel. Since 30 Sep 2026, though, even indirect deals with Restricted List entities are banned (GAESA, CIMEX, Gaviota, many hotels). In practice that means private casas and private businesses only.
-- US cards don't work. The UK says no foreign Visa or Mastercard works at all, so bring all your cash.
-- Blackouts last up to 12 h a day in Havana. There's no jet fuel at the main airports through 1 Dec (the notice has been renewed monthly), and Havana–province buses fell from 419 a day to 11.
-- The UK advises against all but essential travel, and Canada against non-essential travel.
-- Entry: an eVisa (evisacuba.cu), the D'Viajeros form within 72 h of arrival, and an onward ticket.
-- Copa flies Havana–Panama about 3 times a day, so Cuba connects through Panama.
-- **Decide in early January**, against the airport fuel notices and the UK/Canada advisories.
+**Cuba: dropped.** US law bans tourist travel to Cuba. A trip is legal only under an OFAC general license category such as "Support for the Cuban People", which requires a full-time schedule of engagement with Cubans and records kept for 5 years. A sightseeing, hiking and beach trip doesn't fit. The situation on the ground points the same way: all-cash, daily blackouts, jet-fuel shortages, and UK and Canadian advice against travel.
+
+**Other Caribbean islands (Dec–Mar is the dry season on all of them):**
+- **Dominican Republic (optional, +7 days):** a new country, the cheapest big island, Pico Duarte (2–3-day hike), humpback whales at Samaná from mid-January to March. Seattle → Santo Domingo was $373 via Newark. Fitted as the December opener, it ends the trip about 27 Feb, with about 3–4 more expected rainy days than starting in Brazil.
+- **Lesser Antilles** (Guadeloupe → Dominica → Martinique → St Lucia by ferry): the Caribbean's best hiking, but euro and resort prices, and off the route. Better as a trip of its own.
+- **Puerto Rico:** easy from the US at any time. Better as a trip of its own.
+- **Trinidad & Tobago:** Carnival on 8–9 Feb 2027.
+- **San Andrés / Providencia, the Corn Islands, Utila:** wet in December, driest in Feb–Mar.
 
 **Getting around between regions:**
 - **Brazil:** fly Recife → Salvador, Salvador → Rio and Rio → Foz do Iguaçu. Buses only for trips under 8 h, bought at the station (online booking needs a Brazilian tax ID).
