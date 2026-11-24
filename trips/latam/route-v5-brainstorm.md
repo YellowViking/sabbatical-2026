@@ -443,3 +443,84 @@ Sources:
 - **Pace.** Reddit's top regret is too many countries in about 90 days; people say they'd cut 2–3. We have 10 countries in ≈ 95 days. Overnight buses help. Avoid consecutive 15–24 h rides, and keep one-night stops rare.
 - **Rain in the Andes.** Some advise pushing Bolivia and Peru into March. The station data agree March is drier than January (Copacabana: rain on 43% of days vs 63%). But that would mean flying back from Central America to the Andes, which is backtracking, so we keep January. The rains do bring Uyuni's **mirror season** (Jan–Mar), though a flooded salt flat can block Isla Incahuasi.
 - **Commonly cut:** Asunción, long stays in Puno, Santiago and Lima beyond 48 h, and Uruguay on a tight budget. We keep Uruguay to tick off the country.
+
+## 15. Route v5, locked skeleton (user, 24 Nov: Santiago dropped, Panama kept)
+
+Decisions so far:
+- Brazil is cut to the Rio–São Paulo corridor; no Bahia.
+- Paraguay and Uruguay go via the standard corridor.
+- **No Santiago.**
+- Córdoba replaces Mendoza.
+- The northbound line is Salta → Jama → San Pedro → Uyuni.
+- Titicaca gets 2 nights.
+- Panama is the entry to Central America.
+- Honduras is out.
+
+Dates assume the **Alaska business award on Mon 7 Dec** (lands Rio Tue 8 Dec 09:25). Stays are typical-length (consensus) days only. **Adventure extras (Teresópolis +2, Cerro Toco and Pico Austria inside San Pedro and La Paz) are not yet in the table.** Nothing is booked.
+
+| # | Stop | Dates | Nights | Scenery | Note |
+|---|---|---|---|---|---|
+| 1 | Rio de Janeiro | Tue 8 Dec → Sat 12 Dec | 4 | city + peaks | Tijuca, Pedra da Gávea, beaches |
+| 2 | Ilha Grande | Sat 12 Dec → Mon 14 Dec | 2 | island jungle + beach | Pico do Papagaio, Lopes Mendes |
+| 3 | Paraty | Mon 14 Dec → Tue 15 Dec | 1 | colonial + waterfalls |  |
+| 4 | São Paulo | Tue 15 Dec → Thu 17 Dec | 2 | megacity |  |
+| 5 | Curitiba | Thu 17 Dec → Fri 18 Dec | 1 | city | Serra Verde train to Morretes next morning, bus back |
+|  | overnight bus Curitiba → Foz | Fri 18 Dec → Sat 19 Dec | 1 |  |  |
+| 6 | Foz do Iguaçu | Sat 19 Dec → Mon 21 Dec | 2 | waterfalls | Brazilian + Argentine sides |
+| 7 | Asunción | Mon 21 Dec → Wed 23 Dec | 2 | city |  |
+| 8 | Encarnación | Wed 23 Dec → Sat 26 Dec | 3 | river town, Jesuit ruins | Trinidad/Jesús ruins; Christmas here |
+|  | Sat 26 Dec: direct bus Encarnación → Montevideo (Wed/Sat, 14–18 h) | Sat 26 Dec → Sun 27 Dec | 1 |  |  |
+| 9 | Montevideo | Sun 27 Dec → Mon 28 Dec | 1 | city |  |
+| 10 | Cabo Polonio | Mon 28 Dec → Wed 30 Dec | 2 | dunes + beach | Sierra de las Ánimas on the way |
+| 11 | Montevideo (New Year) | Wed 30 Dec → Fri 1 Jan | 2 | city |  |
+|  | Colonia 4–5 h stopover → ferry → BA → overnight bus to Córdoba | Fri 1 Jan → Sat 2 Jan | 1 |  |  |
+| 12 | Córdoba + Sierras | Sat 2 Jan → Thu 7 Jan | 5 | hills | Condorito (free), Los Gigantes 2-day |
+|  | overnight bus Córdoba → Tucumán, then bus to Cafayate | Thu 7 Jan → Fri 8 Jan | 1 |  |  |
+| 13 | Cafayate | Fri 8 Jan → Sun 10 Jan | 2 | wine valley, red canyons | Quebrada de las Conchas |
+| 14 | Salta | Sun 10 Jan → Tue 12 Jan | 2 | city |  |
+| 15 | Purmamarca / Tilcara | Tue 12 Jan → Thu 14 Jan | 2 | coloured canyons | Garganta del Diablo, Hornocal |
+| 16 | San Pedro de Atacama | Thu 14 Jan → Mon 18 Jan | 4 | desert | acclimatise; Valle de la Luna by bike; Cerro Toco optional |
+| 17 | Uyuni jeep tour | Mon 18 Jan → Wed 20 Jan | 2 | lagoons, geysers, salt flat | 3-day tour, nights in refugios |
+| 18 | Potosí | Wed 20 Jan → Thu 21 Jan | 1 | mining city | Cerro Rico mine tour |
+| 19 | Sucre | Thu 21 Jan → Sun 24 Jan | 3 | colonial city | Maragua crater hike |
+| 20 | La Paz | Sun 24 Jan → Wed 27 Jan | 3 | mountain city | teleférico, Death Road or Pico Austria |
+| 21 | Copacabana + Isla del Sol | Wed 27 Jan → Fri 29 Jan | 2 | lake + islands | Isla del Sol N–S ridge walk |
+| 22 | Puno | Fri 29 Jan → Sat 30 Jan | 1 | transit | 4M Express leaves ~06:00 |
+| 23 | Colca (Chivay / Cabanaconde) | Sat 30 Jan → Mon 1 Feb | 2 | canyon | Cabanaconde → Sangalle, climb out at 5 am |
+| 24 | Arequipa | Mon 1 Feb → Wed 3 Feb | 2 | colonial city |  |
+| 25 | Panama City | Wed 3 Feb → Fri 5 Feb | 2 | city + canal | ✈ Arequipa → Lima → Panama City |
+| 26 | Boquete | Fri 5 Feb → Mon 8 Feb | 3 | cloud forest + volcano | Volcán Barú sunrise, Lost Waterfalls |
+| 27 | San Gerardo de Rivas (Chirripó) | Mon 8 Feb → Thu 11 Feb | 3 | high mountain | 2-day Chirripó; SINAC + Crestones booking |
+| 28 | Uvita | Thu 11 Feb → Sat 13 Feb | 2 | beach | Marino Ballena, whale tail |
+| 29 | Monteverde | Sat 13 Feb → Mon 15 Feb | 2 | cloud forest | Santa Elena reserve |
+| 30 | La Fortuna / Arenal | Mon 15 Feb → Thu 18 Feb | 3 | volcano + hot rivers | El Chollín free hot river |
+| 31 | Liberia / Rincón de la Vieja | Thu 18 Feb → Sat 20 Feb | 2 | dry forest + volcano |  |
+| 32 | San Juan del Sur / Playa Maderas | Sat 20 Feb → Mon 22 Feb | 2 | surf beach |  |
+| 33 | Ometepe | Mon 22 Feb → Thu 25 Feb | 3 | lake island volcanoes | Concepción with a guide |
+| 34 | Granada + Apoyo | Thu 25 Feb → Sat 27 Feb | 2 | colonial city + crater lake |  |
+| 35 | León | Sat 27 Feb → Wed 3 Mar | 4 | colonial city + volcanoes | Cerro Negro, Telica overnight |
+
+**Home: ✈ Managua → Seattle on Wed 3 Mar** (Alaska 25k + $94, or $417 cash). That leaves **12 spare days before 15 Mar**, against the 14-day floating buffer. Options for them:
+- Somoto canyon (+2) on the way out.
+- Teresópolis (+2).
+- Pico Austria (+2).
+- Weather or rest days.
+
+**Changed legs vs section 12** (≈ = AI-summary estimates; confirm on the operators' sites):
+
+| Leg | How | Time | USD |
+|---|---|---|---|
+| Encarnación → Montevideo | Direct bus (EGA / NSA, **Wed & Sat**), avoiding a Christmas-night bus via Concordia | 14–18 h | ≈ $100–155 |
+| Montevideo ↔ Cabo Polonio | Rutas del Sol + 4x4 truck (round trip) | ≈ 5 h each way | ≈ $36.50 out, $25 back |
+| Montevideo → Colonia → Buenos Aires | Bus (≈ 2 h 45), 4–5 h in the old town, Colonia Express ferry (Buquebus direct ≈ $100–180 is the fast alternative). Ferries are reduced on 31 Dec and 1 Jan, so the crossing may slip to 2 Jan | a day | ≈ $13–17 + $42–67 |
+| Buenos Aires → Córdoba | Overnight bus, sleeper | 8–9½ h | ≈ $45–65 |
+| Córdoba → Tucumán → Cafayate | Overnight bus, then Aconquija 06:00/10:00 via Tafí del Valle | 8½ h + 6–6½ h | ≈ $19–57 + $23–27 |
+| Cafayate → Salta | Flecha Bus through Quebrada de las Conchas | 3½–4 h | ≈ $17–25 |
+| Salta → Jujuy → Purmamarca | Buses | ≈ 3 h | ≈ $10–18 |
+| Purmamarca → San Pedro de Atacama | Andesmar over Paso de Jama, **03:40** → ≈ 11:30 | ≈ 8 h | ≈ $80–97 |
+| San Pedro → Uyuni | 3-day jeep tour (Bolivian park fee, Incahuasi, hot springs extra) | 3 days | ≈ $240–290 + $50–100 |
+| Uvita → Monteverde | Buses via Quepos and Puntarenas (Manuel Antonio dropped; Uvita is the Pacific beach stop) | ≈ 7 h | ≈ $12–18 |
+
+The Córdoba → Mendoza → Santiago buses, the Santiago → Calama flight and the Tupiza tour are all gone.
+
+**Transport total:** ground transport, the La Paz and Panama flights and border fees come to ≈ **$1,180–1,550**. The jeep tour adds ≈ $290–390, including park fees, and covers 2 nights' beds. Points: 60k in (business) + 25k home (economy).

@@ -24,7 +24,7 @@ R = {
  'NW Argentina (Salta, Jujuy, Cafayate)':    ((61,67,63,54), 7, (-24.5,-65.5),  True,  False, []),
  'Atacama + Uyuni':                          ((16,33,37,18), 8, (-21.5,-67.5),  True,  True,  []),
  'Bolivia cities (Sucre, Potosí, La Paz)':   ((69,75,78,70), 7, (-18,-66.5),    True,  True,  []),
- 'Titicaca (Copacabana, Puno)':              ((42,63,49,43), 3, (-16,-69.5),    True,  True,  []),
+ 'Titicaca (Copacabana, Puno)':              ((42,63,49,43), 2, (-16,-69.5),    True,  True,  []),
  'S Peru highlands (Arequipa, Colca)':       ((19,38,43,34), 4, (-16,-71.6),    True,  False, []),
  'Peru coast (Huacachina, Paracas, Lima)':   ((3,13,17,8),   5, (-13.9,-76),    False, False, []),
  'Panama':                                   ((63,35,22,26), 6, (9,-79.5),      False, True,  [(D_(2026,12,20), D_(2027,1,5))]),
@@ -33,7 +33,8 @@ R = {
  'Honduras (Copán, Utila)':                  ((62,49,42,33), 8, (15.5,-88),     False, True,  []),
 }
 MUST = {'Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)',
-        'Uruguay (Colonia, Montevideo, Cabo Polonio)','Central Chile (Santiago, Valparaíso)','Atacama + Uyuni',
+        'Uruguay (Colonia, Montevideo, Cabo Polonio)','Atacama + Uyuni',   # Santiago dropped by the user, 24 Nov
+       
         'Bolivia cities (Sucre, Potosí, La Paz)','Costa Rica','Nicaragua'}
 for r in filter(None, os.environ.get('MUSTADD','').split(',')): MUST.add(next(k for k in R if k.startswith(r)))
 for r in filter(None, os.environ.get('DROP','').split(',')): R.pop(next(k for k in R if k.startswith(r)))

@@ -1,5 +1,8 @@
 # Latin America: Brazil leg itinerary (draft, Plan B)
 
+> **Superseded by route v5 (24 Nov 2026).** Brazil is now only Rio → Ilha Grande → Paraty → São Paulo (8–17 Dec), then Curitiba → Iguaçu; the north-east and Bahia stops below are dropped. See [route-v5-brainstorm.md §15](route-v5-brainstorm.md#15-route-v5-locked-skeleton-user-24-nov-santiago-dropped-panama-kept). Stops 1–5 here still hold, but their dates move by 4 days.
+
+
 **3 Dec 2026 – ~2 Jan 2027 · Rio → Costa Verde → São Paulo → ✈ the north-east coast → Bahia → ✈ the south.** Nothing is booked. Beds, buses and flights were checked live on **24 Nov 2026**; prices are in **USD** (Booking.com quotes this account in EUR, so those totals are converted and marked ≈). Budget: [budget-forecast.md](budget-forecast.md). Route map: [latam-route-draft.svg](latam-route-draft.svg).
 
 ## At a glance

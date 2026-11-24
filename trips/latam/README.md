@@ -2,7 +2,16 @@
 
 **Status:** planning. Window: **December → mid-March**.
 
-**Brazil leg (Plan B, 3 Dec – ~2 Jan): [day-by-day itinerary](itinerary.md) · [budget forecast](budget-forecast.md) · [route map draft](latam-route-draft.svg).** Prices checked live on 24 Nov 2026; nothing booked. The rest of the route (Uruguay, Paraguay, Santiago/Salta, the Andes, Central America) is still being decided.
+**Route v5 (24 Nov 2026), now the working plan:** [skeleton with dates, legs and costs](route-v5-brainstorm.md#15-route-v5-locked-skeleton-user-24-nov-santiago-dropped-panama-kept) · [route map](latam-route-draft.svg) · [how it was chosen](route-v5-brainstorm.md).
+- ✈ Seattle → Rio, Mon 7 Dec (Alaska business award).
+- Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Iguaçu.
+- Asunción → Encarnación → Montevideo → Cabo Polonio → Colonia → Buenos Aires.
+- Córdoba → Cafayate → Salta → Purmamarca → San Pedro de Atacama → jeep tour to Uyuni.
+- Potosí → Sucre → ✈ La Paz → Titicaca → Colca → Arequipa.
+- ✈ Panama City → Boquete → Chirripó → Uvita → Monteverde → Arenal → Rincón → San Juan del Sur → Ometepe → Granada → León.
+- ✈ home from Managua ≈ 3 Mar, with 12 spare days.
+
+Nothing is booked. The Brazil [itinerary](itinerary.md) and [budget](budget-forecast.md) below are from v4 (with the north-east and Bahia); they will be rebuilt for v5.
 
 This page will become the trip's single source of truth, like [Europe 2026](../europe-2026/README.md): a route table, links to one guide per place in `guides/`, how the trip was planned, and the lessons.
 
@@ -38,7 +47,7 @@ From [blog.buyuchen.org](https://blog.buyuchen.org) plus trips the blog doesn't 
 | Bolivia, Brazil, Uruguay, Paraguay | Rainy or hot and humid; Carnival is about 5–10 Feb 2027 |
 | Argentina's north-west (Salta, Jujuy) | Summer rains: better in another season |
 
-## Draft route v4 (21 Nov 2026): consensus days, 2-week floating buffer, no Cuba
+## Draft route v4 (21 Nov 2026), superseded by v5: consensus days, 2-week floating buffer, no Cuba
 
 **How it was chosen:**
 - [`tools/route-optimizer/opt.py`](../../tools/route-optimizer/opt.py) tries every order of the regions and every start day from 1 to 20 Dec.

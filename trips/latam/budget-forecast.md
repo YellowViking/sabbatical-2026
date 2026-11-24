@@ -1,5 +1,8 @@
 # Brazil leg: budget forecast (3 Dec 2026 – ~2 Jan 2027)
 
+> **Superseded by route v5 (24 Nov 2026):** this forecast covers the v4 Brazil leg (with the north-east and Bahia). It will be rebuilt for the v5 route, whose transport alone is ≈ $1.2–1.6k plus the Uyuni tour; see [route-v5-brainstorm.md §15](route-v5-brainstorm.md#15-route-v5-locked-skeleton-user-24-nov-santiago-dropped-panama-kept).
+
+
 Built 24 Nov 2026 in the same format as the Europe forecast (`trips/europe-2026/budget-forecast.md`). It applies the Europe "lessons for the next budget" (`budget-actual.md`):
 - **Beds are budgeted at dorm prices**, with private rooms as a separate variant line.
 - **Intercity transport is priced per leg**, with a separate reserve for route changes.
