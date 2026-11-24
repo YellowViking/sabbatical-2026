@@ -110,3 +110,35 @@ The pull of B and C is real: Morerê's quiet window is before about 20 Dec, and 
 - It doubles as acclimatisation before Salta and Atacama.
 
 **Amazon:** skipped here, since it's already done in Ecuador. The on-route option is the Rurrenabaque pampas from La Paz: a 40-min flight plus a 3-day tour. It's open-savanna wildlife, unlike Ecuador's rainforest, but January flights are often cancelled. Treat it as a buffer-funded maybe, decided in La Paz.
+
+## 5. Montevideo → Santiago overland, with Córdoba instead of Mendoza
+
+Mendoza is already visited, so it becomes a transit night. The new stop is **Córdoba + the Sierras de Córdoba**, a new region. The $175 Montevideo → Santiago flight is replaced by land legs, plus a $43–88 domestic hop from Santiago to Calama:
+
+| ≈ Dates | Leg / stop |
+|---|---|
+| 18 → 23 Dec | Uruguay. Enter from Paraguay via Posadas → Concordia → Salto (or the direct Wed/Sat bus from Encarnación), then Montevideo → Cabo Polonio → Colonia |
+| 23 Dec | Ferry Colonia → Buenos Aires ($50–95; reduced sailings on 24, 25 and 31 Dec), then an overnight bus to Córdoba (≈ 10 h) |
+| 24 → 29 Dec | **Córdoba + Sierras**: city 1–2 nights (Aldea Hostel 9.5/1,137 reviews, ≈ $15 dorm), then a Sierras base |
+| 29 → 30 Dec | Overnight bus Córdoba → Mendoza (≈ 10–11 h), then the **day bus over the Andes** to Santiago (7½–9 h, $25–50; take the 7–8 am bus because of summer queues at the border) |
+| 30 Dec → 4 Jan | Santiago + Valparaíso (New Year) |
+| ≈ 5 Jan | ✈ Santiago → Calama ($43–51 on 5–10 Jan), then 1½ h bus to San Pedro |
+| then | San Pedro → bus via Paso de Jama → Jujuy/Salta/Cafayate → La Quiaca/Villazón → Tupiza → 4-day jeep tour to Uyuni → Bolivia |
+
+**Córdoba, the free outdoors:**
+- **Quebrada del Condorito NP:** free entry (official park page, "Acceso gratuito"). The COATA bus on the Altas Cumbres road stops at La Pampilla. Balcón Norte is ~10–12 km and needs no guide.
+- **Los Gigantes:** via Tanti.
+- **Cerro Uritorco:** above Capilla del Monte; the trail is privately run and charges a fee.
+- **La Cumbrecita:** car-free village, via Villa General Belgrano.
+- **Cerro Champaquí (2,790 m):** 2-day trek. No guide is needed, but there is a compulsory online risk-zone declaration.
+
+**Weather:**
+- Córdoba: rain on 31% of December days. The Sierras: 36–38%, as afternoon storms, so hike in the mornings.
+- Mendoza, for comparison: 14%.
+- That is the whole score gap: 3.2 here vs 5.3 for the Mendoza version.
+
+**Alternatives looked at and rejected:**
+- **San Juan (Barreal, Ischigualasto):** drier, but 59% of December days in San Juan reach 33 °C or more. There is no bus into the parks, Ischigualasto charges foreigners ≈ ARS 65,000, and Hostelworld has no beds in Barreal.
+- **Paso de Agua Negra to the Elqui Valley:** not expected to open before January 2027, and only small minibuses use it.
+- **San Luis (Merlo, Quijadas):** no bus to Quijadas.
+- **Uspallata (Aconcagua):** dry and cool, and on the Santiago road. It's still a possible one-night break on the crossing, but Hostelworld has nothing there.

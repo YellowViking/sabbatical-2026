@@ -16,7 +16,7 @@ R = {
  'Buenos Aires':                             ((26,27,25,29), 3, (-34.6,-58.4),  False, False, []),
  'Uruguay (Colonia, Montevideo, Cabo Polonio)': ((28,30,35,35), 6, (-34.6,-55.5), False, True, [(D_(2026,12,24), D_(2027,2,15))]),
  'Central Chile (Santiago, Valparaíso)':     ((3,2,2,3),     5, (-33.2,-71.1),  False, True,  []),
- 'Mendoza':                                  ((14,23,18,20), 5, (-32.9,-68.8),  False, False, []),
+ 'Córdoba + Sierras (Mendoza = transit)':    ((36,45,42,40), 5, (-31.4,-64.4),  False, False, []),   # replaces Mendoza (visited); Feb/Mar wet % estimated
  'NW Argentina (Salta, Jujuy, Cafayate)':    ((61,67,63,54), 7, (-24.5,-65.5),  True,  False, []),
  'Atacama + Uyuni':                          ((16,33,37,18), 8, (-21.5,-67.5),  True,  True,  []),
  'Bolivia cities (Sucre, Potosí, La Paz)':   ((69,75,78,70), 7, (-18,-66.5),    True,  True,  []),
@@ -38,7 +38,7 @@ for kv in filter(None, os.environ.get('DAYS','').split(',')):
 CHAINS = {  # each chain runs in this order or reversed, skipping unselected regions; chains are permuted
  'EAST':  ['Bahia (Salvador, Boipeba/Morerê, Chapada)','Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)','Buenos Aires',
            'Uruguay (Colonia, Montevideo, Cabo Polonio)'],
- 'CHILE': ['Central Chile (Santiago, Valparaíso)','Mendoza'],
+ 'CHILE': ['Córdoba + Sierras (Mendoza = transit)','Central Chile (Santiago, Valparaíso)'],
  'ANDES': ['NW Argentina (Salta, Jujuy, Cafayate)','Atacama + Uyuni','Bolivia cities (Sucre, Potosí, La Paz)','Titicaca (Copacabana, Puno)',
            'S Peru highlands (Arequipa, Colca)','Peru coast (Huacachina, Paracas, Lima)'],
  'CA':    ['Panama','Costa Rica','Nicaragua','Honduras (Copán, Utila)'],
