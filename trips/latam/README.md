@@ -1,6 +1,8 @@
 # Latin America: next leg (planning)
 
-**Status:** planning. Window: **December → mid-March**. No route or dates are fixed yet.
+**Status:** planning. Window: **December → mid-March**.
+
+**Brazil leg (Plan B, 3 Dec – ~2 Jan): [day-by-day itinerary](itinerary.md) · [budget forecast](budget-forecast.md) · [route map draft](latam-route-draft.svg).** Prices checked live on 24 Nov 2026; nothing booked. The rest of the route (Uruguay, Paraguay, Santiago/Salta, the Andes, Central America) is still being decided.
 
 This page will become the trip's single source of truth, like [Europe 2026](../europe-2026/README.md): a route table, links to one guide per place in `guides/`, how the trip was planned, and the lessons.
 
