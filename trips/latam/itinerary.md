@@ -4,23 +4,25 @@
 
 ## At a glance
 
-| Dates | Stop (nights) | Bed (pick, stay total) | Getting there |
-|---|---|---|---|
-| Thu 3 → Fri 4 Dec | ✈ Seattle → Rio | — | Alaska award 30,000 pts + $26 (AA771 09:15 → PHL → MIA → GIG 09:25) |
-| 4 → 8 Dec | **Rio de Janeiro** (4) | Copacabana Central Hostel, dorm ≈ $49 | GIG → Copacabana: BRT + metro R$9.70, or Uber ~$10–17 |
-| 8 → 10 Dec | **Ilha Grande** (2) | Lila Limão, dorm ≈ $38 | Bus + boat via Conceição de Jacareí, or bus + state ferry from Angra (R$20.50) |
-| 10 → 11 Dec | **Paraty** (1) | Hostel Ôxe, $16 | Ferry 10:00 + Colitur bus 12:40, R$48 in total |
-| 11 → 13 Dec | **São Paulo** (2) | Lamparina Hostel (bed curtains), ≈ $31 | Reunidas bus ~6½–7 h, ~R$100 |
-| Sun 13 Dec | ✈ São Paulo → Jericoacoara | — | **Gol G3 9000, 09:05 → 12:25, ~$185** on Gol's site; shared 4x4 to the village R$90–100 |
-| 13 → 16 Dec | **Jericoacoara** (3) | Rede Andrade Dunas, private single ≈ $50 | Visitor tax R$41.50, pay online |
-| 16 → 18 Dec | **Canoa Quebrada** (2) | Pousada La Goduria, private ≈ $37 | Jardineira 05:45 → Guanabara 06:30 → Fortaleza → bus 15:00 → Canoa 18:45 (~$19) |
-| 18 → 21 Dec | **Pipa** (3) | MAPU, dorm with curtains ≈ $25 | ⚠️ The weakest leg: no daytime bus from Aracati (see stop 9) |
-| 21 → 23 Dec | **Olinda** (+ Recife) (2) | Hostel Divino do Carmo, dorm ≈ $25 | Van to Goianinha + Progresso bus 08:40 → Recife 12:45 (~$23) |
-| 23 → 24 Dec | **Maceió** (1) | Wanderlust, male dorm with curtains ≈ $17.50 | Real Alagoas 10:00 → 14:50 (~$16) |
-| 24 → 27 Dec | **Salvador**, Christmas (3) | Nomads Hostel Multicultural (Barra; curtains, kitchen) $56 | Rota 11:00 → 21:30 (~$58), after the reef pools on the 24th |
-| 27 → 31 Dec | **Lençóis / Chapada Diamantina** (4) | Chapada Backpackers ≈ $34 (or 3-day Vale do Pati trek 28–30 Dec, ~$285 all-in) | Rápido Federal 08:00 → 14:40, R$140 |
-| 31 Dec → 2 Jan | **Salvador**, New Year's Eve (2) | Hostel Casarão 65 (Barra) $46, Hostelworld only | Rápido Federal 09:15 → 16:15, R$137 |
-| ~2 Jan | ✈ Salvador → the south | — | Porto Alegre $399 (Gol nonstop 00:15) · Florianópolis $339 · Curitiba $382 |
+| Dates | Stop (nights) | Bed (pick, stay total) | Getting there | Private alt |
+|---|---|---|---|---|
+| Thu 3 → Fri 4 Dec | ✈ Seattle → Rio | — | Alaska award 30,000 pts + $26 (AA771 09:15 → PHL → MIA → GIG 09:25) | — |
+| 4 → 8 Dec | **Rio de Janeiro** (4) | Copacabana Central Hostel, dorm ≈ $49 | GIG → Copacabana: BRT + metro R$9.70, or Uber ~$10–17 | Le House, double ensuite $161 |
+| 8 → 10 Dec | **Ilha Grande** (2) | Lila Limão, dorm ≈ $38 | Bus + boat via Conceição de Jacareí, or bus + state ferry from Angra (R$20.50) | HI Holandês, double ensuite $154 |
+| 10 → 11 Dec | **Paraty** (1) | Hostel Ôxe, $16 | Ferry 10:00 + Colitur bus 12:40, R$48 in total | Remo, twin $42 |
+| 11 → 13 Dec | **São Paulo** (2) | Lamparina Hostel (bed curtains), ≈ $31 | Reunidas bus ~6½–7 h, ~R$100 | Lamparina twin $78 / Viva double $67 |
+| Sun 13 Dec | ✈ São Paulo → Jericoacoara | — | **Gol G3 9000, 09:05 → 12:25, ~$185** on Gol's site; shared 4x4 to the village R$90–100 | — |
+| 13 → 16 Dec | **Jericoacoara** (3) | Rede Andrade Dunas, private single ≈ $50 | Visitor tax R$41.50, pay online | (pick is private) |
+| 16 → 18 Dec | **Canoa Quebrada** (2) | Pousada La Goduria, private ≈ $37 | Jardineira 05:45 → Guanabara 06:30 → Fortaleza → bus 15:00 → Canoa 18:45 (~$19) | (pick is private) |
+| 18 → 21 Dec | **Pipa** (3) | MAPU, dorm with curtains ≈ $25 | ⚠️ The weakest leg: no daytime bus from Aracati (see stop 9) | Lagarto na Banana tent $71 (Sol Roots $23 lead) |
+| 21 → 23 Dec | **Olinda** (+ Recife) (2) | Hostel Divino do Carmo, dorm ≈ $25 | Van to Goianinha + Progresso bus 08:40 → Recife 12:45 (~$23) | Paraíso Olindense single $35 |
+| 23 → 24 Dec | **Maceió** (1) | Wanderlust, male dorm with curtains ≈ $17.50 | Real Alagoas 10:00 → 14:50 (~$16) | ~$84 (needs a better find) |
+| 24 → 27 Dec | **Salvador**, Christmas (3) | Nomads Hostel Multicultural (Barra; curtains, kitchen) $56 | Rota 11:00 → 21:30 (~$58), after the reef pools on the 24th | Nega Maluca double $108 |
+| 27 → 31 Dec | **Lençóis / Chapada Diamantina** (4) | Chapada Backpackers ≈ $34 (or 3-day Vale do Pati trek 28–30 Dec, ~$285 all-in) | Rápido Federal 08:00 → 14:40, R$140 | HI Chapada double $227 (Casa Relva $103) |
+| 31 Dec → 2 Jan | **Salvador**, New Year's Eve (2) | Hostel Casarão 65 (Barra) $46, Hostelworld only | Rápido Federal 09:15 → 16:15, R$137 | Nega Maluca double $84 |
+| ~2 Jan | ✈ Salvador → the south | — | Porto Alegre $399 (Gol nonstop 00:15) · Florianópolis $339 · Curitiba $382 | — |
+
+**Private-room buffer:** taking the private alternative at every stop costs about **$1,130 for the 29 nights, against ~$520 at the dorm picks (+~$610)**. The budget now carries that as a lodging buffer.
 
 ## Book these first (they sell out)
 
@@ -62,6 +64,8 @@ Prices in USD at 1 USD = R$ 5.96 and 1 EUR = $1.092 (open.er-api.com, 24 Nov 202
 - **Rating:** Booking 2,144 reviews: 77% scored 9+, 16% 7–9, 4% 5–7, and **3.5% below 5**. The low reviews mention bed bugs in Jan 2026 and Oct 2025, AC only switched on after 22:00, and loud music in the common area from 8 am to 11 pm. Hostelworld 96% (1,643): 2 of the last 100 below 60% and 9 at 60–79%.
 - **Total for 4 nights:** **Booking €69 ≈ $75**, **Agoda $78.61**, **Hostelworld $87.77** (non-refundable).
 - **Rooms:** no bed curtains (several reviews), kitchen and pool.
+
+**Private alt (live-checked 24 Nov 2026):** Le House Hostel, standard double, private ensuite: **$161** for 4 nights (Hostelworld, 9.1/10 from 176). Agoda leads, unit type unconfirmed: La Vita Stay Copacabana $47 (9.1, 158 reviews), Longboard Paradise Surf Club $48 (a hostel, so likely a dorm).
 
 Not chosen:
 - Aquarela do Leme: Booking €78 ≈ $85, Hostelworld $117. Good reviews (1% below 60), but it sits at the foot of Babilônia/Chapéu Mangueira.
@@ -143,6 +147,8 @@ Recommendation: **option 2**. You arrive by early afternoon for well under the t
 - **Total for 2 nights:** **Booking €40 ≈ $44**, Hostelworld $46.36. Breakfast is included, plus a kitchen and laundry.
 - **Party check:** quiet, with no curtains. One Nov 2026 review mentions a mouldy smell in the shared room.
 
+**Private alt (live-checked 24 Nov 2026):** HI Hostel Holandês, basic double, private ensuite: **$154** for 2 nights (Hostelworld, 9.1/10 from 1,806). Agoda lead, unit type unconfirmed: Flor da Ilha $23 (8.0, 468 reviews).
+
 Not chosen:
 - Balaio: owner-behaviour complaints and Booking flags a happy hour.
 - Aquário: a "Bar & Night Club" rated 53%.
@@ -197,6 +203,8 @@ There are no cars on the island; every trail starts from Abraão.
 - **Total for 1 night:** **Booking €11 ≈ $12** (cheapest), Hostelworld $17.00.
 - **Rooms:** kitchen and lockers. AC is not listed. Recent negatives: thin mattresses, mosquitoes, and a neighbourhood one reviewer called run-down.
 
+**Private alt (live-checked 24 Nov 2026):** Remo Hostel, twin room with shared bathroom: **$42** (Hostelworld, 10/10 from 272). Agoda lead: Pousada do Condado $20 (8.8, 666 reviews), unit type unconfirmed.
+
 Not chosen:
 - Casa Viva: Booking flags a happy hour and it costs $36 a night.
 - Che Lagarto: flagged as a party hostel.
@@ -244,6 +252,8 @@ Not chosen:
 - **Rating:** Hostelworld 97% (4,994): 2 of the last 100 below 60%. Booking 1,596 reviews.
 - **Total for 2 nights:** **Booking €39 ≈ $42.59**, Hostelworld $45.61 non-refundable, Agoda $46.81.
 - **Drawback:** it has its own bar, and a Jul 2026 review warns about outsiders drinking there at night. Book it only if Lamparina sells out.
+
+**Private alt (live-checked 24 Nov 2026):** Lamparina Hostel (your dorm pick), private twin with shared bathroom: **$78** for 2 nights (Hostelworld, 9.8/10). Or Viva Hostel Design, deluxe double ensuite: **$67** (10/10 from 779).
 
 Skip **Viva Hostel Design**. Hostelworld shows a perfect "100", but its 25 written reviews average 73%, with bed bugs reported in 2025–26.
 
@@ -330,6 +340,8 @@ Prices in **USD** at 1 USD = R$6.00 and €1 = US$1.094 (ECB, 23 Nov 2026). Book
 - Not a party hostel. It is the social pick for finding people to share a buggy.
 - Skip Hostel Jericoacoariano (€33): an Oct 2026 review describes a drunk manager and loud music. Skip Trip Hostel, whose cheapest bed is female-only.
 
+**Private alt (live-checked 24 Nov 2026):** The pick is already a private single (Rede Andrade Dunas, ~$50). Upgrade: Mandala Hostel, standard twin ensuite: **$151** for 3 nights (Hostelworld, 9.5/10). Agoda leads: Mara Jeri $60 (9.6, 30 reviews), Cheguei Preá $60 (8.2, 137).
+
 **Do (free/outdoors first):** low tide is **13:32 (Sun 13), 14:18 (Mon 14), 15:10 (Tue 15)**; sunset is about 17:50 (wisuki tide table).
 - **Pedra Furada (free):** 3 km east. Go out over the **Serrote** hill (free trail with lighthouse views) and come back along the beach. Plan it for Mon 14 at about 12:30–15:30 around the 14:18 low tide, because the rock is reachable on the sand only at low tide.
 - **Sunset from Duna do Pôr do Sol (free), every evening.** Wear flip-flops on the dune because of the sand fleas (bicho-de-pé). After sunset there is a free capoeira roda on the beach.
@@ -387,6 +399,8 @@ Prices in **USD** at 1 USD = R$6.00 and €1 = US$1.094 (ECB, 23 Nov 2026). Book
 - A quiet, vegan-run house with no party mentions. Curtains not mentioned.
 - Hostelworld's only Canoa listing, Hostel da Boneca (US$20.52 for 2 nights), has no reviews yet, so it is not recommended.
 
+**Private alt (live-checked 24 Nov 2026):** The pick is already a private room (Pousada La Goduria, ~$37). Agoda leads: Capitólio 05 $27 (10, 217 reviews), CASAVEG $32.
+
 **Do (free/outdoors first):**
 - **Cliff-top walk and the sunset dune (free).** From the end of Broadway (Rua Dragão do Mar), walk the red cliffs and the Duna do Pôr do Sol, and look at the carved crescent-moon-and-star cliff symbol.
 - **Beach and cliff walk east (free), Thu 17 Dec afternoon, on the falling tide:**
@@ -435,6 +449,8 @@ Prices in **USD** at 1 USD = R$6.00 and €1 = US$1.094 (ECB, 23 Nov 2026). Book
 - Agoda id 21757182 was found but not priced.
 - **Avoid Lagarto na Banana:** despite 9.2 from 1,057, several 2025–26 reviews complain about the party vibe.
 - Skip Hostel do Céu, whose cheapest bed is female-only.
+
+**Private alt (live-checked 24 Nov 2026):** Lagarto na Banana, private 2-bed tent with shared bathroom: **$71** for 3 nights (Hostelworld, 9.6/10). It's glamping, not a room. Agoda lead, unit type unconfirmed: Conjunto Sol Roots $23 (8.9, 179 reviews); Casa Kuki's $35 (a hostel, likely its dorm).
 
 **Do (free/outdoors first):** low tide is roughly **06:00–07:30 on 19–21 Dec**, with another low around 18:00–19:00. These are estimated from the Maceió and Jericoacoara tables; check tabuademares.com for Tibau do Sul.
 - **Baía dos Golfinhos (free):** walk west from the main beach along the sand. It is reachable on foot only within about 2.5 h either side of low tide, so go early. Dolphins often swim close in; watch from the beach rather than from boats.
@@ -485,6 +501,8 @@ Prices in **USD** at 1 USD = R$6.00 and €1 = US$1.094 (ECB, 23 Nov 2026). Book
 - Reviews: 8.7 from 214 (**4.2% low**). Complaints: musty smell, thin sheets.
 - Address: Av. Luís Gomes 98, Amaro Branco, at the edge of the old town (location 9.0).
 - Alternative: **Rosário Temporada Hostel**, twin room with bathroom, €41 ≈ US$45 (9.1 from 334, 2.4% low), Rua Ilma Cunha 241.
+
+**Private alt (live-checked 24 Nov 2026):** Paraíso Olindense, single room: **~$35** for 2 nights (Booking, the north-east agent's backup). Agoda leads: Casa de Temporada das Mangueiras $37 (8.9, 265 reviews).
 
 **Do (free/outdoors first):**
 - **Olinda on foot (free):**
@@ -539,6 +557,8 @@ Prices in **USD** at 1 USD = R$6.00 and €1 = US$1.094 (ECB, 23 Nov 2026). Book
 - Reviews: 8.4 from 1,264 (**5.9% low**). Recent complaints: dirty rooms, cockroaches, and a Nov 2026 report of drinking and loud music at reception.
 - Address: Rua Ruth Reis 34, Ponta Verde.
 - Also possible: Hostel Pajuçara (male dorm €11, 8.1, 7.4% low), right at the jangada beach.
+
+**Private alt (live-checked 24 Nov 2026):** The only private on Hostelworld is **~$84** for the night. No well-rated cheap private found yet. To check: Booking (throttled on 24 Nov) and Pajuçara pousadas.
 
 **Do (free/outdoors first):**
 - **Wed 23 afternoon (free):** walk the beachfront promenade and cycle path Pajuçara → Ponta Verde → Jatiúca. The water is calm and green inside the reef. Go to the beach kiosks at sunset.
@@ -606,6 +626,8 @@ Sections follow the trip order. Open issues are at the bottom.
 - **Reviews:** Booking 8.8 from 1,144, 7% below 7; location 9.9.
 - **3 nights:** **Booking €33 ≈ $36.00**, Agoda $37.65.
 - **Curtains: no** ("pas de rideaux sur les lits"; many Portuguese reviews ask for cortinas). Kitchen yes.
+
+**Private alt (live-checked 24 Nov 2026):** Nega Maluca Guesthouse, deluxe double ensuite: **$108** for 3 nights (Hostelworld, 9.1/10 from 1,056; Agoda 9.5). Check its location against the Barra safety advice. Agoda lead: Luz de Regina Bahia $26 (9.7, 323 reviews), unit type unconfirmed.
 
 **Checked and passed over:**
 
@@ -689,6 +711,8 @@ Sections follow the trip order. Open issues are at the bottom.
 - **4 nights:** **$88.28** on Hostelworld (private double ensuite $56.72/night).
 - **Why it's the backup:** quieter and better rated, with garden, hammocks, communal kitchen and breakfast included, but 2.5× the price.
 - **Other channels:** Hostelworld only; not found on Agoda, and not in Booking's hostel results.
+
+**Private alt (live-checked 24 Nov 2026):** HI Hostel Chapada – Lençóis, double ensuite: **$227** for 4 nights (Hostelworld, 9.5/10). Agoda: the cheapest well-rated pousada is Casa Relva Suites $103 (8.1, 89 reviews).
 
 **Excluded:**
 - **Nomads Trek Hostel:** two bed-bug reports, May 2026.
@@ -784,6 +808,8 @@ Sections follow the trip order. Open issues are at the bottom.
 - **Reviews:** Booking 8.7 from 119, 10% below 7, including one theft claim (Jul 2025).
 - **2 nights:** **Booking €37 ≈ $40.40**.
 - **Location:** about 6 km closer to the festival, but in the nightlife district.
+
+**Private alt (live-checked 24 Nov 2026):** Nega Maluca Guesthouse, standard double ensuite: **$84** for 2 nights (Hostelworld). Still bookable for New Year on 24 Nov. Agoda leads: Casa 37 Guesthouse $29 (8.1, 33 reviews), Origem Bahia $32.
 
 **Cheapest safe-ish fallback:** **Nega Maluca Guesthouse**, Santo Antônio Além do Carmo.
 - **Reviews:** Hostelworld 91% from 1,056, "not a party hostel".
