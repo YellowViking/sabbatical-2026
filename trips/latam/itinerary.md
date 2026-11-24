@@ -57,13 +57,14 @@ Prices in USD at 1 USD = R$ 5.96 and 1 EUR = $1.092 (open.er-api.com, 24 Nov 202
 - **Rating:** Booking 9.2 (109 reviews): **78% scored 9+, 17% 7–9, 3% 5–7, 3% 3–5, none below 3**. Staff 9.8, location 9.3, cleanliness 8.8. The few low scores are about worn bedding and noise from the street and reception. Hostelworld 96% (18 ratings, 5 written reviews in 36 months, none below 80%). It's new, opened in 2025–26.
 - **Total for 4 nights:** **Booking €45 ≈ $49** (cheapest rate; the flexible rate is €50 ≈ $55). **Agoda $51.91** (signed-in price, no coupon). **Hostelworld $55.05** non-refundable or $60.36 with the 15% deposit, plus Hostelworld's fee at checkout.
 - **Location:** about 200 m from Siqueira Campos metro and 600 m from the beach.
-- **Rooms and party check:** air-conditioning, lockers and a kitchen. Not a party hostel: no bar, and the "happy hour" filter doesn't list it. One reviewer says the street is loud at night, so bring earplugs. Privacy curtains are not mentioned in any review or listing, so assume there are none.
+- **Rooms and party check:** air-conditioning, lockers and a kitchen. Party check: no party or late-night noise pattern in the reviews (a bar or happy hour would be fine). One reviewer says the street is loud at night, so bring earplugs. Privacy curtains are not mentioned in any review or listing, so assume there are none.
 - **Bed details:** 6 beds left in the 10-bed dorm. The 8-bed dorm is €49 and the 4-bed €52.
 
 **Backup:** **Bamboo Rio Hostel**, R. Lacerda Coutinho 45 (Bairro Peixoto, a leafy, quiet corner of Copacabana; Siqueira Campos metro 400 m). 12-bed mixed dorm.
 - **Rating:** Booking 2,144 reviews: 77% scored 9+, 16% 7–9, 4% 5–7, and **3.5% below 5**. The low reviews mention bed bugs in Jan 2026 and Oct 2025, AC only switched on after 22:00, and loud music in the common area from 8 am to 11 pm. Hostelworld 96% (1,643): 2 of the last 100 below 60% and 9 at 60–79%.
 - **Total for 4 nights:** **Booking €69 ≈ $75**, **Agoda $78.61**, **Hostelworld $87.77** (non-refundable).
 - **Rooms:** no bed curtains (several reviews), kitchen and pool.
+- ⚠️ **Pool-hostel vibe:** it has a pool, and reviews mention loud music in the common area from 8 am to 11 pm. Use it only if the pick sells out.
 
 **Private alt (Booking location-first, room tables checked 24 Nov 2026):** Brazil Cozy and Comfortable, superior double: **$138** for 4 nights. Booking location **9.5**, 9.0 from 115 reviews (3% bad), 0.7 km from Copacabana beach. Hostelworld private: Le House double ensuite, $161.
 
@@ -150,7 +151,7 @@ Recommendation: **option 2**. You arrive by early afternoon for well under the t
 **Private alt (Booking location-first, room tables checked 24 Nov 2026):** Blue Door Brasil, double: **$86** for 2 nights. Booking location **9.6**, 9.2 from 538 reviews (1% bad), in Abraão. Also Pitanga Ilha Grande, location 9.4, 9.4 from 559, ~$96. Hostelworld's HI Holandês double is $154.
 
 Not chosen:
-- Balaio: owner-behaviour complaints and Booking flags a happy hour.
+- Balaio: owner-behaviour complaints.
 - Aquário: a "Bar & Night Club" rated 53%.
 - Harmoni: rated 51%.
 
@@ -206,7 +207,7 @@ There are no cars on the island; every trail starts from Abraão.
 **Private alt (Booking location-first, room tables checked 24 Nov 2026):** Casa Nossa Hospedagem Centro, economy double: **$25** for the night. Booking location **9.8**, 9.2 from 89 reviews (1% bad), 0.5 km from the historic centre. Also Viva Brasil Pousada, location 9.2, 9.0 from 843, ~$31.
 
 Not chosen:
-- Casa Viva: Booking flags a happy hour and it costs $36 a night.
+- Casa Viva: $36 a night, dearer than the pick (its happy hour would be a plus).
 - Che Lagarto: flagged as a party hostel.
 - Remo Hostel: rated 100%, but it is 8 km out near Paraty-Mirim.
 
@@ -251,7 +252,7 @@ Not chosen:
 **Backup:** **O de Casa Hostel Bar**, R. Inácio Pereira da Rocha 385, Pinheiros (Vila Madalena edge, about 10 min to Fradique Coutinho metro). Bed in a 6- or 12-bed dorm.
 - **Rating:** Hostelworld 97% (4,994): 2 of the last 100 below 60%. Booking 1,596 reviews.
 - **Total for 2 nights:** **Booking €39 ≈ $42.59**, Hostelworld $45.61 non-refundable, Agoda $46.81.
-- **Drawback:** it has its own bar, and a Jul 2026 review warns about outsiders drinking there at night. Book it only if Lamparina sells out.
+- **Drawback:** a Jul 2026 review warns about outsiders drinking in its bar late at night. That's a security point, not the bar itself. Book it only if Lamparina sells out.
 
 **Private alt (Booking location-first, room tables checked 24 Nov 2026):** Single room in Vila Madalena: **$40** for 2 nights. Booking location **9.7**, 9.1 from 52 reviews (8% bad). Or a whole studio, Estúdio Moderno Vila Madalena, location 9.4, 9.1 from 88, ~$58. Vila Madalena is ~4 km from Paulista but a top-rated area.
 
