@@ -287,3 +287,20 @@ The consensus "Huaraz-like" towns for Dec–Feb are El Chaltén, Bariloche, Puer
 - **Skip:** Sajama (spur), Iruya (dirt road washes out in January), Sorata (muddy, cloudy in January), the Arequipa volcano climbs (agencies pause them Jan–Mar), Brotas and Bonito (all paid and agency-only), Cotahuasi (dry season only).
 
 Hostelworld barely lists the small hubs (Teresópolis, Potrerillos, San Gerardo, Gracias, Somoto all 0), so use Booking or the guesthouses' own sites there.
+
+## 11. Panama kept (user, 24 Nov)
+
+Panama becomes the way into Central America, so the north-west run never doubles back:
+
+| Leg | Notes |
+|---|---|
+| ✈ Arequipa → Lima $62, then ✈ Lima → Panama City $254 | Google Flights doesn't sell these as one ticket (it showed $1,400+ via Mexico). Book two tickets and leave a long gap or a night in Lima. Arequipa → San José was $263, so Panama costs ≈ $53 more |
+| Panama City (2 nights) | Casco Viejo, the Canal, Parque Natural Metropolitano |
+| → Boquete (3–4 nights), via a ~7 h bus to David or a short flight | **Adventure hub:** Volcán Barú 3,474 m sunrise climb, Lost Waterfalls, the Quetzal trail, Chiriquí rafting. February is the dry season (rain on 22% of days in Panama) |
+| → Paso Canoas border → San Isidro → **San Gerardo de Rivas (Chirripó)** | Costa Rica starts at its southern end |
+| → Uvita / Dominical → Manuel Antonio → Monteverde → Arenal → Rincón de la Vieja → Nicaragua (south → north) | Mountains, then coast, then cloud forest, then volcanoes |
+
+**Days:** with Panama the route is 91 typical days.
+- Land in Rio **8 Dec** (business 7 Dec): ends ≈ **11 Mar**, leaving only **4 days** before 15 Mar.
+- Land in Rio **4 Dec** (business 3 Dec, 1 seat; or economy 30k on 2 or 4 Dec, 9 seats): ends ≈ 7 Mar, leaving 8 days.
+- The adventure-hub extras from section 10 (≈ +6 days) don't fit without cutting from the end. The candidate is Nicaragua (14 days), e.g. Somoto plus one beach night, ≈ −4.
