@@ -13,7 +13,7 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 
 ## (a) Bottom line
 
-**Carry about $4.1k: the ~$3.5k expected-spend ceiling plus a ~$0.6k lodging buffer for switching to private rooms. Expected spend at the dorm picks is about $2.9–3.5k for the leg, or $94–112 a day over 31 days.** That includes the ~$400 exit flight Salvador → south. Without that flight, the Brazil leg costs **about $2.5–3.1k**.
+**Carry about $4.2k: the ~$3.5k expected-spend ceiling plus a ~$0.7k lodging buffer for switching to private rooms. Expected spend at the dorm picks is about $2.9–3.5k for the leg, or $94–112 a day over 31 days.** That includes the ~$400 exit flight Salvador → south. Without that flight, the Brazil leg costs **about $2.5–3.1k**.
 
 - **Living: about $1.48k, or ~$48/day.**
   - Dorm beds ~$0.52k (~$18/night)
@@ -26,7 +26,7 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
   - Route-change reserve: ~$0.1–0.15k
   - Sights and guides: ~$0.16–0.34k
   - E-visa, insurance and eSIM: ~$0.16–0.21k
-- **Lodging buffer (private-room fallback), +~$0.6k:** every stop in the [itinerary](itinerary.md) now names a live-checked **private alternative** (Hostelworld room lists, 24 Nov). Taking all of them comes to **~$1,130 against ~$520 at the dorm picks**. It's carried as a buffer, not planned spend.
+- **Lodging buffer (private-room fallback), +~$0.7k:** every stop in the [itinerary](itinerary.md) names a **location-first private alternative**: Booking location ≥ 9.0, 30+ reviews, ≤10% bad, totals from the room tables (24 Nov). Taking all of them comes to **~$1,200 against ~$520 at the dorm picks**. It's carried as a buffer, not planned spend.
 - **Private-room variant:** +$0.66k in lodging (+$0.73k with the cushion), so **about $3.6–4.2k**.
 - **The award flight SEA→GIG (30,000 Alaska points + $26) is worth about $540.** On Google Flights the cheapest cash one-way for 3 Dec is **$565** (Air Canada via Toronto, 23 h 20 min); Air Canada via Vancouver and Toronto is $645, and Delta via JFK and Atlanta is $885. That values the points at **~1.8¢ each**, above the 1.3–1.5¢ bar. Counting it, **the leg's all-in value is about $3.45–4.0k.**
 
@@ -72,8 +72,8 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 | Travel insurance, 1 month | ~$60–100 | Estimate (nomad-type policy for a month; not quoted this session) |
 | eSIM, 30 days | ~$15–25 | Estimate; a local TIM/Claro prepaid SIM (≈ R$20–40) is the cheaper fallback if it registers with a passport |
 | **Expected cash total** | **~$2.9–3.5k** | Without the exit flight: ~$2.5–3.1k |
-| Lodging buffer (private-room fallback) | ~$0.6k | Private alternative at every stop (~$1,130 vs ~$520 dorms) |
-| **Carry** | **~$4.1k** | Expected-spend ceiling + lodging buffer |
+| Lodging buffer (private-room fallback) | ~$0.7k | Location-first private at every stop (~$1,200 vs ~$520 dorms) |
+| **Carry** | **~$4.2k** | Expected-spend ceiling + lodging buffer |
 | Award flight value (SEA→GIG) | +~$0.54k | Cheapest cash fare $565 (Google Flights, 24 Nov) minus the $26 paid; 30k points at ~1.8¢ each |
 
 ### Transport by leg (one-way, 1 adult)
