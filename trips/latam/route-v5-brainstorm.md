@@ -257,3 +257,33 @@ On 1, 2 and 4 Dec no business seats are open. A cheaper-looking 18 h option on 8
 **United (Chase points) is not worth it:**
 - Polaris via Houston with first-class US legs is 295,000–395,000 miles (Standard).
 - The 88,000-mile "business" saver is Avianca A320 recliners via Bogotá, with economy US legs.
+
+## 10. Adventure hubs along the route ("like Huaraz"), web sweep 24 Nov
+
+Sources: Google AI Mode sweeps per region (Reddit/blog consensus, Wikivoyage, operator and park sites), Hostelworld's listings API on the planned dates, and the CONAF and SINAC rules as quoted in those summaries (to confirm on the official pages before booking).
+
+The consensus "Huaraz-like" towns for Dec–Feb are El Chaltén, Bariloche, Puerto Natales (all Patagonia, already done), **Pucón** and **San Pedro de Atacama**. Bolivia and southern Peru are in their rainy season. Morning hikes work there, but most agencies pause the 5–6,000 m climbs.
+
+**A. On the route, little or no detour**
+
+| Hub | Where it sits | Adventure | Season on our dates | Cost / access | Extra days |
+|---|---|---|---|---|---|
+| **Teresópolis (Serra dos Órgãos)** | Straight from GIG airport, before Rio city: GIG → Teresópolis → Rio → Ilha Grande, no repeats | Brazil's climbing and trekking hub: Pedra do Sino, Dedo de Deus views, the Petrópolis–Teresópolis traverse (3 d) | Dec: afternoon storms, so start at 7 am | Bus Rio → Teresópolis 2 h, 16 a day; small park fee; free trails outside the gate | +2 |
+| **Sierra de las Ánimas** (Uruguay) | On the Montevideo → Cabo Polonio highway, 1.5 km walk from the bus stop | Ridge day hike, rock pools | Dec fine (hot) | Coastal buses | 0 |
+| **Los Gigantes** (Córdoba) | Inside the Córdoba days | 2–3 day unguided traverse, Club Andino refuge, scrambling | Afternoon storms | Sarmiento bus to Casas Nuevas (1–2 a day); register at the trailhead | 0 |
+| **Potrerillos / Vallecitos** (Mendoza) | On the road from Mendoza to Chile; it replaces the Mendoza city night | Cordón del Plata hikes to ~4,200 m, Río Mendoza rafting | Dry (14% wet days) | Bus Mendoza → Potrerillos 1 h, then a transfer up | +1 |
+| **Cajón del Maipo** (Santiago) | Short spur from Santiago, which the Calama flight leaves from anyway | **El Morado glacier hike** (12–15 km), Baños Morales hot pools, Valle Colina | Prime season (dry) | Metrobús 72A daily in summer, ~2.5 h, about CLP 5,000; El Morado CLP 9,300, booked on Pases Parques, **closed Mondays**, last entry 12:30 | +2 |
+| **San Pedro de Atacama** | On the route | **Cerro Toco 5,604 m** (non-technical walk-up), Láscar 5,592 m | Clear mornings; afternoon cloud from January | Toco ≈ $110–150 guided (no buses to trailheads) | +1 |
+| **Tupiza** | On the route | Red canyon treks, horse riding; the start of the 4-day Uyuni tour | Drier rain-shadow valley | — | 0 |
+| **La Paz: Condoriri / Pico Austria 5,320 m** | Out from La Paz and back | 2-day non-technical summit, glacier lagoon | January: summit in the morning, sleet in the afternoon | Agency trip | +2 |
+| **Colca (Cabanaconde → Sangalle)** | On the route (Puno → Chivay → Arequipa) | Self-guided canyon trek | Wet but open; climb out at 5 am | Boleto turístico S/70 | 0 |
+| **San Gerardo de Rivas (Chirripó 3,820 m)**, Costa Rica's Huaraz | Start Costa Rica in the south, then go north up the Pacific side | 2-day climb with a night at Base Crestones | Feb is peak dry season | SINAC ≈ $18/day + Crestones bunk (60 a night), **February dates are already on sale**; the park closes the last weekend of Feb for a race | in CR days |
+| **León + Ometepe + Somoto** (Nicaragua) | South → north through Nicaragua | Cerro Negro boarding, Telica overnight, Concepción, Somoto canyon ($20–30) | Dry | Cheap | in NI days |
+| **Gracias / Celaque** (Honduras), Honduras's Huaraz | Straight on north from Somoto via El Espino, then fly home from San Pedro Sula | Cerro Las Minas 2,870 m, 1–3 days; Lake Yojoa | Dry | Park < $10 | only if Honduras returns |
+
+**B. Big hubs that need a route change**
+- **Pucón** (Villarrica climb $130–180 guided, Huerquehue, rafting), Chile's Huaraz. A linear way in: Córdoba → Neuquén → San Martín de los Andes → Mamuil Malal pass → **Pucón** → overnight bus → Santiago. That replaces the Mendoza crossing and adds ≈ 3–4 days; the summer bus over the pass still needs confirming. Pucón has 13 places on Hostelworld for 30 Dec (Soley Hostel 9.7, $21).
+- **Torotoro** (canyons, dinosaur tracks): Sucre → Cochabamba → Torotoro → La Paz, instead of the $50 flight. Caves close when flooded in January. Adds ≈ 3 days.
+- **Skip:** Sajama (spur), Iruya (dirt road washes out in January), Sorata (muddy, cloudy in January), the Arequipa volcano climbs (agencies pause them Jan–Mar), Brotas and Bonito (all paid and agency-only), Cotahuasi (dry season only).
+
+Hostelworld barely lists the small hubs (Teresópolis, Potrerillos, San Gerardo, Gracias, Somoto all 0), so use Booking or the guesthouses' own sites there.
