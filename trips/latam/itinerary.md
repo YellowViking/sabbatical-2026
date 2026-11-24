@@ -19,10 +19,13 @@
 | 23 → 24 Dec | **Maceió** (1) | Wanderlust, male dorm with curtains ≈ $17.50 | Real Alagoas 10:00 → 14:50 (~$16) | Pousart double $32 (loc 9.4) |
 | 24 → 27 Dec | **Salvador**, Christmas (3) | Nomads Hostel Multicultural (Barra; curtains, kitchen) $56 | Rota 11:00 → 21:30 (~$58), after the reef pools on the 24th | Studio 904 flat $148 (loc 9.8) |
 | 27 → 31 Dec | **Lençóis / Chapada Diamantina** (4) | Chapada Backpackers ≈ $34 (or 3-day Vale do Pati trek 28–30 Dec, ~$285 all-in) | Rápido Federal 08:00 → 14:40, R$140 | Chalé Orion double $134 (loc 9.0) |
-| 31 Dec → 2 Jan | **Salvador**, New Year's Eve (2) | Hostel Casarão 65 (Barra) $46, Hostelworld only | Rápido Federal 09:15 → 16:15, R$137 | Viver Bahia $319 (loc 9.4) · Nega Maluca $84 |
-| ~2 Jan | ✈ Salvador → the south | — | Porto Alegre $399 (Gol nonstop 00:15) · Florianópolis $339 · Curitiba $382 | — |
+| 31 Dec → 1 Jan | **Salvador**, New Year's Eve (1) | Hostel Casarão 65 (Barra), ~$23 for the night, Hostelworld only | Rápido Federal 09:15 → 16:15, R$137 | Viver Bahia $319 (loc 9.4) · Nega Maluca $84 |
+| **Fri 1 Jan, 22:20** | ✈ Salvador → **Porto Alegre** | — | **LATAM nonstop $138** (lands ~01:20; book a bed by the airport). On 2 Jan it's $400. Other 1 Jan fares: Curitiba $130 · Iguaçu $147 · São Paulo $145 · Florianópolis $158 | — |
 
 **Private-room buffer:** taking the location-first private room at every stop (Booking location ≥ 9.0, 30+ reviews, ≤10% bad, totals from the room tables) comes to about **$1,200 for the 29 nights, against ~$520 at the dorm picks (+~$680)**. Using the cheaper private picks already in place at Jericoacoara and Canoa, plus Nega Maluca for New Year, it's ~$920 (+~$400). The budget carries +$0.7k as a lodging buffer. **Cheapest channel (Google Maps seller check, 24 Nov):** your signed-in Booking (Genius) price beat every other listed seller by 5–25% (Priceline, Agoda, Expedia, Hotels.com, Trip.com). 6 of the 12 picks are Booking-only listings, so book these on Booking while signed in.
+
+
+**Fly out on New Year's Day (Google Flights price calendar, 24 Nov):** every flight south out of Salvador costs $130–158 on 1 Jan, against $266–400 on 2 Jan and $344–460 on 3 Jan. Prices only fall back under ~$200 around 6–8 Jan. Taking LATAM's 22:20 on 1 Jan saves ~$260 and one New Year-priced bed. You still get New Year's Eve and all of New Year's Day in Salvador, and miss only the festival's last two days (2–3 Jan).
 
 ## Book these first (they sell out)
 

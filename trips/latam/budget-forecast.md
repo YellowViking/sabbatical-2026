@@ -13,7 +13,7 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 
 ## (a) Bottom line
 
-**Carry about $4.2k: the ~$3.5k expected-spend ceiling plus a ~$0.7k lodging buffer for switching to private rooms. Expected spend at the dorm picks is about $2.9–3.5k for the leg, or $94–112 a day over 31 days.** That includes the ~$400 exit flight Salvador → south. Without that flight, the Brazil leg costs **about $2.5–3.1k**.
+**Carry about $3.9k: the ~$3.2k expected-spend ceiling plus a ~$0.7k lodging buffer for switching to private rooms. Expected spend at the dorm picks is about $2.6–3.2k for the leg (flying out on 1 Jan for $138, not ~$400 on 2 Jan), or $94–112 a day over 31 days.** That includes the ~$400 exit flight Salvador → south. Without that flight, the Brazil leg costs **about $2.5–3.1k**.
 
 - **Living: about $1.48k, or ~$48/day.**
   - Dorm beds ~$0.52k (~$18/night)
@@ -64,16 +64,16 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 | Local + routine | ~$0.15k | Metro, Uber at night, laundry, Jeri TSA tax |
 | **Living subtotal** | **~$1.48k** | **~$48/day** |
 | 10% living cushion | ~$0.15k | December high season, holiday closures |
-| Transport: flights | ~$0.62–0.71k | $26 award taxes + GRU→JJD $225–249 (seen) + Salvador→south $370–430 (seen, New Year peak) |
+| Transport: flights | ~$0.35k | $26 award taxes + GRU→JJD ~$188 (Google price calendar: flat $188 for 9–13 Dec) + Salvador→Porto Alegre **$138 on 1 Jan** (LATAM 22:20; $400 on 2 Jan) |
 | Transport: ground and boats | ~$0.25–0.45k | 12 bus/boat/transfer legs, see the table below |
 | Route-change reserve | ~$0.1–0.15k | Europe lesson: zigzags and changes cost more than the backbone |
 | Sights, guides and park fees | ~$0.16–0.34k | Chapada guides are the big item |
 | Brazil e-visa | $80.90 | Required for US citizens since 10 Apr 2025 (fee as given in the brief) |
 | Travel insurance, 1 month | ~$60–100 | Estimate (nomad-type policy for a month; not quoted this session) |
 | eSIM, 30 days | ~$15–25 | Estimate; a local TIM/Claro prepaid SIM (≈ R$20–40) is the cheaper fallback if it registers with a passport |
-| **Expected cash total** | **~$2.9–3.5k** | Without the exit flight: ~$2.5–3.1k |
+| **Expected cash total** | **~$2.6–3.2k** | Without the exit flight: ~$2.5–3.1k |
 | Lodging buffer (private-room fallback) | ~$0.7k | Location-first private at every stop (~$1,200 vs ~$520 dorms) |
-| **Carry** | **~$4.2k** | Expected-spend ceiling + lodging buffer |
+| **Carry** | **~$3.9k** | Expected-spend ceiling + lodging buffer |
 | Award flight value (SEA→GIG) | +~$0.54k | Cheapest cash fare $565 (Google Flights, 24 Nov) minus the $26 paid; 30k points at ~1.8¢ each |
 
 ### Transport by leg (one-way, 1 adult)
@@ -95,7 +95,7 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 | Maceió → Salvador, 24 Dec | $44–58 | R$258–300 on ClickBus for 24 Dec (the "from R$196" fare is not on this date); via Aracaju R$150 + R$145 |
 | Salvador ⇄ Lençóis ×2 | $48–80 | Rápido Federal (now runs the route, not Rota) R$140–236 each way (Quero Passagem / ClickBus) |
 | Salvador → airport | $1 | Metro R$4.10 (CCR Metrô Bahia) |
-| Salvador → Porto Alegre / Curitiba / Florianópolis, ~2 Jan | $370–430 | Known, New Year peak (brief); belongs to the next leg if Uruguay is budgeted separately |
+| Salvador → Porto Alegre, **1 Jan 22:20** | $138 | Google price calendar, 24 Nov. 2 Jan is $400, 3 Jan $422. Curitiba $130, Iguaçu $147 on 1 Jan |
 | **Total cash** | **~$0.87–1.16k** | Ground and boats ~$0.25–0.45k; flights ~$0.62–0.71k |
 
 ### Sights and paid activities (free version first)
@@ -221,7 +221,7 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 - **Hike to Christ via Parque Lage and skip the Sugarloaf cable car** (Urca trail and Dois Irmãos instead). This saves $33–57.
 - **Self-guide the Chapada days where it's legal and safe** (Ribeirão do Meio, Serrano, Primavera; Pai Inácio by bus), and take a guide only for Fumaça or Poço Encantado. This saves ~$50–100.
 - **Cook at Christmas and New Year.** Many restaurants close on 24–25 Dec and 31 Dec–1 Jan, and most of the listed Salvador hostels have kitchens. It also avoids holiday menus.
-- **Budget the exit flight in the next leg**, or pay for it with points if it's the New Year peak ($370–430). This takes ~$0.4k off this leg.
+- **Fly out on 1 Jan, not 2 Jan:** $138 against $400 (done in the itinerary). Every 2–3 Jan departure carries the New Year peak.
 - **If Uruguay doesn't need it, fly out on 3–4 Jan instead of 2 Jan**, when the peak eases (unverified).
 
 **Pricier:**
