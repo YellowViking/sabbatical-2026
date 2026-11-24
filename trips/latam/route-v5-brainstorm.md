@@ -207,3 +207,34 @@ Model: score −1.7 vs 0.6 without Bahia. It costs 7 days in holiday peaks and l
 | 19 | Nicaragua | colonial cities, volcanoes, lake island, one surf **beach** |
 
 There are four beach stops in three months, and no two are back to back. The one long run of similar scenery is **12–14: about two weeks of high desert and red canyons**. Break it with Salta city. Don't buy San Pedro's lagoon or geyser tours, because the Tupiza → Uyuni jeep tour covers the same sights (Sol de Mañana geysers, Lagunas Colorada and Verde). Use San Pedro for Valle de la Luna by bike and the night sky.
+
+## 8. Backtracking audit (user, 24 Nov: "routing optimal is important, avoid backtracking")
+
+**Bahia (section 7) is withdrawn.** Rio → ✈ Salvador → Chapada → bus back to Salvador → ✈ Rio is an out-and-back of about 2,600 km. Bahia lies 1,200 km north of a route that otherwise runs south and then west, so every version doubles back except one: **enter Brazil at Salvador**. That entry costs:
+- **Flight in:** SEA → Salvador is cash only, $631 on 3 Dec. Alaska has no award space to Salvador, against 30k points + $26 to Rio.
+- **Leaving Chapada:** Lençóis → Belo Horizonte by bus takes 24–30 h, via Seabra and Montes Claros. The alternative is Azul's Thursday flight, $138, which itself connects through Salvador.
+- **Then** Belo Horizonte → Rio.
+- **Overall:** +≈ 8 days, the Rio corridor moves into the holidays, Uruguay lands on New Year, and the buffer shrinks to ≈ 10.
+
+**Verdict:** keep Bahia, Morerê and Chapada for a Sep–Nov trip to Brazil's north-east, together with Lençóis Maranhenses, the Pantanal and Bonito.
+
+**The route without Bahia, leg by leg:**
+
+| Leg | Direction | Repeats ground? |
+|---|---|---|
+| ✈ Seattle → Rio (Alaska 30k + $26) | | |
+| Rio → Ilha Grande → Paraty → São Paulo → Curitiba (Serra Verde train) → Iguaçu | south-west | no |
+| Iguaçu → Ciudad del Este → Asunción → Encarnación → Posadas | west, then south-east (a triangle) | no |
+| Posadas → Concordia → Salto → Montevideo | south | no |
+| Montevideo → **Cabo Polonio** → Montevideo | east and back | **yes, ≈ 4 h spur** |
+| Montevideo → Colonia → ferry → Buenos Aires (or Buquebus direct, 2 h 45) | west | no |
+| Buenos Aires → Córdoba → Mendoza → over the Andes → Santiago/Valparaíso | west | no |
+| ✈ Santiago → Calama ($43–88) → San Pedro → Paso de Jama → **Salta** | north, then east | Salta sits ≈ 2 h south of the line, so Salta ↔ Jujuy is passed twice |
+| Salta (**Cafayate as a day tour**) → Jujuy → Purmamarca/Tilcara/Humahuaca → La Quiaca → Tupiza | north | no |
+| Tupiza → 4-day jeep tour → Uyuni → Potosí → Sucre | north-east | no |
+| ✈ **Sucre → La Paz $50** (daily) instead of the overnight bus back through Potosí | north-west | no |
+| La Paz → Copacabana → Puno → **4M Express via Colca** (overnight in Chivay) → Arequipa | north-west | no; Colca is on the way, not a spur from Arequipa |
+| ✈ Arequipa → San José $263 | | |
+| Costa Rica → Nicaragua, fly home from Managua | north | no |
+
+Only two short repeats are left, Cabo Polonio (≈ 4 h) and Salta–Jujuy (≈ 2 h). Both are spurs to a single destination, not retraced legs.
