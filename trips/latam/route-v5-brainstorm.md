@@ -163,3 +163,47 @@ The other reason was the **91-day cap**:
 - The model also didn't know that the bus from La Paz to Lima runs **through** Copacabana, Puno and Arequipa anyway.
 
 With station normals in the model (`brainstorm_v5.py`), Titicaca stays. Keeping Titicaca, Arequipa/Colca, Córdoba and Salta/Jujuy all together drops the **Peru coast (Huacachina, Paracas; Lima is already visited), Panama and Honduras**. The plan then ends on ≈ 26 Feb with the 14-day buffer intact plus a few spare days. The exit flight leaves from Arequipa: AQP → San José $263 (1 and 5–8 Feb) vs LIM → San José $252.
+
+## 7. Bahia, with alternating scenery (user, 24 Nov: "alternate sceneries, don't want all beaches")
+
+**Bahia lite = Salvador (city) + Chapada Diamantina (mountains).** Morerê/Boipeba is left out because it duplicates Ilha Grande: both are car-free tropical islands with reef pools and trails between beaches. Ilha Grande is already on the route and has the better hiking (Papagaio, the circuit). Paraty also goes once Bahia is in: Salvador's Pelourinho covers the colonial-town side and Ilha Grande covers the beaches.
+
+| Date | Leg / stop | Scenery |
+|---|---|---|
+| Fri 4 Dec | Arrive GIG 09:25, ✈ Rio → Salvador ($157; $132 on 5 Dec) | |
+| 4 → 6 Dec | Salvador | colonial city, Afro-Brazilian culture |
+| Sun 6 Dec | Rápido Federal 08:00 → Lençóis 14:40 (also 13:00, 23:00) | |
+| 6 → 10 Dec | Lençóis / Chapada Diamantina | table mountains, canyons, waterfalls |
+| Thu 10 Dec | Overnight bus 23:00 → Salvador 06:00, ✈ Salvador → Rio Fri 11 Dec ($112) | |
+| 11 → 15 Dec | Rio | city + granite peaks (Tijuca, Pedra da Gávea) |
+| 15 → 17 Dec | Ilha Grande | island jungle trails + beaches (the one Brazilian beach stop) |
+| 17 → 19 Dec | São Paulo | megacity |
+| then | Curitiba → Serra Verde train → Iguaçu → Paraguay → Uruguay → Córdoba → … | Atlantic forest, waterfalls, … |
+
+Model: score −1.7 vs 0.6 without Bahia. It costs 7 days in holiday peaks and leaves **13 buffer days instead of 18**. There are 2 extra flights (≈ $270). Uruguay lands on 23–29 Dec, so do Cabo Polonio before ~27 Dec, when the New Year crowds arrive.
+
+**Scenery along the whole route:**
+
+| # | Stop | Scenery |
+|---|---|---|
+| 1 | Salvador | colonial city |
+| 2 | Chapada Diamantina | mountains, canyons |
+| 3 | Rio | city + peaks |
+| 4 | Ilha Grande | **beach** + jungle |
+| 5 | São Paulo | megacity |
+| 6 | Serra Verde train, Iguaçu | Atlantic forest, waterfalls |
+| 7 | Asunción, Encarnación | city, Jesuit ruins |
+| 8 | Salto, Montevideo | hot springs, city |
+| 9 | Cabo Polonio | **beach**, dunes |
+| 10 | Colonia, Córdoba + Sierras | colonial town, hills |
+| 11 | Andes crossing, Santiago, Valparaíso | high mountains, city, Pacific port |
+| 12 | San Pedro de Atacama | desert |
+| 13 | Purmamarca/Jujuy, Salta, Cafayate | coloured canyons, city, vineyards |
+| 14 | Tupiza → Uyuni | canyons, lagoons, salt flat |
+| 15 | Potosí, Sucre, La Paz | colonial and mining cities, mountain city |
+| 16 | Titicaca | lake, islands |
+| 17 | Arequipa, Colca | colonial city, canyon |
+| 18 | Costa Rica | volcanoes, rainforest, cloud forest, one **beach** |
+| 19 | Nicaragua | colonial cities, volcanoes, lake island, one surf **beach** |
+
+There are four beach stops in three months, and no two are back to back. The one long run of similar scenery is **12–14: about two weeks of high desert and red canyons**. Break it with Salta city. Don't buy San Pedro's lagoon or geyser tours, because the Tupiza → Uyuni jeep tour covers the same sights (Sol de Mañana geysers, Lagunas Colorada and Verde). Use San Pedro for Valle de la Luna by bike and the night sky.

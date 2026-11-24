@@ -13,13 +13,14 @@ D_ = dt.date
 #   Colca (Chivay) 54/115/117/86 mm., typical days, (lat,lon), highland, new country, peak periods
 R = {
  'Bahia (Salvador, Boipeba/Morerê, Chapada)': ((50,61,58,59),10, (-12.97,-39.5), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),  # a friend's tip, 24 Nov: Morerê (Boipeba) + Chapada
+ 'Bahia lite (Salvador, Chapada)':            ((50,61,58,59), 7, (-12.6,-40.4), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),  # city + mountains; no 2nd island (Ilha Grande is the beach)
  'Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)': ((61,67,64,57), 9, (-23.0,-44.5), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),
  'Iguaçu (+ Curitiba)':                      ((45,53,46,42), 3, (-25.55,-54.58),False, True,  [(D_(2026,12,20), D_(2027,2,10))]),
  'Paraguay (Asunción, Encarnación)':         ((37,41,38,37), 4, (-26.3,-56.7),  False, True,  []),
  'Buenos Aires':                             ((26,27,25,29), 3, (-34.6,-58.4),  False, False, []),
  'Uruguay (Colonia, Montevideo, Cabo Polonio)': ((28,30,35,35), 6, (-34.6,-55.5), False, True, [(D_(2026,12,24), D_(2027,2,15))]),
  'Central Chile (Santiago, Valparaíso)':     ((3,2,2,3),     5, (-33.2,-71.1),  False, True,  []),
- 'Córdoba + Sierras (Mendoza = transit)':    ((36,45,42,40), 5, (-31.4,-64.4),  False, False, []),   # replaces Mendoza (visited); Feb/Mar wet % estimated
+ 'Córdoba + Sierras (Mendoza = transit)':    ((36,45,42,40), 5, (-31.4,-64.4),  False, False, [(D_(2027,1,1), D_(2027,2,15))]),   # Argentine January holidays fill the Sierras   # replaces Mendoza (visited); Feb/Mar wet % estimated
  'NW Argentina (Salta, Jujuy, Cafayate)':    ((61,67,63,54), 7, (-24.5,-65.5),  True,  False, []),
  'Atacama + Uyuni':                          ((16,33,37,18), 8, (-21.5,-67.5),  True,  True,  []),
  'Bolivia cities (Sucre, Potosí, La Paz)':   ((69,75,78,70), 7, (-18,-66.5),    True,  True,  []),
@@ -39,7 +40,7 @@ for r in filter(None, os.environ.get('DROP','').split(',')): R.pop(next(k for k 
 for kv in filter(None, os.environ.get('DAYS','').split(',')):
     k, v = kv.split('='); k = next(x for x in R if x.startswith(k)); R[k] = R[k][:1] + (int(v),) + R[k][2:]
 CHAINS = {  # each chain runs in this order or reversed, skipping unselected regions; chains are permuted
- 'EAST':  ['Bahia (Salvador, Boipeba/Morerê, Chapada)','Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)','Buenos Aires',
+ 'EAST':  ['Bahia (Salvador, Boipeba/Morerê, Chapada)','Bahia lite (Salvador, Chapada)','Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)','Buenos Aires',
            'Uruguay (Colonia, Montevideo, Cabo Polonio)'],
  'CHILE': ['Córdoba + Sierras (Mendoza = transit)','Central Chile (Santiago, Valparaíso)'],
  'ANDES': ['NW Argentina (Salta, Jujuy, Cafayate)','Atacama + Uyuni','Bolivia cities (Sucre, Potosí, La Paz)','Titicaca (Copacabana, Puno)',
