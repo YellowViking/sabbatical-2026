@@ -7,7 +7,10 @@
 # Run: python3 tools/route-optimizer/brainstorm_v5.py     (env: HR, VISITED, PEAK, BUFFER)
 import itertools, math, os, datetime as dt
 D_ = dt.date
-# name: (wet-day % Dec,Jan,Feb,Mar — Open-Meteo 2016-25, day ≥1 mm, averaged over the named places), typical days, (lat,lon), highland, new country, peak periods
+# name: (wet-day % Dec,Jan,Feb,Mar — Open-Meteo 2016-25, day ≥1 mm, averaged over the named places)
+#   Titicaca and S Peru use STATION normals instead (24 Nov): reanalysis overstated them badly. Copacabana SENAMHI rain days
+#   13.0/19.4/13.6/13.3 (Dec–Mar) vs 81–93% in Open-Meteo; Arequipa WMO 4/28/36/21 mm and 18 rain days a YEAR vs 102 mm in Jan;
+#   Colca (Chivay) 54/115/117/86 mm., typical days, (lat,lon), highland, new country, peak periods
 R = {
  'Bahia (Salvador, Boipeba/Morerê, Chapada)': ((50,61,58,59),10, (-12.97,-39.5), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),  # a friend's tip, 24 Nov: Morerê (Boipeba) + Chapada
  'Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)': ((61,67,64,57), 9, (-23.0,-44.5), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),
@@ -20,8 +23,8 @@ R = {
  'NW Argentina (Salta, Jujuy, Cafayate)':    ((61,67,63,54), 7, (-24.5,-65.5),  True,  False, []),
  'Atacama + Uyuni':                          ((16,33,37,18), 8, (-21.5,-67.5),  True,  True,  []),
  'Bolivia cities (Sucre, Potosí, La Paz)':   ((69,75,78,70), 7, (-18,-66.5),    True,  True,  []),
- 'Titicaca (Copacabana, Puno)':              ((80,86,93,86), 3, (-16,-69.5),    True,  True,  []),
- 'S Peru highlands (Arequipa, Colca)':       ((38,67,80,73), 4, (-16,-71.6),    True,  False, []),
+ 'Titicaca (Copacabana, Puno)':              ((42,63,49,43), 3, (-16,-69.5),    True,  True,  []),
+ 'S Peru highlands (Arequipa, Colca)':       ((19,38,43,34), 4, (-16,-71.6),    True,  False, []),
  'Peru coast (Huacachina, Paracas, Lima)':   ((3,13,17,8),   5, (-13.9,-76),    False, False, []),
  'Panama':                                   ((63,35,22,26), 6, (9,-79.5),      False, True,  [(D_(2026,12,20), D_(2027,1,5))]),
  'Costa Rica':                               ((67,57,50,52),10, (10,-84.3),     False, True,  [(D_(2026,12,20), D_(2027,1,5))]),

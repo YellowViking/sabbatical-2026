@@ -142,3 +142,24 @@ Mendoza is already visited, so it becomes a transit night. The new stop is **Có
 - **Paso de Agua Negra to the Elqui Valley:** not expected to open before January 2027, and only small minibuses use it.
 - **San Luis (Merlo, Quijadas):** no bus to Quijadas.
 - **Uspallata (Aconcagua):** dry and cool, and on the Santiago road. It's still a possible one-night break on the crossing, but Hostelworld has nothing there.
+
+## 6. Titicaca and Arequipa/Colca: wet, or a bad input?
+
+They were dropped mainly because of a **bad input**. The weather data came from reanalysis (Open-Meteo), a model estimate on a ~25 km grid. Over the dry Andes it overstated rain badly. Station normals:
+
+| Place | Rain (Dec / Jan / Feb), station | Reanalysis had | Source |
+|---|---|---|---|
+| **Arequipa city** | **4 / 28 / 36 mm**, ~18 rain days in the *whole year* | 21 / 102 / 169 mm, rain on 46% of January days | WMO, via Wikipedia |
+| Colca (Chivay) | 54 / 115 / 117 mm | Cabanaconde 87 / 247 / 266 mm | Wikipedia climate table |
+| Titicaca (Copacabana) | 109 / 185 / 113 mm on 13 / 19 / 14 days (42 / 63 / 49% of days) | 81 / 87 / 93% of days | SENAMHI Bolivia, via Wikipedia |
+| La Paz (control) | 95 / 134 / 105 mm on 16 / 21 / 16 days | 60 / 67 / 69% | matches |
+
+- **Arequipa** is desert; January isn't a problem there.
+- **Colca** really is in its rainy season in late January. In the hourly data, most of the rain falls in the afternoon: 67% of January mornings are dry (< 0.5 mm, 06–13 h). That suits the 5 am climb out of the canyon.
+- **Titicaca** is the wettest stop on the route, with rain on about 19 January days. It's a short stop, and the Isla del Sol walk is a morning walk.
+
+The other reason was the **91-day cap**:
+- Peru counts as a visited country (value 0.8 vs 1.0), and Panama (new, driest in February) narrowly beat these stops.
+- The model also didn't know that the bus from La Paz to Lima runs **through** Copacabana, Puno and Arequipa anyway.
+
+With station normals in the model (`brainstorm_v5.py`), Titicaca stays. Keeping Titicaca, Arequipa/Colca, Córdoba and Salta/Jujuy all together drops the **Peru coast (Huacachina, Paracas; Lima is already visited), Panama and Honduras**. The plan then ends on ≈ 26 Feb with the 14-day buffer intact plus a few spare days. The exit flight leaves from Arequipa: AQP → San José $263 (1 and 5–8 Feb) vs LIM → San José $252.
