@@ -442,7 +442,7 @@ Prices in **USD** at 1 USD = R$6.00 and €1 = US$1.094 (ECB, 23 Nov 2026). Book
 - Kitchen (Hostelworld).
 - Address: Rua Praia do Amor 137, about 600 m from the centre (location 9.7).
 - The dorm is open-air with **curtains** around the beds. One Sep 2026 review says that without walls you hear a nearby club, and another that you wake at 04:30 with the sun. Pack earplugs and an eye mask.
-- No party pattern.
+- No party pattern. **It does have a pool (and a bar)**, but the reviews don't describe a pool-party scene. If you'd rather avoid a pool hostel, the backup Casa Kuki's has curtains and no pool.
 
 **Backup:** **Casa Kuki's, bed in a 6-bed mixed dorm: €27 ≈ US$30 for 3 nights.**
 - Reviews: 9.2 from 302. Spread: 250 / 40 / 10 / 2 / 0 (**0.7% low**). Curtains mentioned positively. No party or noise complaints.
