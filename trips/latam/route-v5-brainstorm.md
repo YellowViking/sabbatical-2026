@@ -304,3 +304,69 @@ Panama becomes the way into Central America, so the north-west run never doubles
 - Land in Rio **8 Dec** (business 7 Dec): ends ≈ **11 Mar**, leaving only **4 days** before 15 Mar.
 - Land in Rio **4 Dec** (business 3 Dec, 1 seat; or economy 30k on 2 or 4 Dec, 9 seats): ends ≈ 7 Mar, leaving 8 days.
 - The adventure-hub extras from section 10 (≈ +6 days) don't fit without cutting from the end. The candidate is Nicaragua (14 days), e.g. Somoto plus one beach night, ≈ −4.
+
+## 12. Every leg: how, how long, how much (24 Nov)
+
+✅ = checked live today (Google Flights price calendar, Alaska award search, the v4 itinerary's live checks). ≈ = Google AI Mode summaries of Busbud, CheckMyBus, Rome2Rio and operator sites. Confirm ≈ prices on the operator's own shop when booking.
+
+| # | Leg | How | Time | Cost (USD) |
+|---|---|---|---|---|
+| 1 | Seattle → Rio (GIG) | ✈ AA via Philadelphia + Miami, Alaska award, business with first-class US legs | 19 h | ✅ 60k pts + $26 (economy 30k + $26) |
+| 2 | GIG → Copacabana | BRT + metro (or Uber) | ~1 h | ✅ $2 (Uber $10–17) |
+| 3 | Rio → Ilha Grande | Bus to Conceição de Jacareí + boat (or Angra + state ferry) | 3–3½ h | ≈ $17–25 |
+| 4 | Ilha Grande → Paraty | Ferry 10:00 + Colitur bus 12:40 | ~3½ h | ✅ $9 (R$48) |
+| 5 | Paraty → São Paulo | Reunidas bus | 6½–7 h | ✅ $19 (R$100) |
+| 6 | São Paulo → Curitiba | Bus (Cometa, Penha, FlixBus) | 6½–7½ h | ≈ $16–26 |
+| – | *optional:* Curitiba → Morretes → Curitiba | Serra Verde Express train 08:30 (4 h), bus back (1¼ h) | day trip | ≈ $38–40 + $6–9 |
+| 7 | Curitiba → Foz do Iguaçu | Overnight bus, semi-sleeper (sleeper $80–100; flight $95–180) | 10–12 h | ≈ $53–67 |
+| 8 | Foz → Ciudad del Este → Asunción | Border bus + NSA/RYSA bus | 5½–7 h | ≈ $14–22 |
+| 9 | Asunción → Encarnación | Bus (NSA) | 5–6 h | ≈ $10–27 |
+| 10 | Encarnación → Posadas | International train over the bridge | 8 min | ≈ $2–4 |
+| 11 | Posadas → Concordia | Overnight bus (Crucero del Norte, Flechabus) | 8–9½ h | ≈ $26–57 |
+| 12 | Concordia → Salto | Bus over the dam (11:15 or 18:15) | ~1 h | ≈ $6–7 |
+| 13 | Salto → Montevideo | Bus (Agencia Central) | 6–6½ h | ≈ $35–45 |
+| 14 | Montevideo → Cabo Polonio | Rutas del Sol bus + 4x4 truck into the village (truck sold as a round trip; park included) | ~5 h | ≈ $25 + $11.50 |
+| 15 | Cabo Polonio → Colonia | Bus via Montevideo (the spur back) | 8–8½ h | ≈ $39–42 |
+| 16 | Colonia → Buenos Aires | Ferry (Colonia Express cheaper than Buquebus) | 1¼ h | ≈ $42–67 |
+| 17 | Buenos Aires → Córdoba | Overnight bus, sleeper | 8–9½ h | ≈ $45–65 |
+| 18 | Córdoba → Mendoza | Overnight bus (semi-sleeper; sleeper $60–85) | 9–10½ h | ≈ $25–45 |
+| 19 | Mendoza → Santiago | Day bus over the Andes (take the 7–8 am bus) | 7–9 h | ≈ $25–48 |
+| 20 | Santiago → Calama | ✈ JetSMART / Sky / LATAM | 2 h | ✅ $43–88 ($43 on 6–10 Jan) |
+| 21 | Calama → San Pedro de Atacama | Bus | 1½ h | ≈ $7–17 |
+| 22 | San Pedro → Salta | Andesmar 07:30 over Paso de Jama (~6 days a week) | 10½–11½ h | ≈ $65–98 |
+| 23 | Salta → Jujuy → Purmamarca / Tilcara / Humahuaca | Buses along Ruta 9 | 1½–2½ h + 1–2½ h | ≈ $13–30 |
+| 24 | Humahuaca → La Quiaca, walk the border | Bus | 2–3 h | ≈ $9–14 |
+| 25 | Villazón → Tupiza | Bus | 1½–2 h | ≈ $4–8 |
+| 26 | Tupiza → Uyuni | **4-day jeep tour** (lodging and food included) + park fees | 4 days | ≈ $220–400 + $50–100 |
+| 27 | Uyuni → Potosí | Bus | 4 h | ≈ $6–18 |
+| 28 | Potosí → Sucre | Bus or shared taxi | 2½–4 h | ≈ $6–12 |
+| 29 | Sucre → La Paz | ✈ BoA, daily | 50 min | ✅ $50 |
+| 30 | La Paz → Copacabana | Bus + the Tiquina boat | 3½–4½ h | ≈ $4–9 |
+| 31 | Copacabana → Puno | Bus, Kasani border included | 3½–4½ h | ≈ $7–17 |
+| 32 | Puno → Chivay (Colca) | 4M Express tourist bus (Rutas del Sur $35–40) | ~6¼ h | ≈ $50–54 |
+| 33 | Chivay → Cabanaconde | Local bus (passes Cruz del Cóndor) | 1½–2½ h | ≈ $3–5 |
+| 34 | Cabanaconde → Arequipa | Bus | 5½–6½ h | ≈ $10–14 |
+| 35 | Arequipa → Lima → Panama City | ✈ two tickets (Sky/LATAM, then Copa) | 1½ h + 3½ h + layover | ✅ $62 + $254 |
+| 36 | Panama City → David → Boquete | Bus from Albrook (flight $70–190) + local bus | 7½–8½ h | ≈ $17–28 |
+| 37 | Boquete → David → Paso Canoas | 2 buses | ~2½ h | ≈ $5–15 |
+| 38 | Paso Canoas → San Isidro → San Gerardo de Rivas | Tracopa (Interamericana route) + local bus | 5½–7 h | ≈ $13–24 |
+| 39 | San Gerardo → San Isidro → Uvita | 2 buses | ~2½ h | ≈ $6–10 |
+| 40 | Uvita → Quepos / Manuel Antonio | Bus | 1¾–2½ h | ≈ $5–12 |
+| 41 | Quepos → Monteverde | 2 buses via Puntarenas | 5½–6½ h | ≈ $10–15 |
+| 42 | Monteverde → La Fortuna | Jeep-boat-jeep | 3–4 h | ≈ $30–40 |
+| 43 | La Fortuna → Liberia (Rincón de la Vieja) | 3 buses via Tilarán and Cañas (shuttle ~3 h) | 3½–4½ h | ≈ $7–15 |
+| 44 | Liberia → Peñas Blancas → San Juan del Sur | Bus + Nicaraguan buses via La Virgen | 3½–4 h | ≈ $5–8 + **Costa Rica exit $8–9 + Nicaragua entry $14** (cash) |
+| 45 | San Juan del Sur → Ometepe | Bus to Rivas + colectivo + ferry from San Jorge | ~2½ h | ≈ $4–7 |
+| 46 | Ometepe → Granada | Ferry + buses via Rivas | 3½–4½ h | ≈ $4–6 |
+| 47 | Granada → León | 2 microbuses via Managua (shuttle $25–36) | 2½–3 h | ≈ $3 |
+| – | *optional:* León → Estelí → Somoto | Buses | 3½–5 h | ≈ $4–5 |
+| 48 | León → Managua airport | Bus (shuttle $25–35) | 1½–2 h | ≈ $3 |
+| 49 | Managua → Seattle | ✈ AA via Miami | 14–17 h | ✅ 25k pts + $94, or $417 cash (business 50k is first only to Miami) |
+
+**Totals:** ground transport, the Calama, La Paz and Panama flights, and border fees come to ≈ **$1,150–1,590**. The Uyuni jeep tour adds $270–500, but it also covers 4 nights' lodging and food. Points: 60k (in, business) + 25k (home, economy).
+
+**Adventure-hub legs (if added):**
+- GIG → Teresópolis, bus 2 h ≈ $10, then Teresópolis → Rio 2 h ≈ $10.
+- Mendoza → Potrerillos, 1¼ h ≈ $5–7.
+- Santiago ↔ Baños Morales (El Morado), Metrobús 72A 2–2½ h ≈ $5 each way.
+- Cerro Toco, guided tour ≈ $110–150.
