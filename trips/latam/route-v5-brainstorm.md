@@ -408,3 +408,24 @@ Recommendation: the **Colonia stopover**. It's ≈ $50–100 cheaper and include
 Chile is still visited (San Pedro). Tafí del Valle is very wet in summer (rain on ~80% of days, fog), so ride through it.
 
 Model with Panama, landing 8 Dec: −1.0 with Santiago vs −2.9 without. The model counts Santiago as dry, new-country days.
+
+## 14. How other travellers route it (web sweep, 24 Nov)
+
+Sources:
+- Google AI Mode summaries of r/backpacking, r/solotravel, r/SouthAmericaTravel and blogs (Worldly Adventurer, The Broke Backpacker, Bolivian Life).
+- A few Reddit threads read directly via Reddit's JSON in the browser. They were thin, with few comments.
+- LP Brazil's itineraries chapter.
+
+| Section | What most people do | Ours | Verdict |
+|---|---|---|---|
+| Brazil | Rio → Ilha Grande / Paraty (6–8 days) → São Paulo → Curitiba (+ Serra Verde train) → Iguaçu, by overnight bus or flight | Same | ✔ |
+| Paraguay → Uruguay | **Iguazú → Asunción → Encarnación → Posadas → Concordia → Salto → Montevideo → Colonia → Buenos Aires**. This corridor avoids passing Buenos Aires twice. Keep Paraguay short (1–2 nights each in Asunción and Encarnación). Colonia is a 3–4 h stopover with bags left at the terminal | Same | ✔ an exact match |
+| Argentina → Atacama → Uyuni | Most people heading north go **Salta → Paso de Jama → San Pedro (2+ nights to acclimatise) → 3-day tour → Uyuni**, "zero backtracking". Tupiza's 4-day tour is better for altitude and crowds, but people usually take it heading *south* into Chile. Santiago is treated as a ≤ 48 h hub | With Santiago: San Pedro → Salta → Tupiza → Uyuni. San Pedro's lagoons then repeat on the Tupiza tour | **Prefer the no-Santiago line** (§13): Córdoba → Cafayate → Salta → Jujuy → Jama → San Pedro → Uyuni. It's the standard northbound route |
+| Bolivia → Peru | Uyuni (3) → Potosí (1 night, mine tour) → Sucre (2–3) → **fly** to La Paz → La Paz (2–3) → Copacabana / Isla del Sol (**1–2 nights**) → Puno only as a transit stop → **get off at Chivay** → Colca trek → Arequipa | Same, but Titicaca has 3 days | Trim Titicaca to 2 nights (−1 day) |
+| Exit to Central America | Fly from Lima | Arequipa → Lima → Panama City | ✔ |
+| Panama → Costa Rica → Nicaragua | Panama City (2–3) → Boquete (3–4) → (Bocas → Sixaola if you want the Caribbean) or **Paso Canoas** → San Gerardo / Chirripó (3–4) → Uvita (2–3) → Monteverde (2–3) → jeep-boat-jeep → La Fortuna (3) → Peñas Blancas | Same, Paso Canoas | ✔ (Bocas skipped: it's a beach) |
+
+**Warnings that apply to us:**
+- **Pace.** Reddit's top regret is too many countries in about 90 days; people say they'd cut 2–3. We have 10 countries in ≈ 95 days. Overnight buses help. Avoid consecutive 15–24 h rides, and keep one-night stops rare.
+- **Rain in the Andes.** Some advise pushing Bolivia and Peru into March. The station data agree March is drier than January (Copacabana: rain on 43% of days vs 63%). But that would mean flying back from Central America to the Andes, which is backtracking, so we keep January. The rains do bring Uyuni's **mirror season** (Jan–Mar), though a flooded salt flat can block Isla Incahuasi.
+- **Commonly cut:** Asunción, long stays in Puno, Santiago and Lima beyond 48 h, and Uruguay on a tight budget. We keep Uruguay to tick off the country.
