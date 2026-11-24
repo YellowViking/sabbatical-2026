@@ -22,7 +22,7 @@
 | 31 Dec → 2 Jan | **Salvador**, New Year's Eve (2) | Hostel Casarão 65 (Barra) $46, Hostelworld only | Rápido Federal 09:15 → 16:15, R$137 | Viver Bahia $319 (loc 9.4) · Nega Maluca $84 |
 | ~2 Jan | ✈ Salvador → the south | — | Porto Alegre $399 (Gol nonstop 00:15) · Florianópolis $339 · Curitiba $382 | — |
 
-**Private-room buffer:** taking the location-first private room at every stop (Booking location ≥ 9.0, 30+ reviews, ≤10% bad, totals from the room tables) comes to about **$1,200 for the 29 nights, against ~$520 at the dorm picks (+~$680)**. Using the cheaper private picks already in place at Jericoacoara and Canoa, plus Nega Maluca for New Year, it's ~$920 (+~$400). The budget carries +$0.7k as a lodging buffer.
+**Private-room buffer:** taking the location-first private room at every stop (Booking location ≥ 9.0, 30+ reviews, ≤10% bad, totals from the room tables) comes to about **$1,200 for the 29 nights, against ~$520 at the dorm picks (+~$680)**. Using the cheaper private picks already in place at Jericoacoara and Canoa, plus Nega Maluca for New Year, it's ~$920 (+~$400). The budget carries +$0.7k as a lodging buffer. **Cheapest channel (Google Maps seller check, 24 Nov):** your signed-in Booking (Genius) price beat every other listed seller by 5–25% (Priceline, Agoda, Expedia, Hotels.com, Trip.com). 6 of the 12 picks are Booking-only listings, so book these on Booking while signed in.
 
 ## Book these first (they sell out)
 
