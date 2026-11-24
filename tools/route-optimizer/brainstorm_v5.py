@@ -9,13 +9,14 @@ import itertools, math, os, datetime as dt
 D_ = dt.date
 # name: (wet-day % Dec,Jan,Feb,Mar — Open-Meteo 2016-25, day ≥1 mm, averaged over the named places), typical days, (lat,lon), highland, new country, peak periods
 R = {
+ 'Bahia (Salvador, Boipeba/Morerê, Chapada)': ((50,61,58,59),10, (-12.97,-39.5), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),  # a friend's tip, 24 Nov: Morerê (Boipeba) + Chapada
  'Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)': ((61,67,64,57), 9, (-23.0,-44.5), False, True,  [(D_(2026,12,20), D_(2027,2,10))]),
  'Iguaçu (+ Curitiba)':                      ((45,53,46,42), 3, (-25.55,-54.58),False, True,  [(D_(2026,12,20), D_(2027,2,10))]),
  'Paraguay (Asunción, Encarnación)':         ((37,41,38,37), 4, (-26.3,-56.7),  False, True,  []),
  'Buenos Aires':                             ((26,27,25,29), 3, (-34.6,-58.4),  False, False, []),
  'Uruguay (Colonia, Montevideo, Cabo Polonio)': ((28,30,35,35), 6, (-34.6,-55.5), False, True, [(D_(2026,12,24), D_(2027,2,15))]),
  'Central Chile (Santiago, Valparaíso)':     ((3,2,2,3),     5, (-33.2,-71.1),  False, True,  []),
- 'Mendoza':                                  ((14,23,18,20), 3, (-32.9,-68.8),  False, False, []),
+ 'Mendoza':                                  ((14,23,18,20), 5, (-32.9,-68.8),  False, False, []),
  'NW Argentina (Salta, Jujuy, Cafayate)':    ((61,67,63,54), 7, (-24.5,-65.5),  True,  False, []),
  'Atacama + Uyuni':                          ((16,33,37,18), 8, (-21.5,-67.5),  True,  True,  []),
  'Bolivia cities (Sucre, Potosí, La Paz)':   ((69,75,78,70), 7, (-18,-66.5),    True,  True,  []),
@@ -30,14 +31,19 @@ R = {
 MUST = {'Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)',
         'Uruguay (Colonia, Montevideo, Cabo Polonio)','Central Chile (Santiago, Valparaíso)','Atacama + Uyuni',
         'Bolivia cities (Sucre, Potosí, La Paz)','Costa Rica','Nicaragua'}
+for r in filter(None, os.environ.get('MUSTADD','').split(',')): MUST.add(next(k for k in R if k.startswith(r)))
+for r in filter(None, os.environ.get('DROP','').split(',')): R.pop(next(k for k in R if k.startswith(r)))
+for kv in filter(None, os.environ.get('DAYS','').split(',')):
+    k, v = kv.split('='); k = next(x for x in R if x.startswith(k)); R[k] = R[k][:1] + (int(v),) + R[k][2:]
 CHAINS = {  # each chain runs in this order or reversed, skipping unselected regions; chains are permuted
- 'EAST':  ['Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)','Buenos Aires',
+ 'EAST':  ['Bahia (Salvador, Boipeba/Morerê, Chapada)','Rio–São Paulo (Rio, Ilha Grande, Paraty, SP)','Iguaçu (+ Curitiba)','Paraguay (Asunción, Encarnación)','Buenos Aires',
            'Uruguay (Colonia, Montevideo, Cabo Polonio)'],
  'CHILE': ['Central Chile (Santiago, Valparaíso)','Mendoza'],
  'ANDES': ['NW Argentina (Salta, Jujuy, Cafayate)','Atacama + Uyuni','Bolivia cities (Sucre, Potosí, La Paz)','Titicaca (Copacabana, Puno)',
            'S Peru highlands (Arequipa, Colca)','Peru coast (Huacachina, Paracas, Lima)'],
  'CA':    ['Panama','Costa Rica','Nicaragua','Honduras (Copán, Utila)'],
 }
+CHAINS = {c: [r for r in v if r in R] for c, v in CHAINS.items()}
 START = D_(2026,12,1); START_MAX = D_(2026,12,20); END = D_(2027,3,15); BUFFER = int(os.environ.get('BUFFER', 14)); STEP = 2
 HR = float(os.environ.get('HR', 0.5)); PEAK = float(os.environ.get('PEAK', 0.5)); KM_COST = 2/1000
 VALUE = {True: 1.0, False: float(os.environ.get('VISITED', 0.8))}

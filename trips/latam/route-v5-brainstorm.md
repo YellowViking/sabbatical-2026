@@ -86,3 +86,27 @@ The best plan uses 89 days, has 0 peak-season days, and drops Buenos Aires, Salt
 - Salta/Jujuy, Buenos Aires, Panama vs Honduras: which to keep.
 - Mendoza before or after Santiago.
 - How to get from Santiago to San Pedro: fly to Calama, or bus via Salta.
+
+## 4. A friend's tips (24 Nov): what fits
+
+The model now sets Mendoza at 5 days and keeps Salta/Jujuy in. Optional Bahia blocks were added and tested.
+
+| Plan | Score | Peak-season days | Ends | Buffer left |
+|---|---|---|---|---|
+| **A: corridor → Iguaçu → Paraguay → Uruguay (18–24 Dec) → Santiago → Mendoza 5 d → Salta/Jujuy → Atacama/Uyuni → Bolivia → Lima → Panama → Costa Rica → Nicaragua** | **5.3** | **0** | 2 Mar | 14 |
+| B: Bahia first (✈ Rio→Salvador on arrival $132–157; Salvador, Boipeba/Morerê, Chapada; ✈ Salvador→Rio 12–13 Dec $109–112), then A | 3.3 | 10 | 12 Mar | **4** |
+| B2: as B, but drop Panama + Peru coast to keep the buffer | −3.3 | 10 | 1 Mar | 14 |
+| C: Rio first, ✈ São Paulo→Salvador, Bahia, ✈ Salvador→Iguaçu | 0.2 | 10 | 13 Mar | 3 |
+
+The pull of B and C is real: Morerê's quiet window is before about 20 Dec, and both put Bahia there. They also shift everything after it about 10 days later:
+- Rio–São Paulo and Iguaçu run into the Brazilian holidays.
+- **Uruguay lands on New Year**, Cabo Polonio's busiest week.
+- The Andes block slides further into the wet season.
+
+**Mendoza:** Vallecitos (Cordón del Plata) gets one day.
+- The trailhead is the old ski-centre car park at about 3,000 m.
+- Las Veguitas is about 5 km and easy (Luján de Cuyo tourism page). Longer peaks reach about 4,200 m.
+- There is no bus to the trailhead. Take a bus to Potrerillos, then a transfer or a refuge shuttle.
+- It doubles as acclimatisation before Salta and Atacama.
+
+**Amazon:** skipped here, since it's already done in Ecuador. The on-route option is the Rurrenabaque pampas from La Paz: a 40-min flight plus a 3-day tour. It's open-savanna wildlife, unlike Ecuador's rainforest, but January flights are often cancelled. Treat it as a buffer-funded maybe, decided in La Paz.
