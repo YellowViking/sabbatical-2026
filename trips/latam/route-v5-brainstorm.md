@@ -254,6 +254,20 @@ Only two short repeats are left, Cabo Polonio (≈ 4 h) and Salta–Jujuy (≈ 2
 
 On 1, 2 and 4 Dec no business seats are open. A cheaper-looking 18 h option on 8 Dec (LAX → MIA arriving 19:08 for the 19:55) has only a 47-min connection in Miami.
 
+**Award sweep, extended (24 Nov, award only):**
+- **Alaska, more dates:** Wed 9 Dec has the same PHL route as 7 Dec (AA771 → AA688 787 lie-flat first → AA905), 2 seats. Thu 10 Dec: SEA–CLT → AA574 777 lie-flat first → AA991, 2 seats. Both 60k + $26.
+- **Alaska to São Paulo (GRU), 60k + $26:**
+  - Tue 8 Dec: SEA–ORD–MIA in first → **AA929 777-300ER** business, 19 h, 3 seats.
+  - Wed 2 / Thu 3 Dec: via CLT (777 first) → AA929 / AA995, 1 seat each.
+  - Mon 7 Dec: red-eye SEA–MIA in first → AA929, 8 seats, but 14 h in Miami.
+  - Nothing on 4–6 Dec. GRU would mean starting the corridor in São Paulo, or a cash hop GRU → GIG.
+- **Delta (SkyMiles):** Delta One SEA → GRU is **482,500–499,900 miles** for every date 4–10 Dec, so not worth it. Partners (Virgin, Flying Blue) only get Delta's saver space, so they're out too.
+- **United / Star Alliance (Chase → United; also what Aeroplan and LifeMiles see):**
+  - No Polaris saver to GIG or GRU; Standard costs 295–395k.
+  - No Air Canada saver YYZ → GRU appeared.
+  - The only saver "business" is Avianca A320 recliners via Bogotá at 88k.
+  - Aeroplan sometimes has extra Air Canada space that partners don't see. Worth checking only with an Aeroplan sign-in.
+
 **United (Chase points) is not worth it:**
 - Polaris via Houston with first-class US legs is 295,000–395,000 miles (Standard).
 - The 88,000-mile "business" saver is Avianca A320 recliners via Bogotá, with economy US legs.
