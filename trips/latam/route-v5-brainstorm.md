@@ -370,3 +370,41 @@ Panama becomes the way into Central America, so the north-west run never doubles
 - Mendoza → Potrerillos, 1¼ h ≈ $5–7.
 - Santiago ↔ Baños Morales (El Morado), Metrobús 72A 2–2½ h ≈ $5 each way.
 - Cerro Toco, guided tour ≈ $110–150.
+
+## 13. Two questions (24 Nov): Buquebus direct? Do we need Santiago?
+
+**Montevideo → Buenos Aires.** We come back through Montevideo from Cabo Polonio anyway.
+
+| Option | Time | Late-Dec fare | Notes |
+|---|---|---|---|
+| Buquebus direct, Montevideo port → Puerto Madero | 2 h 45 | ≈ $100–180 (peak pricing) | Sails ≈ 11:00 and 19:30. One immigration stop, at the Montevideo port. Skips Colonia |
+| Bus to Colonia (≈ 2 h 45, ≈ $15) + **4–5 h in Colonia's old town** (luggage storage at the terminal) + Colonia Express ferry (1 h 15) | a full travel day | ≈ $55–80 | Colonia's UNESCO old town is free to walk. Buy bus and ferry separately, because through-tickets allow only 30–45 min to change |
+
+Recommendation: the **Colonia stopover**. It's ≈ $50–100 cheaper and includes the sight. Ferries are reduced on 24, 25 and 31 Dec (last Colonia sailing ≈ 16:15).
+
+**Santiago is optional.** The no-Santiago route runs in a straight line from Córdoba to La Paz with no flight:
+
+| Leg | How | Time | USD (≈) |
+|---|---|---|---|
+| Córdoba → Tucumán | Overnight bus (22:50 / 23:45) | ≈ 8½ h | $19–57 |
+| Tucumán → Cafayate | Aconquija bus via Tafí del Valle (06:00, 10:00, 14:00) | 6–6½ h | $23–27 |
+| Cafayate → Salta | Flecha Bus through Quebrada de las Conchas (sit on the left) | 3½–4 h | $17–25 |
+| Salta → Jujuy → Purmamarca / Tilcara | Buses | 2½–4 h | $13–20 |
+| Purmamarca → San Pedro de Atacama | Andesmar over Paso de Jama, **03:40** (Jujuy 02:45), arrives ≈ 11:30 | ≈ 8 h | $70–97 |
+| San Pedro → Uyuni | 3-day jeep tour | 3 days | $240–290 + fees |
+| Uyuni → Potosí → Sucre → ✈ La Paz | as before | | |
+
+**Gains:**
+- 5 days back: the trip ends ≈ 6 Mar with 9 spare days, against 4 with Santiago.
+- No Santiago → Calama flight, no Mendoza or Cristo Redentor buses.
+- Cafayate and Salta are on the line instead of spurs.
+
+**Loses:**
+- Santiago and Valparaíso.
+- **Cajón del Maipo** (El Morado, in prime season).
+- The Cristo Redentor crossing, though Jama at 4,200 m replaces it.
+- Tupiza's quieter 4-day tour. San Pedro's 3-day tour climbs fast, so spend the San Pedro days first to acclimatise.
+
+Chile is still visited (San Pedro). Tafí del Valle is very wet in summer (rain on ~80% of days, fog), so ride through it.
+
+Model with Panama, landing 8 Dec: −1.0 with Santiago vs −2.9 without. The model counts Santiago as dry, new-country days.
