@@ -238,3 +238,22 @@ There are four beach stops in three months, and no two are back to back. The one
 | Costa Rica → Nicaragua, fly home from Managua | north | no |
 
 Only two short repeats are left, Cabo Polonio (≈ 4 h) and Salta–Jujuy (≈ 2 h). Both are spurs to a single destination, not retraced legs.
+
+## 9. Entry flight in business, with the US legs in first (checked 24 Nov)
+
+**Alaska Atmos: 60,000 points + $26, Seattle → Rio.** These options are first class on every US leg and lie-flat business MIA → GIG. Cash for the same American Airlines trip is about $4,063 (Google Flights, 3 Dec), so that's about 6.7¢ a point. Economy is 30,000 + $26.
+
+| Leave Seattle | Route | Total time | Seats | Arrive Rio |
+|---|---|---|---|---|
+| **Mon 7 Dec 09:15** | AA771 SEA–PHL (A321neo, F) → AA688 PHL–MIA 18:00 (**787-8, lie-flat F**) → AA905 MIA–GIG 22:55 (777-200, lie-flat J) | 19.2 h | 3 | Tue 8 Dec 09:25 |
+| Mon 7 Dec 06:20 | AA2273 SEA–ORD (F) → AA1201 ORD–MIA (F) → AA991 MIA–GIG 19:55 (787-8, J) | 19.2 h | 3 | Tue 8 Dec 06:30 |
+| Sun 6 Dec 07:30 | AA737 SEA–DFW (A321neo, F) → AA1199 DFW–MIA (F) → AA905 (J) | 20.9 h | 1 | Mon 7 Dec 09:25 |
+| Tue 8 Dec 06:00 | AA3068 SEA–CLT (F) → AA574 CLT–MIA (**777, lie-flat F**) → AA991 (J) | 19.5 h | 1 | Wed 9 Dec 06:30 |
+| Thu 3 Dec 06:00 | AA3068 SEA–CLT (F) → AA574 CLT–MIA (777, F) → AA905 (J) | 22.4 h | 1 | Fri 4 Dec 09:25 |
+| Sat 5 Dec 23:39 | AA2379 SEA–ORD red-eye (F) → AA1875 ORD–MIA (F) → AA905 Sun 22:55 (J), 11 h in Miami | 28.8 h | 2 | Mon 7 Dec 09:25 |
+
+On 1, 2 and 4 Dec no business seats are open. A cheaper-looking 18 h option on 8 Dec (LAX → MIA arriving 19:08 for the 19:55) has only a 47-min connection in Miami.
+
+**United (Chase points) is not worth it:**
+- Polaris via Houston with first-class US legs is 295,000–395,000 miles (Standard).
+- The 88,000-mile "business" saver is Avianca A320 recliners via Bogotá, with economy US legs.
