@@ -234,8 +234,15 @@ The route is Plan B: 29 nights in Brazil plus two travel days (3 Dec in the air,
 
 ## (f) Against the backpacker consensus
 
-- **The Broke Backpacker gives $26–52/day for Brazil; Hostelworld gives R$200–250/day (≈ $34–42).** Both figures are as quoted in the brief and were not re-checked here: both sites block scripted fetches.
-- **This forecast's living cost is ~$48/day (dorm lean).** That's at the top of the Broke Backpacker range and about 15–40% above Hostelworld's. The gap has four causes:
+- **The Broke Backpacker** ([Brazil guide](https://www.thebrokebackpacker.com/backpacking-brazil-budget-travel-guide/), updated 20 Nov 2026; read in the browser on 24 Nov):
+  - Budget table "Total per day": **$26–52** for a backpacker, **$61–120** mid-range, **$155+** comfortable.
+  - Rows (backpacker tier): accommodation $5–15, food $6–12, transport $5, nightlife $5–10, activities $5–10. Dorms run "$10–15 in all of the major cities, even in Rio".
+  - "Relative comfort": **$40–50/day**.
+- **Hostelworld** ([backpacking Brazil](https://www.hostelworld.com/blog/backpacking-brazil/), updated 21 Oct 2026; read on 24 Nov):
+  - "Budget about **R$250 a day including travel**" (≈ **$42** at R$5.90).
+  - Buses run about R$10 per hour on the road; hostels from R$20 a night.
+  - Its sight prices are dated: it gives the Corcovado train as R$65–79, while the operator's own site shows R$139 for December.
+- **This forecast's living cost is ~$48/day (dorm lean).** That's at the top of the Broke Backpacker's $26–52 backpacker range, and about 15% above Hostelworld's ~$42, which even includes travel. The gap has four causes:
   - **Three drinks a day: ~$8/day.** Without them it's ~$40/day, inside both ranges.
   - **December high season and the two Salvador holidays.**
   - **Jeri, Pipa and Ilha Grande:** touristy beach villages with food prices close to Rio's.
