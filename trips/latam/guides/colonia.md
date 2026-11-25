@@ -14,6 +14,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | Colonia Express ferry Colonia → Buenos Aires 18:00 (or the 12:45 bus+ferry from Montevideo) | [open](https://book.coloniaexpress.com/) |  |
 | Buquebus (Colonia 17:01, or direct from Montevideo) | [open](https://www.buquebus.com/uy) |  |
 | Night bus Buenos Aires → Córdoba, Fri 1 Jan (Plataforma10) | [open](https://www.plataforma10.com.ar/) |  |
+| 🎆 Holiday backup (shift): night bus Buenos Aires → Córdoba **Sat 2 Jan** (38 departures on Plataforma10 on 25 Nov; 30 on 1 Jan) | [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Retiro/Cordoba/10/19/02-01-2027/_/1/0/0) |  |
 
 ## Day 25 Fri 1 Jan: Colonia stopover → ferry → night bus to Córdoba (no night in Colonia)
 
