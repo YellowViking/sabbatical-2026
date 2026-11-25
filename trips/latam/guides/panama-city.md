@@ -10,6 +10,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 |---|---|
 | ✈ Arequipa → Lima, Wed 3 Feb 06:50 (Google Flights; Sky $52) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |
 | ✈ Lima → Panama City, Wed 3 Feb 13:20 (Google Flights; Copa $274) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |
+| Points option: Copa LIM → PTY on United miles, Wed 3 Feb (17,500 + $31.49 saver; CM400 10:30 or the 02:15 / 02:35 red-eyes) | [United award search](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-03&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
 | Dorm pick: **El Machico Hostel** (3 Feb → 5 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/88333/el-machico-hostel/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=728716&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
 | Backup: **Bodhi Panama City** (3 Feb → 5 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
 
@@ -46,6 +47,14 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
   - **proof of onward travel** (carry the MGA → SEA 3 Mar itinerary; a refundable onward bus ticket is the safest add-on);
   - **solvency ≥ $500–1,000** (a card or bank statement);
   - **yellow-fever card, required because you arrive from Peru.** Copa may check all of this at check-in in Lima.
+
+
+**Points option (checked 24 Nov on united.com).** Copa LIM → PTY is bookable with **United MileagePlus (Chase UR 1:1): 17,500 miles + $31.49** at saver.
+- Saver space on 3 Feb is on **CM400 10:30 → 14:18** and on the red-eyes **CM338 02:15 → 05:53** and **CM264 02:35 → 06:13**. The same pattern holds on 2 and 4 Feb.
+- The cash pick, **CM760 13:20**, is only at Standard (40,000), and business saver is 45,000 (737 recliners).
+- Arequipa → Lima has no partner award, so it stays cash ($37–52).
+- **The catch:** CM400 leaves **1 h 55 after Sky lands** on a separate ticket. Copa check-in closes 60 min before, so a late Sky flight costs the award. The safe ways are an afternoon AQP → LIM on Tue 2 Feb (LATAM ≈ $47) with either a Lima night before CM400 or the 02:15 red-eye. Both cost an Arequipa night.
+- **Value:** it saves ≈ $243 for 17,500 miles (≈ 1.4¢ a mile), which is fair but not a sweet spot. LifeMiles or Aeroplan may price the same Copa seat lower, but checking needs a sign-in.
 
 ## 25. Panama City — Day 58 Wed 3 Feb → Day 60 Fri 5 Feb (2 nights)
 
