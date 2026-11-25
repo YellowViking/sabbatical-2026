@@ -7,39 +7,21 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 > 🛏️ **Departamentos De La Costa**, a whole flat with a kitchen, $76 for 3 nights<br>
 > 🚌 **In:** La Encarnacena from Asunción, Wed 08:30 · **Out:** EGA overnight to Montevideo, Sat 13:30
 
-<img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZETkaIy6IPRNTcu4QDmwNc3mgbzH6Ba72mXpQUFXaUel5eKBUFWcKV6Q1ZoNv881rYJkBGwZ-VObQd7Xqz86hgSJ4kT7q61QjlpXf0j-Dp0SGOfnzIPDqFREhkJVZDnwWbPxn=w1200-h400-k-no" alt="Sunset over the Paraná from the Costanera de Encarnación" width="100%">
+<img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZETkaIy6IPRNTcu4QDmwNc3mgbzH6Ba72mXpQUFXaUel5eKBUFWcKV6Q1ZoNv881rYJkBGwZ-VObQd7Xqz86hgSJ4kT7q61QjlpXf0j-Dp0SGOfnzIPDqFREhkJVZDnwWbPxn=w1200-h360-p-k-no" alt="Sunset over the Paraná from the Costanera de Encarnación" width="100%">
 
 <sub>Sunset from the Costanera, looking across the Paraná to Posadas (Argentina). Photo: Google Maps.</sub>
 
 ## 🗺️ Map
 
-The town, the beds and the beach. Click a pin for its name. 🟢 = the pick, 🟡 = backups, 🔵 = bus terminal, 🟠 = sights, 🔴 = food.
+![Map of Encarnación: the beds, the bus terminal, the Costanera and the beach](img/encarnacion-map.jpg)
 
-```geojson
-{"type":"FeatureCollection","features":[
-{"type":"Feature","properties":{"name":"⭐ Bed pick: Departamentos De La Costa ($76, 3 nights)","marker-color":"#2e7d32","marker-symbol":"lodging"},"geometry":{"type":"Point","coordinates":[-55.8712289,-27.3290699]}},
-{"type":"Feature","properties":{"name":"Backup: Terwindt Hotel ($127)","marker-color":"#f9a825","marker-symbol":"lodging"},"geometry":{"type":"Point","coordinates":[-55.8628112,-27.3348944]}},
-{"type":"Feature","properties":{"name":"Private alt: Milord Suites ($174)","marker-color":"#f9a825","marker-symbol":"lodging"},"geometry":{"type":"Point","coordinates":[-55.872817,-27.3298186]}},
-{"type":"Feature","properties":{"name":"🎄 Holiday backup: La Casa de Sol, Posadas ($67)","marker-color":"#f9a825","marker-symbol":"lodging"},"geometry":{"type":"Point","coordinates":[-55.890806,-27.374074]}},
-{"type":"Feature","properties":{"name":"Bus terminal (La Encarnacena in, EGA out)","marker-color":"#1565c0","marker-symbol":"bus"},"geometry":{"type":"Point","coordinates":[-55.867162,-27.326368]}},
-{"type":"Feature","properties":{"name":"Costanera (free promenade, sunsets)","marker-color":"#ef6c00","marker-symbol":"park"},"geometry":{"type":"Point","coordinates":[-55.872457,-27.3374898]}},
-{"type":"Feature","properties":{"name":"Playa San José (free river beach)","marker-color":"#ef6c00","marker-symbol":"beach"},"geometry":{"type":"Point","coordinates":[-55.8730598,-27.3364953]}},
-{"type":"Feature","properties":{"name":"Hiroshima (Japanese-Paraguayan, soba)","marker-color":"#c62828","marker-symbol":"restaurant"},"geometry":{"type":"Point","coordinates":[-55.8633006,-27.3287225]}},
-{"type":"Feature","properties":{"name":"Lomitería Árabe (lomito árabe)","marker-color":"#c62828","marker-symbol":"fast-food"},"geometry":{"type":"Point","coordinates":[-55.8531212,-27.3563425]}}
-]}
-```
+**In town:** ★ **Departamentos De La Costa** (the pick) · **1** Terwindt Hotel (backup) · **2** Milord Suites (private alt) · **B** bus terminal · **3** [Costanera](https://www.google.com/maps?ftid=0x9457956eb8eda16f:0xb2a18ead954b59aa) · **4** [Playa San José](https://www.google.com/maps?ftid=0x9457956f1e6afc0b:0x368e81fee5b5ec22) · **5** [Hiroshima](https://www.google.com/maps?ftid=0x945795447e35d7e9:0x859b2808eb9e5148)
 
-<details><summary><b>Day trip map: the Jesuit missions</b> (Trinidad ≈ 27 km and Jesús ≈ 32 km north-east, as the crow flies)</summary>
+![Map of the area: Encarnación, Posadas across the river, and the Jesuit missions to the north-east](img/encarnacion-area-map.jpg)
 
-```geojson
-{"type":"FeatureCollection","features":[
-{"type":"Feature","properties":{"name":"Encarnación bus terminal","marker-color":"#1565c0","marker-symbol":"bus"},"geometry":{"type":"Point","coordinates":[-55.867162,-27.326368]}},
-{"type":"Feature","properties":{"name":"Trinidad Jesuit mission (UNESCO)","marker-color":"#ef6c00","marker-symbol":"monument"},"geometry":{"type":"Point","coordinates":[-55.7021508,-27.1323306]}},
-{"type":"Feature","properties":{"name":"Jesús de Tavarangüe Jesuit mission (UNESCO)","marker-color":"#ef6c00","marker-symbol":"monument"},"geometry":{"type":"Point","coordinates":[-55.7526346,-27.055985]}}
-]}
-```
+**Around:** ★ Encarnación · **6** La Casa de Sol in Posadas (🎄 holiday backup, across the bridge) · **7** [Trinidad mission](https://www.google.com/maps?ftid=0x9457f0281002dcef:0x254e952c8c133fb) (≈ 27 km) · **8** [Jesús mission](https://www.google.com/maps?ftid=0x9457f6a927979049:0x71a255ba02d5cc94) (≈ 32 km)
 
-</details>
+Everything here is also saved in your Google Maps lists: the pick is ⭐ Starred, backups are in 🛏️ Beds – LatAm backups, sights are in Want to go, and food is in Restaurants.
 
 ## 📅 Day by day
 
