@@ -23,6 +23,7 @@ Dates and 1 adult are pre-filled. ⚠️ = time-sensitive. Prices ≈ unless mar
 | Bus Paracas → Lima, Fri 5 Feb (Cruz del Sur ~10:40 → ~14:40, $13–22) | [Cruz del Sur](https://www.cruzdelsur.com.pe/) |
 | Lima airport night, 5 → 6 Feb: **Tupac Hostel – Lima Airport** (dorm $9.90; 9.2 / 688; kitchen) | [Hostelworld](https://www.hostelworld.com/hostels/p/89319/tupac-hostel-lima-airport/?from=2027-02-05&to=2027-02-06&guests=1) |
 | ⚠️ Copa Lima → Panama City on United miles, **Sat 6 Feb CM400 10:30 → 14:18** (17,500 + $31.49 saver ✅ 24 Nov) | [United award search, 6 Feb](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
+| Fewer miles: **LifeMiles on Avianca via Bogotá**, 12,730 + $36.49 (01:50, 02:55 or 17:55 departures; seen for 2 Feb, re-check for 5 and 6 Feb). Full comparison in the [Panama City guide](panama-city.md) | [LifeMiles search](https://www.lifemiles.com/fly/find?from=LIM&to=PTY&date=2027-02-06&cabin=1&adults=1&children=0&infants=0&oneWay=true) |
 | Faster variant: **Fri 5 Feb CM132 16:40 → 20:27**, also 17,500 saver ✅. Needs an early bus from Pisco and skips Ballestas | [United award search, 5 Feb](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-05&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
 
 ## Plan (≈ times; confirm on the operators' sites when booking)

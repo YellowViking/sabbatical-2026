@@ -27,6 +27,30 @@ All three are kept open (user, 24 Nov).
 
 Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Copa seats at **20,000 + CA$85 (≈ US$61)** in economy and 40,000 in business, so it's dearer than United (17,500 + $31.49). The Aeroplan balance is 600, so it would also need a transfer. **LifeMiles (checked 24 Nov, signed in, balance 0):** its default "Avianca+Gol" tab shows **Avianca via Bogotá at 12,730 miles + $36.49** in economy (29,710 in business), the same on 3, 5 and 6 Feb. That's the fewest miles so far, but the times are awkward: 01:50 or 02:55 → Panama 09:10, or 17:55 → 01:20 the next day, 6–7½ h. Copa nonstops sit on LifeMiles' separate "Star Alliance" tab, still to check. LifeMiles points come from Amex MR, Capital One or Citi, not Chase.
 
+### Lima → Panama City on points, by departure time (checked 24 Nov)
+
+| Program (transfer from) | Departs Lima → arrives Panama | Flights | Miles + tax | Dates seen |
+|---|---|---|---|---|
+| **LifeMiles** (Amex MR, Capital One), default Avianca view | **01:50** → 09:10 (7 h 20) | AV48 LIM–BOG 01:50 → 05:05, AV58 BOG–PTY 07:15 → 09:10 | **12,730 + $36.49** (business 29,710) | Tue 2 Feb |
+| LifeMiles | **02:55** → 09:10 (6 h 15) | AV96 LIM–BOG 02:55 → 06:05, AV58 07:15 → 09:10 | 12,730 + $36.49 | Tue 2 Feb |
+| LifeMiles | **17:55** → 01:20 next day (7 h 25) | AV140 LIM–BOG 17:55 → 21:10, AV40 BOG–PTY 23:35 → 01:20 | 12,730 + $36.49 | Tue 2 Feb |
+| **United** (Chase UR) | **02:15** → 05:53 nonstop | Copa CM338 | 17,500 + $31.49 | 2–6 Feb |
+| United | **02:35** → 06:13 nonstop | Copa CM264 | 17,500 + $31.49 | 2–6 Feb |
+| United | **10:30** → 14:18 nonstop | Copa CM400 | 17,500 + $31.49 | 2–6 Feb |
+| United | **16:40** → 20:27 nonstop | Copa CM132 | 17,500 + $31.49 | 5 Feb only (40,000 on the other days) |
+| United | 13:20 → 17:08 nonstop (the cash pick) | Copa CM760 | 40,000 (no saver) | 2–6 Feb |
+| **Aeroplan** (Chase UR, Amex MR) | 02:15 → 05:53 nonstop | Copa CM338 | 20,000 + CA$85 (≈ US$61) | 2 Feb (calendar: 20k lowest 31 Jan–4 Feb) |
+| LifeMiles, Star Alliance tab (Copa nonstops) | — | — | not checked yet | — |
+
+- **Cheapest in miles:** LifeMiles on Avianca via Bogotá, 12,730 + $36.49. It's slower (6–7½ h) and only seen for 2 Feb so far.
+- **A same-day points route for option B:** Sky 06:50 Arequipa → Lima 08:35, then the **LifeMiles AV140 17:55** via Bogotá, arriving 01:20. That's a 9 h 20 gap, so it's safe on separate tickets with no Lima night, but it lands after midnight. It needs re-checking for 3 Feb.
+- **Fastest on points:** the Copa nonstops on United (17,500).
+- **Your balances are low**, so a transfer is needed either way: LifeMiles 0, Aeroplan 600.
+- **Searches:**
+  - [LifeMiles (signed in; opens the search form, then click the Recently searched card)](https://www.lifemiles.com/fly/find?from=LIM&to=PTY&date=2027-02-03&cabin=1&adults=1&children=0&infants=0&oneWay=true)
+  - [United](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-03&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A)
+  - [Aeroplan](https://www.aircanada.com/aeroplan/redeem/availability/outbound?org0=LIM&dest0=PTY&departureDate0=2027-02-03&ADT=1&YTH=0&CHD=0&INF=0&INS=0&lang=en-CA&tripType=O&marketCode=INT)
+
 No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Copa and Avianca don't serve AQP), Alaska (0), Delta ("no results"); LATAM doesn't fly to Panama. United shows the Copa 17,500 saver on CM400, CM338, CM264 and (on 5 Feb) CM132; CM760 13:20 is 40,000.
 
 ## Getting here: ✈ Arequipa → Lima → Panama City — Day 58 Wed 3 Feb (two separate tickets)
