@@ -36,6 +36,27 @@ The two halves of the trip have opposite seasons:
 
 Going Central America first puts both halves in their worse months. It also lands Costa Rica on Christmas–New Year (its dearest fortnight) and leaves the Rio corridor for late February, the hottest weeks, around Carnival (5–10 Feb 2027).
 
+**Rechecked 25 Nov against Lonely Planet Central America (2025) and Lonely Planet Brazil:**
+- **Lonely Planet Central America:**
+  - Costa Rica's dry season is December–April, with December only its start. Its Guanacaste chart shows rain on 13 days in December, 7 in January, 4 in February and 3 in March.
+  - Panama's dry season is also its peak, with the best birding in February–April.
+  - Nicaragua's dry season is November–April, and January has some of its best weather.
+  - Prices spike at Christmas and Easter.
+- **Lonely Planet Brazil:**
+  - High season is December–March.
+  - February means packed beaches, sold-out hotels and Carnaval prices.
+  - Prices and heat ease only from April.
+- **Rio station normals** give a small edge to late February: ≈ 8–9 rain days a month in February–March, against ≈ 11 in December.
+- **Re-scored with the actual v5 dates:**
+
+| Order | Wet days | Peak-season days |
+|---|---:|---:|
+| **v5 as planned** (South America first) | **37.4** | **12** |
+| Reversed (Central America 8 Dec – 5 Jan, Brazil 22 Feb – 3 Mar) | 42.8 | 27 (Costa Rica over Christmas and New Year) |
+| Andes first (Andes in Dec, Brazil late Jan, Central America in Feb) | 36.0 | 25 (Uruguay and Córdoba in January, Brazil before Carnaval) |
+
+The v5 order stays.
+
 Smaller pluses for South America first:
 - The long flight comes at the start.
 - The trip ends a 5–7 h flight from home.
