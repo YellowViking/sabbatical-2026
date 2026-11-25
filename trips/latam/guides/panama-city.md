@@ -93,7 +93,7 @@ No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Co
 - The cash pick, **CM760 13:20**, is only at Standard (40,000), and business saver is 45,000 (737 recliners).
 - Arequipa → Lima has no partner award, so it stays cash ($37–52).
 - **The catch:** CM400 leaves **1 h 55 after Sky lands** on a separate ticket. Copa check-in closes 60 min before, so a late Sky flight costs the award. The safe ways are an afternoon AQP → LIM on Tue 2 Feb (LATAM ≈ $47) with either a Lima night before CM400 or the 02:15 red-eye. Both cost an Arequipa night.
-- **Value:** it saves ≈ $243 for 17,500 miles (≈ 1.4¢ a mile), which is fair but not a sweet spot. LifeMiles or Aeroplan may price the same Copa seat lower, but checking needs a sign-in.
+- **Value:** it saves ≈ $243 for 17,500 miles (≈ 1.4¢ a mile), which is fair but not a sweet spot. LifeMiles and Aeroplan are compared in the points table above.
 
 ## 25. Panama City — Day 58 Wed 3 Feb → Day 60 Fri 5 Feb (2 nights)
 
