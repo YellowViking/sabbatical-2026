@@ -58,6 +58,15 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 
 Every stop has its own guide in [`guides/`](guides/) (→ column): bed pick, backup and private alternative, getting there, things to do, food, and notes.
 
+**On Google Maps (tagged 25 Nov):** everything in the guides is saved to the signed-in account, each with a visible note giving the date, the reason and the price.
+- **Beds:** each night's pick is ⭐ **Starred**. Backups and private alternatives are in **🛏️ Beds – LatAm backups**, with their location score.
+- **Sights:** in **Want to go**.
+- **Food:** in **Restaurants**. **Drinking places:** in **Craft beer 🍺**.
+- **Hikes, walks and bike routes:** in **🥾 Hikes – LatAm**, **🚶 Walks – LatAm** and **🚲 Bike – LatAm**.
+- **Not on Google Maps, so not saved:**
+  - Beds: Hostel Residencial Botânico (Curitiba pick), and the private alternatives Lobolira, Blue Door Brasil and Studio da Lu.
+  - Places: the Cabo Polonio sea-lion colony and Los Gigantes' Cueva de la Salamanca.
+
 ## Book these first (they sell out or need you)
 Every guide also has a **Book (one click)** table at the top, with dates and 1 adult pre-filled.
 
