@@ -13,8 +13,8 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | What | Links | Getting there (Google Maps, checked 24 Nov) |
 |---|---|---|
 | Buses Salta / Jujuy → Tilcara (Evelia) | [open](https://eveliatransporte.com.ar/) |  |
-| Tilcara dorm, 12 → 13 Jan: **Hostel Casa Colores** (12 Jan → 13 Jan) · ⚠️ location 8.8 | [Booking](https://www.booking.com/hotel/ar/casa-colores.html?checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=415708&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) | 🚶 walk 12 min (900 m) from the bus stop; centre 11 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.5763341,-65.398639&destination=-23.5737027,-65.4000606&travelmode=walking) |
-| Tilcara backup: **Tilcara Mística Hostel** (12 Jan → 13 Jan) · location 9.5 | [Booking (search)](https://www.booking.com/searchresults.html?ss=Tilcara+M%C3%ADstica+Hostel+&checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/67045/tilcara-mistica-hostel/?from=2027-01-12&to=2027-01-13&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=2820111&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (450 m) from the bus stop; centre 3 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.5763341,-65.398639&destination=-23.5783375,-65.3960692&travelmode=walking) |
+| Tilcara dorm, 12 → 13 Jan: **Tilcara Mística Hostel** (12 Jan → 13 Jan) · location 9.5 | [Booking (search)](https://www.booking.com/searchresults.html?ss=Tilcara+M%C3%ADstica+Hostel+&checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/67045/tilcara-mistica-hostel/?from=2027-01-12&to=2027-01-13&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=2820111&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (450 m) from the bus stop; centre 3 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.5763341,-65.398639&destination=-23.5783375,-65.3960692&travelmode=walking) |
+| Tilcara backup: **Hostel Casa Colores** (12 Jan → 13 Jan) · ⚠️ location 8.8 | [Booking](https://www.booking.com/hotel/ar/casa-colores.html?checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=415708&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) | 🚶 walk 12 min (900 m) from the bus stop; centre 11 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.5763341,-65.398639&destination=-23.5737027,-65.4000606&travelmode=walking) |
 | Purmamarca dorm, 13 → 14 Jan: **Giramundo Hostel Purmamarca** (13 Jan → 14 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/giramundo-hostel-purmamarca.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=25415036&checkin=2027-01-13&checkout=2027-01-14&NumberofAdults=1&Rooms=1) | 🚶 walk 4 min (270 m) from the Purmamarca bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.746635899999998,-65.4992451&destination=-23.745506499999998,-65.4984487&travelmode=walking) |
 | Purmamarca private alt (quiet): **Nido de Cóndores** (13 Jan → 14 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/nido-de-condores.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37730393&checkin=2027-01-13&checkout=2027-01-14&NumberofAdults=1&Rooms=1) | 🚶 walk 6 min (400 m) from the Purmamarca bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.746635899999998,-65.4992451&destination=-23.7440988,-65.50054229999999&travelmode=walking) |
 | ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Thu 14 Jan 03:40 | [open](https://shop.andesmar.com/) |  |
@@ -33,17 +33,18 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 - About 4 h door to door for ≈ $17.
 - The only direct Salta → Tilcara bus is Andesmar's 04:40 → 08:15 (ARS 28,000), which is too early to be worth it.
 
-**Bed, Tilcara, Tue 12 → Wed 13 (live-checked 24 Nov):** **Hostel Casa Colores** · bed in a mixed dorm.
+**Bed, Tilcara, Tue 12 → Wed 13 (live-checked 24 Nov; moved up on 25 Nov for location):** **Tilcara Mística Hostel** (Padilla 575, 160 m from the plaza) · bed in a 4-bed mixed dorm.
+- **Ratings:** Booking 8.7 (262 reviews; 6% below 7), **location 9.5**; Hostelworld 85 (111 reviews, none below 70 in the newest 11); Agoda 8.9 (259).
+- **Total for 1 night: $23 on Booking** (room table, 25 Nov); Hostelworld $22.87; Agoda $29.70.
+- **Checks:** ✅ kitchen and a bar; calm, "community vibe" reviews.
+- **Avoid:** Tilcara Rústica (Booking 8.1, **19% below 7**, bathroom and breakfast complaints, location 8.7).
+
+**Backup, Tilcara:** **Hostel Casa Colores** · bed in a mixed dorm.
 - **Ratings:** Booking 9.3 (203 reviews; 5% below 7); Agoda 9.7 (197).
 - **Total for 1 night: $11 on Booking** (room table). Agoda $14; it isn't on Hostelworld.
-- **Distance:** ≈ 0.8 km from the plaza (Booking location 8.8), across the railway line from the road; reviews say it's "tricky to find the first time".
+- **Distance:** ≈ 0.8 km from the plaza (⚠️ Booking location 8.8), across the railway line from the road; reviews say it's "tricky to find the first time".
 - **Checks:** ✅ a fully equipped kitchen. Big indoor and outdoor common areas, quiet; few sockets by the beds. Curtains not confirmed. No pool.
-
-**Backup, Tilcara:** **Tilcara Mística Hostel** (Padilla 575, 160 m from the plaza) · bed in a 4-bed mixed dorm.
-- **Ratings:** Hostelworld 85 (111 reviews, none below 70 in the newest 11); Agoda 8.9 (259).
-- **Total: $22.87 on Hostelworld**; Agoda $29.70.
-- **Checks:** ✅ kitchen and a bar; calm, "community vibe" reviews.
-- **Avoid:** Tilcara Rústica (Booking 8.1, **19% below 7**, bathroom and breakfast complaints).
+- Also ≥ 9.0: Tierra Andina (location 9.5, 6-bed dorm $12, but Booking 8.3 with 6% below 7; not vetted).
 
 **Bed, Purmamarca, Wed 13 → Thu 14:** **Giramundo Hostel Purmamarca** · single bed in a dorm.
 - **Ratings:** Booking 8.4 (410 reviews; ⚠️ **15% below 7**); Agoda 8.5 (415).

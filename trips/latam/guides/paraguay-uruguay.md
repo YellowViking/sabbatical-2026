@@ -55,7 +55,7 @@ Plataforma10's prices are the search-page fares; its checkout may add a service 
 - **Rutas del Sol summer timetable:** only the winter 2026 one is online (10:10 → 14:30; return 15:10 → 20:10). Recheck mid-December, because summer adds buses.
 - **Jesuit ruins on 25 Dec:** the hours are unconfirmed (special hours in past years), so plan them for 24 Dec. The PYG 40,000 foreigner fee comes from 2026 guides; SENATUR's page timed out.
 - **Encarnación has no available hostel** (Frida and La Casa de Pedro are sold out on Agoda; there's nothing on HW). The pick, Departamentos De La Costa, has only 29 reviews. Terwindt (472 reviews) is the safer backup at +$51.
-- **Cabo Polonio:** book early, because it's peak week (Viejo Lobo is already full on the 29th). Bring cash and groceries from Montevideo. The Green House kitchen/stove comes from Booking's facility list and review text, not photos.
+- **Cabo Polonio:** book early, because it's peak week (Viejo Lobo is already full on the 29th). Bring cash and groceries from Montevideo. The pick is Hostel Albatros (location 9.4; shared kitchen); the backup Green House's kitchen/stove comes from Booking's facility list and review text, not photos.
 - **Sierra de las Ánimas** doesn't fit with luggage, and is closed Mon–Fri. The only option is a Sun 27 Dec day trip, which needs a WhatsApp booking and a Spanish speaker. Recommended: skip.
 - Prices at checkout: Plataforma10 and the ferry sites may add service or port fees, and Uruguay's VAT exemption for foreign cards may lower the hostel totals. Nothing was booked.
 - Leads only (not verified): the eat/drink prices and names, the candombe Sunday rehearsals, and the Cabo Polonio lighthouse fee.

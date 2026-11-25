@@ -34,7 +34,7 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes]
 | Item | USD |
 |---|---|
 | Buses: COATA return $20, Sarmiento return $24, Córdoba → Tucumán $30 (Flecha cama $55), Aconquija $27, Cafayate → Salta $18, Salta → Jujuy → Tilcara $18, Tilcara ↔ Humahuaca → Purmamarca $7, **Andesmar to San Pedro $73** | ≈ **$217** |
-| Beds: Aldea 3 nights $41, Cielito Lindo $28.80, Clivias $30, Casa Colores $11, Giramundo $17 | **$127.80** + the refugio (2 nights, price unknown) |
+| Beds: Aldea 3 nights $41, Cielito Lindo $28.80, Clivias $30, Tilcara Mística $23, Giramundo $17 | **$139.80** + the refugio (2 nights, price unknown) |
 | Fees and rentals: Río Colorado guide $12–18, bike $27, Hornocal 4x4 + fee ≈ $13, Garganta ≈ $3–4, Los Gigantes land ≈ $9, MAAM (unknown) | ≈ $65–75 |
 
 ## Open issues: Argentina
@@ -53,11 +53,11 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes]
    - If Thu 14 sells out, the nearest buses are Wed 13 and Fri 15 (same times):
      - **Wed 13:** the Quebrada becomes 1 night (Purmamarca only, from Salta on the 12th); San Pedro becomes 13 → 18 (5 nights).
      - **Fri 15:** add a second Purmamarca night; San Pedro becomes 15 → 18 (3 nights, still enough to acclimatise before the 18 Jan jeep tour).
-4. **Privacy curtains not confirmed** at Cielito Lindo, Clivias or Casa Colores (confirmed at Aldea, Faz and Casa Puka).
+4. **Privacy curtains not confirmed** at Cielito Lindo, Clivias or Tilcara Mística (confirmed at Aldea, Faz and Casa Puka).
 5. **Giramundo Purmamarca:** 15% of reviews are below 7, and there's late live music next door. It's the only hostel in Purmamarca; Nido de Cóndores ($65) is the quiet alternative before the 03:40 alarm.
 6. **The price cross-check covers Booking, Hostelworld and Agoda (signed in) only.**
    - The Google Maps seller lookup returned **no prices** for any of the 14 properties on these January dates, so no index check.
-   - The properties' own engines were not checked: Clivias, Casa Puka, Cielito Lindo and Casa Colores may sell direct.
+   - The properties' own engines were not checked: Clivias, Casa Puka, Cielito Lindo and Tilcara Mística may sell direct.
 7. **Leads, not verified:** fees (Río Colorado guides, Garganta del Diablo, Hornocal 4x4 and community fee, Los Gigantes land, Paseo de los Colorados), Córdoba's risk-zone declaration form, and all restaurant and bar names and prices (AI Mode).
 8. **Alto Paraná** (the Córdoba private alt) has no availability for 6 → 7 Jan; Hostel Alvear's single room ($25.12, Hostelworld) covers that night.
 9. **Peak season:** 2–7 Jan is the Argentine summer holiday. COATA showed only 10–15 seats left per bus on 24 Nov, so buy the Sierras tickets as soon as plans are firm. **Nothing was booked.**

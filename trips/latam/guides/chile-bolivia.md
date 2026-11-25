@@ -30,7 +30,7 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [San Pedro de Atacama](sa
    - Uyuni/Potosí/Sucre counter bus fares, the Copacabana boats (Bs 30–40) and the island fees (Bs 25–55 in total).
    - Valle de Marte and Garganta del Diablo gates; bike hire; all food prices; the 22 Jan Bolivian holiday.
 7. **Bed checks to repeat before booking:**
-   - Casa Voyage: newest reviews, because of the March 2026 bed bugs.
+   - Hostal Lackuntur (the pick since 25 Nov): Booking only, so check the Genius price at checkout. Casa Voyage (backup 2): newest reviews, because of the March 2026 bed bugs.
    - Mia Posada and the Koala Den: Hostelworld only.
    - Los Faroles: only a family room was offered for 1 adult on Booking.
    - La Casa Bonita on Agoda (US$23.70): confirm the unit is the 4-bed dorm.
