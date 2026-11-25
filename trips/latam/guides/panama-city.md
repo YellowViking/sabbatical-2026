@@ -25,6 +25,8 @@ All three are kept open (user, 24 Nov).
 | **B. Points, Lima night** | LATAM Arequipa → Lima Tue 2 Feb afternoon (≈ $47), Tupac airport hostel ($9.90), then Copa CM400 10:30 → 14:18 on United miles. Or the 02:15 red-eye and no bed | Wed 3 Feb 14:18 (red-eye ≈ 06:00) | ≈ $90 | 17,500 + $31.49 | One Arequipa night instead of two |
 | **C. Overland + points** | Night bus Arequipa → Ica, **Huacachina** + **Paracas** (Ballestas), bus to Lima, then Copa CM400 Sat 6 Feb on miles | Sat 6 Feb 14:18 | ≈ $185 incl. beds and tours | 17,500 + $31.49 | +3 days (spare 12 → 9); Boquete lands on Carnaval. Details: [Huacachina + Paracas guide](huacachina-paracas.md) |
 
+Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Copa seats at **20,000 + CA$85 (≈ US$61)** in economy and 40,000 in business, so it's dearer than United (17,500 + $31.49). The Aeroplan balance is 600, so it would also need a transfer. LifeMiles: pending sign-in.
+
 No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Copa and Avianca don't serve AQP), Alaska (0), Delta ("no results"); LATAM doesn't fly to Panama. United shows the Copa 17,500 saver on CM400, CM338, CM264 and (on 5 Feb) CM132; CM760 13:20 is 40,000.
 
 ## Getting here: ✈ Arequipa → Lima → Panama City — Day 58 Wed 3 Feb (two separate tickets)
