@@ -6,9 +6,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Estrella del Sur (pick) | [open](https://estrelladelsuruyuni.com/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Estrella del Sur (pick) | [open](https://estrelladelsuruyuni.com/) |  |
 
 ## 17. 3-day jeep tour San Pedro → Uyuni — Day 42 Mon 18 Jan → Day 44 Wed 20 Jan (2 nights in refugios)
 

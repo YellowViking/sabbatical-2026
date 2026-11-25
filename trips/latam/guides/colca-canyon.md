@@ -6,14 +6,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| ⚠️ 4M Express Puno → Chivay, Sat 30 Jan 06:15 (confirm by WhatsApp; closes 3 days before) | [open](https://www.4m-express.com/) |
-| Chivay, 30 → 31 Jan: **Hospedaje Samay Lodge** (30 Jan → 31 Jan) | [Booking](https://www.booking.com/hotel/pe/samay-lodge.html?checkin=2027-01-30&checkout=2027-01-31&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Chivay backup / private alt: **Pascana Hotel** (30 Jan → 31 Jan) | [Booking](https://www.booking.com/hotel/pe/pascana-chivay1.html?checkin=2027-01-30&checkout=2027-01-31&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Sangalle oasis, 31 Jan → 1 Feb: **Paraíso Las Palmeras - Sangalle** (31 Jan → 1 Feb) | [Booking](https://www.booking.com/hotel/pe/paraiso-las-palmeras-lodge.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Sangalle backup: **Oasis Paraíso Ecolodge** (31 Jan → 1 Feb) | [Booking](https://www.booking.com/hotel/pe/oasis-paraiso-ecolodge.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Reyna bus Cabanaconde → Arequipa, Mon 1 Feb | [open](https://polarisweb.reyna.com.pe/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| ⚠️ 4M Express Puno → Chivay, Sat 30 Jan 06:15 (confirm by WhatsApp; closes 3 days before) | [open](https://www.4m-express.com/) |  |
+| Chivay, 30 → 31 Jan: **Hospedaje Samay Lodge** (30 Jan → 31 Jan) | [Booking](https://www.booking.com/hotel/pe/samay-lodge.html?checkin=2027-01-30&checkout=2027-01-31&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 2 min (170 m) from the Chivay plaza (4M Express stop) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-15.636617099999999,-71.6021988&destination=-15.6360017805529,-71.6007135777927&travelmode=walking) |
+| Chivay backup / private alt: **Pascana Hotel** (30 Jan → 31 Jan) | [Booking](https://www.booking.com/hotel/pe/pascana-chivay1.html?checkin=2027-01-30&checkout=2027-01-31&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 1 min (61 m) from the Chivay plaza (4M Express stop) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-15.636617099999999,-71.6021988&destination=-15.6364202,-71.60289829999999&travelmode=walking) |
+| Sangalle oasis, 31 Jan → 1 Feb: **Paraíso Las Palmeras - Sangalle** (31 Jan → 1 Feb) | [Booking](https://www.booking.com/hotel/pe/paraiso-las-palmeras-lodge.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🥾 **hike only**: trail down from Cabanaconde (guide: ≈ 2–3 h down, 3–4 h back up at dawn); Google Maps walk 1 hr 34 min (5.1 km) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-15.6225478,-71.98014429999999&destination=-15.596280499999999,-71.9769824&travelmode=walking) |
+| Sangalle backup: **Oasis Paraíso Ecolodge** (31 Jan → 1 Feb) | [Booking](https://www.booking.com/hotel/pe/oasis-paraiso-ecolodge.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🥾 **hike only**: trail down from Cabanaconde; Google Maps walk 1 hr 38 min (5.4 km) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-15.6225478,-71.98014429999999&destination=-15.596563699999999,-71.9752786&travelmode=walking) |
+| Reyna bus Cabanaconde → Arequipa, Mon 1 Feb | [open](https://polarisweb.reyna.com.pe/) |  |
 
 ## 23. Colca Canyon (Chivay → Cruz del Cóndor → Cabanaconde → Sangalle) — Day 54 Sat 30 Jan → Day 56 Mon 1 Feb (2 nights)
 

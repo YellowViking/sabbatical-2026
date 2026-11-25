@@ -6,11 +6,13 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Titicaca Bolivia Bus Copacabana → Puno, Fri 29 Jan 13:30 | [open](https://titicacaboliviabus.com/trip/copacabana-puno/) |
-| Dorm pick: **Kantaya Hostel** (29 Jan → 30 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1) |
-| Backup: **Urpi Wasi Backpackers** (29 Jan → 30 Jan) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-01-29&to=2027-01-30&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-01-29&checkout=2027-01-30&NumberofAdults=1&Rooms=1) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Titicaca Bolivia Bus Copacabana → Puno, Fri 29 Jan 13:30 | [open](https://titicacaboliviabus.com/trip/copacabana-puno/) |  |
+| Dorm pick: **Kantaya Hostel** (29 Jan → 30 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1) | 🚶 walk 15 min (1.0 km) from the bus terminal; centre 6 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-15.8402218,-70.0218805&destination=-15.8375858,-70.0294303&travelmode=walking) |
+| Backup: **Urpi Wasi Backpackers** (29 Jan → 30 Jan) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-01-29&to=2027-01-30&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-01-29&checkout=2027-01-30&NumberofAdults=1&Rooms=1) | 🚶 walk 16 min (1.0 km) from the bus terminal; centre 5 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-15.8402218,-70.0218805&destination=-15.8427017,-70.0299885&travelmode=walking) |
 
 ## 22. Puno (transit) — Day 53 Fri 29 Jan → Sat 30 Jan (1 night)
 

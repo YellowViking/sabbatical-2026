@@ -6,11 +6,13 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| ✈ Alaska award MGA → SEA, Wed 3 Mar (25k + $94) | [open](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-03&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
-| Managua airport hotels, 2 → 3 Mar (Booking search) | [open](https://www.booking.com/searchresults.html?ss=Augusto+C.+Sandino+International+Airport&checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Tica Bus San José → Managua (onward proof for Costa Rica entry) | [open](https://www.ticabus.com/en/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| ✈ Alaska award MGA → SEA, Wed 3 Mar (25k + $94) | [open](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-03&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |  |
+| Managua airport hotels, 2 → 3 Mar (Booking search) | [open](https://www.booking.com/searchresults.html?ss=Augusto+C.+Sandino+International+Airport&checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&selected_currency=USD) |  |
+| Tica Bus San José → Managua (onward proof for Costa Rica entry) | [open](https://www.ticabus.com/en/) |  |
 
 ## Home: León → Managua airport, ✈ Managua (MGA) → Seattle, Wed 3 Mar
 

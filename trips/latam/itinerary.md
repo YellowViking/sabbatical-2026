@@ -84,6 +84,27 @@ Every guide also has a **Book (one click)** table at the top, with dates and 1 a
 - **Volcán Barú** summit road closed by a landslide on 7 Jul 2026, with no reopening notice found. **Telica** (León) is closed "until further notice".
 - January bus timetables in Argentina weren't on sale yet. Re-check 2–3 weeks out.
 
+## Getting to the beds (Google Maps, 24 Nov)
+Every guide's booking table now has a **Getting there** column: the property found on Google Maps and routed from where you arrive (bus terminal, pier, airport) at midday on the check-in date, with a one-click Maps route. **Picks that aren't a simple walk:**
+
+| Stop | Bed | How |
+|---|---|---|
+| [Arequipa](guides/arequipa.md) | Dorm pick: Econunay | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 23 min on foot |
+| [Boquete](guides/boquete.md) | Dorm pick: Socialtel Boquete | 🚕 taxi/rideshare ≈ 12 min from the central park (bus from David) (walk 38 min, 2.7 km); Google has no bus data here, so local minibus/colectivo (ask locally) |
+| [Colca](guides/colca-canyon.md) | Sangalle backup: Oasis Paraíso Ecolodge | 🥾 **hike only**: trail down from Cabanaconde; Google Maps walk 1 hr 38 min (5.4 km) |
+| [Colca](guides/colca-canyon.md) | Sangalle oasis, 31 Jan → 1 Feb: Paraíso Las Palmeras - Sangalle | 🥾 **hike only**: trail down from Cabanaconde (guide: ≈ 2–3 h down, 3–4 h back up at dawn); Google Maps walk 1 hr 34 min (5.1 km) |
+| [Foz do Iguaçu](guides/foz-do-iguacu.md) | Dorm pick: Hostel Bambu | ⚠️ 🚕 taxi/rideshare ≈ 11 min from the international bus terminal (walk 55 min, 4.1 km); **30 min walk to the centre, no bus in Google Maps** |
+| [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol backup: Hostal Inti Wayra | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 15 min (600 m) |
+| [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol, 27 → 28 Jan: Inti Wasi Lodge | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) |
+| [La Paz](guides/la-paz.md) | Dorm pick: La Casa Bonita | 🚕 taxi/rideshare ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot |
+| [Panama City](guides/panama-city.md) | Dorm pick: El Machico Hostel | 🚕 taxi/rideshare ≈ 33 min from Tocumen airport; or Metro Line 2 → Line 1 from the airport ($0.85, see the guide); ℹ️ outside the centre (56 min on foot, buses run) |
+| [Paraty](guides/paraty.md) | Dorm pick: Hostel Oxê | ⚠️ 🚕 taxi/rideshare ≈ 9 min from the bus station (walk 30 min, 2.2 km); **30 min walk to the centre, no bus in Google Maps** |
+| [Potosí](guides/potosi.md) | Pick (private): Los Faroles Hostal | 🚕 taxi/rideshare ≈ 19 min from the new bus terminal (walk 1 hr 9 min, 4.2 km); Google has no bus data here, so local minibus/colectivo (ask locally); centre 6 min on foot |
+| [Sucre](guides/sucre.md) | Dorm pick: Villa Oropeza Hostel | 🚕 taxi/rideshare ≈ 12 min from the bus terminal (walk 31 min, 2.2 km); Google has no bus data here, so local minibus/colectivo (ask locally); centre 5 min on foot |
+| [Uvita](guides/uvita.md) | Dorm pick: Hostel Cascada Verde | 🚕 taxi/rideshare ≈ 5 min from the Costanera bus stop (walk 33 min, 2.2 km) |
+
+Everything else is a walk of 25 minutes or less, or a short bus ride. Where Google Maps has no bus data (Potosí, Sucre, La Paz, Boquete, Ometepe), local minibuses still run; the taxi time is Google's driving estimate.
+
 ## Money
 **Expected spend ≈ $6.2–6.8k** (≈ $75–80/day all-in). **Carry ≈ $7.5k**, which includes a ≈ $1k private-room buffer.
 - **Living ≈ $3.5k** (≈ $42/day). Beds at the dorm picks come to ≈ $1.36k for 84 nights.

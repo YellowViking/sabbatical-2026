@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Dorm pick, 27 Feb → 2 Mar: **Casa Lula León Hostal** (27 Feb → 2 Mar) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Backup: **Hostal La Tortuga Booluda** (27 Feb → 2 Mar) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-02-27&to=2027-03-02&guests=1) |
-| Private alt: **Hostal el Sol** (27 Feb → 2 Mar) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Bigfoot volcano tours (Cerro Negro, El Hoyo) | [open](https://www.bigfoothostelleon.com/volcano-boarding) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Dorm pick, 27 Feb → 2 Mar: **Casa Lula León Hostal** (27 Feb → 2 Mar) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) | 🚶 walk 7 min (500 m) from the bus terminal; centre 5 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=12.4342803,-86.88052189999999&destination=12.432866599999999,-86.87722509999999&travelmode=walking) |
+| Backup: **Hostal La Tortuga Booluda** (27 Feb → 2 Mar) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-02-27&to=2027-03-02&guests=1) | 🚶 walk 5 min (400 m) from the bus terminal; centre 8 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=12.4342803,-86.88052189999999&destination=12.4340789,-86.88410689999999&travelmode=walking) |
+| Private alt: **Hostal el Sol** (27 Feb → 2 Mar) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 4 min (300 m) from the bus terminal; centre 7 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=12.4342803,-86.88052189999999&destination=12.4327159,-86.8817871&travelmode=walking) |
+| Bigfoot volcano tours (Cerro Negro, El Hoyo) | [open](https://www.bigfoothostelleon.com/volcano-boarding) |  |
 
 ## 35. León — Sat 27 Feb → Wed 3 Mar (4 nights)
 

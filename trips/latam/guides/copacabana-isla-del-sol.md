@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Isla del Sol, 27 → 28 Jan: **Inti Wasi Lodge** (27 Jan → 28 Jan) | [Booking](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-27&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Isla del Sol backup: **Hostal Inti Wayra** (27 Jan → 28 Jan) | [Booking](https://www.booking.com/hotel/bo/hostal-inti-wayra.html?checkin=2027-01-27&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Copacabana, 28 → 29 Jan: **Mia Posada Hostel & Coworking** (28 Jan → 29 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-28&to=2027-01-29&guests=1) |
-| Private alt: **Hostal Las Olas** (28 Jan → 29 Jan) | [Booking](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=3012976&checkin=2027-01-28&checkout=2027-01-29&NumberofAdults=1&Rooms=1) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Isla del Sol, 27 → 28 Jan: **Inti Wasi Lodge** (27 Jan → 28 Jan) | [Booking](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-27&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.038460999999998,-69.1444077&destination=-16.036048,-69.1472613&travelmode=walking) |
+| Isla del Sol backup: **Hostal Inti Wayra** (27 Jan → 28 Jan) | [Booking](https://www.booking.com/hotel/bo/hostal-inti-wayra.html?checkin=2027-01-27&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 15 min (600 m) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.038460999999998,-69.1444077&destination=-16.0376583,-69.1473793&travelmode=walking) |
+| Copacabana, 28 → 29 Jan: **Mia Posada Hostel & Coworking** (28 Jan → 29 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-28&to=2027-01-29&guests=1) | 🚶 walk 7 min (450 m) from the bus stop (Plaza Sucre); centre 3 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.1651831,-69.0876162&destination=-16.166212599999998,-69.085061&travelmode=walking) |
+| Private alt: **Hostal Las Olas** (28 Jan → 29 Jan) | [Booking](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=3012976&checkin=2027-01-28&checkout=2027-01-29&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (400 m) from the bus stop (Plaza Sucre); centre 10 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.1651831,-69.0876162&destination=-16.1637249,-69.0901256&travelmode=walking) |
 
 ## 21. Copacabana + Isla del Sol — Day 51 Wed 27 Jan → Day 53 Fri 29 Jan (2 nights)
 

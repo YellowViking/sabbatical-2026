@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Ometepe ferry timetable (San Jorge → Moyogalpa) | [open](https://www.ometepeislandinfo.com/) |
-| Dorm pick: **Hostel Life is Good** (22 Feb → 25 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Life+is+Good+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/270660/hostel-life-is-good/?from=2027-02-22&to=2027-02-25&guests=1) |
-| Backup: **Rancho Tranquillo** (22 Feb → 25 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Rancho+Tranquillo+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Private alt: **Guest House Nena** (22 Feb → 25 Feb) | [Booking](https://www.booking.com/hotel/ni/guest-house-nena.html?checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Ometepe ferry timetable (San Jorge → Moyogalpa) | [open](https://www.ometepeislandinfo.com/) |  |
+| Dorm pick: **Hostel Life is Good** (22 Feb → 25 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Life+is+Good+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/270660/hostel-life-is-good/?from=2027-02-22&to=2027-02-25&guests=1) | 🚶 walk 24 min (1.7 km) from Moyogalpa port; centre 21 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5512246,-85.69406459999999&travelmode=walking) |
+| Backup: **Rancho Tranquillo** (22 Feb → 25 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Rancho+Tranquillo+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD) | 🚶 walk 20 min (1.4 km) from Moyogalpa port; centre 18 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5507324,-85.6994522&travelmode=walking) |
+| Private alt: **Guest House Nena** (22 Feb → 25 Feb) | [Booking](https://www.booking.com/hotel/ni/guest-house-nena.html?checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 7 min (450 m) from Moyogalpa port; centre 5 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5416810327774,-85.6979298591614&travelmode=walking) |
 
 ## 33. Ometepe — Mon 22 Feb → Thu 25 Feb (3 nights)
 

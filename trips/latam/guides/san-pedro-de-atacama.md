@@ -6,13 +6,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Dorm pick: **Casa Voyage Hostel** (14 Jan → 18 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=21962859&checkin=2027-01-14&checkout=2027-01-18&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/304202/casa-voyage-hostel/?from=2027-01-14&to=2027-01-18&guests=1) |
-| Backup: **Backpackers San Pedro** (14 Jan → 18 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/47324/backpackers-san-pedro/?from=2027-01-14&to=2027-01-18&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=78398178&checkin=2027-01-14&checkout=2027-01-18&NumberofAdults=1&Rooms=1) |
-| Private alt: **Hostal Ayni** (14 Jan → 18 Jan) | [Booking](https://www.booking.com/hotel/cl/hostal-familiar-ayni.html?checkin=2027-01-14&checkout=2027-01-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Valle de la Luna entry (book online) | [open](https://valledelaluna.com/shop) |
-| Laguna Cejar | [open](https://lagunacejar.com/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Dorm pick: **Casa Voyage Hostel** (14 Jan → 18 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=21962859&checkin=2027-01-14&checkout=2027-01-18&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/304202/casa-voyage-hostel/?from=2027-01-14&to=2027-01-18&guests=1) | 🚶 walk 14 min (1.1 km) from the bus terminal; centre 11 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-22.910198299999998,-68.19836149999999&destination=-22.916985099999998,-68.19840649999999&travelmode=walking) |
+| Backup: **Backpackers San Pedro** (14 Jan → 18 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/47324/backpackers-san-pedro/?from=2027-01-14&to=2027-01-18&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=78398178&checkin=2027-01-14&checkout=2027-01-18&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (550 m) from the bus terminal; centre 13 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-22.910198299999998,-68.19836149999999&destination=-22.907743,-68.1969659&travelmode=walking) |
+| Private alt: **Hostal Ayni** (14 Jan → 18 Jan) | [Booking](https://www.booking.com/hotel/cl/hostal-familiar-ayni.html?checkin=2027-01-14&checkout=2027-01-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 6 min (500 m) from the bus terminal; centre 10 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-22.910198299999998,-68.19836149999999&destination=-22.913666499999998,-68.1955863&travelmode=walking) |
+| Valle de la Luna entry (book online) | [open](https://valledelaluna.com/shop) |  |
+| Laguna Cejar | [open](https://lagunacejar.com/) |  |
 
 ## 16. San Pedro de Atacama — Day 38 Thu 14 Jan → Day 42 Mon 18 Jan (4 nights)
 

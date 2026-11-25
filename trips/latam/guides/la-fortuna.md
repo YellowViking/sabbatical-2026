@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Dorm pick: **Ceiba Hostel** (15 Feb → 18 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-15&to=2027-02-18&guests=1) |
-| Backup: **Alpha Arenal** (15 Feb → 18 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-15&to=2027-02-18&guests=1) |
-| Private alt: **Casa Paraíso – La Fortuna** (15 Feb → 18 Feb) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Río Celeste / Arenal NP tickets (SINAC, online only) | [open](https://serviciosenlinea.sinac.go.cr/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Dorm pick: **Ceiba Hostel** (15 Feb → 18 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-15&to=2027-02-18&guests=1) | 🚶 walk 8 min (650 m) from the bus terminal; centre 10 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.4711965,-84.645415&destination=10.4712581,-84.640129&travelmode=walking) |
+| Backup: **Alpha Arenal** (15 Feb → 18 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-15&to=2027-02-18&guests=1) | 🚶 walk 7 min (450 m) from the bus terminal; centre 6 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.4711965,-84.645415&destination=10.4721914,-84.6485847&travelmode=walking) |
+| Private alt: **Casa Paraíso – La Fortuna** (15 Feb → 18 Feb) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | ⚠️ 🚕 taxi/rideshare ≈ 7 min from the bus terminal (walk 47 min, 3.2 km); **45 min walk to the centre, no bus in Google Maps** · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.4711965,-84.645415&destination=10.448872536342,-84.640383350087&travelmode=driving) |
+| Río Celeste / Arenal NP tickets (SINAC, online only) | [open](https://serviciosenlinea.sinac.go.cr/) |  |
 
 ## 30. La Fortuna / Arenal — Mon 15 Feb → Thu 18 Feb (3 nights)
 

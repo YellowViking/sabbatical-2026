@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Bus Foz → Asunción, Mon 21 Dec 08:00 (ClickBus) | [open](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/assuncao-py?departureDate=2026-12-21) |
-| Dorm pick: **El Nómada Hostel** (21 Dec → 23 Dec) | [Booking](https://www.booking.com/hotel/py/el-na3mada-hostel.html?checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=557010&checkin=2026-12-21&checkout=2026-12-23&NumberofAdults=1&Rooms=1) |
-| Backup: **Mediterraneo Hostal** (21 Dec → 23 Dec) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Mediterraneo+Hostal+&checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/326334/mediterraneo-hostal/?from=2026-12-21&to=2026-12-23&guests=1) |
-| Private alt: **Casa Fulgencio** (21 Dec → 23 Dec) | [Booking](https://www.booking.com/hotel/py/casa-fulgencio.html?checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Bus Foz → Asunción, Mon 21 Dec 08:00 (ClickBus) | [open](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/assuncao-py?departureDate=2026-12-21) |  |
+| Dorm pick: **El Nómada Hostel** (21 Dec → 23 Dec) | [Booking](https://www.booking.com/hotel/py/el-na3mada-hostel.html?checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=557010&checkin=2026-12-21&checkout=2026-12-23&NumberofAdults=1&Rooms=1) | 🚌 25 min by public transport from the bus terminal: walk 5 min → bus 11 → walk 5 min; walk 1 hr 10 min; centre 16 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-25.3085,-57.593&destination=-25.2911507,-57.637488299999994&travelmode=transit) |
+| Backup: **Mediterraneo Hostal** (21 Dec → 23 Dec) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Mediterraneo+Hostal+&checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/326334/mediterraneo-hostal/?from=2026-12-21&to=2026-12-23&guests=1) | 🚌 30 min by public transport from the bus terminal: walk 5 min → bus 21 → walk 6 min; walk 1 hr 16 min; centre 15 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-25.3085,-57.593&destination=-25.2867708,-57.6373404&travelmode=transit) |
+| Private alt: **Casa Fulgencio** (21 Dec → 23 Dec) | [Booking](https://www.booking.com/hotel/py/casa-fulgencio.html?checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚌 30 min by public transport from the bus terminal: walk 5 min → bus 21 → walk 8 min; walk 1 hr 10 min; centre 8 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-25.3085,-57.593&destination=-25.288899299999997,-57.633950999999996&travelmode=transit) |
 
 ## Getting here: Foz do Iguaçu → (Ciudad del Este) → Asunción, Mon 21 Dec
 

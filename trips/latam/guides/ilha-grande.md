@@ -6,14 +6,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Bus Rio → Mangaratiba / Angra (Costa Verde, Sat 12 Dec) | [open](https://www.clickbus.com.br/onibus/rio-de-janeiro-novo-rio-rj/mangaratiba-rj?departureDate=2026-12-12) |
-| Barcas Rio ferry timetable (Mangaratiba/Angra → Abraão) | [open](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
-| Porto Real flex boat (Conceição de Jacareí) | [open](https://portorealilhagrande.com.br/) |
-| Dorm pick: **Lila Limão Hostel** (12 Dec → 14 Dec) | [Booking](https://www.booking.com/hotel/br/lila-limao-hostel-angra-dos-reis.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/314201/lila-limao-hostel/?from=2026-12-12&to=2026-12-14&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=32001446&checkin=2026-12-12&checkout=2026-12-14&NumberofAdults=1&Rooms=1) |
-| Backup: **Pousada e Hostel Holandês** (12 Dec → 14 Dec) | [Booking](https://www.booking.com/hotel/br/holandes-hostel.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Private alt: **Blue Door Brasil** (12 Dec → 14 Dec) | [Booking](https://www.booking.com/hotel/br/blue-door-brasil.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Bus Rio → Mangaratiba / Angra (Costa Verde, Sat 12 Dec) | [open](https://www.clickbus.com.br/onibus/rio-de-janeiro-novo-rio-rj/mangaratiba-rj?departureDate=2026-12-12) |  |
+| Barcas Rio ferry timetable (Mangaratiba/Angra → Abraão) | [open](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |  |
+| Porto Real flex boat (Conceição de Jacareí) | [open](https://portorealilhagrande.com.br/) |  |
+| Dorm pick: **Lila Limão Hostel** (12 Dec → 14 Dec) | [Booking](https://www.booking.com/hotel/br/lila-limao-hostel-angra-dos-reis.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/314201/lila-limao-hostel/?from=2026-12-12&to=2026-12-14&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=32001446&checkin=2026-12-12&checkout=2026-12-14&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (500 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.141282699999998,-44.1702562&travelmode=walking) |
+| Backup: **Pousada e Hostel Holandês** (12 Dec → 14 Dec) | [Booking](https://www.booking.com/hotel/br/holandes-hostel.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 9 min (600 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.1444326,-44.1655869&travelmode=walking) |
+| Private alt: **Blue Door Brasil** (12 Dec → 14 Dec) | [Booking](https://www.booking.com/hotel/br/blue-door-brasil.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 5 min (400 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.141810644939,-44.168697831644&travelmode=walking) |
 
 ## 2. Ilha Grande (Vila do Abraão) — Sat 12 Dec → Mon 14 Dec (2 nights)
 

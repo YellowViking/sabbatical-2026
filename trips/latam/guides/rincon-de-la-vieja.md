@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Dorm pick: **Hostel Pura Vida en Liberia** (18 Feb → 20 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Backup: **Hospedaje Dodero** (18 Feb → 20 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-18&to=2027-02-20&guests=1) |
-| Private alt: **Hotel Liberia** (18 Feb → 20 Feb) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Rincón de la Vieja tickets (SINAC, online only) | [open](https://serviciosenlinea.sinac.go.cr/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Dorm pick: **Hostel Pura Vida en Liberia** (18 Feb → 20 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) | 🚶 walk 7 min (500 m) from the Pulmitan bus terminal · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.6341273,-85.4398195&destination=10.6322397,-85.4441777&travelmode=walking) |
+| Backup: **Hospedaje Dodero** (18 Feb → 20 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-18&to=2027-02-20&guests=1) | 🚶 walk 8 min (600 m) from the Pulmitan bus terminal · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.6341273,-85.4398195&destination=10.631971,-85.4447684&travelmode=walking) |
+| Private alt: **Hotel Liberia** (18 Feb → 20 Feb) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 11 min (800 m) from the Pulmitan bus terminal · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.6341273,-85.4398195&destination=10.6290625,-85.43731249999999&travelmode=walking) |
+| Rincón de la Vieja tickets (SINAC, online only) | [open](https://serviciosenlinea.sinac.go.cr/) |  |
 
 ## 31. Liberia / Rincón de la Vieja — Thu 18 Feb → Sat 20 Feb (2 nights)
 

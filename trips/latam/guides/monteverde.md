@@ -6,13 +6,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Transmonteverde bus (Puntarenas → Santa Elena) | [open](https://transmonteverde.com/) |
-| Dorm pick: **Monteverde Backpackers** (13 Feb → 15 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1) |
-| Backup: **Hostel Cattleya** (13 Feb → 15 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-13&to=2027-02-15&guests=1) |
-| Private alt: **Casa Geranios #2** (13 Feb → 15 Feb) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Santa Elena cloud forest reserve | [open](https://reservasantaelena.org/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Transmonteverde bus (Puntarenas → Santa Elena) | [open](https://transmonteverde.com/) |  |
+| Dorm pick: **Monteverde Backpackers** (13 Feb → 15 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1) | 🚶 walk 6 min (350 m) from the Santa Elena bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.314259999999999,-84.82502&destination=10.3170834,-84.8254517&travelmode=walking) |
+| Backup: **Hostel Cattleya** (13 Feb → 15 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-13&to=2027-02-15&guests=1) | 🚶 walk 10 min (700 m) from the Santa Elena bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.314259999999999,-84.82502&destination=10.314357099999999,-84.8285722&travelmode=walking) |
+| Private alt: **Casa Geranios #2** (13 Feb → 15 Feb) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 3 min (240 m) from the Santa Elena bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=10.314259999999999,-84.82502&destination=10.315987164037,-84.825181419438&travelmode=walking) |
+| Santa Elena cloud forest reserve | [open](https://reservasantaelena.org/) |  |
 
 ## 29. Monteverde (Santa Elena) — Sat 13 Feb → Mon 15 Feb (2 nights)
 

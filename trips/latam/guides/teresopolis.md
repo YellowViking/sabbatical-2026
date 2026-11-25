@@ -6,10 +6,12 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Private (pick): **Estúdio 325 Teresópolis** (8 Dec → 10 Dec) | [Booking](https://www.booking.com/hotel/br/estudio-325-teresopolis.html?checkin=2026-12-08&checkout=2026-12-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35418791&checkin=2026-12-08&checkout=2026-12-10&NumberofAdults=1&Rooms=1) |
-| Bus Rio → Teresópolis (Viação Teresópolis) | [open](https://teresopolis.clickbus.com.br/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Private (pick): **Estúdio 325 Teresópolis** (8 Dec → 10 Dec) | [Booking](https://www.booking.com/hotel/br/estudio-325-teresopolis.html?checkin=2026-12-08&checkout=2026-12-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35418791&checkin=2026-12-08&checkout=2026-12-10&NumberofAdults=1&Rooms=1) | 🚌 19 min by public transport from the bus station: bus 1600 → walk 4 min; walk 44 min; ℹ️ outside the centre (38 min on foot, buses run) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-22.4165872,-42.970342599999995&destination=-22.4385109,-42.978981&travelmode=transit) |
+| Bus Rio → Teresópolis (Viação Teresópolis) | [open](https://teresopolis.clickbus.com.br/) |  |
 
 ## 0. Optional +2: Teresópolis / Serra dos Órgãos (Tue 8 → Thu 10 Dec, 2 nights), straight from GIG
 

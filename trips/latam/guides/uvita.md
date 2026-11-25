@@ -6,12 +6,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Dorm pick: **Hostel Cascada Verde** (11 Feb → 13 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-11&to=2027-02-13&guests=1) |
-| Backup: **Shipwrecked Hostel** (11 Feb → 13 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-11&to=2027-02-13&guests=1) |
-| Private alt: **Hotel Sueños de María** (11 Feb → 13 Feb) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Uvita tide table (whale tail at low tide) | [open](https://tablademareas.com/cr/costa-oceano-pacifico/uvita) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Dorm pick: **Hostel Cascada Verde** (11 Feb → 13 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-11&to=2027-02-13&guests=1) | 🚕 taxi/rideshare ≈ 5 min from the Costanera bus stop (walk 33 min, 2.2 km) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.167378099999999,-83.73651749999999&destination=9.1788926,-83.7315213&travelmode=driving) |
+| Backup: **Shipwrecked Hostel** (11 Feb → 13 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-11&to=2027-02-13&guests=1) | 🚶 walk 6 min (450 m) from the Costanera bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.167378099999999,-83.73651749999999&destination=9.1641613,-83.7361981&travelmode=walking) |
+| Private alt: **Hotel Sueños de María** (11 Feb → 13 Feb) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 6 min (500 m) from the Costanera bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.167378099999999,-83.73651749999999&destination=9.1666557,-83.7407691&travelmode=walking) |
+| Uvita tide table (whale tail at low tide) | [open](https://tablademareas.com/cr/costa-oceano-pacifico/uvita) |  |
 
 ## 28. Uvita — Thu 11 Feb → Sat 13 Feb (2 nights)
 

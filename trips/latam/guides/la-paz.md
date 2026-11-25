@@ -6,13 +6,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| ✈ Sucre → La Paz, Sun 24 Jan (Google Flights) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjRqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) |
-| BoA (Boliviana de Aviación) | [open](https://www.boa.bo/) |
-| Dorm pick: **La Casa Bonita** (24 Jan → 27 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-24&checkout=2027-01-27&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/310839/casa-de-huespedes-la-casa-bonita/?from=2027-01-24&to=2027-01-27&guests=1) |
-| Backup: **Hotel Martí** (24 Jan → 27 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-24&to=2027-01-27&guests=1) |
-| Private alt: **Hotel Nuevo Sol** (24 Jan → 27 Jan) | [Booking](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-24&checkout=2027-01-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| ✈ Sucre → La Paz, Sun 24 Jan (Google Flights) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjRqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) |  |
+| BoA (Boliviana de Aviación) | [open](https://www.boa.bo/) |  |
+| Dorm pick: **La Casa Bonita** (24 Jan → 27 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-24&checkout=2027-01-27&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/310839/casa-de-huespedes-la-casa-bonita/?from=2027-01-24&to=2027-01-27&guests=1) | 🚕 taxi/rideshare ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.4869368,-68.1425539&travelmode=driving) |
+| Backup: **Hotel Martí** (24 Jan → 27 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-24&to=2027-01-27&guests=1) | ⚠️ 🚕 taxi/rideshare ≈ 33 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); **34 min walk to the centre, no bus in Google Maps** · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.5071892,-68.1297937&travelmode=driving) |
+| Private alt: **Hotel Nuevo Sol** (24 Jan → 27 Jan) | [Booking](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-24&checkout=2027-01-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚕 taxi/rideshare ≈ 32 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 16 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.4988642,-68.1375382&travelmode=driving) |
 
 ## Getting here: ✈ Sucre → La Paz — Sun 24 Jan (Day 48)
 

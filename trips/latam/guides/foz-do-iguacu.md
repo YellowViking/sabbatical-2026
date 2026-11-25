@@ -6,13 +6,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-| What | Links |
-|---|---|
-| Dorm pick: **Hostel Bambu** (19 Dec → 21 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/15578/hostel-bambu/?from=2026-12-19&to=2026-12-21&guests=1) |
-| Backup: **El Shaddai Hostel e Pousada** (19 Dec → 21 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/20622/el-shaddai-hostel-e-pousada/?from=2026-12-19&to=2026-12-21&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=36757434&checkin=2026-12-19&checkout=2026-12-21&NumberofAdults=1&Rooms=1) |
-| Iguaçu falls, Brazilian side (timed online ticket) | [open](https://tickets.cataratasdoiguacu.com.br/) |
-| Iguazú falls, Argentine side | [open](https://iguazuargentina.com/) |
-| Río Uruguay bus Foz → Puerto Iguazú | [open](https://riouruguaybus.com.ar/) |
+**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Dorm pick: **Hostel Bambu** (19 Dec → 21 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/15578/hostel-bambu/?from=2026-12-19&to=2026-12-21&guests=1) | ⚠️ 🚕 taxi/rideshare ≈ 11 min from the international bus terminal (walk 55 min, 4.1 km); **30 min walk to the centre, no bus in Google Maps** · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-25.520148799999998,-54.564011699999995&destination=-25.5447915,-54.580391199999994&travelmode=driving) |
+| Backup: **El Shaddai Hostel e Pousada** (19 Dec → 21 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/20622/el-shaddai-hostel-e-pousada/?from=2026-12-19&to=2026-12-21&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=36757434&checkin=2026-12-19&checkout=2026-12-21&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 11 min from the international bus terminal (walk 55 min, 4.1 km); centre 10 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-25.520148799999998,-54.564011699999995&destination=-25.5358505,-54.5905189&travelmode=driving) |
+| Iguaçu falls, Brazilian side (timed online ticket) | [open](https://tickets.cataratasdoiguacu.com.br/) |  |
+| Iguazú falls, Argentine side | [open](https://iguazuargentina.com/) |  |
+| Río Uruguay bus Foz → Puerto Iguazú | [open](https://riouruguaybus.com.ar/) |  |
 
 ## 6. Foz do Iguaçu — Sat 19 Dec → Mon 21 Dec (2 nights)
 

@@ -12,19 +12,19 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 Dates and 1 adult are pre-filled. ⚠️ = time-sensitive. Prices ≈ unless marked ✅.
 
-| What | Links |
-|---|---|
-| Night bus Arequipa → Ica, Tue 2 Feb (Civa 19:05 → ~07:00, $25–43; Cruz del Sur 17:00–22:15, $32–58; Oltursa ~20:30) | [Civa](https://www.civa.com.pe/) · [Cruz del Sur](https://www.cruzdelsur.com.pe/) · [Oltursa](https://www.oltursa.pe/) |
-| Huacachina, 3 → 4 Feb: **Hostal Huacachina Sunset** (dorm $15 / private $42; Hostelworld 9.7) | [Hostelworld](https://www.hostelworld.com/hostels/p/101506/hostal-huacachina-sunset/?from=2027-02-03&to=2027-02-04&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Huacachina+Sunset&checkin=2027-02-03&checkout=2027-02-04&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Huacachina, quieter private: **La Casa de Bamboo** ($45, Hostelworld 9.4 / 119) | [Hostelworld](https://www.hostelworld.com/hostels/p/271225/la-casa-de-bamboo/?from=2027-02-03&to=2027-02-04&guests=1) |
-| Bus Ica → Paracas, Thu 4 Feb (PerúBus 09:30 $6–7; Cruz del Sur ~10:00 $8–15) | [PerúBus](https://www.perubus.com.pe/) · [Cruz del Sur](https://www.cruzdelsur.com.pe/) |
-| Paracas, 4 → 5 Feb: **Hostel Killamoon Centro** (dorm $14; Hostelworld 9.1 / 210; Booking 6% below 7) | [Hostelworld](https://www.hostelworld.com/hostels/p/321528/hostel-killamoon-centro/?from=2027-02-04&to=2027-02-05&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Killamoon+Paracas&checkin=2027-02-04&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Paracas backup: **SGH Paracas** (dorm $12; 9.3 / 70; some staff-party noise reports) | [Hostelworld](https://www.hostelworld.com/hostels/p/320545/sgh-paracas/?from=2027-02-04&to=2027-02-05&guests=1) |
-| Bus Paracas → Lima, Fri 5 Feb (Cruz del Sur ~10:40 → ~14:40, $13–22) | [Cruz del Sur](https://www.cruzdelsur.com.pe/) |
-| Lima airport night, 5 → 6 Feb: **Tupac Hostel – Lima Airport** (dorm $9.90; 9.2 / 688; kitchen) | [Hostelworld](https://www.hostelworld.com/hostels/p/89319/tupac-hostel-lima-airport/?from=2027-02-05&to=2027-02-06&guests=1) |
-| ⚠️ Copa Lima → Panama City on United miles, **Sat 6 Feb CM400 10:30 → 14:18** (17,500 + $31.49 saver ✅ 24 Nov) | [United award search, 6 Feb](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
-| Fewer miles: **LifeMiles on Avianca via Bogotá**, 12,730 + $36.49 (01:50, 02:55 or 17:55 departures; seen for 2 Feb, re-check for 5 and 6 Feb). Full comparison in the [Panama City guide](panama-city.md) | [LifeMiles search](https://www.lifemiles.com/fly/find?from=LIM&to=PTY&date=2027-02-06&cabin=1&adults=1&children=0&infants=0&oneWay=true) |
-| Faster variant: **Fri 5 Feb CM132 16:40 → 20:27**, also 17,500 saver ✅. Needs an early bus from Pisco and skips Ballestas | [United award search, 5 Feb](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-05&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
+| What | Links | Getting there (Google Maps, checked 24 Nov) |
+|---|---|---|
+| Night bus Arequipa → Ica, Tue 2 Feb (Civa 19:05 → ~07:00, $25–43; Cruz del Sur 17:00–22:15, $32–58; Oltursa ~20:30) | [Civa](https://www.civa.com.pe/) · [Cruz del Sur](https://www.cruzdelsur.com.pe/) · [Oltursa](https://www.oltursa.pe/) |  |
+| Huacachina, 3 → 4 Feb: **Hostal Huacachina Sunset** (dorm $15 / private $42; Hostelworld 9.7) | [Hostelworld](https://www.hostelworld.com/hostels/p/101506/hostal-huacachina-sunset/?from=2027-02-03&to=2027-02-04&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Huacachina+Sunset&checkin=2027-02-03&checkout=2027-02-04&group_adults=1&no_rooms=1&selected_currency=USD) |  |
+| Huacachina, quieter private: **La Casa de Bamboo** ($45, Hostelworld 9.4 / 119) | [Hostelworld](https://www.hostelworld.com/hostels/p/271225/la-casa-de-bamboo/?from=2027-02-03&to=2027-02-04&guests=1) |  |
+| Bus Ica → Paracas, Thu 4 Feb (PerúBus 09:30 $6–7; Cruz del Sur ~10:00 $8–15) | [PerúBus](https://www.perubus.com.pe/) · [Cruz del Sur](https://www.cruzdelsur.com.pe/) |  |
+| Paracas, 4 → 5 Feb: **Hostel Killamoon Centro** (dorm $14; Hostelworld 9.1 / 210; Booking 6% below 7) | [Hostelworld](https://www.hostelworld.com/hostels/p/321528/hostel-killamoon-centro/?from=2027-02-04&to=2027-02-05&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Killamoon+Paracas&checkin=2027-02-04&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) |  |
+| Paracas backup: **SGH Paracas** (dorm $12; 9.3 / 70; some staff-party noise reports) | [Hostelworld](https://www.hostelworld.com/hostels/p/320545/sgh-paracas/?from=2027-02-04&to=2027-02-05&guests=1) |  |
+| Bus Paracas → Lima, Fri 5 Feb (Cruz del Sur ~10:40 → ~14:40, $13–22) | [Cruz del Sur](https://www.cruzdelsur.com.pe/) |  |
+| Lima airport night, 5 → 6 Feb: **Tupac Hostel – Lima Airport** (dorm $9.90; 9.2 / 688; kitchen) | [Hostelworld](https://www.hostelworld.com/hostels/p/89319/tupac-hostel-lima-airport/?from=2027-02-05&to=2027-02-06&guests=1) |  |
+| ⚠️ Copa Lima → Panama City on United miles, **Sat 6 Feb CM400 10:30 → 14:18** (17,500 + $31.49 saver ✅ 24 Nov) | [United award search, 6 Feb](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |  |
+| Fewer miles: **LifeMiles on Avianca via Bogotá**, 12,730 + $36.49 (01:50, 02:55 or 17:55 departures; seen for 2 Feb, re-check for 5 and 6 Feb). Full comparison in the [Panama City guide](panama-city.md) | [LifeMiles search](https://www.lifemiles.com/fly/find?from=LIM&to=PTY&date=2027-02-06&cabin=1&adults=1&children=0&infants=0&oneWay=true) |  |
+| Faster variant: **Fri 5 Feb CM132 16:40 → 20:27**, also 17,500 saver ✅. Needs an early bus from Pisco and skips Ballestas | [United award search, 5 Feb](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-05&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |  |
 
 ## Plan (≈ times; confirm on the operators' sites when booking)
 
