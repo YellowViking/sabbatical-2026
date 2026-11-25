@@ -1,0 +1,22 @@
+# León
+
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Granada + Laguna de Apoyo](granada.md) · [Flight home (Managua → Seattle)](flight-home.md) →
+
+## 35. León — Sat 27 Feb → Wed 3 Mar (4 nights)
+
+**Getting there (Granada → Managua → León, Sat 27 Feb):** microbus Granada → Managua (UCA), ~1 h, ≈ C$40–60 → León microbus/bus from Managua (UCA or Mercado Israel Lewites), ~1½–2¼ h, ≈ C$55–80. ≈ 3 h, ≈ $3–4. Door-to-door shuttle ≈ $15–25 (≈).
+
+**Bed (live-checked 24 Nov):** **Casa Lula León Hostal** · bed in a mixed dorm · Booking **9.3 (354; 5 % bad)**, "quiet" in 16 and the kitchen in 25 recent reviews · **$44 for 4 nights** (card $11 × 4; **$33 for 3**) · Booking.com (not on Hostelworld) · ~0.3 km from the centre · one review says no bed curtains; not a party place.
+**Backup:** **Hostal La Tortuga Booluda** · standard 4-bed mixed dorm · HW **9.2 (335; 5.1 % < 7)** · **$52 for 4 nights** (tax incl.) · Hostelworld (not in Booking's hostel results) · ~0.6 km west of Parque Central · "relatively quiet… good chilled option away from the party hostels", good kitchen (cooker listed), honour bar, breakfast, a cool small pool (not a party pool); curtains in some dorms (reviews disagree).
+**Curtain option:** **Poco a Poco Hostel** · standard 8-bed mixed dorm · HW **9.1 (1,928; 2.0 % < 7)** · **$40 on Booking** (8.8/230; card $10 × 4) vs $52.80 on Hostelworld · ~0.3 km from the centre · **bunks with curtains**, A/C dorms, kitchen with stove, nightly activities (trivia, salsa), **pool** ("social without being an insane party hostel"). **Not as a base:** Bigfoot (party hostel: beer-pong tours, party bus; book its volcano tours, don't sleep there).
+**Private alt (location first):** **Hostal el Sol** · double room · Booking location **9.5** (score 9.4, 108 reviews, 0 % bad) · **$57 for 4 nights** (room table; ≈ $43 for 3) · Booking.com · 0.5 km from the centre. Upgrade: Hostal Fuente Castalia B&B (location 9.6, 95 reviews), single $163.
+
+**Do (free / outdoors first):**
+- **Cerro Negro volcano boarding with Bigfoot: $39.90** + **$10 (or C$370) park fee in cash** ✅ bigfoothostelleon.com. Day tour daily **08:00 → ~13:00** (min 4 people, otherwise moved to the 12:30 sunset tour, which comes with a party bus and dinner); **sunrise tour 03:15**. 45–60 min hike up with the board. Book online or at the hostel. Suggest **Sun 28 Feb, 08:00**.
+- **Telica overnight: currently closed.** ⚠️ Bigfoot's Telica page says **"government authorities have temporarily prohibited access to Telica Volcano until further notice"** due to increased activity ✅ bigfoothostelleon.com (read 24 Nov 2026). INETER reported tremor and restricted crater access, and Infobae reported new explosive activity on 29 Jul 2026 (Google results; not opened). Bigfoot's Telica sunset/sunrise $45 and camping $70 are on hold. Re-check in mid-February; if it reopens, the overnight replaces El Hoyo.
+- **El Hoyo** (ridge over the Maribios chain; the camping tour swims in Laguna Asososca): Bigfoot sunset or sunrise **$45**, **camping overnight $70** ✅ bigfoothostelleon.com. This is the overnight to do while Telica is shut.
+- **San Cristóbal (1,745 m, Nicaragua's highest volcano):** full day, 3–4 am start, ≈ $80–95 with local operators (AI lead; e.g. Volcano Day ≈ $95). Check whether it is open (Maribios activity).
+- **Quetzaltrekkers León (volunteer-run non-profit; profits fund programmes for at-risk kids):** ⚠️ **looks inactive.** quetzaltrekkers.com now shows only the Xela (Guatemala) branch, the old León domain (quetzaltrekkers.org) redirects to an unrelated site, and the @qt_leon Instagram bio still says the crises "challenge the very existence of Quetzaltrekkers León" (Google snippet; its recent posts are from Xela). Ask in town; if it has reopened, it ran small groups to El Hoyo, Telica and Cerro Negro (two board runs).
+- Free: Las Peñitas / Poneloya beach by city bus (≈ C$15–20, 30 min), sunset over the Pacific.
+**Eat / drink:** fritangas and the market (vigorón, nacatamal) ≈ C$80–150 ($2–4) ≈. Craft beer: check nearer the time.
+**Notes:** with the 07:00 award flight (see Home), spend the last night (Tue 2 Mar) at a Managua airport hotel, so León becomes **3 nights (27 Feb → 2 Mar)**: the dorm totals above drop to $33 (Casa Lula), $39 (Tortuga Booluda), $30 (Poco a Poco on Booking). León is the hottest stop (mid-30s °C). Cerro Negro's black sand gets very hot: go on the morning tour.
