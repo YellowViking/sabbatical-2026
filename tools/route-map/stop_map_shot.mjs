@@ -6,7 +6,7 @@ export default async (page) => {
     await page.setViewportSize({ width: 1300, height: 900 });
     await page.goto(`file://${process.env.DIR}/${id}.html`, { waitUntil: 'load' });
     await page.waitForFunction(() => [...document.images].every(i => i.complete), null, { timeout: 30000 }).catch(() => {});
-    await page.waitForTimeout(500);
+    await page.waitForTimeout(+(process.env.WAIT || 500));
     await page.locator('#map').screenshot({ path: `${process.env.OUT}/${id}-map.jpg`, type: 'jpeg', quality: 82 });
     out.push(id);
   }

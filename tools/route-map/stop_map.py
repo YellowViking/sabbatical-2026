@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Static stop maps for the trip guides: Esri World Street Map / World Topo Map tiles + numbered, colour-coded pins.
+"""Static stop maps for the trip guides: a Google Maps base (its own embed) + numbered, colour-coded pins.
 
 Usage:
   python3 tools/route-map/stop_map.py maps.json OUTDIR
@@ -7,7 +7,8 @@ Usage:
                   "points": [{"n": "1", "kind": "pick|bed|bus|sight|food|beer|hike|walk", "lat": .., "lng": ..}, ...]}, ...]
   → writes OUTDIR/<id>.html; screenshot each with tools/route-map/stop_map_shot.mjs (headless Chrome via pw.mjs) to <id>.jpg.
 
-Tiles: Esri ArcGIS Online basemaps (World_Street_Map by default; set "style": "World_Topo_Map" for hikes), with attribution drawn on each image.
+Base: Google Maps (`maps.google.com/maps?ll=…&z=…&output=embed`, "t": "m" roadmap or "p" terrain for hikes), with the pins drawn on top
+at the same zoom. "base": "esri" falls back to Esri ArcGIS tiles ("style": "World_Street_Map" / "World_Topo_Map").
 openstreetmap.org tiles return 403 to file:// pages, and CARTO now needs an API key, so don't switch back.
 """
 import json, math, sys, os
@@ -24,6 +25,13 @@ def px(lat, lng, z):
     return x, y
 
 
+def unpx(x, y, z):
+    s = 256 * 2 ** z
+    lng = x / s * 360 - 180
+    lat = math.degrees(math.atan(math.sinh(math.pi * (1 - 2 * y / s))))
+    return lat, lng
+
+
 def page(m):
     W, H, pad = m.get('w', 1200), m.get('h', 620), 70
     pts = m['points']
@@ -38,11 +46,20 @@ def page(m):
     cx, cy = (max(xs) + min(xs)) / 2, (max(ys) + min(ys)) / 2
     x0, y0 = cx - W / 2, cy - H / 2
     tiles = []
-    for tx in range(int(x0 // 256), int((x0 + W) // 256) + 1):
-        for ty in range(int(y0 // 256), int((y0 + H) // 256) + 1):
-            n = 2 ** z
-            tiles.append(f'<img src="https://server.arcgisonline.com/ArcGIS/rest/services/{m.get("style", "World_Street_Map")}/MapServer/tile/{z}/{ty}/{tx % n}" '
-                         f'style="position:absolute;left:{tx * 256 - x0:.0f}px;top:{ty * 256 - y0:.0f}px;width:256px;height:256px">')
+    if m.get('base', 'google') == 'google':
+        # Google Maps' own embed, centred on the bbox centre at the same integer zoom (256-px Web Mercator, like the pins).
+        # It is 2*T px taller than the frame and shifted up by T, which keeps the centre and hides the "View larger map" card;
+        # Google's own logo and attribution are drawn again in the bottom corner.
+        T = 70
+        clat, clng = unpx(cx, cy, z)
+        tiles.append(f'<iframe src="https://maps.google.com/maps?ll={clat:.6f},{clng:.6f}&z={z}&t={m.get("t", "m")}&hl=en&output=embed" '
+                     f'style="position:absolute;left:0;top:-{T}px;width:{W}px;height:{H + 2 * T}px;border:0"></iframe>')
+    else:
+        for tx in range(int(x0 // 256), int((x0 + W) // 256) + 1):
+            for ty in range(int(y0 // 256), int((y0 + H) // 256) + 1):
+                n = 2 ** z
+                tiles.append(f'<img src="https://server.arcgisonline.com/ArcGIS/rest/services/{m.get("style", "World_Street_Map")}/MapServer/tile/{z}/{ty}/{tx % n}" '
+                             f'style="position:absolute;left:{tx * 256 - x0:.0f}px;top:{ty * 256 - y0:.0f}px;width:256px;height:256px">')
     pins = []
     for p in sorted(pts, key=lambda p: p['kind'] == 'pick'):
         x, y = px(p['lat'], p['lng'], z)
@@ -59,7 +76,8 @@ def page(m):
     return (f'<!doctype html><html><body style="margin:0"><div id="map" style="position:relative;width:{W}px;height:{H}px;overflow:hidden;background:#e8e4da">'
             + ''.join(tiles) + ''.join(pins)
             + f'<div style="position:absolute;left:8px;bottom:8px;background:rgba(255,255,255,.88);padding:4px 8px;border-radius:4px;font:13px Helvetica,Arial,sans-serif;color:#222">{legend}</div>'
-            + '<div style="position:absolute;right:6px;bottom:4px;font:11px Helvetica,Arial,sans-serif;color:#444;background:rgba(255,255,255,.7);padding:1px 4px">Tiles © Esri — Esri, HERE, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors</div>'
+            + (f'<div style="position:absolute;right:6px;bottom:4px;font:11px Helvetica,Arial,sans-serif;color:#444;background:rgba(255,255,255,.75);padding:1px 4px">Map data © {__import__("datetime").date.today().year} Google</div>' if m.get('base', 'google') == 'google' else
+               '<div style="position:absolute;right:6px;bottom:4px;font:11px Helvetica,Arial,sans-serif;color:#444;background:rgba(255,255,255,.7);padding:1px 4px">Tiles © Esri — Esri, HERE, Garmin, FAO, NOAA, USGS, © OpenStreetMap contributors</div>')
             + '</div></body></html>')
 
 

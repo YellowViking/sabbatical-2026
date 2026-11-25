@@ -21,7 +21,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 **Around:** ★ Encarnación · **6** La Casa de Sol in Posadas (🎄 holiday backup, across the bridge) · **7** [Trinidad mission](https://www.google.com/maps?ftid=0x9457f0281002dcef:0x254e952c8c133fb) (≈ 27 km) · **8** [Jesús mission](https://www.google.com/maps?ftid=0x9457f6a927979049:0x71a255ba02d5cc94) (≈ 32 km)
 
-Everything here is also saved in your Google Maps lists: the pick is ⭐ Starred, backups are in 🛏️ Beds – LatAm backups, sights are in Want to go, and food is in Restaurants.
+**Open the live map:** [town](https://www.google.com/maps/@-27.3305,-55.8680,15z) · [area](https://www.google.com/maps/@-27.20,-55.80,10z). When you're signed in, every place here also shows as a saved pin: the pick is ⭐ Starred, backups are in 🛏️ Beds – LatAm backups, sights are in Want to go and food is in Restaurants.
 
 ## 📅 Day by day
 
