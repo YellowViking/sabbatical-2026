@@ -13,11 +13,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 ## 🗺️ Map
 
-![Map of Encarnación: the beds, the bus terminal, the Costanera and the beach](img/encarnacion-map.jpg)
+![Map of Encarnación: the beds, the bus terminal, the Costanera and the beach](img/encarnacion-map-0b232d08.jpg)
 
 **In town:** ★ **Departamentos De La Costa** (the pick) · **1** Terwindt Hotel (backup) · **2** Milord Suites (private alt) · **B** bus terminal · **3** [Costanera](https://www.google.com/maps?ftid=0x9457956eb8eda16f:0xb2a18ead954b59aa) · **4** [Playa San José](https://www.google.com/maps?ftid=0x9457956f1e6afc0b:0x368e81fee5b5ec22) · **5** [Hiroshima](https://www.google.com/maps?ftid=0x945795447e35d7e9:0x859b2808eb9e5148)
 
-![Map of the area: Encarnación, Posadas across the river, and the Jesuit missions to the north-east](img/encarnacion-area-map.jpg)
+![Map of the area: Encarnación, Posadas across the river, and the Jesuit missions to the north-east](img/encarnacion-area-map-827d7fae.jpg)
 
 **Around:** ★ Encarnación · **6** La Casa de Sol in Posadas (🎄 holiday backup, across the bridge) · **7** [Trinidad mission](https://www.google.com/maps?ftid=0x9457f0281002dcef:0x254e952c8c133fb) (≈ 27 km) · **8** [Jesús mission](https://www.google.com/maps?ftid=0x9457f6a927979049:0x71a255ba02d5cc94) (≈ 32 km)
 
