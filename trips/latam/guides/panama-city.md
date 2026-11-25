@@ -45,6 +45,11 @@ Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Cop
 - **Cheapest in miles:** LifeMiles on Avianca via Bogotá, 12,730 + $36.49. It's slower (6–7½ h) and only seen for 2 Feb so far.
 - **A same-day points route for option B:** Sky 06:50 Arequipa → Lima 08:35, then the **LifeMiles AV140 17:55** via Bogotá, arriving 01:20. That's a 9 h 20 gap, so it's safe on separate tickets with no Lima night, but it lands after midnight. It needs re-checking for 3 Feb.
 - **Fastest on points:** the Copa nonstops on United (17,500).
+- **Transfer bonuses (Frequent Miler tracker, 24 Nov):**
+  - Nothing running to LifeMiles, United, Aeroplan or Alaska.
+  - **Capital One → Copa ConnectMiles +30% until 1 Dec** is the only relevant one: Copa's own program books the Copa nonstops. Its miles price wasn't checked; copaair.com's miles search returned "Invalid date" from a link and probably needs a ConnectMiles login.
+  - Chase → BA/Iberia/Aer Lingus Avios +30% until 1 Dec, Amex → Virgin +30% until 30 Nov and Capital One → Flying Blue +20% until 30 Nov don't cover this route.
+  - Transfers to LifeMiles (Amex, Capital One, Citi) and United/Aeroplan (Chase) post instantly, so wait for a bonus and transfer when booking.
 - **Your balances are low**, so a transfer is needed either way: LifeMiles 0, Aeroplan 600.
 - **Searches:**
   - [LifeMiles (signed in; opens the search form, then click the Recently searched card)](https://www.lifemiles.com/fly/find?from=LIM&to=PTY&date=2027-02-03&cabin=1&adults=1&children=0&infants=0&oneWay=true)
