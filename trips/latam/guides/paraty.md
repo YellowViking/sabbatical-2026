@@ -13,8 +13,9 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | What | Links | Getting there (Google Maps, checked 24 Nov) |
 |---|---|---|
 | Colitur bus timetable (Angra → Paraty) | [open](https://site.colitur.com.br/) |  |
-| Dorm pick: **Hostel Oxê** (14 Dec → 15 Dec) · location 9.0 | [Hostelworld](https://www.hostelworld.com/hostels/p/337368/hostel-oxe/?from=2026-12-14&to=2026-12-15&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=83072444&checkin=2026-12-14&checkout=2026-12-15&NumberofAdults=1&Rooms=1) | ⚠️ 🚕 taxi/rideshare ≈ 9 min from the bus station (walk 30 min, 2.2 km); **30 min walk to the centre, no bus in Google Maps** · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.2197106,-44.7167452&destination=-23.2083075,-44.7210864&travelmode=driving) |
-| Backup: **Hostel Agatha** (14 Dec → 15 Dec) · ⚠️ location 8.5 | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Agatha+&checkin=2026-12-14&checkout=2026-12-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/337103/agatha-hostel/?from=2026-12-14&to=2026-12-15&guests=1) | 🚶 walk 12 min (900 m) from the bus station; centre 16 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.2197106,-44.7167452&destination=-23.2261271,-44.7184385&travelmode=walking) |
+| Dorm pick: **Girassol Hostel by Katita** (14 Dec → 15 Dec) · location 9.7 | [Booking](https://www.booking.com/hotel/br/girassol-hostel-by-katita.html?checkin=2026-12-14&checkout=2026-12-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 4 min (300 m) from the bus station; centre 10 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.2197106,-44.7167452&destination=-23.220219,-44.719199&travelmode=walking) |
+| Backup: **Hostel Morada do Sol Paraty** (14 Dec → 15 Dec) · location 9.1 | [Booking](https://www.booking.com/hotel/br/morada-do-sol-paraty1.html?checkin=2026-12-14&checkout=2026-12-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 10 min (700 m) from the bus station; centre 15 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.2197106,-44.7167452&destination=-23.219339,-44.722859&travelmode=walking) |
+| Backup 2: **Hostel Oxê** (14 Dec → 15 Dec) · location 9.0 | [Hostelworld](https://www.hostelworld.com/hostels/p/337368/hostel-oxe/?from=2026-12-14&to=2026-12-15&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=83072444&checkin=2026-12-14&checkout=2026-12-15&NumberofAdults=1&Rooms=1) | ⚠️ 🚕 taxi/rideshare ≈ 9 min from the bus station (walk 30 min, 2.2 km); **30 min walk to the centre, no bus in Google Maps** · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.2197106,-44.7167452&destination=-23.2083075,-44.7210864&travelmode=driving) |
 | Private alt: **Casa Nossa Hospedagem Centro** (14 Dec → 15 Dec) · location 9.8 | [Booking](https://www.booking.com/hotel/br/vintage-paraty.html?checkin=2026-12-14&checkout=2026-12-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 2 min (170 m) from the bus station; centre 7 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.2197106,-44.7167452&destination=-23.2208649,-44.7172209&travelmode=walking) |
 
 ## 3. Paraty — Mon 14 Dec → Tue 15 Dec (1 night)
@@ -24,7 +25,19 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 - **Colitur L101 Angra → Paraty, R$ 27.50, ~2 h** ✅ site.colitur.com.br. Weekday departures from Angra: 04:40, 05:40, 07:00, 08:00, 09:20, 11:20, **12:40**, 14:00, 15:20, 16:40, 18:00, 20:00. Take the 12:40, arriving ~14:40.
 - **Total R$ 48 ($8.06).** A shared boat + van is ≈ $65 (Trip.com listing) and about 3 h.
 
-**Bed (live-checked 24 Nov):** **Hostel Oxê**, R. Frei Henrique de Coimbra 40, Jabaquara. Bed in a 7-bed mixed ensuite dorm.
+**Bed (live-checked 25 Nov, chosen for location):** **Girassol Hostel by Katita** · bunk in a mixed dorm.
+- **Rating:** Booking 9.0 (297; **2% below 7**), location **9.7**.
+- **Total for 1 night: $12 on Booking** ("flexible to reschedule"; free cancellation costs $1 more). Not checked on Hostelworld or Agoda.
+- **Location:** 300 m (4 min on foot) from the rodoviária and 10 min from the historic centre.
+- **Checks:** ✅ "good kitchen facilities, very clean, spacious bedrooms"; host Katita praised. It's on a busy street, so bring earplugs; there's little common space. No party reports.
+
+**Backup:** **Hostel Morada do Sol Paraty** · bed in an 8-bed mixed dorm.
+- **Rating:** Booking 9.1 (453; **2% below 7**), location **9.1**; Wi-Fi 9.9.
+- **Total for 1 night: $17 on Booking** ($18 with free cancellation).
+- **Location:** 10 min on foot from the rodoviária, 15 min from the historic centre.
+- **Checks:** ✅ kitchen; "very quiet", silence kept after 22:00 (Nov 2026 reviews).
+
+**Backup 2:** **Hostel Oxê** (the pick until 25 Nov; ⚠️ a 30-min walk from the centre with no bus), R. Frei Henrique de Coimbra 40, Jabaquara. Bed in a 7-bed mixed ensuite dorm.
 - **Rating:** Booking 9.5 (105; **2% below 7**), location 9.0. Hostelworld 98% (29; all 11 written reviews are 80+).
 - **Total for 1 night: Hostelworld $15.96** + fee. Booking $19 (free cancellation to 7 Dec, pay at the property); Agoda $19.93.
 - **Location:** ~1.4 km from the historic centre and the rodoviária, near Jabaquara beach.
@@ -34,7 +47,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
   - In early 2026 a dorm door didn't close properly, which let mosquitoes in. Bring repellent.
   - No curtains mentioned.
 
-**Backup:** **Hostel Agatha**, R. André Rebouças 576, ~1 km from the centre. Bed in a 6-bed mixed dorm.
+**Also:** **Hostel Agatha** (⚠️ location 8.5), R. André Rebouças 576, ~1 km from the centre. Bed in a 6-bed mixed dorm.
 - **Rating:** Booking 9.4 (103; **1% below 7**), location 8.5. Hostelworld 94% (7).
 - **Total for 1 night: $12 on Booking**, breakfast included. Free cancellation **ends 26 Nov**, and you pay online. Hostelworld $17.00.
 - **Checks:** kitchen; quiet. An Oct 2026 review calls the neighbourhood run-down.

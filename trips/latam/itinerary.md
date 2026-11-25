@@ -13,7 +13,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 |---|---|---|---|---|---|
 | Tue 8 → Sat 12 Dec | **Rio de Janeiro** (4) | Copacabana Central Hostel, $49, Booking | Studio da Lu, $154 | ✈ Alaska award; GIG → Copacabana by BRT + metro | [→](guides/rio-de-janeiro.md) |
 | 12 → 14 Dec | **Ilha Grande** (2) | Lila Limão, $45, Booking | Blue Door Brasil, $95 | 05:00 bus to Mangaratiba + 08:00 ferry → Abraão 09:50, ≈ $13 | [→](guides/ilha-grande.md) |
-| 14 → 15 Dec | **Paraty** (1) | Hostel Oxê, $16, Hostelworld | Casa Nossa, $25 | Ferry + Colitur bus | [→](guides/paraty.md) |
+| 14 → 15 Dec | **Paraty** (1) | Girassol Hostel (location 9.7; kitchen; 4 min from the rodoviária), $12, Booking | Casa Nossa, $25 | Ferry + Colitur bus | [→](guides/paraty.md) |
 | 15 → 17 Dec | **São Paulo** (2) | Lamparina (curtains, stove), $27, Booking | Zen Hostel Brasil, $42 | ✅ Reunidas 09:00 → 15:40, $19.89 (MASP is free on Tuesdays) | [→](guides/sao-paulo.md) |
 | 17 → 18 Dec | **Curitiba** (1) + Serra Verde train | Residencial Botânico, $13, Booking | Studio Lifespace Batel, $50 | ✅ Penha 07:30 → 14:00, $19.60; ✅ train Fri 18 Dec 08:30, R$70; bus back 16:10 | [→](guides/curitiba.md) |
 | 18 → 19 Dec | night bus | — | — | ✅ Catarinense 21:00 → 07:00, $48.70 | [→](guides/curitiba.md) |
@@ -45,7 +45,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 3 → 5 Feb | **Panama City** (2) | El Machico (curtains, big kitchen), $38, Booking | | Tocumen → city by Metro, $0.85 | [→](guides/panama-city.md) |
 | 5 → 8 Feb | **Boquete** (3, Carnaval) | ONDA Boquete, $116, Booking | | ✈ Air Panama Albrook 07:00 → David, $67 (the buses are packed on Carnaval Friday) | [→](guides/boquete.md) |
 | 8 → 11 Feb | **San Gerardo de Rivas** (2) + **Chirripó** (Base Crestones, 10 → 11) | Casa Colibri Chirripó, $77 (2 nights), Booking | | ✅ Tracopa Paso Canoas 08:00 → San Isidro; ✅ 14:30 bus → San Gerardo | [→](guides/san-gerardo-de-rivas.md) |
-| 11 → 13 Feb | **Uvita** (2) | Cascada Verde, $26, Hostelworld | | | [→](guides/uvita.md) |
+| 11 → 13 Feb | **Uvita** (2) | Cascada Verde (location 9.0), $23, Booking | | | [→](guides/uvita.md) |
 | 13 → 15 Feb | **Monteverde** (2) | Monteverde Backpackers, $24, Hostelworld | | Buses via Quepos and Puntarenas | [→](guides/monteverde.md) |
 | 15 → 18 Feb | **La Fortuna** (3) | Ceiba Hostel (curtains, kitchen; small pool), $39, Booking | | Jeep-boat-jeep | [→](guides/la-fortuna.md) |
 | 18 → 20 Feb | **Liberia / Rincón de la Vieja** (2) | Hostel Pura Vida, $28, Booking | | | [→](guides/rincon-de-la-vieja.md) |
@@ -98,7 +98,6 @@ Every guide's booking table now has a **Getting there** column: the property fou
 | [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol, 27 → 28 Jan: Inti Wasi Lodge | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) |
 | [La Paz](guides/la-paz.md) | Dorm pick: La Casa Bonita | 🚕 taxi/rideshare ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot |
 | [Panama City](guides/panama-city.md) | Dorm pick: El Machico Hostel | 🚕 taxi/rideshare ≈ 33 min from Tocumen airport; or Metro Line 2 → Line 1 from the airport ($0.85, see the guide); ℹ️ outside the centre (56 min on foot, buses run) |
-| [Paraty](guides/paraty.md) | Dorm pick: Hostel Oxê | ⚠️ 🚕 taxi/rideshare ≈ 9 min from the bus station (walk 30 min, 2.2 km); **30 min walk to the centre, no bus in Google Maps** |
 | [Potosí](guides/potosi.md) | Pick (private): Los Faroles Hostal | 🚕 taxi/rideshare ≈ 19 min from the new bus terminal (walk 1 hr 9 min, 4.2 km); Google has no bus data here, so local minibus/colectivo (ask locally); centre 6 min on foot |
 | [Sucre](guides/sucre.md) | Dorm pick: Villa Oropeza Hostel | 🚕 taxi/rideshare ≈ 12 min from the bus terminal (walk 31 min, 2.2 km); Google has no bus data here, so local minibus/colectivo (ask locally); centre 5 min on foot |
 | [Uvita](guides/uvita.md) | Dorm pick: Hostel Cascada Verde | 🚕 taxi/rideshare ≈ 5 min from the Costanera bus stop (walk 33 min, 2.2 km) |
@@ -119,22 +118,26 @@ Every bed in the guides' **Book** tables shows its **location** score: Booking.c
 
 **Net: +$32** for the six.
 
-**Still open, Uvita:** Cascada Verde scores **8.6 *(HW)*** and the backup, Shipwrecked, 8.8. Booking's ≥ 9.0 options are privates, e.g. Hotel Sueños de María at 9.6 for $80. The whole-town dorm sweep is in progress.
+**Also changed on 25 Nov:**
+- **Paraty:** the pick is now **Girassol Hostel 9.7** ($12, 4 min from the rodoviária) instead of Oxê (9.0, $16, a 30-min walk with no bus). That saves $4 and removes the walk flag.
+- **Uvita:** Cascada Verde scores **9.0 on Booking** (954 reviews), and Booking is $3 cheaper ($23). It stays the pick.
+- **Backups ≥ 9.0** replace the ones below 9.0:
+  - Ilha Grande: Mahalo, 9.3, $34.
+  - Paraty: Morada do Sol, 9.1, $17.
+  - Córdoba: Lacandona, 9.6, $21.
+  - Monteverde: OutBox Inn, 9.7, $43.
+  - Ometepe: Nómadas, a dorm at 9.2, $31; it opened in 2026 and has only 25 reviews.
 
-**Backups below 9.0** (used only if a pick sells out):
-- Ilha Grande: Holandês, 8.5.
-- Paraty: Agatha, 8.5. The pick, Oxê, is exactly 9.0.
-- Córdoba: Faz, 8.8.
-- La Paz: Hotel Martí, 8.9 *(HW)*.
-- Monteverde: Cattleya, 8.7.
-- Uvita: Shipwrecked, 8.8.
-- The old picks above.
+**Still below 9.0:**
+- **La Paz backup:** Hotel Martí, 8.9 *(HW)*. Booking has no other dorm ≥ 9.0 besides the pick, La Casa Bonita (9.3).
+- **Old picks that are now backups:** El Nómada, Green House, Casa Colores, SaltWater, Life is Good, Casa Voyage.
+- **Uvita backup:** Shipwrecked, 8.8.
 
 Each guide's private alternative was already chosen location-first, and all of them score 9.2 or higher (San Gerardo's El Pelícano isn't scored).
 
 ## Money
 **Expected spend ≈ $6.2–6.8k** (≈ $75–80/day all-in). **Carry ≈ $7.5k**, which includes a ≈ $1k private-room buffer.
-- **Living ≈ $3.6k** (≈ $43/day). Beds at the picks come to ≈ $1.39k for 84 nights.
+- **Living ≈ $3.6k** (≈ $42.5/day). Beds at the picks come to ≈ $1.385k for 84 nights.
 - **Transport ≈ $1.25–1.6k.**
 - **Uyuni tour ≈ $0.3k.**
 - **Fees and admin ≈ $0.6–0.75k.**

@@ -13,7 +13,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 | Item | Amount | Notes |
 |---|---:|---|
-| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.58k** (≈ $43/day) | table (b) |
+| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.57k** (≈ $42.5/day) | table (b) |
 | 10% cushion on living | ≈ $0.36k | |
 | **Intercity transport** (buses, ferries, the Sucre → La Paz, Arequipa → Lima → Panama and Panama City → David flights, border fees) | ≈ $1.25–1.60k | [route-v5-brainstorm §12/§15](route-v5-brainstorm.md) + the guides |
 | **Uyuni jeep tour** (3 days, 2 nights, meals, park and border fees) | ≈ $0.28–0.30k | [guide](guides/uyuni-jeep-tour.md) |
@@ -23,7 +23,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | **Expected spend** | **≈ $6.2–6.8k** | |
 | Optional adventure extras | + $0.30–0.45k | Cerro Toco $83, Death Road $85 or Pico Austria ≈ $100, El Hoyo ≈ $70, Concepción guide $25–40, Cerro Negro ≈ $35, Somoto $20–30 |
 | **Private-room buffer** | + ≈ $1.0k | Every guide names a location-first private room. Privates cost 2–4× a dorm in Rio, Uruguay, Panama and Costa Rica, but only $5–15 more a night in Bolivia, Peru and Nicaragua. $1k covers privates on roughly 40% of nights |
-| Using the 12 spare days on the road | + ≈ $0.5k | at ≈ $43/day living |
+| Using the 12 spare days on the road | + ≈ $0.5k | at ≈ $42.5/day living |
 
 **Flights on points:**
 - **In:** SEA → Rio, Alaska business, 60,000 points + $26. Cash for the same itinerary is ≈ $4,063, against ≈ $565–625 for cash economy.
@@ -34,7 +34,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 | Region | Dates | Days | Beds (actual picks) | Food / day | 2 beers / day | Local + small / day | Subtotal | Note |
 |---|---|---:|---:|---:|---:|---:|---:|---|
-| Brazil (Rio → Foz) | 8 → 21 Dec | 13 | $184 | $17 | $6.0 | $5.5 | **$554** | 12 bed nights + 1 night bus; picks $13–49 |
+| Brazil (Rio → Foz) | 8 → 21 Dec | 13 | $180 | $17 | $6.0 | $5.5 | **$550** | 12 bed nights + 1 night bus; picks $13–49 |
 | Paraguay | 21 → 26 Dec | 5 | $94 | $11.5 | $3.7 | $3 | **$185** | Encarnación is a whole flat ($76) because the hostels are full |
 | Uruguay | 26 Dec → 1 Jan | 6 | $145 | $22 | $9.0 | $6.5 | **$370** | 26 Dec on the bus; no NYE surcharge at MedioMundo |
 | Argentina | 1 → 14 Jan | 12 | $170 | $17 | $6.6 | $4 | **$501** | 2 night buses; refugio assumed ≈ $15/night (price on request) |
@@ -43,11 +43,11 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | Bolivia | 20 → 29 Jan | 9 | $104 | $9 | $3.7 | $3 | **$245** | |
 | Peru | 29 Jan → 3 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | |
 | Panama | 3 → 8 Feb | 5 | $154 | $17 | $5.0 | $5.5 | **$292** | Boquete at Carnaval prices ($116 for 3 nights) |
-| Costa Rica | 8 → 20 Feb | 12 | $239 | $22 | $7.5 | $7 | **$677** | incl. ≈ $45 Base Crestones bunk |
+| Costa Rica | 8 → 20 Feb | 12 | $236 | $22 | $7.5 | $7 | **$674** | incl. ≈ $45 Base Crestones bunk |
 | Nicaragua | 20 Feb → 3 Mar | 11 | $156 | $10 | $3.1 | $3 | **$333** | León 3 nights + ≈ $45 airport hotel |
-| **Total** | | **84** | **$1,392** (≈ $17/night) | **$1,303** | **$484** | **$397** | **≈ $3,576** (≈ $43/day) | |
+| **Total** | | **84** | **$1,385** (≈ $16.5/night) | **$1,303** | **$484** | **$397** | **≈ $3,569** (≈ $42.5/day) | |
 
-- **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Six picks were swapped on 25 Nov for a location score ≥ 9.0 (net +$32). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
+- **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
 - **Food, beer and local costs** are the midpoints of late-2026 backpacker ranges (Budget Your Trip, Numbeo, Hostelz, Indie Traveller, r/backpacking, as summarised by Google AI Mode; leads, not quotes). They're consistent with the dish prices in the guides. Two bar beers a day; add one more and it's about +$0.25k.
 
 ## (c) Transport, tours and fees
@@ -95,14 +95,13 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
     - B, Lima night + Copa on United miles: ≈ $90 + 17,500.
     - C, overland via [Huacachina + Paracas](guides/huacachina-paracas.md) + the award: ≈ $185 + 17,500, and +3 days (≈ +$125 living).
 - **Up:**
-  - Uvita private room for a location ≥ 9.0 (if no dorm qualifies): ≈ +$54.
   - Private rooms everywhere: about +$1.5–2k.
   - The 12 spare days: +$0.5k.
   - Bolivian blockades: extra nights or a flight, +$0.1–0.3k (the route-change reserve covers one event).
 
 ## (e) Against the backpacker consensus
 
-Recent reports put Central and South America at **$50–70/day** in hostels (r/backpacking, Jul 2026) and Central America at **$25–60/day** (2026). Living here comes to ≈ $43/day before transport. With intercity transport, tours, fees and admin, it's ≈ $75–80/day: above the pure-backpacker figure, because this route covers 10 countries in 12 weeks and has three flights. The pace warning from [route-v5-brainstorm §14](route-v5-brainstorm.md) applies.
+Recent reports put Central and South America at **$50–70/day** in hostels (r/backpacking, Jul 2026) and Central America at **$25–60/day** (2026). Living here comes to ≈ $42.5/day before transport. With intercity transport, tours, fees and admin, it's ≈ $75–80/day: above the pure-backpacker figure, because this route covers 10 countries in 12 weeks and has three flights. The pace warning from [route-v5-brainstorm §14](route-v5-brainstorm.md) applies.
 
 ## (f) Open issues
 - The prices of the Los Gigantes refugio and the Base Crestones bunk are estimates (see [Córdoba](guides/cordoba.md) and [San Gerardo](guides/san-gerardo-de-rivas.md)).

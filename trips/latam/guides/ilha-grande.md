@@ -16,7 +16,8 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | Barcas Rio ferry timetable (Mangaratiba/Angra → Abraão) | [open](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |  |
 | Porto Real flex boat (Conceição de Jacareí) | [open](https://portorealilhagrande.com.br/) |  |
 | Dorm pick: **Lila Limão Hostel** (12 Dec → 14 Dec) · location 9.4 | [Booking](https://www.booking.com/hotel/br/lila-limao-hostel-angra-dos-reis.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/314201/lila-limao-hostel/?from=2026-12-12&to=2026-12-14&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=32001446&checkin=2026-12-12&checkout=2026-12-14&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (500 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.141282699999998,-44.1702562&travelmode=walking) |
-| Backup: **Pousada e Hostel Holandês** (12 Dec → 14 Dec) · ⚠️ location 8.5 | [Booking](https://www.booking.com/hotel/br/holandes-hostel.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 9 min (600 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.1444326,-44.1655869&travelmode=walking) |
+| Backup: **Mahalo Hostel** (12 Dec → 14 Dec) · location 9.3 | [Booking](https://www.booking.com/hotel/br/semente.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 6 min (450 m) from the Tourist Pier in Abraão; centre 1 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.142344,-44.169173&travelmode=walking) |
+| Backup 2: **Pousada e Hostel Holandês** (12 Dec → 14 Dec) · ⚠️ location 8.5 | [Booking](https://www.booking.com/hotel/br/holandes-hostel.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 9 min (600 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.1444326,-44.1655869&travelmode=walking) |
 | Private alt: **Blue Door Brasil** (12 Dec → 14 Dec) · location 9.6 | [Booking](https://www.booking.com/hotel/br/blue-door-brasil.html?checkin=2026-12-12&checkout=2026-12-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 5 min (400 m) from the Abraão pier · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.1407022,-44.1670497&destination=-23.141810644939,-44.168697831644&travelmode=walking) |
 
 ## 2. Ilha Grande (Vila do Abraão) — Sat 12 Dec → Mon 14 Dec (2 nights)
@@ -42,7 +43,12 @@ Option A gives you all of Saturday for the Lopes Mendes trail. Option B suits yo
   - **No bed curtains** (several reviews).
   - The dorm windows face the small common area. AC runs at night only.
 
-**Backup:** **Pousada e Hostel Holandês (HI)**, R. da Assembleia 162, in the forest ~8 min up from the pier. Bed in a 6-bed mixed ensuite dorm.
+**Backup (location 9.3, added 25 Nov):** **Mahalo Hostel**, in the village centre, 450 m from the pier. Bed in a 7-bed mixed dorm.
+- **Rating:** Booking 8.6 (884; **2% below 7**), location **9.3**.
+- **Total for 2 nights: $34 on Booking**, breakfast included.
+- **Checks:** no guest kitchen in Booking's facility list; no bed curtains; some 3-tier bunks with little headroom; one bathroom per six in the dorm. Staff and volunteers praised. Balaio Hostel (location 9.7, $39, curtains and lights) had a Nov 2026 review reporting mould and bugs, so it isn't the backup.
+
+**Backup 2:** **Pousada e Hostel Holandês (HI)** (⚠️ location 8.5), R. da Assembleia 162, in the forest ~8 min up from the pier. Bed in a 6-bed mixed ensuite dorm.
 - **Rating:** Booking 9.1 (796; **4% below 7**), location 8.5. Hostelworld 91% (1,806); of the last 100, 2% are below 60%. One Nov 2026 review mentions a mould smell in the shared room.
 - **Total for 2 nights: $48 on Booking**, breakfast included, free cancellation to 5 Dec. Hostelworld $49.72.
 - **Checks:** kitchen; quiet; no curtains, no bedside sockets.
