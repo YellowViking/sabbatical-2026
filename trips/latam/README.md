@@ -11,7 +11,7 @@
 - ✈ Panama City → Boquete → Chirripó → Uvita → Monteverde → Arenal → Rincón → San Juan del Sur → Ometepe → Granada → León.
 - ✈ home from Managua ≈ 3 Mar, with 12 spare days.
 
-Nothing is booked. The Brazil [itinerary](itinerary.md) and [budget](budget-forecast.md) below are from v4 (with the north-east and Bahia); they will be rebuilt for v5.
+**[Day-by-day itinerary for v5](itinerary.md)**: beds, buses and flights checked live on 24 Nov 2026 for every stop. Nothing is booked. The [budget forecast](budget-forecast.md) is still the v4 one and will be rebuilt.
 
 This page will become the trip's single source of truth, like [Europe 2026](../europe-2026/README.md): a route table, links to one guide per place in `guides/`, how the trip was planned, and the lessons.
 
