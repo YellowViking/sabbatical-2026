@@ -8,13 +8,15 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 **Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
 
+**Location** is the guests' location score on Booking.com (aim ≥ 9.0; ⚠️ = below 9.0). *(HW)* = Hostelworld's location rating, used where the property isn't on Booking.
+
 | What | Links | Getting there (Google Maps, checked 24 Nov) |
 |---|---|---|
 | Tracopa Paso Canoas → San Isidro, Mon 8 Feb 08:00 | [open](https://www.tracopacr.com/) |  |
 | Hernández Solís bus San Isidro → San Gerardo 14:30 (timetable) | [open](https://perezzeledon.com/bus-routes-schedules-perez-zeledon) |  |
 | ⚠️ Chirripó admission, SINAC (reCAPTCHA + SICORE account) | [open](https://serviciosenlinea.sinac.go.cr/) |  |
 | Base Crestones lodging and meals (Consorcio) | [open](https://chirripo.org/info-util/) |  |
-| Dorm pick, 8 → 10 Feb: **Casa Colibri Chirripó** (8 Feb → 10 Feb) | [Booking](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-08&checkout=2027-02-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 21 min (1.2 km) from the village bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) |
+| Dorm pick, 8 → 10 Feb: **Casa Colibri Chirripó** (8 Feb → 10 Feb) · location 9.8 | [Booking](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-08&checkout=2027-02-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 21 min (1.2 km) from the village bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) |
 | Backup: Casa Mariposa (email booking) | [open](https://casamariposachirripo.net/) |  |
 | Private alt: **Hotel de Montaña El Pelícano** (8 Feb → 10 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-08&checkout=2027-02-10&group_adults=1&no_rooms=1&selected_currency=USD) | 🚶 walk 9 min (500 m) from the village bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.460934,-83.604143&travelmode=walking) |
 

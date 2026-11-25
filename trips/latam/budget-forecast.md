@@ -95,6 +95,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
     - B, Lima night + Copa on United miles: ≈ $90 + 17,500.
     - C, overland via [Huacachina + Paracas](guides/huacachina-paracas.md) + the award: ≈ $185 + 17,500, and +3 days (≈ +$125 living).
 - **Up:**
+  - Moving the seven dorm picks below location 9.0 to the proposed ≥ 9.0 swaps ([itinerary](itinerary.md#location-score-aim--90-checked-2425-nov)): about +$43, or ≈ +$97 if Uvita goes private.
   - Private rooms everywhere: about +$1.5–2k.
   - The 12 spare days: +$0.5k.
   - Bolivian blockades: extra nights or a flight, +$0.1–0.3k (the route-change reserve covers one event).

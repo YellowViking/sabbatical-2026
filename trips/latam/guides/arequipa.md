@@ -11,10 +11,12 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 **Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
 
+**Location** is the guests' location score on Booking.com (aim ≥ 9.0; ⚠️ = below 9.0). *(HW)* = Hostelworld's location rating, used where the property isn't on Booking.
+
 | What | Links | Getting there (Google Maps, checked 24 Nov) |
 |---|---|---|
-| Dorm pick: **Econunay** (1 Feb → 3 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=81309105&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 23 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.392776599999998,-71.5328378&travelmode=driving) |
-| Backup: **Friendly AQP** (1 Feb → 3 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37917604&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 13 min from the bus terminal (walk 48 min, 3.3 km); centre 8 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.400574499999998,-71.5404465&travelmode=driving) |
+| Dorm pick: **Econunay** (1 Feb → 3 Feb) · location 9.1 | [Hostelworld](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=81309105&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 23 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.392776599999998,-71.5328378&travelmode=driving) |
+| Backup: **Friendly AQP** (1 Feb → 3 Feb) · location 9.0 | [Hostelworld](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37917604&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 13 min from the bus terminal (walk 48 min, 3.3 km); centre 8 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.400574499999998,-71.5404465&travelmode=driving) |
 
 ## 24. Arequipa — Day 56 Mon 1 Feb → Day 58 Wed 3 Feb (2 nights)
 

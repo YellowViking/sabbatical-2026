@@ -105,6 +105,32 @@ Every guide's booking table now has a **Getting there** column: the property fou
 
 Everything else is a walk of 25 minutes or less, or a short bus ride. Where Google Maps has no bus data (Potosí, Sucre, La Paz, Boquete, Ometepe), local minibuses still run; the taxi time is Google's driving estimate.
 
+## Location score (aim ≥ 9.0, checked 24–25 Nov)
+Every bed in the guides' **Book** tables now shows its **location** score: Booking.com's guest score, or Hostelworld's *(HW)* where the property isn't on Booking. ⚠️ marks scores below 9.0. Most picks already score 9.0–9.9. **Seven dorm picks fall short.** Each has a proposed ≥ 9.0 swap below. **None of the swaps is applied yet.**
+
+| Stop | Pick now (location, total) | Proposed swap (location, total) | Δ | Notes |
+|---|---|---|---:|---|
+| [Asunción](guides/asuncion.md) | El Nómada **8.9**, $22 | Hostel Chaton **9.5**, bunk in a mixed dorm, $18 (Booking 9.2, 53 reviews, 2% below 7) | −$4 | El Nómada misses by 0.1 and has the better overall score (9.0 from 740 reviews). Chaton isn't vetted yet (party, kitchen, curtains). The backup, Mediterraneo, is exactly 9.0, at $18 |
+| [Cabo Polonio](guides/cabo-polonio.md) | Green House **8.7**, $50 | **Hostel Albatros 9.4** (the backup), $70 | +$20 | Already vetted: 9.1 overall, 1% below 7, kitchen, no noise complaints. Lobo Hostel Bar is 9.7 at $61, but the name suggests a bar and it isn't vetted. The whole village lies within ~1 km |
+| [Tilcara](guides/quebrada-de-humahuaca.md) | Casa Colores **8.8**, $11 | **Tilcara Mística 9.5** (the backup), $23 | +$12 | 160 m from the plaza. Tierra Andina is 9.5 at $12, but scores 8.3 overall (6% below 7) and isn't vetted |
+| [San Pedro](guides/san-pedro-de-atacama.md) | Casa Voyage **8.8**, $65 | **Backpackers San Pedro 9.6 *(HW)*** (the backup), $84.80 on Hostelworld | +$20 | 0.5 km from the plaza, several stove kitchens, 2,789 Hostelworld reviews. Booking's own listing has only 8 reviews (7.6), so it's ignored here. On Booking: Hostal Campo Base 9.1, $102; Mamatierra 9.3, $122; Anka 9.9, $136 (all 1–2% below 7) |
+| [Uvita](guides/uvita.md) | Cascada Verde **8.6 *(HW)***, $26 | No ≥ 9.0 dorm found yet. Private: Hotel Sueños de María **9.6**, $80 | +$54 (private) | The backup, Shipwrecked, is 8.8. Uvita strings along the highway, so the whole-town dorm sweep is still to do |
+| [San Juan del Sur](guides/san-juan-del-sur.md) | SaltWater **8.7**, $28.60 | **Nalu Nalu 9.8 *(HW)*** (the backup), $18 on Booking | −$10.60 | 0.1 km from the centre, stove kitchen, "isn't a party hostel"; thin walls. Its Booking location score is still to read |
+| [Ometepe](guides/ometepe.md) | Life is Good **8.3**, $30 | **Guest House Nena 9.4**, a private double, $36 for 3 nights | +$6 | Life is Good and the backup, Rancho Tranquillo (8.7), are both ~1 km north of Moyogalpa. Nena is 0.3 km from the port. Casa Caimana (9.0, 0% below 7) has a double at $27 |
+
+**All proposed swaps together: about +$43** (≈ +$97 if Uvita goes private).
+
+**Backups below 9.0** (these matter only if the pick sells out):
+- Ilha Grande: Holandês, 8.5.
+- Paraty: Agatha, 8.5. The pick, Oxê, is exactly 9.0.
+- Córdoba: Faz, 8.8.
+- La Paz: Hotel Martí, 8.9 *(HW)*.
+- Monteverde: Cattleya, 8.7.
+- Uvita: Shipwrecked, 8.8.
+- Ometepe: Rancho Tranquillo, 8.7.
+
+Each guide's private alternative was already chosen location-first, and all of them score 9.2 or higher (San Gerardo's El Pelícano isn't scored).
+
 ## Money
 **Expected spend ≈ $6.2–6.8k** (≈ $75–80/day all-in). **Carry ≈ $7.5k**, which includes a ≈ $1k private-room buffer.
 - **Living ≈ $3.5k** (≈ $42/day). Beds at the dorm picks come to ≈ $1.36k for 84 nights.

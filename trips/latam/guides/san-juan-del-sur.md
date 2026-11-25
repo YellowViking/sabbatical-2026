@@ -8,13 +8,15 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 **Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
 
+**Location** is the guests' location score on Booking.com (aim ≥ 9.0; ⚠️ = below 9.0). *(HW)* = Hostelworld's location rating, used where the property isn't on Booking.
+
 | What | Links | Getting there (Google Maps, checked 24 Nov) |
 |---|---|---|
 | Costa Rica exit tax (BCR, pay online) | [open](https://www.bancobcr.com/) |  |
 | Nicaragua advance registration (Migración) | [open](https://solicitudes.migob.gob.ni/) |  |
-| Dorm pick: **Hostel SaltWater** (20 Feb → 22 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) | 🚶 walk 15 min (1.1 km) from the market bus stop; centre 15 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.2573054,-85.86500149999999&destination=11.2556725,-85.8711053&travelmode=walking) |
-| Backup: **Nalu Nalu Hostal** (20 Feb → 22 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Nalu+Nalu+Hostal+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) | 🚶 walk 13 min (1.0 km) from the market bus stop; centre 18 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.2573054,-85.86500149999999&destination=11.2530333,-85.8711678&travelmode=walking) |
-| Private alt: **Lobolira** (20 Feb → 22 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) | 📍 location not found on Google Maps (listing says "3 blocks from the beach") |
+| Dorm pick: **Hostel SaltWater** (20 Feb → 22 Feb) · ⚠️ location 8.7 | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) | 🚶 walk 15 min (1.1 km) from the market bus stop; centre 15 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.2573054,-85.86500149999999&destination=11.2556725,-85.8711053&travelmode=walking) |
+| Backup: **Nalu Nalu Hostal** (20 Feb → 22 Feb) · location 9.8 (HW) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Nalu+Nalu+Hostal+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) | 🚶 walk 13 min (1.0 km) from the market bus stop; centre 18 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=11.2573054,-85.86500149999999&destination=11.2530333,-85.8711678&travelmode=walking) |
+| Private alt: **Lobolira** (20 Feb → 22 Feb) · location 9.6 | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) | 📍 location not found on Google Maps (listing says "3 blocks from the beach") |
 
 ## 32. San Juan del Sur / Playa Maderas — Sat 20 Feb → Mon 22 Feb (2 nights)
 
