@@ -14,6 +14,19 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | Dorm pick: **El Machico Hostel** (3 Feb → 5 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/88333/el-machico-hostel/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=728716&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
 | Backup: **Bodhi Panama City** (3 Feb → 5 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
 
+## Getting here: three options, Arequipa → Panama City
+
+All three are kept open (user, 24 Nov).
+
+
+| | Route | Arrive Panama | Cash | Points | Catch |
+|---|---|---|---|---|---|
+| **A. Cash, same day** (current plan) | Sky 06:50 → Lima 08:35, then Copa CM760 13:20 → PTY 17:08 | Wed 3 Feb 17:08 | ≈ $326 | — | **Two separate tickets** (no single-ticket option exists; the only one is via Mexico City, $1,402). The 4 h 45 gap protects you; Copa won't rebook you if Sky is late |
+| **B. Points, Lima night** | LATAM Arequipa → Lima Tue 2 Feb afternoon (≈ $47), Tupac airport hostel ($9.90), then Copa CM400 10:30 → 14:18 on United miles. Or the 02:15 red-eye and no bed | Wed 3 Feb 14:18 (red-eye ≈ 06:00) | ≈ $90 | 17,500 + $31.49 | One Arequipa night instead of two |
+| **C. Overland + points** | Night bus Arequipa → Ica, **Huacachina** + **Paracas** (Ballestas), bus to Lima, then Copa CM400 Sat 6 Feb on miles | Sat 6 Feb 14:18 | ≈ $185 incl. beds and tours | 17,500 + $31.49 | +3 days (spare 12 → 9); Boquete lands on Carnaval. Details: [Huacachina + Paracas guide](huacachina-paracas.md) |
+
+No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Copa and Avianca don't serve AQP), Alaska (0), Delta ("no results"); LATAM doesn't fly to Panama. United shows the Copa 17,500 saver on CM400, CM338, CM264 and (on 5 Feb) CM132; CM760 13:20 is 40,000.
+
 ## Getting here: ✈ Arequipa → Lima → Panama City — Day 58 Wed 3 Feb (two separate tickets)
 
 **Live Google Flights search, 24 Nov 2026** (USD, 1 adult, taxes included, cheapest fare brand, bags extra):

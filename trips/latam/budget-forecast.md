@@ -90,7 +90,10 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
   - Self-cater more in Uruguay, Chile and Costa Rica, where hostel kitchens are confirmed at the picks. That's worth about $5–8/day there.
   - Encarnación: if a hostel bed frees up, it saves about $40 on the flat.
   - Take the Boquete bus instead of the Air Panama flight: about −$45, but Carnaval Friday buses are packed.
-  - Copa Lima → Panama on United miles (17,500 + $31) instead of $274 cash: about −$243, but only the 10:30 or red-eye savers qualify (see the [Panama City guide](guides/panama-city.md)).
+  - **Arequipa → Panama, three open options** ([Panama City guide](guides/panama-city.md#getting-here-three-options-arequipa--panama-city)):
+    - A, cash same day: ≈ $345 including the 2nd Arequipa night.
+    - B, Lima night + Copa on United miles: ≈ $90 + 17,500.
+    - C, overland via [Huacachina + Paracas](guides/huacachina-paracas.md) + the award: ≈ $185 + 17,500, and +3 days (≈ +$125 living).
 - **Up:**
   - Private rooms everywhere: about +$1.5–2k.
   - The 12 spare days: +$0.5k.

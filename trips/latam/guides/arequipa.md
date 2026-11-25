@@ -2,6 +2,9 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Colca Canyon](colca-canyon.md) · [Panama City](panama-city.md) →
 
+> **Leaving Arequipa: three open options** (details in the [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city)). **A:** fly 3 Feb 06:50 (2 nights here). **B:** fly to Lima on the 2 Feb afternoon and use the Copa award (1 night here). **C:** night bus on 2 Feb to Huacachina + Paracas, then the award from Lima on 6 Feb (1 night here; [guide](huacachina-paracas.md)).
+
+
 ## Book (one click)
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.

@@ -41,7 +41,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 29 → 30 Jan | **Puno** (1) | Kantaya Hostel, $10.50, Hostelworld | | ✅ Titicaca Bolivia Bus 13:30, $10 | [→](guides/puno.md) |
 | 30 Jan → 1 Feb | **Chivay** (1) + **Sangalle oasis** (1) | Samay Lodge $12 + Paraíso Las Palmeras $32, Booking | | ✅ 4M Express Puno 06:15 → Chivay ~12:30, $54; boleto turístico S/70 | [→](guides/colca-canyon.md) |
 | 1 → 3 Feb | **Arequipa** (2) | Econunay, $18.94, Hostelworld/Agoda | | Climb out of the canyon 05:00, 09:30 bus from Cabanaconde, S/35 | [→](guides/arequipa.md) |
-| Wed 3 Feb | ✈ ✈ | — | — | Sky 06:50 → Lima 08:35 ($52) + Copa CM760 13:20 → Panama 17:08 ($274); two tickets, 4 h 45 gap | [→](guides/panama-city.md) |
+| Wed 3 Feb | ✈ ✈ (**3 open options**) | — | — | **A:** Sky 06:50 + Copa CM760 13:20, $326 cash (two tickets, 4 h 45 gap). **B:** Lima night + Copa 10:30 on 17,500 United miles. **C:** overland via Huacachina + Paracas, award from Lima on 6 Feb (+3 days) | [→](guides/panama-city.md) |
 | 3 → 5 Feb | **Panama City** (2) | El Machico (curtains, big kitchen), $38, Booking | | Tocumen → city by Metro, $0.85 | [→](guides/panama-city.md) |
 | 5 → 8 Feb | **Boquete** (3, Carnaval) | ONDA Boquete, $116, Booking | | ✈ Air Panama Albrook 07:00 → David, $67 (the buses are packed on Carnaval Friday) | [→](guides/boquete.md) |
 | 8 → 11 Feb | **San Gerardo de Rivas** (2) + **Chirripó** (Base Crestones, 10 → 11) | Casa Colibri Chirripó, $77 (2 nights), Booking | | ✅ Tracopa Paso Canoas 08:00 → San Isidro; ✅ 14:30 bus → San Gerardo | [→](guides/san-gerardo-de-rivas.md) |
@@ -112,4 +112,4 @@ Points: 60k + 25k Alaska. Details: [budget-forecast.md](budget-forecast.md).
 - **Costa Rica:** [San Gerardo de Rivas (Chirripó)](guides/san-gerardo-de-rivas.md) → [Uvita](guides/uvita.md) → [Monteverde](guides/monteverde.md) → [La Fortuna](guides/la-fortuna.md) → [Rincón de la Vieja](guides/rincon-de-la-vieja.md)
 - **Nicaragua:** [San Juan del Sur](guides/san-juan-del-sur.md) → [Ometepe](guides/ometepe.md) → [Granada](guides/granada.md) → [León](guides/leon.md) → [Flight home](guides/flight-home.md)
 
-**Optional extras:** [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) (+2 days before Rio) · [Somoto Canyon](guides/somoto.md) (+2 days before flying home).
+**Optional extras:** [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) (+2 days before Rio) · [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days, Arequipa → Lima overland; option C) · [Somoto Canyon](guides/somoto.md) (+2 days before flying home).
