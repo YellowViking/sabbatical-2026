@@ -2,6 +2,20 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Boquete](boquete.md) · [Uvita](uvita.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Tracopa Paso Canoas → San Isidro, Mon 8 Feb 08:00 | [open](https://www.tracopacr.com/) |
+| Hernández Solís bus San Isidro → San Gerardo 14:30 (timetable) | [open](https://perezzeledon.com/bus-routes-schedules-perez-zeledon) |
+| ⚠️ Chirripó admission, SINAC (reCAPTCHA + SICORE account) | [open](https://serviciosenlinea.sinac.go.cr/) |
+| Base Crestones lodging and meals (Consorcio) | [open](https://chirripo.org/info-util/) |
+| Dorm pick, 8 → 10 Feb: **Casa Colibri Chirripó** (8 Feb → 10 Feb) | [Booking](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-08&checkout=2027-02-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup: Casa Mariposa (email booking) | [open](https://casamariposachirripo.net/) |
+| Private alt: **Hotel de Montaña El Pelícano** (8 Feb → 10 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-08&checkout=2027-02-10&group_adults=1&no_rooms=1&selected_currency=USD) |
+
 ## Getting here: Boquete → David → Paso Canoas → San Isidro → San Gerardo de Rivas — Day 63 Mon 8 Feb
 
 | Step | How | Time (local) | Cost | Source |

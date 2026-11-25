@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Ilha Grande](ilha-grande.md) · [São Paulo](sao-paulo.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Colitur bus timetable (Angra → Paraty) | [open](https://site.colitur.com.br/) |
+| Dorm pick: **Hostel Oxê** (14 Dec → 15 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/337368/hostel-oxe/?from=2026-12-14&to=2026-12-15&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=83072444&checkin=2026-12-14&checkout=2026-12-15&NumberofAdults=1&Rooms=1) |
+| Backup: **Hostel Agatha** (14 Dec → 15 Dec) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Agatha+&checkin=2026-12-14&checkout=2026-12-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/337103/agatha-hostel/?from=2026-12-14&to=2026-12-15&guests=1) |
+| Private alt: **Casa Nossa Hospedagem Centro** (14 Dec → 15 Dec) | [Booking](https://www.booking.com/hotel/br/vintage-paraty.html?checkin=2026-12-14&checkout=2026-12-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## 3. Paraty — Mon 14 Dec → Tue 15 Dec (1 night)
 
 **Getting there (Mon 14):**

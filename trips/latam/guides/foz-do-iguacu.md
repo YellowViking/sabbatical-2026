@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Asunción](asuncion.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Hostel Bambu** (19 Dec → 21 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/15578/hostel-bambu/?from=2026-12-19&to=2026-12-21&guests=1) |
+| Backup: **El Shaddai Hostel e Pousada** (19 Dec → 21 Dec) | [Hostelworld](https://www.hostelworld.com/hostels/p/20622/el-shaddai-hostel-e-pousada/?from=2026-12-19&to=2026-12-21&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=36757434&checkin=2026-12-19&checkout=2026-12-21&NumberofAdults=1&Rooms=1) |
+| Iguaçu falls, Brazilian side (timed online ticket) | [open](https://tickets.cataratasdoiguacu.com.br/) |
+| Iguazú falls, Argentine side | [open](https://iguazuargentina.com/) |
+| Río Uruguay bus Foz → Puerto Iguazú | [open](https://riouruguaybus.com.ar/) |
+
 ## 6. Foz do Iguaçu — Sat 19 Dec → Mon 21 Dec (2 nights)
 
 **Getting there:** the Catarinense night bus (above) reaches the **Rodoviária Internacional at ~07:00**. It is ≈ 6 km out; take a city bus or an Uber (≈ R$ 20–25) to the hostel, drop your pack and go straight to the falls.

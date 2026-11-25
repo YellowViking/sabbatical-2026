@@ -22,7 +22,7 @@ S = [
  (9,'Montevideo','27–28 Dec · 30 Dec–1 Jan',-34.9,-56.16, 4,22,'start'),
  (10,'Cabo Polonio','28–30 Dec',-34.4,-53.78, 12,-4,'start'),
  (11,'Colonia (stopover)','1 Jan',-34.47,-57.84, -12,-8,'end'),
- (12,'Córdoba + Sierras','2–7 Jan',-31.42,-64.18, -12,4,'end'),
+ (12,'Córdoba + Los Gigantes','2–7 Jan',-31.42,-64.18, -12,4,'end'),
  (13,'Cafayate','8–10 Jan',-26.07,-65.98, -12,6,'end'),
  (14,'Salta','10–12 Jan',-24.79,-65.41, 12,6,'start'),
  (15,'Purmamarca / Tilcara','12–14 Jan',-23.6,-65.4, 12,-2,'start'),
@@ -33,7 +33,7 @@ S = [
  (20,'La Paz','24–27 Jan',-16.5,-68.15, 12,4,'start'),
  (21,'Copacabana + Isla del Sol','27–29 Jan',-16.0,-69.1, 8,-13,'start'),
  (22,'Puno','29–30 Jan',-15.6,-70.1, 0,-14,'middle'),
- (23,'Colca Canyon','30 Jan–1 Feb',-15.4,-72.1, -12,-4,'end'),
+ (23,'Colca (Chivay, Sangalle)','30 Jan–1 Feb',-15.4,-72.1, -12,-4,'end'),
  (24,'Arequipa','1–3 Feb',-16.7,-71.4, -12,12,'end'),
  (25,'Panama City','3–5 Feb',8.98,-79.52, 0,0,'start'),
  (26,'Boquete','5–8 Feb',8.78,-82.43, 0,0,'start'),
@@ -45,7 +45,7 @@ S = [
  (32,'San Juan del Sur / Playa Maderas','20–22 Feb',11.25,-85.87, 0,0,'start'),
  (33,'Ometepe','22–25 Feb',11.5,-85.6, 0,0,'start'),
  (34,'Granada + Apoyo','25–27 Feb',11.93,-85.96, 0,0,'start'),
- (35,'León','27 Feb–3 Mar',12.43,-86.88, 0,0,'start'),
+ (35,'León','27 Feb–2 Mar (+ airport night)',12.43,-86.88, 0,0,'start'),
  (36,'Somoto canyon','optional',13.48,-86.58, 0,0,'start'),
 ]
 OPTIONAL = {36}
@@ -61,18 +61,18 @@ L = [
  ('bus',['Montevideo','Cabo Polonio']),
  ('bus',['Montevideo','Colonia (stopover)']),
  ('boat',['Colonia (stopover)',BA]),
- ('bus',[BA,'Córdoba + Sierras',TUC,'Cafayate','Salta',JUJ,'Purmamarca / Tilcara',JAMA,'San Pedro de Atacama']),
+ ('bus',[BA,'Córdoba + Los Gigantes',TUC,'Cafayate','Salta',JUJ,'Purmamarca / Tilcara',JAMA,'San Pedro de Atacama']),
  ('jeep',['San Pedro de Atacama',LAG,SALAR,'Uyuni']),
  ('bus',['Uyuni','Potosí','Sucre']),
  ('flight',['Sucre','La Paz']),
- ('bus',['La Paz','Copacabana + Isla del Sol','Puno','Colca Canyon','Arequipa']),
+ ('bus',['La Paz','Copacabana + Isla del Sol','Puno','Colca (Chivay, Sangalle)','Arequipa']),
  ('flight',['Arequipa',LIMA]),
  ('flight',[LIMA,PTY]),
 ]
 FORT_LAKE = (10.5,-84.85); LIB = (10.63,-85.44); SJORGE = (11.43,-85.84); DAVID = (8.43,-82.43); PCANOAS = (8.54,-82.84); SISIDRO = (9.37,-83.70)
 QUEPOS = (9.43,-84.16); PUNTA = (9.98,-84.83); PBLANCAS = (11.21,-85.61); ESTELI = (13.09,-86.35)
 CAL = [
- ('bus',['Panama City',DAVID,'Boquete']),
+ ('flight',['Panama City',DAVID]), ('bus',[DAVID,'Boquete']),
  ('bus',['Boquete',DAVID,PCANOAS,SISIDRO,'San Gerardo de Rivas (Chirripó)']),
  ('bus',['San Gerardo de Rivas (Chirripó)',SISIDRO,'Uvita',QUEPOS,PUNTA,'Monteverde']),
  ('bus',['Monteverde',FORT_LAKE]), ('boat',[FORT_LAKE,(10.52,-84.75)]), ('bus',[(10.52,-84.75),'La Fortuna / Arenal']),
@@ -210,8 +210,8 @@ for ci,col in enumerate(cols):
     for ri,s_ in enumerate(col):
         x0=lx+ci*320; y0=ty+20+ri*17
         o.append(f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{s_[0]}.</tspan> {s_[1]} <tspan class="ink2">{s_[2] or "≈ mid-Feb"}</tspan></text>')
-o.append(f'<text x="{lx}" y="{ty+20+12*17+10}" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz and ✈ Arequipa → Lima → Panama City.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+12*17+10}" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz, ✈ Arequipa → Lima → Panama City and ✈ Panama City → David (Boquete, Carnaval).</text>')
 o.append(f'<text x="{lx}" y="{ty+20+12*17+28}" class="ink2 t-note">Night buses: Curitiba → Foz, Encarnación → Montevideo, Buenos Aires → Córdoba, Córdoba → Tucumán. Only spurs: Cabo Polonio and the Ometepe ferry.</text>')
-o.append(f'<text x="{lx}" y="{ty+20+12*17+46}" class="ink2 t-note">Adventure extras (Teresópolis, Cerro Toco, Pico Austria, Somoto) fit in the 12 spare days. Draft for planning, nothing booked.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+12*17+46}" class="ink2 t-note">Beds, buses and flights checked live 24 Nov (see itinerary.md). Adventure extras (Teresópolis, Cerro Toco, Pico Austria, Somoto) fit in the 12 spare days. Nothing booked.</text>')
 o.append('</svg>')
 open(OUT,'w').write('\n'.join(o)); print(OUT, W, H)

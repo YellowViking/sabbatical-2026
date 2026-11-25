@@ -2,6 +2,16 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [León](leon.md)
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| ✈ Alaska award MGA → SEA, Wed 3 Mar (25k + $94) | [open](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-03&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
+| Managua airport hotels, 2 → 3 Mar (Booking search) | [open](https://www.booking.com/searchresults.html?ss=Augusto+C.+Sandino+International+Airport&checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Tica Bus San José → Managua (onward proof for Costa Rica entry) | [open](https://www.ticabus.com/en/) |
+
 ## Home: León → Managua airport, ✈ Managua (MGA) → Seattle, Wed 3 Mar
 
 **Alaska award still there** ✅ alaskaair.com award search (24 Nov, 1 adult): **25,000 pts + $94.42**, main cabin, 9 seats, on **every day 2–5 Mar**. All itineraries start with **AA1318 MGA 07:00 → MIA 10:49**:

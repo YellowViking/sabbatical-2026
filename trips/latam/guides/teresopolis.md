@@ -2,6 +2,15 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md)
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Private (pick): **Estúdio 325 Teresópolis** (8 Dec → 10 Dec) | [Booking](https://www.booking.com/hotel/br/estudio-325-teresopolis.html?checkin=2026-12-08&checkout=2026-12-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35418791&checkin=2026-12-08&checkout=2026-12-10&NumberofAdults=1&Rooms=1) |
+| Bus Rio → Teresópolis (Viação Teresópolis) | [open](https://teresopolis.clickbus.com.br/) |
+
 ## 0. Optional +2: Teresópolis / Serra dos Órgãos (Tue 8 → Thu 10 Dec, 2 nights), straight from GIG
 
 **If chosen, Rio moves to Thu 10 → Mon 14 Dec** (4 nights), and every later stop shifts +2 days. That gains Rio's Sunday (13 Dec) car-free Av. Atlântica / Aterro do Flamengo. You would still miss the Monday Pedra do Sal samba, because you leave Rio on Monday morning.

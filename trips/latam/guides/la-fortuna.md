@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Monteverde](monteverde.md) · [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Ceiba Hostel** (15 Feb → 18 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-15&to=2027-02-18&guests=1) |
+| Backup: **Alpha Arenal** (15 Feb → 18 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-15&to=2027-02-18&guests=1) |
+| Private alt: **Casa Paraíso – La Fortuna** (15 Feb → 18 Feb) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Río Celeste / Arenal NP tickets (SINAC, online only) | [open](https://serviciosenlinea.sinac.go.cr/) |
+
 ## 30. La Fortuna / Arenal — Mon 15 Feb → Thu 18 Feb (3 nights)
 
 **Getting there (jeep-boat-jeep, Mon 15 Feb):** hotel pickup in Santa Elena → jeep to Lake Arenal → boat across → jeep to La Fortuna, ~3½–4 h. **Green Road shared: dep 08:00 $45, 14:00 $50** (all fees included) ✅ greenroadcr.com. Hostels and aggregators quote $29–35 for the same transfer (≈; ask Monteverde Backpackers on arrival). Take the 08:00 for a full afternoon in La Fortuna.

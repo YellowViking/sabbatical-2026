@@ -2,6 +2,16 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Potosí](potosi.md) · [La Paz](la-paz.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Villa Oropeza Hostel** (21 Jan → 24 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1114745&checkin=2027-01-21&checkout=2027-01-24&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/101313/villa-oropeza-hostel/?from=2027-01-21&to=2027-01-24&guests=1) |
+| Backup: **Holis** (21 Jan → 24 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/330736/holis/?from=2027-01-21&to=2027-01-24&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=69299472&checkin=2027-01-21&checkout=2027-01-24&NumberofAdults=1&Rooms=1) |
+| Private alt: **Los Balcones** (21 Jan → 24 Jan) | [Booking](https://www.booking.com/hotel/bo/los-balcones.html?checkin=2027-01-21&checkout=2027-01-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/338257/los-balcones-de-moral-y-santa-catalina/?from=2027-01-21&to=2027-01-24&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=78760415&checkin=2027-01-21&checkout=2027-01-24&NumberofAdults=1&Rooms=1) |
+
 ## 19. Sucre — Day 45 Thu 21 Jan → Day 48 Sun 24 Jan (3 nights)
 
 **Getting there:** bus Potosí → Sucre, **≈ 3–4 h**, from Potosí's Nueva Terminal to Sucre's terminal (Av. Ostria Gutiérrez). Tickets Bolivia lists 13 daily departures, 06:00–19:00: Trans Emperador 10:00, 12:30, 14:00 (US$7) and Transtin Dil Rey 09:45, 13:00 (US$8), all regular buses. After a morning mine tour, take the **13:00 or 14:00** to arrive ≈ 17:00–18:00. Shared taxis are faster (≈ 2.5 h, ≈ Bs 50–70, ≈ unverified). From the Sucre terminal it's 1.8 km to the plaza: micro or taxi ≈ Bs 10–15 (≈). ⚠ This is the road the Chuquisaca drivers blockaded in Nov 2026.

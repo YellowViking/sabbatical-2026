@@ -2,6 +2,16 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Panama City](panama-city.md) · [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| ✈ Air Panama Albrook → David, Fri 5 Feb 07:00 ($67) | [open](https://www.airpanama.com/) |
+| Dorm pick: **Socialtel Boquete** (5 Feb → 8 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Socialtel+Boquete+Boquete&checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35353686&checkin=2027-02-05&checkout=2027-02-08&NumberofAdults=1&Rooms=1) |
+| Backup (budget): **La Casa de Doña Cata** (5 Feb → 8 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=La+Casa+de+Do%C3%B1a+Cata+Boquete&checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/310314/la-casa-de-dona-cata/?from=2027-02-05&to=2027-02-08&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23738460&checkin=2027-02-05&checkout=2027-02-08&NumberofAdults=1&Rooms=1) |
+
 ## 26. Boquete — Day 60 Fri 5 Feb → Day 63 Mon 8 Feb (3 nights)
 
 **Getting there (Fri 5 Feb = the Carnaval exodus day):**

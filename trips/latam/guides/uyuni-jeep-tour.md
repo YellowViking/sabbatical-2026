@@ -2,6 +2,14 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [San Pedro de Atacama](san-pedro-de-atacama.md) · [Potosí](potosi.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Estrella del Sur (pick) | [open](https://estrelladelsuruyuni.com/) |
+
 ## 17. 3-day jeep tour San Pedro → Uyuni — Day 42 Mon 18 Jan → Day 44 Wed 20 Jan (2 nights in refugios)
 
 **Getting there:** the agency's minibus collects you from the hostel at ≈ 06:00–06:30 → Chilean exit stamp at the San Pedro post → **Hito Cajón** (Bolivian migración, 4,400 m; ✅ Bs 15 border tax per WWT's page) → change into a 6-seat Land Cruiser. The tour ends in Uyuni town at ≈ 13:00–15:00 on 20 Jan.

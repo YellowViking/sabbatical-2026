@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [La Paz](la-paz.md) · [Puno](puno.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Isla del Sol, 27 → 28 Jan: **Inti Wasi Lodge** (27 Jan → 28 Jan) | [Booking](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-27&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Isla del Sol backup: **Hostal Inti Wayra** (27 Jan → 28 Jan) | [Booking](https://www.booking.com/hotel/bo/hostal-inti-wayra.html?checkin=2027-01-27&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Copacabana, 28 → 29 Jan: **Mia Posada Hostel & Coworking** (28 Jan → 29 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-28&to=2027-01-29&guests=1) |
+| Private alt: **Hostal Las Olas** (28 Jan → 29 Jan) | [Booking](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=3012976&checkin=2027-01-28&checkout=2027-01-29&NumberofAdults=1&Rooms=1) |
+
 ## 21. Copacabana + Isla del Sol — Day 51 Wed 27 Jan → Day 53 Fri 29 Jan (2 nights)
 
 **Getting there:** bus La Paz → Copacabana, **≈ 4 h**, from the main bus terminal (90 m from Casa Bonita). Schedule from Tickets Bolivia (24 Nov; their price US$7, the counter is cheaper):

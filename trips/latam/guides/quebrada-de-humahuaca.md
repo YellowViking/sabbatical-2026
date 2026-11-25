@@ -2,6 +2,19 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Salta](salta.md) · [San Pedro de Atacama](san-pedro-de-atacama.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Buses Salta / Jujuy → Tilcara (Evelia) | [open](https://eveliatransporte.com.ar/) |
+| Tilcara dorm, 12 → 13 Jan: **Hostel Casa Colores** (12 Jan → 13 Jan) | [Booking](https://www.booking.com/hotel/ar/casa-colores.html?checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=415708&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) |
+| Tilcara backup: **Tilcara Mística Hostel** (12 Jan → 13 Jan) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Tilcara+M%C3%ADstica+Hostel+&checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/67045/tilcara-mistica-hostel/?from=2027-01-12&to=2027-01-13&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=2820111&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) |
+| Purmamarca dorm, 13 → 14 Jan: **Giramundo Hostel Purmamarca** (13 Jan → 14 Jan) | [Booking](https://www.booking.com/hotel/ar/giramundo-hostel-purmamarca.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=25415036&checkin=2027-01-13&checkout=2027-01-14&NumberofAdults=1&Rooms=1) |
+| Purmamarca private alt (quiet): **Nido de Cóndores** (13 Jan → 14 Jan) | [Booking](https://www.booking.com/hotel/ar/nido-de-condores.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37730393&checkin=2027-01-13&checkout=2027-01-14&NumberofAdults=1&Rooms=1) |
+| ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Thu 14 Jan 03:40 | [open](https://shop.andesmar.com/) |
+
 ## 15. Quebrada de Humahuaca: Tilcara + Purmamarca — Tue 12 Jan → Thu 14 Jan (2 nights)
 
 **Which base?** Split it: **Tilcara Tue 12 → Wed 13, then Purmamarca Wed 13 → Thu 14.**

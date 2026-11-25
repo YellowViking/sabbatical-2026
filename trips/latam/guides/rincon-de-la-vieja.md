@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [La Fortuna / Arenal](la-fortuna.md) · [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Hostel Pura Vida en Liberia** (18 Feb → 20 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Backup: **Hospedaje Dodero** (18 Feb → 20 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-18&to=2027-02-20&guests=1) |
+| Private alt: **Hotel Liberia** (18 Feb → 20 Feb) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Rincón de la Vieja tickets (SINAC, online only) | [open](https://serviciosenlinea.sinac.go.cr/) |
+
 ## 31. Liberia / Rincón de la Vieja — Thu 18 Feb → Sat 20 Feb (2 nights)
 
 **Getting there (La Fortuna → Tilarán → Cañas → Liberia, Thu 18 Feb):** no direct bus. La Fortuna → Tilarán (≈ 08:00, 12:15, 17:30 or 07:30/12:30/17:00; ~2 h, ≈ ₡3,500 / $7.80) → Tilarán → Cañas (frequent, 30–60 min, ≈ ₡700 / $1.60) → Cañas → Liberia (frequent, ~1–1½ h, ≈ ₡2,000 / $4.50). ≈ 4½–5½ h and $12–14 in all (AI lead + LP route; check the La Fortuna terminal the day before). Shared shuttle La Fortuna → Liberia ≈ $45–65, ~3 h (≈).

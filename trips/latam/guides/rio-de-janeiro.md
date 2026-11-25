@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · [Ilha Grande](ilha-grande.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| ✈ Alaska award SEA → GIG, Mon 7 Dec (60k business) | [open](https://www.alaskaair.com/search/results?A=1&O=SEA&D=GIG&OD=2026-12-07&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
+| Dorm pick: **Copacabana Central Hostel** (8 Dec → 12 Dec) | [Booking](https://www.booking.com/hotel/br/copacabana-central-hostel-1.html?checkin=2026-12-08&checkout=2026-12-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/339185/copacabana-central-hostel/?from=2026-12-08&to=2026-12-12&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=85737944&checkin=2026-12-08&checkout=2026-12-12&NumberofAdults=1&Rooms=1) |
+| Backup: **Cocos Hostel Rio** (8 Dec → 12 Dec) | [Booking](https://www.booking.com/hotel/br/cocos-hostel-rio.html?checkin=2026-12-08&checkout=2026-12-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/336326/cocos-hostel-rio/?from=2026-12-08&to=2026-12-12&guests=1) |
+| Private alt: **Studio da Lu** (8 Dec → 12 Dec) | [Booking](https://www.booking.com/hotel/br/studio-da-lu.html?checkin=2026-12-08&checkout=2026-12-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Sugarloaf cable car (optional, R$ 205) | [open](https://bondinho.com.br/) |
+
 ## 1. Rio de Janeiro — Tue 8 Dec → Sat 12 Dec (4 nights)
 
 **Getting there (GIG, AA lands 09:25):**

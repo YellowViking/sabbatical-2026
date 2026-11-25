@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Quebrada de Humahuaca (Tilcara + Purmamarca)](quebrada-de-humahuaca.md) · [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Casa Voyage Hostel** (14 Jan → 18 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=21962859&checkin=2027-01-14&checkout=2027-01-18&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/304202/casa-voyage-hostel/?from=2027-01-14&to=2027-01-18&guests=1) |
+| Backup: **Backpackers San Pedro** (14 Jan → 18 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/47324/backpackers-san-pedro/?from=2027-01-14&to=2027-01-18&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=78398178&checkin=2027-01-14&checkout=2027-01-18&NumberofAdults=1&Rooms=1) |
+| Private alt: **Hostal Ayni** (14 Jan → 18 Jan) | [Booking](https://www.booking.com/hotel/cl/hostal-familiar-ayni.html?checkin=2027-01-14&checkout=2027-01-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Valle de la Luna entry (book online) | [open](https://valledelaluna.com/shop) |
+| Laguna Cejar | [open](https://lagunacejar.com/) |
+
 ## 16. San Pedro de Atacama — Day 38 Thu 14 Jan → Day 42 Mon 18 Jan (4 nights)
 
 **Getting there:** Andesmar Purmamarca 03:40 → San Pedro bus terminal ≈ 11:30 over Paso de Jama (4,200 m); times and price are in the Argentina section. Chilean immigration and the SAG food check happen at the San Pedro customs post on arrival: declare or eat all fruit, meat and cheese beforehand.

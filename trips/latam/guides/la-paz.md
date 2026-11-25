@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Sucre](sucre.md) · [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| ✈ Sucre → La Paz, Sun 24 Jan (Google Flights) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjRqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) |
+| BoA (Boliviana de Aviación) | [open](https://www.boa.bo/) |
+| Dorm pick: **La Casa Bonita** (24 Jan → 27 Jan) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-24&checkout=2027-01-27&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/310839/casa-de-huespedes-la-casa-bonita/?from=2027-01-24&to=2027-01-27&guests=1) |
+| Backup: **Hotel Martí** (24 Jan → 27 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-24&to=2027-01-27&guests=1) |
+| Private alt: **Hotel Nuevo Sol** (24 Jan → 27 Jan) | [Booking](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-24&checkout=2027-01-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## Getting here: ✈ Sucre → La Paz — Sun 24 Jan (Day 48)
 
 - ✅ **Google Flights, live 24 Nov** (a real search page): no nonstop on Sunday. **BoA via Cochabamba**:

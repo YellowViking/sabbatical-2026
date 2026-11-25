@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Montevideo](montevideo.md) · [Colonia stopover → Buenos Aires → Córdoba](colonia.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Rutas del Sol bus Montevideo → Cabo Polonio, Mon 28 Dec 10:10 | [open](https://www.rutasdelsol.com.uy/) |
+| Dorm pick: **Green House Hostel** (28 Dec → 30 Dec) | [Booking](https://www.booking.com/hotel/uy/green-house-hostel.html?checkin=2026-12-28&checkout=2026-12-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=2165637&checkin=2026-12-28&checkout=2026-12-30&NumberofAdults=1&Rooms=1) |
+| Backup: **Hostel Albatros** (28 Dec → 30 Dec) | [Booking](https://www.booking.com/hotel/uy/el-albatros.html?checkin=2026-12-28&checkout=2026-12-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1224576&checkin=2026-12-28&checkout=2026-12-30&NumberofAdults=1&Rooms=1) |
+| Private alt: **Hostal del Cabo** (28 Dec → 30 Dec) | [Booking](https://www.booking.com/hotel/uy/hostal-del-cabo.html?checkin=2026-12-28&checkout=2026-12-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## 10. Cabo Polonio — Day 21 Mon 28 Dec → Day 23 Wed 30 Dec (2 nights)
 
 **Getting there:** **Rutas del Sol 10:10 Tres Cruces → 14:30 Cabo Polonio gate** (via San Carlos, Rocha, La Paloma) · UYU 1,003 ≈ **$25** · Tres Cruces counter or rutasdelsol.com.uy · ✅ operator timetable and fare table, but only the **winter 2026** timetable is online; summer adds buses, so recheck in mid-December. COT's La Pedrera line doesn't stop at Cabo Polonio. Then the **4x4 truck** from the Puerta del Polonio gate into the village: ≈ 20 min, **UYU 470 return ≈ $12**, park entry free, pay at the gate (cash or debit) · ✅ Portal del Cabo. No tents or pets are allowed in the national park.

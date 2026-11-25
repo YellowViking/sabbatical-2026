@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Colonia stopover → Buenos Aires → Córdoba](colonia.md) · [Cafayate](cafayate.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick, 2 → 4 Jan: **Aldea Hostel Córdoba** (2 Jan → 4 Jan) | [Booking](https://www.booking.com/hotel/ar/aldea-hostel.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/30515/aldea-hostel-cordoba/?from=2027-01-02&to=2027-01-04&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=349156&checkin=2027-01-02&checkout=2027-01-04&NumberofAdults=1&Rooms=1) |
+| Dorm pick, 6 → 7 Jan: **Aldea Hostel Córdoba** (6 Jan → 7 Jan) | [Booking](https://www.booking.com/hotel/ar/aldea-hostel.html?checkin=2027-01-06&checkout=2027-01-07&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/30515/aldea-hostel-cordoba/?from=2027-01-06&to=2027-01-07&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=349156&checkin=2027-01-06&checkout=2027-01-07&NumberofAdults=1&Rooms=1) |
+| Backup: **Faz Hostel** (2 Jan → 4 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/315620/faz-hostel/?from=2027-01-02&to=2027-01-04&guests=1) · [Booking](https://www.booking.com/hotel/ar/faz-cordoba.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Private alt: **Alto Paraná Depto en Nueva Córdoba** (2 Jan → 4 Jan) | [Booking](https://www.booking.com/hotel/ar/alto-parana-depto-en-nueva-cordoba.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Night bus Córdoba → Tucumán, Thu 7 Jan (Plataforma10) | [open](https://www.plataforma10.com.ar/) |
+
 ## 12. Córdoba + Sierras — Sat 2 Jan → Thu 7 Jan (5 nights)
 
 **The split (recommended):**

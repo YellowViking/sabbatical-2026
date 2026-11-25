@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) · [Ometepe](ometepe.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Costa Rica exit tax (BCR, pay online) | [open](https://www.bancobcr.com/) |
+| Nicaragua advance registration (Migración) | [open](https://solicitudes.migob.gob.ni/) |
+| Dorm pick: **Hostel SaltWater** (20 Feb → 22 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) |
+| Backup: **Nalu Nalu Hostal** (20 Feb → 22 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Nalu+Nalu+Hostal+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) |
+| Private alt: **Lobolira** (20 Feb → 22 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) |
+
 ## 32. San Juan del Sur / Playa Maderas — Sat 20 Feb → Mon 22 Feb (2 nights)
 
 **Getting there (Liberia → Peñas Blancas → San Juan del Sur, Sat 20 Feb):** Liberia terminal → **Peñas Blancas** bus (frequent, ~1–1½ h, ≈ ₡2,000–2,500 / $5; LP: "frequent public buses… 60–90 min"). Border post open 06:00–24:00 (LP). Walk through both sides, then on the Nicaraguan side either the bus to Rivas (≈ 45 min, ≈ C$30–40 / $1) and the Rivas → San Juan del Sur bus (≈ 45 min, ≈ C$30–40), or get off at the **La Virgen** junction for the SJdS bus; a shared taxi from the border straight to SJdS is ≈ $25–35. ≈ 3½–4½ h, ≈ $8 plus fees. Leave Liberia by ~08:00: Saturday lines at Peñas Blancas can take 1–2 h.

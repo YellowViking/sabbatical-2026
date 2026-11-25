@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Paraty](paraty.md) · [Curitiba + Serra Verde](curitiba.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Reunidas Paulista Paraty → São Paulo, Tue 15 Dec (Mobifácil) | [open](https://www.mobifacil.com.br/passagem-de-onibus/terminal-rodoviario-de-paraty/sao-paulo-todos-sp) |
+| Dorm pick: **Lamparina Hostel** (15 Dec → 17 Dec) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lamparina+Hostel+S%C3%A3o+Paulo&checkin=2026-12-15&checkout=2026-12-17&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/308736/lamparina-hostel/?from=2026-12-15&to=2026-12-17&guests=1) |
+| Backup: **O de Casa Hostel Bar** (15 Dec → 17 Dec) | [Booking (search)](https://www.booking.com/searchresults.html?ss=O+de+Casa+Hostel+Bar+S%C3%A3o+Paulo&checkin=2026-12-15&checkout=2026-12-17&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/46144/o-de-casa-hostel-bar/?from=2026-12-15&to=2026-12-17&guests=1) |
+| Private alt: **Zen Hostel Brasil** (15 Dec → 17 Dec) | [Booking](https://www.booking.com/hotel/br/zen-hostel-brasil.html?checkin=2026-12-15&checkout=2026-12-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| MASP (free on Tuesdays) | [open](https://masp.org.br/) |
+
 ## 4. São Paulo — Tue 15 Dec → Thu 17 Dec (2 nights)
 
 **Getting there:** Reunidas to Tietê (above), then Metrô L1 to Paraíso and L2 to **Sumaré**, about 40 min, ≈ R$ 5.40.

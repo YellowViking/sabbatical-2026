@@ -2,6 +2,19 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Asunción](asuncion.md) · [Montevideo](montevideo.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| La Encarnacena bus Asunción → Encarnación, Wed 23 Dec | [open](https://compraonline.sittnet.net/py/5596/) |
+| Pick (whole flat; hostels full): **Departamentos De La Costa** (23 Dec → 26 Dec) | [Booking](https://www.booking.com/hotel/py/departamentos-de-la-costa.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=77602665&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| Backup: **Terwindt Hotel** (23 Dec → 26 Dec) | [Booking](https://www.booking.com/hotel/py/terwindt.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=557029&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| Private alt: **Milord Suites & Apartments** (23 Dec → 26 Dec) | [Booking](https://www.booking.com/hotel/py/milord-boutique.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1461153&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| ⚠️ EGA bus Encarnación → Montevideo, Sat 26 Dec 13:30 (Paraguay shop, $124) | [open](https://reservadirecta.sittnet.net/Commerce/egapy) |
+| EGA (Uruguay site, timetables) | [open](https://ega.com.uy/destino/asuncion/) |
+
 ## 8. Encarnación — Day 16 Wed 23 Dec → Day 19 Sat 26 Dec (3 nights, Christmas)
 
 **Getting there:** **La Encarnacena direct bus, 08:30** (or 12:00) from the Asunción terminal, arriving ≈ 14:00 (≈ 5½ h) · PYG 120,000 ≈ **$19** · terminal windows 95–100 or `compraonline.sittnet.net/py/5596/` · ✅ timetable and fare on the operator's site; the seat map was not checked. NSA sells only its 00:00 Ejecutivo Black online (PYG 165k ≈ $26, 05:00 arrival). Encarnación's bus terminal is in town, ≈ 0.8 km from the plaza.

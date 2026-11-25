@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Cabo Polonio](cabo-polonio.md) · [Córdoba + Los Gigantes](cordoba.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| COT bus Montevideo → Colonia, Fri 1 Jan 09:30 | [open](https://www.cot.com.uy/) |
+| Colonia Express ferry Colonia → Buenos Aires 18:00 (or the 12:45 bus+ferry from Montevideo) | [open](https://book.coloniaexpress.com/) |
+| Buquebus (Colonia 17:01, or direct from Montevideo) | [open](https://www.buquebus.com/uy) |
+| Night bus Buenos Aires → Córdoba, Fri 1 Jan (Plataforma10) | [open](https://www.plataforma10.com.ar/) |
+
 ## Day 25 Fri 1 Jan: Colonia stopover → ferry → night bus to Córdoba (no night in Colonia)
 
 **Plan (all times verified, see the table):**

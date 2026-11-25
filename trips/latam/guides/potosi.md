@@ -2,6 +2,16 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) · [Sucre](sucre.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Pick (private): **Los Faroles Hostal** (20 Jan → 21 Jan) | [Booking](https://www.booking.com/hotel/bo/los-faroles-hostal.html?checkin=2027-01-20&checkout=2027-01-21&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup: **The Koala Den** (20 Jan → 21 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/317982/the-koala-den-hostel/?from=2027-01-20&to=2027-01-21&guests=1) |
+| Private alt: **Hostal Colonial** (20 Jan → 21 Jan) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Colonial+Potos%C3%AD&checkin=2027-01-20&checkout=2027-01-21&group_adults=1&no_rooms=1&selected_currency=USD) |
+
 ## 18. Potosí — Day 44 Wed 20 Jan → Day 45 Thu 21 Jan (1 night)
 
 **Getting there:** bus Uyuni → Potosí, ≈ 4 h, semi-cama, from Uyuni's bus terminal. The schedule below is from Tickets Bolivia's route page (24 Nov), a reseller; its fares run above the terminal counter price. Departures after a 13:00–14:00 tour finish:

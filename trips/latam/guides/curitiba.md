@@ -2,6 +2,20 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [São Paulo](sao-paulo.md) · [Foz do Iguaçu](foz-do-iguacu.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Bus São Paulo → Curitiba, Thu 17 Dec (ClickBus) | [open](https://www.clickbus.com.br/onibus/sao-paulo-tiete-sp/curitiba-pr?departureDate=2026-12-17) |
+| Serra Verde Express train, Fri 18 Dec 08:30 | [open](https://www.serraverdeexpress.com.br/) |
+| Bus Morretes → Curitiba 16:10 via Graciosa (ClickBus) | [open](https://www.clickbus.com.br/onibus/morretes-pr/curitiba-pr?departureDate=2026-12-18) |
+| Night bus Curitiba → Foz, Fri 18 Dec 21:00 (ClickBus) | [open](https://www.clickbus.com.br/onibus/curitiba-pr/foz-do-iguacu-pr?departureDate=2026-12-18) |
+| Dorm pick: **Hostel Residencial Botânico** (17 Dec → 18 Dec) | [Booking](https://www.booking.com/hotel/br/residencial-botanico.html?checkin=2026-12-17&checkout=2026-12-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46749238&checkin=2026-12-17&checkout=2026-12-18&NumberofAdults=1&Rooms=1) |
+| Backup: **Hostel Matilda** (17 Dec → 18 Dec) | [Booking](https://www.booking.com/hotel/br/hostel-matilda.html?checkin=2026-12-17&checkout=2026-12-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/95733/hostel-matilda/?from=2026-12-17&to=2026-12-18&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=981227&checkin=2026-12-17&checkout=2026-12-18&NumberofAdults=1&Rooms=1) |
+| Private alt: **Studio Lifespace Batel** (17 Dec → 18 Dec) | [Booking](https://www.booking.com/hotel/br/estudio-moderno-e-completo-no-batel.html?checkin=2026-12-17&checkout=2026-12-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## 5. Curitiba — Thu 17 Dec → Fri 18 Dec (1 night), then Serra Verde to Morretes and the night bus to Foz
 
 **Getting there: São Paulo → Curitiba, Thu 17 Dec** ✅ live fares on ClickBus; 102 departures that day, so no sell-out risk:

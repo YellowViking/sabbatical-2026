@@ -446,6 +446,18 @@ Sources:
 
 ## 15. Route v5, locked skeleton (user, 24 Nov: Santiago dropped, Panama kept)
 
+> **Refined in the [itinerary](itinerary.md) (24 Nov, after live checks).** The changes:
+> - Córdoba city + Los Gigantes refugio replace a Sierras town.
+> - The Quebrada is split Tilcara 1 + Purmamarca 1.
+> - Colca is split Chivay 1 + Sangalle oasis 1.
+> - Encarnación → Montevideo is EGA (Wed/Sat).
+> - Sierra de las Ánimas is dropped (weekends only, no luggage storage).
+> - Boquete is reached by Air Panama.
+> - Chirripó climb on 10 → 11 Feb.
+> - León gets 3 nights + a Managua airport night.
+>
+> The table below is the pre-check skeleton.
+
 Decisions so far:
 - Brazil is cut to the Rio–São Paulo corridor; no Bahia.
 - Paraguay and Uruguay go via the standard corridor.

@@ -118,7 +118,7 @@
 <g><title>9. Montevideo: 27–28 Dec · 30 Dec–1 Jan</title><circle cx="547.0" cy="869.7" r="8.5" class="dot ring" stroke-width="2"/><text x="547.0" y="873.0" class="num t-num" text-anchor="middle">9</text><text x="551.0" y="891.7" class="ink t-stop halo" text-anchor="start">Montevideo</text></g>
 <g><title>10. Cabo Polonio: 28–30 Dec</title><circle cx="580.6" cy="862.6" r="8.5" class="dot ring" stroke-width="2"/><text x="580.6" y="865.9" class="num t-num" text-anchor="middle">10</text><text x="592.6" y="858.6" class="ink t-stop halo" text-anchor="start">Cabo Polonio</text></g>
 <g><title>11. Colonia (stopover): 1 Jan</title><circle cx="523.4" cy="863.6" r="8.5" class="dot ring" stroke-width="2"/><text x="523.4" y="866.9" class="num t-num" text-anchor="middle">11</text><text x="511.4" y="855.6" class="ink t-stop halo" text-anchor="end">Colonia (stopover)</text></g>
-<g><title>12. Córdoba + Sierras: 2–7 Jan</title><circle cx="434.1" cy="820.2" r="8.5" class="dot ring" stroke-width="2"/><text x="434.1" y="823.5" class="num t-num" text-anchor="middle">12</text><text x="422.1" y="824.2" class="ink t-stop halo" text-anchor="end">Córdoba + Sierras</text></g>
+<g><title>12. Córdoba + Los Gigantes: 2–7 Jan</title><circle cx="434.1" cy="820.2" r="8.5" class="dot ring" stroke-width="2"/><text x="434.1" y="823.5" class="num t-num" text-anchor="middle">12</text><text x="422.1" y="824.2" class="ink t-stop halo" text-anchor="end">Córdoba + Los Gigantes</text></g>
 <g><title>13. Cafayate: 8–10 Jan</title><circle cx="408.7" cy="744.1" r="8.5" class="dot ring" stroke-width="2"/><text x="408.7" y="747.4" class="num t-num" text-anchor="middle">13</text><text x="396.7" y="750.1" class="ink t-stop halo" text-anchor="end">Cafayate</text></g>
 <g><title>14. Salta: 10–12 Jan</title><circle cx="416.8" cy="725.9" r="8.5" class="dot ring" stroke-width="2"/><text x="416.8" y="729.2" class="num t-num" text-anchor="middle">14</text><text x="428.8" y="731.9" class="ink t-stop halo" text-anchor="start">Salta</text></g>
 <g><title>15. Purmamarca / Tilcara: 12–14 Jan</title><circle cx="416.9" cy="709.0" r="8.5" class="dot ring" stroke-width="2"/><text x="416.9" y="712.3" class="num t-num" text-anchor="middle">15</text><text x="428.9" y="707.0" class="ink t-stop halo" text-anchor="start">Purmamarca / Tilcara</text></g>
@@ -129,7 +129,7 @@
 <g><title>20. La Paz: 24–27 Jan</title><circle cx="378.2" cy="608.0" r="8.5" class="dot ring" stroke-width="2"/><text x="378.2" y="611.3" class="num t-num" text-anchor="middle">20</text><text x="390.2" y="612.0" class="ink t-stop halo" text-anchor="start">La Paz</text></g>
 <g><title>21. Copacabana + Isla del Sol: 27–29 Jan</title><circle cx="364.8" cy="600.9" r="8.5" class="dot ring" stroke-width="2"/><text x="364.8" y="604.2" class="num t-num" text-anchor="middle">21</text><text x="372.8" y="587.9" class="ink t-stop halo" text-anchor="start">Copacabana + Isla del Sol</text></g>
 <g><title>22. Puno: 29–30 Jan</title><circle cx="350.7" cy="595.2" r="8.5" class="dot ring" stroke-width="2"/><text x="350.7" y="598.5" class="num t-num" text-anchor="middle">22</text><text x="350.7" y="581.2" class="ink t-stop halo" text-anchor="middle">Puno</text></g>
-<g><title>23. Colca Canyon: 30 Jan–1 Feb</title><circle cx="322.5" cy="592.4" r="8.5" class="dot ring" stroke-width="2"/><text x="322.5" y="595.7" class="num t-num" text-anchor="middle">23</text><text x="310.5" y="588.4" class="ink t-stop halo" text-anchor="end">Colca Canyon</text></g>
+<g><title>23. Colca (Chivay, Sangalle): 30 Jan–1 Feb</title><circle cx="322.5" cy="592.4" r="8.5" class="dot ring" stroke-width="2"/><text x="322.5" y="595.7" class="num t-num" text-anchor="middle">23</text><text x="310.5" y="588.4" class="ink t-stop halo" text-anchor="end">Colca (Chivay, Sangalle)</text></g>
 <g><title>24. Arequipa: 1–3 Feb</title><circle cx="332.4" cy="610.9" r="8.5" class="dot ring" stroke-width="2"/><text x="332.4" y="614.2" class="num t-num" text-anchor="middle">24</text><text x="320.4" y="622.9" class="ink t-stop halo" text-anchor="end">Arequipa</text></g>
 <circle cx="218.0" cy="245.6" r="3" class="dot ring" stroke-width="1.2"><title>25. Panama City: 3–5 Feb</title></circle>
 <circle cx="177.0" cy="248.5" r="3" class="dot ring" stroke-width="1.2"><title>26. Boquete: 5–8 Feb</title></circle>
@@ -141,7 +141,7 @@
 <circle cx="128.6" cy="213.3" r="3" class="dot ring" stroke-width="1.2"><title>32. San Juan del Sur / Playa Maderas: 20–22 Feb</title></circle>
 <circle cx="132.4" cy="209.8" r="3" class="dot ring" stroke-width="1.2"><title>33. Ometepe: 22–25 Feb</title></circle>
 <circle cx="127.3" cy="203.7" r="3" class="dot ring" stroke-width="1.2"><title>34. Granada + Apoyo: 25–27 Feb</title></circle>
-<circle cx="114.4" cy="196.6" r="3" class="dot ring" stroke-width="1.2"><title>35. León: 27 Feb–3 Mar</title></circle>
+<circle cx="114.4" cy="196.6" r="3" class="dot ring" stroke-width="1.2"><title>35. León: 27 Feb–2 Mar (+ airport night)</title></circle>
 <circle cx="118.6" cy="181.6" r="3" class="dot ring" stroke-width="1.2"><title>36. Somoto canyon: optional</title></circle>
 <text x="593" y="873" class="ink2 t-date halo">there and back from Montevideo</text>
 <circle cx="252.0" cy="544.3" r="3" class="dot ring" stroke-width="1.2"><title>Lima: change planes</title></circle><text x="244" y="548" class="ink2 t-date halo" text-anchor="end">Lima (change planes)</text>
@@ -168,8 +168,10 @@
 <text x="737" y="178" class="ink3 t-date" text-anchor="middle" letter-spacing="1.5">NICARAGUA</text>
 <text x="795" y="299" class="ink3 t-date" text-anchor="middle" letter-spacing="1.5">COSTA RICA</text>
 <text x="936" y="387" class="ink3 t-date" text-anchor="middle" letter-spacing="1.5">PANAMA</text>
-<path class="ring" d="M964.7,343.9 L843.9,367.2 L843.9,352.4" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-<path class="m-bus" d="M964.7,343.9 L843.9,367.2 L843.9,352.4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" stroke-dasharray="9 5"><title>Bus / shuttle</title></path>
+<path class="ring" d="M964.7,343.9 Q900.6,336.2 843.9,367.2" fill="none" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<path class="m-flight" d="M964.7,343.9 Q900.6,336.2 843.9,367.2" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" stroke-dasharray="2 6"><title>Flight</title></path>
+<path class="ring" d="M843.9,367.2 L843.9,352.4" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<path class="m-bus" d="M843.9,367.2 L843.9,352.4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" stroke-dasharray="9 5"><title>Bus / shuttle</title></path>
 <path class="ring" d="M843.9,352.4 L843.9,367.2 L826.9,362.5 L791.3,327.4 L796.2,323.2" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
 <path class="m-bus" d="M843.9,352.4 L843.9,367.2 L826.9,362.5 L791.3,327.4 L796.2,323.2" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" stroke-dasharray="9 5"><title>Bus / shuttle</title></path>
 <path class="ring" d="M796.2,323.2 L791.3,327.4 L789.6,336.3 L772.2,324.9 L744.4,301.7 L744.8,288.1" fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
@@ -198,7 +200,7 @@
 <g><title>32. San Juan del Sur / Playa Maderas: 20–22 Feb</title><circle cx="701.2" cy="248.0" r="7.5" class="dot ring" stroke-width="2"/><text x="701.2" y="251.3" class="num t-num" text-anchor="middle">32</text><text x="691.2" y="246.0" class="ink t-stop halo" text-anchor="end">San Juan del Sur</text></g>
 <g><title>33. Ometepe: 22–25 Feb</title><circle cx="712.4" cy="237.4" r="7.5" class="dot ring" stroke-width="2"/><text x="712.4" y="240.7" class="num t-num" text-anchor="middle">33</text><text x="722.4" y="245.4" class="ink t-stop halo" text-anchor="start">Ometepe</text></g>
 <g><title>34. Granada + Apoyo: 25–27 Feb</title><circle cx="697.5" cy="219.2" r="7.5" class="dot ring" stroke-width="2"/><text x="697.5" y="222.5" class="num t-num" text-anchor="middle">34</text><text x="707.5" y="221.2" class="ink t-stop halo" text-anchor="start">Granada</text></g>
-<g><title>35. León: 27 Feb–3 Mar</title><circle cx="659.3" cy="198.1" r="7.5" class="dot ring" stroke-width="2"/><text x="659.3" y="201.4" class="num t-num" text-anchor="middle">35</text><text x="649.3" y="202.1" class="ink t-stop halo" text-anchor="end">León</text></g>
+<g><title>35. León: 27 Feb–2 Mar (+ airport night)</title><circle cx="659.3" cy="198.1" r="7.5" class="dot ring" stroke-width="2"/><text x="659.3" y="201.4" class="num t-num" text-anchor="middle">35</text><text x="649.3" y="202.1" class="ink t-stop halo" text-anchor="end">León</text></g>
 <g opacity="0.45"><title>36. Somoto canyon: optional</title><circle cx="671.8" cy="153.7" r="7.5" class="dot ring" stroke-width="2"/><text x="671.8" y="157.0" class="num t-num" text-anchor="middle">36</text><text x="681.8" y="157.7" class="ink t-stop halo" text-anchor="start">Somoto canyon (optional)</text></g>
 <text x="671" y="188" class="ink2 t-date halo">✈ home from Managua</text>
 </g>
@@ -221,7 +223,7 @@
 <text x="32" y="1134.4837191696142" class="ink t-list"><tspan font-weight="700">9.</tspan> Montevideo <tspan class="ink2">27–28 Dec · 30 Dec–1 Jan</tspan></text>
 <text x="32" y="1151.4837191696142" class="ink t-list"><tspan font-weight="700">10.</tspan> Cabo Polonio <tspan class="ink2">28–30 Dec</tspan></text>
 <text x="32" y="1168.4837191696142" class="ink t-list"><tspan font-weight="700">11.</tspan> Colonia (stopover) <tspan class="ink2">1 Jan</tspan></text>
-<text x="32" y="1185.4837191696142" class="ink t-list"><tspan font-weight="700">12.</tspan> Córdoba + Sierras <tspan class="ink2">2–7 Jan</tspan></text>
+<text x="32" y="1185.4837191696142" class="ink t-list"><tspan font-weight="700">12.</tspan> Córdoba + Los Gigantes <tspan class="ink2">2–7 Jan</tspan></text>
 <text x="352" y="998.4837191696142" class="ink t-list"><tspan font-weight="700">13.</tspan> Cafayate <tspan class="ink2">8–10 Jan</tspan></text>
 <text x="352" y="1015.4837191696142" class="ink t-list"><tspan font-weight="700">14.</tspan> Salta <tspan class="ink2">10–12 Jan</tspan></text>
 <text x="352" y="1032.4837191696142" class="ink t-list"><tspan font-weight="700">15.</tspan> Purmamarca / Tilcara <tspan class="ink2">12–14 Jan</tspan></text>
@@ -232,7 +234,7 @@
 <text x="352" y="1117.4837191696142" class="ink t-list"><tspan font-weight="700">20.</tspan> La Paz <tspan class="ink2">24–27 Jan</tspan></text>
 <text x="352" y="1134.4837191696142" class="ink t-list"><tspan font-weight="700">21.</tspan> Copacabana + Isla del Sol <tspan class="ink2">27–29 Jan</tspan></text>
 <text x="352" y="1151.4837191696142" class="ink t-list"><tspan font-weight="700">22.</tspan> Puno <tspan class="ink2">29–30 Jan</tspan></text>
-<text x="352" y="1168.4837191696142" class="ink t-list"><tspan font-weight="700">23.</tspan> Colca Canyon <tspan class="ink2">30 Jan–1 Feb</tspan></text>
+<text x="352" y="1168.4837191696142" class="ink t-list"><tspan font-weight="700">23.</tspan> Colca (Chivay, Sangalle) <tspan class="ink2">30 Jan–1 Feb</tspan></text>
 <text x="352" y="1185.4837191696142" class="ink t-list"><tspan font-weight="700">24.</tspan> Arequipa <tspan class="ink2">1–3 Feb</tspan></text>
 <text x="672" y="998.4837191696142" class="ink t-list"><tspan font-weight="700">25.</tspan> Panama City <tspan class="ink2">3–5 Feb</tspan></text>
 <text x="672" y="1015.4837191696142" class="ink t-list"><tspan font-weight="700">26.</tspan> Boquete <tspan class="ink2">5–8 Feb</tspan></text>
@@ -244,9 +246,9 @@
 <text x="672" y="1117.4837191696142" class="ink t-list"><tspan font-weight="700">32.</tspan> San Juan del Sur / Playa Maderas <tspan class="ink2">20–22 Feb</tspan></text>
 <text x="672" y="1134.4837191696142" class="ink t-list"><tspan font-weight="700">33.</tspan> Ometepe <tspan class="ink2">22–25 Feb</tspan></text>
 <text x="672" y="1151.4837191696142" class="ink t-list"><tspan font-weight="700">34.</tspan> Granada + Apoyo <tspan class="ink2">25–27 Feb</tspan></text>
-<text x="672" y="1168.4837191696142" class="ink t-list"><tspan font-weight="700">35.</tspan> León <tspan class="ink2">27 Feb–3 Mar</tspan></text>
+<text x="672" y="1168.4837191696142" class="ink t-list"><tspan font-weight="700">35.</tspan> León <tspan class="ink2">27 Feb–2 Mar (+ airport night)</tspan></text>
 <text x="672" y="1185.4837191696142" class="ink t-list"><tspan font-weight="700">36.</tspan> Somoto canyon <tspan class="ink2">optional</tspan></text>
-<text x="32" y="1212.4837191696142" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz and ✈ Arequipa → Lima → Panama City.</text>
+<text x="32" y="1212.4837191696142" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz, ✈ Arequipa → Lima → Panama City and ✈ Panama City → David (Boquete, Carnaval).</text>
 <text x="32" y="1230.4837191696142" class="ink2 t-note">Night buses: Curitiba → Foz, Encarnación → Montevideo, Buenos Aires → Córdoba, Córdoba → Tucumán. Only spurs: Cabo Polonio and the Ometepe ferry.</text>
-<text x="32" y="1248.4837191696142" class="ink2 t-note">Adventure extras (Teresópolis, Cerro Toco, Pico Austria, Somoto) fit in the 12 spare days. Draft for planning, nothing booked.</text>
+<text x="32" y="1248.4837191696142" class="ink2 t-note">Beds, buses and flights checked live 24 Nov (see itinerary.md). Adventure extras (Teresópolis, Cerro Toco, Pico Austria, Somoto) fit in the 12 spare days. Nothing booked.</text>
 </svg>

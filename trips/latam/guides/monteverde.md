@@ -2,6 +2,18 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Uvita](uvita.md) · [La Fortuna / Arenal](la-fortuna.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Transmonteverde bus (Puntarenas → Santa Elena) | [open](https://transmonteverde.com/) |
+| Dorm pick: **Monteverde Backpackers** (13 Feb → 15 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1) |
+| Backup: **Hostel Cattleya** (13 Feb → 15 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-13&to=2027-02-15&guests=1) |
+| Private alt: **Casa Geranios #2** (13 Feb → 15 Feb) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Santa Elena cloud forest reserve | [open](https://reservasantaelena.org/) |
+
 ## 29. Monteverde (Santa Elena) — Sat 13 Feb → Mon 15 Feb (2 nights)
 
 **Getting there (Uvita → Quepos → Puntarenas → Santa Elena, Sat 13 Feb):** a long day (~11–12 h door to door, ≈ $15):

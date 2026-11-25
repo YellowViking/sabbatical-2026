@@ -2,6 +2,19 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Puno](puno.md) · [Arequipa](arequipa.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| ⚠️ 4M Express Puno → Chivay, Sat 30 Jan 06:15 (confirm by WhatsApp; closes 3 days before) | [open](https://www.4m-express.com/) |
+| Chivay, 30 → 31 Jan: **Hospedaje Samay Lodge** (30 Jan → 31 Jan) | [Booking](https://www.booking.com/hotel/pe/samay-lodge.html?checkin=2027-01-30&checkout=2027-01-31&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Chivay backup / private alt: **Pascana Hotel** (30 Jan → 31 Jan) | [Booking](https://www.booking.com/hotel/pe/pascana-chivay1.html?checkin=2027-01-30&checkout=2027-01-31&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Sangalle oasis, 31 Jan → 1 Feb: **Paraíso Las Palmeras - Sangalle** (31 Jan → 1 Feb) | [Booking](https://www.booking.com/hotel/pe/paraiso-las-palmeras-lodge.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Sangalle backup: **Oasis Paraíso Ecolodge** (31 Jan → 1 Feb) | [Booking](https://www.booking.com/hotel/pe/oasis-paraiso-ecolodge.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Reyna bus Cabanaconde → Arequipa, Mon 1 Feb | [open](https://polarisweb.reyna.com.pe/) |
+
 ## 23. Colca Canyon (Chivay → Cruz del Cóndor → Cabanaconde → Sangalle) — Day 54 Sat 30 Jan → Day 56 Mon 1 Feb (2 nights)
 
 **Getting there: 4M Express, Puno → Chivay.** ✅ All of this is on 4m-express.com (ES and EN route pages, plus the booking policy):

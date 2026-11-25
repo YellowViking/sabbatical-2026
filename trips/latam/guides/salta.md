@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Cafayate](cafayate.md) · [Quebrada de Humahuaca (Tilcara + Purmamarca)](quebrada-de-humahuaca.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Flecha Bus Cafayate → Salta, Sun 10 Jan 11:30 | [open](https://www.flechabus.com.ar/) |
+| Dorm pick: **Clivias Hostel** (10 Jan → 12 Jan) | [Booking](https://www.booking.com/hotel/ar/clivias-hostel.html?checkin=2027-01-10&checkout=2027-01-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/331485/clivias-hostel/?from=2027-01-10&to=2027-01-12&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=68521137&checkin=2027-01-10&checkout=2027-01-12&NumberofAdults=1&Rooms=1) |
+| Backup: **Casa Puka** (10 Jan → 12 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/339659/casa-puka/?from=2027-01-10&to=2027-01-12&guests=1) · [Booking](https://www.booking.com/hotel/ar/casa-puka-salta.html?checkin=2027-01-10&checkout=2027-01-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Private alt: **La Cara Oculta de Salta B&B** (10 Jan → 12 Jan) | [Booking](https://www.booking.com/hotel/ar/la-cara-oculta-de-salta-bed-and-breakfast.html?checkin=2027-01-10&checkout=2027-01-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## 14. Salta — Sun 10 Jan → Tue 12 Jan (2 nights)
 
 **Getting there (Sun 10):** **Flecha Bus Cafayate → Salta**, 3 h 45–3 h 50, through the Quebrada de las Conchas. **Sit on the left** (the cliffs, Los Castillos and the widest views).

@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Encarnación](encarnacion.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Bus Foz → Asunción, Mon 21 Dec 08:00 (ClickBus) | [open](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/assuncao-py?departureDate=2026-12-21) |
+| Dorm pick: **El Nómada Hostel** (21 Dec → 23 Dec) | [Booking](https://www.booking.com/hotel/py/el-na3mada-hostel.html?checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=557010&checkin=2026-12-21&checkout=2026-12-23&NumberofAdults=1&Rooms=1) |
+| Backup: **Mediterraneo Hostal** (21 Dec → 23 Dec) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Mediterraneo+Hostal+&checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/326334/mediterraneo-hostal/?from=2026-12-21&to=2026-12-23&guests=1) |
+| Private alt: **Casa Fulgencio** (21 Dec → 23 Dec) | [Booking](https://www.booking.com/hotel/py/casa-fulgencio.html?checkin=2026-12-21&checkout=2026-12-23&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## Getting here: Foz do Iguaçu → (Ciudad del Este) → Asunción, Mon 21 Dec
 
 **(a) Direct bus, the simplest:**

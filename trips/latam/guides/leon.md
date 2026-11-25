@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Granada + Laguna de Apoyo](granada.md) · [Flight home (Managua → Seattle)](flight-home.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick, 27 Feb → 2 Mar: **Casa Lula León Hostal** (27 Feb → 2 Mar) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Backup: **Hostal La Tortuga Booluda** (27 Feb → 2 Mar) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-02-27&to=2027-03-02&guests=1) |
+| Private alt: **Hostal el Sol** (27 Feb → 2 Mar) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Bigfoot volcano tours (Cerro Negro, El Hoyo) | [open](https://www.bigfoothostelleon.com/volcano-boarding) |
+
 ## 35. León — Sat 27 Feb → Wed 3 Mar (4 nights)
 
 **Getting there (Granada → Managua → León, Sat 27 Feb):** microbus Granada → Managua (UCA), ~1 h, ≈ C$40–60 → León microbus/bus from Managua (UCA or Mercado Israel Lewites), ~1½–2¼ h, ≈ C$55–80. ≈ 3 h, ≈ $3–4. Door-to-door shuttle ≈ $15–25 (≈).

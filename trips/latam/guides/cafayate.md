@@ -2,6 +2,15 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Córdoba + Los Gigantes](cordoba.md) · [Salta](salta.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Cielito Lindo Hostel** (8 Jan → 10 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/314663/cielito-lindo-hostel/?from=2027-01-08&to=2027-01-10&guests=1) · [Booking](https://www.booking.com/hotel/ar/cielito-lindo-cafayate.html?checkin=2027-01-08&checkout=2027-01-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=12531179&checkin=2027-01-08&checkout=2027-01-10&NumberofAdults=1&Rooms=1) |
+| Backup (private): **La Montaña B&B** (8 Jan → 10 Jan) | [Booking](https://www.booking.com/hotel/ar/hostal-la-montaa-a.html?checkin=2027-01-08&checkout=2027-01-10&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=416350&checkin=2027-01-08&checkout=2027-01-10&NumberofAdults=1&Rooms=1) |
+
 ## 13. Cafayate — Fri 8 Jan → Sun 10 Jan (2 nights)
 
 **Getting there (Thu 7 → Fri 8):** the night bus Córdoba → Tucumán, then Aconquija over the Infiernillo pass. **Tafí del Valle is ridden through, not stayed in** (rain/fog season).

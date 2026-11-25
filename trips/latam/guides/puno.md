@@ -2,6 +2,16 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) · [Colca Canyon](colca-canyon.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Titicaca Bolivia Bus Copacabana → Puno, Fri 29 Jan 13:30 | [open](https://titicacaboliviabus.com/trip/copacabana-puno/) |
+| Dorm pick: **Kantaya Hostel** (29 Jan → 30 Jan) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1) |
+| Backup: **Urpi Wasi Backpackers** (29 Jan → 30 Jan) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-01-29&to=2027-01-30&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-01-29&checkout=2027-01-30&NumberofAdults=1&Rooms=1) |
+
 ## 22. Puno (transit) — Day 53 Fri 29 Jan → Sat 30 Jan (1 night)
 
 **Getting there:** bus Copacabana → Puno via the Kasani / Yunguyo border.

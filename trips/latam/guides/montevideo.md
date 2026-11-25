@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Encarnación](encarnacion.md) · [Cabo Polonio](cabo-polonio.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick, 27 → 28 Dec: **MedioMundo Hostel** (27 Dec → 28 Dec) | [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-27&to=2026-12-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-27&checkout=2026-12-28&NumberofAdults=1&Rooms=1) |
+| Dorm pick, New Year 30 Dec → 1 Jan: **MedioMundo Hostel** (30 Dec → 1 Jan) | [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) |
+| Backup, 27 Dec: **Youki Haus Hostel** (27 Dec → 28 Dec) | [Booking](https://www.booking.com/hotel/uy/youki-haus-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/316645/youki-haus-hostel/?from=2026-12-27&to=2026-12-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=56167397&checkin=2026-12-27&checkout=2026-12-28&NumberofAdults=1&Rooms=1) |
+| Backup, New Year: **Viajero Montevideo Hostel** (30 Dec → 1 Jan) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Viajero+Montevideo+Hostel+&checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/37593/viajero-montevideo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=245581&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) |
+
 ## 9. Montevideo — Day 20 Sun 27 Dec → Day 21 Mon 28 Dec (1 night)
 
 **Getting there:** EGA arrives at Tres Cruces at 07:15. MedioMundo is 2.5 km away (city bus or a 30-min walk); it has 24 h reception and free luggage storage, so drop the bag at 07:45.

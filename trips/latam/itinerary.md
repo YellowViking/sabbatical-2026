@@ -59,17 +59,24 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 Every stop has its own guide in [`guides/`](guides/) (→ column): bed pick, backup and private alternative, getting there, things to do, food, and notes.
 
 ## Book these first (they sell out or need you)
-1. **The flight in:** the Alaska business award on Mon 7 Dec had 3 seats on 24 Nov. Every other date depends on it.
-2. **EGA bus Encarnación → Montevideo, Sat 26 Dec:** cama is sold out and **17 semi-cama seats** were left on 24 Nov. It runs Wed/Sat only. Buy on EGA's Paraguay shop ($124; the Uruguay shop charges $152).
-3. **Serra Verde Express, Fri 18 Dec:** 67 Econômico seats were left; the 16:10 Graciosa bus back had 10.
-4. **Christmas, New Year and Carnaval beds:** Encarnación (the good hostels are already full), Cabo Polonio (peak week; Viejo Lobo is full on the 29th), Montevideo for New Year, and Boquete (Panama Carnaval Sat 6 → Tue 9 Feb).
-5. **Chirripó (needs you):** check 10 Feb on serviciosenlinea.sinac.go.cr (it has a reCAPTCHA tick), create a SICORE account, buy admission, then pay the Base Crestones lodging the Consorcio emails you. The same account sells the online-only Rincón de la Vieja and Río Celeste tickets.
-6. **Entry requirements:**
-   - A **yellow-fever certificate** for Panama (arriving from Peru) and Costa Rica.
-   - **Proof of onward travel out of Costa Rica.** The Managua flight doesn't count; a ≈ $33 Tica Bus San José → Managua ticket would.
-   - Nicaragua's free online pre-registration, submitted by 13 Feb.
-7. **Los Gigantes refugio:** contact Club Andino Córdoba (no published price). Bring a sleeping bag.
-8. **COATA seats to Condorito** (10–15 left per bus on 24 Nov) and the **4M Express** seat, confirmed by WhatsApp (bookings close 3 days before).
+Every guide also has a **Book (one click)** table at the top, with dates and 1 adult pre-filled.
+
+| # | What | Why now | One click |
+|---|---|---|---|
+| 0 | 🛂 **Brazil e-visa** (US$80.90) | Required for US citizens; takes up to 10 business days, and you land 8 Dec, so **apply today** | [Official e-visa portal (VFS)](https://brazil.vfsevisa.com/) |
+| 1 | ✈ Alaska business award SEA → Rio, Mon 7 Dec (60k + $26) | 3 seats on 24 Nov; every date depends on it. Backup Wed 9 Dec | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=SEA&D=GIG&OD=2026-12-07&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) · [9 Dec](https://www.alaskaair.com/search/results?A=1&O=SEA&D=GIG&OD=2026-12-09&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
+| 2 | EGA bus Encarnación → Montevideo, Sat 26 Dec 13:30 ($124 semi-cama) | Cama sold out, 17 seats left; runs Wed/Sat only | [EGA Paraguay shop](https://reservadirecta.sittnet.net/Commerce/egapy) |
+| 3 | Serra Verde Express Curitiba → Morretes, Fri 18 Dec 08:30 (R$70) + Graciosa bus back 16:10 | 67 train seats and 10 bus seats left | [Train](https://www.serraverdeexpress.com.br/) · [Bus back (ClickBus)](https://www.clickbus.com.br/onibus/morretes-pr/curitiba-pr?departureDate=2026-12-18) |
+| 4 | Encarnación flat, 23 → 26 Dec ($76) | The good hostels are already full for Christmas | [Booking](https://www.booking.com/hotel/py/departamentos-de-la-costa.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=77602665&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| 5 | Cabo Polonio, Green House Hostel, 28 → 30 Dec ($50) | Peak week; Viejo Lobo is already full on the 29th | [Booking](https://www.booking.com/hotel/uy/green-house-hostel.html?checkin=2026-12-28&checkout=2026-12-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=2165637&checkin=2026-12-28&checkout=2026-12-30&NumberofAdults=1&Rooms=1) |
+| 6 | Montevideo, MedioMundo, 27 → 28 Dec and New Year 30 Dec → 1 Jan | New Year's Eve | 27 Dec: [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-27&to=2026-12-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-27&checkout=2026-12-28&NumberofAdults=1&Rooms=1) · NYE: [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) |
+| 7 | Boquete, ONDA (Socialtel), 5 → 8 Feb ($116) | Panama Carnaval 6–9 Feb | [Booking (search)](https://www.booking.com/searchresults.html?ss=Socialtel+Boquete+Boquete&checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35353686&checkin=2027-02-05&checkout=2027-02-08&NumberofAdults=1&Rooms=1) · [✈ Air Panama to David](https://www.airpanama.com/) |
+| 8 | Chirripó admission (10 Feb) + Base Crestones bunk | 60 bunks a night; Feb on sale since August. **Needs you:** reCAPTCHA + SICORE account | [SINAC portal](https://serviciosenlinea.sinac.go.cr/) · [Base Crestones (Consorcio)](https://chirripo.org/info-util/) |
+| 9 | Entry paperwork | **Yellow-fever certificate**, needed by Paraguay (arriving from Brazil), Bolivia, Panama and Costa Rica; get the shot ≥ 10 days before 21 Dec. Panama and Costa Rica also want an onward ticket (Panama also ~$500 proof of funds). Nicaragua's free advance registration by 13 Feb | [Tica Bus (onward ticket)](https://www.ticabus.com/en/) · [Nicaragua registration](https://solicitudes.migob.gob.ni/) · [CDC: Panama entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama) · [CDC: Costa Rica entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) |
+| 10 | Los Gigantes refugio, 4 → 6 Jan | No published price, so message Club Andino Córdoba; bring a sleeping bag | see the [Córdoba guide](guides/cordoba.md) |
+| 11 | 4M Express Puno → Chivay, Sat 30 Jan 06:15 ($54) | Confirm by WhatsApp; bookings close 3 days before | [4M Express](https://www.4m-express.com/) |
+| 12 | Andesmar Purmamarca → San Pedro, Thu 14 Jan 03:40 | One departure a day; captcha-protected shop | [Andesmar shop](https://shop.andesmar.com/) |
+| 13 | ✈ Flight home MGA → Seattle, Wed 3 Mar (25k + $94) | Book once the route is settled (9 seats on 2–5 Mar) | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-03&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
 
 ## Biggest risks
 - **Bolivian road blockades.** A diesel price rise on 24 Nov set off a blockade on the Oruro–Potosí–Sucre road and an indefinite strike by the Sucre-region drivers' union. Re-check the week before 18 Jan. The Potosí night is the buffer if the jeep tour runs late.
@@ -77,11 +84,14 @@ Every stop has its own guide in [`guides/`](guides/) (→ column): bed pick, bac
 - **Volcán Barú** summit road closed by a landslide on 7 Jul 2026, with no reopening notice found. **Telica** (León) is closed "until further notice".
 - January bus timetables in Argentina weren't on sale yet. Re-check 2–3 weeks out.
 
-## Money snapshot (dorm picks)
-- **Beds:** ≈ **$1,250 for ~85 nights** (≈ $15/night). Not yet included: the Los Gigantes refugio, Base Crestones and the Managua airport night.
-- **Uyuni jeep tour:** ≈ $280–300 (covers 2 nights' beds and meals).
-- **Transport:** ≈ $1,180–1,550, including the La Paz and Panama flights.
-- **Food and activities:** not totalled yet. The old v4 [budget-forecast.md](budget-forecast.md) will be rebuilt for v5.
+## Money
+**Expected spend ≈ $6.2–6.8k** (≈ $75–80/day all-in). **Carry ≈ $7.5k**, which includes a ≈ $1k private-room buffer.
+- **Living ≈ $3.5k** (≈ $42/day). Beds at the dorm picks come to ≈ $1.36k for 84 nights.
+- **Transport ≈ $1.25–1.6k.**
+- **Uyuni tour ≈ $0.3k.**
+- **Fees and admin ≈ $0.6–0.75k.**
+
+Points: 60k + 25k Alaska. Details: [budget-forecast.md](budget-forecast.md).
 
 ## Guides
 **Region notes** (transport spine, region-wide warnings, totals, open issues):

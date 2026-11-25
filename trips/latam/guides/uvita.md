@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) · [Monteverde](monteverde.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Hostel Cascada Verde** (11 Feb → 13 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-11&to=2027-02-13&guests=1) |
+| Backup: **Shipwrecked Hostel** (11 Feb → 13 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-11&to=2027-02-13&guests=1) |
+| Private alt: **Hotel Sueños de María** (11 Feb → 13 Feb) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Uvita tide table (whale tail at low tide) | [open](https://tablademareas.com/cr/costa-oceano-pacifico/uvita) |
+
 ## 28. Uvita — Thu 11 Feb → Sat 13 Feb (2 nights)
 
 **Getting there (San Gerardo → San Isidro → Uvita):** San Gerardo 06:50 (or 13:00 after a Chirripó descent) → San Isidro ~07:40 (~13:50) → **Grupo Blanco direct San Isidro → Uvita 09:00 or 16:00** (~2 h, ≈ ₡2,500 / $5.60) → Uvita ~11:00 (~18:00). Or San Isidro → Dominical (05:00, 09:00, 13:30, 15:30) and the frequent Dominical → Uvita local bus (20 min). ≈ perezzeledon.com bus page (updated 18 Nov 2026) + uvita.info; pay cash on board. Total ≈ $8, 3–4 h.

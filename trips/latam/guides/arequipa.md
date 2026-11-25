@@ -2,6 +2,15 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Colca Canyon](colca-canyon.md) · [Panama City](panama-city.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **Econunay** (1 Feb → 3 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=81309105&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) |
+| Backup: **Friendly AQP** (1 Feb → 3 Feb) | [Hostelworld](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37917604&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) |
+
 ## 24. Arequipa — Day 56 Mon 1 Feb → Day 58 Wed 3 Feb (2 nights)
 
 **Getting there:** bus Cabanaconde → Arequipa Terminal Terrestre, 09:30 Transandino or the next Andalucía, ≈ 5.5–6 h, S/35 (≈ $9.50). ≈ redBus route data (see 23). Taxi to the centre ≈ S/10–15.

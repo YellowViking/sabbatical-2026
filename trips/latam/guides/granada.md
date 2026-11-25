@@ -2,6 +2,16 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Ometepe](ometepe.md) · [León](leon.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| Dorm pick: **De Boca en Boca** (25 Feb → 27 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=De+Boca+en+Boca+&checkin=2027-02-25&checkout=2027-02-27&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268806/de-boca-en-boca/?from=2027-02-25&to=2027-02-27&guests=1) |
+| Backup: **Casa Gallo Pinto** (25 Feb → 27 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Gallo+Pinto+&checkin=2027-02-25&checkout=2027-02-27&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332794/casa-gallo-pinto/?from=2027-02-25&to=2027-02-27&guests=1) |
+| Private alt: **Oasis Hostel** (25 Feb → 27 Feb) | [Booking](https://www.booking.com/hotel/ni/oasis-hostel.html?checkin=2027-02-25&checkout=2027-02-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+
 ## 34. Granada (+ Laguna de Apoyo) — Thu 25 Feb → Sat 27 Feb (2 nights)
 
 **Getting there (Moyogalpa → San Jorge → Rivas → Granada, Thu 25 Feb):** ferry **Moyogalpa → San Jorge 05:30, 06:00, 06:30 (lancha), 06:45, 07:00 (lancha), 09:00, 10:00, 11:00, 11:30, 12:30, 13:00 (lancha), 14:00, 15:00 (lancha), 16:00, 17:30** (≈ ometepeislandinfo.com) → taxi/colectivo to the Rivas terminal (≈ C$20–40) → direct Rivas → Granada bus (a few a day, ~2 h, ≈ C$50–100) or any Managua-bound bus to the Nandaime/Empalme junction and a connecting bus into Granada. ≈ 3½–4½ h, ≈ $4–6. Take a morning ferry (≤ 09:00) for the better bus connections.

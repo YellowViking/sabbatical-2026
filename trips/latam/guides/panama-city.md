@@ -2,6 +2,17 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [Boquete](boquete.md) →
 
+## Book (one click)
+
+Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+
+| What | Links |
+|---|---|
+| ✈ Arequipa → Lima, Wed 3 Feb 06:50 (Google Flights; Sky $52) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |
+| ✈ Lima → Panama City, Wed 3 Feb 13:20 (Google Flights; Copa $274) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |
+| Dorm pick: **El Machico Hostel** (3 Feb → 5 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/88333/el-machico-hostel/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=728716&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
+| Backup: **Bodhi Panama City** (3 Feb → 5 Feb) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
+
 ## Getting here: ✈ Arequipa → Lima → Panama City — Day 58 Wed 3 Feb (two separate tickets)
 
 **Live Google Flights search, 24 Nov 2026** (USD, 1 adult, taxes included, cheapest fare brand, bags extra):
