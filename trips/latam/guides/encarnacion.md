@@ -2,6 +2,9 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Asunción](asuncion.md) · [Montevideo](montevideo.md) →
 
+> 🔁 **Backup plan:** if Paraguay looks shaky, [Plan B: Florianópolis](florianopolis.md) replaces 21–27 Dec (Asunción + Encarnación) with 4 nights on the island and the EGA bus to Montevideo on Sat 26 Dec. Nothing after 27 Dec changes.
+
+
 > **Stop 8 · Wed 23 → Sat 26 Dec 2026 · 3 nights · Christmas**<br>
 > 🏞️ River town and beach on the Paraná, with Jesuit ruins nearby<br>
 > 🛏️ **Departamentos De La Costa**, a whole flat with a kitchen, $76 for 3 nights<br>
@@ -66,7 +69,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 - **La Encarnacena direct bus at 08:30** (or 12:00) from the Asunción terminal, arriving ≈ 14:00 (≈ 5½ h).
 - **PYG 120,000 ≈ $19.** Buy at terminal windows 95–100 or online at `compraonline.sittnet.net/py/5596/`. ✅ The timetable and fare are on the operator's site; the seat map wasn't checked.
-- NSA sells only its 00:00 Ejecutivo Black online (PYG 165k ≈ $26, arriving 05:00).
+- NSA sells only its 00:00 Ejecutivo Black online (PYG 165k ≈ $26, arriving 05:00). LP rates La Encarnacena and NSA (Nuestra Señora de la Asunción) as the best companies on this route (LP).
+- 🥯 **Chipa on the way:** the bus passes **Coronel Bogado**, Paraguay's self-styled chipa capital. Vendors climb aboard with it, so there's no need to get off (LP).
 - Encarnación's bus terminal is in town, ≈ 0.8 km from the plaza.
 
 ## 🛏️ Where to sleep
@@ -111,11 +115,23 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </table>
 
 **Missions day (Thu 24 Dec):**
-- **Getting there:** any bus heading north-east from the terminal (towards Hohenau, Bella Vista or Ciudad del Este) drops you at the Trinidad crossroads in ≈ 45 min (≈ PYG 15k, $2.40). The ruins are 500 m up the side road.
-- **Jesús** is 10–12 km further north. Take a moto-taxi (≈ PYG 30k, $5) or walk 2 h.
+- **Getting there:** any bus heading north-east from the terminal (towards Hohenau, Bella Vista or Ciudad del Este) drops you at the Trinidad crossroads in ≈ 45 min (≈ PYG 15k, $2.40). The ruins are 500 m up the side road. LP's landmark for the stop: get off when the power station appears on your right (LP).
+- **Jesús** is 10–12 km further north. Take a moto-taxi (≈ PYG 30k, $5) or walk 2 h. LP adds two options: shared taxis that sometimes wait at the junction, or the Jesús–Obligado bus from the crossroads 100 m along the highway, nominally hourly (LP).
+- **Guides:** Spanish-speaking guides wait at both gates; tip them well (LP).
+- **Light show:** both sites have run an evening sound-and-light show projected onto the ruins (LP). It's unlikely on Christmas Eve, so ask at the gate ≈.
 - **Ticket:** foreigners pay **PYG 40,000 ≈ $6.30** (Paraguayans 25,000) for one ticket valid 72 h at both sites. SENATUR updated the fees in July 2024. The PYG 40,000 figure comes from several 2026 guides, because SENATUR's own page timed out.
 - **Hours:** 07:00–19:00 every day of the year. SENATUR has run special hours on 25 Dec before (2021: opening at 09:00, plus a 21:00 night show), so check SENATUR's or Ruta Jesuítica's Facebook the week before.
 - **Time:** allow 5–6 h for both sites.
+
+**More, from Lonely Planet (not live-checked; good for Fri 25 or Sat 26 morning):**
+- 🌳 **Escalinata San Pedro**: a Gaudí-style decorated stairway in a residential street at the far end of the Costanera. Free (LP).
+- 🏖️ **A quieter beach:** if Playa San José is packed from the 25th, LP suggests the beach at **Quiteria**, a short taxi ride away (LP).
+- 🌳 **Hotel Tirol** (Capitán Miranda, Ruta 6 km 20): 20 ha of humid forest with trails and 300+ bird species recorded; non-guests can use its pools for a small fee. Local bus 1y2 ("Capitán Miranda") from Av Artigas ends at the gate, and Trinidad-bound buses pass it, so it can be a stop on the missions day (LP).
+- 🌳 **Parque Manantial** near Hohenau (35 km, on the Ruta 6 bus line): 200 ha with walking trails and pools; small entry and pool fees; Tue–Sun ≈ 09:00–20:00 (LP).
+- **Ita Cajón**, near Trinidad: the quarry that supplied the missions' red stone, now a small eco-park with a small fee (LP).
+- **Sambódromo**, the Carnival parade ground on the Costanera, used for other events out of season (LP).
+- **Karumbés**: the yellow horse-drawn carriages that were once the town's taxis. LP says rides were cheap and free at weekends, from the bus terminal (LP); check they still run.
+- **Yerba-mate factory tours** in Bella Vista (45 km): Pajarito's is free and Selecta's is paid, booked at the Mate Roga tourist office on the main road (LP). Probably not running over Christmas ≈.
 
 ## 🍽️ Eat and drink
 
@@ -130,13 +146,27 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-No craft-beer bar was checked here. Prices are ≈.
+- **Lomito árabe:** LP's pick is **Habib's** on Av Irrazábal (LP).
+- **Hiroshima:** LP singles out its udon (LP).
+- **Cheap and filling:** **La Piccola Italia** (Ruta 1 × Av Caballero, Tue–Sun), big portions of pizza and pasta (LP).
+- **Paseo Gastronómico:** a cluster of restaurants by the roundabout on the Costanera (LP).
+- **Heladería Mako** (Av Caballero 590): artisan ice cream, pastries and coffee (LP).
+- **Craft beer:** **Peltzer Artesanal**, a beer garden on Av Francia with local craft beer on tap (LP; not checked).
+
+Prices are ≈.
 
 ## ℹ️ Good to know
 - **24 Dec is a half day.** Shops and supermarkets close in the afternoon. Nochebuena is celebrated at midnight with fireworks over the river.
 - **25 Dec is a public holiday** and most restaurants close, so shop on the 24th (hence the flat). Around 20 Dec, the Municipalidad de Encarnación's tourism office posts on Facebook a list of the restaurants open on 24 and 25 Dec.
-- **It's hot:** ≈ 33–35 °C.
+- **It's hot:** ≈ 33–35 °C. LP's advice: pay for air-con, and carry a warm layer on the buses, where drivers run it cold (LP). That includes the 18-h EGA ride.
 - **Carnaval Encarnaceno** runs on January and February weekends, so it isn't on these dates.
+- **Money:** the banks around Plaza de Armas all have ATMs. Money changers work at the bus terminal and the border; check their rate first (LP).
+- **Tourist office:** Senatur, at the western end of the Costanera (Ruta 1 × Padre Bolik), ≈ Mon–Fri 08:00–18:00, weekend mornings (LP).
+- **Crossing to Posadas** (the 🎄 holiday backup, or the Crucero del Norte route), per LP:
+  - The **international bus** leaves from outside the terminal. Get off at **both** immigration posts on the bridge and keep your ticket: buses don't always wait, so take your bag with you and board the next one (LP).
+  - The quicker **air-conditioned train** leaves from Av Von Winkel near the bridge; both countries' formalities happen in one office on the Argentine side (LP; check it's running).
+  - **Ferries** also cross from the eastern end of the Costanera to Posadas' riverfront (LP).
+  - A taxi over the bridge can get stuck in long queues; the bus skips them (LP).
 - ⚠️ **Buy the EGA ticket online early.** Cama is already sold out for 26 Dec, and 17 semi-cama seats were left on 24 Nov.
 
 ## 🚌 Leaving: EGA overnight to Montevideo, Sat 26 → Sun 27 Dec

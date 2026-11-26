@@ -56,7 +56,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | ⭐ **Purmamarca** | **Giramundo Hostel Purmamarca** · single bed in a dorm | **$17** | 9.6 | 🚶 1 min (79 m) from the Purmamarca bus terminal · [route](https://www.google.com/maps/dir/?api=1&origin=-23.744945,-65.498925&destination=-23.745506499999998,-65.4984487&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/giramundo-hostel-purmamarca.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=25415036&checkin=2027-01-14&checkout=2027-01-15&NumberofAdults=1&Rooms=1) |
 | Purmamarca private alt (quiet) | **Nido de Cóndores** · double with terrace | $65 | 9.6 | 🚶 3 min (220 m) from the Purmamarca bus terminal · [route](https://www.google.com/maps/dir/?api=1&origin=-23.744945,-65.498925&destination=-23.7440988,-65.50054229999999&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/nido-de-condores.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37730393&checkin=2027-01-14&checkout=2027-01-15&NumberofAdults=1&Rooms=1) |
 | Peak-season backup | **MiskyPacha**, Purmamarca · double room with bathroom | $31 *(itinerary, 25 Nov)* | 9.6 | 🚶 3 min (240 m) from the Purmamarca bus terminal · [route](https://www.google.com/maps/dir/?api=1&origin=-23.7449451,-65.4989252&destination=-23.745779,-65.500291&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/miskypacha.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Peak-season backup (alt town) | **El Balcón de la Tata Hostel**, San Salvador de Jujuy · bed in a 6-bed dorm | $21 *(itinerary, 25 Nov)* | 9.9 | 🚶 10 min (700 m) from Jujuy's bus terminal, where the same Andesmar bus starts at 02:45 · [route](https://www.google.com/maps/dir/?api=1&origin=-24.183796,-65.2989954&destination=-24.186552,-65.303439&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/el-balcon-de-la-tata.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Peak-season backup (alt town) | **El Balcón de la Tata Hostel**, San Salvador de Jujuy · bed in a 6-bed dorm | $21 *(itinerary, 25 Nov)* | 9.9 | ⚠️ The terminal is in Alto Comedero, ≈ 5 km away (LP; OpenStreetMap): a remís at night, not the 10-min walk first routed from the centre. The same Andesmar bus starts there at 02:45 · [route](https://www.google.com/maps/dir/?api=1&origin=-24.183796,-65.2989954&destination=-24.186552,-65.303439&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/el-balcon-de-la-tata.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
@@ -83,6 +83,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 - **Salta → Jujuy:** ✅ 20 de Junio 08:05 → 10:00 (ARS 20,000 ≈ $12) or Balut 09:30 → 11:45 (ARS 18,000 ≈ $11).
 - **Jujuy → Tilcara:** Evelia or Balut, e.g. 10:30 → 12:10 or 12:00 → 13:15 (ARS 9,000–9,500 ≈ $6) *(Dec timetable)*.
+- **Change buses at the terminal; don't go into town.** Jujuy's bus terminal is in **Alto Comedero, ≈ 5–6 km south-east of the centre** (LP; OpenStreetMap). It has showers and a tourist desk (LP).
 - About **4 h door to door for ≈ $17**.
 - The only direct Salta → Tilcara bus is Andesmar's 04:40 → 08:15 (ARS 28,000), which is too early to be worth it.
 
@@ -132,7 +133,8 @@ Live-checked 26 Nov.
 
 ### Peak-season backups (Purmamarca, 14 → 15 Jan)
 - **Same town:** **MiskyPacha**, double room with bathroom, location 9.6, 3 min from the Purmamarca bus terminal.
-- **Another town:** **El Balcón de la Tata Hostel** in San Salvador de Jujuy, a bed in a 6-bed dorm, location 9.9. It's 10 min on foot from Jujuy's bus terminal, where the same Andesmar bus starts at 02:45.
+- **Another town:** **El Balcón de la Tata Hostel** in San Salvador de Jujuy, a bed in a 6-bed dorm, location 9.9. The same Andesmar bus starts from Jujuy's terminal at 02:45.
+  - ⚠️ **The terminal isn't 10 min away.** The walking time in the table was routed from a point in the city centre. LP and OpenStreetMap put the bus terminal in **Alto Comedero, ≈ 5 km south-east** of the hostel. Book a remís for ≈ 02:15, and confirm the boarding point with Andesmar.
 - Prices and links are in the beds table above.
 
 ## 🌳 Things to do (free and outdoors first)
@@ -156,6 +158,7 @@ Live-checked 26 Nov.
 - 8–9 km return from town on a dirt road and then the canyon path, +≈ 420 m, ≈ 3–3.5 h.
 - It's on Comunidad Ayllu Mama Qolla land; they charge a cash entry fee at the top, ≈ ARS 5,000–6,000 (≈ $3–4) *(fee not published; amount from leads)*.
 - Don't enter the gorge if a storm is building (flash floods). If it's raining, swap it with Wednesday morning.
+- Tilcara's tourist office (Belgrano 366) has information on walks, but its opening hours are unreliable (LP).
 
 **Wed 13: Iruya.** ✅ Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00 (ARS 4,500), then **Transporte Iruya 08:20** (also 10:30 and 16:00, not Saturdays at 16:00) → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor (≈ ARS 9,500–12,000 ≈ $6–8; buy at the Humahuaca terminal) *(times and fares from leads; confirm at the terminal)*.
 - **Afternoon (free):** walk the riverbed to **San Isidro**, a smaller village ≈ 8 km up the valley (≈ 3–4 h return), or climb to the **Mirador del Cóndor** above the village at sunset.
@@ -164,6 +167,8 @@ Live-checked 26 Nov.
 **Thu 14, morning: Serranía de Hornocal** ("14 colours", 4,350 m).
 - Take the **06:00 bus** Iruya → Humahuaca (arrives ≈ 09:00; no Sunday service). Leave the bag at the terminal's luggage office (ask) or with the 4x4 driver.
 - Shared 4x4s leave the Humahuaca terminal when full, ≈ 3 h return, ≈ ARS 20,000 + ARS 2,000 community fee (≈ $13 total) *(leads)*. Late morning gives the best light before the storms.
+- **Back in Humahuaca (free, near the terminal):** the old cabildo on Plaza Gómez, whose clock tower puts out a life-size saint figure at noon, and the stairway from the plaza up to the Independence monument for a view over the adobe town (LP). The tourist office is in the cabildo (LP).
+- **Lunch before the bus (LP):** **Mikunayoc** (Corrientes & Tucumán; lunch only, llama dishes and unusual empanadas) or **Aisito** (Buenos Aires 435; baked empanadas and llama).
 - Then Evelia or Balut Humahuaca → Purmamarca (≈ 1 h 15), arriving early afternoon.
 
 **Thu 14, late afternoon, Purmamarca:**
@@ -171,7 +176,7 @@ Live-checked 26 Nov.
 - The **Cerro El Porito** lookout for the Cerro de los Siete Colores: best at golden hour, 10–15 min up.
 - Then dinner and bed by 21:00.
 
-**Skip:** the Pucará de Tilcara (a paid, reconstructed fort; the Andes ahead have better ruins) and Salinas Grandes tours (Uyuni is the salt flat; the Jama bus crosses Salinas Grandes before dawn).
+**Skip:** the Pucará de Tilcara (a paid, reconstructed fort; the Andes ahead have better ruins. LP rates it Tilcara's main sight for its views and cardón cactus garden; one ticket also covers the Museo Arqueológico at Belgrano 445) and Salinas Grandes tours (Uyuni is the salt flat; the Jama bus crosses Salinas Grandes before dawn).
 
 ## 🍽️ Eat and drink
 
@@ -188,11 +193,18 @@ Live-checked 26 Nov.
 
 These are AI Mode leads; prices are ≈.
 
+**Lonely Planet picks, Tilcara (LP):**
+- **Khuska** (Padilla 533, ≈ 50 m from Tilcara Mística): regional dishes (humitas, empanadas, Andean platters with local potatoes and quinoa) from 18:00.
+- **Cheap places** line Belgrano and Lavalle between the bus terminal and Plaza Prado.
+- **Ma'koka** (Belgrano): a bookshop-café with the best coffee in town, and sandwiches on coca or local-corn bread.
+- For Humahuaca lunch spots, see Thu 14 under Things to do.
+
 ## ℹ️ Good to know
 - ⚠️ **Iruya road in January:** the gravel road can wash out for hours or days after storms. Ask at the Humahuaca terminal the day before; the fallback is a 2nd night in Tilcara (see Where to sleep).
 - **Altitude:** Iruya (2,780 m) helps you acclimatise before Hornocal (4,350 m) and Jama (4,200 m).
 - **Enero Tilcareño:** Tilcara's January festival (folk music, gaucho games, mostly at weekends) can fill beds and add noise *(dates not verified)*.
-- **Border food rules:** Chile's SAG bans fresh fruit, vegetables, meat, dairy, honey, seeds and **coca leaves**. Declare any food or bin it before the border.
+- **Border food rules:** Chile's SAG bans fresh fruit, vegetables, meat, dairy, honey, seeds and **coca leaves**. Declare any food or bin it before the border. That includes the filling of a sandwich, and the fines are steep (LP).
+- **Dinner hours:** restaurants usually open for dinner around 20:00 (LP), so for the early night in Purmamarca, eat at opening time or cook at the hostel.
 
 ## 🚌 Leaving: Andesmar Purmamarca → San Pedro de Atacama, Fri 15 Jan 03:40
 

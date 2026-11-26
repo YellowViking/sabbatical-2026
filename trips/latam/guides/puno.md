@@ -23,7 +23,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Fri 29 Jan** | 🚌 **13:30 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 15:30 Peru time (probably). Taxi ≈ 10 min to Kantaya (or a 28-min walk). 🌅 Plaza de Armas → Jr. Lima → **Mirador Kuntur Wasi** for sunset ≈ 18:30. 🐟 Trout or quinoa soup for dinner. Buy breakfast snacks. Sleep early. |
+| **Fri 29 Jan** | 🚌 **13:30 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 15:30 Peru time (probably). Taxi ≈ 10 min to Kantaya (or a 28-min walk). 🌅 Plaza de Armas → Jr. Lima → **Mirador Kuntur Wasi** in daylight only: up by ≈ 16:30, down before dark (⚠️ robberies reported, see Things to do). 🐟 Trout or quinoa soup for dinner. Buy breakfast snacks. Sleep early. |
 | **Sat 30 Jan** | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
 
 ## 🔖 Book (one click)
@@ -63,6 +63,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - ⚠️ **Which clock?** The page doesn't say. Peru is 1 h behind Bolivia, so you probably reach Puno about 15:30 Peru time.
 - **Border:** get the Bolivian exit stamp at Kasani, walk about 200 m, then the Peruvian entry at Kasani/Yunguyo. US passport: no visa, no fee. Peru has no yellow-fever entry rule.
 - **Other operators** also run the route (≈ Bs 40–80; check in Copacabana the day before): Turisbus, Huayruro, Panamericano, Vicuña. Not verified.
+- **Fallback if the buses are full (LP):** combi Copacabana → Kasani (≈ Bs 3), cross on foot, a triciclo to Yunguyo, then a local micro to Puno's Terminal Zonal. Slower and more hassle.
+- **Don't carry coca leaves** across the border: LP says taking them over international borders is illegal.
+- **On arrival:** the Terminal Terrestre has an ATM and an iPerú desk (LP), so you can get soles before the taxi.
 
 ## 🛏️ Where to sleep
 
@@ -91,13 +94,18 @@ Live-checked on 24 Nov (Hostelworld API).
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THiyrSAb04cQN8EaTQt5AnJJT9h7e0y8UGWfOD4YlJwDJ9zi2cOo_VhWTSngv9ZZY3nNV7b186QzuYwqA3oY6qyWUfOMeZaBsE8XYXQozo-CbVx30ryq-yMRzwYRTwWJkoGNv3=w640-h400-p-k-no" width="100%" alt="The condor statue at Mirador Kuntur Wasi, wings spread over Puno and the lake"><br><b><a href="https://www.google.com/maps?ftid=0x915d69ed9ad4f677:0xc77330e7fa9a440b">Mirador Kuntur Wasi</a></b> · free · sunset ≈ 18:30<br>The condor statue, about 600 steps up. Walk there via the Plaza de Armas and the Jr. Lima pedestrian street.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THiyrSAb04cQN8EaTQt5AnJJT9h7e0y8UGWfOD4YlJwDJ9zi2cOo_VhWTSngv9ZZY3nNV7b186QzuYwqA3oY6qyWUfOMeZaBsE8XYXQozo-CbVx30ryq-yMRzwYRTwWJkoGNv3=w640-h400-p-k-no" width="100%" alt="The condor statue at Mirador Kuntur Wasi, wings spread over Puno and the lake"><br><b><a href="https://www.google.com/maps?ftid=0x915d69ed9ad4f677:0xc77330e7fa9a440b">Mirador Kuntur Wasi</a></b> · free · ⚠️ daylight only<br>The condor statue, about 600 steps up. Walk there via the Plaza de Armas and the Jr. Lima pedestrian street. Robberies are reported here (see below).</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TYFKer1YCmYsZITuaRSKwOU3yQpYtK6D4czCAzpBM0oQyIjHElxZtNdgICd89OPjkREgzEjbdoLaFo7_NOXV8WSOPDbivMtPyUfofi5H4e9Cd042iFvpdRSSrP60smflziIOVe=w640-h400-p-k-no" width="100%" alt="The white Manco Cápac statue on Cerro Huajsapata"><br><b><a href="https://www.google.com/maps?ftid=0x915d69ebe173627f:0xe002096b4f76a085">Cerro Huajsapata</a></b> · free<br>The Manco Cápac statue, 10 minutes from the Plaza: the shorter alternative.</td>
 </tr>
 </table>
 
-- **The walk:** Plaza de Armas → Jr. Lima pedestrian street → **Mirador Kuntur Wasi** (the condor statue, about 600 steps, free). Go for sunset over the lake around 18:30.
-- **Skip the Uros floating islands:** you already did the lake from Copacabana and Isla del Sol.
+- **The walk:** Plaza de Armas → Jr. Lima pedestrian street → **Mirador Kuntur Wasi** (the condor statue, about 600 steps, free). Go up by ≈ 16:30 for the late light and be back down before dark (sunset ≈ 18:30).
+- ⚠️ **Lookout safety.** LP advises against the hill lookouts it calls Condor and Inca (Kuntur Wasi and, most likely, Huajsapata with its Inca statue) because of assaults and robberies, even on groups. It's still current: in Jul 2026 residents of Alto Mañazo warned of robberies around Kuntur Wasi, blaming poor lighting and no patrols (Radio Onda Azul; checked 26 Nov).
+  - Go in daylight, ideally with others from the hostel, and carry only a phone and a few soles.
+  - Or skip it and stay on the Plaza and Jr. Lima.
+- **Casa del Corregidor** (free, LP): one of Puno's oldest houses (17th century), now a fair-trade craft shop and café, just off the Plaza. Mon–Sat 09:00–21:00 (LP).
+- **Museo Carlos Dreyer** (paid, optional): S/15 with an English-speaking guide (LP). Altiplano archaeology, three mummies and a full-size chullpa (funerary tower). Mon–Fri 09:00–19:00, and the guides leave an hour before closing, so arrive by 18:00 (LP).
+- **Skip the Uros floating islands:** you already did the lake from Copacabana and Isla del Sol. The community ferry from Puno port (S/10 return, LP) runs only until ≈ 16:00 anyway.
 - **Sleep early:** 4M picks you up at 05:50–06:10.
 
 ## 🍽️ Eat and drink
@@ -110,13 +118,17 @@ Live-checked on 24 Nov (Hostelworld API).
 </table>
 
 - **Breakfast:** buy snacks the night before; 4M includes snacks and water.
-- Prices are ≈ unverified.
+- **Cheap dinner:** La Choza de Oscar, Jr. Libertad 354: a roast-chicken plate for ≈ S/11, Mon–Sat 14:00–22:00 (LP).
+- **On the Plaza:** Mojsa, for trout dishes at ≈ S/22–30 a main, noon–21:30 (LP). Mareas (ceviche) closes at 16:00, so it's no good for dinner (LP).
+- Peru's set lunch (*menú del día*) runs ≈ S/8–22 (LP).
+- Other prices are ≈ unverified.
 
 ## ℹ️ Good to know
 - **Altitude:** 3,830 m (the same as Copacabana).
 - **Fiesta de la Candelaria:** the main day is 2 Feb 2027, and the festival weeks start in late January, so Puno is busier and pricier. Beds still showed at about $10 on 24 Nov.
-- **Cash:** soles from the ATMs on Jr. Lima. Change leftover bolivianos at the border or in Copacabana.
-
+  - LP's rule: when Candlemas falls on a Sunday to Tuesday, the big celebrations start the Saturday before. 2 Feb 2027 is a Tuesday, so they'd start Sat 30 Jan, the morning you leave. Expect a loud, boozy Friday night (LP says the drinking is legendary).
+- **Cash:** soles from the ATMs on Jr. Lima (BCP is there, LP) or at the bus terminal. Change leftover bolivianos at the border or in Copacabana.
+- **Tourist info:** iPerú on the Plaza (corner of Jr. Lima and Deustua), Mon–Sat 09:00–18:00 (LP).
 ## 🚌 Leaving: 4M Express to Chivay, Sat 30 Jan
 
 - **Pickup from central Puno hotels 05:50–06:10**, departure about 06:15, Plaza de Chivay 12:15–12:45. **US$54**, with a guide, snacks and photo stops.

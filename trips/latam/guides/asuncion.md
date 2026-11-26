@@ -2,6 +2,9 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Encarnación](encarnacion.md) →
 
+> 🔁 **Backup plan:** if Paraguay looks shaky, [Plan B: Florianópolis](florianopolis.md) replaces 21–27 Dec (Asunción + Encarnación) with 4 nights on the island and the EGA bus to Montevideo on Sat 26 Dec. Nothing after 27 Dec changes.
+
+
 > **Stop 7 · Mon 21 → Wed 23 Dec 2026 · 2 nights**<br>
 > 🏞️ Paraguay's capital on its river bay: a waterfront promenade, a compact old centre and a mural-covered hillside barrio<br>
 > 🛏️ **Hostel Chaton**, a bunk in a mixed dorm, $18 for 2 nights<br>
@@ -28,7 +31,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 | Day | Plan |
 |---|---|
 | **Mon 21 Dec** | 🚌 08:00 Expresso Nordeste from Foz, arriving ≈ 15:00. Bus 88 to the hostel (18 min). Sunset on the **Costanera**. |
-| **Tue 22 Dec** | A normal working day, ≈ 34 °C, so walk early and late. 🏛️ **Historic-centre walk** and **Loma San Jerónimo** in the morning. Midday: lunch at **Lido Bar**, or the **Museo del Barro** (check its hours). Late afternoon: **Cerro Lambaré** viewpoint. |
+| **Tue 22 Dec** | A normal working day, ≈ 34 °C, so walk early and late. 🏛️ **Historic-centre walk** and **Loma San Jerónimo** in the morning. Midday: lunch at **Lido Bar**. From 14:00: the **Museo del Barro** (✅ opens Tue 14:00–20:00, PYG 50,000). Late afternoon: **Cerro Lambaré** viewpoint, back before dark. |
 | **Wed 23 Dec** | 🚌 **08:30 La Encarnacena** to Encarnación (see the [Encarnación guide](encarnacion.md)). |
 
 ## 🔖 Book (one click)
@@ -73,8 +76,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 3. Take a taxi to the CDE bus terminal. **NSA to Asunción** ✅ nsa.com.py: 07:30, 09:40, 14:00 and 16:00 (plus through-buses at 11:40 and 18:30), **Gs 135,000–170,000 ($21–27)**, 5–5 h 30.
 
 **Stamps and entry:**
-- Get **both** stamps whichever way you go. Direct buses normally stop for them, but tell the driver you need them ≈.
-- **On a US passport, no visa is needed for up to 90 days** (Ley 7314/2024, valid to 13 Aug 2027). ✅ migraciones.gov.py.
+- Get **both** stamps whichever way you go. Direct buses normally stop for them, but tell the driver you need them ≈. LP agrees: locals don't need to stop, so buses may roll through, and with no entry stamp you can be fined when you leave (LP). Paraguay charges nothing at its land borders (LP).
+- **On a US passport, no visa is needed for up to 90 days** (Ley 7314/2024, valid to 13 Aug 2027). ✅ migraciones.gov.py. (LP still says Americans need a visa; that's out of date.)
 - Monday 21 Dec is the last shopping Monday before Christmas, so expect heavy traffic on the bridge; walking across is faster ≈.
 
 **Arriving:**
@@ -127,21 +130,31 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SOFsceNs55zepQlQ82t1cSpeUmSNa53AkRs_LofeKKtl1-utP-oEBWCjWXSAsk9JrJfVYsoC7iC9nfWHk4fsBBdJkUiy3yqJp5Pf11hIsEnl2FrS0UhtYUWF7sDuiTC5v9h3QS=w640-h400-p-k-no" width="100%" alt="Painted stairway and murals in Loma San Jerónimo"><br><b><a href="https://www.google.com/maps?ftid=0x945d0820de3262b7:0xc8655038de2d5277">Loma San Jerónimo</a></b> · free<br>A colourful hillside barrio with stairways and murals. Go in daylight.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StElUS2fa2sAhxe8lKgr2oGuqfD_J7f_nw3nf4e4lJi5ZLG18EXna65hniqXKP6UNP7GBCMmNIpX7mm03U_iJ9XXumMF8bcodsZ-MZYeOJpGgU6ff2iFXxtOyWDDE1XyEUwuw=w640-h400-p-k-no" width="100%" alt="The colonial houses of the Manzana de la Rivera at dusk"><br><b>Historic-centre walk</b> · all free<br>Palacio de López (outside), La Recova, Plaza de los Héroes, the <a href="https://www.google.com/maps?ftid=0x945da78ca5d8d10f:0x2ba5850d31bdc598">Manzana de la Rivera</a> (pictured; free entry ≈) and Casa de la Independencia.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StElUS2fa2sAhxe8lKgr2oGuqfD_J7f_nw3nf4e4lJi5ZLG18EXna65hniqXKP6UNP7GBCMmNIpX7mm03U_iJ9XXumMF8bcodsZ-MZYeOJpGgU6ff2iFXxtOyWDDE1XyEUwuw=w640-h400-p-k-no" width="100%" alt="The colonial houses of the Manzana de la Rivera at dusk"><br><b>Historic-centre walk</b> · all free<br>Palacio de López (outside), La Recova, Plaza de los Héroes, the <a href="https://www.google.com/maps?ftid=0x945da78ca5d8d10f:0x2ba5850d31bdc598">Manzana de la Rivera</a> (pictured; free entry (LP)) and Casa de la Independencia.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TdUi53iL6nci5FnjD74GAi4k5iCTNCQ2w1JkJV9EnUy-0CDAmPVyR3E7Wf4LfCJaq_YixJExAoNaVHfkOWp-80LEvjrE6BM_sxbvMYOqJayY7XLbMD8NE794ySirFFiKL5Z-w=w640-h400-p-k-no" width="100%" alt="Craft stalls with lace and textiles in La Recova"><br><b><a href="https://www.google.com/maps?ftid=0x945da78b08aea531:0xba9eb8b50bb99e0a">La Recova</a></b> · free to browse<br>The craft arcade on the historic-centre walk.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTYAZ_478N1SEAYj8ASYDG9UTEahCa9RmRMJ_y61sUSnJkZAG6bcBMb82P_ELJebn4Wgy0MEGHDYdLS3_miH0r9Jby3UJQ-EQDpcpZ0G0aUmL2FK8qja1B3RhlDz_9hr7LsKOc=w640-h400-p-k-no" width="100%" alt="The monument on top of Cerro Lambaré"><br><b><a href="https://www.google.com/maps?ftid=0x945da82afa638381:0x58a16906ab135ac1">Cerro Lambaré</a></b> · free · Bolt ≈ $4<br>A viewpoint over the river, 7 km south.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZy6_ZDdYTI26BntSqPyokCwhEJCV9goQu0tSf9SU4ann8I5bH8BAFVSzpfwMMvE-XrCB91e7LTUxEYCNDW7tzQKsJG5UjpDP3IuuqcK4KegS4qDmY5HGJOrYPZ0cMXnnBT61f=w640-h400-p-k-no" width="100%" alt="The brick and blue buildings of the Museo del Barro"><br><b><a href="https://www.google.com/maps?ftid=0x945da8076e69de45:0x92fed8adc6649d6f">Museo del Barro</a></b> · ≈ PYG 25k · paid, only if unique<br>Paraguay's best indigenous and folk-art collection. Check the hours: it closes some weekdays.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZy6_ZDdYTI26BntSqPyokCwhEJCV9goQu0tSf9SU4ann8I5bH8BAFVSzpfwMMvE-XrCB91e7LTUxEYCNDW7tzQKsJG5UjpDP3IuuqcK4KegS4qDmY5HGJOrYPZ0cMXnnBT61f=w640-h400-p-k-no" width="100%" alt="The brick and blue buildings of the Museo del Barro"><br><b><a href="https://www.google.com/maps?ftid=0x945da8076e69de45:0x92fed8adc6649d6f">Museo del Barro</a></b> · PYG 50,000 ≈ $7.90 ✅ · paid, only if unique<br>Paraguay's best indigenous and folk-art collection. ✅ museodelbarro.org: Tue–Thu 14:00–20:00 (paid); Fri–Sat 14:00–20:00 free; closed Sun–Mon.</td>
 </tr>
 </table>
 
 **Historic-centre walk (all free):**
-- [Palacio de López](https://www.google.com/maps?ftid=0x945da78c93a9ad45:0x98f8ed14fc209ad4), from outside.
+- [Palacio de López](https://www.google.com/maps?ftid=0x945da78c93a9ad45:0x98f8ed14fc209ad4), from outside (closed to visitors). The best photo is from the river side (LP).
 - [La Recova](https://www.google.com/maps?ftid=0x945da78b08aea531:0xba9eb8b50bb99e0a) craft arcade.
-- [Plaza de los Héroes](https://www.google.com/maps?ftid=0x945da7f236ab19a9:0x8fe4792a6ff9f0c0).
-- The [Manzana de la Rivera](https://www.google.com/maps?ftid=0x945da78ca5d8d10f:0x2ba5850d31bdc598) cultural centre (free entry ≈).
-- [Casa de la Independencia](https://www.google.com/maps?ftid=0x945da7f30fc572ab:0x7fd4b0b8abaed399).
+- [Plaza de los Héroes](https://www.google.com/maps?ftid=0x945da7f236ab19a9:0x8fe4792a6ff9f0c0), with the **Panteón de los Héroes**, the national heroes' mausoleum: free, ≈ 06:00–18:30 Mon–Sat, with a changing of the guard (LP). A craft market on the plaza sells *ao po'i* cotton and indigenous crafts (LP).
+- The [Manzana de la Rivera](https://www.google.com/maps?ftid=0x945da78ca5d8d10f:0x2ba5850d31bdc598): nine restored houses opposite the palace; the oldest, Casa Viola (1750), holds a free museum of the city's history. ≈ 07:00–21:00 (LP).
+- [Casa de la Independencia](https://www.google.com/maps?ftid=0x945da7f30fc572ab:0x7fd4b0b8abaed399): the 1772 house where the 1811 independence was plotted, with period rooms. Free, ≈ Mon–Fri 08:00–18:00 (LP).
+- **Cabildo** on Plaza de Armas: the pink colonial council house, now a cultural centre with free exhibitions. ≈ Tue–Fri 09:00–19:00 (LP).
+- **Estación Ferrocarril** on Plaza Uruguaya: the old station of South America's first railway line (to Encarnación), with an early locomotive on show. Free, ≈ Mon–Fri 07:00–17:00 (LP).
+
+**More, from Lonely Planet (not live-checked):**
+- 🌳 **Jardín Botánico**: the López family's old estate ≈ 6 km out along Av Artigas, with woods, a small nature reserve and the two López houses. Free on foot, ≈ 07:00–19:00; buses 24 or 35 from Cerro Corá (LP).
+- 🛒 **Mercado Cuatro**: a sprawling, lively market where Av Francia meets Av Pettirossi, selling everything from produce to cheap imports. Free to browse (LP); mind your bag.
+- **Cementerio de la Recoleta**, 3 km east on Av Mariscal López: a maze of grand family mausoleums. Free (LP).
+- The **Senatur tourist office** (Palma 468, ≈ 07:00–19:00) has free information and a ground-floor display of crafts from around the country (LP).
+- **Conmebol's football museum** is in Luque on the airport road, Mon–Fri ≈ 09:00–12:00 and 15:00–18:00 (LP). Out of the way for this trip.
+- With a spare day: of the "Circuito de Oro" villages LP lists, the one that isn't about a church is **Areguá**: colonial lanes and ceramics stalls above Lago Ypacaraí, 27 km away, with La Aregueña buses every ≈ 30 min from outside the bus terminal (LP).
 
 ## 🍽️ Eat and drink
 
@@ -156,14 +169,28 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-**Craft beer:** the **Sajonia Brewing Company** taproom ≈ (lead, not checked).
+- **Cheapest eats (LP):** *asadito* street stalls (small beef skewers with mandioca, a few thousand PYG), and the many simple Paraguayan places along **Av Figueroa ("La Quinta Avenida")**, south of the centre.
+- **Lido Bar:** LP says to come for the setting opposite the Panteón more than for the food (LP).
+- **Bellini** (Palma near 15 de Agosto): pick your ingredients and watch your fresh pasta cooked; ≈ PYG 35–45k in LP (LP).
+- **Confitería Bolsi** (Estrella 399): open 24 h, running since 1960; LP suggests the surubí river fish (LP).
+- **Bar San Roque:** ≈ Mon–Sat 08:00–15:00 and 18:00–24:00, Sun lunch only (LP).
+- ⚠️ Many restaurants close on **Mondays** (LP), so check before walking out on Mon 21.
+
+**Craft beer:** the **Sajonia Brewing Company** taproom ≈ (lead, not checked). LP's picks are **Palo Santo Brewing Co.** (Del Maestro, Tue–Sun ≈ 17:00–01:00) and **Sacramento Brewing Co.** (Av Santísimo Sacramento 655, draught only, Tue–Sun ≈ 18:00–01:00), both in the eastern suburbs, so Tue 22 evening, not Mon 21 (LP; check they're still open). Bars and clubs often charge men at the door after 22:00 (LP).
 
 ## ℹ️ Good to know
 - **21–22 Dec are normal working days.**
 - **It's hot:** expect about 34 °C, so walk early and late.
 - **Safety:** the centre empties after dark, and the riverside **Chacarita** slum is off limits.
+  - LP rates Paraguay among the continent's safest countries, but names the **Costanera** as the exception in Asunción (occasional robberies): enjoy the sunset, then leave as it gets dark (LP).
+  - Plaza Uruguaya and the streets around Palma have sex workers after dark, and the bus terminal is the place to watch your bag (LP).
 - **Getting around:** Bolt and Uber work.
+  - Taxis are metered, with a 30% surcharge 22:00–05:00 and on Sundays and holidays; few city buses run after 22:00 (LP).
 - **Money:** ATMs are everywhere (≈ $4–5 fee per withdrawal); cards are widely taken.
+  - LP puts the ATM fee at ≈ PYG 25,000 and the usual daily limit at ≈ PYG 1.5 million. The casas de cambio on Palma pay better than the street changers shouting "cambio"; the terminal also has ATMs and changers (LP).
+  - Keep small notes, and spend or change your guaraníes before leaving Paraguay (LP).
+- **Long-distance bus tickets** are sold at the company offices upstairs (2nd floor) in the terminal; ignore the touts shouting destinations (LP). Drivers run the air-con hard, so carry a warm layer on board (LP).
+- **Health:** tap water is fine in the cities; dengue has occasional outbreaks, but there's no malaria (LP).
 - No parkrun in Paraguay or Uruguay.
 
 ## 🚌 Leaving: Asunción → Encarnación, Wed 23 Dec

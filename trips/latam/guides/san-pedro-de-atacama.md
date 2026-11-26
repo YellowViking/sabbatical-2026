@@ -30,7 +30,7 @@ Note: the walking routes in the beds table start from a different Google "bus te
 | Day | Plan |
 |---|---|
 | **Fri 15 Jan** | 🚌 Andesmar from Purmamarca arrives ≈ 11:30; immigration and the SAG food check on arrival. A rest day after 4,200 m on Jama: walk Caracoles and the river edge. ✨ **Free stargazing** out of town (darkest 00:00–04:00). |
-| **Sat 16 Jan** | 🚲 **Valle de la Luna by rented bike** (bikes may enter only 09:00–11:00). Afternoon (or Sun): the short bike loop north to the **Garganta del Diablo** and the **Valle de Marte** dunes. Optional: **Laguna Cejar**. |
+| **Sat 16 Jan** | 🚲 **Valle de la Luna by rented bike** (bikes may enter only 09:00–11:00). Afternoon (or Sun): the short bike loop north to the **Pukará de Quitor** ruins, the **Garganta del Diablo** and the **Valle de Marte** dunes. Optional: **Laguna Cejar**. |
 | **Sun 17 Jan** | 🏔️ **Cerro Toco** 5,604 m (optional guided walk-up, 06:00 → ≈ 13:30), if you feel fine. 💱 Change ≈ Bs 250 in small notes for the tour. |
 | **Mon 18 Jan** | 🚙 Jeep tour pickup at the hostel ≈ 06:00–06:30 → Uyuni ([tour guide](uyuni-jeep-tour.md)). |
 
@@ -151,6 +151,8 @@ The pick until 25 Nov. ⚠️ Location 8.8.
 - **Garganta del Diablo** canyon in Quebrada de Catarpe (gate ≈ CLP 5,000 cash, tur.com).
 - The **Valle de Marte** (Valle de la Muerte) dunes 2 km from town (≈ CLP 7,500, June 2026 post).
 - Both are rideable from town in 2–4 h.
+- **Pukará de Quitor** is on the way: crumbling 12th-century hill-fort ruins 3.5 km north-west of town with a view over the whole oasis. ≈ CLP 3,000 (LP, pre-2020 price; expect more). LP calls the Garganta del Diablo, ≈ 3 km further on, a winding singletrack mountain bikers love (LP).
+- **Sandboarding** on the Valle de Marte dunes is the paid add-on: ≈ CLP 20,000 for a 3-h session with a short lesson, 09:00–12:00 or 16:00–19:00 (Sandboard San Pedro, Caracoles 362-H; LP, older price).
 
 **Laguna Cejar (optional, the one thing the Uyuni tour lacks: floating).**
 - ✅ CLP 15,000 ≈ US$14.65 on lagunacejar.com (13–59 y; timed slots, online only; you float in Laguna Piedra next door).
@@ -165,6 +167,9 @@ The pick until 25 Nov. ⚠️ Location 8.8.
 - **January:** Vulcano warns of afternoon storms and sudden snow Jan–Mar and confirms each departure on the day's forecast; the snow track can stop short of 5,000 m.
 
 **Skip (paid, done better on the tour):** El Tatio geysers, Piedras Rojas / Miscanti–Miñiques altiplanic lagoons, and Valle del Arcoíris tours. Sol de Mañana, Lagunas Verde, Blanca and Colorada and the Polques pool come on days 1–2 of the jeep tour.
+- Also skippable: **Laguna Chaxa** flamingos on the Salar de Atacama (67 km south; the tour has more flamingos) and the **Termas de Puritama** hot springs (30 km north-east, ≈ CLP 19,500 in LP; the tour has Polques).
+- **ALMA observatory:** LP lists free weekend visits with a shuttle from town, but ✅ almaobservatory.org (26 Nov 2026) says the public visit programme is **suspended**.
+- **Free walking tour:** LP lists a tip-based Tours 4 Tips walk from the plaza (10:00 and 15:00), but ✅ tours4tips.com (26 Nov 2026) now lists only Santiago and Valparaíso. Ask at the tourist office whether anyone else runs one.
 
 ## 🍽️ Eat and drink
 
@@ -178,6 +183,9 @@ You have the shared kitchen at Lackuntur, so cook most nights; Chile is the expe
 </table>
 
 - **Locals' lunch:** the **menú del día / colación, CLP 7,000–8,500 (≈ US$7–8)** for soup, main and dessert, a few blocks off Caracoles: **[La Picada del Indio](https://www.google.com/maps?ftid=0x96a97457bd5b4b85:0x27092be076626eb8)** (Tocopilla 418) or the simple places by the bus terminal and artisan market on Licancabur.
+- **Las Delicias de Carmen** (Calama 370) does a three-course menú del día at lunch plus empanadas and cazuela (LP; check today's price).
+- **Babalú** (Caracoles 140) for ice cream in desert-fruit flavours such as chañar and algarrobo (LP).
+- Quiet nights: LP says the town has very few bars and no alcohol is sold after 01:00.
 - Prices are AI-summary leads, Nov 2026, ≈.
 
 ## ℹ️ Good to know
@@ -185,6 +193,11 @@ You have the shared kitchen at Lackuntur, so cook most nights; Chile is the expe
 - **Invierno altiplánico:** the town itself stays dry (4 mm in January), but storms close **Hito Cajón** and Jama for 1–3 days at a time. The El Loa delegation usually announces it the evening before. Tours then wait or reroute via Ollagüe (≈ AI-summary leads, 2026 examples). Keep 18 → 20 Jan flexible by a day; Potosí and Sucre can absorb it.
 - **Cash for Bolivia:** change CLP/USD into **≈ Bs 250 in small notes** for the tour before leaving (casas de cambio on Caracoles).
 - **Money:** CLP 1,024 = US$1.
+  - LP warns that San Pedro's few ATMs (on Caracoles and opposite the museum) **often run out**, so arrive with some cash. Choose *tarjeta extranjera* at Chilean ATMs; fees can reach ≈ US$10 a withdrawal (LP).
+  - Some businesses add up to 6% for cards (LP). Big notes are hard to break in small places, so keep CLP 1,000–5,000 notes.
+- **Water:** the tap water is scarce and **not drinkable** (LP). Buy or refill drinking water and keep showers short.
+- **Choosing the tour:** the tourist office (Toconao and Le Paige, 09:00–21:00) keeps a book of travellers' comments on the agencies (LP).
+- **Clocks:** in January Chile is on summer time (UTC−3, as LP notes), the same as Argentina, so nothing changes on the 15th. Bolivia is UTC−4: set your watch back 1 h on the jeep tour.
 
 ## 🚙 Leaving: jeep tour to Uyuni, Mon 18 Jan
 

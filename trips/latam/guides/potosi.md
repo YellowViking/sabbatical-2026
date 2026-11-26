@@ -28,7 +28,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 | Day | Plan |
 |---|---|
 | **Wed 20 Jan** | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
-| **Thu 21 Jan** | 🌅 The centre again at 08:00. ⛏️ **Cerro Rico mine tour** at 09:00, 3–4 h (optional). 🍲 Calapurca for lunch. 🚌 **Potosí → Sucre** after lunch (13:00 or 14:00). |
+| **Thu 21 Jan** | 🌅 The centre again at 08:00. ⛏️ **Cerro Rico mine tour** at 09:00, 3–4 h (optional), *or* the mint's 09:00 English tour, *or* a swim in the **Ojo del Inca** crater lake. 🍲 Calapurca for lunch. 🚌 **Potosí → Sucre** after lunch (13:00 or 14:00). |
 
 ## 🔖 Book (one click)
 
@@ -75,7 +75,8 @@ Bus Uyuni → Potosí, ≈ 4 h, semi-cama, from Uyuni's bus terminal. The schedu
 - Later buses run at 19:30, 20:30 and 21:00.
 - **Buy at the Uyuni terminal** when the tour drops you; nothing needs pre-booking unless a blockade has just lifted.
 - **Withdraw bolivianos in Uyuni first.**
-- You arrive at Potosí's **Nueva Terminal** (Av. Las Banderas), ≈ 2.7 km from the plaza: taxi ≈ Bs 15–20 (≈).
+- You arrive at Potosí's **Nueva Terminal** (Av. Las Banderas), ≈ 2.7 km from the plaza: taxi ≈ Bs 15–20 (≈). LP: ≈ B$10 to the new terminal, B$4 per person around the centre; micros I or A run between the new terminal and the cathedral for B$1.50 (LP).
+  - ⚠️ **LP says the Uyuni buses use the *old* terminal** (Av. Universitaria, ≈ 15 min downhill on foot from the centre), not the new one. Check the terminal on your ticket; from the old one you can walk.
 - **Soft day:** if the tour is delayed a day (Hito Cajón closure), drop Potosí and go Uyuni → Sucre direct on the night bus (Emperador / 6 de Octubre, 21:30 → 05:30, ≈ US$25 on Tickets Bolivia).
 
 ## 🛏️ Where to sleep
@@ -109,7 +110,7 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SloYtL8HqgqOyeF4R_XMNdGDm6Le7VkbsOzeVxIZyCHsrfJ-Y4HoWT0WcZ1bTuUFbdvIQlUnFuYCCa9E73uRn3QxjfQ56S6aCMr7M_SupOl9JRWjVdy_WtFTYTAx7mE4Uw3t92rw=w640-h400-p-k-no" width="100%" alt="Cerro Rico above the city"><br><b><a href="https://www.google.com/maps?ftid=0x93f94e98331792cf:0x83b0bf8449a74267">Cerro Rico mine tour</a></b> · ≈ Bs 100–150 + gifts<br>Optional and unique: a live, dangerous workplace. Go with ex-miners.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbdWbDSKBxsIZvTtCtXWapQVnSGpgTfoojuCtljfOQ16rn2qKKuj1O1-tOk472ZtPgVzCVMBTwcG3rfNTNLwuk2h1MiWks67rXY8cf3ULfC_AvEgX9mrUbaZgTfYpPcCHDm_2ezlflJNm9=w640-h400-p-k-no" width="100%" alt="The arcaded courtyard of the Casa Nacional de Moneda"><br><b><a href="https://www.google.com/maps?ftid=0x93f94e7a742dc163:0xf0943a56bebdf962">Casa Nacional de Moneda</a></b> · ≈ Bs 40 + Bs 20 photos<br>The colonial mint museum, with a 2-h guided tour. Optional.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbdWbDSKBxsIZvTtCtXWapQVnSGpgTfoojuCtljfOQ16rn2qKKuj1O1-tOk472ZtPgVzCVMBTwcG3rfNTNLwuk2h1MiWks67rXY8cf3ULfC_AvEgX9mrUbaZgTfYpPcCHDm_2ezlflJNm9=w640-h400-p-k-no" width="100%" alt="The arcaded courtyard of the Casa Nacional de Moneda"><br><b><a href="https://www.google.com/maps?ftid=0x93f94e7a742dc163:0xf0943a56bebdf962">Casa Nacional de Moneda</a></b> · ✅ Bs 70 (foreigners)<br>The colonial mint museum, guided tours only (≈ 1 h 30). Optional.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHHQTUwUpyWxBr0Pt09b4Trm9FfSR-WPBFyxLY7LZPXh0czdluLSQxyNJ9crAUXCfO2tSBFm_2_OYAUAQppayGQLI6cK_LItsHg24v_PQRBUlUjPKviKlaJRRYZNT32dNHeHURO0QLwbw=w640-h400-p-k-no" width="100%" alt="A walker on the path beside one of the Kari Kari lagoons"><br><b><a href="https://www.google.com/maps?ftid=0x93f94fc2db264dd1:0x589e40bfe216fa82">Kari Kari lagoons</a></b> · doesn't fit<br>A full day plus a guide or taxi (hike backlog).</td>
@@ -122,10 +123,21 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
   - **Price:** ≈ **Bs 100–150 (US$8.50–13)** booked in person, against Bs 200–350 on GetYourGuide/Viator; plus **Bs 20–40 of gifts** at the miners' market (coca leaves, juice or soda, work gloves).
   - Skip the dynamite: ethical guides discourage it.
   - Go with an operator run by **ex-miners**: Big Deal Tours, Koala Tours or Real Deal (≈ AI-summary leads; check the newest Tripadvisor reviews).
+  - LP's prices (older): Big Deal Tours (Bustillos 1092, run by current and former miners) B$150; Koala Tours (Ayacucho 5) B$130, Mon–Fri at **08:45 and 13:30**; Altiplano Tours (Ayacucho 19) B$140 (LP).
+  - LP: a serious operator makes you sign a disclaimer before going in; if yours doesn't, pick another.
   - **Ethics:** it's a live, dangerous workplace in cooperative tunnels with silica dust, not a museum. The case for going is that ex-miner operators put tour money into miners' pockets. The case against is voyeurism, and minors still work at the margins of some cooperatives (good guides keep away and don't stage anything).
   - **Skip it** if you're claustrophobic, have asthma, or would rather not watch people work in those conditions. It's the only paid sight in Potosí worth the money.
-- **Casa Nacional de Moneda** (colonial mint museum): ≈ **Bs 40** with a 2-h guided tour, + Bs 20 photo permit (Tripadvisor and packlightly.es; Tue–Sat). Optional.
+- **Casa Nacional de Moneda** (colonial mint museum), optional. ✅ casanacionaldemoneda.bo (26 Nov 2026):
+  - **Bs 70 for foreigners**, guided tours only, ≈ 1 h 30, up to 25 people, **daily**. The site lists QR payment, which foreign apps can't use, so bring cash and ask.
+  - **English tours Mon–Fri 09:00, 11:00 and 14:30** (Sat–Sun 09:15, 11:00); Spanish tours run about every half-hour 09:00–15:00 on weekdays.
+  - LP's older figures were B$40 + B$20 for photos, Tue–Sun; LP calls it one of South America's finest museums.
+  - **Mine or mint on Thu 21?** The 08:45–09:00 mine tour ends ≈ 12:30, after the 11:00 English mint tour has started. Pick one before a 13:00–14:00 bus, or do the mint at 09:00 and Koala's 13:30 mine tour, then take a later bus or a shared taxi to Sucre (see Leaving).
+- **Ojo del Inca, Tarapaya (outdoors, cheap; alternative to the mine):** a perfectly round, 30 °C green crater lake you can swim in, 21 km north-west of town (LP).
+  - Camiones from Mercado Chuquimia on Av. Antofagasta (near the old terminal) every ≈ 30 min, 06:00–19:00, B$4, 30 min; taxi ≈ B$70 one way. The last ride back leaves Tarapaya around 17:00–18:00 (LP).
+  - A morning there still makes the 13:00–14:00 bus to Sucre.
 - **Kari Kari lagoons** (hike backlog) needs a full day plus a guide or taxi: it doesn't fit one night. Add a night only if the tour runs early and the weather's dry.
+  - The lakes are colonial reservoirs at 4,500–5,000 m, built by forced indigenous labour to power the silver smelters. Agencies charge ≈ B$160–280 (≈ B$180 per person per day in a group of three; LP).
+- **Viewpoints:** LP's city viewpoints are church bell towers, so they're left out here. The free view of the Cerro Rico from the plaza and Calle Quijarro does the job.
 - Then take the **Potosí → Sucre** bus after lunch (stop 19).
 
 ## 🍽️ Eat and drink
@@ -139,15 +151,23 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
 
 These are ≈ AI-summary leads, Nov 2026.
 
+- **Mercado Central** (Calle Oruro, 06:00–19:00): cheap bread-and-coffee breakfasts in the comedor, juice stands downstairs, cheese or meat empanadas until early afternoon; street vendors sell humitas in the evening (LP).
+- **Café la Plata** on Plaza 10 de Noviembre for a coffee with a plaza view (LP).
+- **4.060** (Hoyos 1, from 16:00, Mon–Sat) is the travellers' bar with a good beer list (LP).
+
 ## ℹ️ Good to know
 - **Cold:** the coldest night of the section indoors (Jan low 4 °C, no heating).
 - **Rain:** 18 rain days in January: afternoon storms.
 - **Altitude:** 4,070 m, higher than anything since the tour, so walk slowly.
+- **Heating:** LP says only mid-range and better hotels heat their rooms, and cheap places can run short of blankets: sleep in the tour layers. Don't use a propane heater in a closed room if one is offered (LP).
+- **Money:** ATMs are common in the centre. Businesses on Bolívar, Sucre and in the market change US dollars; stalls on Héroes del Chaco also take euros and Chilean and Argentine pesos (LP).
+- **Tourist police:** ground floor of the Gobernación on Plaza 10 de Noviembre, with a branch at the new bus terminal (LP).
 
 ## 🚌 Leaving: Potosí → Sucre, Thu 21 Jan
 
 - Potosí's buses to Sucre also leave from the **Nueva Terminal**.
 - After a morning mine tour, take the **13:00 or 14:00**. Times, fares and the blockade warning are in the [Sucre guide](sucre.md).
+- **Faster option:** shared taxis to Sucre, ≈ B$50 and 2¼ h, can collect you from the hostel (Cielito Express, Correcaminos). They leave only when full, so a solo traveller does better going to their offices behind the old bus terminal on Av. Universitaria (LP). LP's flota fare was B$20, ≈ 3 h (LP).
 
 ---
 <sub>Photos: Google Maps contributors (Cerro Rico, Plaza 10 de Noviembre, Calle Quijarro, Casa Nacional de Moneda, Kari Kari, Kalaphurka Doña Mercedes, Salteñas Chikis).</sub>

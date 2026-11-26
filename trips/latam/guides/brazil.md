@@ -1,6 +1,6 @@
 # Brazil: region notes
 
-Part of the [LatAm itinerary](../itinerary.md). Stops: [Teresópolis / Serra dos Órgãos (optional)](teresopolis.md) · [Rio de Janeiro](rio-de-janeiro.md) · [Ilha Grande](ilha-grande.md) · [Paraty](paraty.md) · [São Paulo](sao-paulo.md) · [Curitiba + Serra Verde](curitiba.md) · [Foz do Iguaçu](foz-do-iguacu.md)
+Part of the [LatAm itinerary](../itinerary.md). Stops: [Teresópolis / Serra dos Órgãos (optional)](teresopolis.md) · [Rio de Janeiro](rio-de-janeiro.md) · [Ilha Grande](ilha-grande.md) · [Paraty](paraty.md) · [São Paulo](sao-paulo.md) · [Curitiba + Serra Verde](curitiba.md) · [Foz do Iguaçu](foz-do-iguacu.md) · Plan B: [Florianópolis](florianopolis.md)
 
 **1. Brazil: Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Foz do Iguaçu (Tue 8 – Mon 21 Dec 2026)**
 
@@ -37,3 +37,46 @@ Prices are in USD at R$ 5.958 = $1 (open.er-api.com, 24 Nov 2026). Beds were liv
 6. **Curtains:** confirmed only at **Lamparina (São Paulo), Cocos (Rio backup), Bambu (Foz)** and The Lodge's capsules. The Rio, Ilha Grande, Paraty and Curitiba picks have none or don't mention them.
 7. **Teresópolis option:** if chosen, every stop after Rio moves +2 days. Only Rio's bed was re-checked for the shifted dates; Ilha Grande, Paraty, São Paulo, Curitiba and Foz would need re-checking, along with the Serra Verde date (it would become Sun 20 Dec).
 8. **Stamps:** whether the direct Foz → Asunción buses stop for both border stamps is unverified. Ask the driver, or take the do-it-yourself route over the bridge.
+9. **Iguaçu high water (found 26 Nov):** recheck both before 19 Dec.
+   - The **Argentine Garganta del Diablo circuit has been closed since 3 Aug 2026**, with no reopening news by 25 Nov ✅ iguazuargentina.com.
+   - The **Brazilian Garganta do Diabo walkway closed again on 26 Nov** ≈ (local news).
+   - The other trails on both sides are open. Details are in the [Foz guide](foz-do-iguacu.md).
+
+---
+
+## Lonely Planet tips for Brazil
+
+From *South America on a Shoestring* (added 26 Nov 2026). Its prices date from about 2019, so treat them as ≈.
+
+**Eating cheap:**
+- The **prato feito** ("PF", also *refeição*) is the budget staple: rice, beans, farofa and a meat, chicken or fish. LP had R$ 12–20; ≈ R$ 25–40 now, per these guides.
+- **Por-quilo buffets** charge by weight (LP: R$ 45–80/kg; a full plate is about ½ kg). They're good for vegetables too.
+- **Portions are often for two.** A single portion can cost 60–70% of the double (LP), so ask for *meia porção* (half portion) or eat at buffets.
+- **Check the bill:** LP warns that overcharging and short-changing are common. A 10% service charge is usually added.
+- **Juice bars** are everywhere (≈ R$ 12–20 a glass in LP). Coconut water is the local remedy for heat and dehydration.
+
+**Money:**
+- **Card cloning is widespread** (LP). Use ATMs inside banks during banking hours, cover the keypad, and avoid stand-alone machines. Don't let your card out of sight; restaurants bring the card machine to the table.
+- Use a **4-digit PIN** (longer ones may fail). Visa is the most widely accepted card, then Mastercard.
+- LP's chapters disagree on Bradesco: Rio says avoid its ATMs (cloning), São Paulo calls them fee-free and foreign-friendly. **Banco do Brasil inside a branch** is the safe default.
+- Carry a small "decoy" wad of cash to hand over if robbed (LP).
+
+**Getting around:**
+- **Bus classes (LP):**
+  - *Convencional*: the basic class, usually with a toilet.
+  - *Executivo* / *semi-leito*: reclining seats, ≈ 25% more.
+  - *Leito* / *cama*: flat-ish beds, up to 2× the convencional fare.
+- The **air-con is cold**, so keep a fleece handy. Long-distance buses stop every 3–4 h.
+- **ClickBus** and **Busca Ônibus** show times and fares (LP).
+- **Uber and 99** are cheaper and safer than hailing taxis (LP). At night, use an app rather than walking empty streets.
+- **WhatsApp** is how hostels, guides and restaurants communicate (LP).
+
+**Health (LP):**
+- **Dengue** occurs in Rio state, so use repellent.
+- A **yellow-fever jab** is not required to enter but is highly recommended. It's free at clinics in major airports and border posts.
+- Tap water is safe but tastes bad.
+- The sun is strong: acclimatise before big hikes.
+
+**Season (LP):** December–March is high season. Beach towns fill up and prices rise; Paraty's room prices double from December to February. Hiking is best from April to October, so in December start early and finish before the afternoon storms.
+
+**Opening hours (LP):** restaurants serve lunch 12:00–14:30 and dinner 18:00–22:30. Shops close at 13:00 on Saturdays; banks open 09:00–15:00 on weekdays.

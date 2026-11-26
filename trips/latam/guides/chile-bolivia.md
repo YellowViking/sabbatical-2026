@@ -16,6 +16,19 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [San Pedro de Atacama](sa
 
 **Moon.** 37% on 14 Jan (sets ≈ midnight) → full on 22 Jan (Sucre) → 79% on 27 Jan. San Pedro's first two nights are the best for stars; the salt flat sunrise on 20 Jan has a bright moon (93%).
 
+**Clocks.** Chile is on summer time in January (UTC−3, LP), the same as Argentina. Bolivia is UTC−4, so set your watch **back 1 h at Hito Cajón (18 Jan)**, and Peru is another hour behind (LP), so **back 1 h again at Kasani (29 Jan)**.
+
+**Section tips from Lonely Planet** (*South America on a Shoestring*, researched ≈ 2019; per-stop details are in each guide, marked (LP)):
+- **Safety:** LP says crime against tourists is rising in La Paz and, less so, in Copacabana. It names Potosí's mine tours, the Death Road bike trips and the Uyuni 4WD tours as the activities where cheap agencies cut safety corners, so choose those three on safety, not price. Stay away from protests and blockades (LP).
+- **Scams:** fake police and "helpful" strangers are on the rise. Real police wear uniform and never make you get into a taxi with them, hand over your passport on demand or be searched in the street (LP).
+- **Buses:** keep valuables in the day pack on your lap, watch your bag go into the hold, keep the baggage tag, and padlock the pack. Look at the bus before you buy; the tourist buses to Copacabana and Uyuni cost about double but are safer (LP).
+- **Money:** refuse torn or very tatty notes (nobody will take them later) and only carry crisp US dollars. Bolivianos are hard to change outside Bolivia, so spend down before Peru (LP). In Chile, choose *tarjeta extranjera* at ATMs (fees up to ≈ US$10) and expect up to 6% extra on cards; San Pedro's ATMs often run dry (LP).
+- **Cheap eating:** lunch (almuerzo) is the main meal, and the best value is the set lunch in and around the markets (LP).
+- **Tipping (Bolivia):** 10–15% in restaurants; 10–20% for tour guides, whose pay is a small share of the tour price (LP).
+- **Toilets:** ≈ B$1 in towns and ≈ B$5 out on the altiplano; toilet paper goes in the bin, and carry your own (LP).
+- **Cheap rooms:** never run a propane heater in a closed room if one is offered (LP).
+- **Borders:** small unofficial "administration fees" at remote posts are common; LP's advice is to pay and move on (LP).
+
 ---
 
 ## Open issues: Chile + Bolivia
@@ -38,3 +51,9 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [San Pedro de Atacama](sa
    - Google Maps showed no seller prices for any of the 11 properties tried, so the Maps index check added nothing here.
 8. **Visa:** visa-free entry to Bolivia applies to US passports (since 1 Dec 2025); confirm for the passport actually used.
 9. Nothing here needs a sign-in. Cerro Toco, Pico Austria and the Death Road are bookable on arrival; only the jeep tour and the San Pedro bed (Chilean high season) are worth reserving ≈ 1–2 weeks ahead.
+10. **Where LP (≈ 2019) disagrees with the guides** (left as they are):
+    - LP says US citizens need a US$160 Bolivian visa; the guides' 3 Dec 2025 US Embassy notice (visa-free) is newer and wins.
+    - LP has Bolivian immigration in Uyuni town on the San Pedro tour; the operators' 2026 pages put it at Hito Cajón.
+    - LP says Potosí's **Uyuni buses use the old terminal** (Av. Universitaria), not the Nueva Terminal the Potosí guide assumes. Check the ticket on 20 Jan.
+    - LP lists the Tiquina launch as running 05:00–21:00; the Copacabana guide says the strait closes at 18:30. Either way the morning bus is fine.
+    - Fees have moved a lot since LP: the Valle de la Luna (CLP 3,000 in LP vs ✅ CLP 10,800), the Potosí mint (B$40 + B$20 vs ✅ Bs 70) and the Casa de la Libertad (B$15 vs ✅ Bs 50).

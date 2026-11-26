@@ -67,8 +67,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del Valle is ridden through, not stayed in** (rain/fog season).
 
 - **Recommended:** Flecha Bus **cama** 20:30 → Tucumán 04:30 (ARS 90,000 ≈ $55), or Andesmar semicama 20:15 → 04:30 (ARS 50,000 ≈ $30).
-  - Wait 1½ h in Tucumán's 24-h terminal, then **Aconquija 06:00 → Cafayate 12:31** (Tafí 08:35; ARS 44,000 ≈ $27).
+  - Wait 1½ h in Tucumán's 24-h terminal, then **Aconquija 06:00 → Cafayate 12:31** (Tafí 08:35; ARS 44,000 ≈ $27). The terminal is air-conditioned, with a supermarket, cafés and a tourist desk (LP).
   - That gives a free afternoon in Cafayate for the Río Colorado falls.
+  - **From the window:** the road climbs the Río Los Sosa gorge, then passes the La Angostura reservoir and **El Mollar**, whose plaza holds the Parque de los Menhires, carved standing stones about 2,000 years old (LP).
 - **More sleep:** El Práctico 23:45 → 07:10 (ARS 45,000 ≈ $27), then Aconquija 10:00 → 16:20. You lose the afternoon hike.
 - **Where to buy:** Plataforma10 or each operator's own site.
   - ✅ The Córdoba → Tucumán times are on sale for 7 Jan.
@@ -120,6 +121,7 @@ The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del
 - **Getting there:** walk 1 h 15, or take a 10-min remís.
 - **Guide and fee:** a **local Diaguita community guide is mandatory**, ≈ ARS 20,000 (≈ $12) for the first 3 falls or ≈ ARS 30,000 (≈ $18) for all 7, cash *(mid-2026 leads)*.
 - **Effort:** 5.5–6 km return, +240 m, 3–4 h, with boulder scrambling and wet rock.
+- **Swim and rock art:** a ≈ 10 m fall about 2 h upstream has a pool you can swim in, and there are rock paintings along the way (LP).
 - **Weather:** skip it if a storm is building (the gorge flash-floods).
 
 ### 🚲 Quebrada de las Conchas by bike + bus, Sat 9 (free)
@@ -129,8 +131,14 @@ The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del
   - Confirm the bike the day before at the terminal; drivers charge a small, discretionary luggage fee.
 - **Ride back:** ≈ 50 km on RN68, mostly gently downhill, past the Anfiteatro, Garganta del Diablo, Tres Cruces viewpoint, El Sapo, El Fraile, the Los Estratos / La Yesera side trail (1.5 km), El Obelisco, Las Ventanas, Los Castillos, Los Colorados and the **Los Médanos dunes**.
 - **Cost:** all viewpoints are free; there are no gates on RN68.
-- **Conditions:** carry 3 L of water. Ride in the morning, before the afternoon wind and heat.
+- **Conditions:** carry 3 L of water. Ride in the morning, before the afternoon wind and heat. The 50 km take ≈ 4 h of riding (LP).
+- **Bail-out:** if you tire or the wind turns, flag down a Cafayate-bound bus and put the bike in the hold (LP).
 - **No bike?** Sunday's bus to Salta drives the whole canyon (sit on the left).
+
+### More around town
+- **Cerro San Isidro / Cerro de la Cruz (free):** the white cross on the ridge above town. It's a steep pilgrimage path with ≈ 1,000 m of climbing, so a long morning (LP). Only worth it if storms cancel the bike day; ask the tourist office for the path.
+- **Tourist office** (Av. Güemes, beside the Museo de la Vid y el Vino): it hands out a list of winery opening hours (LP). The wine museum itself is paid, with a higher price for foreigners (LP).
+- **Skip:** the **Quilmes** ruins, 50 km south. LP rates them as Argentina's largest pre-Hispanic town (paid; buses to Santa María pass the turn-off, then 5 km on foot), but Peru and Bolivia ahead have bigger ruins.
 
 Paid wine tastings are optional; skip them unless you want one.
 
@@ -148,6 +156,9 @@ Paid wine tastings are optional; skip them unless you want one.
 </table>
 
 AI Mode leads; prices ≈.
+
+- **La Casa de las Empanadas** opens Tue–Sun, 11–15 h and 20–24 h; if it's shut, its second branch is at Nuestra Señora del Rosario 156 (LP).
+- **Cheaper sit-down dinners:** the no-frills grills on Rivadavia between San Lorenzo and 12 de Octubre (LP).
 
 ## ℹ️ Good to know
 - **Sun:** January sun in the valley is fierce: carry a hat and sunscreen, and start early.

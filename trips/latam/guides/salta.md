@@ -27,8 +27,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Sun 10 Jan** | 🚌 **11:30 Flecha Bus** from Cafayate through the Quebrada de las Conchas (sit on the left), arriving 15:20. Walk 20 min to Clivias. 🥾 **Cerro San Bernardo** on foot for the view. 🎶 Peñas on **Calle Balcarce** at night. |
-| **Mon 11 Jan** | 🌳 **Quebrada de San Lorenzo** in the morning (best then). 🏛️ **MAAM** (the Llullaillaco children). 🏧 Draw the pesos you need for the Quebrada. |
+| **Sun 10 Jan** | 🚌 **11:30 Flecha Bus** from Cafayate through the Quebrada de las Conchas (sit on the left), arriving 15:20. Walk 20 min to Clivias. 🏛️ **MAAM** this afternoon (last entry 18:30): ✅ it's **closed on Mondays**. 🎶 Peñas on **Calle Balcarce** at night. |
+| **Mon 11 Jan** | 🌳 **Quebrada de San Lorenzo** in the morning (best then). 🥾 **Cerro San Bernardo** on foot in the late afternoon, for the view at sunset. 🏧 Draw the pesos you need for the Quebrada. |
 | **Tue 12 Jan** | 🚌 **08:05 20 de Junio** to Jujuy (or Balut 09:30), then Evelia or Balut to Tilcara. |
 
 ## 🔖 Book (one click)
@@ -101,16 +101,19 @@ Live-checked 24 Nov.
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfUi5mu1Hx8cQdDeZ7A6Ea4a8hQcj25NEAC3NPy78oV62wCm9WVGslqWpKPWZsS3vxXWFNrDZ1TEwbIeDEPg82BvUTxCxoUJ85uFpoW3h1ksIa_1HGUsBSFnRR2LuOnASiaki4Yn8RygYt=w640-h400-p-k-no" width="100%" alt="Stream through the cloud forest in the Quebrada de San Lorenzo"><br><b><a href="https://www.google.com/maps?ftid=0x941beaf40f353b95:0x325a328cb0242805">Quebrada de San Lorenzo</a></b> · free<br>Riverside paths through the yungas cloud forest just outside the city. Morning is best.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXLx3DaDJ-qtWBppgcrFtIR-D_BwVg28BoCaeMoDvHJminFSzGZszq_2SOoe91b8DTu0hj_1fODpIaEfrQpqPyaS2vqf5szK9nzrV7I0yiiWBfPOvgaW4wWzxAh12eCMU2aowgSA=w640-h400-p-k-no" width="100%" alt="The MAAM building on Plaza 9 de Julio"><br><b><a href="https://www.google.com/maps?ftid=0x941bc3bb5a8a42eb:0xfb17e28e96770f08">MAAM</a></b>, Museo de Arqueología de Alta Montaña · paid, unique<br>The Inca children of Llullaillaco, the best-preserved high-altitude mummies anywhere.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0PHlu8lq29xNA6k4P9ykgsLxhq7kcbtqvexmVpbZxgVrgJLYy9wZyTbTWHJRKLAIJgrq0wqlT6Qnzj2TupIVPM8nRFSaA_o7Ohj-lJQ6xQjPhg_7U5Y1U-yk-UrvkbgWlhJBXNDfulvk=w640-h400-p-k-no" width="100%" alt="Folk musicians on stage at a peña in Salta"><br><b>Peñas on Calle Balcarce</b> · free entry<br>Live folk music at night; you pay for food and drinks. Photo from <a href="https://www.google.com/maps?ftid=0x941bc3b8a77392bf:0xf55bf9340c98a2c4">Peña La Vieja Estación</a>.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXLx3DaDJ-qtWBppgcrFtIR-D_BwVg28BoCaeMoDvHJminFSzGZszq_2SOoe91b8DTu0hj_1fODpIaEfrQpqPyaS2vqf5szK9nzrV7I0yiiWBfPOvgaW4wWzxAh12eCMU2aowgSA=w640-h400-p-k-no" width="100%" alt="The MAAM building on Plaza 9 de Julio"><br><b><a href="https://www.google.com/maps?ftid=0x941bc3bb5a8a42eb:0xfb17e28e96770f08">MAAM</a></b>, Museo de Arqueología de Alta Montaña · paid, unique · Sun 10<br>The Inca children of Llullaillaco, the best-preserved high-altitude mummies anywhere; one is on show at a time. Closed Mondays.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0PHlu8lq29xNA6k4P9ykgsLxhq7kcbtqvexmVpbZxgVrgJLYy9wZyTbTWHJRKLAIJgrq0wqlT6Qnzj2TupIVPM8nRFSaA_o7Ohj-lJQ6xQjPhg_7U5Y1U-yk-UrvkbgWlhJBXNDfulvk=w640-h400-p-k-no" width="100%" alt="Folk musicians on stage at a peña in Salta"><br><b>Peñas on Calle Balcarce</b> · free entry or a cover<br>Live folk music at night; you pay for food and drinks. Photo from <a href="https://www.google.com/maps?ftid=0x941bc3b8a77392bf:0xf55bf9340c98a2c4">Peña La Vieja Estación</a>.</td>
 </tr>
 </table>
 
-- **Cerro San Bernardo on foot (free).** About 1,000 stone steps from behind the Güemes monument, 15 min east of the plaza; ≈ 45 min up for the view over the valley. The cable car is paid; ride it down only if your knees want to.
+- **Cerro San Bernardo on foot (free).** About 1,000 stone steps from behind the Güemes monument, 15 min east of the plaza; ≈ 45 min up for the view over the valley. The cable car (from Parque San Martín) is paid; ride it down only if your knees want to. At the top there's a cascade garden and craft stalls (LP).
 - **Quebrada de San Lorenzo (free).** Riverside paths through the yungas cloud forest just outside the city. It's 30–40 min by SAETA city bus, which needs a SAETA card from kiosks by the plaza *(≈ lead)*. Morning is best.
-- **MAAM, Museo de Arqueología de Alta Montaña (paid, unique).** It holds the Inca children of Llullaillaco (a 6,739 m volcano), the best-preserved high-altitude mummies anywhere. No later stop does this; check the foreign-visitor fee at the door.
-- **Peñas on Calle Balcarce at night.** Live folk music; entry is free, you pay for food and drinks.
-- **Skip:** the Tren a las Nubes and Salinas Grandes tours. The Paso de Jama bus and the Uyuni tour cover the high Puna and the salt flats better.
+- **MAAM, Museo de Arqueología de Alta Montaña (paid, unique).** It holds the Inca children of Llullaillaco (a 6,739 m volcano), the best-preserved high-altitude mummies anywhere. No later stop does this.
+  - ✅ **Hours** (maam.gob.ar, 26 Nov): Tue–Sun 11:00–19:00, last entry 18:30; **closed Mondays**. So go on **Sun 10** after the bus.
+  - ✅ **One child at a time:** for conservation, only one of the three is on show, in rotation ("La niña del rayo" in Nov 2026).
+  - Fee: some museums charge foreigners more than Argentines (LP); check at the door.
+- **Peñas on Calle Balcarce at night.** Live folk music; you pay for food and drinks. The peña zone is the two blocks of Balcarce north of Alsina (LP). Some are free to enter; others add a cover charge, e.g. **Nora Julia** (Balcarce 887), with costumed singers and dancers (LP).
+- **Skip:** the Tren a las Nubes and Salinas Grandes tours. The Paso de Jama bus and the Uyuni tour cover the high Puna and the salt flats better. LP also calls the train famously unreliable.
 
 ## 🍽️ Eat and drink
 
@@ -127,8 +130,14 @@ Live-checked 24 Nov.
 
 These are AI Mode leads; prices are ≈.
 
+**Lonely Planet picks (LP):**
+- **La Tacita** (Caseros 396): baked empanadas, among the city's best, in a no-frills room; open daily.
+- **Chirimoya** (España 211): a vegan kitchen LP rates the most inventive in the region; Mon–Sat, lunch and dinner. Pricier ($$).
+- The cafés on the west side of Plaza 9 de Julio have tables on the square for a coffee or a beer.
+
 ## ℹ️ Good to know
 - **Cash:** Salta is the last big ATM town before Chile, so draw the pesos you need for the Quebrada (Hornocal 4x4, fees, food) here.
+- **Bus terminal:** it has ATMs, left luggage and a tourist desk (LP).
 
 ## 🚌 Leaving: Salta → Jujuy → Tilcara, Tue 12 Jan
 

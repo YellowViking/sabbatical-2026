@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Sun 27 Dec** | 🚌 EGA arrives at Tres Cruces 07:15. Drop the bag at MedioMundo by 07:45. 🛍️ **Feria de Tristán Narvaja** (≈ 09:00–14:00). 🌊 **Rambla walk** to Punta Carretas and Pocitos. 🥁 **Candombe drums** in Barrio Sur from ≈ 18:00–19:00 (lead). |
+| **Sun 27 Dec** | 🚌 EGA arrives at Tres Cruces 07:15. Drop the bag at MedioMundo by 07:45. 🛍️ **Feria de Tristán Narvaja** (≈ 09:00–14:00). 🌊 **Rambla walk** to Punta Carretas and Pocitos. 🥁 **Candombe drums** in Barrio Sur from ≈ 18:00–19:00 (✅ street candombe is mainly at weekends; the time is a lead). |
 | **Mon 28 Dec** | 🚌 **10:10 Rutas del Sol** to [Cabo Polonio](cabo-polonio.md). |
 | **Wed 30 Dec** | 🚌 Back from Cabo Polonio, Tres Cruces 20:10. Shop for New Year's Eve tonight or tomorrow morning. |
 | **Thu 31 Dec** · New Year's Eve | Morning: ⛰️ **Cerro de Montevideo** (or shopping, before supermarkets close early). From late morning: 📄 **paper and water wars** in Ciudad Vieja and Centro, and the 🍺 **cider and beer fight** at the Mercado del Puerto. City buses stop at ≈ 18:30. Evening: hostel asado or shared dinner. 🎆 **Midnight:** fireworks along the Rambla, from Playa Ramírez or Pocitos. |
@@ -123,7 +123,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QLqP8-NFgTyvH1bHSe0KetS36dgfAhNBWeczjBhp7Sm-L1a0NahxmnF8mUEcvO8CybhJ1Z5o_1pT9XwizE72nnyAkJrjYqgiTmMa_AcA5fsupjllPsu6g6x9DrbR2q-VwrJjhN=w640-h400-p-k-no" width="100%" alt="The Puerta de la Ciudadela, the old city gate of Montevideo"><br><b>Ciudad Vieja</b> · free<br>Plaza Independencia, the <a href="https://www.google.com/maps?ftid=0x959f802afe10cee1:0xb95846203de847c5">Puerta de la Ciudadela</a> (pictured), Peatonal Sarandí, and the Mercado del Puerto to look at.</td>
-<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Candombe_Montevideo_Uruguay.jpg/500px-Candombe_Montevideo_Uruguay.jpg" width="100%" alt="A candombe comparsa drumming through a Montevideo street"><br><b>Candombe drums</b> · free · Sun ≈ from 18:00–19:00<br>On Sunday evenings the comparsas rehearse by parading through Barrio Sur and Palermo. A lead: ask at the hostel.</td>
+<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Candombe_Montevideo_Uruguay.jpg/500px-Candombe_Montevideo_Uruguay.jpg" width="100%" alt="A candombe comparsa drumming through a Montevideo street"><br><b>Candombe drums</b> · free · Sun ≈ from 18:00–19:00<br>On Sunday evenings the comparsas rehearse by parading through Barrio Sur and Palermo. ✅ The city says street candombe is mainly at weekends and on holidays; ask at the hostel for the time.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SGsQS1PaHiKOs20X2dHboisz2_kYgc6wznzEK8DEz5PQR0fwTuNyPpY_on1qlxuDPrcZawbgVLPEOqE1BZel-5vyoISn7rSelnulTF3XflZSeiGIUcZApDBH2JclCMYEbd809np5DRWSLq=w640-h400-p-k-no" width="100%" alt="The terraces outside the Mercado del Puerto"><br><b>31 Dec street parties</b> · free<br>Paper and water wars in Ciudad Vieja and Centro, and the cider and beer fight at the <a href="https://www.google.com/maps?ftid=0x959f7f8458a9a267:0xab03acd0858658d2">Mercado del Puerto</a> (pictured).</td>
@@ -131,16 +131,18 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RdABkIMDDF2H2BF5aBVERa6ciZhy4ROGoOvpsywiOMs5p32wBIzlREdRyqoNZauSEZDe--ia7e9OGA7X3nlCHxmGiKzWBycE44l8_YW6sqAdfAevBTz0242egMQw-SnpOIo1a0-YzZ2Qf7=w640-h400-p-k-no" width="100%" alt="The view from the Fortaleza del Cerro back across the bay to Montevideo"><br><b><a href="https://www.google.com/maps?ftid=0x959f7e27fa3bce81:0x91081c7cde3f56f0">Cerro de Montevideo</a></b> · climb free; fort museum ≈ small fee<br>A short climb to the Fortaleza General Artigas for the classic view back across the bay.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7k_6lNjiCfKcKycioWlX1_L_3r4VvOSqrSpRFQhLNugTcPByiaV3jjabKy6fpFKkIxJLOTMLhUvOEIGFv_wnD67mw5CpJoSv2RsM9ZLUqcEo0n8Fl7gjXXGGn3AJ_5ueDJxsc=w640-h400-p-k-no" width="100%" alt="The colourful facade of the Museo Nacional de Artes Visuales"><br><b><a href="https://www.google.com/maps?ftid=0x959f80fe2cbd4047:0xbe0e3d9eab16a8a6">Museo Nacional de Artes Visuales</a></b> · free ≈<br>In Parque Rodó, 5 min from the hostel. Check the Sunday hours.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7k_6lNjiCfKcKycioWlX1_L_3r4VvOSqrSpRFQhLNugTcPByiaV3jjabKy6fpFKkIxJLOTMLhUvOEIGFv_wnD67mw5CpJoSv2RsM9ZLUqcEo0n8Fl7gjXXGGn3AJ_5ueDJxsc=w640-h400-p-k-no" width="100%" alt="The colourful facade of the Museo Nacional de Artes Visuales"><br><b><a href="https://www.google.com/maps?ftid=0x959f80fe2cbd4047:0xbe0e3d9eab16a8a6">Museo Nacional de Artes Visuales</a></b> · free ✅ · Tue–Sun 13:00–20:00<br>Uruguay's largest painting collection (Blanes, Figari, Torres García), in Parque Rodó, 5 min from the hostel. ✅ mnav.gub.uy.</td>
 </tr>
 </table>
 
 **Sunday 27 Dec:**
-- **Feria de Tristán Narvaja:** the huge Sunday flea and food market in Cordón, ≈ 09:00–14:00. Free; 1.5 km from the hostel.
-- **Rambla walk:** Parque Rodó → Punta Carretas lighthouse → Pocitos beach, ≈ 6 km of waterfront. Free.
-- **Or the other way, to Ciudad Vieja:** [Plaza Independencia](https://www.google.com/maps?ftid=0x959f802b0e1d1f07:0x7d9cac3abf570af3), [Puerta de la Ciudadela](https://www.google.com/maps?ftid=0x959f802afe10cee1:0xb95846203de847c5), [Peatonal Sarandí](https://www.google.com/maps?ftid=0x959f7f80806f152b:0x6e2990084a9e2348), the Mercado del Puerto to look at. Also free.
-- **Candombe drums:** the comparsas parade through Barrio Sur and Palermo (around Isla de Flores / Carlos Gardel streets), ≈ from 18:00–19:00. Free; this is a lead, so ask at the hostel.
-- **Free museums:** the Museo Nacional de Artes Visuales in Parque Rodó, 5 min from the hostel ≈ (check the Sunday hours).
+- **Feria de Tristán Narvaja:** the huge Sunday flea and food market in Cordón, ≈ 09:00–14:00 (LP: to 16:00). Free; 1.5 km from the hostel. It runs north from Av 18 de Julio along Calle Tristán Narvaja and into the side streets (LP).
+- **Rambla walk:** Parque Rodó → Punta Carretas lighthouse → Pocitos beach, ≈ 6 km of waterfront. Free. LP's tip: the whole Rambla is a ≈ 20 km walking and cycling path, from Ciudad Vieja past Parque Rodó, Punta Carretas, Pocitos, Buceo and Malvín to Carrasco; Orange Bike (Pérez Castellano 1417, Ciudad Vieja) rented bikes by the half or whole day (LP).
+- **Or the other way, to Ciudad Vieja:** [Plaza Independencia](https://www.google.com/maps?ftid=0x959f802b0e1d1f07:0x7d9cac3abf570af3), [Puerta de la Ciudadela](https://www.google.com/maps?ftid=0x959f802afe10cee1:0xb95846203de847c5), [Peatonal Sarandí](https://www.google.com/maps?ftid=0x959f7f80806f152b:0x6e2990084a9e2348), the Mercado del Puerto to look at. Also free. LP calls the Mercado del Puerto unmissable and says it's liveliest on weekend afternoons, with artists, craftspeople and street musicians (LP).
+- **Candombe drums:** the comparsas parade through Barrio Sur and Palermo (around Isla de Flores / Carlos Gardel streets), ≈ from 18:00–19:00. Free; ask at the hostel for the time.
+  - ✅ The city's tourism site (descubrimontevideo.uy/candombe) says street candombe is played mainly at **weekends and on public holidays**, so Sunday 27 fits. It also offers **Latido Afro**, a free self-guided route through Barrio Sur and Palermo.
+  - LP: comparsas practise informally at weekends all year, and the drummers mostly parade along **Isla de Flores, from Salto to Gaboto** (LP).
+- **Free museums:** the Museo Nacional de Artes Visuales in Parque Rodó, 5 min from the hostel: ✅ free, Tue–Sun 13:00–20:00 (mnav.gub.uy). **Casa Rivera** (Rincón 437, Ciudad Vieja), the National Historical Museum in the first president's 1802 house, is free and open ≈ Wed–Sun 12:00–17:45 (LP).
 - Optional, for a keen hiker who speaks Spanish: **Sierra de las Ánimas** (see below). It is only open on weekends, so Sunday 27 Dec is the only possible day.
 
 **New Year's Eve:**
@@ -151,6 +153,18 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - There is **no official city display**: none was announced as of Oct 2026, and private fireworks are thinning out year by year. Free; nothing to book.
 - **31 Dec morning: Cerro de Montevideo** (you're only back from Cabo Polonio at 20:10 on 30 Dec), a short climb to the Fortaleza General Artigas for the classic view back across the bay (bus ≈ 40 min; the climb is free, the fort museum ≈ small fee).
 - Rambla by bike or on foot; a dip at Playa Ramírez or Pocitos.
+
+**More, from Lonely Planet (not live-checked; holiday hours may differ):**
+- **Free, weekdays (so Thu 31 Dec morning):**
+  - **Museo del Gaucho** (Av 18 de Julio 998, in the ornate Palacio Heber): gaucho horse gear, silverwork and maté gourds. LP rates it a top sight. Free, ≈ Mon–Fri 10:00–16:00 (LP).
+  - **Museo Figari** (Juan Carlos Gómez 1427, Ciudad Vieja): free, ≈ Tue–Fri 13:00–18:00 (LP).
+  - **Museo Blanes** in the Prado: free, ≈ Tue–Sun 12:00–18:00 (LP).
+- **Paid, but unique to Montevideo** (prices are LP's and long out of date):
+  - **Museo del Carnaval** (Rambla 25 de Agosto 218, by the Mercado del Puerto): costumes, drums and masks from a century of Carnaval, with a courtyard for summer performances. ≈ Daily 11:00–17:00, Dec–Mar (LP). Carnaval itself starts in January at the earliest (LP), so this is the way to see it on these dates.
+  - **Museo Andes 1972** (Rincón 619): the story of the Uruguayan rugby team's plane crash in the Andes, told with objects from the site. ≈ Mon–Fri 10:00–17:00, Sat to 15:00, closed Sunday (LP).
+  - **Museo del Fútbol** at the Estadio Centenario, the 1930 World Cup stadium: memorabilia from the 1930 and 1950 World Cup wins, plus a look at the stands. ≈ Mon–Fri 10:00–17:00 (LP).
+  - **Teatro Solís** guided tours: cheap, and free on Wednesdays (LP), but you're at Cabo Polonio that Wednesday.
+- **Mercado Agrícola (MAM)** (José Terra 2220, 2.5 km north of the centre, ≈ 09:00–22:00): a restored market hall with food stalls, cafés and Mastra's brewpub (LP).
 
 <details><summary><b>Sierra de las Ánimas: does it work en route? Mostly no.</b> (✅ official site, sierradelasanimas.com)</summary>
 
@@ -169,6 +183,12 @@ So it can't be a stop on the way to Cabo Polonio with bags. The only fit is **Su
 
 **Recommendation: skip it** unless you speak Spanish and feel fresh after 18 h on the bus.
 
+**An alternative that LP lists as open every day: Cerro Pan de Azúcar** (389 m, Uruguay's fourth-highest hill), ≈ 5 km north of Piriápolis.
+- The trail is ≈ 2½ h return from the car park of the Reserva de Fauna Autóctona: a dirt track, then a steep path marked with red arrows (LP).
+- **Castillo de Piria**, the town founder's extravagant mansion, is across the road and free, ≈ 09:00–18:00 (LP).
+- Montevideo → Piriápolis is ≈ 1½ h by COT or Copsa (LP). The local leg to the trailhead isn't checked ≈.
+- It could fill Sun 27 or the morning of Thu 31 Dec, but neither is a rest day, so treat it as optional.
+
 </details>
 
 ## 🍽️ Eat and drink
@@ -185,13 +205,26 @@ So it can't be a stop on the way to Cabo Polonio with bags. The only fit is **Su
 </table>
 
 - **Uruguay is expensive,** so cook at the hostel and buy at Tienda Inglesa, Disco or Devoto.
+- **Eating out cheaply (LP):**
+  - The weekday **menú ejecutivo** (fixed-price lunch) is the budget way to eat out; LP puts it at US$10–15 (LP). Most restaurants add a small **cubierto** (cover charge for the bread), and a 10% tip is normal (LP).
+  - **Bar Tasende** (Ciudadela × San José, since 1931): *muzzarella al tacho* pizza slices, a cheap snack with a beer (LP).
+  - **Café Brasilero** (Ituzaingó 1447, Ciudad Vieja, since 1877; Mon–Sat): a wood-panelled old café with a good-value menú ejecutivo (LP).
+  - **Shawarma Ashot** (Zelmar Michelini 1295, Centro; closed Sunday): cheap falafel and shawarma (LP).
+  - **La Pulpería** (Lagunillas × Nuñez, Punta Carretas): a small neighbourhood parrilla with no sign, open for Sunday lunch ≈ 12:00–16:00, so it fits the 27 Dec Rambla walk (LP).
+- **Near the hostel (LP):** **El Club del Pan** bakery (Pablo de María × Muller, Tue–Sat, lunchtime sandwiches) and **Escaramuza**, a bookshop-café (Pablo de María 1185, Mon–Sat). The Parque Rodó–Cordón bars cluster around **Canelones × Juan Jackson**, a few blocks away; Baker's Bar (Pablo de María 1198) is one (LP).
+- **Craft beer (LP):** **Mastra**, Uruguay's best-known microbrewery, has its main pub in the Mercado Agrícola (four-beer tasting board on weekdays) and another in Pocitos (26 de Marzo × Pérez). The **Shannon Irish Pub** (Bartolomé Mitre 1318, Ciudad Vieja) pours Uruguayan microbrews with live music every night (LP).
+- **Tango:** **Fun Fun** (Tue–Sat from 20:00), a tango bar since 1895 known for its *uvita* wine drink. LP had it at Soriano 922 but expected it to move back to the Mercado Central, so check the address (LP). Wed 30 is the only night that fits.
 - **New Year:** shop on **30 Dec or the morning of 31 Dec**. Supermarkets close early on the 31st, and almost everything is shut on 1 Jan.
 - A **hostel asado or shared dinner on the 31st** is the cheap way to do the night.
 
 ## ℹ️ Good to know
 - **Weather:** Uruguay is mid-summer (≈ 28 °C) and sunny, with strong wind on the Rambla.
-- **Safety:** Ciudad Vieja is dodgy late at night, so take the bus or Uber back.
+- **Safety:** Ciudad Vieja is dodgy late at night, so take the bus or Uber back. (LP says a city clean-up has cut petty crime there, but the advice stands.)
 - **Sunday arrival:** most shops are shut, but the market and the Rambla are lively.
+- **Tres Cruces** has left luggage, ATMs, a tourist office and the Indumex exchange (≈ 06:00–24:00) (LP).
+- **City buses (LP):** the **CA1** from the east side of Tres Cruces runs along Av 18 de Julio to Ciudad Vieja; the **174** goes to Punta Carretas and the **183** to Pocitos. The city's "Cómo ir" planner (montevideo.gub.uy) gives routes (LP).
+- **Taxis** are metered and cost 20% more 22:00–06:00 and on Sundays and holidays; Uber is widely used (LP).
+- **Money (LP):** ATMs with the green Banred or blue Redbrou logo take foreign cards. Many also give US dollars, but only in $100 multiples. Where a price is quoted in dollars, paying in pesos often works out cheaper. There is no parallel "blue" rate in Uruguay (LP).
 - ⚠️ **City buses run until ≈ 18:30 on 31 Dec and not at all on 1 Jan** (Día del Transportista).
 - Taxis get scarce from ≈ 16:00 on the 31st, and Uber is slow.
 - Inter-city departures thin out after 18:00 on the 31st.

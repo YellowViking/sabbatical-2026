@@ -72,7 +72,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - 08:00 Trans Titicaca;
   - 08:00, 10:00 and 13:30 Manco Kapac.
 - At the **[Tiquina strait](https://www.google.com/maps?ftid=0x915e81d103237d29:0xf3d16e5755f08d9)** you get off and cross by launch (≈ Bs 2) while the bus goes on a barge.
-- The strait closes at 18:30, so there are **no evening buses**.
+- The strait closes at 18:30, so there are **no evening buses**. (LP lists the launch at B$2 a person and 05:00–21:00, 15 min across; LP.)
+- LP's alternative: cheaper minibuses (≈ B$20–25) from La Paz's Cementerio area, against ≈ B$30 for the tourist buses, which LP thinks are worth it (LP).
 
 ## 🛏️ Where to sleep
 
@@ -126,13 +127,16 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 **Wed 27 Jan, to the island:**
 - Arrive ≈ 11:30. Leave the big bag at the night-2 hostel.
 - Take the **13:30 boat to Yumani** (south, ≈ 1.5 h, ≈ **Bs 30–40** one way at the pier). Buy at the pier office and insist on a ticket.
+  - LP: the boat co-operative **Asociación Unión Marines** sells at kiosks on the beach, B$20 one way / B$30 return, leaving Copacabana at **08:30 and 13:30**. Boats back leave Yumani at **10:30 and 15:00–16:00** (B$25). Buy direct, not through the agencies on Av. 6 de Agosto (LP).
 - Climb the Inca stairway (steep: go slowly). Sunset from the ridge, then sleep on the island.
+  - LP: the **Escalera del Inca** gains almost 200 m in under 1 km, past terraced gardens (fee B$10). Donkeys carry a pack up for ≈ B$30 (LP).
+  - **Pilko Kaina** ruins: a two-storey Inca palace on a terraced slope, ≈ 2 km (30 min) south of Yumani, B$10 (LP). Good for the late afternoon, and the obvious extra if the north is closed. Mirador Palla Khasa is a viewpoint just north of Yumani (LP).
 
 **Thu 28 Jan, the ridge walk:**
 - Start at 07:00 and walk the ridge **Yumani → Challa → Challapampa**, ≈ 8–12 km, 3–4 h, up to 4,050 m.
 - **Community fees** in cash, small notes; keep every stub: Yumani ≈ Bs 10–20, Challa ≈ Bs 5–20, Challapampa (Chincana ruins and the Sacred Rock) ≈ Bs 10–15.
 - **Boat back** from Challapampa ≈ 13:00–13:30.
-- **If the north is closed:** walk to the Challa boundary and back, then take the 15:00–16:00 boat from Yumani.
+- **If the north is closed:** walk to the Challa boundary and back, add the **Pilko Kaina** ruins south of Yumani (LP), then take the 15:00–16:00 boat from Yumani (or LP's 10:30).
 - Night 2 in Copacabana.
 
 **Fri 29 Jan:** sunrise on the **Horca del Inca** (Kesanani) hill, an Inca astronomical stone, or the Calvario hill viewpoint above the bay; then the bus to Puno.
@@ -141,7 +145,8 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 - AllTrails hikers logged the full Challapampa ↔ Yumani walk in **Aug, Sep and Oct 2026**.
 - Take Your Backpack (Oct 2026) describes separate north and south fees; Bus Hop and Bolivian Life say open.
 - La Paz Life (Aug 2026) still calls the north "intermittently restricted" by the long-running community dispute (since ≈ 2017).
-- **Verdict: likely open.** Ask your Copacabana hostel the day before, and treat the south as the fallback.
+- LP (researched ≈ 2019) still had visitors limited to Yumani and La Estancia. It links the closure to the unsolved 2018 killing of a tourist thought to have strayed north during a row between Cha'lla and Cha'llapampa, and says not to test a guard post (LP).
+- **Verdict: likely open.** Ask your Copacabana hostel the day before, and treat the south as the fallback. **If anyone on the trail tells you to turn back, turn back.**
 
 ## 🍽️ Eat and drink
 
@@ -154,17 +159,26 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 
 Prices are ≈ AI-summary leads, Nov 2026.
 
+- **From LP:**
+  - The beachfront trout stalls (from B$25, 08:00–21:00) serve some of the best fish, but hygiene is questionable: pick a busy one (LP).
+  - The **market comedor** is the cheapest meal in town, with trout for very little and an api morado + buñuelo breakfast for ≈ B$7 (LP).
+  - On the island, set lunches and dinners ran B$25–30 and the menus are much alike; **Las Velas** in Yumani (from 16:00) is the candlelit sunset pick (LP).
+
 ## ℹ️ Good to know
 - **The wettest stop of the trip:** 185 mm, rain on 19 January days; mornings are usually dry.
 - **Boats can be cancelled in storms**, so keep 29 Jan's bus to Puno for after midday.
 - **Cash only on the island:** no ATMs there, and Copacabana's run dry at weekends (the 27th is a Wednesday, so you're fine).
 - **Altitude:** 3,810–4,050 m.
+- **Sun:** LP warns of fierce UV off the lake at this altitude: hat, sun cream and plenty of water on the ridge walk (LP).
+- **Money before Peru:** ATMs on Plaza Sucre; shops on Av. 6 de Agosto change clean US dollars and most craft shops sell Peruvian soles. Bolivianos are hard to change outside Bolivia, so spend or swap them here (LP).
 - **Candelaria:** Copacabana's big festival is 2–5 Feb, after you leave.
 
 ## 🚌 Leaving: bus to Puno, Fri 29 Jan
 
 - **Titicaca Bolivia Bus 13:30 → 16:30, US$10** (or 18:00), via the Kasani / Yunguyo border.
 - Keep it for after midday in case a boat is cancelled.
+- ⚠️ **Peru is 1 h behind Bolivia** (LP): check whether the 13:30 → 16:30 times are Bolivian or Peruvian.
+- **DIY fallback** (LP): a minibus from Plaza Sucre to the Kasani border (B$4, 15 min, leaves when full), walk across after the exit stamp, taxi or mototaxi to Yunguyo (≈ S/3, 5 min), then a bus to Puno (≈ 2½ h). Keep your backpack with you at the border (LP).
 - Border steps, other operators and the Puno bed are in the [Puno guide](puno.md).
 
 ---

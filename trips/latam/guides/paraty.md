@@ -133,6 +133,15 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - **(b) Cachoeira do Tobogã** (a natural rock waterslide, free). Colitur L14 "Penha", R$ 5.00 ✅: out **06:30**, back **10:45** (the 08:00 runs only to Pantanal). Then take the 13:40 bus.
 - **Historic centre on foot:** free. The cobbled streets flood at high tide; sunset at the Pontal.
 
+**From Lonely Planet** (*South America on a Shoestring*):
+- **Tobogã tips (LP):**
+  - Get off the Penha bus by the church and follow the signs about 100 m downhill.
+  - **Slide sitting down.** Signs warn against standing up, though local teenagers do it.
+  - Bar do Tarzan is across the swing bridge.
+- **Bay islands by schooner:** boats leave daily from the Cais de Turismo at the south-east edge of the centre, ≈ R$ 65 a person (LP). Paid; Trindade is the free beach option.
+- **Backlog (LP):** Paraty Explorer, on Jabaquara beach, runs sea-kayak trips (from ≈ R$ 170) and guided hikes. Two of the hikes are to the Cachoeira Melancia in the Serra da Bocaina (≈ R$ 200) and to the Pão de Açúcar do Mamanguá above the Mamanguá fjord (≈ R$ 300). Neither fits in one night.
+- **Evening:** Margarida Café on Praça do Chafariz has live music most nights (MPB, bossa nova, jazz) (LP); it's still on Google Maps.
+
 ## 🍽️ Eat and drink
 
 <table>
@@ -152,9 +161,16 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Cervejaria Caborê**, ≈ 450 m (6 min on foot) north of the rodoviária, brews its own beer (tasting flight).
 - Cachaça shops in the centre give tastings ≈.
 
+**Budget picks from LP** (both still on Google Maps, 26 Nov):
+- **[Maria Fulô Bistrô](https://www.google.com/maps?ftid=0x9d6d21c052f8a5:0x38b4dff45f39a7b2)**, R. Presidente Pedreira, just outside the historic centre. It serves a healthy **prato feito at lunch (≈ R$ 26, LP)** and filled tapiocas in the evening. LP gives its hours as Mon–Sat 12:00–23:00, so Monday evening works.
+- **[Quiosque Dito e Feito](https://www.google.com/maps?ftid=0x9d6d1f9f2c717d:0x924e63db16a92311)**, a beach kiosk on Praia do Pontal (10:00–18:00, LP). It's where locals send you for cheap fresh fish or a moqueca. Portions are huge, but **half portions** are available on request (LP), which suits a solo traveller.
+
 ## ℹ️ Good to know
 - **Bus ticket:** Mobifácil's checkout fee and whether it needs a CPF are unknown. If it does, buy at the Paraty rodoviária counter with your passport on Monday evening.
 - **Tides:** the historic centre's cobbled streets flood at high tide.
+- **High season (LP):** from December to February rooms fill up and prices double. Your bed is already chosen, so book it.
+- **ATMs (LP):** Bradesco and Banco do Brasil are two blocks north of the bus station on Av. Roberto Silveira.
+- **Tourist office (LP):** the CIT is at Av. Roberto Silveira 1, at the entrance to the historic centre (09:00–21:00).
 
 ## 🚌 Leaving: Paraty → São Paulo Tietê, Tue 15 Dec
 

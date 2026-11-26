@@ -143,6 +143,13 @@ No cars on the island; every trail starts in Abraão.
 - **Mon 14:** a 07:00 shore walk only (Abraãozinho), before the 10:00 ferry.
 - **Backlog:** the Ilha Grande circuit (about 90 km, 4–6 days) does not fit.
 
+**From Lonely Planet** (*South America on a Shoestring*):
+- **Lopes Mendes:** LP gives the trail as **6.1 km and about 3 h**. It starts at the eastern end of Abraão's beach and crosses the hill to Palmas, then follows the coast to Pouso. **Lopes Mendes is a 15-min walk on from Pouso.** LP's tip is to walk one way and take the boat the other. Surfboards can be hired on the beach (LP).
+- **Trails:** maps around the village show **16 signposted trails** to the island's 102 beaches (LP). Before you set off (LP):
+  - Tell the hostel your route and expected return time.
+  - Carry water, repellent and a **torch**: it gets dark fast under the canopy.
+  - Off the main routes, hire a guide. Trails can be poorly marked, and there are venomous snakes.
+
 ## 🍽️ Eat and drink
 
 <table>
@@ -153,9 +160,12 @@ No cars on the island; every trail starts in Abraão.
 </table>
 
 ## ℹ️ Good to know
-- **Cash:** bring it from Rio (≈ R$ 400 for 2 days), because Abraão's couple of ATMs run dry.
+- **Cash:** bring it from Rio (≈ R$ 400 for 2 days), because Abraão's couple of ATMs run dry. LP goes further and says there are **no ATMs on the island**. Many places take cards, and in a pinch some accept foreign cash (LP).
 - **Rain:** December afternoons bring heavy rain, so hike in the morning.
 - **Bugs:** bring mosquito repellent.
+- **High season:** prices are at their peak in December. LP says they fall by up to 50% from April to November.
+- **Food:** restaurants cluster on Rua da Praia, Rua Getúlio Vargas and the Travessa Buganville (LP). LP rates Café do Mar's *pratos do dia* as reasonable by island standards.
+- **Health:** a 24-h first-aid post (Serviço de Pronto Atendimento) is on Rua Getúlio Vargas (LP).
 
 ## 🚌 Leaving: Abraão → Paraty, Mon 14 Dec
 

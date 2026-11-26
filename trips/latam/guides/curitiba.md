@@ -129,6 +129,16 @@ All live-checked on 24 Nov.
 - **Largo da Ordem** and the historic centre at dusk: free.
 - **Parque Tanguá / Barigui:** free. Ópera de Arame is ≈ R$ 30, Tue–Sun 10:00–18:00 (local guide only), so skip it unless you have spare time.
 
+**From Lonely Planet** (*South America on a Shoestring*):
+- **Museu Oscar Niemeyer (MON)** (R. Marechal Hermes 999): LP's top Curitiba sight. The eye-shaped tower is free to see from outside.
+  - Entry is ≈ R$ 20 (LP), **free on Wednesdays only** (LP), so **Thu 17 is a paid day**. Tue–Sun 10:00–18:00.
+  - Inside are rotating 20th–21st-century art shows and a good exhibit on Niemeyer himself.
+  - Bus 505 from Passeio Público stops at the door (LP).
+- **Curitiba Free Walking Tour** (LP; tips only): **Saturdays only**, 11:00 from the steps of the old UFPR building on Praça Santos Andrade, and only if it isn't raining ≈ (Google summary, 2026). It **doesn't fit** Thu–Fri.
+- **Mercado Municipal** (next to the Rodoferroviária): LP lists it as Brazil's first organic food court. Hours (LP): Mon 07:00–14:00, Tue–Sat 07:00–18:00, Sun to 13:00. It suits a Thursday-afternoon snack.
+- **Evening (LP):** on warm nights the bars around **Praça Garibaldi and the Largo da Ordem** spill onto the street. Batel's Av. Vicente Machado is the late-night strip.
+- **Backlog (LP):** **Ilha do Mel**, a car-free island of wild beaches and coastal walks, which LP calls southern Brazil's most picturesque beach spot. From Morretes, a bus runs to Paranaguá (≈ 1 h, LP), then a boat to the island (1½–2 h). It doesn't fit the Friday night bus.
+
 **Fri 18: Serra Verde Express Curitiba → Morretes, 08:30**
 - ✅ **It runs on Fri 18 Dec**, per serraverdeexpress.com.br's own booking API. It leaves from the Rodoferroviária. The operator gives "about 4 h 30" for the trip, so you arrive ≈ 12:30–13:00.
 - **One-way fares** ✅ (495 of 1,118 seats already sold):
@@ -172,7 +182,7 @@ All live-checked on 24 Nov.
 
 - **Curitiba:** the Mercado Municipal, next to the Rodoferroviária, for a quick lunch or dinner (prices ≈).
 - **Craft beer** (Curitiba is Brazil's craft-beer capital), LP leads; check they're still open ≈:
-  - **Hop'n Roll**, R. Mateus Leme 950: 32 taps.
+  - **Hop'n Roll**, R. Mateus Leme 950: 32 taps plus 120+ bottles, and some house brews. It opens from 17:30; LP says to **book ahead** for a seat.
   - **We Are Bastards**, Av. Iguaçu 2300: 31 taps.
 - **Morretes: barreado**, beef slow-cooked for hours in a sealed clay pot and served with banana and farofa. It's usually an all-you-can-eat (rodízio) at ≈ R$ 55–60 ($9–10). [Madalozo](https://www.google.com/maps?ftid=0x94dc870c547ae39d:0x72dbb45107212737) is R$ 59.90 (festival price) and [Casario](https://www.google.com/maps?ftid=0x94dc876d68fe0fb9:0x90ae7858011d726d)'s buffet R$ 55.90, both from their Instagram ≈.
 
@@ -180,6 +190,12 @@ All live-checked on 24 Nov.
 - **Book now:** the Econômico train seats (67 left) and the 16:10 Graciosa bus (10 seats).
 - **Weather:** Curitiba is cooler than the coast: ≈ 15–25 °C in December, with afternoon rain.
 - **Your pack on Friday:** leave it at the hostel or in the Rodoferroviária lockers (see the train notes above).
+- **Finding your way in the Rodoferroviária (LP):** it's three blocks in a row. The departure areas are for ticket holders only.
+  - **Interstate counters** (Catarinense, Penha, Cometa) are on the **2nd floor of the first block**.
+  - **Paraná companies** (Graciosa) are on the **2nd floor of the second block**.
+  - The **train station** (Serra Verde Express) is the block behind the two bus blocks.
+  - There's a tourist-info desk, open 09:00–18:00 (LP).
+- **City buses (LP):** the "tube" stations (*tubos*) are paid on entry. LP's fare of R$ 4.25 is out of date, so check it.
 
 ## 🌙 Leaving: night bus Curitiba → Foz do Iguaçu, Fri 18 → Sat 19 Dec
 

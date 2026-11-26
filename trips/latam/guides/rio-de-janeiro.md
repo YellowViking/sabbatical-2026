@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Tue 8 Dec** | ✈️ AA lands at GIG 09:25. 🚇 BRT + metro to Siqueira Campos (≈ 1 h 20), reaching Copacabana ~11:00. Beach, then **Arpoador rock for sunset** (free). |
+| **Tue 8 Dec** | ✈️ AA lands at GIG 09:25. 🚇 BRT + metro to Siqueira Campos (≈ 1 h 20), reaching Copacabana ~11:00. Beach, then **Arpoador rock for sunset** (free). Or, if you'd rather be out of the sun: **MAR is free on Tuesdays** ✅, next to the Boulevard Olímpico murals (LP). |
 | **Wed 9 Dec** | 🥾 **Pico da Tijuca** (1,021 m, backlog): Uber to Bom Retiro, ≈ 1 h 30 up. **Tijuca Mirim** and **Cascatinha Taunay** on the way down. |
 | **Thu 10 Dec** | 🥾 **Pedra Bonita** (696 m) at sunrise. Or, if clear, **Pedra da Gávea** (844 m) with a guide. |
 | **Fri 11 Dec** | 🌅 Morning: **Morro do Leme** fort + **Caminho dos Pescadores**. ⛰️ Afternoon: **Urca** (Cláudio Coutinho → Morro da Urca trail; Sugarloaf optional). 🍺 Hocus Pocus DNA in Botafogo. 🎶 Evening: **Pedra do Sal** (Friday roda ≈). |
@@ -168,6 +168,19 @@ All three were live-checked on 24 Nov.
 
 **Daily, free:** Arpoador rock for sunset; the 7.5 km Lagoa loop; Parque da Catacumba → Mirante do Sacopã (15 min of forest); Escadaria Selarón before 10:00.
 
+**More from Lonely Planet** (*South America on a Shoestring*; free first):
+- **Free walking tour of Centro** (LP): Free Walker Tours' downtown loop takes in Travessa do Comércio, Praça XV, Cinelândia, the Arcos da Lapa and the Selarón steps, about 2½–3 h, tips only (LP thinks R$ 50 is fair). It meets at the Largo da Carioca clock tower, Mon–Fri 10:30 and 15:00, Sat 10:30 ≈ (Google summary of the operator's listings). It's an easy way to fit in Selarón.
+- **Boulevard Olímpico** (free, LP): the rebuilt port promenade by Praça Mauá, lined with huge murals. The highlight is Eduardo Kobra's 190 m *Etnias*.
+- **Museu de Arte do Rio (MAR):** **free on Tuesdays** ✅ museudeartedorio.org.br (otherwise R$ 20). LP's tip is to start with the 6th-floor bay view and work down. **Tue 8** is your arrival day: Praça Mauá + MAR + the Boulevard make a good jet-lag afternoon.
+- **Museu do Amanhã:** LP's free Tuesday no longer applies. It's now **R$ 40, closed Wednesdays**, but **R$ 10 on the 10th of every month** ✅ museudoamanha.org.br, which is **Thu 10 Dec**. Paid, so it's optional.
+- **Parque Lage** (free, LP): English-style gardens and a mansion with free art shows, open 08:00–18:00 Dec–Mar (LP). It's the start of the Christ trail anyway.
+- **Santa Teresa bonde:** the last historic tram, R$ 20 return (LP; Google summary of the state operator agrees ≈). It runs from the Carioca station (R. Lélio Gama) over the Arcos da Lapa to Largo do Guimarães, about every 15–20 min (LP).
+- **Bike the flat paths** (LP): the Copacabana–Ipanema seafront, the Lagoa and the Aterro do Flamengo all have bike lanes. Bike Rio share bikes or the Lagoa rental stands (≈ R$ 20/h, LP).
+- **Live samba near the hostel:** **[Bip Bip](https://www.google.com/maps?ftid=0x9bd53f113df54f:0xf57dccdb9545e414)** (R. Almirante Gonçalves 50, Copacabana) is a tiny bar with a roda de samba around a table from ~19:00, Sun–Fri (LP). Entry is free, but buy a drink. LP also lists **Pedra do Sal on Mondays and Fridays** from 20:00, which backs up the Friday plan.
+- **Hang-gliding off Pedra Bonita:** a tandem flight is ≈ R$ 490–520 (LP). Watching the launch ramp on the way to the Pedra Bonita trail is free.
+- **Backlog (LP):** the Prainha → Grumari coastal walk in Rio's wild far west. LP lists it as a guided hike.
+- **Skip:** the **Jardim Botânico** now costs **R$ 80 for foreigners** ≈ (Google summary of gov.br; LP had R$ 15), and Curitiba's botanical garden is free. LP's Maracanã stadium tour is ≈ R$ 50–60 (LP).
+
 ## 🍽️ Eat and drink
 
 <table>
@@ -183,12 +196,31 @@ All three were live-checked on 24 Nov.
 
 - **Por quilo lunch:** about R$ 35–40 ($6–7) a plate ≈. Companhia do Garfo (Copacabana) or Aipo & Aipim.
 - **Prato feito** at a boteco for dinner: R$ 30–40 ($5–7) ≈.
-- **Craft beer:** **Hocus Pocus DNA**, R. Dezenove de Fevereiro 186, Botafogo (pair it with Urca on Friday); BeerLab in Copacabana (not found on Google Maps).
+- **Craft beer:** **Hocus Pocus DNA**, R. Dezenove de Fevereiro 186, Botafogo (pair it with Urca on Friday); BeerLab in Copacabana (not found on Google Maps). LP's Copacabana pick, Escondido, isn't on Google Maps any more either.
 - Prices unverified.
+
+**Cheap local spots from LP** (all still on Google Maps, 26 Nov):
+- **[Pavão Azul](https://www.google.com/maps?ftid=0x9bd55a7629357f:0xb9af38b1c42aae05)**, Hilário de Gouveia 71, Copacabana: a classic boteco with pavement crowds, cold chope and cheap *pataniscas* (cod fritters) (LP).
+- **[Galeto Sat's](https://www.google.com/maps?ftid=0x997fffa2ea2d29:0x24abb43bf0e8e120)**, Barata Ribeiro 7, Leme end of Copacabana: spit-roast chicken since 1962, with lunch specials ≈ R$ 34 (LP). Open very late.
+- **[Rotisseria Sírio Libaneza](https://www.google.com/maps?ftid=0x997f8682a3afd1:0x3c8b9b4d350404cf)**, Largo do Machado 29 (Galeria Condor): cheap kibe, hummus, kafta and juices (LP).
+- **[Bar do Mineiro](https://www.google.com/maps?ftid=0x997f7635666643:0x52f6199ba2541139)**, Santa Teresa: feijoada every day; the weekday lunch special is ≈ R$ 22–35 (LP). It pairs with the bonde.
+- **Juice bars** are everywhere: a big *suco* is ≈ R$ 12–20 (LP).
+- **Self-catering:** LP points to the **Zona Sul** supermarket chain.
 
 ## ℹ️ Good to know
 - **Safety:** carry little on the beach at night and use Uber after dark. Avoid Lapa and Centro side streets late. Hike in the morning on busy trails. Ask the hostel before Dois Irmãos via Vidigal.
+- **Beach theft (LP):** gangs sometimes sweep a stretch of sand robbing everyone (*arrastão*). Take nothing of value to the beach. If you must, locals bury it in a plastic bag under their towel. Don't walk on the beaches late at night.
+- **More LP safety tips:**
+  - Avoid city buses after dark.
+  - Centro is deserted, and unsafe, on Sundays (not on these dates).
+  - Check the latest before any favela visit.
+  - If you are robbed, hand things over calmly.
+  - Robbery reports for insurance go to the 24-h tourist police in Leblon (LP).
 - **Money:** use ATMs inside banks or malls. Cards work almost everywhere; Pix needs a Brazilian account.
+  - LP reports a wave of **card cloning** in Rio and singles out **Bradesco ATMs** to avoid. **Banco do Brasil** inside a branch is the safe default (Copacabana: Av. N. S. de Copacabana 1274, LP).
+- **Getting around (LP):** Uber is ≈ 30% cheaper than a yellow taxi. The Novo Rio bus station sits in a run-down area, so arrive and leave by Uber and wait inside.
+- **Airport alternative (LP):** the **Premium bus 2018** runs from GIG along the beachfront to Copacabana and Ipanema every 30–40 min, ≈ R$ 16 in LP (now more). The BRT + metro above is cheaper.
+- **Medical:** Clínica Galdino Campos, Av. N. S. de Copacabana 492, is open 24 h with multilingual doctors (LP).
 - **Events:** **Sat 12 Dec, Henrique & Juliano play Maracanã** (sold out; seen in a Google snippet ≈). You leave that morning, so the effect is small. Nothing else big found for 8–11 Dec.
 - **Optional +2 days first:** [Teresópolis / Serra dos Órgãos](teresopolis.md), straight from GIG; Rio would then move to Thu 10 → Mon 14 Dec.
 

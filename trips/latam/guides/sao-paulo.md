@@ -121,6 +121,17 @@ All live-checked on 24 Nov.
 - **Thu 17:** leave the hostel ~06:45 for the 07:30 Penha bus from Tietê, which gives you Curitiba's afternoon. The metro opens at 04:40.
 - **Skip:** the Pinacoteca (R$ 40; free only on Saturdays ✅) and the Sesc Paulista rooftop, which is **closed for works** ✅ sescsp.org.br.
 
+**From Lonely Planet** (*South America on a Shoestring*):
+- **SP Free Walking Tour, "Old Downtown"** (tips only; LP's pick). It starts by the tourist booth on **Praça da República** and ends about 3 h later at Largo São Bento, covering the Centro Velho with a break.
+  - LP had Mon/Wed/Fri/Sat 11:30. It's now **Mon, Thu and Sat at 11:00 in English** ≈ (Google summary of the operator's site; GuruWalk also shows Wed and Fri 11:00 ≈).
+  - **Thu 17** is a bus day, so it fits only on **Wed 16 instead of Jaraguá** (if it rains, say), and only if a Wednesday tour runs. Check on the operator's site.
+- **Centro Velho on foot** (free, LP): the pedestrian maze between Praça da Sé, Luz and Praça da República. LP's tip is to look above the ground-floor shops at the old façades. It's on the way from the Mercadão.
+- **Edifício Copan** (Niemeyer's wave-shaped tower, Av. Ipiranga 200): the ground-floor arcade is free at any time (LP).
+  - LP's free weekday rooftop visits have ended. Since Sep 2026 the rooftop is a **guided visit on Fri–Sun only, R$ 50, booked on edificiocopan.com.br** ≈ (G1 / Melhores Destinos, Sep 2026), so it **doesn't fit Tue–Thu**.
+  - Bar da Dona Onça, in the arcade, is an LP pick for food and drinks.
+- **Museu Afro Brasil** in Parque Ibirapuera (LP: Tue–Sun, free on Saturdays): five centuries of African Brazil, if you're in the park anyway. Price unverified.
+- **Weekend-only (not on these dates):** the Liberdade fair (Sun), the Benedito Calixto fair in Pinheiros (Sat), the MASP antiques fair (Sun) (LP).
+
 ## 🍽️ Eat and drink
 
 <table>
@@ -138,8 +149,21 @@ All live-checked on 24 Nov.
 - **Pizza paulistana:** Bráz or Castelões. A whole pizza is ≈ R$ 120–160, so share it.
 - **Craft beer:** **Hocus Pocus SP** (Pinheiros, 18 taps) and **Ambar** (Pinheiros, 15 Brazilian taps), both ~15 min from Lamparina.
 
+**More from LP** (all still on Google Maps, 26 Nov):
+- **[Bar e Lanches Estadão](https://www.google.com/maps?ftid=0x94ce590138000001:0xd43132a04c7b59ed)**, Viaduto 9 de Julho 193, Centro. It's open 24 h, and its **pernil** (roast pork) sandwich with provolone and onions is one of LP's São Paulo "musts" (≈ R$ 7–33 in LP). Good on the Mercadão/Centro afternoon.
+- **[Lamen Kazu](https://www.google.com/maps?ftid=0x94ce60634b15b77d:0x3ef5dadc70308629)**, Tomás Gonzaga 51, Liberdade: ramen with a mostly Japanese clientele, ≈ R$ 29–47 in LP. LP recommends the spicy *kara misso*. Closed 15:00–18:00.
+- **Solo-sized pizza:** **[Leggera Pizza Napoletana](https://www.google.com/maps?ftid=0x94ce57fcbd3be967:0xd7243156cd2f3968)** (Diana 80, Vila Pompeia) makes about 20 individual uncut pies (≈ R$ 34–42 in LP), so you don't have to share a whole paulistana pizza. **[Carlos Pizza](https://www.google.com/maps?ftid=0x94ce57963d57a14f:0x38046f94c36c5603)** (Harmonia 501, Vila Madalena) is the other LP pick near the hostel.
+- **[Cervejaria Dogma](https://www.google.com/maps?ftid=0x94ce5838ae31f803:0x1130893b91c1b0bd)**, Fortunato 236, Santa Cecília: LP calls it the city's best microbrewery for hop fans, with ~20 taps and taproom-only beers. LP gives Wed–Fri 17:00–23:00, so **Wed 16 evening** works; check the current hours.
+- **Mercadão:** open Mon–Sat 06:00–18:00 (LP). LP also names **Hocca Bar** for the mortadella sandwich, and the *pastéis*.
+
 ## ℹ️ Good to know
 - **Phone snatching** (often from bikes) is common on Paulista, in Centro and around Luz. Use Uber at night.
+- **More LP safety tips:**
+  - Pickpockets work the buses, Praça da Sé, and **Metrô Line 1 (blue) and Line 3 (red)**. Line 1 is your Tietê line, so keep the pack in front.
+  - Be extra careful in Centro at night and at weekends, when it empties.
+  - Rarely, armed gangs rob a whole restaurant at once (*arrastão*). Tourists aren't usually targeted.
+- **ATMs (LP):** use machines inside banks, to avoid cloning. Most close 22:00–06:00.
+- **Tourist info (LP):** CIT booths at Tietê bus station (06:00–22:00), Praça da República and Av. Paulista 1853.
 - **Events:** Slayer play Allianz Parque on Thu 17 Dec (≈ Instagram); minor price effect.
 
 ## 🚌 Leaving: São Paulo → Curitiba, Thu 17 Dec

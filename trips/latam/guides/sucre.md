@@ -32,7 +32,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 | **Sat 23 Jan** | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00). Full moon on 22–23 Jan. |
 | **Sun 24 Jan** | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
 
-Not hiking? Swap Fri–Sat for **Siete Cascadas**, **Parque Cretácico**, the **Mercado Central** and **Cerro Churuquella**.
+Not hiking? Swap Fri–Sat for **Siete Cascadas**, **Parque Cretácico**, the **Mercado Central** and **Cerro Churuquella**, plus LP's town picks (Mercado Campesino, the Casa de la Libertad on Saturday, the ASUR textile museum).
 
 ## 🔖 Book (one click)
 
@@ -70,8 +70,9 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 - **Bus, ≈ 3–4 h**, from Potosí's Nueva Terminal to Sucre's terminal (Av. Ostria Gutiérrez).
 - Tickets Bolivia lists **13 daily departures, 06:00–19:00**: Trans Emperador 10:00, 12:30, 14:00 (US$7) and Transtin Dil Rey 09:45, 13:00 (US$8), all regular buses.
 - After a morning mine tour, take the **13:00 or 14:00** to arrive ≈ 17:00–18:00.
-- Shared taxis are faster (≈ 2.5 h, ≈ Bs 50–70, ≈ unverified).
-- From the Sucre terminal it's 1.8 km to the plaza: micro or taxi ≈ Bs 10–15 (≈).
+- Shared taxis are faster (≈ 2.5 h, ≈ Bs 50–70, ≈ unverified). LP gives ≈ B$50 and 2¼ h, with a hostel pickup (LP); companies are in the [Potosí guide](potosi.md).
+- From the Sucre terminal it's 1.8 km to the plaza: micro or taxi ≈ Bs 10–15 (≈). LP calls it a 3-km uphill walk and gives **micros A or 3** along Ravelo, B$1.50; with a big bag a taxi is easier (LP).
+- The terminal has **no ATM** and charges a small terminal tax (B$2.50 in LP) (LP).
 - ⚠ This is the road the Chuquisaca drivers blockaded in Nov 2026.
 
 ## 🛏️ Where to sleep
@@ -130,12 +131,23 @@ Live-checked 24 Nov.
 - **In January:** it's the rainy season (148 mm), so start early and expect afternoon storms. River crossings below Chaunaca and Maragua rise after rain; don't ford a brown, fast river. Download Mapy.cz/Maps.me offline. Spanish helps.
 - **The bed:** keep the Villa Oropeza bed for 22 Jan with the big bag in it (US$5.64), or book 21→22 and 23→24 only.
 - **Guided option:** Sucre agencies such as Condor Trekkers sell 1–2-day Maragua trips with transport (price not verified; ask in town).
+  - ⚠️ **LP strongly advises a guide** in the Cordillera de los Frailes: the villages speak Quechua, and a good guide smooths relations with the Jal'qa communities and helps avoid local hostility. LP's prices were ≈ B$650 for 3 days and B$800 for 4 per person, and it rates Condor Trekkers (Calvo and Bolívar; part of its earnings go to social projects) highly; add your name to its whiteboard to share the cost (LP).
+  - Our 2026 sources walk it unguided without trouble, so it's a judgement call. If you go alone, pay every community fee, ask before taking photos, and ask at Condor Trekkers about the current mood on the trail.
+  - **Samary Wasi** (Irupampa, ≈ 1 km from Maragua village; stone lodge with heavy blankets, a shower and charging points) was ≈ B$152 for a single in LP (LP).
 - **Shorter free version:** the Inca trail alone, Chataquila → Chaunaca, a half day, then the bus back from Chaunaca.
 
 **More:**
 - **Siete Cascadas (free):** micro line 12 from opposite the Mercado Central to the end of Barrio Alegría, then ≈ 2.3 km out-and-back to a chain of waterfalls and pools. They flow best in the rainy season (Tripadvisor/AllTrails; ≈).
 - **Free in town:** the Recoleta viewpoint plaza (arcaded mirador over the white city) at sunset, and a walk up Cerro Churuquella behind it. The Mercado Central is for eating.
 - **Parque Cretácico (paid, optional):** the Cal Orck'o wall with thousands of dinosaur tracks, **Bs 30** for foreigners (Parque Cretácico's Facebook, 2026). If you do Maragua you see tracks at Niñu Mayu anyway; the wall is bigger.
+
+**If you don't hike (or on Sat 23 if you return early), from LP's picks:**
+- **Mercado Campesino (free):** a huge maze of a local market (food, housewares, everything), 06:00–19:00; micro 7 or G northbound from the centre (LP).
+- **Cementerio Municipal (free):** colonial families' mausoleums among clipped poplar arches and palms, 8 blocks south of the plaza along Junín. Mon–Fri 08:00–11:30 and 14:00–17:30, Sat 08:00–17:30 (LP).
+- **The best view in town:** ask the police office inside the Prefectura de Chuquisaca (next to the cathedral) about climbing its cupola; independence murals line the stairs (LP).
+- **Casa de la Libertad** (Plaza 25 de Mayo 11), where Bolivia's independence was signed in 1825. ✅ casadelalibertad.org.bo (26 Nov 2026): **Bs 50** for foreigners, guided visits every hour, Mon–Fri 08:30–16:30, Sat–Sun 09:00–13:00, **closed on public holidays** (so shut on Fri 22 Jan). LP's figure was B$15.
+- **Museo de Arte Indígena (ASUR)** (Pasaje Iturricha 314, near the Recoleta): Jal'qa and Tarabuco weaving, with weavers at work; the Jal'qa are the Maragua communities, so it's good context for the hike. ≈ B$22, Mon–Fri 09:00–12:30 and 14:30–18:00, Sat 09:00–12:00 and 14:30–18:00 (LP).
+- **Doesn't fit:** Tarabuco's Sunday textile market (micros 06:30–09:30 from Av. de las Américas and Mendoza, B$10, 1½ h; LP) clashes with the Sunday flight.
 
 ## 🍽️ Eat and drink
 
@@ -153,9 +165,17 @@ Live-checked 24 Nov.
 - **Mid-morning salteñas** Bs 7–10.
 - The hostel kitchen covers dinners and the Maragua picnic.
 - These are ≈ AI-summary leads, Nov 2026.
+- **From LP:**
+  - **Mercado Central** (Ravelo and Junín): Mon–Sat 07:00–19:30, **Sun only to 11:00**. Try jugo de tumbo; LP had juices at B$7 (LP).
+  - **El Paso de los Abuelos** (Bustillos 216): salteñas ≈ B$8, 08:00–13:00; they sell out, so go early (LP).
+  - **Prem** (San Alberto 54): a tiny vegan place with a set lunch, ≈ B$25 in LP (LP).
+  - **Café Gourmet Mirador** at the Recoleta viewpoint: deck chairs over the rooftops, a coffee with the sunset view (LP).
+  - **Goblin Brew Pub** (Grau 246): family-run with its own craft beers, Thu–Sat from 20:00, so Thu 21 or Sat 23 (LP).
 
 ## ℹ️ Good to know
-- **Fri 22 Jan** is the Día del Estado Plurinacional (a national holiday, ≈): banks and offices close, buses run.
+- **Fri 22 Jan** is the Día del Estado Plurinacional (a national holiday; LP lists it on 22 Jan): banks, offices and some museums close (the Casa de la Libertad does), buses run.
+- **Safety:** LP calls Sucre one of Bolivia's safest towns; the tourist police are at Plazuela Zudáñez (Dalence 1) (LP).
+- **Laundry:** ≈ B$9–12 per kg, but most need half a day or more and nearly all close on Sundays (LP), so post-hike laundry won't be back before the Sunday flight: wash at the hostel.
 - **Weather:** Sucre is the warmest stop of the section (21 °C days). January is the rainy season (148 mm): afternoon storms.
 - **Cash:** ATMs work in Sucre: top up here before La Paz.
 - **Moon:** full moon on 22–23 Jan in Maragua.
@@ -165,6 +185,7 @@ Live-checked 24 Nov.
 
 - **BoA 09:05** Sucre → Cochabamba → La Paz (El Alto) **11:25**, $56.
 - Flight options, the EcoJet check and the overnight-bus alternative are in the [La Paz guide](la-paz.md).
+- **To Alcantarí airport** (30 km south): LP gives a taxi at ≈ B$50 (40 min at night, longer by day), a shared taxi (2+ people) for ≈ B$60 from Plaza Tréveris, or a micro for ≈ B$8 from near Plaza Camargo that leaves when full. The airport has an ATM but no exchange desk (LP).
 
 ---
 <sub>Photos: Google Maps contributors (Siete Cascadas, Cerro Churuquella, Chataquila–Chaunaca trail, Maragua crater listing (dinosaur tracks), Mercado Central, Brewcraft). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:20170805_Bolivia_1128%2B31_Pano_crop_Sucre_sRGB_(37926300676).jpg">Sucre panorama</a> (Dan Lundberg, CC BY-SA 2.0), <a href="https://commons.wikimedia.org/wiki/File:Mirador_de_la_Recoleta_IMG_1445.jpg">Mirador de la Recoleta</a> (AbbyCF12, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Mar%C3%A1gua_-_Sucre.jpg">Marágua</a> (Yulacha, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Cal_Orcko_fossil_tracks_2.jpg">Cal Orck'o tracks</a> (John Martin Perry, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:ChorizoChuquisaque%C3%B1o.jpg">Chorizo chuquisaqueño</a> (Akizia, CC BY-SA 4.0).</sub>

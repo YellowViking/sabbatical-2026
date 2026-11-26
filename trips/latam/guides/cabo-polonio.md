@@ -71,6 +71,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **UYU 1,003 ≈ $25.** Tres Cruces counter or rutasdelsol.com.uy.
 - ✅ Operator timetable and fare table, but only the **winter 2026** timetable is online; summer adds buses, so recheck in mid-December.
 - COT's La Pedrera line doesn't stop at Cabo Polonio.
+- **Peak-week tip:** on busy dates a company may run several buses at the same hour and print a bus number on your ticket, so check it before boarding (LP).
 - Then the **4x4 truck** from the Puerta del Polonio gate into the village: ≈ 20 min, **UYU 470 return ≈ $12**, park entry free, pay at the gate (cash or debit). ✅ Portal del Cabo.
 - No tents or pets are allowed in the national park.
 
@@ -117,7 +118,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QwpqkooxZfkVO0r__qmUnFWE2G8BiNmRKkshIghZXPb0Vljmeq9tnV_Dv8ALUyDsgTIudFGxTvsgDe3SoUkTGnUwmyEYwMPbj0DGLqHkhjo-6sQlWrEbNzsuV3ehUe238772ZG2A=w640-h400-p-k-no" width="100%" alt="La Calavera beach backed by low dunes"><br><b><a href="https://www.google.com/maps?ftid=0x95736a62637eb3b9:0x367a7dd2c3642a0e">Playa La Calavera</a></b> / Playa Sur · free<br>Sunset, then stargazing: the village is off-grid (solar power only).</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rg4wn0g8Pk3iDGGwkw1tFqtLOAJfulcKddVgxcv6iNNIQ2OCfKfJEMvRxymWme-v1o9x8IwIkGt4E2QsH-U9yiBTs9qV4uNDo1CMSVFZJSJdMlRMz0ld-hRJdawgeWizrSJkOj=w640-h400-p-k-no" width="100%" alt="The Cabo Polonio lighthouse tower"><br><b><a href="https://www.google.com/maps?ftid=0x95736a8ad9e7131d:0x617f48857b4acff7">Lighthouse climb</a></b> · small fee<br>The view over the village and the colony.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rg4wn0g8Pk3iDGGwkw1tFqtLOAJfulcKddVgxcv6iNNIQ2OCfKfJEMvRxymWme-v1o9x8IwIkGt4E2QsH-U9yiBTs9qV4uNDo1CMSVFZJSJdMlRMz0ld-hRJdawgeWizrSJkOj=w640-h400-p-k-no" width="100%" alt="The Cabo Polonio lighthouse tower"><br><b><a href="https://www.google.com/maps?ftid=0x95736a8ad9e7131d:0x617f48857b4acff7">Lighthouse climb</a></b> · small fee<br>The view over the village and the colony. Closed at midday: ≈ 10:00–13:00 and 15:00–sunset (LP).</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T-HfYngJ3WCY19xLXjZRo6oocVvAhFedl-zFq9iVdkkf3qG1oSe9_00NMChBwfA9ydFJgoQOTRL8uyzhglTEEUjwjEOoh3bTrjJM2yBB-JruylgJFLEP5s2NQaDsDqVi9UhXbz=w640-h400-p-k-no" width="100%" alt="The beach at Barra de Valizas with dunes behind"><br><b><a href="https://www.google.com/maps?ftid=0x95734119ea6b2563:0x1f77682c8595aa97">Barra de Valizas</a></b> · free<br>The end of the dune walk, and the 🎆 holiday-backup village.</td>
@@ -130,17 +131,27 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Go early, and take water, sun protection and a windproof layer.
   - It is the area's best outdoor half-day.
 - **Sunset** at Playa Sur / La Calavera, then **stargazing**: the village is off-grid (solar power only).
-- **Lighthouse climb** for the view over the village and colony: small fee (U$25 in 2018 per Wikivoyage; ≈ UYU 50–100 now, unverified).
+- **Lighthouse climb** for the view over the village and colony: small fee (U$25 in 2018 per Wikivoyage; ≈ UYU 50–100 now, unverified). LP gives the hours as ≈ 10:00–13:00 and 15:00–sunset, so not at midday (LP).
 - **Swim** at the sheltered **Playa Sur**; Playa Norte is wilder.
+- The cape has been a **national park** (SNAP) since 2009 (LP).
+
+**Paid extras, from Lonely Planet (not live-checked):**
+- 🐎 **Horse rides** through the park's dunes and along the beaches north of the cape with **Cabalgatas Valiceras**, based in Barra de Valizas: full-day rides (US$80–95 in LP) and monthly full-moon rides (LP).
+- 🏄 **Cabo Polonio Surf School**, just inland from Playa Sur: 2-hour lessons with kit, ≈ 11:00 and 17:00 daily from late December to Easter; book by phone or ask in the village (LP).
 
 ## 🍽️ Eat and drink
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bu%C3%B1uelos_de_algas.jpg/500px-Bu%C3%B1uelos_de_algas.jpg" width="100%" alt="Buñuelos de algas, seaweed fritters, with lemon"><br><b>Buñuelos de algas</b> · ≈ UYU 250–350 ($6–9) ≈ (lead)<br>The local seaweed fritters, from a beach stand. Generic photo.</td>
+<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bu%C3%B1uelos_de_algas.jpg/500px-Bu%C3%B1uelos_de_algas.jpg" width="100%" alt="Buñuelos de algas, seaweed fritters, with lemon"><br><b>Buñuelos de algas</b> · ≈ UYU 250–350 ($6–9) ≈ (lead)<br>The local seaweed fritters, from a beach stand; LP's pick is Lo de Dany by the truck stop (LP). Generic photo.</td>
 <td width="50%" valign="top"><b>Cook: bring 2 days of groceries from Montevideo</b><br>Tienda Inglesa or Disco. The village almacenes are small and dear, and restaurants charge resort prices (≈ UYU 800–1,200 ≈ $20–30 a main).</td>
 </tr>
 </table>
+
+**From Lonely Planet (not live-checked):**
+- **Lo de Dany**, the orange snack shack by the 4x4 truck stop, run by one of the few families who live here all year: buñuelos de algas, *rabas* (fried squid) and chivitos at fair prices, ≈ 09:00–22:00 (LP).
+- 🐟 **Fresh fish to cook:** Marta and Héctor, a local fishing couple in the salmon-coloured house with a green flag just north of the truck stop, put up a **"Hay pescado"** sign when they have fish to sell (LP).
+- **El Club**, ≈ 50 m west of the truck stop (mid-Dec to Easter): grilled fish, wood-fired pizza and craft beer, a daily set plate with vegetarian options, and live music (LP).
 
 ## ℹ️ Good to know
 - ⚠️ **No ATM** and patchy card acceptance, so carry UYU cash for 2 days plus the truck.

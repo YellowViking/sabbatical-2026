@@ -93,7 +93,7 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TBs73qCrBD34QyYOWuQAv0VIzGJY2pp29wzRzdHRbO263ArhOcen_ZNZ5aUA_MXkJ2VVSFIWkfx0jTvBEnRMeelk7OnZmnQVTNW7DTh-cczgzl2BYvwO9Bytb3j-6uAfj3QdM3ziuOM5vm=w640-h400-p-k-no" width="100%" alt="Plaza Mayor with its trees and the lighthouse behind"><br><b><a href="https://www.google.com/maps?ftid=0x95a3125cdcbfffff:0xdb753d8f7a0375eb">Plaza Mayor</a></b> · free<br>The main square of the Barrio Histórico.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TREsm-e-VSl0LUtVZG3RVzYTTT3Hiw3_irFBaXMzjVcg2oxi9eXxOwUbflijbbl7S-u5ckMA2-WMgYwqlMu7TjffzrddrMV6DoQ1H4GuEKqoSXTHowaPUViJJ9kPPhScLMLtlEaNTb1zY7=w640-h400-p-k-no" width="100%" alt="Colonia's white lighthouse"><br><b><a href="https://www.google.com/maps?ftid=0x95a3125cb88d65e7:0x677c7ec2aa26e4c8">Lighthouse climb</a></b> · small fee<br>Optional. The hero photo above is the view from the top.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TREsm-e-VSl0LUtVZG3RVzYTTT3Hiw3_irFBaXMzjVcg2oxi9eXxOwUbflijbbl7S-u5ckMA2-WMgYwqlMu7TjffzrddrMV6DoQ1H4GuEKqoSXTHowaPUViJJ9kPPhScLMLtlEaNTb1zY7=w640-h400-p-k-no" width="100%" alt="Colonia's white lighthouse"><br><b><a href="https://www.google.com/maps?ftid=0x95a3125cb88d65e7:0x677c7ec2aa26e4c8">Lighthouse climb</a></b> · small fee<br>Optional. The hero photo above is the view from the top. It stands in the San Francisco convent ruins; ≈ 10:30–13:00 and 14:00–sunset (LP).</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rv7zDsRPFMqHOecucfoqjDJSGrmehR2SWmnACInHZlc-cUtGzKGwzvJ4bHkM3ITmwbHE9XIEoy6KwlszmqQCIEL0ch85ykYnNwbxmsWZdavmGWlPYNK30EZ-d0fKndJM0oLE6-=w640-h400-p-k-no" width="100%" alt="The rocky shore of the Río de la Plata along Colonia's Rambla"><br><b><a href="https://www.google.com/maps?ftid=0x95a312f1d7b062fd:0xe096ed9cf6f8b48e">The Rambla</a></b> · free<br>The waterfront Rambla; eating is dear here, so picnic on it.</td>
@@ -107,19 +107,31 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
 - Plaza Mayor.
 - The ruins of the San Francisco convent.
 - The waterfront Rambla.
-- Optional: the lighthouse climb (small fee).
+- Also on LP's list: the **Paseo de San Gabriel** along the western waterfront, the **Puerto Viejo** (old port) and shady **Plaza de Armas** (Plaza Manuel Lobo) (LP).
+- Optional: the lighthouse climb (small fee; ≈ 10:30–13:00 and 14:00–sunset, closed over lunch (LP)).
 - If there's time, the Rambla walk (4–5 km) to the restored Plaza de Toros at Real de San Carlos ≈.
+  - Faster: **rent a bike** (LP: Thrifty, Av General Flores 172, by the hour), or take a local **COTUC bus** from Av General Flores to Real de San Carlos' beaches and bullring (LP).
+
+**From Lonely Planet (not live-checked; New Year's Day hours may differ):**
+- **Museums:** one cheap combined ticket, sold at the Museo Municipal, covers the town's eight small historical museums, ≈ 11:15–16:30. Each closes one weekday: the **Museo Portugués is shut on Fridays**, so on Fri 1 Jan; the Museo Municipal (whale skeleton, a 1762 scale model of the town) is open on Fridays (LP).
+- **Walking tours** leave from the municipal tourist office (Manuel Lobo 224) with local guides; paid, cheaper in Spanish (LP).
 
 ## 🍽️ Eat and drink
 
 - **Eating is dear here,** so picnic on the Rambla.
+- **If you do sit down (LP; all may close on 1 Jan ≈):**
+  - **Lentas Maravillas** (Santa Rita 61; ≈ Wed–Mon 12:30–19:30): a cosy café with river views; soups, sandwiches and homemade lemonade (LP).
+  - **Buen Suspiro** (Calle de los Suspiros 92; ≈ Wed–Mon from 11:00): *picadas*, boards of local cheese and cold cuts, with Uruguayan wine by the glass (LP).
+  - **Barbot** (Washington Barbot 160; ≈ from noon Fri–Sun): a brewpub with ≈ 15 house beers and a four-beer tasting set (LP).
+  - **Don Joaquín** (Neapolitan pizza) opens only in the evening, after the ferry leaves (LP).
 
 ## ℹ️ Good to know
 - ⚠ **Luggage storage is not confirmed.**
   - A Tripadvisor report (Dec 2022) says the bus terminal's guardaequipaje has closed.
   - An independent port guide (3 Nov 2026) finds no official storage in the ferry terminal.
   - Pre-book a **Radical Storage / Qeepl** partner near the terminals (from ≈ $4/day, bookable online), or carry only a light pack.
-- **The bus and ferry terminals are next to each other,** 500 m from the old town.
+  - LP (2019) lists **left-luggage lockers at the BIT Welcome Center** (Odriozola 434, opposite the port, ≈ 09:00–18:00; also tourist information) and storage at the bus terminal (LP). The terminal one is reportedly gone, so ask at BIT first ≈.
+- **The bus and ferry terminals are next to each other,** 500 m from the old town. ATMs line Av General Flores (LP).
 - **Ferry check-in:** check in and clear joint immigration ≈ 1 h before.
 - **Which ferry:**
   - Buquebus lands at **Dársena Norte**, a 15-min walk to Retiro.

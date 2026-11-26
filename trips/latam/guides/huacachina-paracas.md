@@ -37,9 +37,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 |---|---|
 | **Mon 1 Feb** | Colca → Arequipa (as in the main plan). **One night in Arequipa** instead of two. |
 | **Tue 2 Feb** | Arequipa day, then the 🚌 **night bus to Ica** (≈ 12–13 h). Book a 160–180° lower-deck seat; keep valuables on you. |
-| **Wed 3 Feb** | Arrive Ica ≈ 06:00–07:30. Take a **registered taxi from inside the terminal** to Huacachina (≈ 10 min); don't walk out with luggage before dawn. **Free:** climb the dunes on foot for sunset from the slopes behind the hotels, not through the buggy checkpoint. Paid: buggy + sandboarding 2 h, ≈ $15–25 + S/3.60 municipal fee. |
-| **Thu 4 Feb** | 🚌 Morning bus to Paracas (≈ 1 h). Afternoon: 🚲 **Paracas National Reserve** by rented bike (S/11 entry, foreigners). |
-| **Fri 5 Feb** | ⛴️ **Islas Ballestas boat 08:00** from El Chaco pier: S/50–80 ≈ $13–22, + S/11 protected-area fee + S/5 pier tax, cash; boats run mornings only. Then 🚌 Cruz del Sur ≈ 10:40 → Lima ≈ 14:40, and on to the airport (60–90 min; rush hour 16:30–20:30). Night at the airport hostel. |
+| **Wed 3 Feb** | Arrive Ica ≈ 06:00–07:30. Take a **registered taxi from inside the terminal** to Huacachina (≈ 10 min, S/8–10 per LP); don't walk out with luggage before dawn. **Free:** climb the dunes on foot for sunset from the slopes behind the hotels, not through the buggy checkpoint. **Cheap:** rent a sandboard for S/5–8 an hour and walk up yourself (LP). Paid: buggy + sandboarding 2 h, ≈ $15–25 + S/3.60 municipal fee. |
+| **Thu 4 Feb** | 🚌 Morning bus to Paracas (≈ 1 h). Afternoon: 🚲 **Paracas National Reserve** by rented bike (S/11 entry ✅ SERNANP; open 09:00–16:00, so enter by mid-afternoon). |
+| **Fri 5 Feb** | ⛴️ **Islas Ballestas boat 08:00** from El Chaco pier: S/50–80 ≈ $13–22, + S/11 protected-area fee + S/5 pier tax, cash; boats run mornings only. Then 🚌 Cruz del Sur ≈ 10:40 → Lima ≈ 14:40 (⚠️ LP lists 10:40 as a *southbound* bus; see Good to know), and on to the airport (60–90 min; rush hour 16:30–20:30). Night at the airport hostel. |
 | **Sat 6 Feb** | ✈ **Copa CM400 10:30 → Panama City 14:18** on miles. |
 
 ## 🔖 Book (one click)
@@ -81,7 +81,8 @@ Dates and 1 adult are pre-filled. ⚠️ = time-sensitive. Prices ≈ unless mar
 
 - **Civa 19:05 → ~07:00, $25–43;** Cruz del Sur 17:00–22:15, $32–58; Oltursa ~20:30. ≈ 12–13 h.
 - Book a **160–180° lower-deck seat**; keep valuables on you.
-- Arrive Ica ≈ 06:00–07:30. Take a **registered taxi from inside the terminal** to Huacachina (≈ 10 min); don't walk out with luggage before dawn.
+- ⚠️ **LP advises against overnight buses in Peru** (muggings and crashes are likelier) and against the cheapest companies. If you go by night, use a top-tier company: Cruz del Sur, Oltursa, or Civa's Excluciva sleeper line. LP's fare range is S/75–160, 11–15 h.
+- Arrive Ica ≈ 06:00–07:30. Take a **registered taxi from inside the terminal** to Huacachina (≈ 10 min, S/8–10 per LP; LP says a taxi is the only way); don't walk out with luggage before dawn. LP warns that the west end of Salaverry, where most of Ica's bus companies have their offices, has a lot of crime.
 
 ## 🛏️ Where to sleep
 
@@ -119,11 +120,48 @@ Dates and 1 adult are pre-filled. ⚠️ = time-sensitive. Prices ≈ unless mar
 </tr>
 </table>
 
+**Huacachina:**
+- **Dunes on foot** (free): LP puts the climb at about 20 minutes to a ridge some 200 m above the lagoon. Go for sunset.
+- **DIY sandboarding** (cheap): boards rent all over town for S/5–8 an hour (LP). Ask for wax (often a candle stub), start on the small slopes, and ride belly-down with your feet as brakes. LP notes serious injuries from lost control.
+
+**Paracas:**
+- **Paracas National Reserve by bike** (S/11, ✅ SERNANP; open daily 09:00–16:00 via the Santo Domingo control post).
+  - SERNANP's north circuit is 26 km, 4–6 h by bike or quad: Mirador Playa Supay → La Catedral (a rock formation) → Playa Roja → the isthmus → Santa María → Playa La Mina → Raspón → Yumaque.
+  - LP's picks: the flamingo lookout by the interpretation centre near the entrance, **La Mina** (the best swimming beach), and the sea-lion colony at **Punta Arquillo**, west of La Mina.
+- 💰 **Combined ticket:** SERNANP sells a 2-for-1 promo covering the reserve **and** the Islas Ballestas for **S/17** (adults) instead of S/11 + S/11 (✅ visitaareasnaturales.sernanp.gob.pe, 26 Nov). The page doesn't say whether foreigners qualify, so ask at the counter.
+- **Islas Ballestas** (LP): boats leave the Marina Turística in El Chaco at 08:00, 10:00 and 12:00. The **08:00** usually has the calmest sea and the best wildlife. About 2 h; you don't land. LP's older tour price is S/35–40, against the day plan's ≈ S/50–80.
+
+**Paid, unique, not in the day plan:**
+- **Nazca Lines overflight.** LP says flights can also leave from **Pisco or Ica airports** (Paracas Explorer in El Chaco sells them), so you don't need to ride to Nazca.
+  - LP's Nazca price is ≈ US$90 for the standard 30-minute flight over 12 figures, plus S/30 airport tax.
+  - Fly early, when it's calmer. Pick an established operator (LP names Aeroparacas, Aerodiana and Alas Peruanas) and question any much cheaper offer; there were fatal crashes in 2008–10.
+  - Take motion-sickness pills: the planes bank hard.
+- **Ica, on the way (LP):**
+  - **Museo Regional de Ica**, S/7.50: Paracas textiles and Nazca ceramics, the south coast's best museum outside Arequipa.
+  - Free bodega visits: **Bodega Lazo** (artisanal pisco, Mon–Fri 09:00–13:00, weekends to 15:00) and **Bodega Tacama** (Tue–Sun 09:30–16:30).
+
 ## 🍽️ Eat and drink
 
-Not researched for this option. The cost estimate below includes 2 extra food days.
+Not live-researched for this option; the cost estimate below includes 2 extra food days. LP's leads:
+- **Inti-Mar**, Punta Pejerrey, inside the reserve: a working scallop farm with tables by the water. Mains S/25–45, 10:30–15:30 (LP). It makes the bike-day lunch stop.
+- **Desert Nights**, Huacachina: traveller café with a rooftop terrace. Mains S/15–25 (LP).
+- **Helena**, half a block from Ica's Plaza: Ica's famous *tejas* (filled sweets), ≈ S/4 each (LP).
+- **Set lunch** (*menú del día*) ≈ S/8–22 nationally (LP).
+- **Bring basics from Ica:** LP says Huacachina's few shops are often out of essentials.
 
 ## ℹ️ Good to know
+
+**On the ground (LP):**
+- **Safety:** Huacachina is safer than Ica but not a place to relax your guard. Some guesthouses have a name for ripping travellers off, so stick to the vetted beds above.
+  - Ica has petty theft around the bus terminals and markets.
+  - On the cheap Soyuz / PerúBus services, watch your bag when people get on and off.
+- **Cash:** get it in Ica. Banco de la Nación at Grau 161 has a fee-free ATM, and BCP is on the Plaza de Armas.
+- ⚠️ **Paracas → Lima buses (LP, older):**
+  - Cruz del Sur leaves its terminal on the north edge of El Chaco at 07:30, 12:30, 13:30, 15:00, 16:00 and 19:10.
+  - The cheapest is PerúBus, at 10:25 and 16:40. Oltursa goes at 09:50.
+  - Lima is ≈ 3½ h away, S/45–68.
+  - LP lists **10:40** as a Cruz del Sur departure *south* to Ica and Nazca, so check that the day plan's 10:40 → Lima exists. After the 08:00 Ballestas boat, PerúBus at 10:25 or Cruz del Sur at 12:30 may be the real choices.
+- Lima's airport is in Callao. LP says to allow at least an hour by taxi, and traffic is lightest before 06:30.
 
 **What changes downstream:** you'd land in Panama on Sat 6 Feb instead of Wed 3 Feb.
 - Panama City and Boquete shift to 6 → 11 Feb, so Boquete falls over Carnaval (6–9 Feb), and its beds and buses get dearer.

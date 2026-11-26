@@ -64,6 +64,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
   - Buenos Aires → Córdoba, $44–48.
   - Sucre → La Paz, $56.
 - Chirripó descent day (Thu 11 Feb): no San Gerardo bus fits, so a taxi to San Isidro ≈ $34–45 (added 26 Nov).
+- **Plan B** (Florianópolis instead of Paraguay, 21–27 Dec): ≈ $255 in beds and buses against ≈ $256 for Plan A, so the totals don't change ([guide](guides/florianopolis.md)).
 - Border fees: Costa Rica exit $8, Nicaragua entry ≈ $12–14 (the $10 tourist stamp plus ≈ $1–4 border charges, cash).
 - Leg by leg: [route-v5-brainstorm §12 and §15](route-v5-brainstorm.md); each guide's "Getting here".
 

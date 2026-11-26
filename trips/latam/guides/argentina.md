@@ -41,7 +41,30 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes]
 ## Money tips (26 Nov, Worldly Adventurer)
 - Pay by card in pesos where possible: foreign cards get close to the parallel rate.
 - Avoid ATMs: the maximum is about $15 a withdrawal with a ≈ $10 fee.
+  - LP gives limits "as low as" ≈ US$115 a withdrawal, with the fee charged per withdrawal, and says **Banelco** ATMs tend to allow larger amounts (LP). The $15 above looks too low; check the screen's limit before accepting the fee.
 - Bring clean, undamaged US$100 notes for exchange.
+
+**More from Lonely Planet (LP; the book's peso prices are years out of date):**
+- **Card surcharges:** some businesses add a *recargo* of up to 10% for credit cards, so ask first (LP).
+- **Tips:** 10% at restaurants, in cash; it can't be added to the card slip (LP). A small *cubierto* (bread and cover charge) on the bill is normal (LP).
+- **Two-tier prices:** some museums, most national parks and tango shows charge foreigners up to double (LP). Condorito is free, and Córdoba's provincial museums are free on Wednesdays ✅ (see the [Córdoba guide](cordoba.md)).
+- **Changing money:** banks or cambios, with your passport. Avoid street changers calling "cambio" (LP). Buenos Aires has fake notes in circulation (LP).
+- **Eating cheap:** large supermarkets often have a cheap take-away counter, and *tenedor libre* (all-you-can-eat) buffets are good value (LP). Tap water (*agua de canilla*) is usually drinkable in towns (LP).
+- **Meal times:** lunch ≈ 12:00–15:30, dinner from ≈ 20:00 (LP). Plan early nights around that.
+
+## Buses and safety (LP)
+- **Buy ahead in January:** it's a holiday month with more departures but fuller buses (LP).
+- **Toilets on board** often lack water and are sometimes "liquids only": bring paper or wipes (LP).
+- **Terminals** usually have kiosks, cheap food and left luggage (LP).
+- **Hostels:** lock your valuables; LP says thefts are sometimes by fellow travellers.
+- **Traffic** is the main danger: drivers don't give pedestrians the right of way (LP).
+
+## Buenos Aires transit, Fri 1 Jan (LP)
+The ferry-to-night-bus transfer is in the [Colonia guide](colonia.md). LP adds:
+- **Dársena Sur** (Colonia Express) is in an industrial area at the edge of La Boca; take a taxi or app car, don't walk. LP advises care in La Boca away from its tourist streets, even by day.
+- **Street taxis:** check that the meter runs, and watch for drivers swapping your large note for a smaller or fake one. A remís or app car avoids both (LP).
+- **City buses and the Subte** take only the SUBE card, no cash (LP). For one ride on a holiday evening, the taxi is simpler.
+- **Retiro** has left luggage, ATMs and a 24-h information kiosk (LP).
 
 ## Open issues: Argentina
 
@@ -66,4 +89,5 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes]
    - The properties' own engines were not checked: Clivias, Casa Puka, Cielito Lindo and Tilcara Mística may sell direct.
 7. **Leads, not verified:** fees (Río Colorado guides, Garganta del Diablo, Hornocal 4x4 and community fee, Los Gigantes land, Paseo de los Colorados), Córdoba's risk-zone declaration form, and all restaurant and bar names and prices (AI Mode).
 8. **Alto Paraná** (the Córdoba private alt) has no availability for 6 → 7 Jan; Hostel Alvear's single room ($25.12, Hostelworld) covers that night.
-9. **Peak season:** 2–7 Jan is the Argentine summer holiday. COATA showed only 10–15 seats left per bus on 24 Nov, so buy the Sierras tickets as soon as plans are firm. **Nothing was booked.**
+9. **Jujuy's bus terminal** is in Alto Comedero, ≈ 5–6 km south-east of the centre (LP; OpenStreetMap). The Jujuy backup bed (El Balcón de la Tata) was routed as a 10-min walk from a point in the centre, so it needs a remís to the 02:45 Andesmar bus. Flagged in the [Quebrada guide](quebrada-de-humahuaca.md); confirm the boarding point with Andesmar.
+10. **Peak season:** 2–7 Jan is the Argentine summer holiday. COATA showed only 10–15 seats left per bus on 24 Nov, so buy the Sierras tickets as soon as plans are firm. **Nothing was booked.**

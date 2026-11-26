@@ -119,6 +119,13 @@ Everything here is on the tour route; the Reserva Eduardo Avaroa fee (Bs 150) co
 - **Isla Incahuasi: usually *not* visited** in January–March. Deep water softens the crust and damages the jeeps, so drivers stay near the Colchani edge. The operators' itineraries still list it, with Cordillera's caveat that the route may change "only if necessary" in January–February. Expect to skip it and not pay the Bs 30.
 - Days 1–2 (Lagunas Verde/Blanca, Dalí desert, Sol de Mañana at ≈ 4,900 m, Laguna Colorada, Árbol de Piedra) run normally, just muddier.
 - If Hito Cajón is closed, tours wait or go via Ollagüe, reversing the route. That's why the dates have a soft day after (see Potosí).
+- LP agrees: from late December to the end of March the salar floods, many Uyuni agencies stop, and tours keep to the edges.
+
+**Also on the route (LP):**
+- **Playa Blanca salt hotel** near the Colchani edge: closed to overnight guests, but tours stop for the salt sculptures and the Dakar and flag monuments, often for lunch. Bring a small prop for the perspective photos.
+- **Laguna Verde** is greenest in the afternoon wind; San Pedro tours pass it early in the morning, so expect a calmer colour.
+- **Sol de Mañana:** stay on firm, dry ground. Damp or cracked crust around the mud pots can give way and has caused serious burns.
+- **Cementerio de Trenes** (train graveyard): free, ≈ 3 km south-west of Uyuni station along Av. Ferroviaria. Many tours stop there before the drop-off; if yours doesn't, it fits before a late-afternoon bus.
 
 ## 🍽️ Eat and drink
 
@@ -134,7 +141,15 @@ Everything here is on the tour route; the Reserva Eduardo Avaroa fee (Bs 150) co
 - Isla Incahuasi **Bs 30** (if visited).
 - Toilets ≈ Bs 5–6 per use.
 - **Total ≈ Bs 210–250 ≈ US$18–21** at Bs 11.78.
-- Optional sleeping-bag hire ≈ US$10 (≈).
+- LP's figures match: Eduardo Avaroa **B$150**, Polques **B$6**, Incahuasi **B$30**, toilets **≈ B$5** (LP). LP saw **B$15–30** at Hito Cajón (B$21 the usual), and notes that unofficial "administration fees" at remote borders are easiest just paid, so keep ≈ Bs 30 spare for the border.
+- Optional sleeping-bag hire ≈ US$10 (≈). LP calls a sleeping bag highly recommended: ask whether the agency includes one.
+- **Tip:** LP gives 10–20% as the norm for Bolivian guides; the driver here is also guide, mechanic and often cook.
+
+**Safety: choose on the jeep, not the price** (LP).
+- At least 26 people died in salar jeep accidents between 2008 and LP's research (5 tourists in a single 2016 crash), mostly linked to drunk or speeding drivers and badly kept vehicles.
+- Ask to see the vehicle (seat belts that work) and meet the driver before paying. Don't accept more than **5–6 passengers** per jeep.
+
+**Clocks.** Bolivia is 1 h behind Chile in January, so set your watch back at Hito Cajón; every time after the border is Bolivian.
 
 **Altitude and cold.**
 - You sleep at ≈ 4,000 m and cross ≈ 4,900 m.
@@ -144,7 +159,9 @@ Everything here is on the tour route; the Reserva Eduardo Avaroa fee (Bs 150) co
 ## 🚌 Leaving: Uyuni → Potosí, Wed 20 Jan
 
 - The tour ends in Uyuni town ≈ 13:00–15:00 (WWT ≈ 13:00 with lunch; Estrella del Sur ≈ 14:00; Cordillera ≈ 15:00).
-- Buses to Potosí (≈ 4 h) leave the Uyuni terminal through the afternoon; times, fares and the soft-day plan are in the [Potosí guide](potosi.md).
+- Buses to Potosí (≈ 4 h) leave the Uyuni terminal through the afternoon; times, fares and the soft-day plan are in the [Potosí guide](potosi.md). LP: hourly, ≈ B$30 at the counter (LP).
+- ⚠️ **Watch your bags at the Uyuni bus and train stations:** LP reports groups of young men offering to help with tickets or to load luggage, then running off with backpacks.
+- **Money in Uyuni:** several ATMs (Banco Unión, Banco Nacional, Mercantil on Av. Potosí). Exchange shops on Av. Potosí between Arce and Bolívar buy Chilean and Argentine pesos, so change any leftover CLP here (LP).
 
 ---
 <sub>Photos: Google Maps contributors (Laguna Colorada, Laguna Verde, Dalí desert, Termas de Polques, Sol de Mañana, Árbol de Piedra, Isla Incahuasi). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Reflection_on_the_Salar_de_Uyuni,_bolivia.jpg">Reflection on the Salar de Uyuni</a> (Christopher Crouzet, CC BY-SA 4.0).</sub>

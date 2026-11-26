@@ -29,8 +29,8 @@ The recommended plan: one night in Chivay, then one in Sangalle (Plan B is under
 
 | Day | Plan |
 |---|---|
-| **Sat 30 Jan** | 🚌 **4M Express** pickup in Puno 05:50–06:10, via Lagunillas and **Patapampa (4,910 m)**, to the Plaza de Chivay ≈ 12:30. Buy the boleto if it wasn't checked on the bus. ♨️ **La Calera hot springs** (3 km, S/15); optionally the riverside path to the Inca bridge. Sleep in Chivay. |
-| **Sun 31 Jan** | 🚌 ≈ 06:00 bus to **Cruz del Cóndor** (≈ 07:30); condors fly ≈ 08:00–10:00. 🥾 **Rim walk to Cabanaconde** (≈ 12 km, 2.5–3 h) or flag the next bus. Early lunch; buy Monday's bus ticket on the plaza. 🥾 **Descend to Sangalle** by noon (≈ 1,100 m down, 2–3 h). Sleep at the oasis. |
+| **Sat 30 Jan** | 🚌 **4M Express** pickup in Puno 05:50–06:10, via Lagunillas and **Patapampa (4,910 m)**, to the Plaza de Chivay ≈ 12:30. Buy the boleto if it wasn't checked on the bus. 🥾 Over the Inca bridge to **Corporaque** (7 km, free, LP) and/or ♨️ **La Calera hot springs** (3 km, S/15; LP says it closes at 18:00). Sleep in Chivay. |
+| **Sun 31 Jan** | 🚌 ≈ 06:00 bus to **Cruz del Cóndor** (≈ 07:30; LP: a 07:30 Milagros bus from Chivay's bus station, S/8); condors fly ≈ 08:00–10:00, but LP says they rarely appear in Jan–Feb. 🥾 **Rim walk to Cabanaconde** (≈ 12 km, 2.5–3 h) or flag the next bus. Early lunch; buy Monday's bus ticket on the plaza. 🥾 **Descend to Sangalle** by noon (≈ 1,100 m down, 2–3 h). Sleep at the oasis. |
 | **Mon 1 Feb** | 🥾 **05:00 climb out** (≈ 3–3.5 h), in Cabanaconde by ≈ 08:30. Breakfast, then the 🚌 **09:30 Transandino** (or the next Andalucía) to Arequipa, arriving ≈ 15:15 (5 h 45 min). |
 
 ## 🔖 Book (one click)
@@ -82,9 +82,12 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Departures from Arequipa per redBus's route page: Andalucía from 03:30 (last 23:45), Transandino from 00:00 (last 12:30), Nativa Express 03:00; 13 a day, about 5.5 h to Cabanaconde, S/35.
   - The early ones pass **Chivay ≈ 06:00–06:30 and Cruz del Cóndor ≈ 07:30–08:00**, about 1 h before Cabanaconde. ≈ S/5–10 from Chivay.
   - A Cabanaconde lodge (colcahotel.com) says the last Chivay → Cabanaconde combi leaves at 14:00–15:00.
+  - **LP's version:** Milagros buses leave **Chivay's bus station** (not the plaza) at **07:30** for Cruz del Cóndor, S/8. After that, the only public ride on to Cabanaconde is the minivan that carries the craft sellers, at ≈ 11:00 (S/5). Otherwise walk the 12.5 km or wait for a later bus. Ask at the station on Saturday which of the two times (≈ 06:00 or 07:30) is right.
+  - **LP's older fares from Arequipa:** Chivay S/13 (3½ h), Cabanaconde S/17 (5 h). Andalucía uses the Terrapuerto terminal, Reyna the Terminal Terrestre (they're side by side). The buses get cold as they climb, so keep a warm layer out.
 - **Boleto turístico (AUTOCOLCA): S/70 (≈ $19) for a foreign adult**, cash.
   - Sources: 4M's route page, three 2026 tour sites, and AUTOCOLCA's own e-ticket page (colcaperu.gob.pe, "Entradas desde S/0.00 a S/70.00"; I didn't load the price table itself).
   - It is checked on the road into Chivay, at Cruz del Cóndor and at the Cabanaconde trailhead. Keep it.
+  - LP gives the same S/70, and says it's also sold on most public buses into or out of Chivay and in Cabanaconde.
 
 ## 🛏️ Where to sleep
 
@@ -148,13 +151,17 @@ Hostelworld shows nothing at the oasis for these dates.
 
 **Sat 30 Jan, Chivay:**
 - 4M arrives in Chivay at about 12:30. Buy the boleto if it wasn't checked on the bus.
-- **La Calera hot springs**, 3 km from the plaza, S/15 (price on 4M's tour page). Optionally walk the riverside path to the Inca bridge.
+- 🥾 **Chivay → Corporaque → Yanque loop** (free, LP). Leave from the north edge of town on the La Calera road, fork left, cross the Puente Inca, and follow the fields 7 km to Corporaque on the north side of the canyon. Then drop past small ruins to the orange bridge over the Río Colca to Yanque, and take a passing bus or colectivo the 7 km back (or walk the road). Bikes can be rented in Chivay for a quicker version (LP).
+- **La Calera hot springs**, 3 km from the plaza, S/15 (price on 4M's tour page; LP: S/5–15, open 05:00–18:00). It's on the same road, so do it after the walk if there's time.
+- **Zip line** over the river just past La Calera (paid, optional): Colca Zip-Lining, 2/4/6 rides for S/50/100/150 (LP).
 
 **Sun 31 Jan, condors, rim and descent:**
 - About 06:00, the bus from Chivay to **Cruz del Cóndor** (arrive ≈ 07:30). Condors fly about 08:00–10:00. January is low season for condors (dry-season months are best), so sightings aren't guaranteed. Free with the boleto.
+  - LP is blunter: the condors are **unlikely to appear at all in January and February**, and less likely on rainy days. Treat them as a bonus; the 1,200 m drop and the rim walk are the reason to stop.
 - Walk the rim road and paths **Cruz del Cóndor → Cabanaconde, ≈ 12 km, 2.5–3 h, mostly gentle**, or flag the next bus.
 - Early lunch in Cabanaconde, then **descend to Sangalle**: about 1,100 m down, 2–3 h, **starting by noon**. January rain mostly falls 13:00–16:00 (the brainstorm's hourly analysis: 67% of January mornings are dry).
 - ⚠️ The switchbacks get muddy and loose, so use poles and grippy shoes.
+- Other trails down from Cabanaconde, about as long as the Sangalle one: to San Juan de Chuccho, Tapay or Llahuar (LP).
 
 **Mon 1 Feb, climb out:**
 - **05:00 climb out**, about 3–3.5 h up, in Cabanaconde by about 08:30.
@@ -164,7 +171,7 @@ Hostelworld shows nothing at the oasis for these dates.
 <details><summary><b>Plan B: one night in Cabanaconde, then one in Sangalle</b></summary>
 
 - **Sat 30 Jan:** take the 14:00–15:00 combi Chivay → Cabanaconde (you pass Cruz del Cóndor in the afternoon, when there are few condors). Sleep at Homestay Pachamama.
-- **Sun 31 Jan:** descend at 07:00. Easier, but you trade the morning condors for a lazy oasis afternoon.
+- **Sun 31 Jan:** descend at 07:00. Easier, but you trade the morning condors for a lazy oasis afternoon. LP says the condors rarely show in Jan–Feb anyway, so the trade costs less than it looks (you also descend before the afternoon rain).
 
 </details>
 
@@ -181,8 +188,10 @@ All ≈ (not checked).
 
 ## ℹ️ Good to know
 - **Rainy season:** afternoon storms, mud and the odd rockfall on the switchbacks.
+  - LP warns that from January to April highland bus times can double, with landslide delays. Leave slack on Monday before anything fixed in Arequipa.
 - **Altitude:** Patapampa 4,910 m on the way in; Chivay 3,630 m; Cabanaconde 3,290 m; Sangalle ≈ 2,200 m.
-- **Cash:** no ATM in Cabanaconde (≈; Chivay has a couple), so carry ≈ S/300 in small notes.
+- **Cash:** no ATM in Cabanaconde (LP agrees; Chivay has a couple), so carry ≈ S/300 in small notes.
+- **Passport on you,** not in the bag in the hold: buses pass police checkpoints (LP).
 - ⚠️ **Book 4M at least 4 days ahead** (their 3-day rule), and only after WhatsApp confirms the seat.
 
 ## 🚌 Leaving: Cabanaconde → Arequipa, Mon 1 Feb
@@ -190,10 +199,10 @@ All ≈ (not checked).
 Per redBus, 11 departures a day between 06:30 and 22:00 from 3 companies:
 - **Turismo Transandino at 09:30** and 12:30 (5 h 45 min).
 - Express Turismo Andalucía from 06:30 to 22:00 (5 h 30 min).
-- Cheapest fare **S/35 (≈ $9.50)**.
+- Cheapest fare **S/35 (≈ $9.50)**. LP's older figure for Arequipa ↔ Cabanaconde is S/17, 5 h.
 - Local sites also name Reyna and Milagros.
 - **Buy at the counters on Cabanaconde's plaza the day before** (you pass through on 31 Jan).
-- You arrive at Arequipa's Terminal Terrestre, about 3 km south of the Plaza: taxi ≈ S/10–15. Next: the [Arequipa guide](arequipa.md).
+- You arrive at Arequipa's Terminal Terrestre (or the Terrapuerto next door), about 3 km south of the Plaza: taxi ≈ S/10–15 (LP: ≈ S/7). Take one from inside the terminal; LP warns against street-hailed taxis in Arequipa. Next: the [Arequipa guide](arequipa.md).
 
 ---
 <sub>Photos: Google Maps contributors (Sangalle, Cruz del Cóndor, Mirador San Miguel, Mirador de Patapampa, Lagunillas, La Calera). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Colca-condor-c03.jpg">Colca condor</a> (Colegota, CC BY-SA 2.5 es), <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_traditional_alpaca_chicharr%C3%B3n_in_Santa_Luc%C3%ADa,_Puno,_Peru.jpg">Alpaca chicharrón in Santa Lucía</a> (H.dav.are, CC BY-SA 4.0).</sub>

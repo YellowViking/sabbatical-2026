@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Sun 24 Jan** · Alasitas opens | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: **Feria 16 de Julio** in El Alto (Thu + Sun only, so this is your one chance) *or* **Alasitas**, which opens at noon. Cholitas wrestling runs on Sunday afternoons in El Alto *(lead)*. |
+| **Sun 24 Jan** · Alasitas opens | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: **Feria 16 de Julio** in El Alto (Thu + Sun only, so this is your one chance; LP says it runs to ≈ 15:00, so go straight from the airport) *or* **Alasitas**, which opens at noon. Cholitas wrestling runs on Sunday afternoons in El Alto *(lead)*. |
 | **Mon 25 Jan** | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
 | **Tue 26 Jan** | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone) plus a 🚡 **Mi Teleférico** ride. Alasitas is still on. Withdraw ≈ Bs 600 for Copacabana and Isla del Sol. |
 | **Wed 27 Jan** | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
@@ -73,6 +73,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Ground option:** overnight bus Sat 23 Jan 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$56 flight is better.
 - **Sucre's Alcantarí airport** is ≈ 30 km out (taxi ≈ Bs 80–100, ≈; leave town by 07:30).
 - **At El Alto:** official taxi **Bs 80–150** to the centre (Bolivian Life, Nov 2026), ≈ 40 min to the hostel, or minibus 212 for ≈ Bs 3.
+  - LP: the minibus has a "Minibus Cotranstur" sign just outside arrivals, runs ≈ 07:00–20:00 to Plaza Isabel la Católica (B$3.80 in LP) and drops anywhere along El Prado. LP's radio-taxi fare was ≈ B$70 (LP).
 
 ## 🛏️ Where to sleep
 
@@ -126,17 +127,31 @@ All live-checked on 24 Nov.
 </table>
 
 **Mi Teleférico (almost free):**
-- ≈ **Bs 3 the first line + Bs 2 per transfer** (≈ US$0.25 + 0.17; lapazteleferico.com).
+- ≈ **Bs 3 the first line + Bs 2 per transfer** (≈ US$0.25 + 0.17; lapazteleferico.com). LP has the same fares.
 - Ride Roja up, Plateada along the El Alto rim, then Amarilla/Verde down to the Zona Sur. That's the best city view for under US$1.
+- Hours ≈ 06:00–23:00 Mon–Sat, 07:00–21:00 Sun (LP).
+
+**More free things in town (LP):**
+- **Mercado de las Brujas** (Witches' Market), on Jiménez and Linares between Sagárnaga and Av. Mariscal Santa Cruz: herbal remedies, amulets and offerings for Aymara spirits, among the craft shops (LP).
+- **Calle Jaén**, the best-preserved colonial street, free to walk. Its four small museums share one ≈ B$20 ticket (bought at the Museo Costumbrista), Tue–Fri 09:00–12:30 and 15:00–19:00, Sat–Sun 09:00–13:00 (LP).
+- **Parque Montículo** in Sopocachi for a free viewpoint over the city, then people-watching on Plaza Avaroa (LP). LP's other cheap picks: people-watching on Plaza Murillo and the quiet of the botanical garden.
+
+**Paid, optional (LP):**
+- **Museo de Etnografía y Folklore (MUSEF)**, Ingavi and Sanjinés: ritual masks and textiles from across Bolivia; ≈ B$20, Mon–Fri 09:00–12:30 and 15:00–19:00, Sat 09:00–16:30, Sun 09:00–12:30 (LP).
+- **Museo de Textiles Andinos Bolivianos** (Plaza Benito Juárez 488, Miraflores): ≈ B$15, Mon–Sat; 90% of shop sales go to the weavers (LP).
 
 **Muela del Diablo (free hike, no fee), a morning:**
 - **Getting there:** minibus from Calle Murillo or the Zona Sur (lines 282/288, ≈ Bs 2.50–5), or Mi Teleférico Verde to Irpavi then a minibus, to **Pedregal**.
 - **The walk:** ≈ 1.5–2 h up to the base of the "devil's molar" (≈ 3,800 m) with Illimani views, and back the same way.
 - ⚠️ La Paz Life (Sep 2026) and Bus Hop advise **not hiking it alone**: there are occasional opportunistic robberies on these quiet edge-of-city trails. Go with someone from the hostel, leave valuables, or take a guided half day (≈ US$25–50; GetYourGuide from €40).
 
+**Other DIY day hikes LP names:** the **Valle de la Luna** eroded badlands in the Zona Sur (≈ B$25, dawn to dusk; a short walk, not the Chilean one) and the **Valle de las Ánimas** rock spires on the south-eastern edge (LP). Same caution as the Muela: go in company.
+
 **Sun 24 Jan, arrival day (pick one for the afternoon):**
 - The plane lands at El Alto, which holds its huge **16 de Julio street market on Thursdays and Sundays**, and the **cholitas wrestling** show runs on Sunday afternoons in El Alto. Both are worth fitting in on the way down into La Paz *(leads)*.
 - **El Alto's Feria 16 de Julio** (Thursdays and Sundays, so this is your only chance): a huge flea market on the rim at 4,000 m. Take Mi Teleférico's red line up to 16 de Julio station; carry little and watch pockets.
+  - ⚠️ LP gives its hours as **≈ 06:00–15:00**. Landing at 11:25, go straight from the airport (it's in El Alto) and drop the bag later, or it will be winding down.
+  - El Alto is also where Freddy Mamani's colourful *cholets* (Aymara mansions) stand; HanaqPacha Travel runs a tour inside them (≈ B$140 in LP) (LP).
 - **Alasitas fair (free):** La Paz's miniatures-and-Ekeko fair **opens at noon on 24 Jan 2027** at the Campo Ferial Bicentenario, Parque Urbano Central, and runs ≈ a month (≈ Bolivian Life). You land at 11:25, so do Alasitas *or* the El Alto feria that afternoon; Alasitas is also open on the 25th–26th.
 
 **Tiwanaku day trip (new 26 Nov):**
@@ -144,6 +159,10 @@ All live-checked on 24 Nov.
 - **Bs 100 for foreigners, cash only**; open daily ≈ 09:00–16:00/17:00.
 - Minibuses leave when full from opposite the **Cementerio General** gate, Bs 15–25, 1½–2 h each way.
 - *(Added 26 Nov from The Broke Backpacker, Lonely Planet, Nomadic Matt and Worldly Adventurer; facts are AI-summary leads, ≈, check on the day.)*
+- **LP details:** tickets B$100, sold 09:00–16:00 at the office opposite the museums; the site stays open to 17:00. See the museums first, then the ruins (LP).
+  - Local guides at the gate: ≈ B$150 in Spanish, B$180 in English, for a group of up to 6 (LP).
+  - Agency day trips with transport and a bilingual guide run ≈ B$80–150, 08:30 → ≈ 16:00 (Diana Tours on Sagárnaga; Vicuña Travel at the main terminal). LP says most travellers go this way (LP).
+  - A taxi there and back costs ≈ B$210–280 (LP).
 
 **Optional big day 1: Pico Austria 5,320 m (Condoriri massif):**
 - **1-day ≈ US$80–115** (GetYourGuide US$115, Expedia US$108, Tripadvisor from US$80).
@@ -151,11 +170,17 @@ All live-checked on 24 Nov.
 - **January:** agencies still run it (non-technical), but the clear window is ≈ 06:00–10:00. After that come fog, sleet and wet snow above 5,000 m; microspikes are sometimes needed, and a "with view" summit is maybe 40–50% (≈).
 - By the 25th you'll have spent a week above 3,600 m, which is ideal.
 - **Do the 1-day version on 25 or 26 Jan**, choosing the day by the 48-h mountain forecast; a 2-day would eat the whole stop.
+- **Cheaper high-summit alternative:** agencies run daily "hiking" trips to **Chacaltaya** (≈ 5,400 m, 30 km north), which LP calls an easy way to stand on a high peak without hard climbing (LP; price not given, ask on Sagárnaga). LP's best climbing season in the Cordillera Real is May–September, so January is a gamble either way (LP).
 
 **Optional big day 2: Death Road by mountain bike** (64 km, 4,700 → 1,100 m):
 - ✅ **Barracuda Biking US$85** (full suspension; their own web shop).
 - ✅ **Gravity Bolivia US$154** (their own page; the premium operator).
 - **January:** runs daily in the rain; mud, fog and waterfalls on the road make it more intense, not cancelled. It suits the wetter of your two days, since it's lower and not view-dependent.
+- **LP's warnings:** there are **no minimum safety standards** for operators and some 27 cyclists have died on it, so this is not the place to save money; check the bikes' brakes and suspension (LP).
+  - LP lists **Xtreme Downhill** (Sagárnaga 392) as a safety-focused cheaper option, B$400–600 depending on the bike (LP), besides Gravity.
+  - A **≈ B$50 fee** to use the old road may not be in the price; ask (LP).
+  - Pickup ≈ 07:00, back in La Paz ≈ 21:00. Bring sun cream and a swimsuit (some tours end with a pool and shower) (LP).
+- **Beginners' alternative:** the Balcón Andino descent near the Zona Sur, a ≈ 2,400 m drop on a wide dirt road (LP).
 
 **How it fits:** with 3 nights you can do one big day plus Muela del Diablo, or both big days.
 
@@ -176,16 +201,30 @@ All live-checked on 24 Nov.
 
 - All ≈ AI-summary leads, Nov 2026.
 - **Carry Bs 10/20 notes:** markets can't change Bs 100.
+- **From LP** (prices are pre-2020, so treat them as relative):
+  - **Popular Cocina Boliviana** (Murillo 826): a seasonal three-course lunch with a gourmet take on the market almuerzo, ≈ B$50, Mon–Sat 12:30–14:30. Expect a queue (LP).
+  - **La Espinita** (Quintín Barrios 712, Sopocachi): fried lake fish with ispi, potato and mote, ≈ B$20–30, Tue–Sun 12:00–14:30 (LP).
+  - **Mercado Lanza** is open ≈ 06:00–20:00; **Mercado Camacho** (Camacho and Bueno) is the other big food market (LP).
+  - **Jallalla** (Indaburo 710 at Jaén): LP's top peña for live Andean music under Mamani Mamani's ceiling art, Tue, Thu, Fri and Sat 21:00–01:00, cover with a cocktail ≈ B$30–70. **Tue 26** fits (LP).
+  - **Hallwright's** (Sánchez Lima 2235, Sopocachi): Bolivian wine bar with a 2-for-1 happy hour 18:00–19:30, Mon–Sat (LP).
+  - **Reineke Fuchs** (Pasaje Jáuregui 2241, Sopocachi) brews its own pilsner, dunkel and amber (LP).
 
 ## ℹ️ Good to know
 - **Rain:** 21 rain days in January (afternoons).
 - **Altitude:** 3,640 m (El Alto 4,050 m). You're acclimatised by now.
 - **Safety:** pickpockets on the teleférico, at the Feria and at the bus terminal. Express-kidnap warnings apply to unofficial taxis, so use radio taxis or apps.
+  - LP: avoid **El Alto, San Pedro, the cemetery area and the higher neighbourhoods after dark**, and take extra care around the bus terminals. The hostel is next to the main terminal, so take a taxi there after ≈ 21:00 (LP).
+  - Use **radio taxis with a roof light** showing their phone number, and agree the fare first; Uber also works (LP).
+  - **Fake police** scams are on the rise: real officers wear uniform and won't make you get into a taxi, show your passport on demand or be searched in the street (LP).
+  - Street money changers on Colón, Camacho and Mariscal Santa Cruz can pass fake notes; use a casa de cambio or an ATM (LP).
+  - **Tourist police:** 24 h, Plaza del Estadio, Miraflores, with a kiosk in front of the main bus terminal. Get a written *denuncia* for insurance (LP).
+- **Laundry:** the laundries along Illampu, at the top of Sagárnaga, charge ≈ B$10–15 per kg for same-day service (LP).
 - **Cash:** ATMs are plentiful. **Withdraw enough bolivianos here for Copacabana and Isla del Sol** (≈ Bs 600).
 
 ## 🚌 Leaving: bus to Copacabana, Wed 27 Jan
 
 - From the main bus terminal, 90 m from La Casa Bonita. **07:30 Vicuña Travel** (semi-cama, arr ≈ 11:30) is the pick; ≈ 4 h.
+- LP: tourist buses from the main terminal cost ≈ B$30 and are worth it; cheaper minibuses (≈ B$20–25) leave when full from the Cementerio area, which LP warns about after dark; watch your bags there (LP).
 - Full timetable, the Tiquina strait crossing and the Isla del Sol plan are in the [Copacabana + Isla del Sol guide](copacabana-isla-del-sol.md).
 
 ---

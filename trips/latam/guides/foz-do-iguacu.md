@@ -1,6 +1,6 @@
 # 🇧🇷 Foz do Iguaçu
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Asunción](asuncion.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Asunción](asuncion.md) → · Plan B: [Florianópolis](florianopolis.md) →
 
 > **Stop 6 · Sat 19 → Mon 21 Dec 2026 · 2 nights · pre-Christmas weekend**<br>
 > 🏞️ The Iguaçu falls from both sides: the Brazilian panorama on Saturday, the Argentine walkways on Sunday<br>
@@ -28,7 +28,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 | Day | Plan |
 |---|---|
 | **Sat 19 Dec** | 🌙 Night bus arrives ~07:00 at the Rodoviária Internacional; city bus or Uber (≈ R$ 20–25) to the hostel to drop your pack. 🇧🇷 **Brazilian side**: bus 120 from the TTU (≈ 40 min, R$ 6), the **08:30 slot**, the falls trail first, then Ytepopo. 🎟️ Buy tomorrow's Argentine park ticket online. 🍺 277 Craft Beer in the evening (closed Sunday). |
-| **Sun 20 Dec** | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). Last bus back to Brazil 20:30. |
+| **Sun 20 Dec** | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). ⚠️ **The Garganta del Diablo circuit has been closed since 3 Aug 2026** (high water) ✅ park news, so check before going. Last bus back to Brazil 20:30. |
 | **Mon 21 Dec** | 🚌 Uber to the rodoviária ~07:15 for the **08:00 Expresso Nordeste** to Asunción. |
 
 ## 🔖 Book (one click)
@@ -118,7 +118,7 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZJCVHuyx_n2JwHQ6iVf-z-JTd__2jVDiU9bp989Vknv7azV9k-7A8FddWqzHcYNdWvwW_2DWW59SIm98xBDESI1Fmzt67_QNnxq4Io8eEMZg6H2LHtDnlF1I790CZDHaoq2y0=w640-h400-p-k-no" width="100%" alt="Forest and wetland along the Poço Preto trail"><br><b>🇧🇷 <a href="https://www.google.com/maps?ftid=0x94f69533f021e97d:0xe4491e52d7efb453">Caminho do Poço Preto</a></b> · included in the ticket<br>9 km each way through forest; start between 09:00 and 12:00. Ytepopo (5 km along the river) is the shorter one.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDp8tOywhGp6wdXl4Gdmgn_VG8FSrQWKY2dES5jypiYouf_OrTJ7gxuHaGBTVIjqVJVJ1JX8f6mGAFZHgH0t8mf2LOq1Ob68pe5hqd9583oqkwm8_cOiWVUsMLZVPYSCGQhvBy=w640-h400-p-k-no" width="100%" alt="The Garganta del Diablo seen from the Argentine walkway"><br><b>🇦🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea09a1f64ec1:0x348a6807de70ac63">Garganta del Diablo walkway</a></b> · AR$ 60,000 park entry · Sun 20<br>2.2 km. Take the jungle train there at opening (from 08:20).</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDp8tOywhGp6wdXl4Gdmgn_VG8FSrQWKY2dES5jypiYouf_OrTJ7gxuHaGBTVIjqVJVJ1JX8f6mGAFZHgH0t8mf2LOq1Ob68pe5hqd9583oqkwm8_cOiWVUsMLZVPYSCGQhvBy=w640-h400-p-k-no" width="100%" alt="The Garganta del Diablo seen from the Argentine walkway"><br><b>🇦🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea09a1f64ec1:0x348a6807de70ac63">Garganta del Diablo walkway</a></b> · AR$ 60,000 park entry · Sun 20<br>2.2 km. Take the jungle train there at opening (from 08:20). ⚠️ <b>Closed since 3 Aug 2026</b> for high water, so check before going.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TbIDgy7vyQyVTtw55xvvECiW1Q3HoCseBBGuCnjii51ye2lQSAJ-xqrmt35LL7nqyTCpFDkLCMPUamgbpVbFA8zxnyOhcbEQMThGEgb_VotBhzbE3Qb5kFJGSuMgPYryGBW-0M=w640-h400-p-k-no" width="100%" alt="A rainbow over the falls from the Circuito Inferior"><br><b>🇦🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea6fb4d69d5d:0x28b5ec1c5274d5b2">Circuito Superior</a> and <a href="https://www.google.com/maps?ftid=0x94f6eb680419968f:0xa94fc00704c48a42">Inferior</a></b> · included<br>1.85 km along the top, then 1.45 km with stairs below the falls.</td>
 </tr>
 <tr>
@@ -139,6 +139,7 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
   - **Circuito São João:** 2.8 km, with swimming spots.
   - The Bananeiras trail is temporarily closed.
 - **Plan:** walk the falls trail at 08:30, before the crowds, then Ytepopo.
+- ⚠️ **High water, Nov 2026:** the **Garganta do Diabo walkway** (the one out over the river) **closed again on 26 Nov** for a new rise in the river ≈ (La Voz de Cataratas / De la Tribuna news, 26 Nov). The Trilha das Cataratas and the other viewpoints stay open. It had reopened on 31 Oct after a 20-day closure. Check the park's news on cataratasdoiguacu.com.br before 19 Dec.
 
 **Sun 20: Argentine side** (Parque Nacional Iguazú). This is the up-close side and needs the whole day.
 - **Foz → Puerto Iguazú:** Río Uruguay bus, hourly 07:30–21:30. On Thu–Sun it starts at the **TTU** ✅ riouruguaybus.com.ar. The fare is ≈ AR$ 10–12k ($7–9) from resellers; the operator's site shows no fare.
@@ -151,8 +152,22 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
   - Then the **Circuito Superior** (1.85 km) and the **Inferior** (1.45 km, stairs).
   - The **Sendero Macuco** is a free 7 km return jungle walk to the Salto Arrechea waterfall. It closes at 15:00 ✅.
 - **Last bus back to Brazil:** 20:30 from Puerto Iguazú ✅.
+- ⚠️ **Garganta del Diablo closed:** on 3 Aug 2026 the park began dismantling the circuit's walkway ahead of expected floods. Its news page ✅ iguazuargentina.com ("circuits available while the Garganta del Diablo stays closed") shows no reopening up to 25 Nov.
+  - A Google summary of local news, 26 Nov, still lists it as closed ≈. The **Superior and Inferior circuits, the Sendero Verde, the train and the Sendero Macuco are running** ≈.
+  - If it's still shut on 20 Dec, go straight to the Superior/Inferior circuits at opening, then the Macuco trail. The Brazilian side's panorama becomes your main Garganta view.
 
-**Paid extra, only if unique:** the boat ride under the falls (Macuco Safari or Gran Aventura); price unverified. Skip Parque das Aves and Itaipu.
+**From Lonely Planet** (*South America on a Shoestring*):
+- **Beat the crowds (LP):** tour groups usually leave by about 15:00, so the late afternoon is quieter too. The Sendero Macuco is best early, for wildlife.
+- **Isla San Martín:** LP's free launch from the lower circuit to the island **isn't running**: the island is closed to visitors ≈ (Google summary of park posts, 2026). LP also warns that the river currents near the island have drowned swimmers.
+- **Wildlife (LP):** if you meet a big cat, don't run or turn your back. Speak loudly and make yourself look bigger.
+- **Full-moon walks** to the Garganta (5 nights a month, LP) aren't on your dates: the full moon is on 24 Dec, and the Garganta is closed anyway.
+- **Border bus tips (LP):** these matter most when you leave or enter a country for good. For Sunday's same-day return, see the Border note above.
+  - Drivers ask, in Portuguese or Spanish if at all, whether anyone needs the **Brazilian** immigration stop. Listen for it.
+  - Buses often don't wait there. Ask the driver for a pass, get stamped, and catch the next bus of the same company.
+  - At the **Argentine** post the bus always stops and waits.
+  - Don't count on the **last** bus back: if it leaves you at the border, nothing comes after it (LP). Aim for the one before 20:30.
+
+**Paid extra, only if unique:** the boat ride under the falls (Macuco Safari or Gran Aventura); price unverified. LP had Macuco Safari's boat trip at ≈ R$ 215 (old). Skip Parque das Aves (LP rates it highly; ≈ R$ 45 in LP) and Itaipu (panoramic tour ≈ R$ 38 in LP).
 
 ## 🍽️ Eat and drink
 
@@ -169,6 +184,11 @@ All ≈ leads from Google, 24 Nov.
 </tr>
 </table>
 
+**More from LP** (all still on Google Maps, 26 Nov):
+- **Foz:** **[Churrascaria Tropicana](https://www.google.com/maps?ftid=0x94f6904a7402bf7f:0x11a08fb930c753c4)**, Av. Juscelino Kubitschek 228. An all-you-can-eat churrasco buffet that LP rates as Foz's best budget meal (≈ R$ 35 in LP; check today's price). Expect a crowd.
+- **Foz:** **[Vó Bertila](https://www.google.com/maps?ftid=0x94f69118ed313f4d:0x2484d4ae32ab6a53)**, Bartolomeu de Gusmão 1116: a family cantina with wood-fired pizza in **personal sizes** and huge pasta portions. Tue–Sun from 18:30 (LP), so it works on Saturday night.
+- **Puerto Iguazú, Sun 20 after the park:** the **[Feirinha](https://www.google.com/maps?ftid=0x94f692302de1690b:0x14474d3df45d3fe9)** (Av. Brasil & Félix de Azara). It's a market of stalls selling Argentine wine, cheese and sausage, several of which serve *picadas*, grills and cold beer, sometimes with folk music (LP). **[La Misionera](https://www.google.com/maps?ftid=0x94f69230d15eb0cd:0x4f910676e4ac52fb)** (P. Moreno 228) does cheap empanadas with many fillings (LP). Leave time for the bus before 20:30.
+
 ## ℹ️ Good to know
 - **Crowds:** 19–20 Dec is a pre-Christmas weekend in the school holidays. **Buy the Brazilian ticket online for the 08:30 slot** and be at the Argentine gate at 08:00.
 - **Money:** carry Argentine pesos (or a card) for the buses, and US dollars or reais as a fallback.
@@ -176,6 +196,7 @@ All ≈ leads from Google, 24 Nov.
 
 ## 🚌 Leaving: Foz do Iguaçu → Asunción, Mon 21 Dec
 
+- 🔁 **Plan B (skip Paraguay):** stay in Foz until the **16:30 Nordeste night bus to Florianópolis** on Mon 21 Dec (R$276.99, arrives 08:10). See [Florianópolis](florianopolis.md).
 - **Pick: Expresso Nordeste 08:00 Foz Rodoviária Internacional → Asunción terminal 15:00**, semi-leito, **R$ 114.99 ($19.30)**, 28 seats left ✅ ClickBus. Take an Uber to the rodoviária at ~07:15 (≈ 6 km).
 - **Alternative:** NSA 10:00 → 17:00, Gs 200,000 ($31.50).
 - The do-it-yourself route via Ciudad del Este, and the exit and entry stamps you need either way, are in the [Asunción guide](asuncion.md).

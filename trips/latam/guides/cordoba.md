@@ -35,8 +35,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 | **Sun 3 Jan** | 🦅 **Quebrada del Condorito** day trip: COATA 09:30 → La Pampilla 11:30; back 19:40 → 21:45. |
 | **Mon 4 Jan** | 🚌 **06:15 Sarmiento** to Los Gigantes (off at 08:40), 🥾 walk up to the refugio (2–3 h). Afternoon: Cerro de la Cruz and the Cueva de la Salamanca. |
 | **Tue 5 Jan** | ⛰️ **Cerro Mogote** at dawn, then the **Los Cajones** granite canyons. |
-| **Wed 6 Jan** | 🥾 Down by ≈ 11:30 for the **12:04 bus**, back in Córdoba 13:59. |
-| **Thu 7 Jan** | Spare day: redo Condorito if Sunday was fogged in, or laundry and the city. 🚌 Night bus at 20:15/20:30, or 23:45 if you redo Condorito. |
+| **Wed 6 Jan** | 🥾 Down by ≈ 11:30 for the **12:04 bus**, back in Córdoba 13:59. 🏛️ Wednesday is **free entry at the provincial museums** ✅: the Museo Caraffa by Parque Sarmiento is open until 17:30. |
+| **Thu 7 Jan** | Spare day: redo Condorito if Sunday was fogged in, or laundry and the city, or a half day at a Jesuit estancia (Alta Gracia or Jesús María, see below). 🚌 Night bus at 20:15/20:30, or 23:45 if you redo Condorito. |
 
 ## 🔖 Book (one click)
 
@@ -133,7 +133,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - 1.9 km from the plaza, 2.8 km from the terminal.
 - ✅ Curtains with a light and socket at each bed, and a well-equipped kitchen (staff sometimes use it).
 - ⚠️ It has a small **pool**, but reviews describe a calm place, not pool parties; the outdoor dining area has music until midnight.
-- **Third option, nearest the terminal:** Hostel Alvear (0.3 km from the plaza, 1.1 km from the terminal). Agoda 9.4 (1,097 reviews), **$25.80 on Agoda for 2 → 4**; Hostelworld 87 with a few reception-music complaints.
+- **Third option, nearest the terminal:** Hostel Alvear (0.3 km from the plaza, 1.1 km from the terminal). Agoda 9.4 (1,097 reviews), **$25.80 on Agoda for 2 → 4**; Hostelworld 87 with a few reception-music complaints. LP also recommends it (an old building with spacious dorms).
 
 ### Private alt (location first): Alto Paraná Depto en Nueva Córdoba
 - Whole 1-bedroom apartment with kitchen. Booking **location 9.9** (51 reviews, 0% below 7).
@@ -185,11 +185,20 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Córdoba's risk-zone **sworn declaration** (Declaración Jurada, free; online or by QR at the trailhead) is required going up and coming down *(≈ lead, check the form on cba.gov.ar)*.
 - **Weather:** afternoon storms and fog are common in January, so be off the summits by noon.
 
-### 🏙️ Córdoba city (free, Sat 2 / Thu 7)
+### 🏙️ Córdoba city (Sat 2, Wed 6 afternoon, Thu 7; free first)
 - The **Güemes** neighbourhood and its **Paseo de las Artes** craft fair (weekend afternoons).
 - **Parque Sarmiento** and **Nueva Córdoba**.
 - The **La Cañada** stream walk.
 - The old centre around **Plaza San Martín and the Cabildo**.
+- **Free museums on Wednesdays** ✅ (museocaraffa.org.ar, 26 Nov): entry is free at all of Córdoba's provincial museums on Wednesdays. That fits Wed 6 after the 13:59 bus.
+  - **Museo Caraffa** (Av. Poeta Lugones 411, by Parque Sarmiento): Tue–Sun 10:00–17:30; ARS 5,000 on other days.
+  - **Palacio Ferreyra** (Museo Evita, Av. H. Yrigoyen 551): fine art in a mansion on the same "Milla Cultural" (LP).
+- **Paseo del Buen Pastor** (Av. H. Yrigoyen 325): a free gallery of young local artists, also on the Milla Cultural (LP).
+- **Museo de la Memoria** (Pasaje Santa Catalina 1, beside Plaza San Martín): free. It occupies the dictatorship's former D2 detention and torture centre. Afternoons only; closed Mondays (LP).
+- **Manzana Jesuítica** (UNESCO, paid): the Museo Histórico UNC shows the Jesuit library and the old university rooms. ✅ January hours are Mon–Sat 9:30–14:30, entry by contribution, with Spanish tours at 11:00 (English at 10:00 if booked 24 h ahead) (museohistorico.unc.edu.ar). Sat 2 or Thu 7 morning.
+- **Thu 7 alternative, if Condorito doesn't need a redo:** a UNESCO Jesuit estancia, ≈ 1 h by minibus (LP).
+  - **Alta Gracia** (35 km): the estancia's Museo Virrey Liniers (free per LP) and Che Guevara's boyhood home, now a paid museum.
+  - **Jesús María** (51 km): LP's pick if you see only one Jesuit estancia; museum free per LP, Tue–Sun.
 
 ## 🍽️ Eat and drink
 
@@ -210,10 +219,18 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Lomito** (Córdoba's steak sandwich) at any lomitería in Nueva Córdoba: ≈ ARS 14,000–16,000 (≈ $9) with fries.
 - **Craft beer:** [Cervecearte](https://www.google.com/maps?ftid=0x9432a30078c434e1:0xf5d7e7bcf27d089c) (Achával Rodríguez 371, Güemes) or Craft Beer Community House (Independencia 572). A pint is ≈ ARS 3,500–6,000 (≈ $2–4), with happy hour 18–20 h.
 
+**Lonely Planet picks (LP; prices in the book are long out of date):**
+- **Mercado Norte** (Oncativo 50): the indoor market's stalls sell cheap empanadas, pizza and seafood. Mon–Fri 7:00–19:30, Sat to 14:30, so it works for breakfast or lunch after the Sat 2 night bus.
+- **La Candela** (Duarte Quirós 67): no-frills locro and empanadas in an old house.
+- **Quadrata** (9 de Julio 458): cheap pizza by the slice, pasta and panini.
+- **Beer Joint** (Achával Rodríguez 183, Güemes): craft beer with LP's best Güemes happy hour (18–21 h).
+- Córdoba's own drink is **fernet con Coca**.
+
 ## ℹ️ Good to know
 - ⚠️ **Peak season:** early January is peak domestic holiday season in the Sierras. APN advises booking the La Pampilla buses ahead in January–March.
 - **Sat 2 Jan** is the first working day after New Year, so shops in the city are still half shut.
 - **Safety:** use an app taxi to and from the terminal at night and at 05:45.
+- **Two terminal buildings:** the bus station has an older and a newer building on either side of Bv. Perón, linked by a tunnel. Check which one your ticket names (LP).
 - **Cash:** bring pesos for the Los Gigantes fees and any roadside ticket.
 
 <details><summary><b>If you don't carry a sleeping bag, or prefer a town base</b></summary>

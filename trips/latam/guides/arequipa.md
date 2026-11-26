@@ -28,7 +28,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 | Day | Plan |
 |---|---|
 | **Mon 1 Feb** | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
-| **Tue 2 Feb** | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: **Juanita** *or* the **Ruta del Sillar**. Options B and C leave Arequipa today. |
+| **Tue 2 Feb** | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
 | **Wed 3 Feb** | ✈ Option A: leave by 05:10 for the **06:50** flight. |
 
 ## 🔖 Book (one click)
@@ -63,7 +63,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 ## 🚌 Getting here: Cabanaconde → Arequipa, Mon 1 Feb
 
 - **Bus Cabanaconde → Arequipa Terminal Terrestre:** 09:30 Transandino or the next Andalucía, ≈ 5.5–6 h, S/35 (≈ $9.50). ≈ redBus route data (see the [Colca guide](colca-canyon.md)).
-- **Taxi to the centre** ≈ S/10–15.
+- **Taxi to the centre** ≈ S/10–15 (LP: ≈ S/7). Take one from inside the terminal.
+- **Two terminals side by side** on Av. Andrés Avelino Cáceres, under 3 km south: the Terminal Terrestre and the smaller Terrapuerto. Both have left luggage, and the Terminal Terrestre has an ATM. For departures, pay the S/1.50 terminal tax at its own booth (LP).
+- **Cheaper:** combis link the centre and the terminals along Bolívar / Cruz Verde, S/1. Ask for a *directo* (≈ 20 min); others go via the market (≈ 35 min) (LP).
 
 ## 🛏️ Where to sleep
 
@@ -106,17 +108,23 @@ You have Mon evening, all of Tue, and an early Wed exit.
 <td width="50%" valign="top"><b><a href="https://www.google.com/maps?ftid=0x91424a4fe1ae2d85:0x84aa1c7593f13cce">Mundo Alpaca</a></b> · free<br>Alpacas and live weaving, Alameda San Lázaro.<br><br><b><a href="https://www.google.com/maps?ftid=0x91424a59ffae2999:0xc419f49d1f9cd270">Plaza de Armas</a> arcades and the <a href="https://www.google.com/maps?ftid=0x91424a502cc27acb:0xb98105c5ac052250">San Lázaro</a> lanes</b> · free</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz0CXsyX3qY7yHuenrI3PNkCX8MuWfz5JkAjC7hSPxvIYokvKDk_yNq_5VVPeU2Bqe-uXOgNzs3-KHwDp1GD6k9iIzYHU7GqAVlH9TgtgOnj1JJx3DsxeBowsIrU1GtlTuZYkU6RgCMPRk=w640-h400-p-k-no" width="100%" alt="The red colonial facade of the Museo Santuarios Andinos"><br><b><a href="https://www.google.com/maps?ftid=0x91424a59e57eb765:0x1727dfb603fb649f">Museo Santuarios Andinos</a></b> · ≈ S/20–25<br>Juanita, the Inca ice maiden from Ampato. One of the two paid options.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz0CXsyX3qY7yHuenrI3PNkCX8MuWfz5JkAjC7hSPxvIYokvKDk_yNq_5VVPeU2Bqe-uXOgNzs3-KHwDp1GD6k9iIzYHU7GqAVlH9TgtgOnj1JJx3DsxeBowsIrU1GtlTuZYkU6RgCMPRk=w640-h400-p-k-no" width="100%" alt="The red colonial facade of the Museo Santuarios Andinos"><br><b><a href="https://www.google.com/maps?ftid=0x91424a59e57eb765:0x1727dfb603fb649f">Museo Santuarios Andinos</a></b> · S/20 (LP)<br>The Inca ice-mummy museum. ⚠️ Juanita is off display Jan–Apr, and Sarita is shown instead. One of the two paid options.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJbqorucitw6x7jUufGdfPBvTZ4CkJSpCbq9kK2SUUL6m0FStIPJ4imyKqh4j4pPdY3S-ZuO9Hurvj4GYSQzxsgyNqvHSexHc9Esctx14ljS9HPVxL-b1GXNHWxRdu6PZc7ozUW5ZrRIhq=w640-h400-p-k-no" width="100%" alt="Pale cut-stone walls of the Añashuayco sillar quarry"><br><b><a href="https://www.google.com/maps?ftid=0x91423775db85c4d7:0x1c3b5509192fd864">Ruta del Sillar</a></b> · ≈ S/40–60 by tour<br>The Añashuayco quarry canyon, where Arequipa's white stone is cut. The other paid option.</td>
 </tr>
 </table>
 
 - **Mirador de Yanahuara** (free): sillar arches framing Misti, Chachani and Pichu Pichu. 1.5 km from the Plaza over Puente Grau. Best late afternoon; this is the Mon-evening walk.
+  - LP's route: cross Puente Grau, take the first right (Bolognesi) along the park, then the first left up Cuesta del Ángel, and go four blocks to Plaza Yanahuara.
 - **Riverside walk:** Río Chili and the Chilina valley terraces between Puente Grau and the Yanahuara side (free).
+  - ⚠️ Go by day, and keep out of **Parque Selva Alegre**, north of the centre: LP reports muggings there.
 - **Plaza de Armas arcades and the San Lázaro lanes** (free).
 - **Mundo Alpaca** (free): alpacas and live weaving, Alameda San Lázaro.
 - **Mirador de Carmen Alto:** terraced fields under Misti, ≈ S/5 plus a ≈ S/15 taxi (≈ unverified).
-- **One paid, unique:** either **Museo Santuarios Andinos** (Juanita, the Inca ice maiden from Ampato, ≈ S/20–25) or the **Ruta del Sillar** (Añashuayco quarry canyon, where Arequipa's white stone is cut; ≈ S/40–60 by tour, or a taxi plus a small entry fee). Nothing later on the route covers either.
+- **One paid, unique:** either **Museo Santuarios Andinos** or the **Ruta del Sillar** (Añashuayco quarry canyon, where Arequipa's white stone is cut; ≈ S/40–60 by tour, or a taxi plus a small entry fee). Nothing later on the route covers either.
+  - ⚠️ **Juanita** (the Inca girl from Ampato) is **off display January–April** for conservation. **Sarita**, another Inca child offering from Sara Sara volcano, is shown instead (peru.travel and Peru's state news agency Andina; checked 26 Nov). On 2 Feb you'd see Sarita, which tilts the choice towards the **Ruta del Sillar**.
+  - Museum (LP): adult **S/20** (also the foreign-adult rate on the museum's 2021 reopening notice). The guided tour is compulsory, takes ≈ 1 h, is free and expects a tip, and runs in Spanish, English or French. Mon–Sat 09:00–18:00, Sun to 15:00.
+- **Paid and outdoors, if the weather's good:** a half-day bike ride around Misti, US$50 with Peru Adventures Tours, transport and gear included (LP).
+- **Not in this season:** rafting on the Río Chili runs April–November only; LP says rivers are too high in Dec–Mar.
 - **Skip:** the Santa Catalina monastery (a religious site) and the cathedral.
 - **Misti (5,822 m) and Chachani (6,057 m):** guided ascents are **paused January–March** (rainy season), so don't plan a climb.
 
@@ -133,11 +141,19 @@ You have Mon evening, all of Tue, and an early Wed exit.
 </tr>
 </table>
 
-All ≈, not checked.
+All ≈, not checked, except where LP is cited:
+- **La Nueva Palomino** (LP): mains S/22–69, but one *rocoto relleno* is a meal for a solo diner. Lunch only, Mon–Sat 12:00–17:00 (Sun breakfast 07:30–12:00), so go by ≈ 14:00 on Tuesday.
+- **Chelawasi:** opens 16:00 on weekdays (noon on Saturdays), and craft beers are S/15–18 (LP).
+- **Set lunch** (*menú del día*): soup, main and sometimes dessert for ≈ S/8–22 nationally (LP). Mercado San Camilo is LP's tip for cheap local eating too.
+- Mid-range and better restaurants add tax and a 10% service charge to the bill (LP), so the menu price isn't the total.
 
 ## ℹ️ Good to know
 - **Dry:** Arequipa is desert. Jan–Feb station rain is 28–36 mm a month (brainstorm §6), so it's the driest stop of the week.
-- **Airport (AQP):** about 8 km out; taxi ≈ S/25–35, 25–35 min. For a 06:50 flight, leave by 05:10.
+- **Airport (AQP):** about 8 km out; taxi ≈ S/25–35, 25–35 min. For a 06:50 flight, leave by 05:10. Have the hostel book the taxi the night before.
+- ⚠️ **Taxis (LP):** don't hail taxis in the street here. LP links unlicensed "pirate" taxis to crimes against passengers, naming Arequipa in particular. Have the hostel call an official one, or use the ranks inside the bus terminals.
+- **Tours (LP):** book only at a recognised agency, never through street touts. Pay in cash, because card fraud has been reported.
+- **Petty theft** is common in cafés and bars, so keep your phone off the table (LP).
+- **Tourist info:** iPerú on the Plaza de Armas (Portal de la Municipalidad 110), Mon–Sat 09:00–18:00, Sun to 13:00 (LP).
 - **Carnival:** Peru's water-balloon fights start on February weekends (6–7 Feb), so they're probably not an issue on 1–3 Feb.
 
 ## 🚌 Leaving: three open options

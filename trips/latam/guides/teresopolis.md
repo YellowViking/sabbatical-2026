@@ -142,6 +142,8 @@ No restaurants were checked for Teresópolis. The pick has its own kitchen, with
   - Beds for the later stops were not re-checked for the shifted dates.
 - **Weather:** December storms come after about 13:00, so start hikes early.
 - **ID:** bring your passport to the park gate.
+- **What LP says** (*South America on a Shoestring*): it covers the park in two lines only. It names Serra dos Órgãos among Brazil's best hiking parks and says it draws climbers and mountaineers. It puts the best hiking season in the cooler months, **April–October (LP)**, so December means heat and afternoon storms. There is no Teresópolis write-up and no hostel listing; LP's Rio bus table lists only Petrópolis (1½ h, Única-Fácil).
+- **Health (LP):** dengue occurs in Rio state, so use repellent in the forest. A **yellow-fever jab** isn't required to enter Brazil but LP strongly recommends it. Clinics at major airports and borders give it free.
 
 ## 🚌 Leaving: Teresópolis → Rio, Thu 10 Dec
 
