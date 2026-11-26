@@ -1,27 +1,108 @@
-# Panama City
+# 🇵🇦 Panama City
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [Boquete](boquete.md) →
 
-## Book (one click)
+> **Stop 25 · Wed 3 → Fri 5 Feb 2027 · 2 nights · just before Carnaval**
+> 🏞️ The canal, Casco Viejo and a bayside skyline, with rainforest a short ride out<br>
+> 🛏️ **El Machico Hostel**, 10-bed mixed dorm, $38 for 2 nights<br>
+> ✈️ **In:** Sky + Copa from Arequipa via Lima, Wed (lands 17:08) · **Out:** Air Panama Albrook → David, Fri 07:00
 
-Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
+<img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QsiSmJT2coXgxzg64ERGJB8fCnnFiAm5K5zst8W9_p_AVzF3SZJn8m4mJodqXno-hI2wCjEm1aVTzgtb1LiX7mbVf9NovPEvFtXk-iphQXj0o6tB5kCi3a541aMOZZnToK3FFQUQ=w1200-h360-p-k-no" alt="The Panama City skyline from the Cinta Costera sea wall" width="100%">
 
-**Getting there** comes from Google Maps on 24 Nov (the property found on Google Maps, routed from where you arrive at midday on the check-in date). 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line. The **Maps route** link opens the same route.
+<sub>The skyline from the Cinta Costera, the bayside promenade that runs to Casco Viejo. Photo: Google Maps.</sub>
 
-**Location** is the guests' location score on Booking.com (aim ≥ 9.0; ⚠️ = below 9.0). *(HW)* = Hostelworld's location rating, used where the property isn't on Booking.
+## 🗺️ Map
 
-| What | Links | Getting there (Google Maps, checked 24 Nov) |
-|---|---|---|
-| ✈ Arequipa → Lima, Wed 3 Feb 06:50 (Google Flights; Sky $52) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |  |
-| ✈ Lima → Panama City, Wed 3 Feb 13:20 (Google Flights; Copa $274) | [open](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |  |
-| Points option: Copa LIM → PTY on United miles, Wed 3 Feb (17,500 + $31.49 saver; CM400 10:30 or the 02:15 / 02:35 red-eyes) | [United award search](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-03&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |  |
-| Dorm pick: **El Machico Hostel** (3 Feb → 5 Feb) · location 9.2 | [Booking (search)](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/88333/el-machico-hostel/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=728716&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 33 min from Tocumen airport; or Metro Line 2 → Line 1 from the airport ($0.85, see the guide); ℹ️ outside the centre (56 min on foot, buses run) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.9780616,-79.5207519&travelmode=driving) |
-| Backup: **Bodhi Panama City** (3 Feb → 5 Feb) · location 9.0 | [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) | 🚕 taxi/rideshare ≈ 33 min from Tocumen airport; or Metro Line 2 → Line 1 from the airport ($0.85, see the guide); ℹ️ outside the centre (1 hr on foot, buses run) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.980063699999999,-79.5208425&travelmode=driving) |
+![Map of Panama City: the beds, Albrook terminal and airport, the Cinta Costera, Casco Viejo, Cerro Ancón and the food and beer stops](img/panama-city-map-f6e00a9a.jpg)
 
-## Getting here: three options, Arequipa → Panama City
+**In town:** ★ **El Machico Hostel** (the pick) · **1** Bodhi Panama City (backup) · **2** Greg's Place in Albrook (private alt) · **B** [Albrook bus terminal](https://www.google.com/maps?ftid=0x8faca8a3bb04874b:0xb87b93195ae1d667) · **A** [Albrook airport (PAC)](https://www.google.com/maps?ftid=0x8faca8a1cbb2f85b:0x111d1d322af8388) · **3** [Cinta Costera](https://www.google.com/maps?ftid=0x8faca8c4b805dbe7:0xa9483c1626ca4251) · **4** [Paseo Esteban Huertas](https://www.google.com/maps?ftid=0x8facaf33672b4595:0x58b0279729701266) and [Plaza de Francia](https://www.google.com/maps?ftid=0x8facaf3482c1021d:0x2ebf4e48351e5242) (Casco Viejo) · **5** [Cerro Ancón](https://www.google.com/maps?ftid=0x8faca8b2045dd153:0x7b3744c2c67cec1e) · **6** [Parque Natural Metropolitano](https://www.google.com/maps?ftid=0x8faca88917f4d563:0x13615a6fe608ac41) · **7** [Mercado de Mariscos](https://www.google.com/maps?ftid=0x8faca8e771a6d8b1:0xd4efef42b96f67c3) · **8** [Casa Bruja Casco](https://www.google.com/maps?ftid=0x8faca8cabb6eaaab:0x7626bf627060fe3f) and [La Rana Dorada](https://www.google.com/maps?ftid=0x8faca8ca948d61d9:0x591d7b43d8f306bd) (craft beer, a block apart)
 
-All three are kept open (user, 24 Nov).
+![Map of the area: Tocumen airport to the east, the canal locks and Pipeline Road to the north-west](img/panama-city-area-map-c01ddea6.jpg)
 
+**Around:** ★ Bella Vista · **T** [Tocumen airport (PTY)](https://www.google.com/maps?ftid=0x8fab553175c2905f:0x97c42a4d90dbc27a) · **A** Albrook airport (PAC) · **10** [Miraflores Visitor Center](https://www.google.com/maps?ftid=0x8faca64d2e394c67:0xee8df7af5f1d4546) · **11** [Pedro Miguel Locks](https://www.google.com/maps?ftid=0x8faca70c59a5311b:0x1e3bce20d6276b19) · **12** [Pipeline Road](https://www.google.com/maps?ftid=0x8fab5df47d335c3b:0x220356f7f89bf9a2) (Gamboa, Soberanía NP)
+
+**Open the live map:** [town](https://www.google.com/maps/@8.968,-79.540,14z) · [area](https://www.google.com/maps/@9.03,-79.56,11z)
+
+## 📅 Day by day
+
+| Day | Plan |
+|---|---|
+| **Wed 3 Feb** · Day 58 | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo**. |
+| **Thu 4 Feb** · Day 59 | 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Wed) and a craft beer. |
+| **Fri 5 Feb** · Day 60 | ✈️ **Air Panama 07:00** Albrook → David, then the bus up to Boquete. Carnaval exodus day. |
+
+## 🔖 Book (one click)
+
+Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
+
+**Beds** (3 → 5 Feb, 2 nights)
+
+| | Where | Total | Location | From Tocumen airport | Book |
+|---|---|---:|:---:|---|---|
+| ⭐ **Pick** | **El Machico Hostel** · 10-bed mixed dorm | **$38** | 9.2 | 🚕 ≈ 33 min; or Metro Line 2 → Line 1 from the airport ($0.85, see below) · ℹ️ outside the centre (56 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.9780616,-79.5207519&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/88333/el-machico-hostel/?from=2027-02-03&to=2027-02-05&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=728716&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
+| Backup | **Bodhi Panama City** · 16-bed mixed ensuite dorm | $35.70 | 9.0 | 🚕 ≈ 33 min; or Metro Line 2 → Line 1 ($0.85) · ℹ️ outside the centre (1 hr on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.980063699999999,-79.5208425&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-03&to=2027-02-05&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-03&checkout=2027-02-05&NumberofAdults=1&Rooms=1) |
+| Private alt | **Greg's Place in Albrook** · queen room, shared bath | $76 | 9.4 | Not routed. 1.3 km from the Albrook bus terminal and Albrook airport (PAC) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Greg%27s+Place+in+Albrook+Panama+City&checkin=2027-02-03&checkout=2027-02-05&group_adults=1&no_rooms=1&selected_currency=USD) |
+
+**Transport**
+
+| | Leg | When | Price | Book |
+|---|---|---|---:|---|
+| In | **Sky H2 5102** · Arequipa → Lima | **Wed 3 Feb 06:50 → 08:35** | **$52** | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |
+| ⚠️ In | **Copa CM760** · Lima → Panama City (separate ticket) | **Wed 3 Feb 13:20 → 17:08** | **$274** | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDNqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |
+| Points | Copa LIM → PTY on United miles | Wed 3 Feb: CM400 10:30, or the 02:15 / 02:35 red-eyes | 17,500 + $31.49 saver | [United award search](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-03&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
+| Out | **Air Panama 7P670** · Albrook (PAC) → David | **Fri 5 Feb 07:00 → 08:00** | $67 | [Air Panama](https://www.airpanama.com/) (details in the [Boquete guide](boquete.md)) |
+
+<details><summary>How to read these tables</summary>
+
+- **Location** is the guests' location score on Booking.com. The target is 9.0 or higher, and ⚠️ would mark one below 9.0. *(HW)* means Hostelworld's location rating, used where a property isn't on Booking.
+- **From Tocumen airport** comes from Google Maps on 24 Nov: the property found on Maps and routed from where you arrive at midday on the check-in date.
+- Symbols: 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line.
+
+</details>
+
+## ✈️ Getting here: Arequipa → Lima → Panama City, Wed 3 Feb (two separate tickets)
+
+**Live Google Flights search, 24 Nov 2026** (USD, 1 adult, taxes included, cheapest fare brand, bags extra):
+
+| Leg | Flight | Dep → Arr | Price |
+|---|---|---|---|
+| AQP → LIM | Sky H2 5102 | 06:50 → 08:35 | **$52** |
+| AQP → LIM | JetSMART JA 7000 | 08:17 → 09:55 | $64 |
+| AQP → LIM | LATAM LA2204 / LA2104 / LA2268 | 08:45 → 10:20 / 09:50 → 11:25 / 10:05 → 11:40 | $62 / $64 / $64 |
+| AQP → LIM | Sky H2 5104 · LATAM LA2124 · LA2108 | 11:55 → 13:40 · 11:25 → 13:00 · 12:40 → 14:15 | $52 · $66 · $62 |
+| LIM → PTY | **Copa CM760** (nonstop) | **13:20 → 17:08** | **$274** |
+| LIM → PTY | Copa CM400 / CM132 (nonstop) | 10:30 → 14:18 / 16:40 → 20:27 | $274 |
+| LIM → PTY | Avianca AV102 + AV56, via Bogotá | 07:25 → 15:15 | $254 |
+| LIM → PTY | Avianca AV52 + AV40, via Bogotá | 17:55 → 01:20 (+1) | $254 |
+
+- **Recommended pair: Sky 06:50 → 08:35 + Copa CM760 13:20 → 17:08**, about **$326 total**.
+  - It leaves a **4 h 45 min self-transfer** at Lima.
+  - If the Sky flight is late or cancelled, the later LATAM and Sky flights still reach Lima in time for **Copa CM132 at 16:40** (arriving 20:27), so there's a fallback without a Lima night.
+- **Option for a later start:** JetSMART 08:17 → 09:55 + CM760 gives a 3 h 25 min gap ($338).
+- **Lima night: not worth it.** The same-day pair has a 4.75 h buffer, and staying over would cost a Panama night.
+- **The Copa red-eyes** (CM338 02:15 → 05:53 on 4 Feb, after an evening AQP → LIM): you'd save a bed but lose sleep and a Panama evening. Not recommended.
+- **Single ticket AQP → PTY:** Google only sells **LATAM + Aeroméxico via Lima and Mexico City at $1,402** (arrives 4 Feb 13:31), which isn't reasonable.
+  - Copa and Avianca don't fly from Arequipa.
+  - From Lima, Avianca via Bogotá ($254) saves only $20 over Copa's nonstop ($274) and takes 7–8 h instead of 3 h 48 min.
+  - So: two tickets, with Copa nonstop LIM → PTY.
+- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to 12 Feb, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and 5 Feb versus $52–62 on the 3rd.
+- **Bags:** Sky and JetSMART's cheapest fares are a personal item only; a cabin bag is ≈ $15–30 extra. The Copa economy-basic bag allowance isn't checked yet; read it before buying.
+- **Lima self-transfer (new Jorge Chávez terminal):** you arrive domestic, exit landside, check in at Copa (the counter usually closes 60 min before departure), then exit immigration (no exit tax; it's in the fare).
+
+**Panama entry** (the Tica Bus migration page; the CDC page for yellow fever):
+- passport valid ≥3 months;
+- **proof of onward travel** (carry the MGA → SEA 3 Mar itinerary; a refundable onward bus ticket is the safest add-on);
+- **solvency ≥ $500–1,000** (a card or bank statement);
+- **yellow-fever card, required because you arrive from Peru.** Copa may check all of this at check-in in Lima.
+
+### From Tocumen (PTY) to the hostel, landing 17:08
+- **Metro, ✅ elmetrodepanama.com:**
+  - **Route:** the Line 2 airport branch from **Aeropuerto** station (outside the terminal) → Corredor Sur → San Miguelito, then change to **Line 1** for Vía Argentina or Iglesia del Carmen (Bella Vista).
+  - **Fare:** **$0.50 on Line 2; $0.85 using both lines** (per the official airport-branch pocket guide). You need a rechargeable Metro or RapiPass card from the station machines (card fee ≈ $2, ≈).
+  - **Time:** ≈ 60–75 min. Trains run until about 23:00 on weekdays (LP), and the 2026 fare-system upgrade didn't change fares.
+- **Uber/taxi:** ≈ $20–30, 30–60 min in rush hour (≈).
+
+<details><summary><b>Three ways to get here</b> (all kept open, user 24 Nov): cash same day · points with a Lima night · overland via Huacachina</summary>
 
 | | Route | Arrive Panama | Cash | Points | Catch |
 |---|---|---|---|---|---|
@@ -31,7 +112,9 @@ All three are kept open (user, 24 Nov).
 
 Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Copa seats at **20,000 + CA$85 (≈ US$61)** in economy and 40,000 in business, so it's dearer than United (17,500 + $31.49). The Aeroplan balance is 600, so it would also need a transfer. **LifeMiles:** Avianca via Bogotá at 12,730 + $36.49, confirmed for **2 Feb only**. The pages saved for 3, 5 and 6 Feb turned out to hold 2 Feb data. Its Copa ("Star Alliance") tab is unchecked; see the points table below. LifeMiles points come from Amex MR, Capital One or Citi, not Chase.
 
-### Lima → Panama City on points, by departure time (checked 24 Nov)
+</details>
+
+<details><summary><b>Lima → Panama City on points</b>, by departure time (checked 24 Nov)</summary>
 
 | Program (transfer from) | Departs Lima → arrives Panama | Flights | Miles + tax | Dates seen |
 |---|---|---|---|---|
@@ -62,41 +145,6 @@ Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Cop
 
 No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Copa and Avianca don't serve AQP), Alaska (0), Delta ("no results"); LATAM doesn't fly to Panama. United shows the Copa 17,500 saver on CM400, CM338, CM264 and (on 5 Feb) CM132; CM760 13:20 is 40,000.
 
-## Getting here: ✈ Arequipa → Lima → Panama City — Day 58 Wed 3 Feb (two separate tickets)
-
-**Live Google Flights search, 24 Nov 2026** (USD, 1 adult, taxes included, cheapest fare brand, bags extra):
-
-| Leg | Flight | Dep → Arr | Price |
-|---|---|---|---|
-| AQP → LIM | Sky H2 5102 | 06:50 → 08:35 | **$52** |
-| AQP → LIM | JetSMART JA 7000 | 08:17 → 09:55 | $64 |
-| AQP → LIM | LATAM LA2204 / LA2104 / LA2268 | 08:45 → 10:20 / 09:50 → 11:25 / 10:05 → 11:40 | $62 / $64 / $64 |
-| AQP → LIM | Sky H2 5104 · LATAM LA2124 · LA2108 | 11:55 → 13:40 · 11:25 → 13:00 · 12:40 → 14:15 | $52 · $66 · $62 |
-| LIM → PTY | **Copa CM760** (nonstop) | **13:20 → 17:08** | **$274** |
-| LIM → PTY | Copa CM400 / CM132 (nonstop) | 10:30 → 14:18 / 16:40 → 20:27 | $274 |
-| LIM → PTY | Avianca AV102 + AV56, via Bogotá | 07:25 → 15:15 | $254 |
-| LIM → PTY | Avianca AV52 + AV40, via Bogotá | 17:55 → 01:20 (+1) | $254 |
-
-- **Recommended pair: Sky 06:50 → 08:35 + Copa CM760 13:20 → 17:08**, about **$326 total**.
-  - It leaves a **4 h 45 min self-transfer** at Lima.
-  - If the Sky flight is late or cancelled, the later LATAM and Sky flights still reach Lima in time for **Copa CM132 at 16:40** (arriving 20:27), so there's a fallback without a Lima night.
-- **Option for a later start:** JetSMART 08:17 → 09:55 + CM760 gives a 3 h 25 min gap ($338).
-- **Lima night: not worth it.** The same-day pair has a 4.75 h buffer, and staying over would cost a Panama night.
-- **The Copa red-eyes** (CM338 02:15 → 05:53 on 4 Feb, after an evening AQP → LIM): you'd save a bed but lose sleep and a Panama evening. Not recommended.
-- **Single ticket AQP → PTY:** Google only sells **LATAM + Aeroméxico via Lima and Mexico City at $1,402** (arrives 4 Feb 13:31), which isn't reasonable.
-  - Copa and Avianca don't fly from Arequipa.
-  - From Lima, Avianca via Bogotá ($254) saves only $20 over Copa's nonstop ($274) and takes 7–8 h instead of 3 h 48 min.
-  - So: two tickets, with Copa nonstop LIM → PTY.
-- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to 12 Feb, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and 5 Feb versus $52–62 on the 3rd.
-- **Bags:** Sky and JetSMART's cheapest fares are a personal item only; a cabin bag is ≈ $15–30 extra. The Copa economy-basic bag allowance isn't checked yet; read it before buying.
-- **Lima self-transfer (new Jorge Chávez terminal):** you arrive domestic, exit landside, check in at Copa (the counter usually closes 60 min before departure), then exit immigration (no exit tax; it's in the fare).
-- **Panama entry** (the Tica Bus migration page; the CDC page for yellow fever):
-  - passport valid ≥3 months;
-  - **proof of onward travel** (carry the MGA → SEA 3 Mar itinerary; a refundable onward bus ticket is the safest add-on);
-  - **solvency ≥ $500–1,000** (a card or bank statement);
-  - **yellow-fever card, required because you arrive from Peru.** Copa may check all of this at check-in in Lima.
-
-
 **Points option (checked 24 Nov on united.com).** Copa LIM → PTY is bookable with **United MileagePlus (Chase UR 1:1): 17,500 miles + $31.49** at saver.
 - Saver space on 3 Feb is on **CM400 10:30 → 14:18** and on the red-eyes **CM338 02:15 → 05:53** and **CM264 02:35 → 06:13**. The same pattern holds on 2 and 4 Feb.
 - The cash pick, **CM760 13:20**, is only at Standard (40,000), and business saver is 45,000 (737 recliners).
@@ -104,39 +152,56 @@ No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Co
 - **The catch:** CM400 leaves **1 h 55 after Sky lands** on a separate ticket. Copa check-in closes 60 min before, so a late Sky flight costs the award. The safe ways are an afternoon AQP → LIM on Tue 2 Feb (LATAM ≈ $47) with either a Lima night before CM400 or the 02:15 red-eye. Both cost an Arequipa night.
 - **Value:** it saves ≈ $243 for 17,500 miles (≈ 1.4¢ a mile), which is fair but not a sweet spot. LifeMiles and Aeroplan are compared in the points table above.
 
-## 25. Panama City — Day 58 Wed 3 Feb → Day 60 Fri 5 Feb (2 nights)
+</details>
 
-**Getting in from Tocumen (PTY), landing 17:08:**
-- **Metro, ✅ elmetrodepanama.com:**
-  - Route: the Line 2 airport branch from **Aeropuerto** station (outside the terminal) → Corredor Sur → San Miguelito, then change to **Line 1** for Vía Argentina or Iglesia del Carmen (Bella Vista).
-  - Fare: **$0.50 on Line 2; $0.85 using both lines** (per the official airport-branch pocket guide). You need a rechargeable Metro or RapiPass card from the station machines (card fee ≈ $2, ≈).
-  - Time: ≈ 60–75 min. Trains run until about 23:00 on weekdays (LP), and the 2026 fare-system upgrade didn't change fares.
-- **Uber/taxi:** ≈ $20–30, 30–60 min in rush hour (≈).
+## 🛏️ Where to sleep
 
-**Bed (live-checked 24 Nov):** **El Machico Hostel**
-- Room and price: 10-bed mixed dorm · **US$38 for 2 nights on Booking** (Hostelworld $42, Agoda $46.20).
-- Rating: Hostelworld 8.9 (2,384 reviews; 6% of the last 146 below 7); Booking 570 reviews, 6% bad.
-- Location: Bella Vista, near the Cinta Costera, 3.2 km in a straight line from Casco Viejo; about 1 km from Line 1.
-- Checks:
+All live-checked on 24 Nov.
+
+### ⭐ Pick: El Machico Hostel
+- **Room:** 10-bed mixed dorm.
+- **Price:** **US$38 for 2 nights on Booking** (Hostelworld $42, Agoda $46.20).
+- **Reviews:** Hostelworld 8.9 (2,384 reviews; 6% of the last 146 below 7); Booking 570 reviews, 6% bad.
+- **Where:** Bella Vista, near the Cinta Costera, 3.2 km in a straight line from Casco Viejo; about 1 km from Line 1.
+- **Checks:**
   - Beds with **privacy curtains, lights and sockets** (2026 reviews; one late-2025 review said a dorm had none).
   - **Big kitchen** ("the big kitchen and free breakfast"; cooking class).
   - Free breakfast; AC.
   - **Pool (flagged)**: reviews say "pool is nice for a dip, bit quiet", so it's not a pool-party place.
   - One review mentions road noise in the front room.
 
-**Backup:** **Bodhi Panama City**
-- Room and price: 16-bed mixed ensuite dorm · **US$35.70** on Hostelworld (Booking $36, Agoda $44.42).
-- Rating: Hostelworld 9.0 (236 reviews; 8% of the last 64 below 7); Agoda 9.1 (1,213).
-- Location: Calle 50, Bella Vista/Marbella, 3.4 km from Casco.
-- Checks: **bottom bunks have curtains, top bunks don't**; "very functional", big kitchen; pool (calm, "not a social hostel"); one complaint about early-morning music.
+### Backup: Bodhi Panama City
+- **Room:** 16-bed mixed ensuite dorm · **US$35.70** on Hostelworld (Booking $36, Agoda $44.42).
+- **Reviews:** Hostelworld 9.0 (236 reviews; 8% of the last 64 below 7); Agoda 9.1 (1,213).
+- **Where:** Calle 50, Bella Vista/Marbella, 3.4 km from Casco.
+- **Checks:** **bottom bunks have curtains, top bunks don't**; "very functional", big kitchen; pool (calm, "not a social hostel"); one complaint about early-morning music.
 - **Avoid: Viajero Casco Viejo.** It has the best location, but it's a party hostel (rooftop bar and pool; "party from 5 PM until late", Nov 2026 reviews; $63.80 for 2 nights).
 
-**Private alt (location first):**
+### Private alt (location first): Greg's Place in Albrook
+- **Best fit:** queen room, shared bath · **US$76 for 2 nights** · Booking. Location 9.4, score 9.2, 52 reviews, **1 review below 7 (2%)**.
+- It's **1.3 km from the Albrook bus terminal and Albrook airport (PAC)**, ideal for the 07:00 flight to David.
 - Casco Viejo itself is $145+/night: Las Clementinas suite $310 for 2 nights (location 9.5, 594 reviews, 5% below 7); Hotel San Felipe $350 (location 9.7, 1,187 reviews, 6% below 7).
-- **Best fit: Greg's Place in Albrook** · queen room, shared bath · **US$76 for 2 nights** · Booking. Location 9.4, score 9.2, 52 reviews, **1 review below 7 (2%)**. It's **1.3 km from the Albrook bus terminal and Albrook airport (PAC)**, ideal for the 07:00 flight to David.
 - Self-catering studios in the "zona turística" (El Cangrejo) cost ≈ $150 for 2 nights, but the one that met the location score has 14% bad reviews, so I'm not recommending it.
 
-**Do (free / outdoors first; Wed evening plus all of Thu 4 Feb):**
+## 🌳 Things to do (free and outdoors first)
+
+Wed evening plus all of Thu 4 Feb.
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SdB63oULG_bu5c_JehgJZz6BinWKPFP6v-8tARmQdoZ1bgIGP5lAVNMs5KpqU0R2ZYzsKqleP5h2Lo9BnNOrv-LIVilk4NHzRTofKgSH5cPS4bBZbbY6VzHAnZtcBWJLejf9U=w640-h400-p-k-no" width="100%" alt="The bougainvillea walk on the Paseo Esteban Huertas sea wall, Casco Viejo"><br><b><a href="https://www.google.com/maps?ftid=0x8faca8c4b805dbe7:0xa9483c1626ca4251">Cinta Costera</a> → <a href="https://www.google.com/maps?ftid=0x8facaf33672b4595:0x58b0279729701266">Casco Viejo</a></b> · free · ≈ 4–5 km<br>Walk or bike along the bay to the Paseo Esteban Huertas sea wall (photo) and Casco's plazas. Best at sunset.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RWBG_baqR06Orr1TbjQOxQBHnTz35HRSfe1vi6sQ9nzo6qR9KAZNP4PA9LC5hXTO6E9q2ndfYqXE0Vyr_6k3iEAMHh594BZVJNn7CJlH2TaBhbR2KuaGV-tm0Bdlwe2be0XhfbfA=w640-h400-p-k-no" width="100%" alt="The giant flag on Cerro Ancón above the Panama City skyline"><br><b><a href="https://www.google.com/maps?ftid=0x8faca8b2045dd153:0x7b3744c2c67cec1e">Cerro Ancón</a></b> · free · ≈ 45 min up<br>A paved path to the 199 m summit with the giant flag. At 07:00: sloths, toucans and the city and canal view.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QSg9qH2vfUzFczaJIS6Xq_w6XbYhcFYAGxvf9RZPZJQLKCQRfPyn0uvjxJNwU7VSnDrtmNltpay8c15WfPwpGe4oR4KLvn_TCpCsSjxazPkdRAMDg_u8XtlL_ixbznmUCiiAE=w640-h400-p-k-no" width="100%" alt="Pedro Miguel Locks on the Panama Canal"><br><b><a href="https://www.google.com/maps?ftid=0x8faca70c59a5311b:0x1e3bce20d6276b19">Pedro Miguel Locks</a></b> · free<br>The canal for free, from the viewpoint on the Gamboa road (LP). Ships mostly after 14:00.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAKuOjRvUgD5p6492ukFbYBBKUeGSMBqpfqg8PX5GSs-qNPyZChWvu3SHiXq0zyBxHnyzzLY_wEPE8p8CsF4JxZHp8leisOH618nud4e8kLGd9v3eKvhI7m-AsN1vbrsLW2Y3Bbw=w640-h400-p-k-no" width="100%" alt="A ship in the Miraflores Locks"><br><b><a href="https://www.google.com/maps?ftid=0x8faca64d2e394c67:0xee8df7af5f1d4546">Miraflores Visitor Center</a></b> · $17.22 · 08:00–18:00<br>The paid canal view: a 4th-floor platform over the locks, live commentary and an IMAX film. Worth it once.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qhww2P_g_rTDQ56j2tQpOU4YDDc3OmMRoX66TJsUZRYZYuWFlBc6fhdVJnOYE7PKfHC-mXQgluLGLXiZxvOBS9YbECo0bXPVHH9oo6qHvkWj5B_zLpN85yRCH2VOk7aYWWN1GWbKjNdxYu=w640-h400-p-k-no" width="100%" alt="Pipeline Road through the rainforest of Soberanía National Park"><br><b><a href="https://www.google.com/maps?ftid=0x8fab5df47d335c3b:0x220356f7f89bf9a2">Pipeline Road</a></b> (Soberanía NP) · ≈ $7 · half day<br>Optional, instead of the canal: one of the world's top birding trails, out at Gamboa.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S660BxTLUNNOKpLk35NjfuYQntLCcqIKVsdP1ffn3uhfF-3tHaPGXINFnZYWL2BMKnGkYmZ-smhAuSibFVhAUSfqTlP-sixGOYEGNmcNBAxWGyhPftxdhThQ0S_T7-oLW0bXRV=w640-h400-p-k-no" width="100%" alt="The city skyline seen from the forest of Parque Natural Metropolitano"><br><b><a href="https://www.google.com/maps?ftid=0x8faca88917f4d563:0x13615a6fe608ac41">Parque Natural Metropolitano</a></b> · $5 · ⚠️ viewpoint closed<br>City rainforest with trails 07:00–16:30. Its best view is shut, so go only if it reopens.</td>
+</tr>
+</table>
+
 - **Cinta Costera → Casco Viejo walk/bike** (free, ≈ 4–5 km along the bay): the Paseo Esteban Huertas sea wall, Plaza de Francia, Plaza Herrera, Plaza de la Independencia. Go Wed at sunset or Thu evening. Skip the church interiors.
 - **Cerro Ancón** (free): a paved path from Quarry Heights to the 199 m summit with the giant flag, ≈ 45 min up. Go at 07:00 for sloths, toucans and the city/canal view.
 - **Canal, free version:** the **Pedro Miguel Locks viewpoint** on the Gamboa road (LP), with ships mostly after 14:00.
@@ -144,17 +209,39 @@ No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Co
   - Open daily 08:00–18:00 (ticket office until 17:00). **Non-residents $7.22–17.22** (adult $17.22), IMAX film included.
   - Transit windows the site showed today: morning until ≈ 08:45, afternoon from ≈ 13:35. Check the daily "Transit schedule" on the site and arrive inside a window.
   - **Worth it? Yes, once:** the canal is unique on the route, and the 4th-floor platform plus live commentary beats the free roadside view. If the timing doesn't work, the free Pedro Miguel view is enough.
-  - Getting there: Uber ≈ $8–12 each way, or the Paraíso/Gamboa bus from Albrook to the "Miraflores Locks" sign and a 15-min walk (LP).
+  - **Getting there:** Uber ≈ $8–12 each way, or the Paraíso/Gamboa bus from Albrook to the "Miraflores Locks" sign and a 15-min walk (LP).
 - **Parque Natural Metropolitano: ✅ $5 for foreign adults, trails 07:00–16:30.** ⚠️ The park's own notice (20 Nov 2026) says the **Camino del Mono Tití and the Cerro Cedro viewpoint are closed "until further notice"**, so its best view is shut. Only go if it reopens; Ancón gives the same kind of view for free.
 - **Optional (if you'd rather do rainforest than the canal):** Pipeline Road (Soberanía NP, Gamboa), one of the world's top birding trails. Park fee ≈ $7 for foreigners (MiAmbiente 2022 fee table for Soberanía). It's a half-day by Uber or tour.
 
-**Eat / drink (Panama is pricey; use the hostel kitchen for breakfast and dinner) (≈, not checked):**
+## 🍽️ Eat and drink
+
+Panama is pricey, so use the hostel kitchen for breakfast and dinner. Prices are ≈ and not checked.
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMLqz0X7UGuCJ47sykN2CY0TS3EW9DaOAE6JQ9s6RwXa-0vgLQyQQFFv8hI3bsYfEH24_kw3-s7OLZETjb_MTbyjnstsuj1uRwdz8XL8PoP96DptjHuE2_MdQAXpaqXgAcTCDR=w640-h400-p-k-no" width="100%" alt="Fried fish with patacones at the Mercado de Mariscos"><br><b><a href="https://www.google.com/maps?ftid=0x8faca8e771a6d8b1:0xd4efef42b96f67c3">Mercado de Mariscos</a></b> · fried whole fish ≈ $10–14<br>The fish market by Casco Viejo. The photo shows a fried fish plate with patacones.</td>
+<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ceviche_de_camar%C3%B3n.jpg/500px-Ceviche_de_camar%C3%B3n.jpg" width="100%" alt="A cup of shrimp ceviche"><br><b>Ceviche cup</b> · $3–5<br>Sold at the Mercado de Mariscos stalls. The photo is a generic shrimp ceviche cup, not from this market.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJ6xS_URP5ansFIggWbveplDhQhq0LnSb8mXEk65Ngi7jevhzjbJ5gZGiKOpNHpgmONz62vBbJhGi3P2stcZ4rTDTwoaFlvZOfGhaEmQjOpR47GeKvEwNVrnfCoBmWX_1CrMmk=w640-h400-p-k-no" width="100%" alt="The taps at Casa Bruja's Casco Viejo taproom"><br><b><a href="https://www.google.com/maps?ftid=0x8faca8cabb6eaaab:0x7626bf627060fe3f">Casa Bruja</a></b> · pints ≈ $5–7<br>The taproom of Panama's main craft brewery, in Casco Viejo.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rik1A0dTnX4r65HguFfCX8tV3iLMM2EXEruWd9XU9ipp6VHG8WKukwAwscyo7M0nXZ_yVGfO7lAUZCwis9DGyOmQ4oi0V71ozReA_eqTVM-x5vz6G9ZcrvZksGHGJq_UNNjq8=w640-h400-p-k-no" width="100%" alt="La Rana Dorada brewpub in Casco Viejo"><br><b><a href="https://www.google.com/maps?ftid=0x8faca8ca948d61d9:0x591d7b43d8f306bd">La Rana Dorada</a></b> · pints ≈ $5–7<br>A brewpub in Casco Viejo, a block from Casa Bruja.</td>
+</tr>
+</table>
+
 - **Mercado de Mariscos** (by Casco): ceviche cup $3–5, fried whole fish ≈ $10–14.
 - **Fondas** in Calidonia / Santa Ana: *comida corrida* (rice, beans, stew) $5–7.
 - **Craft beer:** Casa Bruja's taproom (Panama's main craft brewery) or La Rana Dorada brewpub in Casco Viejo; pints ≈ $5–7.
+- **Supermarkets** near the hostels: Super 99, Riba Smith.
 
-**Notes:**
-- **Carnaval** starts Sat 6 Feb (the Cinta Costera hosts the city carnival). Fri 5 Feb is the exodus day (see 26).
-- Don't walk alone at night in El Chorrillo or Curundú (beside Casco Viejo).
-- USD is the currency.
-- Supermarkets near the hostels: Super 99, Riba Smith.
+## ℹ️ Good to know
+- **Carnaval** starts Sat 6 Feb (the Cinta Costera hosts the city carnival). **Fri 5 Feb is the exodus day** (see [Boquete](boquete.md)).
+- ⚠️ Don't walk alone at night in **El Chorrillo or Curundú** (beside Casco Viejo).
+- **USD** is the currency.
+
+## ✈️ Leaving: Albrook → David, Fri 5 Feb
+
+- **Air Panama 7P670, Albrook (PAC) 07:00 → David (DAV) 08:00, $67**, then the Boquete bus. Full details, the bus alternative and the 🎭 Carnaval backups are in the [Boquete guide](boquete.md).
+- PAC is 1.3 km from Greg's Place; from Bella Vista it's ≈ $6–10 by Uber.
+
+---
+<sub>Photos: Google Maps contributors (Cinta Costera, Paseo Esteban Huertas, Cerro Ancón, Pedro Miguel Locks, Miraflores Visitor Center, Pipeline Road, Parque Natural Metropolitano, Mercado de Mariscos, Casa Bruja Casco, La Rana Dorada). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Ceviche_de_camar%C3%B3n.jpg">Ceviche de camarón</a> (Wotancito, CC BY-SA 4.0).</sub>

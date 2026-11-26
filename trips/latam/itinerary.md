@@ -31,7 +31,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 10 → 12 Jan | **Salta** (2) | Clivias Hostel, $30, Booking | Casa Puka (curtains), $23.50 (backup) | ✅ Flecha Bus 11:30 → 15:20, ≈ $18 | [→](guides/salta.md) |
 | 12 → 15 Jan | **Tilcara** (1) + **Iruya** (1, new 26 Nov) + **Purmamarca** (1) | Tilcara Mística $23 + Hospedaje Ale (private; Iruya has no dorms) $37 + Giramundo $17, Booking | Nido de Cóndores (quiet), $65 | Humahuaca → Iruya 08:20 (≈ 3 h, gravel road; can wash out in January) | [→](guides/quebrada-de-humahuaca.md) |
 | Fri 15 Jan | over the Andes | — | — | ✅ **Andesmar Purmamarca 03:40 → San Pedro 11:30**, ARS 120,000 (Plataforma10, 26 Nov) | [→](guides/san-pedro-de-atacama.md) |
-| 15 → 18 Jan | **San Pedro de Atacama** (3) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 4 min from the terminal), $55, Booking | Hostal Ayni, $180 | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
+| 15 → 18 Jan | **San Pedro de Atacama** (3) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 4 min from the terminal), $55, Booking | Hostal Ayni, $135 (3 nights) | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
 | 18 → 20 Jan | **Jeep tour to Uyuni** (2) | Estrella del Sur, $260–280 + Bs 210–250 park/border fees (cash) | backup World White Travel $275 | Incahuasi often skipped in January (flooding); mirror effect likely | [→](guides/uyuni-jeep-tour.md) |
 | 20 → 21 Jan | **Potosí** (1) | Los Faroles (private; no decent dorm), $28, Booking | Colonial, $60 | Uyuni → Potosí 15:00–18:30, $11–15 | [→](guides/potosi.md) |
 | 21 → 24 Jan | **Sucre** (3) | Villa Oropeza (curtains, 2 kitchens), $17, Agoda | Los Balcones, $50 | Potosí → Sucre 13:00/14:00, $7–8 | [→](guides/sucre.md) |

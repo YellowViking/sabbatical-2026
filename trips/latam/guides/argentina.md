@@ -1,6 +1,6 @@
 # Argentina: region notes
 
-Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes](cordoba.md) · [Cafayate](cafayate.md) · [Salta](salta.md) · [Quebrada de Humahuaca (Tilcara + Purmamarca)](quebrada-de-humahuaca.md)
+Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes](cordoba.md) · [Cafayate](cafayate.md) · [Salta](salta.md) · [Quebrada de Humahuaca (Tilcara + Iruya + Purmamarca)](quebrada-de-humahuaca.md)
 
 **3. Argentina: Córdoba + Sierras → Cafayate → Salta → Quebrada de Humahuaca (stops 12–15, Sat 2 → Fri 15 Jan)**
 
