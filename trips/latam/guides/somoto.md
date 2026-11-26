@@ -9,7 +9,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qgj4GfBCuTXIEmlx1yxB9HMxNgt4KxECekqsVqojT64RTnGbG1b_ZOgwowCtKRbB4VuGBLUCM1dQzbp8mpdcidBMS0ChK2hRHrJ1rsXJzO7NS7EfQmg1R8cVQGfq1FWVkXUpPICQ=w640-h400-p-k-no" width="100%" alt="The narrow rock walls of Somoto Canyon"><br><b><a href="https://www.google.com/maps?ftid=0x8f71d936aa883ba9:0xdca39303054c100f">Cañón de Somoto</a></b><br>The narrows: you float and swim through here.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qgj4GfBCuTXIEmlx1yxB9HMxNgt4KxECekqsVqojT64RTnGbG1b_ZOgwowCtKRbB4VuGBLUCM1dQzbp8mpdcidBMS0ChK2hRHrJ1rsXJzO7NS7EfQmg1R8cVQGfq1FWVkXUpPICQ=w640-h400-p-k-no" width="100%" alt="The narrow rock walls of Somoto Canyon"><br><b><a href="https://www.google.com/maps?ftid=0x8f71d936aa883ba9:0xdca39303054c100f">Cañón de Somoto</a></b> · <a href="https://www.google.com/maps/dir/?api=1&origin=13.0889274,-86.3568541&destination=13.462561,-86.6988082&travelmode=driving">🚗 ≈ 1 h 45 min by road</a><br>The narrows: you float and swim through here.</td>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SomotoCanyon_01.jpg/500px-SomotoCanyon_01.jpg" width="100%" alt="The Río Coco between the canyon's granite walls"><br><b>The Río Coco in the canyon</b><br>Hike in along the rocks, then into the water.</td>
 </tr>
 </table>
@@ -18,7 +18,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of the area: Estelí, Somoto's bus terminal and the canyon near the Honduran border](img/somoto-area-map-a64acbd4.jpg)
 
-**Around:** ★ Estelí (Melody 78) · **B** [Somoto bus terminal](https://www.google.com/maps?ftid=0x8f71dfd8603dcb3d:0xa5ca2531557910f) · **1** [Cañón de Somoto](https://www.google.com/maps?ftid=0x8f71d936aa883ba9:0xdca39303054c100f)
+**Around:** ★ Estelí (Melody 78) · **B** [Somoto bus terminal](https://www.google.com/maps?ftid=0x8f71dfd8603dcb3d:0xa5ca2531557910f) · **1** [Cañón de Somoto](https://www.google.com/maps?ftid=0x8f71d936aa883ba9:0xdca39303054c100f) [🚗 ≈ 1 h 45 min by road](https://www.google.com/maps/dir/?api=1&origin=13.0889274,-86.3568541&destination=13.462561,-86.6988082&travelmode=driving)
+
+🧭 The time after each place is from the ★ bed (Google Maps, 26 Nov): 🚶 walk · 🚌 bus · 🚕 taxi · 🚗 by road (tour or bus). Click it for the route.
 
 **Open the live map:** [area](https://www.google.com/maps/@13.30,-86.50,10z)
 

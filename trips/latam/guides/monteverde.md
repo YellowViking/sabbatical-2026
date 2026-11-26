@@ -19,7 +19,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of the area: Santa Elena, the Santa Elena reserve and Cerro Amigos](img/monteverde-area-map-4438861d.jpg)
 
-**Around:** ★ Santa Elena · **4** [Reserva Bosque Nuboso Santa Elena](https://www.google.com/maps?ftid=0x8fa01a5d0fae40ff:0xd59c9f082da5c1c9) · **5** [Cerro Amigos](https://www.google.com/maps?ftid=0x8fa01a1800ea97af:0x358e224a5dd87b66) · the Ficus tree isn't pinned (its location wasn't checked on a map)
+**Around:** ★ Santa Elena · **4** [Reserva Bosque Nuboso Santa Elena](https://www.google.com/maps?ftid=0x8fa01a5d0fae40ff:0xd59c9f082da5c1c9) [🚕 ≈ 17 min](https://www.google.com/maps/dir/?api=1&origin=10.3170834,-84.8254517&destination=10.3437168,-84.7961135&travelmode=driving) · **5** [Cerro Amigos](https://www.google.com/maps?ftid=0x8fa01a1800ea97af:0x358e224a5dd87b66) [🚕 ≈ 16 min](https://www.google.com/maps/dir/?api=1&origin=10.3170834,-84.8254517&destination=10.3184916,-84.7935568&travelmode=driving) · the Ficus tree isn't pinned (its location wasn't checked on a map)
+
+🧭 The time after each place is from the ★ bed (Google Maps, 26 Nov): 🚶 walk · 🚌 bus · 🚕 taxi · 🚗 by road (tour or bus). Click it for the route.
 
 **Open the live map:** [town](https://www.google.com/maps/@10.3160,-84.8260,17z) · [area](https://www.google.com/maps/@10.328,-84.808,14z)
 
@@ -110,10 +112,10 @@ All live-checked on 24 Nov.
 <table>
 <tr>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ficus_tuerckheimii%2C_a_strangler_fig_or_Higueron_%2811362278535%29.jpg/500px-Ficus_tuerckheimii%2C_a_strangler_fig_or_Higueron_%2811362278535%29.jpg" width="100%" alt="The trunk of a higuerón strangler fig"><br><b>The hollow Ficus tree</b> · free<br>A strangler fig you can climb inside, off the road to the Monteverde reserve; ask for "el higuerón". The photo is a generic higuerón, not this tree.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5Rij3GYApAv81CMqEdpyJ9An8lcRJmmcZ5hZxaGVLvE0ZVBC3FtWpUDUf7_xRFpx7bLD1YXyZBqEbuPZSgLO4IryQUSAMal-HMbmLQMMzSjfFVj1GycNoEPe9z_v_d3ixUQ2aZw=w640-h400-p-k-no" width="100%" alt="Forested ridges seen from Cerro Amigos"><br><b><a href="https://www.google.com/maps?ftid=0x8fa01a1800ea97af:0x358e224a5dd87b66">Cerro Amigos</a></b> (1,842 m) · free<br>The TV-tower hill above town: a steep road walk to a view toward Arenal on clear days.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5Rij3GYApAv81CMqEdpyJ9An8lcRJmmcZ5hZxaGVLvE0ZVBC3FtWpUDUf7_xRFpx7bLD1YXyZBqEbuPZSgLO4IryQUSAMal-HMbmLQMMzSjfFVj1GycNoEPe9z_v_d3ixUQ2aZw=w640-h400-p-k-no" width="100%" alt="Forested ridges seen from Cerro Amigos"><br><b><a href="https://www.google.com/maps?ftid=0x8fa01a1800ea97af:0x358e224a5dd87b66">Cerro Amigos</a></b> (1,842 m) · free · <a href="https://www.google.com/maps/dir/?api=1&origin=10.3170834,-84.8254517&destination=10.3184916,-84.7935568&travelmode=driving">🚕 ≈ 16 min</a><br>The TV-tower hill above town: a steep road walk to a view toward Arenal on clear days.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REHzYCM529oujx6vcyMZ9_QjJldw6kKjAt9diGhXkv5b4rBTrCxDpufePsFIq7bCzO35_OQ4jg4xvMJQalR4i3dBjx0o-hJp7JmksOfXkUFMDbxUTdQm-Gtft10GkrbkRMrViq1rdslP7C=w640-h400-p-k-no" width="100%" alt="A trail through the Santa Elena cloud forest"><br><b><a href="https://www.google.com/maps?ftid=0x8fa01a5d0fae40ff:0xd59c9f082da5c1c9">Reserva Bosque Nuboso Santa Elena</a></b> · ₡10,000 ($22.40) · 07:00–16:00<br>Community-run cloud forest with self-guided trails. Go at 07:00.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REHzYCM529oujx6vcyMZ9_QjJldw6kKjAt9diGhXkv5b4rBTrCxDpufePsFIq7bCzO35_OQ4jg4xvMJQalR4i3dBjx0o-hJp7JmksOfXkUFMDbxUTdQm-Gtft10GkrbkRMrViq1rdslP7C=w640-h400-p-k-no" width="100%" alt="A trail through the Santa Elena cloud forest"><br><b><a href="https://www.google.com/maps?ftid=0x8fa01a5d0fae40ff:0xd59c9f082da5c1c9">Reserva Bosque Nuboso Santa Elena</a></b> · ₡10,000 ($22.40) · 07:00–16:00 · <a href="https://www.google.com/maps/dir/?api=1&origin=10.3170834,-84.8254517&destination=10.3437168,-84.7961135&travelmode=driving">🚕 ≈ 17 min</a><br>Community-run cloud forest with self-guided trails. Go at 07:00.</td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
