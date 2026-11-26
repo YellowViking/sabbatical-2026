@@ -38,9 +38,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From COTRAN Sur | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Melody 78 Hostel & Suites** · dorm bed, or a double | **$14** dorm · $27 double | 9.5 | 🚕 short taxi or walk from the COTRAN Sur bus terminal; in the centre · [route](https://www.google.com/maps/dir/?api=1&origin=COTRAN+Sur+Estel%C3%AD&destination=13.0889274,-86.3568541&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/311020/melody-78-hostel-suites/?from=2027-03-02&to=2027-03-03&guests=1) · [Booking (double)](https://www.booking.com/hotel/ni/melody-78-hostel-amp-suites-esteli1.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup | **Hotel Casa Vínculos** · double or twin | $36 | 9.2 | 🚕 / 🚶 centre, 2 blocks from Melody 78 · [route](https://www.google.com/maps/dir/?api=1&origin=COTRAN+Sur+Estel%C3%AD&destination=13.0871299,-86.358624&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/casa-vinculos.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Private alt | **Hotel NO STRESS TRAVELLERS** · double with bathroom | $34 | 9.0 | 🚕 centre, east side · [route](https://www.google.com/maps/dir/?api=1&origin=COTRAN+Sur+Estel%C3%AD&destination=13.0885276,-86.3508616&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/no-stress-travelleres.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Melody 78 Hostel & Suites** · dorm bed, or a double | **$14** dorm · $27 double | 9.5 | 🚶 24 min (1.7 km) from the COTRAN Sur bus terminal (taxi ≈ 8 min); centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=13.0762386,-86.3524291&destination=13.0889274,-86.3568541&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/311020/melody-78-hostel-suites/?from=2027-03-02&to=2027-03-03&guests=1) · [Booking (double)](https://www.booking.com/hotel/ni/melody-78-hostel-amp-suites-esteli1.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup | **Hotel Casa Vínculos** · double or twin | $36 | 9.2 | 🚶 24 min (1.7 km) from the COTRAN Sur bus terminal (taxi ≈ 8 min); centre 13 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=13.0762386,-86.3524291&destination=13.0871299,-86.358624&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/casa-vinculos.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Private alt | **Hotel NO STRESS TRAVELLERS** · double with bathroom | $34 | 9.0 | 🚶 19 min (1.5 km) (taxi ≈ 5 min); centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=13.0762386,-86.3524291&destination=13.0885276,-86.3508616&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/no-stress-travelleres.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and day trips**
 
@@ -54,7 +54,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <details><summary>How to read these tables</summary>
 
 - **Location** is the guests' location score on Booking.com. The target is 9.0 or higher, and ⚠️ marks one below 9.0.
-- **From COTRAN Sur** is a rough note, not a timed Google Maps route; the **route** link opens a walking route from the terminal.
+- **From COTRAN Sur** comes from Google Maps (26 Nov): a walking route from the terminal, with Google's driving time for the taxi. The **route** link opens the same route.
 - Symbols: 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line.
 
 </details>

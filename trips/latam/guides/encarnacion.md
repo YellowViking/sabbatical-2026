@@ -13,11 +13,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 ## 🗺️ Map
 
-![Map of Encarnación: the beds, the bus terminal, the Costanera and the beach](img/encarnacion-map-0b232d08.jpg)
+![Map of Encarnación: the beds, the bus terminal, the Costanera and the beach](img/encarnacion-map-1eb9d978.jpg)
 
 **In town:** ★ **Departamentos De La Costa** (the pick) · **1** Terwindt Hotel (backup) · **2** Milord Suites (private alt) · **B** bus terminal · **3** [Costanera](https://www.google.com/maps?ftid=0x9457956eb8eda16f:0xb2a18ead954b59aa) · **4** [Playa San José](https://www.google.com/maps?ftid=0x9457956f1e6afc0b:0x368e81fee5b5ec22) · **5** [Hiroshima](https://www.google.com/maps?ftid=0x945795447e35d7e9:0x859b2808eb9e5148)
 
-![Map of the area: Encarnación, Posadas across the river, and the Jesuit missions to the north-east](img/encarnacion-area-map-827d7fae.jpg)
+![Map of the area: Encarnación, Posadas across the river, and the Jesuit missions to the north-east](img/encarnacion-area-map-a41665f1.jpg)
 
 **Around:** ★ Encarnación · **6** La Casa de Sol in Posadas (🎄 holiday backup, across the bridge) · **7** [Trinidad mission](https://www.google.com/maps?ftid=0x9457f0281002dcef:0x254e952c8c133fb) (≈ 27 km) · **8** [Jesús mission](https://www.google.com/maps?ftid=0x9457f6a927979049:0x71a255ba02d5cc94) (≈ 32 km)
 
@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Wed 23 Dec** | 🚌 08:30 La Encarnacena from Asunción, arriving ≈ 14:00. Walk 9 min to the flat. Sunset on the **Costanera**. |
+| **Wed 23 Dec** | 🚌 08:30 La Encarnacena from Asunción, arriving ≈ 14:00. Walk 24 min to the flat, or take a taxi (≈ 8 min). Sunset on the **Costanera**. |
 | **Thu 24 Dec** · Christmas Eve | 🏛️ **Jesuit missions of Trinidad and Jesús** (5–6 h, bus + moto-taxi). 🛒 Shop for the 25th before the shops close in the afternoon. 🎆 Nochebuena fireworks over the river at midnight. |
 | **Fri 25 Dec** · Christmas Day | Most restaurants are shut, so cook at the flat. 🏖️ **Playa San José** and the Costanera. |
 | **Sat 26 Dec** | A last Costanera walk, then the 🚌 **13:30 EGA** overnight to Montevideo. |
@@ -40,9 +40,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Departamentos De La Costa** · whole 2-bed flat with kitchen | **$76** | 9.2 | 🚶 9 min (700 m) · [route](https://www.google.com/maps/dir/?api=1&origin=-27.326368199999997,-55.867162&destination=-27.3290699,-55.8712289&travelmode=walking) | [Booking](https://www.booking.com/hotel/py/departamentos-de-la-costa.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=77602665&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
-| Backup | **Terwindt Hotel** · single, breakfast | $127 | 9.1 | 🚶 18 min (1.3 km) · [route](https://www.google.com/maps/dir/?api=1&origin=-27.326368199999997,-55.867162&destination=-27.3348944,-55.862811199999996&travelmode=walking) | [Booking](https://www.booking.com/hotel/py/terwindt.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=557029&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
-| Private alt | **Milord Suites & Apartments** · double, breakfast | $174 | 9.6 | 🚶 12 min (900 m) · [route](https://www.google.com/maps/dir/?api=1&origin=-27.326368199999997,-55.867162&destination=-27.32981860770942,-55.872817039489746&travelmode=walking) | [Booking](https://www.booking.com/hotel/py/milord-boutique.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1461153&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| ⭐ **Pick** | **Departamentos De La Costa** · whole 2-bed flat with kitchen | **$76** | 9.2 | 🚶 24 min (1.8 km) (taxi ≈ 8 min); centre 13 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-27.3399784,-55.8652348&destination=-27.3290699,-55.8712289&travelmode=walking) | [Booking](https://www.booking.com/hotel/py/departamentos-de-la-costa.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=77602665&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| Backup | **Terwindt Hotel** · single, breakfast | $127 | 9.1 | 🚶 11 min (800 m); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-27.3399784,-55.8652348&destination=-27.3348944,-55.862811199999996&travelmode=walking) | [Booking](https://www.booking.com/hotel/py/terwindt.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=557029&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
+| Private alt | **Milord Suites & Apartments** · double, breakfast | $174 | 9.6 | 🚕 ≈ 6 min (walk 25 min, 1.9 km); centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-27.3399784,-55.8652348&destination=-27.32981860770942,-55.872817039489746&travelmode=driving) | [Booking](https://www.booking.com/hotel/py/milord-boutique.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1461153&checkin=2026-12-23&checkout=2026-12-26&NumberofAdults=1&Rooms=1) |
 | 🎄 Holiday backup | **La Casa de Sol**, **Posadas** (Argentina) · whole 1-bed flat | $67 | 9.5 | 🚕 23 min from Encarnación's centre over the bridge (international bus or train ≈ 26 min) · [route](https://www.google.com/maps/dir/?api=1&origin=-27.3323,-55.8656&destination=-27.374074,-55.890806&travelmode=driving) | [Booking](https://www.booking.com/hotel/ar/la-casa-de-sol.html?checkin=2026-12-23&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**

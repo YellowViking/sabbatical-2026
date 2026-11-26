@@ -31,7 +31,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 10 → 12 Jan | **Salta** (2) | Clivias Hostel, $30, Booking | Casa Puka (curtains), $23.50 (backup) | ✅ Flecha Bus 11:30 → 15:20, ≈ $18 | [→](guides/salta.md) |
 | 12 → 15 Jan | **Tilcara** (1) + **Iruya** (1, new 26 Nov) + **Purmamarca** (1) | Tilcara Mística $23 + Hospedaje Ale (private; Iruya has no dorms) $37 + Giramundo $17, Booking | Nido de Cóndores (quiet), $65 | Humahuaca → Iruya 08:20 (≈ 3 h, gravel road; can wash out in January) | [→](guides/quebrada-de-humahuaca.md) |
 | Fri 15 Jan | over the Andes | — | — | ✅ **Andesmar Purmamarca 03:40 → San Pedro 11:30**, ARS 120,000 (Plataforma10, 26 Nov) | [→](guides/san-pedro-de-atacama.md) |
-| 15 → 18 Jan | **San Pedro de Atacama** (3) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 4 min from the terminal), $55, Booking | Hostal Ayni, $135 (3 nights) | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
+| 15 → 18 Jan | **San Pedro de Atacama** (3) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 12 min on foot from the terminal), $55, Booking | Hostal Ayni, $135 (3 nights) | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
 | 18 → 20 Jan | **Jeep tour to Uyuni** (2) | Estrella del Sur, $260–280 + Bs 210–250 park/border fees (cash) | backup World White Travel $275 | Incahuasi often skipped in January (flooding); mirror effect likely | [→](guides/uyuni-jeep-tour.md) |
 | 20 → 21 Jan | **Potosí** (1) | Los Faroles (private; no decent dorm), $28, Booking | Colonial, $60 | Uyuni → Potosí 15:00–18:30, $11–15 | [→](guides/potosi.md) |
 | 21 → 24 Jan | **Sucre** (3) | Villa Oropeza (curtains, 2 kitchens), $17, Agoda | Los Balcones, $50 | Potosí → Sucre 13:00/14:00, $7–8 | [→](guides/sucre.md) |
@@ -110,23 +110,26 @@ Every stay or leg that falls on a holiday has a backup: either shifted dates or 
 - **Volcán Barú** summit road closed by a landslide on 7 Jul 2026, with no reopening notice found. **Telica** (León) is closed "until further notice".
 - January bus timetables in Argentina weren't on sale yet. Re-check 2–3 weeks out.
 
-## Getting to the beds (Google Maps, 24 Nov)
+## Getting to the beds (Google Maps, 24 Nov; terminals corrected 26 Nov)
 Every guide's booking table now has a **Getting there** column: the property found on Google Maps and routed from where you arrive (bus terminal, pier, airport) at midday on the check-in date, with a one-click Maps route. **Picks that aren't a simple walk:**
 
 | Stop | Bed | How |
 |---|---|---|
-| [Arequipa](guides/arequipa.md) | Dorm pick: Econunay | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 23 min on foot |
-| [Boquete](guides/boquete.md) | Dorm pick: Socialtel Boquete | 🚕 taxi/rideshare ≈ 12 min from the central park (bus from David) (walk 38 min, 2.7 km); Google has no bus data here, so local minibus/colectivo (ask locally) |
+| [Arequipa](guides/arequipa.md) | Dorm pick: Econunay | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 12 min on foot |
 | [Colca](guides/colca-canyon.md) | Sangalle backup: Oasis Paraíso Ecolodge | 🥾 **hike only**: trail down from Cabanaconde; Google Maps walk 1 hr 38 min (5.4 km) |
 | [Colca](guides/colca-canyon.md) | Sangalle oasis, 31 Jan → 1 Feb: Paraíso Las Palmeras - Sangalle | 🥾 **hike only**: trail down from Cabanaconde (guide: ≈ 2–3 h down, 3–4 h back up at dawn); Google Maps walk 1 hr 34 min (5.1 km) |
-| [Foz do Iguaçu](guides/foz-do-iguacu.md) | Dorm pick: Hostel Bambu | ⚠️ 🚕 taxi/rideshare ≈ 11 min from the international bus terminal (walk 55 min, 4.1 km); **30 min walk to the centre, no bus in Google Maps** |
+| [Foz do Iguaçu](guides/foz-do-iguacu.md) | Dorm pick: Hostel Bambu | 🚕 taxi/rideshare ≈ 11 min from the international bus terminal (walk 55 min, 4.1 km); centre 10 min on foot |
 | [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol backup: Hostal Inti Wayra | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 15 min (600 m) |
 | [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol, 27 → 28 Jan: Inti Wasi Lodge | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) |
+| [León](guides/leon.md) | Dorm pick: Casa Lula | 🚕 taxi/rideshare ≈ 11 min from the bus terminal (walk 28 min, 2.1 km); centre 5 min on foot |
 | [La Paz](guides/la-paz.md) | Dorm pick: La Casa Bonita | 🚕 taxi/rideshare ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot |
 | [Panama City](guides/panama-city.md) | Dorm pick: El Machico Hostel | 🚕 taxi/rideshare ≈ 33 min from Tocumen airport; or Metro Line 2 → Line 1 from the airport ($0.85, see the guide); ℹ️ outside the centre (56 min on foot, buses run) |
+| [Puno](guides/puno.md) | Dorm pick: Kantaya Hostel | 🚕 taxi/rideshare ≈ 10 min from the bus terminal (walk 28 min, 1.9 km); centre 6 min on foot |
 | [Potosí](guides/potosi.md) | Pick (private): Los Faroles Hostal | 🚕 taxi/rideshare ≈ 19 min from the new bus terminal (walk 1 hr 9 min, 4.2 km); Google has no bus data here, so local minibus/colectivo (ask locally); centre 6 min on foot |
 | [Sucre](guides/sucre.md) | Dorm pick: Villa Oropeza Hostel | 🚕 taxi/rideshare ≈ 12 min from the bus terminal (walk 31 min, 2.2 km); Google has no bus data here, so local minibus/colectivo (ask locally); centre 5 min on foot |
 | [Uvita](guides/uvita.md) | Dorm pick: Hostel Cascada Verde | 🚕 taxi/rideshare ≈ 5 min from the Costanera bus stop (walk 33 min, 2.2 km) |
+
+**26 Nov correction:** in 19 stops the routes had started from the town's centre point instead of the real bus terminal, pier or metro station. They now start from the terminal Google Maps names (e.g. León's La Terminal, Puno's Terminal Terrestre, Liberia's Terminal Municipal, Siqueira Campos metro in Rio). León and Puno picks are now a short taxi ride from the terminal; Boquete's, Colonia's and San Juan del Sur's are now short walks.
 
 Everything else is a walk of 25 minutes or less, or a short bus ride. Where Google Maps has no bus data (Potosí, Sucre, La Paz, Boquete, Ometepe), local minibuses still run; the taxi time is Google's driving estimate.
 

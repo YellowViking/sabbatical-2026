@@ -13,7 +13,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 🗺️ Map
 
-![Map of Santa Elena: the beds and the bus stop](img/monteverde-map-ed7a3d33.jpg)
+![Map of Santa Elena: the beds and the bus stop](img/monteverde-map-3f2d5a75.jpg)
 
 **In town:** ★ **Monteverde Backpackers** (the pick) · **B** Santa Elena bus stop · **1** OutBox Inn (backup) · **2** Hostel Cattleya (backup 2) · **3** Casa Geranios #2 (private alt)
 
@@ -39,10 +39,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the Santa Elena bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Monteverde Backpackers** · standard 6-bed mixed dorm, ensuite | **$24** | 9.4 | 🚶 6 min (350 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.314259999999999,-84.82502&destination=10.3170834,-84.8254517&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1) |
-| Backup | **OutBox Inn** · 8-bed ensuite dorm, privacy curtains | $43 | 9.7 | 🚶 9 min (600 m); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.31426,-84.82502&destination=10.317978,-84.82412&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup 2 | **Hostel Cattleya** · standard 4-bed mixed dorm | $22 | ⚠️ 8.7 | 🚶 10 min (700 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.314259999999999,-84.82502&destination=10.314357099999999,-84.8285722&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-13&to=2027-02-15&guests=1) |
-| Private alt | **Casa Geranios #2** · whole 1-bedroom apartment with kitchen | $125 | 9.6 | 🚶 3 min (240 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.314259999999999,-84.82502&destination=10.315987164037,-84.825181419438&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Monteverde Backpackers** · standard 6-bed mixed dorm, ensuite | **$24** | 9.4 | 🚶 6 min (450 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.3170834,-84.8254517&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1) |
+| Backup | **OutBox Inn** · 8-bed ensuite dorm, privacy curtains | $43 | 9.7 | 🚶 10 min (650 m); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.317978,-84.82412&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup 2 | **Hostel Cattleya** · standard 4-bed mixed dorm | $22 | ⚠️ 8.7 | 🚶 2 min (130 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.314357099999999,-84.8285722&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-13&to=2027-02-15&guests=1) |
+| Private alt | **Casa Geranios #2** · whole 1-bedroom apartment with kitchen | $125 | 9.6 | 🚶 5 min (350 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.315987164037,-84.825181419438&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tickets**
 

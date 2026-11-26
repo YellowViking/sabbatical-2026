@@ -13,7 +13,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 🗺️ Map
 
-![Map of León: the beds, the bus terminal, Bigfoot and the market](img/leon-map-9bf608eb.jpg)
+![Map of León: the beds, the bus terminal, Bigfoot and the market](img/leon-map-cdaf618e.jpg)
 
 **In town:** ★ **Casa Lula León Hostal** (the pick) · **1** Hostal La Tortuga Booluda (backup) · **2** Hostal el Sol (private alt) · **B** La Terminal (bus) · **3** [Bigfoot](https://www.google.com/maps?ftid=0x8f711f9135f4c829:0x6fdb4e06eed4ec8e) (volcano tours) · **4** [Mercado Central](https://www.google.com/maps?ftid=0x8f711f917ca4ede7:0x55f2fe9015de8377)
 
@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Sat 27 Feb** | 🚌 Granada → Managua (UCA) → **León** (≈ 3 h). Walk 7 min from the bus terminal to Casa Lula. Book the Bigfoot tours (online or at the hostel). |
+| **Sat 27 Feb** | 🚌 Granada → Managua (UCA) → **León** (≈ 3 h). Taxi ≈ 11 min from the bus terminal to Casa Lula (or a 28-min walk). Book the Bigfoot tours (online or at the hostel). |
 | **Sun 28 Feb** | 🌋 **Cerro Negro volcano boarding** with Bigfoot, **08:00 → ~13:00**. Take the morning tour: the black sand gets very hot. |
 | **Mon 1 Mar** | 🏕️ **El Hoyo** with Bigfoot (sunset or sunrise $45, camping overnight $70), or 🏖️ **Las Peñitas / Poneloya** by city bus for a Pacific sunset (free). |
 | **Tue 2 Mar** | 🚌 **05:20** bus to **Estelí** (C$110, ≈ 3 h). |
@@ -40,9 +40,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Casa Lula León Hostal** · bed in a mixed dorm | **$33** | 9.7 | 🚶 7 min (500 m) from the bus terminal; centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4342803,-86.88052189999999&destination=12.432866599999999,-86.87722509999999&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Backup | **Hostal La Tortuga Booluda** · 4-bed mixed dorm | $39 | 9.1 | 🚶 5 min (400 m) from the bus terminal; centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4342803,-86.88052189999999&destination=12.4340789,-86.88410689999999&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-02-27&to=2027-03-02&guests=1) |
-| Private alt | **Hostal el Sol** · double room | ≈ $43 | 9.5 | 🚶 4 min (300 m) from the bus terminal; centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4342803,-86.88052189999999&destination=12.4327159,-86.8817871&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Casa Lula León Hostal** · bed in a mixed dorm | **$33** | 9.7 | 🚕 ≈ 11 min from the bus terminal (walk 28 min, 2.1 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.432866599999999,-86.87722509999999&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Backup | **Hostal La Tortuga Booluda** · 4-bed mixed dorm | $39 | 9.1 | 🚕 ≈ 12 min from the bus terminal (walk 36 min, 2.6 km); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.4340789,-86.88410689999999&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-02-27&to=2027-03-02&guests=1) |
+| Private alt | **Hostal el Sol** · double room | ≈ $43 | 9.5 | 🚕 ≈ 12 min from the bus terminal (walk 35 min, 2.6 km); centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.4327159,-86.8817871&travelmode=driving) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-02-27&checkout=2027-03-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tours**
 

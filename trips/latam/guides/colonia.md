@@ -56,7 +56,7 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
 | 🎆 If 1 Jan doesn't work | **MedioMundo Hostel**, Montevideo · 1 → 2 Jan, then this plan on Sat 2 Jan | $25.24 (HW) ✅ | 9.4 | see the [Montevideo guide](montevideo.md) | Hostelworld |
-| 🎆 New Year in Colonia instead | **Casarão Sacramento Hostel**, Colonia · bed in an 8-bed mixed dorm, 30 Dec → 1 Jan (replaces Montevideo's New Year and this morning's bus) | $40 | 9.8 | 🚶 24 min (1.7 km) from Colonia's bus terminal (taxi 4 min); old town 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-34.4635328,-57.8346094&destination=-34.472580,-57.847469&travelmode=walking) | [Booking](https://www.booking.com/hotel/uy/casarao-sacramento-hostel-amp-suites.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| 🎆 New Year in Colonia instead | **Casarão Sacramento Hostel**, Colonia · bed in an 8-bed mixed dorm, 30 Dec → 1 Jan (replaces Montevideo's New Year and this morning's bus) | $40 | 9.8 | 🚶 7 min (450 m) from Colonia's bus terminal; old town 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-34.4726414,-57.8425142&destination=-34.472580,-57.847469&travelmode=walking) | [Booking](https://www.booking.com/hotel/uy/casarao-sacramento-hostel-amp-suites.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 <details><summary>How to read these tables</summary>
 

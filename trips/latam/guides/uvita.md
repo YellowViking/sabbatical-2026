@@ -13,7 +13,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 🗺️ Map
 
-![Map of Uvita: the beds, the Costanera bus stop, Catarata Uvita and Marino Ballena Restaurant](img/uvita-map-1f987fd0.jpg)
+![Map of Uvita: the beds, the Costanera bus stop, Catarata Uvita and Marino Ballena Restaurant](img/uvita-map-527b21d7.jpg)
 
 **In town:** ★ **Hostel Cascada Verde** (the pick) · **B** Costanera bus stop · **1** Shipwrecked Hostel (backup) · **2** Hotel Sueños de María (private alt) · **3** [Catarata Uvita](https://www.google.com/maps?ftid=0x8fa157a63b503e57:0x9762e0d305b5270e) · **4** [Marino Ballena Restaurant](https://www.google.com/maps?ftid=0x8fa157bb87aabd3d:0xe9b50a6f098d0315)
 
@@ -39,9 +39,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the Costanera bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Hostel Cascada Verde** · basic 8-bed mixed dorm | **$23** | 9.0 | 🚕 ≈ 5 min (walk 33 min, 2.2 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.167378099999999,-83.73651749999999&destination=9.1788926,-83.7315213&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/cascada-verde-hostel-at-the-waterfall.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-11&to=2027-02-13&guests=1) |
-| Backup | **Shipwrecked Hostel** · 8-bed mixed dorm in "cabins" | $50 | ⚠️ 8.8 | 🚶 6 min (450 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.167378099999999,-83.73651749999999&destination=9.1641613,-83.7361981&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-11&to=2027-02-13&guests=1) |
-| Private alt | **Hotel Sueños de María** · double with pool view | $80 | 9.6 | 🚶 6 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.167378099999999,-83.73651749999999&destination=9.1666557,-83.7407691&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Hostel Cascada Verde** · basic 8-bed mixed dorm | **$23** | 9.0 | 🚕 ≈ 5 min (walk 27 min, 1.7 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1788926,-83.7315213&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/cascada-verde-hostel-at-the-waterfall.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-11&to=2027-02-13&guests=1) |
+| Backup | **Shipwrecked Hostel** · 8-bed mixed dorm in "cabins" | $50 | ⚠️ 8.8 | 🚶 13 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1641613,-83.7361981&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-11&to=2027-02-13&guests=1) |
+| Private alt | **Hotel Sueños de María** · double with pool view | $80 | 9.6 | 🚶 13 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1666557,-83.7407691&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 

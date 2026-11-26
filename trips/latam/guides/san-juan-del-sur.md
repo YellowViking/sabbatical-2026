@@ -13,7 +13,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 🗺️ Map
 
-![Map of San Juan del Sur: the beds, the market bus stop, the beach and the brewery](img/san-juan-del-sur-map-ef5978ba.jpg)
+![Map of San Juan del Sur: the beds, the market bus stop, the beach and the brewery](img/san-juan-del-sur-map-504959be.jpg)
 
 **In town:** ★ **Nalu Nalu Hostal** (the pick) · **1** Hostel SaltWater (backup) · **2** ORÍGENES Guest House (private alternative; the private alt Lobolira isn't on Google Maps) · **B** market bus stop · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84)
 
@@ -39,8 +39,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Nalu Nalu Hostal** · 6-bed mixed dorm, breakfast | **$18** | 9.6 | 🚶 13 min (1.0 km) from the market bus stop; centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2573054,-85.86500149999999&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) |
-| Backup | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite | $28.60 | ⚠️ 8.7 | 🚶 15 min (1.1 km) from the market bus stop; centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2573054,-85.86500149999999&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) |
+| ⭐ **Pick** | **Nalu Nalu Hostal** · 6-bed mixed dorm, breakfast | **$18** | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) |
+| Backup | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite | $28.60 | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) |
 | Private alt | **Lobolira** · whole 1-bedroom cabin | $44 | 9.6 | 📍 not found on Google Maps (the listing says "3 blocks from the beach") | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport and border**

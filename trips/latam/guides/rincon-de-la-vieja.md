@@ -13,9 +13,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 🗺️ Map
 
-![Map of Liberia: the beds, the bus terminal and the central market](img/rincon-de-la-vieja-map-cdbe780c.jpg)
+![Map of Liberia: the beds, the bus terminal and the central market](img/rincon-de-la-vieja-map-420c312a.jpg)
 
-**In town:** ★ **Hostel Pura Vida en Liberia** (the pick) · **B** Pulmitan bus terminal (as routed by Google) · **1** Hospedaje Dodero (backup) · **2** Hotel Liberia (private alt) · **3** [Mercado Municipal de Liberia](https://www.google.com/maps?ftid=0x8f757d29ee555555:0x9419781315a6eb17)
+**In town:** ★ **Hostel Pura Vida en Liberia** (the pick) · **B** main bus terminal (Terminal Municipal, where the Cañas bus arrives) · **1** Hospedaje Dodero (backup) · **2** Hotel Liberia (private alt) · **3** [Mercado Municipal de Liberia](https://www.google.com/maps?ftid=0x8f757d29ee555555:0x9419781315a6eb17)
 
 ![Map of the area: Liberia, Curubandé and the Las Pailas sector of Rincón de la Vieja](img/rincon-de-la-vieja-area-map-195666b4.jpg)
 
@@ -37,11 +37,11 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 **Beds** (18 → 20 Feb, 2 nights)
 
-| | Where | Total | Location | From the Pulmitan bus terminal | Book |
+| | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Hostel Pura Vida en Liberia** · mixed 10-bed dorm | **$28** | 9.5 | 🚶 7 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6341273,-85.4398195&destination=10.6322397,-85.4441777&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Backup | **Hospedaje Dodero** · standard 6-bed mixed dorm, ensuite | $30 | 9.1 *(HW)* | 🚶 8 min (600 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6341273,-85.4398195&destination=10.631971,-85.4447684&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-18&to=2027-02-20&guests=1) |
-| Private alt | **Hotel Liberia** · single room | $151 | 9.6 | 🚶 11 min (800 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6341273,-85.4398195&destination=10.6290625,-85.43731249999999&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Hostel Pura Vida en Liberia** · mixed 10-bed dorm | **$28** | 9.5 | 🚶 3 min (200 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.6322397,-85.4441777&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Backup | **Hospedaje Dodero** · standard 6-bed mixed dorm, ensuite | $30 | 9.1 *(HW)* | 🚶 2 min (180 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.631971,-85.4447684&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-18&to=2027-02-20&guests=1) |
+| Private alt | **Hotel Liberia** · single room | $151 | 9.6 | 🚶 14 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.6290625,-85.43731249999999&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tickets**
 
@@ -55,7 +55,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <details><summary>How to read these tables</summary>
 
 - **Location** is the guests' location score on Booking.com. The target is 9.0 or higher, and ⚠️ would mark one below 9.0. *(HW)* means Hostelworld's location rating, used where a property isn't on Booking.
-- **From the Pulmitan bus terminal** comes from Google Maps on 24 Nov: the property found on Maps and routed from where you arrive at midday on the check-in date.
+- **From the bus terminal** comes from Google Maps on 24 Nov: the property found on Maps and routed from where you arrive at midday on the check-in date.
 - Symbols: 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line.
 
 </details>

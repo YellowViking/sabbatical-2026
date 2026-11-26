@@ -13,7 +13,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 ## 🗺️ Map
 
-![Map of Puno: the beds, the bus arrival point, the two viewpoints and the Mercado Central](img/puno-map-3f6428b7.jpg)
+![Map of Puno: the beds, the bus arrival point, the two viewpoints and the Mercado Central](img/puno-map-1fdec9b6.jpg)
 
 **In town:** ★ **Kantaya Hostel** (the pick) · **1** Urpi Wasi Backpackers (backup) · **2** Tierra Viva Puno Plaza (private alt, on the [Plaza de Armas](https://www.google.com/maps?ftid=0x915d69eb4013ddbd:0xde99b3eca4371e4b)) · **B** bus arrival (where the walking routes start; the [Terminal Terrestre](https://www.google.com/maps?ftid=0x915d6995299a381b:0x70f8d6f110dc71dd) is a few blocks south-east) · **3** [Mirador Kuntur Wasi](https://www.google.com/maps?ftid=0x915d69ed9ad4f677:0xc77330e7fa9a440b) · **4** [Cerro Huajsapata](https://www.google.com/maps?ftid=0x915d69ebe173627f:0xe002096b4f76a085) · **5** [Mercado Central](https://www.google.com/maps?ftid=0x915d69eab4e2357b:0x7068c827b19b5d8f) · [Jr. Lima](https://www.google.com/maps?ftid=0x915d69eb5827e2c5:0x796ad8664da7a977) runs from the Plaza
 
@@ -23,7 +23,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Fri 29 Jan** | 🚌 **13:30 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 15:30 Peru time (probably). Walk 15 min to Kantaya. 🌅 Plaza de Armas → Jr. Lima → **Mirador Kuntur Wasi** for sunset ≈ 18:30. 🐟 Trout or quinoa soup for dinner. Buy breakfast snacks. Sleep early. |
+| **Fri 29 Jan** | 🚌 **13:30 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 15:30 Peru time (probably). Taxi ≈ 10 min to Kantaya (or a 28-min walk). 🌅 Plaza de Armas → Jr. Lima → **Mirador Kuntur Wasi** for sunset ≈ 18:30. 🐟 Trout or quinoa soup for dinner. Buy breakfast snacks. Sleep early. |
 | **Sat 30 Jan** | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
 
 ## 🔖 Book (one click)
@@ -34,8 +34,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Kantaya Hostel** · bed in a 10-bed mixed ensuite dorm | **$10.50** | 9.6 *(HW)* | 🚶 walk 15 min (1.0 km) from the bus terminal; centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8402218,-70.0218805&destination=-15.8375858,-70.0294303&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1) |
-| Backup | **Urpi Wasi Backpackers** · bed in an 8-bed mixed dorm | $9 | 9.1 | 🚶 walk 16 min (1.0 km) from the bus terminal; centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8402218,-70.0218805&destination=-15.8427017,-70.0299885&travelmode=walking) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-01-29&to=2027-01-30&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-01-29&checkout=2027-01-30&NumberofAdults=1&Rooms=1) |
+| ⭐ **Pick** | **Kantaya Hostel** · bed in a 10-bed mixed ensuite dorm | **$10.50** | 9.6 *(HW)* | 🚕 ≈ 10 min from the bus terminal (walk 28 min, 1.9 km); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8375858,-70.0294303&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1) |
+| Backup | **Urpi Wasi Backpackers** · bed in an 8-bed mixed dorm | $9 | 9.1 | 🚕 ≈ 8 min from the bus terminal (walk 26 min, 1.6 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8427017,-70.0299885&travelmode=driving) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-01-29&to=2027-01-30&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-01-29&checkout=2027-01-30&NumberofAdults=1&Rooms=1) |
 | Private alt | **Tierra Viva Puno Plaza** · standard single, breakfast | $53 | 9.5 | 0.06 km from the Plaza | Booking |
 | Private value | **Hotel T'ika** · twin, private bathroom | $39 | 9.3 | 0.38 km | Booking |
 

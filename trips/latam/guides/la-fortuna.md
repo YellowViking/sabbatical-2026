@@ -13,7 +13,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 🗺️ Map
 
-![Map of La Fortuna: the beds, the bus terminal and La Fortuna Pub](img/la-fortuna-map-712e53a8.jpg)
+![Map of La Fortuna: the beds, the bus terminal and La Fortuna Pub](img/la-fortuna-map-7e0accd2.jpg)
 
 **In town:** ★ **Ceiba Hostel** (the pick) · **B** bus terminal · **1** Alpha Arenal (backup) · **2** Casa Paraíso (private alt, 2.5 km out) · **3** [La Fortuna Pub](https://www.google.com/maps?ftid=0x8fa00c8bc2a0449d:0xcb3b226a5317fa3e)
 
@@ -39,9 +39,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Ceiba Hostel** · capsule in an 8-bed dorm | **$39** | 9.1 *(HW)* | 🚶 8 min (650 m); centre 10 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4711965,-84.645415&destination=10.4712581,-84.640129&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-15&to=2027-02-18&guests=1) |
-| Backup | **Alpha Arenal** · basic 8-bed mixed dorm | $45 | 9.5 *(HW)* | 🚶 7 min (450 m); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4711965,-84.645415&destination=10.4721914,-84.6485847&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-15&to=2027-02-18&guests=1) |
-| Private alt | **Casa Paraíso – La Fortuna** · double room | $182 | 9.7 | ⚠️ 🚕 ≈ 7 min (walk 47 min, 3.2 km); **45 min walk to the centre, no bus in Google Maps** · [route](https://www.google.com/maps/dir/?api=1&origin=10.4711965,-84.645415&destination=10.448872536342,-84.640383350087&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Ceiba Hostel** · capsule in an 8-bed dorm | **$39** | 9.1 *(HW)* | 🚶 2 min (140 m); centre 10 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4712581,-84.640129&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-15&to=2027-02-18&guests=1) |
+| Backup | **Alpha Arenal** · basic 8-bed mixed dorm | $45 | 9.5 *(HW)* | 🚶 15 min (1.0 km) (taxi ≈ 4 min); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4721914,-84.6485847&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-15&to=2027-02-18&guests=1) |
+| Private alt | **Casa Paraíso – La Fortuna** · double room | $182 | 9.7 | ⚠️ 🚕 ≈ 7 min (walk 51 min, 3.5 km); **45 min walk to the centre, no bus in Google Maps** · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.448872536342,-84.640383350087&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tickets**
 
