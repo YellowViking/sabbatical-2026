@@ -533,6 +533,8 @@ Dates assume the **Alaska business award on Mon 7 Dec** (lands Rio Tue 8 Dec 09:
 | 34 | Granada + Apoyo | Thu 25 Feb → Sat 27 Feb | 2 | colonial city + crater lake |  |
 | 35 | León | Sat 27 Feb → Wed 3 Mar | 4 | colonial city + volcanoes | Cerro Negro, Telica overnight |
 
+**26 Nov update:** Iruya (1 night, taken from San Pedro), a Laguna de Apoyo night (from Granada) and Estelí (+1 day) were added after the article review; the flight home moved to **Thu 4 Mar** (same award), leaving 11 spare days. See the [itinerary](itinerary.md).
+
 **Home: ✈ Managua → Seattle on Wed 3 Mar** (Alaska 25k + $94, or $417 cash). That leaves **12 spare days before 15 Mar**, against the 14-day floating buffer. Options for them:
 - Somoto canyon (+2) on the way out.
 - Teresópolis (+2).

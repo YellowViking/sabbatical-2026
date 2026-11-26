@@ -65,7 +65,8 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
   - Booking 9.0 (114; 8% below 7), location 9.5.
   - **$140**, near Siqueira Campos.
 
-**Do (free / outdoors first):** December is hot (~30 °C) with storms after ~13:00, so start hikes at 07:00. All trails are free.
+**Do (free / outdoors first):**
+- **Hike up to Christ the Redeemer from Parque Lage (free trail, new 26 Nov):** ≈ 3.5–4 km each way with rock scrambles and short ladders. Sign the ranger logbook at the trail gate (open 08:00, last start 15:00), then pay **R$58** at the top for the statue platform; go down by the Corcovado train (≈ R$35–37) or the same trail. ⚠️ **Robberies on the lower forest section:** don't go alone; start 09:00–10:30 with other hikers, or hire a guide. Tijuca National Park closes the trail after heavy rain *(leads via Nomadic Matt and an AI summary)*. December is hot (~30 °C) with storms after ~13:00, so start hikes at 07:00. All trails are free.
 - **Tue 8:** reach Copacabana ~11:00, beach, then **Arpoador rock for sunset** (free).
 - **Wed 9: Pico da Tijuca (1,021 m), backlog.** Uber to Bom Retiro (Floresta da Tijuca), then about 1 h 30 up, finishing on rock-cut steps. Add Tijuca Mirim and Cascatinha Taunay on the way down.
 - **Thu 10:** **Pedra Bonita** (696 m) at sunrise, about 1 h return from the hang-glider ramp road. Or, if clear, **Pedra da Gávea** (844 m): it has an exposed rock pitch, so go with a guide (≈ from $60). This is the one paid hike worth it.

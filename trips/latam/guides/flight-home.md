@@ -1,6 +1,6 @@
 # Flight home (Managua → Seattle)
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [León](leon.md)
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Estelí](esteli.md)
 
 ## Book (one click)
 
@@ -10,23 +10,24 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 | What | Links | Getting there (Google Maps, checked 24 Nov) |
 |---|---|---|
-| ✈ Alaska award MGA → SEA, Wed 3 Mar (25k + $94) | [open](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-03&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |  |
-| Managua airport hotels, 2 → 3 Mar (Booking search) | [open](https://www.booking.com/searchresults.html?ss=Augusto+C.+Sandino+International+Airport&checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&selected_currency=USD) |  |
+| ✈ Alaska award MGA → SEA, **Thu 4 Mar** (25k + $94) | [open](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-04&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |  |
+| Airport night, 3 → 4 Mar: **Casa Robles MGA Airport Homestay** (3 Mar → 4 Mar) · location 9.5 | [Booking](https://www.booking.com/hotel/ni/apartment-3-minutes-from-airport.html?checkin=2027-03-03&checkout=2027-03-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚕 ≈ 2 km from Mercado Mayoreo (Estelí buses) · [Maps route](https://www.google.com/maps/dir/?api=1&origin=12.1351145,-86.1948813&destination=12.1485596,-86.1897278&travelmode=driving) · to the terminal: [Maps route](https://www.google.com/maps/dir/?api=1&origin=12.1485596,-86.1897278&destination=12.1444609,-86.1710823&travelmode=driving) |
+| Backup: **Casa MONTOCO 114** (3 Mar → 4 Mar) · location 9.1 | [Booking](https://www.booking.com/hotel/ni/casa-114.html?checkin=2027-03-03&checkout=2027-03-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚕 further from the airport (taxi) |
 | Tica Bus San José → Managua (onward proof for Costa Rica entry) | [open](https://www.ticabus.com/en/) |  |
 
-## Home: León → Managua airport, ✈ Managua (MGA) → Seattle, Wed 3 Mar
+## Home: Estelí → Managua airport (Wed 3 Mar), ✈ Managua (MGA) → Seattle, Thu 4 Mar
 
-**Alaska award still there** ✅ alaskaair.com award search (24 Nov, 1 adult): **25,000 pts + $94.42**, main cabin, 9 seats, on **every day 2–5 Mar**. All itineraries start with **AA1318 MGA 07:00 → MIA 10:49**:
-- **Wed 3 Mar, best:** AA1318 → **AA323 MIA 13:16 → ORD 15:50** → **AA3042 ORD 17:19 → SEA 20:13** (15.2 h, 2 changes: MIA 2 h 27, ORD 1 h 29). Alternative at the same price: AA1318 → **AS305 MIA 18:13 → SEA 22:24** (17.4 h, 1 change at MIA, 7 h 24 wait).
+**Alaska award on Thu 4 Mar** ✅ alaskaair.com award search (26 Nov, 1 adult): **25,000 pts + $94.42**, main cabin, **9 seats**. Every itinerary starts with **AA1318 MGA 07:00 → MIA 10:49**. Onward at the same price:
+- **Best: AS38 MIA 16:47 → PDX 20:47 → AS1432 PDX 21:35 → SEA 22:39** (2 changes: MIA 6 h, PDX 48 min; 9 seats). Alaska metal after Miami, so the PDX change stays in one terminal.
+- 1 change only: **AA2363 MIA 20:56 → SEA 00:59** (+1 day; a 10-hour wait at MIA).
+- Avoid the AA1717 MIA → JFK → **AS17 JFK 18:33 → SEA 22:06** option: only 34 minutes at JFK between two airlines.
+- Others: via DFW (AA2741 16:30 → AA2647 DFW 21:30 → SEA 23:58), via ORD (arr. 00:34), via CLT (arr. 22:53, 1–3 seats).
 - Business on the MIA leg only: 50,000 + $94.42 (the onward legs stay in coach), not worth it.
-- 2 and 4 Mar: 25k via MIA–JFK (AS17 JFK 18:33 → SEA 22:06). 5 Mar: 25k via JFK too.
+- Same award also on 3 and 5 Mar (checked 24–26 Nov), so a day either side is a backup.
 
-**Cash fare** ✅ Google Flights (24 Nov): **$417 one-way** on 3 Mar (and on every day 1–5 Mar). Options at $417: **United 14:25 via IAH, 10 h 34** (the fastest), AA 13:13 via MIA (13 h 46), AA 07:00 via MIA + ORD. The award saves $417 − $94 = $323 for 25k points (≈ 1.3 ¢/pt).
+**Cash fare** ✅ Google Flights (24 Nov): **$417 one-way** on every day 1–5 Mar (United 14:25 via IAH is the fastest, 10 h 34). The award saves $417 − $94 = $323 for 25k points (≈ 1.3 ¢/pt).
 
-**⚠️ The award's 07:00 departure doesn't work from León on the day.** León → Managua is ~2 h by road, and the first buses leave León ~04:00 (≈ every 20 min, 04:00–18:30, C$55–65, ~2¼ h to Mercado Israel Lewites; nicabuses.com, updated 29 Oct 2026), too late for a 05:00 airport arrival. Choose one:
-1. **Award + last night near the airport:** León 27 Feb → **2 Mar** (3 nights), afternoon bus/shuttle to Managua on Tue 2 Mar, one night at an airport hotel (≈ $35–60, check nearer the time), 5-min walk/taxi to MGA for 07:00. Cost: 25k + $94 + the hotel.
-2. **Award + 02:30 private transfer from León** (≈ $60–90 for a car, ≈; Bigfoot and other hostels sell transfers): keeps all 4 León nights but no sleep.
-3. **Cash $417 on United 14:25 (via IAH):** keep 4 nights in León, chicken bus ~08:00 → Managua ~10:15 → taxi to MGA (≈ $15–20) by ~11:00. Costs $323 more than the award, but saves the hotel and the 4 am start, and lands earliest (≈ 23:00 SEA local, check).
-Recommendation: **option 1** (award, last night at the airport): usually cheaper than option 2's private car and you sleep; book the award soon, as seats were 9 on 24 Nov.
-
-**Getting to the airport (option 1):** León → Managua bus (above) or the Bigfoot/hostel shuttle (≈ $15–25 shared, ≈) on 2 Mar afternoon; Mercado Israel Lewites → airport by taxi ≈ $15–20 (≈; agree the fare first).
+**Why the airport night:** the award leaves at 07:00, and Estelí is ≈ 2½ h from Managua with the first bus at 03:30, too late for a 05:00 airport arrival. So:
+- **Wed 3 Mar:** Estelí morning walk → **express bus ≈ 12:00–13:15** from COTRAN Sur (C$110, ≈ 2 h 30) → **Mercado Mayoreo** → taxi ≈ 2 km to the homestay (agree the fare first).
+- **Night 3 → 4 Mar: Casa Robles MGA Airport Homestay** · apartment **$17 on Booking** · 9.1 (363 reviews; 1 % below 7), **location 9.5** · ≈ 2 km west of the terminal. Backup: Casa MONTOCO 114 (twin $18; 8.0, location 9.1, 9 % bad).
+- **Thu 4 Mar:** taxi to MGA ≈ 05:00 for the 07:00 flight (ask the host to book it the evening before).

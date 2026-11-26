@@ -1,4 +1,4 @@
-# Latin America itinerary, route v5 (8 Dec 2026 → 3 Mar 2027)
+# Latin America itinerary, route v5 (8 Dec 2026 → 4 Mar 2027)
 
 **Status:** draft for review. **Nothing is booked.**
 - Beds, buses, ferries and flights were checked live on **24 Nov 2026** for the exact dates and 1 adult, in **USD**.
@@ -29,9 +29,9 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 7 → 8 Jan | night bus + Aconquija bus | — | — | Córdoba → Tucumán overnight; Aconquija 06:00 → Cafayate via Tafí | [→](guides/cafayate.md) |
 | 8 → 10 Jan | **Cafayate** (2) | Cielito Lindo, $28.80, Hostelworld/Agoda | La Montaña B&B, $86 | | [→](guides/cafayate.md) |
 | 10 → 12 Jan | **Salta** (2) | Clivias Hostel, $30, Booking | Casa Puka (curtains), $23.50 (backup) | ✅ Flecha Bus 11:30 → 15:20, ≈ $18 | [→](guides/salta.md) |
-| 12 → 14 Jan | **Tilcara** (1) + **Purmamarca** (1) | Tilcara Mística $23 + Giramundo $17, Booking | Nido de Cóndores (quiet), $65 | | [→](guides/quebrada-de-humahuaca.md) |
-| Thu 14 Jan | over the Andes | — | — | ✅ **Andesmar Purmamarca 03:40 → San Pedro 11:30**, ≈ $73–88 | [→](guides/san-pedro-de-atacama.md) |
-| 14 → 18 Jan | **San Pedro de Atacama** (4) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 4 min from the terminal), $74, Booking | Hostal Ayni, $180 | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
+| 12 → 15 Jan | **Tilcara** (1) + **Iruya** (1, new 26 Nov) + **Purmamarca** (1) | Tilcara Mística $23 + Hospedaje Ale (private; Iruya has no dorms) $37 + Giramundo $17, Booking | Nido de Cóndores (quiet), $65 | Humahuaca → Iruya 08:20 (≈ 3 h, gravel road; can wash out in January) | [→](guides/quebrada-de-humahuaca.md) |
+| Fri 15 Jan | over the Andes | — | — | ✅ **Andesmar Purmamarca 03:40 → San Pedro 11:30**, ARS 120,000 (Plataforma10, 26 Nov) | [→](guides/san-pedro-de-atacama.md) |
+| 15 → 18 Jan | **San Pedro de Atacama** (3) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 4 min from the terminal), $55, Booking | Hostal Ayni, $180 | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
 | 18 → 20 Jan | **Jeep tour to Uyuni** (2) | Estrella del Sur, $260–280 + Bs 210–250 park/border fees (cash) | backup World White Travel $275 | Incahuasi often skipped in January (flooding); mirror effect likely | [→](guides/uyuni-jeep-tour.md) |
 | 20 → 21 Jan | **Potosí** (1) | Los Faroles (private; no decent dorm), $28, Booking | Colonial, $60 | Uyuni → Potosí 15:00–18:30, $11–15 | [→](guides/potosi.md) |
 | 21 → 24 Jan | **Sucre** (3) | Villa Oropeza (curtains, 2 kitchens), $17, Agoda | Los Balcones, $50 | Potosí → Sucre 13:00/14:00, $7–8 | [→](guides/sucre.md) |
@@ -51,10 +51,11 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 18 → 20 Feb | **Liberia / Rincón de la Vieja** (2) | Hostel Pura Vida, $28, Booking | | | [→](guides/rincon-de-la-vieja.md) |
 | 20 → 22 Feb | **San Juan del Sur** (2) | Nalu Nalu (location 9.6; kitchen, breakfast), $18, Booking | | CR exit $8 + Nicaragua entry $14, cash | [→](guides/san-juan-del-sur.md) |
 | 22 → 25 Feb | **Ometepe** (3) | Guest House Nena (private double, location 9.4, by the port), $36, Booking | | Ferry from San Jorge | [→](guides/ometepe.md) |
-| 25 → 27 Feb | **Granada** (2) | De Boca en Boca, $24, Booking | | | [→](guides/granada.md) |
-| 27 Feb → 2 Mar | **León** (3) | Casa Lula, ≈ $33 (3 of the 4 nights quoted, $44), Booking | | Telica closed; El Hoyo overnight instead | [→](guides/leon.md) |
-| 2 → 3 Mar | Managua airport hotel (1) | (to pick) | | The award leaves MGA at 07:00 | [→](guides/flight-home.md) |
-| Wed 3 Mar | ✈ home | — | — | Alaska award MGA → MIA → SEA, 25k + $94.42 (9 seats on 2–5 Mar); cash $417 | [→](guides/flight-home.md) |
+| 25 → 27 Feb | **Granada** (1) + **Laguna de Apoyo** (1, new 26 Nov) | De Boca en Boca $14 + Coco Bay (lakeshore, location 9.6) $14, Booking | | Masaya volcano at night on 25 Feb ($10 + ≈ $5 ride up) | [→](guides/granada.md) |
+| 27 Feb → 2 Mar | **León** (3) | Casa Lula, $33, Booking | | Telica closed; El Hoyo overnight instead | [→](guides/leon.md) |
+| 2 → 3 Mar | **Estelí** (1, new 26 Nov) | Melody 78 (location 9.5), $14, Hostelworld | Casa Vínculos, $36 | ✅ León 05:20 → Estelí ≈ 08:20, C$110; guided Tisey or Miraflor day | [→](guides/esteli.md) |
+| 3 → 4 Mar | Managua airport homestay (1) | Casa Robles MGA Airport Homestay (apartment, location 9.5), $17, Booking | | ✅ Estelí express → Mercado Mayoreo ≈ 2 h 30, C$110; the award leaves MGA at 07:00 | [→](guides/flight-home.md) |
+| Thu 4 Mar | ✈ home | — | — | Alaska award MGA → MIA → PDX → SEA, 25k + $94.42 (9 seats, 26 Nov); cash $417 | [→](guides/flight-home.md) |
 
 Every stop has its own guide in [`guides/`](guides/) (→ column): bed pick, backup and private alternative, getting there, things to do, food, and notes.
 
@@ -84,8 +85,8 @@ Every guide also has a **Book (one click)** table at the top, with dates and 1 a
 | 9 | Entry paperwork | **Yellow-fever certificate**, needed by Paraguay (arriving from Brazil), Bolivia, Panama and Costa Rica; get the shot ≥ 10 days before 21 Dec. Panama and Costa Rica also want an onward ticket (Panama also ~$500 proof of funds). Nicaragua's free advance registration by 13 Feb | [Tica Bus (onward ticket)](https://www.ticabus.com/en/) · [Nicaragua registration](https://solicitudes.migob.gob.ni/) · [CDC: Panama entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama) · [CDC: Costa Rica entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) |
 | 10 | Los Gigantes refugio, 4 → 6 Jan | No published price, so message Club Andino Córdoba; bring a sleeping bag | see the [Córdoba guide](guides/cordoba.md) |
 | 11 | 4M Express Puno → Chivay, Sat 30 Jan 06:15 ($54) | Confirm by WhatsApp; bookings close 3 days before | [4M Express](https://www.4m-express.com/) |
-| 12 | Andesmar Purmamarca → San Pedro, Thu 14 Jan 03:40 | One departure a day; captcha-protected shop | [Andesmar shop](https://shop.andesmar.com/) |
-| 13 | ✈ Flight home MGA → Seattle, Wed 3 Mar (25k + $94) | Book once the route is settled (9 seats on 2–5 Mar) | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-03&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
+| 12 | Andesmar Purmamarca → San Pedro, Fri 15 Jan 03:40 | One departure a day; captcha-protected shop (also on [Plataforma10](https://www.plataforma10.com.ar/)) | [Andesmar shop](https://shop.andesmar.com/) |
+| 13 | ✈ Flight home MGA → Seattle, Thu 4 Mar (25k + $94) | Book once the route is settled (9 seats on 3–5 Mar) | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-04&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
 
 ## Holiday backups (checked 25 Nov)
 Every stay or leg that falls on a holiday has a backup: either shifted dates or a nearby town that isn't booked out. Each backup was checked live on Booking for the exact dates and 1 adult, and it's a one-click row in the guide's **Book** table (🎄 Christmas, 🎆 New Year, 🎭 Carnaval). "How tight" compares Booking's availability on our dates with the same nights a week later.
@@ -97,13 +98,14 @@ Every stay or leg that falls on a holiday has a backup: either shifted dates or 
 | 🎆 New Year week | [Cabo Polonio](guides/cabo-polonio.md), 28 → 30 Dec | 5 hostels left (Albatros $70, Lobo $61, Hostal del Cabo $86); Punta del Diablo is 83% unavailable | — | **Barra de Valizas**, the next village (bus stop on the same Rutas del Sol line): Valizas 1900, dorm, location 9.5, **$38** |
 | 🎆 New Year's Eve | [Montevideo](guides/montevideo.md), 30 Dec → 1 Jan | Only **5 hostels** rated ≥ 8 are left; MedioMundo is still $50 | — | Circus Hotel (dorm, location 9.2, 2,865 reviews), **$32**. Or New Year in **Colonia**: Casarão Sacramento, dorm, location 9.8, $40 (Colonia is 86% unavailable). That also removes the 1 Jan Montevideo → Colonia bus, which runs no published holiday timetable |
 | 🎆 1 Jan transport | [Colonia → Buenos Aires → Córdoba](guides/colonia.md) | Colonia Express is on sale; 30 night buses Buenos Aires → Córdoba on 1 Jan (El Práctico 22:20: 24 seats) | Colonia Express on 2 Jan (10:00–23:30), and 38 night buses on 2 Jan | Buquebus (Colonia 17:01) or the Colonia Express bus + ferry ticket from Montevideo |
-| January peak season | [Purmamarca](guides/quebrada-de-humahuaca.md), 13 → 14 Jan | 41 places; Giramundo ($17) is still free | — | MiskyPacha, double, location 9.6, $31. Or **Jujuy city**, where the same 03:40 Andesmar bus starts at 02:45: El Balcón de la Tata, dorm, location 9.9, $21 (Jujuy is 71% unavailable that night, so book early) |
+| January peak season | [Purmamarca](guides/quebrada-de-humahuaca.md), 14 → 15 Jan (moved from 13 → 14 on 26 Nov) | 41 places on 13 Jan; Giramundo is still free on 14 Jan ($17, rechecked 26 Nov) | — | MiskyPacha, double, location 9.6, $31. Or **Jujuy city**, where the same 03:40 Andesmar bus starts at 02:45: El Balcón de la Tata, dorm, location 9.9, $21 (Jujuy is 71% unavailable that night, so book early) |
 | Bolivia 22 Jan holiday · Alasitas fair in La Paz from 24 Jan | [Sucre](guides/sucre.md), [La Paz](guides/la-paz.md) | No squeeze seen | — | — |
 | Candelaria, Puno (main days ≈ 2–9 Feb) | [Puno](guides/puno.md), 29 → 30 Jan | Before the peak: 148 places, no banner | — | Urpi Wasi is already the backup ($9, location 9.1) |
 | 🎭 Panama Carnaval, Sat 6 – Tue 9 Feb | [Boquete](guides/boquete.md), 5 → 8 Feb, and the Air Panama flight on Fri 5 Feb | 40 places, ONDA ($116) is still free; Air Panama 07:00 is still $67 | Fly **Thu 4 Feb** (Air Panama 07:00 or 16:15, $67) and add a 4th Boquete night | **David**, an hour below Boquete: Penny House, dorm, location 9.4, 0% bad reviews, **$41**. Copa Tocumen → David 06:39 on the 5th, $80, if Air Panama sells out |
 
 ## Biggest risks
 - **Bolivian road blockades.** A diesel price rise on 24 Nov set off a blockade on the Oruro–Potosí–Sucre road and an indefinite strike by the Sucre-region drivers' union. Re-check the week before 18 Jan. The Potosí night is the buffer if the jeep tour runs late.
+- **Iruya road (13–14 Jan):** the gravel road can close for hours or days after January rain. If it's shut, stay in Tilcara or Humahuaca and do Hornocal; check with the Humahuaca terminal the day before.
 - **Fri 1 Jan in Montevideo:** no city buses run, and COT hasn't published its 1 Jan service. The fallback is Colonia Express's through bus+ferry, 12:45 → 17:30, $53 (no Colonia stopover). The alternative is to cross on 2 Jan and use a spare day.
 - **Volcán Barú** summit road closed by a landslide on 7 Jul 2026, with no reopening notice found. **Telica** (León) is closed "until further notice".
 - January bus timetables in Argentina weren't on sale yet. Re-check 2–3 weeks out.
@@ -136,7 +138,7 @@ Every bed in the guides' **Book** tables shows its **location** score: Booking.c
 | [Asunción](guides/asuncion.md) | **Hostel Chaton 9.5**, dorm, $18 (Booking 9.2, 53 reviews, 2% below 7) | El Nómada 8.9, $22 | −$4 | "Great kitchen", calm; about six people share one bathroom. It's ≈ 2 km from Plaza Uruguaya (bus 88 from the terminal, 18 min) |
 | [Cabo Polonio](guides/cabo-polonio.md) | **Hostel Albatros 9.4**, $70 | Green House 8.7, $50 | +$20 | 9.1 overall, 1% below 7, kitchen, no noise complaints |
 | [Tilcara](guides/quebrada-de-humahuaca.md) | **Tilcara Mística 9.5**, $23 | Casa Colores 8.8, $11 | +$12 | 160 m from the plaza; one Nov 2026 review says patio noise carries into the dorms |
-| [San Pedro](guides/san-pedro-de-atacama.md) | **Hostal Lackuntur 9.4**, 4-bed dorm, $74 (Booking 9.3, 1,228 reviews, 1% below 7) | Casa Voyage 8.8, $65 | +$9 | Found in the 25 Nov sweep. It's cheaper than the proposed Backpackers San Pedro ($84.80), which stays as the backup. Shared kitchen, "far from a party"; no bunk curtains |
+| [San Pedro](guides/san-pedro-de-atacama.md) | **Hostal Lackuntur 9.4**, 4-bed dorm, $74 for 4 nights ($55 for 3 since 26 Nov; Booking 9.3, 1,228 reviews, 1% below 7) | Casa Voyage 8.8, $65 | +$9 | Found in the 25 Nov sweep. It's cheaper than the proposed Backpackers San Pedro ($84.80), which stays as the backup. Shared kitchen, "far from a party"; no bunk curtains |
 | [San Juan del Sur](guides/san-juan-del-sur.md) | **Nalu Nalu 9.6**, $18 | SaltWater 8.7, $28.60 | −$10.60 | Kitchen and breakfast; the 6-bed dorm is hot (no AC), so consider the 4-bed at $24 |
 | [Ometepe](guides/ometepe.md) | **Guest House Nena 9.4**, private double, $36 for 3 nights | Life is Good 8.3, $30 | +$6 | No dorm scores ≥ 9.0 here. 0.3 km from the port; street noise, so bring earplugs |
 
@@ -161,7 +163,7 @@ Each guide's private alternative was already chosen location-first, and all of t
 
 ## Money
 **Expected spend ≈ $6.2–6.8k** (≈ $75–80/day all-in). **Carry ≈ $7.5k**, which includes a ≈ $1k private-room buffer.
-- **Living ≈ $3.6k** (≈ $42.5/day). Beds at the picks come to ≈ $1.385k for 84 nights.
+- **Living ≈ $3.6k** (≈ $42/day). Beds at the picks come to ≈ $1.39k for 85 nights.
 - **Transport ≈ $1.25–1.6k.**
 - **Uyuni tour ≈ $0.3k.**
 - **Fees and admin ≈ $0.6–0.75k.**
@@ -185,6 +187,6 @@ Points: 60k + 25k Alaska. Details: [budget-forecast.md](budget-forecast.md).
 - **Peru:** [Puno](guides/puno.md) → [Colca Canyon](guides/colca-canyon.md) → [Arequipa](guides/arequipa.md)
 - **Panama:** [Panama City](guides/panama-city.md) → [Boquete](guides/boquete.md)
 - **Costa Rica:** [San Gerardo de Rivas (Chirripó)](guides/san-gerardo-de-rivas.md) → [Uvita](guides/uvita.md) → [Monteverde](guides/monteverde.md) → [La Fortuna](guides/la-fortuna.md) → [Rincón de la Vieja](guides/rincon-de-la-vieja.md)
-- **Nicaragua:** [San Juan del Sur](guides/san-juan-del-sur.md) → [Ometepe](guides/ometepe.md) → [Granada](guides/granada.md) → [León](guides/leon.md) → [Flight home](guides/flight-home.md)
+- **Nicaragua:** [San Juan del Sur](guides/san-juan-del-sur.md) → [Ometepe](guides/ometepe.md) → [Granada](guides/granada.md) → [León](guides/leon.md) → [Estelí](guides/esteli.md) → [Flight home](guides/flight-home.md)
 
-**Optional extras:** [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) (+2 days before Rio) · [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days, Arequipa → Lima overland; option C) · [Somoto Canyon](guides/somoto.md) (+2 days before flying home).
+**Optional extras:** [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) (+2 days before Rio) · [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days, Arequipa → Lima overland; option C) · [Somoto Canyon](guides/somoto.md) (+1 day from Estelí before flying home).

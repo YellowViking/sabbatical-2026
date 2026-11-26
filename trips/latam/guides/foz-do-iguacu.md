@@ -57,6 +57,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
   - **$108** (free cancellation to 18 Dec). ~1 km north of the centre.
 
 **Do (free / outdoors first):**
+- **Argentine side:** buy the park ticket online the day before (≈ 15% cheaper, per Worldly Adventurer), and book the boat ride (Gran Aventura) first thing, because it sells out by mid-morning *(lead)*.
 - **Sat 19: Brazilian side** (Parque Nacional do Iguaçu). It's the panorama side; do it the morning you arrive.
   - **Getting there:** bus **120 "Parque Nacional" from the TTU**, ≈ 40 min, every ≈ 20–30 min. The fare is **R$ 6 ($1)** from 4 Dec 2026 ✅ foz.pr.gov.br; the line number ✅ park site.
   - **Hours** ✅ cataratasdoiguacu.com.br: Sat–Sun 08:30–16:00 (weekdays from 09:00); you may stay until 17:30.

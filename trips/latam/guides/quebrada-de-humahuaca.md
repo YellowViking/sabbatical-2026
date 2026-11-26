@@ -1,4 +1,4 @@
-# Quebrada de Humahuaca (Tilcara + Purmamarca)
+# Quebrada de Humahuaca (Tilcara + Iruya + Purmamarca)
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Salta](salta.md) · [San Pedro de Atacama](san-pedro-de-atacama.md) →
 
@@ -15,15 +15,17 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 | Buses Salta / Jujuy → Tilcara (Evelia) | [open](https://eveliatransporte.com.ar/) |  |
 | Tilcara dorm, 12 → 13 Jan: **Tilcara Mística Hostel** (12 Jan → 13 Jan) · location 9.5 | [Booking (search)](https://www.booking.com/searchresults.html?ss=Tilcara+M%C3%ADstica+Hostel+&checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/67045/tilcara-mistica-hostel/?from=2027-01-12&to=2027-01-13&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=2820111&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) | 🚶 walk 7 min (450 m) from the bus stop; centre 3 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.5763341,-65.398639&destination=-23.5783375,-65.3960692&travelmode=walking) |
 | Tilcara backup: **Hostel Casa Colores** (12 Jan → 13 Jan) · ⚠️ location 8.8 | [Booking](https://www.booking.com/hotel/ar/casa-colores.html?checkin=2027-01-12&checkout=2027-01-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=415708&checkin=2027-01-12&checkout=2027-01-13&NumberofAdults=1&Rooms=1) | 🚶 walk 12 min (900 m) from the bus stop; centre 11 min on foot · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.5763341,-65.398639&destination=-23.5737027,-65.4000606&travelmode=walking) |
-| Purmamarca dorm, 13 → 14 Jan: **Giramundo Hostel Purmamarca** (13 Jan → 14 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/giramundo-hostel-purmamarca.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=25415036&checkin=2027-01-13&checkout=2027-01-14&NumberofAdults=1&Rooms=1) | 🚶 walk 4 min (270 m) from the Purmamarca bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.746635899999998,-65.4992451&destination=-23.745506499999998,-65.4984487&travelmode=walking) |
-| Purmamarca private alt (quiet): **Nido de Cóndores** (13 Jan → 14 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/nido-de-condores.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37730393&checkin=2027-01-13&checkout=2027-01-14&NumberofAdults=1&Rooms=1) | 🚶 walk 6 min (400 m) from the Purmamarca bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.746635899999998,-65.4992451&destination=-23.7440988,-65.50054229999999&travelmode=walking) |
-| ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Thu 14 Jan 03:40 | [open](https://shop.andesmar.com/) |  |
-| Peak-season backup, Purmamarca: **MiskyPacha**, double room with bathroom (13 Jan → 14 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/miskypacha.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 3 min (240 m) from the Purmamarca bus terminal · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.7449451,-65.4989252&destination=-23.745779,-65.500291&travelmode=walking) |
-| Peak-season backup (alt town): **El Balcón de la Tata Hostel**, San Salvador de Jujuy, bed in a 6-bed dorm (13 Jan → 14 Jan) · location 9.9 | [Booking](https://www.booking.com/hotel/ar/el-balcon-de-la-tata.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 10 min (700 m) from Jujuy's bus terminal, where the same Andesmar bus starts at 02:45 · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-24.183796,-65.2989954&destination=-24.186552,-65.303439&travelmode=walking) |
+| Iruya, 13 → 14 Jan: **Hospedaje Ale**, triple room with bathroom for 1 (13 Jan → 14 Jan) · location 9.5 | [Booking](https://www.booking.com/hotel/ar/hospedaje-ale.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 in the village, ≈ 80 m from the bus stop and plaza (Booking: 250 ft from downtown) |
+| Iruya backup: **El Wichiku Residencial**, double with mountain view (13 Jan → 14 Jan) · location 9.5 | [Booking](https://www.booking.com/hotel/ar/el-wichiku-recidencial-resto-bar.html?checkin=2027-01-13&checkout=2027-01-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 in the village, next to Hospedaje Ale |
+| Purmamarca dorm, 14 → 15 Jan: **Giramundo Hostel Purmamarca** (14 Jan → 15 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/giramundo-hostel-purmamarca.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=25415036&checkin=2027-01-14&checkout=2027-01-15&NumberofAdults=1&Rooms=1) | 🚶 walk 4 min (270 m) from the Purmamarca bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.746635899999998,-65.4992451&destination=-23.745506499999998,-65.4984487&travelmode=walking) |
+| Purmamarca private alt (quiet): **Nido de Cóndores** (14 Jan → 15 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/nido-de-condores.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37730393&checkin=2027-01-14&checkout=2027-01-15&NumberofAdults=1&Rooms=1) | 🚶 walk 6 min (400 m) from the Purmamarca bus stop · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.746635899999998,-65.4992451&destination=-23.7440988,-65.50054229999999&travelmode=walking) |
+| ⚠️ Andesmar Purmamarca → San Pedro de Atacama, **Fri 15 Jan 03:40** → 11:30 (ARS 120,000 ≈ $75 semicama, 38 seats on 26 Nov; boards at "Purmamarca Acceso" on RN52) | [Andesmar shop](https://shop.andesmar.com/) · [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Purmamarca-Acceso/San-Pedro-de-Atacama/4891/2777/15-01-2027/_/1/0/0) |  |
+| Peak-season backup, Purmamarca: **MiskyPacha**, double room with bathroom (14 Jan → 15 Jan) · location 9.6 | [Booking](https://www.booking.com/hotel/ar/miskypacha.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 3 min (240 m) from the Purmamarca bus terminal · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-23.7449451,-65.4989252&destination=-23.745779,-65.500291&travelmode=walking) |
+| Peak-season backup (alt town): **El Balcón de la Tata Hostel**, San Salvador de Jujuy, bed in a 6-bed dorm (14 Jan → 15 Jan) · location 9.9 | [Booking](https://www.booking.com/hotel/ar/el-balcon-de-la-tata.html?checkin=2027-01-14&checkout=2027-01-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) | 🚶 walk 10 min (700 m) from Jujuy's bus terminal, where the same Andesmar bus starts at 02:45 · [Maps route](https://www.google.com/maps/dir/?api=1&origin=-24.183796,-65.2989954&destination=-24.186552,-65.303439&travelmode=walking) |
 
-## 15. Quebrada de Humahuaca: Tilcara + Purmamarca — Tue 12 Jan → Thu 14 Jan (2 nights)
+## 15. Quebrada de Humahuaca: Tilcara + Iruya + Purmamarca — Tue 12 Jan → Fri 15 Jan (3 nights)
 
-**Which base?** Split it: **Tilcara Tue 12 → Wed 13, then Purmamarca Wed 13 → Thu 14.**
+**Which base?** Split it: **Tilcara Tue 12 → Wed 13, Iruya Wed 13 → Thu 14, then Purmamarca Thu 14 → Fri 15.** Iruya was added on 26 Nov (Worldly Adventurer, Broke Backpacker); its night comes out of San Pedro, so nothing after 18 Jan moves.
 - **Tilcara is the better hiking base.** It sits on the RN9 bus spine, with ~20 buses a day to Humahuaca (45 min) and 11 a day to Purmamarca (25–35 min). The Garganta del Diablo trail starts from town, and it has 7 hostels on Booking plus 4 on Hostelworld for these dates.
 - **Purmamarca is where the San Pedro bus stops.** Andesmar's shop lists "Parador Purmamarca" at 03:40, and the bus doesn't call at Tilcara (Tilcara is 25 km up RN9, past the RN52 turn-off). No local bus runs between 23:45 and 05:35, so from Tilcara you would need a remís booked for ≈ 02:50.
 - **So yes, sleep the last night in Purmamarca.** It's the sunset Colorados walk, then bed by 21:00 and a short walk to the stop. The 1-night bag move costs ARS 2,500 (≈ $1.50) and 30 min on Evelia.
@@ -48,7 +50,14 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 - **Checks:** ✅ a fully equipped kitchen. Big indoor and outdoor common areas, quiet; few sockets by the beds. Curtains not confirmed. No pool.
 - Also ≥ 9.0: Tierra Andina (location 9.5, 6-bed dorm $12, but Booking 8.3 with 6% below 7; not vetted).
 
-**Bed, Purmamarca, Wed 13 → Thu 14:** **Giramundo Hostel Purmamarca** · single bed in a dorm.
+**Bed, Iruya, Wed 13 → Thu 14 (live-checked 26 Nov):** **Hospedaje Ale** · triple room with private bathroom, for 1.
+- **Ratings:** Booking 8.7 (192 reviews; 2% below 7), **location 9.5**.
+- **Total for 1 night: $37 on Booking.** Iruya has no dorm beds on Booking or Hostelworld for these dates.
+- **Backup:** El Wichiku Residencial (also location 9.5; 252 reviews, 3% below 7), double with mountain view, $46.
+- **Why Iruya:** a cliffside village of ≈ 1,000 people at 2,780 m, 54 km down a gravel road off RN9, with free walks to San Isidro and the Mirador del Cóndor. It also helps you acclimatise before Hornocal (4,350 m) and Jama (4,200 m).
+- ⚠️ **January rains:** the gravel road (RP 13 / RP 133) runs through riverbeds and can wash out for hours or days after storms. Ask at the Humahuaca terminal before you go. **If it's closed,** stay a 2nd night in Tilcara (Tilcara Mística, $23 for 13 → 14 Jan, checked 26 Nov) and do Hornocal on Wednesday instead.
+
+**Bed, Purmamarca, Thu 14 → Fri 15:** **Giramundo Hostel Purmamarca** · single bed in a dorm.
 - **Ratings:** Booking 8.4 (410 reviews; ⚠️ **15% below 7**); Agoda 8.5 (415).
 - **Total: $17 on Booking**; Agoda $17.41.
 - **Location:** 9.6, 100 m from the plaza.
@@ -65,12 +74,14 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
   - 8–9 km return from town on a dirt road and then the canyon path, +≈ 420 m, ≈ 3–3.5 h.
   - It's on Comunidad Ayllu Mama Qolla land; they charge a cash entry fee at the top, ≈ ARS 5,000–6,000 (≈ $3–4) *(fee not published; amount from leads)*.
   - Don't enter the gorge if a storm is building (flash floods). If it's raining, swap it with Wednesday morning.
-- **Wed 13, morning: Serranía de Hornocal** ("14 colours", 4,350 m).
-  - ✅ Evelia leaves Tilcara 07:15 or 07:20 and reaches **Humahuaca** 08:00 (ARS 4,500).
-  - Shared 4x4s leave the terminal when full, ≈ 3 h return, ≈ ARS 20,000 + ARS 2,000 community fee (≈ $13 total) *(leads)*. Late morning gives the best light before the storms.
-  - It's also an **acclimatisation day**: 4,350 m the day before crossing Jama (4,200 m) to San Pedro (2,400 m).
-  - Back in Tilcara by ≈ 12:30: collect your bag and do the Garganta now if it was skipped. Then ride Evelia to Purmamarca (✅ 14:15 → 14:40, 15:55 → 16:20 or 18:00 → 18:30).
-- **Wed 13, late afternoon, Purmamarca:**
+- **Wed 13: Iruya.** ✅ Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00 (ARS 4,500), then **Transporte Iruya 08:20** (also 10:30 and 16:00, not Saturdays at 16:00) → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor (≈ ARS 9,500–12,000 ≈ $6–8; buy at the Humahuaca terminal) *(times and fares from leads; confirm at the terminal)*.
+  - **Afternoon (free):** walk the riverbed to **San Isidro**, a smaller village ≈ 8 km up the valley (≈ 3–4 h return), or climb to the **Mirador del Cóndor** above the village at sunset.
+  - **Book your return seat** at the Iruya ticket office when you arrive.
+- **Thu 14, morning: Serranía de Hornocal** ("14 colours", 4,350 m).
+  - Take the **06:00 bus** Iruya → Humahuaca (arrives ≈ 09:00; no Sunday service). Leave the bag at the terminal's luggage office (ask) or with the 4x4 driver.
+  - Shared 4x4s leave the Humahuaca terminal when full, ≈ 3 h return, ≈ ARS 20,000 + ARS 2,000 community fee (≈ $13 total) *(leads)*. Late morning gives the best light before the storms.
+  - Then Evelia or Balut Humahuaca → Purmamarca (≈ 1 h 15), arriving early afternoon.
+- **Thu 14, late afternoon, Purmamarca:**
   - The **Paseo de los Colorados**: a 3 km dirt loop through red-rock spires behind the village, ≈ 1 h, small or no community fee.
   - The **Cerro El Porito** lookout for the Cerro de los Siete Colores: best at golden hour, 10–15 min up.
   - Then dinner and bed by 21:00.
@@ -81,7 +92,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 - **Purmamarca:** Lo de Tere (Andean counter food: llama tacos and empanadas, ARS 7,000–9,000 ≈ $5) or Lo de Mateo (empanadas, a meal under ARS 10,000), both off the pricier plaza.
 - **Craft beer:** **El Molle Resto Bar** (Belgrano 417, Tilcara) pours Cerveza Artesanal Tilcara (Golden, Yacoraite, IPA, stout): ARS 5,500 (≈ $3.30) a 500 cc pint, against ARS 9,500 at tourist restaurants.
 
-**Notes: the 03:40 bus on Thu 14 Jan** (✅ Andesmar's shop: 03:40 → San Pedro 11:30, ARS 120,000–145,000 ≈ $73–88).
+**Notes: the 03:40 bus on Fri 15 Jan** (✅ Plataforma10 on 26 Nov: Andesmar 03:40 from "Purmamarca Acceso" → San Pedro 11:30, semicama ARS 120,000 ≈ $75, 38 seats; Andesmar's own shop listed ARS 120,000–145,000 for the 14th).
 - **Where it stops:** Andesmar calls the stop "**Parador Purmamarca**". Leads say it's the roadside pull-off on **RN52 at the village entrance** (opposite Hotel El Manantial del Silencio), not the little terminal by the plaza: a 15–25 min unlit walk, or ask your host to book a remís. **Confirm the exact spot** with Andesmar (Jujuy or Salta office, or WhatsApp) before you go.
 - **Buy the ticket ahead.** It's Andesmar's only Jama departure that day, and there's **no Saturday bus that week**. Andesmar's shop is the cheapest seller (the 120,000 semicama promo); Plataforma10 and Busbud also sell it.
 - **Border:** Paso de Jama (4,200 m), joint Argentine–Chilean control. Chile's SAG bans fresh fruit, vegetables, meat, dairy, honey, seeds and **coca leaves**. Declare any food or bin it before the border.

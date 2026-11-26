@@ -55,6 +55,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 - Doña Cata's private (double, shared bath) is $114 on Booking, but it has the same club-noise problem.
 
 **Do (outdoors first; the Barú timing is the key choice):**
+- **Barú on your own** costs ≈ $5 in park fees against $40–85 guided, but muggings have been reported on the trail: start with other hikers from the hostel, not alone (The Broke Backpacker, 26 Nov lead).
 - **Fri 5 Feb, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10** (LP), 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
 - **Sat 6 Feb, morning:**
   - **Option 1: Sendero Los Quetzales**, out-and-back from the Alto Chiquero ranger post (Barú NP; park fee ≈ $7, ≈ 45 min by taxi). Quetzal season is Feb–May (LP).

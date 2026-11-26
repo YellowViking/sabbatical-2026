@@ -19,6 +19,7 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [San Pedro de Atacama](sa
 ---
 
 ## Open issues: Chile + Bolivia
+0. **Chile's SAG food declaration:** The Broke Backpacker says the agricultural form is now filed online ≈ 48 h before entry. Check whether that applies at the Jama crossing on Fri 15 Jan.
 
 1. **Bolivian transport strikes and blockades (biggest risk).** The diesel rise to Bs 20.57 (24 Nov 2026) triggered blockades on the Oruro–Potosí–Chuquisaca road and an indefinite Chuquisaca drivers' strike from 25 Nov. Re-check the week before 18 Jan. If roads are blocked: tour → Uyuni → fly Uyuni–La Paz (BoA/Amaszonas, not priced) and drop Potosí/Sucre, or wait it out in Sucre. Bus fares in this section (Tickets Bolivia, pre-rise) will likely go up.
 2. **Hito Cajón closures** (storms, 1–3 days at a time in Jan): the jeep tour may wait or reroute via Ollagüe. The Potosí night is the buffer (go Uyuni → Sucre direct).

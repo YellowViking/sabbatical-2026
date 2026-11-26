@@ -1,6 +1,6 @@
 # Costa Rica + Nicaragua: region notes
 
-Part of the [LatAm itinerary](../itinerary.md). Stops: [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) · [Uvita](uvita.md) · [Monteverde](monteverde.md) · [La Fortuna / Arenal](la-fortuna.md) · [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) · [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) · [Ometepe](ometepe.md) · [Granada + Laguna de Apoyo](granada.md) · [León](leon.md) · [Flight home (Managua → Seattle)](flight-home.md) · [Somoto Canyon (optional)](somoto.md)
+Part of the [LatAm itinerary](../itinerary.md). Stops: [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) · [Uvita](uvita.md) · [Monteverde](monteverde.md) · [La Fortuna / Arenal](la-fortuna.md) · [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) · [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) · [Ometepe](ometepe.md) · [Granada + Laguna de Apoyo](granada.md) · [León](leon.md) · [Estelí](esteli.md) · [Flight home (Managua → Seattle)](flight-home.md) · [Somoto Canyon (optional)](somoto.md)
 
 **6. Costa Rica + Nicaragua (stops 27–35, 8 Feb → 3 Mar 2027) and the flight home**
 
