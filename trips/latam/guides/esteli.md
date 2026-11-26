@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Estelí: the beds, the COTRAN Sur bus terminal and the UCA Miraflor office](img/esteli-map-a66686e3.jpg)
 
-**In town:** ★ **Melody 78 Hostel & Suites** (the pick) · **1** Hotel Casa Vínculos (backup) · **2** Hotel NO STRESS TRAVELLERS (private alt) · **B** COTRAN Sur (buses from León, to Managua and Tisey) · **3** [UCA Miraflor](https://www.google.com/maps?ftid=0x8f718d5b57ad02a9:0x7a3c15b27002e9bf) (the Miraflor cooperative)
+**In town:** ★ **[Melody 78 Hostel & Suites](https://www.google.com/maps?ftid=0x8f718d06008e4df3:0x37d078c1332a31b2)** (the pick, [book](https://www.hostelworld.com/hostels/p/311020/melody-78-hostel-suites/?from=2027-03-02&to=2027-03-03&guests=1)) · **1** [Hotel Casa Vínculos](https://www.google.com/maps?ftid=0x8f718c426f762687:0x3c3c11f436d3018) (backup, [book](https://www.booking.com/hotel/ni/casa-vinculos.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Hotel NO STRESS TRAVELLERS](https://www.google.com/maps?ftid=0x8f718de690753a4b:0xc0e570801aa636a4) (private alt, [book](https://www.booking.com/hotel/ni/no-stress-travelleres.html?checkin=2027-03-02&checkout=2027-03-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [COTRAN Sur](https://www.google.com/maps?ftid=0x8f718c13825dde4b:0x69c6340e0429bb84) (buses from León, to Managua and Tisey) · **3** [UCA Miraflor](https://www.google.com/maps?ftid=0x8f718d5b57ad02a9:0x7a3c15b27002e9bf) (the Miraflor cooperative)
 
 ![Map of the area: Estelí, the Tisey–La Estanzuela reserve to the south and Miraflor to the north-east](img/esteli-area-map-14d94a3f.jpg)
 

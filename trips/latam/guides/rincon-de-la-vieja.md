@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Liberia: the beds, the bus terminal and the central market](img/rincon-de-la-vieja-map-420c312a.jpg)
 
-**In town:** ★ **Hostel Pura Vida en Liberia** (the pick) · **B** main bus terminal (Terminal Municipal, where the Cañas bus arrives) · **1** Hospedaje Dodero (backup) · **2** Hotel Liberia (private alt) · **3** [Mercado Municipal de Liberia](https://www.google.com/maps?ftid=0x8f757d29ee555555:0x9419781315a6eb17)
+**In town:** ★ **[Hostel Pura Vida en Liberia](https://www.google.com/maps?ftid=0x8f757d2cf20af0c7:0x7ca4a2146794c10f)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [main bus terminal](https://www.google.com/maps?ftid=0x8f757d29c113415f:0xa7abf91e18fcc9b3) (Terminal Municipal, where the Cañas bus arrives) · **1** [Hospedaje Dodero](https://www.google.com/maps?ftid=0x8f757cd628fb08bb:0x919f0c2ddd372375) (backup, [book](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hotel Liberia](https://www.google.com/maps?ftid=0x8f757d98dd659bb5:0xadfa68043f08eb6) (private alt, [book](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Mercado Municipal de Liberia](https://www.google.com/maps?ftid=0x8f757d29ee555555:0x9419781315a6eb17)
 
 ![Map of the area: Liberia, Curubandé and the Las Pailas sector of Rincón de la Vieja](img/rincon-de-la-vieja-area-map-195666b4.jpg)
 

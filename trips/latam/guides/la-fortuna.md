@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of La Fortuna: the beds, the bus terminal and La Fortuna Pub](img/la-fortuna-map-7e0accd2.jpg)
 
-**In town:** ★ **Ceiba Hostel** (the pick) · **B** bus terminal · **1** Alpha Arenal (backup) · **2** Casa Paraíso (private alt, 2.5 km out) · **3** [La Fortuna Pub](https://www.google.com/maps?ftid=0x8fa00c8bc2a0449d:0xcb3b226a5317fa3e)
+**In town:** ★ **[Ceiba Hostel](https://www.google.com/maps?ftid=0x8fa00d211f0120dd:0x6d32c1fc206e9ace)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [bus terminal](https://www.google.com/maps?ftid=0x8fa00d0aef06d4c9:0x9d4857be7750c35e) · **1** [Alpha Arenal](https://www.google.com/maps?ftid=0x8fa00d99bd1fb577:0x74d506821600fcc6) (backup, [book](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Casa Paraíso](https://www.google.com/maps?ftid=0x8fa00cfa57547e51:0x9b468350f631006d) (private alt, 2.5 km out, [book](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [La Fortuna Pub](https://www.google.com/maps?ftid=0x8fa00c8bc2a0449d:0xcb3b226a5317fa3e)
 
 ![Map of the area: La Fortuna, the hot river by Tabacón, the Arenal trails and La Fortuna Waterfall](img/la-fortuna-area-map-95ff6152.jpg)
 

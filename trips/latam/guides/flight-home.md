@@ -10,7 +10,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of eastern Managua: Mercado Mayoreo, the airport homestay and the airport](img/flight-home-map-5cddc4a1.jpg)
 
-★ **Casa Robles MGA Airport Homestay** (the pick) · **B** [Mercado Mayoreo](https://www.google.com/maps?ftid=0x8f73fea02666def3:0xfe3b0806411e4559) (Estelí buses arrive here) · **✈** [Augusto C. Sandino International Airport (MGA)](https://www.google.com/maps?ftid=0x8f73fbfc3f69cac7:0x23fd903b3fad5c5a). The backup, Casa MONTOCO 114, isn't on Google Maps; it's further from the airport.
+★ **[Casa Robles MGA Airport Homestay](https://www.google.com/maps?ftid=0x8f73fc1a0819b303:0x71dfb65313a6a384)** (the pick, [book](https://www.booking.com/hotel/ni/apartment-3-minutes-from-airport.html?checkin=2027-03-03&checkout=2027-03-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Mercado Mayoreo](https://www.google.com/maps?ftid=0x8f73fea02666def3:0xfe3b0806411e4559) (Estelí buses arrive here) · **✈** [Augusto C. Sandino International Airport (MGA)](https://www.google.com/maps?ftid=0x8f73fbfc3f69cac7:0x23fd903b3fad5c5a). The backup, Casa MONTOCO 114, isn't on Google Maps; it's further from the airport.
 
 **Open the live map:** [airport area](https://www.google.com/maps/@12.1420,-86.1830,15z)
 

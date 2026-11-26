@@ -15,11 +15,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of San Juan del Sur: the beds, the market bus stop, the beach and the brewery](img/san-juan-del-sur-map-504959be.jpg)
 
-**In town:** ★ **Nalu Nalu Hostal** (the pick) · **1** Hostel SaltWater (backup) · **2** ORÍGENES Guest House (private alternative; the private alt Lobolira isn't on Google Maps) · **B** market bus stop · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84)
+**In town:** ★ **[Nalu Nalu Hostal](https://www.google.com/maps?ftid=0x8f75b5e1ef27a9c5:0x22b324eed8db03b3)** (the pick, [book](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Hostel SaltWater](https://www.google.com/maps?ftid=0x8f75b442fac2282d:0x424671b5cdf21e7a) (backup, [book](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1)) · **2** [ORÍGENES Guest House](https://www.google.com/maps?ftid=0x8f75b5b6dc377521:0x6fc43e59f23969fc) (private alternative; the private alt Lobolira isn't on Google Maps, [book](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [market bus stop](https://www.google.com/maps?ftid=0x8f75b4424012c647:0x87bd573724e67f42) · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84)
 
 ![Map of the area: San Juan del Sur and the beaches to the north, Marsella and Maderas](img/san-juan-del-sur-area-map-76eb91a0.jpg)
 
-**Around:** ★ San Juan del Sur · **3** town beach · **5** [Playa Marsella](https://www.google.com/maps?ftid=0x8f75b5116913965d:0x2e7191453066fa63) · **6** [Playa Maderas](https://www.google.com/maps?ftid=0x8f75b54038624191:0x92f74c2c6d670e3d) (Playa Majagual is further on) · **7** [Hush Maderas](https://www.google.com/maps?ftid=0x8f75b515df13f18f:0x2622f9739bac056c) (Playa Maderas bed option)
+**Around:** ★ San Juan del Sur · **3** [town beach](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) · **5** [Playa Marsella](https://www.google.com/maps?ftid=0x8f75b5116913965d:0x2e7191453066fa63) · **6** [Playa Maderas](https://www.google.com/maps?ftid=0x8f75b54038624191:0x92f74c2c6d670e3d) (Playa Majagual is further on) · **7** [Hush Maderas](https://www.google.com/maps?ftid=0x8f75b515df13f18f:0x2622f9739bac056c) (Playa Maderas bed option)
 
 **Open the live map:** [town](https://www.google.com/maps/@11.2555,-85.8700,16z) · [area](https://www.google.com/maps/@11.2750,-85.8900,13z)
 
@@ -113,7 +113,7 @@ Live-checked 25 Nov, chosen for location.
 - **Lobolira cabin ("1 bedroom cabin, 3 blocks from beach")**, a whole cabin. **$44 for 2 nights** (room table) on Booking.com.
 - Booking location **9.6** (score 9.4, 32 reviews, 0 % bad).
 - 0.6 km from the centre, on a quiet street.
-- Alternative: **ORÍGENES Guest House** double, location 9.4 (79 reviews, 3 % bad), $60, 0.4 km.
+- Alternative: **ORÍGENES Guest House** double, location 9.4 (79 reviews, 3 % bad), $60 on [Booking](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD), 0.4 km.
 
 ## 🌳 Things to do (free and outdoors first)
 

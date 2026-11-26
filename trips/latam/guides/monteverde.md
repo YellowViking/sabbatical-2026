@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Santa Elena: the beds and the bus stop](img/monteverde-map-3f2d5a75.jpg)
 
-**In town:** ★ **Monteverde Backpackers** (the pick) · **B** Santa Elena bus stop · **1** OutBox Inn (backup) · **2** Hostel Cattleya (backup 2) · **3** Casa Geranios #2 (private alt)
+**In town:** ★ **[Monteverde Backpackers](https://www.google.com/maps?ftid=0x8fa01978f5f77c49:0xdfc8493fb544bbda)** (the pick, [book](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1)) · **B** [Santa Elena bus stop](https://www.google.com/maps?ftid=0x8fa01b80f7bc7937:0x24a35d5bdc738b2) · **1** [OutBox Inn](https://www.google.com/maps?ftid=0x8fa01b882444e4e1:0x9acf7748d3d1d36c) (backup, [book](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Hostel Cattleya](https://www.google.com/maps?ftid=0x8fa01bdbd65b1177:0xaa41898629d1c128) (backup 2, [book](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Casa Geranios #2](https://www.google.com/maps?ftid=0x8fa01bd09b8811fb:0xeb4d86f71730a0a1) (private alt, [book](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD))
 
 ![Map of the area: Santa Elena, the Santa Elena reserve and Cerro Amigos](img/monteverde-area-map-4438861d.jpg)
 
