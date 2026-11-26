@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md)
 
-> **Optional +2 (Stop 0) · Tue 8 → Thu 10 Dec 2026 · 2 nights · straight from GIG**
+> **Optional +2 (Stop 0) · Tue 8 → Thu 10 Dec 2026 · 2 nights · straight from GIG**<br>
 > 🏞️ Granite spires and Atlantic-forest trails in the Serra dos Órgãos national park (PARNASO)<br>
 > 🛏️ **Estúdio 325 Teresópolis**, a studio flat with a kitchen, $79 for 2 nights<br>
 > 🚌 **In:** GIG → Novo Rio, then Viação Teresópolis 11:30 or 13:00, Tue 8 · **Out:** Viação Teresópolis back to Novo Rio (e.g. 12:00), Thu 10

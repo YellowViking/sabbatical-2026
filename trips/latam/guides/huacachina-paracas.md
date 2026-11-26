@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [Panama City](panama-city.md) →
 
-> **Optional route C · Tue 2 → Sat 6 Feb 2027 · night bus + 3 nights · an open option, not yet the plan**
+> **Optional route C · Tue 2 → Sat 6 Feb 2027 · night bus + 3 nights · an open option, not yet the plan**<br>
 > 🏞️ Overland up the coast: the desert oasis at Huacachina, then the Ballestas islands and the Paracas reserve<br>
 > 🛏️ **Hostal Huacachina Sunset** (dorm $15) · **Hostel Killamoon Centro**, Paracas (dorm $14) · **Tupac Hostel**, Lima airport (dorm $9.90)<br>
 > 🚌 **In:** night bus Arequipa → Ica, Tue 2 Feb · ✈ **Out:** Copa Lima → Panama City on United miles, Sat 6 Feb 10:30

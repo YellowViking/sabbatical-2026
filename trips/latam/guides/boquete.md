@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Panama City](panama-city.md) · [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) →
 
-> **Stop 26 · Fri 5 → Mon 8 Feb 2027 · 3 nights · 🎭 Carnaval**
+> **Stop 26 · Fri 5 → Mon 8 Feb 2027 · 3 nights · 🎭 Carnaval**<br>
 > 🏞️ Cool coffee-country town in the highlands, below Volcán Barú (3,474 m)<br>
 > 🛏️ **ONDA Boquete** ("Socialtel Boquete" on Booking), mixed dorm, $116 for 3 nights<br>
 > ✈️ **In:** Air Panama Albrook → David, Fri 07:00, then the bus up · **Out:** 🚌 05:30 bus to David and the Costa Rican border, Mon

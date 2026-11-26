@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Paraty](paraty.md) · [Curitiba + Serra Verde](curitiba.md) →
 
-> **Stop 4 · Tue 15 → Thu 17 Dec 2026 · 2 nights · MASP's free Tuesday**
+> **Stop 4 · Tue 15 → Thu 17 Dec 2026 · 2 nights · MASP's free Tuesday**<br>
 > 🏞️ Brazil's biggest city: art, a forest peak on the city edge and craft beer, with a base in Pinheiros<br>
 > 🛏️ **Lamparina Hostel**, a bed in a 10-bed mixed dorm with privacy curtains, $27 for 2 nights<br>
 > 🚌 **In:** Reunidas from Paraty 09:00 → Tietê 15:40, Tue 15 · **Out:** Penha 07:30 Tietê → Curitiba 14:00, Thu 17

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Granada + Laguna de Apoyo](granada.md) · [Estelí](esteli.md) →
 
-> **Stop 35 · Sat 27 Feb → Tue 2 Mar 2027 · 3 nights**
+> **Stop 35 · Sat 27 Feb → Tue 2 Mar 2027 · 3 nights**<br>
 > 🏞️ Hot colonial city below the Maribios volcano chain: board down Cerro Negro, camp on El Hoyo<br>
 > 🛏️ **Casa Lula León Hostal**, a quiet mixed dorm with a kitchen, $33 for 3 nights<br>
 > 🚌 **In:** microbuses from Granada via Managua, Sat · **Out:** 05:20 bus to Estelí, Tue 2 Mar

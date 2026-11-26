@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Cabo Polonio](cabo-polonio.md) · [Córdoba + Los Gigantes](cordoba.md) →
 
-> **Day 25 · Fri 1 Jan 2027 · no night in Colonia · New Year's Day**
+> **Day 25 · Fri 1 Jan 2027 · no night in Colonia · New Year's Day**<br>
 > 🏞️ A 4½-hour stopover in Colonia's UNESCO old town, then the ferry across the Río de la Plata and a night bus to Córdoba<br>
 > 🛏️ No bed: you sleep on the night bus (cama, ≈ $44–48)<br>
 > 🚌 **In:** COT from Montevideo, 09:30 → 12:20 · **Out:** Colonia Express 18:00 → Buenos Aires 19:15, then Retiro → Córdoba 21:00 or 22:20

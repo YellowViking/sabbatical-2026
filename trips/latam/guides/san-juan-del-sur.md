@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) · [Ometepe](ometepe.md) →
 
-> **Stop 32 · Sat 20 → Mon 22 Feb 2027 · 2 nights · border crossing**
+> **Stop 32 · Sat 20 → Mon 22 Feb 2027 · 2 nights · border crossing**<br>
 > 🏞️ Surf town on a horseshoe Pacific bay, with Playa Maderas 20 min north<br>
 > 🛏️ **Nalu Nalu Hostal**, a 6-bed mixed dorm one street from the beach, $18 for 2 nights<br>
 > 🚌 **In:** buses from Liberia via the Peñas Blancas border, Sat (leave by ~08:00) · **Out:** bus to Rivas and the ferry to Ometepe, Mon 22 Feb

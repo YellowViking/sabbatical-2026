@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md)
 
-> **Optional · +1 day from Estelí · Wed 3 → Fri 5 Mar 2027 · 2 nights (Somoto + the airport homestay)**
+> **Optional · +1 day from Estelí · Wed 3 → Fri 5 Mar 2027 · 2 nights (Somoto + the airport homestay)**<br>
 > 🏞️ A narrow granite canyon of the Río Coco by the Honduran border: hike in, then float, swim and jump<br>
 > 🛏️ Somoto lodging not checked; local guides offer homestay beds<br>
 > 🚌 **In:** Estelí → Somoto (≈ 1½–2 h), Wed 3 Mar · **Out:** afternoon express Somoto → Managua, Thu 4 Mar; ✈ Fri 5 Mar

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [León](leon.md) · [Flight home (Managua → Seattle)](flight-home.md) →
 
-> **Stop 36 · Tue 2 → Wed 3 Mar 2027 · 1 night · new 26 Nov**
+> **Stop 36 · Tue 2 → Wed 3 Mar 2027 · 1 night · new 26 Nov**<br>
 > 🏞️ Nicaragua's only cool highland stop (≈ 850 m), with two cloud-forest and waterfall reserves on its doorstep<br>
 > 🛏️ **Melody 78 Hostel & Suites**, a central dorm bed, $14 (double $27)<br>
 > 🚌 **In:** 05:20 bus from León, Tue · **Out:** express bus to Managua ≈ 12:00–13:15, Wed 3 Mar

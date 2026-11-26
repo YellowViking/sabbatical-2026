@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Monteverde](monteverde.md) · [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) →
 
-> **Stop 30 · Mon 15 → Thu 18 Feb 2027 · 3 nights**
+> **Stop 30 · Mon 15 → Thu 18 Feb 2027 · 3 nights**<br>
 > 🏞️ Town under the Arenal volcano: a free hot river, lava-flow trails and a day trip to Río Celeste<br>
 > 🛏️ **Ceiba Hostel**, capsule in an 8-bed dorm, $39 for 3 nights<br>
 > 🚐 **In:** jeep-boat-jeep from Monteverde, Mon 08:00 · **Out:** buses via Tilarán and Cañas to Liberia, Thu morning

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Colca Canyon](colca-canyon.md) · [Panama City](panama-city.md) →
 
-> **Stop 24 · Mon 1 → Wed 3 Feb 2027 (days 56–58) · 2 nights (1 under options B and C)**
+> **Stop 24 · Mon 1 → Wed 3 Feb 2027 (days 56–58) · 2 nights (1 under options B and C)**<br>
 > 🏞️ The white-stone city under Misti, Chachani and Pichu Pichu, and the driest stop of the week<br>
 > 🛏️ **Econunay**, a bed in an 8-bed mixed ensuite dorm, $18.94 for 2 nights<br>
 > 🚌 **In:** bus from Cabanaconde, Mon 09:30 · **Out:** three open options (A: fly Wed 3 Feb 06:50 · B: fly to Lima on the 2 Feb afternoon · C: night bus on 2 Feb to Huacachina + Paracas)

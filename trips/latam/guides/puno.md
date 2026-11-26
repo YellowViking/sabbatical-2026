@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) · [Colca Canyon](colca-canyon.md) →
 
-> **Stop 22 · Fri 29 → Sat 30 Jan 2027 (days 53–54) · 1 night · transit · Candelaria festival weeks**
+> **Stop 22 · Fri 29 → Sat 30 Jan 2027 (days 53–54) · 1 night · transit · Candelaria festival weeks**<br>
 > 🏞️ One evening on Lake Titicaca's Peruvian shore at 3,830 m, between the border and the Colca bus<br>
 > 🛏️ **Kantaya Hostel**, a bed in a 10-bed mixed ensuite dorm, $10.50<br>
 > 🚌 **In:** Titicaca Bolivia Bus from Copacabana, Fri 13:30 · **Out:** 4M Express to Chivay, Sat pickup 05:50–06:10

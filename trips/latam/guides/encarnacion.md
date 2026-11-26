@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Asunción](asuncion.md) · [Montevideo](montevideo.md) →
 
-> **Stop 8 · Wed 23 → Sat 26 Dec 2026 · 3 nights · Christmas**
+> **Stop 8 · Wed 23 → Sat 26 Dec 2026 · 3 nights · Christmas**<br>
 > 🏞️ River town and beach on the Paraná, with Jesuit ruins nearby<br>
 > 🛏️ **Departamentos De La Costa**, a whole flat with a kitchen, $76 for 3 nights<br>
 > 🚌 **In:** La Encarnacena from Asunción, Wed 08:30 · **Out:** EGA overnight to Montevideo, Sat 13:30

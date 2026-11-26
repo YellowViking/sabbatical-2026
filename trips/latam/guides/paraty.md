@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Ilha Grande](ilha-grande.md) · [São Paulo](sao-paulo.md) →
 
-> **Stop 3 · Mon 14 → Tue 15 Dec 2026 · 1 night**
+> **Stop 3 · Mon 14 → Tue 15 Dec 2026 · 1 night**<br>
 > 🏞️ A colonial port with cobbled streets, and Trindade's beaches and rock pools a local bus away<br>
 > 🛏️ **Girassol Hostel by Katita**, a bunk in a mixed dorm, $12 for 1 night<br>
 > 🚌 **In:** Barcas ferry Abraão → Angra 10:00 + Colitur 12:40, Mon 14 · **Out:** Reunidas 09:00 to São Paulo Tietê, Tue 15

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Sucre](sucre.md) · [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) →
 
-> **Stop 20 · Sun 24 → Wed 27 Jan 2027 (days 48–51) · 3 nights · Alasitas fair opens on the 24th**
+> **Stop 20 · Sun 24 → Wed 27 Jan 2027 (days 48–51) · 3 nights · Alasitas fair opens on the 24th**<br>
 > 🏞️ A canyon city at 3,640 m under Illimani: cable cars, markets, and big days out to Tiwanaku, Pico Austria or the Death Road<br>
 > 🛏️ **La Casa Bonita**, a bed in a 4-bed mixed dorm, $23.70 for 3 nights (Agoda), 90 m from the bus terminal<br>
 > ✈ **In:** BoA Sucre → La Paz via Cochabamba, Sun 09:05 → 11:25 · 🚌 **Out:** bus to Copacabana, Wed 07:30

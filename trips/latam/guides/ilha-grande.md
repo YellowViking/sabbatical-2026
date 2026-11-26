@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Rio de Janeiro](rio-de-janeiro.md) · [Paraty](paraty.md) →
 
-> **Stop 2 · Sat 12 → Mon 14 Dec 2026 · 2 nights · weekend ferry timetable**
+> **Stop 2 · Sat 12 → Mon 14 Dec 2026 · 2 nights · weekend ferry timetable**<br>
 > 🏞️ A car-free island of beaches and forest; every trail starts in Vila do Abraão<br>
 > 🛏️ **Lila Limão Hostel**, a bed in a 6-bed mixed ensuite dorm, $45 for 2 nights<br>
 > 🚌 **In:** Costa Verde 05:00 to Mangaratiba + ferry 08:00, Sat 12 · **Out:** Barcas ferry Abraão → Angra 10:00, then Colitur to Paraty, Mon 14

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Colonia stopover → Buenos Aires → Córdoba](colonia.md) · [Cafayate](cafayate.md) →
 
-> **Stop 12 · Sat 2 → Thu 7 Jan 2027 · 5 nights (3 in the city + 2 in the Los Gigantes refugio) · Argentine summer holidays (peak)**
+> **Stop 12 · Sat 2 → Thu 7 Jan 2027 · 5 nights (3 in the city + 2 in the Los Gigantes refugio) · Argentine summer holidays (peak)**<br>
 > 🏞️ A city hub for two free Sierras hikes: the condor gorge of Quebrada del Condorito and the granite massif of Los Gigantes<br>
 > 🛏️ **Aldea Hostel Córdoba**, dorm, $41 for 3 nights · **Refugio Aurelio Castelli** (Club Andino), 2 nights, price on request<br>
 > 🚌 **In:** night bus from Buenos Aires, early Sat 2 Jan · **Out:** night bus to Tucumán, Thu 7 Jan 20:15/20:30 (or 23:45)

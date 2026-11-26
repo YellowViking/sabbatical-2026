@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Montevideo](montevideo.md) · [Colonia stopover → Buenos Aires → Córdoba](colonia.md) →
 
-> **Stop 10 · Mon 28 → Wed 30 Dec 2026 · 2 nights · New Year week (peak)**
+> **Stop 10 · Mon 28 → Wed 30 Dec 2026 · 2 nights · New Year week (peak)**<br>
 > 🏞️ An off-grid village on a cape inside a national park: sea lions, a lighthouse and big moving dunes<br>
 > 🛏️ **Hostel Albatros**, a bed in a 6-bed dorm, $70 for 2 nights<br>
 > 🚌 **In:** Rutas del Sol from Montevideo, Mon 10:10, then the 4x4 truck · **Out:** truck 14:00 + Rutas del Sol 15:10, Wed

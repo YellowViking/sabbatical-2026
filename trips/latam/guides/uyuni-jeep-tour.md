@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [San Pedro de Atacama](san-pedro-de-atacama.md) · [Potosí](potosi.md) →
 
-> **Stop 17 · Mon 18 → Wed 20 Jan 2027 (days 42–44) · 2 nights in refugios**
+> **Stop 17 · Mon 18 → Wed 20 Jan 2027 (days 42–44) · 2 nights in refugios**<br>
 > 🏞️ Three days by Land Cruiser across the Bolivian altiplano: coloured lagoons, geysers, flamingos and the Uyuni salt flat at sunrise<br>
 > 🛏️ **Expediciones Estrella del Sur**, US$280 with private bathrooms (US$260 shared); meals and lodging included, park fees extra<br>
 > 🚙 **In:** pickup at the San Pedro hostel ≈ 06:00–06:30, Mon · **Out:** the tour ends in Uyuni town ≈ 13:00–15:00, Wed; then the bus to Potosí

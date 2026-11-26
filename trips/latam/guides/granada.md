@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Ometepe](ometepe.md) · [León](leon.md) →
 
-> **Stop 34 · Thu 25 → Sat 27 Feb 2027 · 2 nights: 1 in Granada, 1 at Laguna de Apoyo**
+> **Stop 34 · Thu 25 → Sat 27 Feb 2027 · 2 nights: 1 in Granada, 1 at Laguna de Apoyo**<br>
 > 🏞️ Colonial lake town, Masaya's crater at night, then a night on a warm crater lake<br>
 > 🛏️ **De Boca en Boca** (Granada) $14 + **Coco Bay** (Laguna de Apoyo, on the shore) $14<br>
 > 🚌 **In:** morning ferry from Ometepe + bus via Rivas, Thu · **Out:** microbus via Managua to León, Sat 27 Feb

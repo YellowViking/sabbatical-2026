@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Boquete](boquete.md) · [Uvita](uvita.md) →
 
-> **Stop 27 · Mon 8 → Thu 11 Feb 2027 · 3 nights, one of them at Base Crestones**
+> **Stop 27 · Mon 8 → Thu 11 Feb 2027 · 3 nights, one of them at Base Crestones**<br>
 > 🏞️ Mountain village at the Chirripó trailhead: 14.5 km and ~2,100 m up to the Crestones hut, then the 3,820 m summit<br>
 > 🛏️ **Casa Colibri Chirripó**, single bed in a mixed dorm, $77 for 2 nights, then a bunk at **Base Crestones** ($46.68)<br>
 > 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Mon (10–11 h) · **Out:** bus to Uvita after the descent, Thu afternoon

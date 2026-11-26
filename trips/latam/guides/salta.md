@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Cafayate](cafayate.md) · [Quebrada de Humahuaca (Tilcara + Iruya + Purmamarca)](quebrada-de-humahuaca.md) →
 
-> **Stop 14 · Sun 10 → Tue 12 Jan 2027 · 2 nights**
+> **Stop 14 · Sun 10 → Tue 12 Jan 2027 · 2 nights**<br>
 > 🏞️ Colonial city in a green valley, with a hill to climb and peñas at night; the last big ATM town before Chile<br>
 > 🛏️ **Clivias Hostel**, a bed in a 4–6-bed mixed dorm, $30 for 2 nights<br>
 > 🚌 **In:** Flecha Bus from Cafayate, Sun 11:30 · **Out:** 20 de Junio to Jujuy, Tue 08:05, then on to Tilcara

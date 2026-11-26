@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Encarnación](encarnacion.md) · [Cabo Polonio](cabo-polonio.md) →
 
-> **Stops 9 + 11 · Sun 27 → Mon 28 Dec and Wed 30 Dec 2026 → Fri 1 Jan 2027 · 1 + 2 nights · New Year's Eve**
+> **Stops 9 + 11 · Sun 27 → Mon 28 Dec and Wed 30 Dec 2026 → Fri 1 Jan 2027 · 1 + 2 nights · New Year's Eve**<br>
 > 🏞️ A laid-back capital on a long waterfront Rambla, with city beaches, a Sunday flea market and a paper-throwing New Year's Eve<br>
 > 🛏️ **MedioMundo Hostel**, a bed in a 6-bed dorm, $25 + $50 (no New Year premium)<br>
 > 🚌 **In:** EGA overnight from Encarnación, Sun 27 07:15 · **Cabo Polonio:** Rutas del Sol out Mon 28 10:10, back Wed 30 20:10 · **Out:** COT to Colonia, Fri 1 Jan 09:30

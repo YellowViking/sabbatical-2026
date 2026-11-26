@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Quebrada de Humahuaca (Tilcara + Iruya + Purmamarca)](quebrada-de-humahuaca.md) · [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) →
 
-> **Stop 16 · Fri 15 → Mon 18 Jan 2027 · 3 nights** (one night moved to Iruya on 26 Nov)
+> **Stop 16 · Fri 15 → Mon 18 Jan 2027 · 3 nights** (one night moved to Iruya on 26 Nov)<br>
 > 🏞️ Adobe oasis town in the Atacama desert: moon-like valleys by bike, salt lagoons, a 5,604 m volcano and dark skies<br>
 > 🛏️ **Hostal Lackuntur**, a bed in a 4-bed mixed dorm, US$55 for 3 nights<br>
 > 🚌 **In:** Andesmar from Purmamarca over Paso de Jama, Fri 03:40 → ≈ 11:30 · **Out:** the 3-day jeep tour to Uyuni, Mon morning

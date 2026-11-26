@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [Boquete](boquete.md) →
 
-> **Stop 25 · Wed 3 → Fri 5 Feb 2027 · 2 nights · just before Carnaval**
+> **Stop 25 · Wed 3 → Fri 5 Feb 2027 · 2 nights · just before Carnaval**<br>
 > 🏞️ The canal, Casco Viejo and a bayside skyline, with rainforest a short ride out<br>
 > 🛏️ **El Machico Hostel**, 10-bed mixed dorm, $38 for 2 nights<br>
 > ✈️ **In:** Sky + Copa from Arequipa via Lima, Wed (lands 17:08) · **Out:** Air Panama Albrook → David, Fri 07:00

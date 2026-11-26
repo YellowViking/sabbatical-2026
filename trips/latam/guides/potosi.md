@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) · [Sucre](sucre.md) →
 
-> **Stop 18 · Wed 20 → Thu 21 Jan 2027 (days 44–45) · 1 night**
+> **Stop 18 · Wed 20 → Thu 21 Jan 2027 (days 44–45) · 1 night**<br>
 > 🏞️ Colonial mining city at 4,070 m under the Cerro Rico: a UNESCO centre and a live mine<br>
 > 🛏️ **Los Faroles Hostal**, a private family room with shared bathroom, US$28 with breakfast (no well-rated dorm in town)<br>
 > 🚌 **In:** bus from Uyuni after the tour, Wed 15:00–19:00 · **Out:** bus to Sucre after lunch, Thu

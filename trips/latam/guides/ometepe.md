@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) · [Granada + Laguna de Apoyo](granada.md) →
 
-> **Stop 33 · Mon 22 → Thu 25 Feb 2027 · 3 nights**
+> **Stop 33 · Mon 22 → Thu 25 Feb 2027 · 3 nights**<br>
 > 🏞️ Twin-volcano island in Lake Nicaragua; climb Volcán Concepción from Moyogalpa<br>
 > 🛏️ **Guest House Nena**, a private double 0.3 km from the port, $36 for 3 nights<br>
 > 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Mon · **Out:** morning ferry to San Jorge, then the bus to Granada, Thu 25 Feb

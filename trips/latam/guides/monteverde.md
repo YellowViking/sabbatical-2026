@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Uvita](uvita.md) · [La Fortuna / Arenal](la-fortuna.md) →
 
-> **Stop 29 · Sat 13 → Mon 15 Feb 2027 · 2 nights**
+> **Stop 29 · Sat 13 → Mon 15 Feb 2027 · 2 nights**<br>
 > 🏞️ Cool, windy cloud-forest town (Santa Elena): reserve trails at dawn, a fig tree you can climb inside, a hill with a view toward Arenal<br>
 > 🛏️ **Monteverde Backpackers**, 6-bed ensuite dorm, $24 for 2 nights<br>
 > 🚌 **In:** Uvita → Quepos → Puntarenas → Santa Elena, Sat (~11–12 h) · **Out:** jeep-boat-jeep to La Fortuna, Mon 08:00

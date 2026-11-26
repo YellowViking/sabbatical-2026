@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [La Fortuna / Arenal](la-fortuna.md) · [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) →
 
-> **Stop 31 · Thu 18 → Sat 20 Feb 2027 · 2 nights**
+> **Stop 31 · Thu 18 → Sat 20 Feb 2027 · 2 nights**<br>
 > 🏞️ Hot, dry Guanacaste town; the base for the mud pots, fumaroles and waterfalls of Rincón de la Vieja<br>
 > 🛏️ **Hostel Pura Vida en Liberia**, 10-bed mixed dorm, $28 for 2 nights<br>
 > 🚌 **In:** La Fortuna → Tilarán → Cañas → Liberia, Thu · **Out:** bus to the Nicaraguan border, Sat

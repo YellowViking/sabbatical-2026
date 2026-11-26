@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Encarnación](encarnacion.md) →
 
-> **Stop 7 · Mon 21 → Wed 23 Dec 2026 · 2 nights**
+> **Stop 7 · Mon 21 → Wed 23 Dec 2026 · 2 nights**<br>
 > 🏞️ Paraguay's capital on its river bay: a waterfront promenade, a compact old centre and a mural-covered hillside barrio<br>
 > 🛏️ **Hostel Chaton**, a bunk in a mixed dorm, $18 for 2 nights<br>
 > 🚌 **In:** Expresso Nordeste from Foz do Iguaçu, Mon 08:00 · **Out:** La Encarnacena to Encarnación, Wed 08:30

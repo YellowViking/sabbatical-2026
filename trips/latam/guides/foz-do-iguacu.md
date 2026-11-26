@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Asunción](asuncion.md) →
 
-> **Stop 6 · Sat 19 → Mon 21 Dec 2026 · 2 nights · pre-Christmas weekend**
+> **Stop 6 · Sat 19 → Mon 21 Dec 2026 · 2 nights · pre-Christmas weekend**<br>
 > 🏞️ The Iguaçu falls from both sides: the Brazilian panorama on Saturday, the Argentine walkways on Sunday<br>
 > 🛏️ **Hostel Bambu**, a bed in a 10-bed mixed ensuite dorm with privacy curtains, $33.60 + fee for 2 nights<br>
 > 🚌 **In:** Catarinense night bus from Curitiba, arriving ~07:00 Sat 19 · **Out:** Expresso Nordeste 08:00 to Asunción, Mon 21

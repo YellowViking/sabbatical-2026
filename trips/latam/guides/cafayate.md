@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Córdoba + Los Gigantes](cordoba.md) · [Salta](salta.md) →
 
-> **Stop 13 · Fri 8 → Sun 10 Jan 2027 · 2 nights · January peak season**
+> **Stop 13 · Fri 8 → Sun 10 Jan 2027 · 2 nights · January peak season**<br>
 > 🏞️ A small valley town: the Río Colorado falls on foot, then the red Quebrada de las Conchas by bike<br>
 > 🛏️ **Cielito Lindo Hostel**, a bed in a 10-bed dorm, $28.80 for 2 nights<br>
 > 🚌 **In:** night bus Córdoba → Tucumán, then Aconquija 06:00 → 12:31, Fri · **Out:** bus to Salta through the Quebrada, Sun

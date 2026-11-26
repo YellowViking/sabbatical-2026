@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Puno](puno.md) · [Arequipa](arequipa.md) →
 
-> **Stop 23 · Sat 30 Jan → Mon 1 Feb 2027 (days 54–56) · 2 nights (Chivay, then the Sangalle oasis) · canyon trek**
+> **Stop 23 · Sat 30 Jan → Mon 1 Feb 2027 (days 54–56) · 2 nights (Chivay, then the Sangalle oasis) · canyon trek**<br>
 > 🏞️ Chivay → Cruz del Cóndor → Cabanaconde → Sangalle: condors at dawn, a rim walk, ≈ 1,100 m down to an oasis and a 05:00 climb out<br>
 > 🛏️ **Samay Lodge**, Chivay, $12 · then **Paraíso Las Palmeras**, Sangalle oasis, $32<br>
 > 🚌 **In:** 4M Express from Puno, Sat 06:15 · **Out:** bus Cabanaconde → Arequipa, Mon 09:30

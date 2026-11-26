@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · [Ilha Grande](ilha-grande.md) →
 
-> **Stop 1 · Tue 8 → Sat 12 Dec 2026 · 4 nights · first stop**
+> **Stop 1 · Tue 8 → Sat 12 Dec 2026 · 4 nights · first stop**<br>
 > 🏞️ Granite peaks, rainforest trails and city beaches, with a base in Copacabana<br>
 > 🛏️ **Copacabana Central Hostel**, a bed in an 8-bed mixed dorm, $49 for 4 nights<br>
 > ✈️ **In:** Alaska award SEA → GIG (AA lands 09:25), then BRT + metro to Copacabana · 🚌 **Out:** Costa Verde bus 05:00 to Mangaratiba + ferry to Ilha Grande, Sat 12 Dec

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [La Paz](la-paz.md) · [Puno](puno.md) →
 
-> **Stop 21 · Wed 27 → Fri 29 Jan 2027 (days 51–53) · 2 nights (1 on Isla del Sol, 1 in Copacabana)**
+> **Stop 21 · Wed 27 → Fri 29 Jan 2027 (days 51–53) · 2 nights (1 on Isla del Sol, 1 in Copacabana)**<br>
 > 🏞️ Lake Titicaca: a night on Isla del Sol and the Inca ridge walk across it, up to 4,050 m<br>
 > 🛏️ **Inti Wasi Lodge** on the island, $18 · then **Mia Posada** in Copacabana, $17 (≈ $35–37 for both nights)<br>
 > 🚌 **In:** Vicuña Travel from La Paz, Wed 07:30 · **Out:** bus to Puno, Fri after midday (13:30)

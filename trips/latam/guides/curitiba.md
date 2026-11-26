@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [São Paulo](sao-paulo.md) · [Foz do Iguaçu](foz-do-iguacu.md) →
 
-> **Stop 5 · Thu 17 → Fri 18 Dec 2026 · 1 night · then the Serra Verde train and a night bus**
+> **Stop 5 · Thu 17 → Fri 18 Dec 2026 · 1 night · then the Serra Verde train and a night bus**<br>
 > 🏞️ Brazil's craft-beer capital, then the train down the Serra do Mar's Atlantic forest to colonial Morretes<br>
 > 🛏️ **Hostel Residencial Botânico**, a bunk in a mixed dorm, $13 for 1 night<br>
 > 🚌 **In:** Penha 07:30 Tietê → Curitiba 14:00, Thu 17 · 🚆 **Fri 18:** Serra Verde Express 08:30 to Morretes, Graciosa bus back 16:10 · 🌙 **Out:** Catarinense night bus 21:00 to Foz, Fri 18

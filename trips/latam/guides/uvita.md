@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) · [Monteverde](monteverde.md) →
 
-> **Stop 28 · Thu 11 → Sat 13 Feb 2027 · 2 nights**
+> **Stop 28 · Thu 11 → Sat 13 Feb 2027 · 2 nights**<br>
 > 🏞️ Pacific beach town by the "whale's tail" sandbar of Marino Ballena, with jungle waterfalls in the hills behind<br>
 > 🛏️ **Hostel Cascada Verde**, 8-bed mixed dorm, $23 for 2 nights<br>
 > 🚌 **In:** from San Gerardo via San Isidro (Grupo Blanco), Thu · **Out:** 05:15 Grupo Blanco to Quepos, on to Monteverde, Sat

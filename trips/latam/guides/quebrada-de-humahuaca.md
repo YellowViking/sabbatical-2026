@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Salta](salta.md) · [San Pedro de Atacama](san-pedro-de-atacama.md) →
 
-> **Stop 15 · Tue 12 → Fri 15 Jan 2027 · 3 nights: Tilcara, Iruya, Purmamarca (1 each)**
+> **Stop 15 · Tue 12 → Fri 15 Jan 2027 · 3 nights: Tilcara, Iruya, Purmamarca (1 each)**<br>
 > 🏞️ A high desert valley of striped mountains: hikes from Tilcara, the cliffside village of Iruya, the Hornocal "14 colours" and Purmamarca's red rocks<br>
 > 🛏️ **Tilcara Mística** dorm $23 · **Hospedaje Ale**, Iruya (private; no dorms) $37 · **Giramundo** dorm, Purmamarca $17<br>
 > 🚌 **In:** Salta → Jujuy, Tue 08:05, then Evelia to Tilcara · **Out:** ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Fri 03:40

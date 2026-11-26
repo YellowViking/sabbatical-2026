@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Estelí](esteli.md)
 
-> **Last leg · Wed 3 → Thu 4 Mar 2027 · 1 night by the airport · ✈ home**
+> **Last leg · Wed 3 → Thu 4 Mar 2027 · 1 night by the airport · ✈ home**<br>
 > 🛏️ **Casa Robles MGA Airport Homestay**, an apartment ≈ 2 km west of the terminal, $17<br>
 > 🚌 **In:** express bus from Estelí to Mercado Mayoreo ≈ 12:00–13:15, Wed · **Out:** ✈ Alaska award MGA 07:00 → MIA → PDX → SEA 22:39, Thu 4 Mar (25k + $94.42)
 

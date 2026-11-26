@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Potosí](potosi.md) · [La Paz](la-paz.md) →
 
-> **Stop 19 · Thu 21 → Sun 24 Jan 2027 (days 45–48) · 3 nights · Fri 22 Jan holiday**
+> **Stop 19 · Thu 21 → Sun 24 Jan 2027 (days 45–48) · 3 nights · Fri 22 Jan holiday**<br>
 > 🏞️ The white colonial city, the warmest stop of the section, and the base for a 2-day Inca-trail hike into the Maragua crater<br>
 > 🛏️ **Villa Oropeza Hostel**, a bed in a 6-bed mixed dorm with curtains, US$16.95 for 3 nights<br>
 > 🚌 **In:** bus from Potosí, Thu 13:00 or 14:00 · **Out:** ✈ BoA to La Paz, Sun 09:05 (see the [La Paz guide](la-paz.md))
