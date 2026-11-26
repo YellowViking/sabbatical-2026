@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Thu 11 Feb** | 🚌 After the Chirripó descent: San Gerardo **13:00** → San Isidro ~13:50 → **Grupo Blanco 16:00** → Uvita ~18:00. |
+| **Thu 11 Feb** | 🚕 After the Chirripó descent: taxi San Gerardo → San Isidro (no bus until 16:00) → 🚌 **Grupo Blanco 16:00** → Uvita ~18:00. |
 | **Fri 12 Feb** | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). Or 🐋 **Marino Ballena** and the whale's tail at low tide, ≈ **13:05** (± 1 h). **Catarata Uvita** is by the hostel. |
 | **Sat 13 Feb** | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
 
@@ -47,7 +47,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Hernández Solís · San Gerardo → San Isidro | **Thu 11 Feb 13:00** → ~13:50 (or 06:50 → ~07:40) | — | on the bus |
+| In | 🚕 Taxi · San Gerardo → San Isidro | **Thu 11 Feb** ≈ 12:30 → ≈ 13:05 (Hernández Solís buses leave San Gerardo only at 06:30, 11:00, 16:00) | ≈ ₡15,000–20,000 ($34–45) | ask the San Gerardo hostel |
 | In | **Grupo Blanco** · San Isidro → Uvita, direct | **16:00** → ~18:00 (or 09:00 → ~11:00) | ≈ ₡2,500 ($5.60) | cash on board |
 | Out | **Grupo Blanco** · Uvita → Quepos | **Sat 13 Feb 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | the full leg is in the [Monteverde guide](monteverde.md) |
 | Tides | Uvita tide table (the whale's tail needs low tide) | check a week before | free | [tablademareas.com](https://tablademareas.com/cr/costa-oceano-pacifico/uvita) |
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ## 🚌 Getting here: San Gerardo → San Isidro → Uvita, Thu 11 Feb
 
-- **San Gerardo 06:50** (or **13:00** after a Chirripó descent) → San Isidro ~07:40 (~13:50).
+- **San Gerardo → San Isidro:** Hernández Solís buses leave San Gerardo at **06:30, 11:00 and 16:00** (Mon–Sat; ✅ hernandezsolis.com (read 26 Nov)), ≈ 40–50 min. After a noon Chirripó descent none fits, so take a **taxi** (≈ 35 min, ≈ ₡15,000–20,000 / $34–45).
 - **Grupo Blanco direct San Isidro → Uvita, 09:00 or 16:00** (~2 h, ≈ ₡2,500 / $5.60) → Uvita ~11:00 (~18:00).
 - **Or:** San Isidro → Dominical (05:00, 09:00, 13:30, 15:30) and the frequent Dominical → Uvita local bus (20 min).
 - **Sources:** ≈ perezzeledon.com bus page (updated 18 Nov 2026) + uvita.info. Pay cash on board.

@@ -31,7 +31,7 @@ The recommended plan: one night in Chivay, then one in Sangalle (Plan B is under
 |---|---|
 | **Sat 30 Jan** | 🚌 **4M Express** pickup in Puno 05:50–06:10, via Lagunillas and **Patapampa (4,910 m)**, to the Plaza de Chivay ≈ 12:30. Buy the boleto if it wasn't checked on the bus. ♨️ **La Calera hot springs** (3 km, S/15); optionally the riverside path to the Inca bridge. Sleep in Chivay. |
 | **Sun 31 Jan** | 🚌 ≈ 06:00 bus to **Cruz del Cóndor** (≈ 07:30); condors fly ≈ 08:00–10:00. 🥾 **Rim walk to Cabanaconde** (≈ 12 km, 2.5–3 h) or flag the next bus. Early lunch; buy Monday's bus ticket on the plaza. 🥾 **Descend to Sangalle** by noon (≈ 1,100 m down, 2–3 h). Sleep at the oasis. |
-| **Mon 1 Feb** | 🥾 **05:00 climb out** (≈ 3–3.5 h), in Cabanaconde by ≈ 08:30. Breakfast, then the 🚌 **09:30 Transandino** (or the next Andalucía) to Arequipa, arriving ≈ 15:00–17:30. |
+| **Mon 1 Feb** | 🥾 **05:00 climb out** (≈ 3–3.5 h), in Cabanaconde by ≈ 08:30. Breakfast, then the 🚌 **09:30 Transandino** (or the next Andalucía) to Arequipa, arriving ≈ 15:15 (5 h 45 min). |
 
 ## 🔖 Book (one click)
 

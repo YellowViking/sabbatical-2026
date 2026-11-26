@@ -81,7 +81,7 @@ All live-checked on 24 Nov.
 ### ⭐ Pick: La Casa Bonita
 - **Unit:** Casa de huéspedes; a bed in a 4-bed mixed dorm.
 - **Price:** **US$23.70 for 3 nights on Agoda** (signed-in price). That's Agoda's cheapest unit, presumably the dorm bed, so confirm the room type at checkout. **Booking US$36** (pay at the property, free cancellation to 23 Jan) = Hostelworld US$36 + fee.
-- **Reviews:** Hostelworld 9.5 (275; 5% below 70 in the last 12 months). Booking 161 reviews, **8.7% below 7**, location 9.3.
+- **Reviews:** Hostelworld 9.5 (275; 5% below 70 in the last 12 months). Booking 161 reviews, **8.7% below 7**, location 9.2.
 - **Where:** **90 m from the main bus terminal** (the Copacabana buses leave from there on the 27th). 1.3 km from Sagárnaga, uphill on the way back.
 - **Checks:** ✅ full kitchen with stove · quiet, homely, social in the evenings ("not a party hostel") · roof terrace · curtains not mentioned.
 - ⚠️ The upstairs dorms are cold and there are only 2 showers.

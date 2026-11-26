@@ -24,7 +24,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 📅 Day by day
 
-The award flight is **AA1318 MGA 07:00 on every day 3–5 Mar, 25k + $94.42** ✅ (rechecked 26 Nov), so the trip can move a day.
+The award flight is **AA1318 MGA 07:00 on every day 3–5 Mar, 25k + $94.42** ✅ (3 and 4 Mar rechecked 26 Nov; 5 Mar checked 24 Nov), so the trip can move a day.
 
 | Day | Base plan (since 26 Nov) | Somoto +1 |
 |---|---|---|

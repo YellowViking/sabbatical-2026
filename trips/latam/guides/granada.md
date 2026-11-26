@@ -40,8 +40,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 | | Where | Total | Location | From Parque Central | Book |
 |---|---|---:|:---:|---|---|
 | ⭐ **Pick** (Granada) | **De Boca en Boca** · 5- or 8-bed mixed dorm, breakfast | **$14** | 9.8 | 🚶 6 min (450 m) from Parque Central; centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.9299,-85.9539&destination=11.929784999999999,-85.95665699999999&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=De+Boca+en+Boca+&checkin=2027-02-25&checkout=2027-02-26&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268806/de-boca-en-boca/?from=2027-02-25&to=2027-02-26&guests=1) |
-| Backup | **Casa Gallo Pinto** · 8-bed mixed dorm | $22.60 (for 2 nights) | 9.6 | 🚶 6 min (400 m) from Parque Central; centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.9299,-85.9539&destination=11.9289382,-85.9564156&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Gallo+Pinto+&checkin=2027-02-25&checkout=2027-02-26&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332794/casa-gallo-pinto/?from=2027-02-25&to=2027-02-26&guests=1) |
-| Private alt | **Oasis Hostel** · private triple, shared bath | $40 (for 2 nights) | 9.6 | 🚶 6 min (400 m) from Parque Central; centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.9299,-85.9539&destination=11.927960899999999,-85.9559094&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/oasis-hostel.html?checkin=2027-02-25&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup | **Casa Gallo Pinto** · 8-bed mixed dorm | $11 | 9.6 | 🚶 6 min (400 m) from Parque Central; centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.9299,-85.9539&destination=11.9289382,-85.9564156&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/casa-gallo-pinto.html?checkin=2027-02-25&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332794/casa-gallo-pinto/?from=2027-02-25&to=2027-02-26&guests=1) |
+| Private alt | **Oasis Hostel** · private triple, shared bath | $20 | 9.6 | 🚶 6 min (400 m) from Parque Central; centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.9299,-85.9539&destination=11.927960899999999,-85.9559094&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/oasis-hostel.html?checkin=2027-02-25&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 | ⭐ **Pick** (Apoyo) | **Coco Bay - Laguna de Apoyo** · bed in a 10-bed mixed dorm | **$14** | 9.6 | 🚕 ≈ 30–40 min from Granada by hostel shuttle or taxi; by bus, a Masaya-bound bus to the Apoyo turn-off, then a taxi down to the shore · [route](https://www.google.com/maps/dir/?api=1&origin=11.9298,-85.9539&destination=11.932151,-86.055246&travelmode=driving) | [Booking](https://www.booking.com/hotel/ni/coco-bay.html?checkin=2027-02-26&checkout=2027-02-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
@@ -57,7 +57,6 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 - **Location** is the guests' location score on Booking.com. The target is 9.0 or higher, and ⚠️ marks one below 9.0. *(HW)* means Hostelworld's location rating, used where a property isn't on Booking.
 - **From Parque Central** comes from Google Maps on 24 Nov: the property found on Maps and routed from Parque Central at midday on the check-in date. The **route** link opens the same route.
-- The backup and private-alt totals are **for 2 nights**, as priced when Granada was a 2-night stop (before 26 Nov). The links are now for 1 night.
 - Symbols: 🚶 walk · 🚌 public transport · 🚕 taxi/rideshare · 🥾 hike only · ⚠️ far from the centre with no bus · ℹ️ outside the centre but on a bus line.
 
 </details>
@@ -80,15 +79,15 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - "Not a party hostel… still social": the Treehouse-party shuttle stops here, it isn't hosted here.
 
 ### Backup: Casa Gallo Pinto
-- Standard 8-bed mixed dorm. **$22.60 for 2 nights** (tax incl.) on Hostelworld.
+- Standard 8-bed mixed dorm. **$11 for 1 night on Booking** (rechecked 26 Nov for 25 → 26 Feb; 100 reviews, 3 % below 7). It was $22.60 for 2 nights on Hostelworld when Granada was a 2-night stop.
 - HW **9.5 (59; 14 % < 7)**. ~0.3 km from the centre.
 - Full kitchen, "really comfy beds with curtains" (mixed reports), quiet, no pool.
-- **Alternative:** Hostal Azul (9.7/1,158, kitchen, curtains, but pool-side night noise reported; $28.75).
+- **Alternative:** Hostal Azul (9.7/1,158, kitchen, curtains, but pool-side night noise reported; $14 for 1 night on Booking, 26 Nov).
 
 ### Private alt (location first): Oasis Hostel
-- Private triple, shared bath. **$40 for 2 nights** (room table) on Booking.com.
+- Private triple, shared bath. **$20 for 1 night** on Booking.com (room table, rechecked 26 Nov; 853 reviews, 2 % below 7).
 - Booking location **9.6** (score 9.0, 853 reviews, 2 % bad). 0.2 km from Parque Central (pool, kitchen).
-- **Upgrade:** Hotel Casa del Consulado, queen room with breakfast, location 9.7 (281 reviews, 1 % bad), $102, on the square.
+- **Upgrade:** Hotel Casa del Consulado, queen room with breakfast, location 9.7 (280 reviews, 1 % bad), $51 for 1 night (26 Nov), on the square.
 
 ### ⭐ Laguna de Apoyo, Fri 26 → Sat 27 Feb (new 26 Nov): Coco Bay - Laguna de Apoyo
 - **Unit:** bed in a 10-bed mixed dorm. **$14 on Booking** (26 Nov).

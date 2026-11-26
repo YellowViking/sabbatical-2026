@@ -59,7 +59,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 - **Bus via the Kasani / Yunguyo border.**
 - **Titicaca Bolivia Bus** (Marcopolo G7 double-decker): **13:30 → 16:30, US$10**, or 18:00 → ~21:00, US$9. Daily. Their page says about 3 h including the border.
-- ✅ titicacaboliviabus.com/rutas/copacabana-puno: prices and times are on the page; you book by WhatsApp form.
+- ✅ titicacaboliviabus.com/trip/copacabana-puno/ (the old /rutas/ address now redirects): prices and times are on the page; you book by WhatsApp form.
 - ⚠️ **Which clock?** The page doesn't say. Peru is 1 h behind Bolivia, so you probably reach Puno about 15:30 Peru time.
 - **Border:** get the Bolivian exit stamp at Kasani, walk about 200 m, then the Peruvian entry at Kasani/Yunguyo. US passport: no visa, no fee. Peru has no yellow-fever entry rule.
 - **Other operators** also run the route (≈ Bs 40–80; check in Copacabana the day before): Turisbus, Huayruro, Panamericano, Vicuña. Not verified.

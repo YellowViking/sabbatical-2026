@@ -80,7 +80,7 @@ Live-checked 25 Nov, chosen for location.
 - **Reviews:** Booking **9.3 (1,228 reviews; 1% below 7)**, location **9.4**.
 - **Where:** 12 min (850 m) on foot from the bus terminal, 0.65 km from the plaza.
 - **Checks:** ✅ shared kitchen ("amazing view of the volcano from the kitchen"). "Perfectly chilled vibes, far from a party environment"; beds and rooms cleaned daily. Outdoor pool (facility list; no pool-party reports). ✗ no bunk curtains (a 2025 review asks for them). No AC, and the private rooms are thin-walled (Nov 2026).
-- **Why it won:** it beats the approved swap to Backpackers San Pedro: cheaper ($74 vs $84.80) and scored by 1,228 Booking guests rather than Hostelworld.
+- **Why it won:** it beats the approved swap to Backpackers San Pedro: cheaper (on 25 Nov, $74 vs $84.80 for the then 4 nights; now $55 vs ≈ $62.55 for 3) and scored by 1,228 Booking guests rather than Hostelworld.
 
 ### Backup: Backpackers San Pedro
 - **Unit:** 4-bed mixed dorm.
@@ -92,9 +92,9 @@ Live-checked 25 Nov, chosen for location.
 ### Backup 2: Casa Voyage Hostel
 The pick until 25 Nov. ⚠️ Location 8.8.
 - **Unit:** bed in a 10-bed mixed dorm (8-bed also free).
-- **Price:** **US$48 for 3 nights on Booking** (26 Nov; HW ≈ US$54.93). It was **US$64.68 for 4 nights on Agoda** (signed-in price; Agoda 8.9 on 2,488 reviews) ≈ **Booking US$65** (non-refundable, pay before arrival; US$80 with free cancellation); Hostelworld US$74.48 + its booking fee.
+- **Price:** **US$48 for 3 nights on Booking** (26 Nov; HW ≈ US$54.93). Older 4-night prices (before 26 Nov): **US$64.68 on Agoda** (signed-in price; Agoda 8.9 on 2,488 reviews) ≈ **Booking US$65** (non-refundable, pay before arrival; US$80 with free cancellation); Hostelworld US$74.48 + its booking fee.
 - **Reviews:** Hostelworld 9.6 (799); Booking 1,225 reviews, **6.0% below 7**.
-- **Where:** 0.7 km to the plaza, ≈ 0.3 km to the bus terminal (10 min walk from Caracoles, quiet side).
+- **Where:** 0.7 km to the plaza, 11 min (850 m) on foot from the bus terminal (quiet side, 10 min from Caracoles).
 - **Checks:**
   - ✅ **privacy curtains**, reading light and socket per bunk (Hostelworld reviews Jan–Nov 2026).
   - ✅ **full kitchen with stove** ("plentiful appliances", busy at dinner time).

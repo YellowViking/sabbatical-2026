@@ -39,8 +39,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Nalu Nalu Hostal** · 6-bed mixed dorm, breakfast | **$18** | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) |
-| Backup | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite | $28.60 | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) |
+| ⭐ **Pick** | **Nalu Nalu Hostal** · 6-bed mixed dorm, breakfast | **$18** | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-20&to=2027-02-22&guests=1) |
+| Backup | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite | $28.60 | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-20&to=2027-02-22&guests=1) |
 | Private alt | **Lobolira** · whole 1-bedroom cabin | $44 | 9.6 | 📍 not found on Google Maps (the listing says "3 blocks from the beach") | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-20&checkout=2027-02-22&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport and border**
@@ -76,7 +76,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Costa Rica charges nothing to enter by land; anyone asking for more than $8 is not collecting an official fee.
   - ≈ Source: Tico Times explainer (10 Aug 2026) citing BCR. bancobcr.com answered my browser with a bot-check captcha, so I couldn't confirm on BCR itself.
 - **Nicaragua entry:** US citizens buy a **90-day tourist entry stamp for $10 cash** (exact change); passport valid 6+ months ✅ travel.state.gov Nicaragua page.
-  - Land borders add a municipal/"alcaldía" charge (≈ $1–3) ≈.
+  - Land borders add small immigration and municipal ("alcaldía") charges, ≈ $1–4 (traveller reports, Oct–Nov 2026), so budget **≈ $12–14** in total. ✅ The $10 stamp is also on ni.usembassy.gov.
   - Bring small, clean US$ bills.
 - **Online pre-registration ("Solicitud de Ingreso y Egreso Ordenado, Ágil y Seguro"): submit it anyway, by Sat 13 Feb (≥ 7 days ahead).**
   - It's free, at solicitudes.migob.gob.ni or by email to solicitudes@mint.gob.ni, with the passport bio page. Keep the confirmation on your phone.

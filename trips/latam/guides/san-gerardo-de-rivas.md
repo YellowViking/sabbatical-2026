@@ -32,7 +32,7 @@ The recommended plan: climb **Wed 10 → Thu 11 Feb** (see the timing note under
 | **Mon 8 Feb** · Day 63 | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
 | **Tue 9 Feb** | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
 | **Wed 10 Feb** | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
-| **Thu 11 Feb** | ⛰️ **Summit (3,820 m)**, 5.5 km beyond Crestones. Leave Crestones early and be back in San Gerardo by **~12:00**, then the 🚌 bus to Uvita. |
+| **Thu 11 Feb** | ⛰️ **Summit (3,820 m)**, 5.5 km beyond Crestones. Leave Crestones early and be back in San Gerardo by **~12:00**, then 🚕 taxi to San Isidro and the 🚌 bus to Uvita (no San Gerardo bus until 16:00). |
 
 ## 🔖 Book (one click)
 
@@ -56,7 +56,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 | ⚠️ Entry | Bus ticket out of Costa Rica (proof of onward travel), e.g. **Tica Bus San José → Managua** | buy before 8 Feb | $33 online | Tica Bus |
 | In | **Tracopa** · Paso Canoas → San Isidro | **Mon 8 Feb 08:00** (also 04:20, 11:00, 16:30) | ≈ ₡6,000–6,500 | [Tracopa](https://www.tracopacr.com/) |
 | In | **Hernández Solís** · San Isidro → San Gerardo | **14:30** (also 09:30, 18:15) | ≈ ₡1,000–1,500 | [timetable](https://perezzeledon.com/bus-routes-schedules-perez-zeledon) |
-| Out | San Gerardo → San Isidro → Uvita | **Thu 11 Feb**, 13:00 after the descent | ≈ $8 | details in the [Uvita guide](uvita.md) |
+| Out | 🚕 taxi San Gerardo → San Isidro, then bus → Uvita | **Thu 11 Feb** ≈ 12:30 after the descent (no bus until 16:00); Grupo Blanco 16:00 → ~18:00 | ≈ $40–50 | details in the [Uvita guide](uvita.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -73,10 +73,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 | Boquete → David terminal | Coopsemautranchiri bus from the park, every 20–30 min from ≈ 05:00 | **05:30 → 06:20** (PA) | $1.75–2.00 | ≈ |
 | David → Paso Canoas | "Frontera" buses from the David terminal, every ≈ 10–20 min | 06:30 → ≈ 07:45 (PA) = **06:45 CR** | ≈ $2–3 | ≈ |
 | Panama exit stamp → walk across → **Costa Rica entry** | DGME Paso Canoas, open 06:00–22:00 on normal days (≈, DGME Facebook) | ≈ 45–60 min | Panama exit ≈ free (≈ unverified); CR entry free | |
-| **Paso Canoas → San Isidro de El General** | **Tracopa**, "Cerro de la Muerte" route (the Paso Canoas → San José run via San Isidro) | **08:00** (also 04:20, 11:00, 16:30) → ≈ 11:30–12:30 | ≈ ₡6,000–6,500 (≈ $12–13) | ✅ times: tracopacr.com timetable for **8 Feb 2027**; fare ≈ (the site lists San Isidro → Río Claro ₡5,540) |
-| **San Isidro → San Gerardo de Rivas** | **Hernández Solís** bus | **14:30** (Mon–Sat; also 09:30, 18:15) → ≈ 15:30–16:00 | ≈ ₡1,000–1,500 (≈ $2–3) | ✅ times: hernandezsolis.com (Sun/holidays only 07:30 and 13:30) |
+| **Paso Canoas → San Isidro de El General** | **Tracopa**, "Cerro de la Muerte" route (the Paso Canoas → San José run via San Isidro) | **08:00** (also 04:20, 11:00, 16:30) → **≈ 13:00** (Tracopa's estimated stop time) | ≈ ₡6,000–6,500 (≈ $13–15) | ✅ times: tracopacr.com timetable for **Mon 8 Feb 2027** (rechecked 26 Nov); fare ≈ (the site lists San Isidro → Río Claro ₡5,540, one stop short) |
+| **San Isidro → San Gerardo de Rivas** | **Hernández Solís** bus | **14:30** (Mon–Sat; also 09:30, 18:15) → ≈ 15:15–15:30 (40–50 min) | ≈ ₡1,000–1,500 (≈ $2–3) | ✅ hernandezsolis.com (read 26 Nov) (Sun/holidays only 07:30 and 13:30) |
 
-- **Fallback:** if you miss the 08:00 Tracopa, take the **11:00 → San Isidro ≈ 15:00, then the 18:15 Hernández Solís** (San Gerardo ≈ 19:15). Or a taxi from San Isidro, ≈ $25–35 (≈).
+- **Fallback:** if you miss the 08:00 Tracopa, take the **11:00 → San Isidro ≈ 16:00, then the 18:15 Hernández Solís** (San Gerardo ≈ 19:00). Or a taxi from San Isidro, ≈ ₡15,000–20,000 ($34–45; perezzeledon.com).
 - **Total ≈ $20–25**, 10–11 h door to door. Costa Rica is **1 h behind** Panama.
 - **Panama exit:** stamp at Migración in Paso Canoas. No exit tax found. Costa Rica's $8 land **exit** tax applies later, when you leave for Nicaragua.
 - 8 Feb is Carnaval Monday in Panama, so expect a busier border than usual. Costa Rica has no holiday that day.
@@ -88,15 +88,15 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Stay:** up to 180 days for US passports (CR "first group").
 
 ### ⚠️ Timing vs the 16:00 check-in
-- To climb on Tue 9 Feb you must register in San Gerardo **before 16:00 on Mon 8 Feb**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ~13:00, San Gerardo ~14:30), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
+- To climb on Tue 9 Feb you must register in San Gerardo **before 16:00 on Mon 8 Feb**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ≈ 13:00 by Tracopa's estimate, then the 14:30 Hernández Solís, San Gerardo ≈ 15:15), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
 - **Recommendation: climb Wed 10 → Thu 11 Feb instead** (arrive 8 Feb at any time, register on 9 Feb, Cloudbridge as the warm-up hike), then descend by noon on 11 Feb and bus to Uvita that afternoon (see stop 28).
 - Keep 9 → 10 Feb only if the SINAC calendar has no beds on 10 Feb.
 
 <details><summary>The same leg in the stop notes (other timetable sources)</summary>
 
 - Boquete → David local bus (~1 h, ≈ $2) → David → Paso Canoas bus (~1¼ h, ≈ $3) → walk the border (Panama exit, Costa Rica entry; CR asks for proof of onward travel).
-- **Tracopa Paso Canoas → San Isidro de El General** (Cerro de la Muerte line, continues to San José): dep **04:20 / 08:00 / 11:00 / 16:30** → San Isidro **~09:00 / ~13:00 / ~16:00 / ~20:30** (≈ 4½–5 h). Fare ≈ ₡6,500 (≈ $15; Tracopa lists San Isidro → Río Claro at ₡5,540, Paso Canoas is one stop further). ✅ Times on tracopacr.com (Monday schedule, "estimated" stop times; Feb not loaded yet). Buy at the window or on tracopacr.com.
-- **San Isidro → San Gerardo:** Hernández Solís local bus from the Terminal Municipal (40–50 min, ≈ ₡1,000 / $2.25). Six runs Mon–Sat; the published times are the departures *from* San Gerardo (05:15, 06:50, 10:00, 13:00, 16:00, 18:45), so the San Isidro departures fall in between ≈ (perezzeledon.com bus page, updated 18 Nov 2026; confirm at the terminal).
+- **Tracopa Paso Canoas → San Isidro de El General** (Cerro de la Muerte line, continues to San José): dep **04:20 / 08:00 / 11:00 / 16:30** → San Isidro **~09:00 / ~13:00 / ~16:00 / ~20:30** (≈ 4½–5 h). Fare ≈ ₡6,500 (≈ $15; Tracopa lists San Isidro → Río Claro at ₡5,540, Paso Canoas is one stop further). ✅ Times on tracopacr.com (the 8 Feb 2027 timetable is loaded; stop times are Tracopa's estimates). Buy at the window or on tracopacr.com.
+- **San Isidro → San Gerardo:** Hernández Solís local bus from the Terminal Municipal (40–50 min, ≈ ₡1,000 / $2.25). Operator timetable ✅ hernandezsolis.com (read 26 Nov): **Mon–Sat** San Isidro → San Gerardo **09:30, 14:30, 18:15**; San Gerardo → San Isidro **06:30, 11:00, 16:00**. **Sundays and holidays:** up 07:30, 13:30; down 09:00, 15:00. (perezzeledon.com lists six different runs from San Gerardo, 05:15–18:45; the operator's own page wins.)
 - Taxi San Isidro → San Gerardo ≈ ₡15,000–20,000 ($34–45).
 
 </details>
@@ -194,7 +194,9 @@ Live-checked on 24 Nov: 2 village nights, 8 → 10 Feb, with the recommended 10 
 
 ## 🚌 Leaving: San Gerardo → San Isidro → Uvita, Thu 11 Feb
 
-- After the descent: San Gerardo **13:00** → San Isidro ~13:50 → **Grupo Blanco 16:00** → Uvita ~18:00 (≈ ₡2,500). Times and the Dominical alternative are in the [Uvita guide](uvita.md).
+- **No bus fits after the descent.** Hernández Solís leaves San Gerardo at **06:30, 11:00 and 16:00** (Mon–Sat, ✅ hernandezsolis.com (read 26 Nov)); there is no 13:00 run. Back by ~12:00, so take a **🚕 taxi to San Isidro** (≈ 35 min, ≈ ₡15,000–20,000 / $34–45; ask the hostel to call one).
+- Then **Grupo Blanco 16:00** direct → Uvita ~18:00 (≈ ₡2,500), or the **13:30 Dominical bus** + the local bus to Uvita (20 min). Details in the [Uvita guide](uvita.md).
+- Cheaper but late: the 16:00 bus reaches San Isidro ≈ 16:50, after the last listed Uvita and Dominical departures, so you would sleep in San Isidro and lose a Uvita night.
 
 ---
 <sub>Photos: Google Maps contributors (Cerro Chirripó ×2, Base Crestones ×2, Cloudbridge Nature Reserve, Sendero Los Gigantes, Gevi hot springs, Uran Restaurant, Robino's Foodies, Batsú Gastro-Pub).</sub>

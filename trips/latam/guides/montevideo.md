@@ -149,7 +149,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - Both are free; wear clothes you don't mind soaking. (Guru'Guay, updated Sep 2025.)
 - **Midnight on 31 Dec: fireworks near the Rambla.** Locals let them off all along the waterfront, so walk to Playa Ramírez or Pocitos beach (10–30 min from the hostel).
   - There is **no official city display**: none was announced as of Oct 2026, and private fireworks are thinning out year by year. Free; nothing to book.
-- **30 Dec evening or 31 Dec morning: Cerro de Montevideo**, a short climb to the Fortaleza General Artigas for the classic view back across the bay (bus ≈ 40 min; the climb is free, the fort museum ≈ small fee).
+- **31 Dec morning: Cerro de Montevideo** (you're only back from Cabo Polonio at 20:10 on 30 Dec), a short climb to the Fortaleza General Artigas for the classic view back across the bay (bus ≈ 40 min; the climb is free, the fort museum ≈ small fee).
 - Rambla by bike or on foot; a dip at Playa Ramírez or Pocitos.
 
 <details><summary><b>Sierra de las Ánimas: does it work en route? Mostly no.</b> (✅ official site, sierradelasanimas.com)</summary>

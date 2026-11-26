@@ -49,7 +49,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | 13 → 15 Feb | **Monteverde** (2) | Monteverde Backpackers, $24, Hostelworld | | Buses via Quepos and Puntarenas | [→](guides/monteverde.md) |
 | 15 → 18 Feb | **La Fortuna** (3) | Ceiba Hostel (curtains, kitchen; small pool), $39, Booking | | Jeep-boat-jeep | [→](guides/la-fortuna.md) |
 | 18 → 20 Feb | **Liberia / Rincón de la Vieja** (2) | Hostel Pura Vida, $28, Booking | | | [→](guides/rincon-de-la-vieja.md) |
-| 20 → 22 Feb | **San Juan del Sur** (2) | Nalu Nalu (location 9.6; kitchen, breakfast), $18, Booking | | CR exit $8 + Nicaragua entry $14, cash | [→](guides/san-juan-del-sur.md) |
+| 20 → 22 Feb | **San Juan del Sur** (2) | Nalu Nalu (location 9.6; kitchen, breakfast), $18, Booking | | CR exit $8 + Nicaragua entry ≈ $12–14 ($10 stamp + border charges), cash | [→](guides/san-juan-del-sur.md) |
 | 22 → 25 Feb | **Ometepe** (3) | Guest House Nena (private double, location 9.4, by the port), $36, Booking | | Ferry from San Jorge | [→](guides/ometepe.md) |
 | 25 → 27 Feb | **Granada** (1) + **Laguna de Apoyo** (1, new 26 Nov) | De Boca en Boca $14 + Coco Bay (lakeshore, location 9.6) $14, Booking | | Masaya volcano at night on 25 Feb ($10 + ≈ $5 ride up) | [→](guides/granada.md) |
 | 27 Feb → 2 Mar | **León** (3) | Casa Lula, $33, Booking | | Telica closed; El Hoyo overnight instead | [→](guides/leon.md) |

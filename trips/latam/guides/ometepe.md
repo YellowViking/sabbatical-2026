@@ -101,7 +101,7 @@ Beds live-checked 25 Nov, chosen for location.
 - ⚠️ **Location 8.3**; it was the pick until 25 Nov.
 - Standard 4-bed mixed dorm. **$30 for 3 nights** (tax incl.) on Hostelworld = **$30 on Booking** (9.0/45; card $10 × 3).
 - HW **10.0 (809; 8.6 % < 7)**, newest 100 (Nov 2026).
-- ~600 m north of Moyogalpa (20 min walk into town).
+- North of Moyogalpa: 24 min (1.7 km) on foot from the port and 21 min from the centre (Google Maps; the listing's "~600 m" understates it).
 - Owners praised, restaurant kitchen (no guest-kitchen flag), bar. **No curtains**, rooms close to the common area ("bring earplugs"). Not a party place.
 
 ### Backup 3 (dorm): Rancho Tranquillo

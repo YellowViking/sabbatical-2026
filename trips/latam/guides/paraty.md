@@ -149,7 +149,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Fino Sabor** (self-service).
 - **Restaurante Caramujo:** "monte seu prato" and the local *azul-marinho* fish stew.
 - A quilo plate here is about R$ 35–45 ($6–8) ≈.
-- **Cervejaria Caborê**, next to the rodoviária, brews its own beer (tasting flight).
+- **Cervejaria Caborê**, ≈ 450 m (6 min on foot) north of the rodoviária, brews its own beer (tasting flight).
 - Cachaça shops in the centre give tastings ≈.
 
 ## ℹ️ Good to know

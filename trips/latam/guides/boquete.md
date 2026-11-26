@@ -44,7 +44,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 | Backup (budget) | **La Casa de Doña Cata** · 8-bed mixed dorm | $42 | 9.4 | 🚶 1 min (8 m) from the central park (bus from David) · [route](https://www.google.com/maps/dir/?api=1&origin=8.7763958,-82.4322826&destination=8.7762121,-82.4322037&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=La+Casa+de+Do%C3%B1a+Cata+Boquete&checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/310314/la-casa-de-dona-cata/?from=2027-02-05&to=2027-02-08&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23738460&checkin=2027-02-05&checkout=2027-02-08&NumberofAdults=1&Rooms=1) |
 | Private alt | **Buena Vista Boquete** · classic room (sleeps 4), non-refundable | $160 | 9.5 | Not routed. 0.43 km from the park | [Booking (search)](https://www.booking.com/searchresults.html?ss=Buena+Vista+Boquete+Boquete&checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) |
 | Value private | **Hostal Casa Pedro Boquete** · twin, private bathroom | $94 | 9.2 | Not routed. 2.8 km out (taxi ≈ $3) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Casa+Pedro+Boquete&checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) |
-| 🎭 Carnaval backup | **Penny House**, **David** (alt town) · single bed in a mixed dorm | not noted | 9.4 | 🚶 17 min (1.2 km) from David's bus terminal (taxi 3 min); Boquete buses leave the same terminal (≈ 1 h) · [route](https://www.google.com/maps/dir/?api=1&origin=8.4347139,-82.421874&destination=8.442252,-82.419783&travelmode=walking) | [Booking](https://www.booking.com/hotel/pa/penny-house-hostal-david.html?checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| 🎭 Carnaval backup | **Penny House**, **David** (alt town) · single bed in a mixed dorm | $41 for 3 nights | 9.4 | 🚶 17 min (1.2 km) from David's bus terminal (taxi 3 min); Boquete buses leave the same terminal (≈ 1 h) · [route](https://www.google.com/maps/dir/?api=1&origin=8.4347139,-82.421874&destination=8.442252,-82.419783&travelmode=walking) | [Booking](https://www.booking.com/hotel/pa/penny-house-hostal-david.html?checkin=2027-02-05&checkout=2027-02-08&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
@@ -106,7 +106,7 @@ All live-checked on 24 Nov. **Carnaval Sat 6 → Tue 9 Feb fills the town, so bo
 - Doña Cata's private (double, shared bath) is $114 on Booking, but it has the same club-noise problem.
 
 ### 🎭 Carnaval backups
-- **Another town:** **Penny House** in **David**, a single bed in a mixed dorm, location 9.4. It's a 17-min walk from David's bus terminal, where the Boquete buses leave (≈ 1 h).
+- **Another town:** **Penny House** in **David**, a single bed in a mixed dorm, **$41 for 3 nights** on Booking (26 Nov; 81 reviews, none below 7), location 9.4. It's a 17-min walk from David's bus terminal, where the Boquete buses leave (≈ 1 h).
 - **Shifted dates:** fly Air Panama Albrook → David on **Thu 4 Feb** (07:00 or 16:15, $67) and add a 4th Boquete night.
 - **Other airline:** Copa Tocumen → David, Fri 5 Feb 06:39 ($80).
 
@@ -126,7 +126,7 @@ The Barú timing is the key choice.
 </table>
 
 - **Barú on your own** costs ≈ $5 in park fees against $40–85 guided, but muggings have been reported on the trail: start with other hikers from the hostel, not alone (The Broke Backpacker, 26 Nov lead).
-- **Fri 5 Feb, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10** (LP), 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
+- **Fri 5 Feb, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
 - **Sat 6 Feb, morning:**
   - **Option 1: Sendero Los Quetzales**, out-and-back from the Alto Chiquero ranger post (Barú NP; park fee ≈ $7, ≈ 45 min by taxi). Quetzal season is Feb–May (LP).
   - **Option 2:** free road walks: the Jaramillo Arriba loop with volcano views, or Bajo Mono.

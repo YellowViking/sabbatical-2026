@@ -63,7 +63,8 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
   - Colonia → Buenos Aires ferry, $48.
   - Buenos Aires → Córdoba, $44–48.
   - Sucre → La Paz, $56.
-- Border fees: Costa Rica exit $8, Nicaragua entry $14 (cash).
+- Chirripó descent day (Thu 11 Feb): no San Gerardo bus fits, so a taxi to San Isidro ≈ $34–45 (added 26 Nov).
+- Border fees: Costa Rica exit $8, Nicaragua entry ≈ $12–14 (the $10 tourist stamp plus ≈ $1–4 border charges, cash).
 - Leg by leg: [route-v5-brainstorm §12 and §15](route-v5-brainstorm.md); each guide's "Getting here".
 
 **Core sights and park fees, ≈ $0.32k:**

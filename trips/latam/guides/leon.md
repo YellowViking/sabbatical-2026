@@ -77,7 +77,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - One review says no bed curtains. Not a party place.
 
 ### Backup: Hostal La Tortuga Booluda
-- Standard 4-bed mixed dorm. **$39 for 3 nights** (tax incl.) on Hostelworld (not in Booking's hostel results).
+- Standard 4-bed mixed dorm. **$39 for 3 nights** (tax incl.) on Hostelworld. Booking lists it too (location 9.1) but it didn't show in Booking's hostel-filtered search, so its Booking link is a search.
 - HW **9.2 (335; 5.1 % < 7)**. ~0.6 km west of Parque Central.
 - "Relatively quiet… good chilled option away from the party hostels".
 - Good kitchen (cooker listed), honour bar, breakfast, a cool small pool (not a party pool). Curtains in some dorms (reviews disagree).
