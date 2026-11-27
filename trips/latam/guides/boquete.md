@@ -66,7 +66,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## ✈️ Getting here: Panama City → David → Boquete, Day 64 (Carnaval Monday)
+## ✈️ Getting here: Panama City → David → Boquete, Day 64 (Carnaval Tuesday)
 
 - **Recommended: Air Panama 7P670, Albrook (PAC) 07:15 → David (DAV) 08:00, $67** (Google Flights, live 24 Nov). There's also 7P970, 16:15 → 17:00.
   - ✅ **Air Panama's own timetable (27 Nov):** 7P670 runs Mon–Sat, 7P972 13:30 → 14:15 Sat–Sun, 7P970 16:15 → 17:00 daily except Saturday. Google Flights showed **no Air Panama fares at all** for Days 60–65 on 27 Nov, so the $67 couldn't be re-priced; price it on airpanama.com.
@@ -76,7 +76,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Air Panama's bag allowance isn't checked; read it before buying.
 - **Bus alternative:** Albrook terminal → David, run by TDP (Terminales David-Panamá) and Panachif.
   - Regular ≈ $15–17 (7–8 h); express ≈ $18–22 (6–6.5 h). Departures roughly hourly; cash at the counter; a RapiPass is needed for the terminal turnstile.
-  - On Carnaval Friday, AI-Mode leads and Panamanian news say expresses sell out and the Interamericana jams (**+2–4 h**). You travel on the Monday, after the outbound rush and before the return on Tue–Wed, so it should be calmer (≈), but buy the ticket at Albrook on Sun 7 Feb if you bus.
+  - On Carnaval Friday, AI-Mode leads and Panamanian news say expresses sell out and the Interamericana jams (**+2–4 h**). You travel on Carnaval Tuesday, after the outbound rush and before the return rush on Wednesday, so it should be calmer (≈), but buy the ticket at Albrook on Sun 7 Feb if you bus.
   - Then the Boquete bus as above. ≈ (no operator website; times from AI Mode and secondary sites).
 - **Verdict: fly.** It's about $45–50 more, saves 6–10 h on a Carnaval road, and gives you Monday afternoon in Boquete.
 
@@ -100,7 +100,7 @@ All live-checked on 24 Nov. **Carnaval Sat 6 → Tue 9 Feb fills the town, so bo
 - **Reviews:** Hostelworld 8.6 (318); Booking 425 reviews, **16% below 7**.
 - **Where:** right on the main park (bus stop).
 - **Checks:** "well equipped" kitchen; no curtains.
-- ⚠️ **The bar/club next door plays loud music and karaoke until about 2 am at weekends** (6 Booking reviews). Your nights are Carnaval Mon and Tue, then Ash Wednesday, and you need sleep before the Barú start, so use it only if ONDA sells out.
+- ⚠️ **The bar/club next door plays loud music and karaoke until about 2 am at weekends** (6 Booking reviews). Your nights are Carnaval Tuesday, Ash Wednesday and Thursday, and you need sleep before the Barú start, so use it only if ONDA sells out.
 - **Skip Bambuda Castle:** $140 for 3 nights, 2 km out of town, kitchen closed in 2025 reviews, renovations.
 
 ### Private alt (location first): Buena Vista Boquete
