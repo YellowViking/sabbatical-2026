@@ -76,7 +76,7 @@ def map_range(mm, f):
     d1 = parse_dm(mm.group('d1'), m1, mm.group('y1') or (str(d2.year) if not mm.group('m1') else None))
     if not mm.group('m1') and d1 > d2: d1 = parse_dm(mm.group('d1'), MNAME[(d2.month - 2) % 12 + 1])
     n1, n2 = f(d1), f(d2)
-    same = n1.month == n2.month and not mm.group('m1')
+    same = n1.month == n2.month and n1.year == n2.year and not mm.group('y1')
     left = (f'{WD[n1.weekday()]} ' if mm.group('wd1') else '') + (f'{n1.day}' if same else fmt(n1, wd=False)) + (f' {n1.year}' if mm.group('y1') else '')
     right = fmt(n2, wd=bool(mm.group('wd2')), year=bool(mm.group('y2')))
     return f'{left} → {right}'
