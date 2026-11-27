@@ -1,4 +1,4 @@
-# Latin America (route v5): budget forecast, Day 0 → 87
+# Latin America (route v5): budget forecast, Day 0 → 89
 
 Built 24 Nov 2026 for the [v5 itinerary](itinerary.md) (86 days, 10 countries), in the same format as the [Europe forecast](../europe-2026/budget-forecast.md) and following its lessons:
 - Beds are budgeted at the **dorm picks actually checked** for the exact dates, with private rooms as a separate buffer.
@@ -9,7 +9,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 ## (a) Bottom line
 
-**Plan on about $6.8–7.4k for the trip, and carry about $8.2k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $74–80 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, home Day 93, beds re-priced for the new dates.)*
+**Plan on about $6.8–7.4k for the trip, and carry about $8.2k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $74–80 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, home Day 95, beds re-priced for the new dates.)*
 
 | Item | Amount | Notes |
 |---|---:|---|
@@ -23,7 +23,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | **Expected spend** | **≈ $6.8–7.4k** | |
 | Optional adventure extras | + $0.22–0.33k | Death Road $85 or Pico Austria ≈ $100, El Hoyo ≈ $70, Concepción guide $25–40, Cerro Negro ≈ $35 |
 | **Private-room buffer** | + ≈ $1.0k | Every guide names a location-first private room. Privates cost 2–4× a dorm in Rio, Uruguay, Panama and Costa Rica, but only $5–15 more a night in Bolivia, Peru and Nicaragua. $1k covers privates on roughly 40% of nights |
-| Using the 5 spare days left before 15 Mar | + ≈ $0.21k | at ≈ $43/day living |
+| Using the 3 spare days left before 15 Mar | + ≈ $0.13k | at ≈ $43/day living |
 
 **Flights on points:**
 - **In:** SEA → Rio, Alaska business, 60,000 points + $26. Cash for the same itinerary is ≈ $4,063, against ≈ $565–625 for cash economy.
@@ -43,8 +43,8 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | Bolivia | Day 47 → 56 | 9 | $128 | $9 | $3.7 | $3 | **$269** | Potosí 2 nights ($57), Isla del Sol 1 night; La Paz pick now $36 (+$16, 27 Nov) |
 | Peru | 1 → 6 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | Puno is in Candelaria week: book Kantaya early |
 | Panama | 6 → 11 Feb | 5 | $138 | $17 | $5.0 | $5.5 | **$276** | Carnaval in both stops; ONDA Boquete $99.76 on Agoda |
-| Costa Rica | Day 66 → 79 | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
-| Nicaragua | Day 79 → 93 | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
+| Costa Rica | Day 68 → 81 | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
+| Nicaragua | Day 81 → 95 | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
 | **Total** | | **91** | **$1,512** (≈ $17/night) | **$1,434** | **$532** | **$438** | **≈ $3,915** (≈ $43/day) | |
 
 - **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
@@ -64,7 +64,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
   - Colonia → Buenos Aires ferry, $48.
   - Buenos Aires → Córdoba, $44–48.
   - Sucre → La Paz, $56.
-- Chirripó descent day (Day 66): no San Gerardo bus fits, so a taxi to San Isidro ≈ $34–45 (added 26 Nov).
+- Chirripó descent day (Day 68): no San Gerardo bus fits, so a taxi to San Isidro ≈ $34–45 (added 26 Nov).
 - **Plan B** (Florianópolis instead of Paraguay, Days 14–20): ≈ $255 in beds and buses against ≈ $256 for Plan A, so the totals don't change ([guide](guides/florianopolis.md)).
 - Border fees: Costa Rica exit $8, Nicaragua entry ≈ $12–14 (the $10 tourist stamp plus ≈ $1–4 border charges, cash).
 - Leg by leg: [route-v5-brainstorm §12 and §15](route-v5-brainstorm.md); each guide's "Getting here".
@@ -100,7 +100,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
     - C, overland via [Huacachina + Paracas](guides/huacachina-paracas.md) + the award: ≈ $185 + 17,500, and +3 days (≈ +$125 living).
 - **Up:**
   - Private rooms everywhere: about +$1.5–2k.
-  - The 5 spare days left: +$0.21k.
+  - The 3 spare days left: +$0.13k.
   - Bolivian blockades: extra nights or a flight, +$0.1–0.3k (the route-change reserve covers one event).
 
 ## (e) Against the backpacker consensus

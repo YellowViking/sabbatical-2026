@@ -17,9 +17,10 @@ The main route on its own: [interactive route map](https://raw.githubusercontent
 - **More days at the adventure hubs** (user's choice, over the 7 Mar spring-break cap). Every stop from 10 Jan moved 2–6 days later. `schedule.json` + `reschedule.py` re-dated the guides, links and maps, and every bed was re-priced for the new dates.
   - **Córdoba +2: [Cerro Champaquí](guides/cordoba.md)**, Day 31 → 33. Villa Alpina → refuge → summit → back. A free declaration is compulsory; a guide is optional.
   - **San Pedro +1:** a buffer and acclimatisation day before **Cerro Toco** (Day 44, Vulcano CLP 85,000).
-  - **San Gerardo +1** (Day 66 → 70). ⚠️ SINAC showed **0 Chirripó permits** for every night from now to mid-May (27 Nov): watch for cancellations, which return to sale when someone cancels at least 15 days ahead.
-  - **Estelí +2:** the [Somoto Canyon](guides/somoto.md) day trip (Day 91, $30 tour), plus one more night so the Alaska award flies **Day 93** with one change (AS305 via Miami). On Day 92 the only routing at that price had a 34-minute change at JFK.
-  - **Home: Day 93** (92 nights).
+  - **San Gerardo +1** (Day 68 → 72). ⚠️ SINAC showed **0 Chirripó permits** for every night from now to mid-May (27 Nov): watch for cancellations, which return to sale when someone cancels at least 15 days ahead.
+  - **Estelí +2:** the [Somoto Canyon](guides/somoto.md) day trip (Day 93, $30 tour), plus one more night for a better Alaska award day. On Day 94 the only routing at that price had a 34-minute change at JFK.
+  - **Bocas del Toro +2** (Day 66 → 68, added later on 27 Nov at the user's request): Isla Colón after Boquete, then back via Almirante, David and Paso Canoas to San Gerardo. See the [Bocas guide](guides/bocas-del-toro.md).
+  - **Home: Day 95, Fri 12 March** (94 nights): Alaska award MGA 07:00 → Miami → AA2363 → Seattle 00:59 (+1), 25k + $94.42.
 - **Quebrada de las Conchas, Day 35:** the 10.9 km loop hike (AllTrails 4.7, 94 reviews) instead of the bike ride. The 08:30 Flecha Bus drops you at the trailhead.
 
 ## 1. Christmas week: decided 27 Nov, Brazil's coast into Uruguay
@@ -47,7 +48,7 @@ Three options, already in the [itinerary](itinerary.md) and the [Panama City gui
 - **C:** overland via [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days), award from Lima on Day 61.
   - **New from LP (26 Nov): add the Nazca Lines to C** (+0–1 day). Either the bus Arequipa → Nazca (10–12 h), an early overflight, then ≈ 2½ h on to Huacachina; or an overflight from Pisco or Ica (≈ US$90 + S/30 airport tax, LP). The coast is in season in February.
 
-## 3. Optional add-ons (5 spare days before 15 Mar)
+## 3. Optional add-ons (3 spare days before 15 Mar)
 **Spring breaks:** the busiest 2027 US college weeks are 8–12 and 15–19 Mar, Ontario's March break is 15–19 Mar, and Semana Santa is 21–28 Mar (checked 27 Nov). The plan now ends **Wed 10 Mar** by choice (more hub days), with the last nights in Estelí, which spring-breakers rarely visit. Each add-on day below pushes everything after it later. Costa Rica's and Panama's 2027 school years start on 1 Mar, so local families travel through February.
 
 **Transport and beds were verified on 27 Nov** (✅ works car-free · ⚠️ works with a catch · ❌ doesn't). Dates before Day 34 didn't move. Rows marked "old dates" were checked for the pre-shift dates, so re-check them if you pick one.
@@ -67,9 +68,9 @@ Three options, already in the [itinerary](itinerary.md) and the [Panama City gui
 | **Aparados da Serra canyons** | from Porto Alegre (now on the route) | +2 | park R$112 + guide | ⚠️ Porto Alegre → Caxias → São Marcos 17:00 → Cambará (Citral direct runs Mon/Fri only); Hostel Cape Town $36 for 3 nights, location 9.9. Christmas falls in the middle, so it would replace the Porto Alegre nights rather than add to them | Fog risk |
 | San Blas islands | Panama City (now 6 → 8 Feb) | +1 | $150–285 | not rechecked | The budget-buster; Panama's Carnaval is 6–9 Feb |
 | **El Valle de Antón** (new, from G Adventures' routes) | between Panama City and Boquete | +1 | ≈ $16–23 bed | ⚠️ Bodhi dorm $16 on 4 Feb but $23 on Carnaval Friday, with several places sold out; buses west on that day are unreliable (old dates) | Crater town with free hikes (La India Dormida). With the shift it falls on Carnaval weekend: skip unless the dates move |
-| **Manuel Antonio** (new, from G Adventures' routes) | between Uvita and Monteverde (now Day 72) | +1 | park ≈ $18 + ≈ $14 bed | ✅ Tracopa Uvita → Quepos 07:21 and 14:05; the park calendar showed 2,500 places free; Senda Adults Only Hostel $14 (old dates: Day 68) | The classic wildlife park (sloths, monkeys); SINAC online tickets, so check its closed day when booking |
-| **Caño Negro wetlands** (new) | from La Fortuna (now Day 74 → 77) | +1, or +0 as a tour | $96 tour, or bus + $126 boat | ⚠️ By bus ≈ 5–6 h each way via Ciudad Quesada and Los Chiles, then a $126 solo boat; Poponjoche Lodge $41. The $96 Río Frío tour from La Fortuna is the +0 version | Birds, caimans |
-| Granada extras (new) | Granada, Day 84 → 85 | +0 | ≈ C$1,400 per boat | ⚠️ Las Isletas boats from Puerto Asese ≈ C$1,400 per boat (up to 8), so share one. Mombacho publishes no entry or truck fares | |
+| **Manuel Antonio** (new, from G Adventures' routes) | between Uvita and Monteverde (now Day 74) | +1 | park ≈ $18 + ≈ $14 bed | ✅ Tracopa Uvita → Quepos 07:21 and 14:05; the park calendar showed 2,500 places free; Senda Adults Only Hostel $14 (old dates: Day 70) | The classic wildlife park (sloths, monkeys); SINAC online tickets, so check its closed day when booking |
+| **Caño Negro wetlands** (new) | from La Fortuna (now Day 76 → 79) | +1, or +0 as a tour | $96 tour, or bus + $126 boat | ⚠️ By bus ≈ 5–6 h each way via Ciudad Quesada and Los Chiles, then a $126 solo boat; Poponjoche Lodge $41. The $96 Río Frío tour from La Fortuna is the +0 version | Birds, caimans |
+| Granada extras (new) | Granada, Day 86 → 87 | +0 | ≈ C$1,400 per boat | ⚠️ Las Isletas boats from Puerto Asese ≈ C$1,400 per boat (up to 8), so share one. Mombacho publishes no entry or truck fares | |
 | ~~Monteverde → La Fortuna on foot~~ | instead of the jeep-boat-jeep | — | — | ❌ Nothing bookable: the only 2-day trek (Red Lava, $160) runs La Fortuna → Monteverde and shows "unavailable" | Closest: a night at the San Gerardo Station in the Children's Eternal Rainforest ($94.80 with meals, prepaid 15 days ahead) |
 
 Now in the plan (27 Nov): **[Cerro Champaquí](guides/cordoba.md)**, **[Somoto Canyon](guides/somoto.md)**, the Quebrada de las Conchas hike, and **Santa Teresa park** (Punta del Diablo, Day 20).

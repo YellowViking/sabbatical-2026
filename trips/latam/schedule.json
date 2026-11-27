@@ -40,6 +40,7 @@
     {"id": "arequipa", "guide": "arequipa", "nights": 2},
     {"id": "panama-city", "guide": "panama-city", "nights": 2},
     {"id": "boquete", "guide": "boquete", "nights": 3},
+    {"id": "bocas", "guide": "bocas-del-toro", "nights": 2},
     {"id": "san-gerardo", "guide": "san-gerardo-de-rivas", "nights": 4},
     {"id": "uvita", "guide": "uvita", "nights": 2},
     {"id": "monteverde", "guide": "monteverde", "nights": 2},

@@ -29,7 +29,7 @@ ADD = [
  (13,'trek','Monteverde → La Fortuna on foot: ✗ nothing bookable (27 Nov)',10.4,-84.73,12,10,'start',True),
 ]
 ALT_LINK = {'A':'asuncion','C':'huacachina-paracas'}
-ADDONS = 'alternatives.md#3-optional-add-ons-5-spare-days-before-15-mar'
+ADDONS = 'alternatives.md#3-optional-add-ons-3-spare-days-before-15-mar'
 ADD_LINK = {1:'huacachina-paracas', 2:'teresopolis', 12:'somoto'}
 def addlink(n): return ADD_LINK.get(n, ADDONS)
 def alt_path(o, proj, key, items):

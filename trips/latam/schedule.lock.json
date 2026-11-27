@@ -1,5 +1,6 @@
 {
  "start": "2026-12-08",
+ "trip_day_1": "2026-12-08",
  "stays": [
   {
    "id": "rio",
@@ -191,6 +192,11 @@
    "id": "boquete",
    "guide": "boquete",
    "nights": 3
+  },
+  {
+   "id": "bocas",
+   "guide": "bocas-del-toro",
+   "nights": 2
   },
   {
    "id": "san-gerardo",

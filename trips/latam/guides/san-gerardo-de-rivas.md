@@ -1,11 +1,11 @@
 # 🇨🇷 San Gerardo de Rivas (Chirripó)
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Boquete](boquete.md) · [Uvita](uvita.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Bocas del Toro](bocas-del-toro.md) · [Uvita](uvita.md) →
 
-> **Stop 27 · Day 66 → 70 · 4 nights (+1 on 27 Nov), one of them at Base Crestones** · ⚠️ SINAC showed no Chirripó permits on sale for February (27 Nov)<br>
+> **Stop 28 · Day 68 → 72 · 4 nights (+1 on 27 Nov), one of them at Base Crestones** · ⚠️ SINAC showed no Chirripó permits on sale for February (27 Nov)<br>
 > 🏞️ Mountain village at the Chirripó trailhead: 14.5 km and ~2,100 m up to the Crestones hut, then the 3,820 m summit<br>
 > 🛏️ **Casa Colibri Chirripó**, single bed in a mixed dorm, $121 for 3 nights (11 → 13 and 14 → 15), around a bunk at **Base Crestones** on 13 → 14 ($46.68)<br>
-> 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Day 66 (10–11 h) · **Out:** 06:30 bus to San Isidro, then on to Uvita, Day 70
+> 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Day 68 (10–11 h) · **Out:** 06:30 bus to San Isidro, then on to Uvita, Day 72
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QGbCSTApH7O4R1Wrtg90J7pi_oP0qRq7t7BxGpfw8dhZ0TlTohaLpzvFzByOhiYcrKEMnpehuPw9DbYkd66uFx-nVISgMZWHuTqvJUuWpI9cTJ705RVeyWK2dkS73uWwt1lwq7=w1200-h360-p-k-no" alt="A lake in the páramo below the summit of Cerro Chirripó" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of San Gerardo de Rivas: the beds, the bus stop and SINAC office, Cloudbridge, the hot springs and the food stops](img/san-gerardo-de-rivas-map-f3e9500a.jpg)
 
-**In the village:** ★ **[Casa Colibri Chirripó](https://www.google.com/maps?ftid=0x8fa14be9e786fcf9:0xc3f5df853c3b0e9f)** (the pick, [book](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [village bus stop](https://www.google.com/maps?ftid=0x8fa14ac81e02a64f:0xe81f894db35c0801), with the [SINAC check-in office](https://www.google.com/maps?ftid=0x8fa14ac83b7ec6bb:0xbec2e5b86499be7a) next to it · **1** [Casa Mariposa](https://www.google.com/maps?ftid=0x8fa6b5494f7752a9:0x45c337b98b79f68a) (backup, by the trailhead), with [Uran Restaurant](https://www.google.com/maps?ftid=0x8fa6b54ec565dd39:0x64bfba6936d27a68) next door · **2** [Hotel de Montaña El Pelícano](https://www.google.com/maps?ftid=0x8fa14ac6278fd73f:0xb11898c12cdbaa6e) (private alt, [book](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Cloudbridge Nature Reserve](https://www.google.com/maps?ftid=0x8fa6b545dd89b5cf:0x304767c03c3cdf90) [🚕 ≈ 8 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4721509,-83.5776278&travelmode=driving) · **4** [Gevi hot springs](https://www.google.com/maps?ftid=0x8fa14aba172ed569:0xbba33ed673c85af) [🚕 ≈ 6 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4705247,-83.6041641&travelmode=driving) · **5** [Robino's Foodies](https://www.google.com/maps?ftid=0x8fa14bd086421e43:0x6e9263c1af1e622b) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4660449,-83.5956074&travelmode=walking) · **6** [Batsú Gastro-Pub](https://www.google.com/maps?ftid=0x8fa14b24df35ce87:0x783739e8688852e5) [🚕 ≈ 6 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4536973,-83.6074001&travelmode=driving)
+**In the village:** ★ **[Casa Colibri Chirripó](https://www.google.com/maps?ftid=0x8fa14be9e786fcf9:0xc3f5df853c3b0e9f)** (the pick, [book](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [village bus stop](https://www.google.com/maps?ftid=0x8fa14ac81e02a64f:0xe81f894db35c0801), with the [SINAC check-in office](https://www.google.com/maps?ftid=0x8fa14ac83b7ec6bb:0xbec2e5b86499be7a) next to it · **1** [Casa Mariposa](https://www.google.com/maps?ftid=0x8fa6b5494f7752a9:0x45c337b98b79f68a) (backup, by the trailhead), with [Uran Restaurant](https://www.google.com/maps?ftid=0x8fa6b54ec565dd39:0x64bfba6936d27a68) next door · **2** [Hotel de Montaña El Pelícano](https://www.google.com/maps?ftid=0x8fa14ac6278fd73f:0xb11898c12cdbaa6e) (private alt, [book](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Cloudbridge Nature Reserve](https://www.google.com/maps?ftid=0x8fa6b545dd89b5cf:0x304767c03c3cdf90) [🚕 ≈ 8 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4721509,-83.5776278&travelmode=driving) · **4** [Gevi hot springs](https://www.google.com/maps?ftid=0x8fa14aba172ed569:0xbba33ed673c85af) [🚕 ≈ 6 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4705247,-83.6041641&travelmode=driving) · **5** [Robino's Foodies](https://www.google.com/maps?ftid=0x8fa14bd086421e43:0x6e9263c1af1e622b) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4660449,-83.5956074&travelmode=walking) · **6** [Batsú Gastro-Pub](https://www.google.com/maps?ftid=0x8fa14b24df35ce87:0x783739e8688852e5) [🚕 ≈ 6 min](https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4536973,-83.6074001&travelmode=driving)
 
 ![Terrain map of the Chirripó climb: San Gerardo, the Crestones hut and the summit](img/san-gerardo-de-rivas-area-map-02a0285f.jpg)
 
@@ -27,39 +27,39 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 📅 Day by day
 
-The plan: climb **Day 68 → 69** if a permit turns up (see the permit note under Getting here).
+The plan: climb **Day 70 → 71** if a permit turns up (see the permit note under Getting here).
 
 | Day | Plan |
 |---|---|
-| **Day 66** | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
-| **Day 67** | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
-| **Day 68** | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
-| **Day 69** | ⛰️ **Summit (3,820 m)** at dawn, 5.5 km beyond Crestones, then down to San Gerardo by **~12:00**. ♨️ Afternoon at the **Gevi hot springs** (≈ $7) for the legs; night in the village. |
-| **Day 70** | 🚌 **06:30 Hernández Solís** → San Isidro, then **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi needed now). |
+| **Day 68** | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
+| **Day 69** | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
+| **Day 70** | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
+| **Day 71** | ⛰️ **Summit (3,820 m)** at dawn, 5.5 km beyond Crestones, then down to San Gerardo by **~12:00**. ♨️ Afternoon at the **Gevi hot springs** (≈ $7) for the legs; night in the village. |
+| **Day 72** | 🚌 **06:30 Hernández Solís** → San Isidro, then **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi needed now). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (village 11 → 13 and Day 69 → 70, 3 nights; Crestones Day 68 → 69)
+**Beds** (village 11 → 13 and Day 71 → 72, 3 nights; Crestones Day 70 → 71)
 
 | | Where | Total | Location | From the village bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Casa Colibri Chirripó** · single bed in a mixed dorm | **$121** (11 → 13 $82 + 14 → 15 $39; ✅ 27 Nov; all 4 nights $163 if there is no permit) | 9.8 | 🚶 21 min (1.2 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) | [Booking 11 → 13](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Booking 14 → 15](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| ⛰️ Mountain night | **Base Crestones** · 4-bed bunk room, Day 68 → 69 | **$46.68** bed + $49.63 meals | — | 🥾 14.5 km and ~2,100 m up from the trailhead | [Consorcio info](https://chirripo.org/info-util/), after the SINAC permit below |
+| ⭐ **Pick** | **Casa Colibri Chirripó** · single bed in a mixed dorm | **$121** (11 → 13 $82 + 14 → 15 $39; ✅ 27 Nov; all 4 nights $163 if there is no permit) | 9.8 | 🚶 21 min (1.2 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) | [Booking 11 → 13](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Booking 14 → 15](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-16&checkout=2027-02-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⛰️ Mountain night | **Base Crestones** · 4-bed bunk room, Day 70 → 71 | **$46.68** bed + $49.63 meals | — | 🥾 14.5 km and ~2,100 m up from the trailhead | [Consorcio info](https://chirripo.org/info-util/), after the SINAC permit below |
 | Backup | **Casa Mariposa Nature Lodge** · ask for a bed in a shared room | no online price | — | 50 m from the Chirripó trailhead (not routed) | [casamariposachirripo.net](https://casamariposachirripo.net/) (email booking) |
-| Private alt | **Hotel de Montaña El Pelícano** · double room | ❌ sold out for 3–4 nights (27 Nov); 11 → 13 only a $264 suite | not returned | 🚶 9 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.460934,-83.604143&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Private alt | **Hotel de Montaña El Pelícano** · double room | ❌ sold out for 3–4 nights (27 Nov); 11 → 13 only a $264 suite | not returned | 🚶 9 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.460934,-83.604143&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport and permits**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ Permit | **Chirripó admission, SINAC** (reCAPTCHA + SICORE account) | buy before; for Day 68 → 69. ⚠️ **0 places** on every February night (SINAC calendar, 27 Nov): watch for cancellations | $21/day, ≈ **$42** | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
+| ⚠️ Permit | **Chirripó admission, SINAC** (reCAPTCHA + SICORE account) | buy before; for Day 70 → 71. ⚠️ **0 places** on every February night (SINAC calendar, 27 Nov): watch for cancellations | $21/day, ≈ **$42** | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
 | ⚠️ Permit | **Base Crestones** lodging and meals (Consorcio) | emailed after the SINAC admission | $46.68 + $49.63 | [chirripo.org](https://chirripo.org/info-util/) |
-| ⚠️ Entry | Bus ticket out of Costa Rica (proof of onward travel), e.g. **Tica Bus San José → Managua** | buy before Day 66 | $33 online | Tica Bus |
-| In | **Tracopa** · Paso Canoas → San Isidro | **Day 66 08:00** (also 04:20, 11:00, 16:30) | ≈ ₡6,000–6,500 | [Tracopa](https://www.tracopacr.com/) |
+| ⚠️ Entry | Bus ticket out of Costa Rica (proof of onward travel), e.g. **Tica Bus San José → Managua** | buy before Day 68 | $33 online | Tica Bus |
+| In | **Tracopa** · Paso Canoas → San Isidro | **Day 68 08:00** (also 04:20, 11:00, 16:30) | ≈ ₡6,000–6,500 | [Tracopa](https://www.tracopacr.com/) |
 | In | **Hernández Solís** · San Isidro → San Gerardo | **14:30** (also 09:30, 18:15) | ≈ ₡1,000–1,500 | [timetable](https://perezzeledon.com/bus-routes-schedules-perez-zeledon) |
-| Out | **Hernández Solís** San Gerardo → San Isidro, then **Grupo Blanco** → Uvita | **Day 70 06:30** → San Isidro ≈ 07:20; **09:00** → Uvita ≈ 11:00 | ≈ ₡1,000 + ₡2,500 | details in the [Uvita guide](uvita.md) |
+| Out | **Hernández Solís** San Gerardo → San Isidro, then **Grupo Blanco** → Uvita | **Day 72 06:30** → San Isidro ≈ 07:20; **09:00** → Uvita ≈ 11:00 | ≈ ₡1,000 + ₡2,500 | details in the [Uvita guide](uvita.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -69,7 +69,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Boquete → David → Paso Canoas → San Isidro → San Gerardo de Rivas, Day 66
+## 🚌 Getting here: Boquete → David → Paso Canoas → San Isidro → San Gerardo de Rivas, Day 68
 
 | Step | How | Time (local) | Cost | Source |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Stay:** up to 180 days for US passports (CR "first group").
 
 ### ⚠️ Timing vs the 16:00 check-in
-- To climb on Day 67 you must register in San Gerardo **before 16:00 on Day 66**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ≈ 13:00 by Tracopa's estimate, then the 14:30 Hernández Solís, San Gerardo ≈ 15:15), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
-- **The plan since 27 Nov: climb Day 68 → 69.** Arrive Day 66, register on Day 67 with Cloudbridge as the warm-up, descend by noon on Day 69, and take Monday's 06:30 bus to Uvita.
-- ⚠️ **Permits:** SINAC's availability calendar showed **0 overnight places** for every night from 28 Nov to mid-May (1 Jun and 1 Jul showed 20), so the dry season looks sold out. Places return when someone cancels ≥ 15 days ahead (permits can't be moved, only cancelled). Check the calendar often; a permit for Day 67 → 68 also works if you register on arrival day.
+- To climb on Day 69 you must register in San Gerardo **before 16:00 on Day 68**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ≈ 13:00 by Tracopa's estimate, then the 14:30 Hernández Solís, San Gerardo ≈ 15:15), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
+- **The plan since 27 Nov: climb Day 70 → 71.** Arrive Day 68, register on Day 69 with Cloudbridge as the warm-up, descend by noon on Day 71, and take Monday's 06:30 bus to Uvita.
+- ⚠️ **Permits:** SINAC's availability calendar showed **0 overnight places** for every night from 28 Nov to mid-May (1 Jun and 1 Jul showed 20), so the dry season looks sold out. Places return when someone cancels ≥ 15 days ahead (permits can't be moved, only cancelled). Check the calendar often; a permit for Day 69 → 70 also works if you register on arrival day.
 - **No permit:** the days become Cloudbridge ($12), Sendero Los Gigantes (₡2,000) and the hot springs, or the one-day **"Diario"** summit permit (≈ 40 km, ~2,500 m up) if SINAC sells one. Then 2 nights here are enough, and the spare days can move north.
 
 <details><summary>The same leg in the stop notes (other timetable sources)</summary>
@@ -139,7 +139,7 @@ Live-checked on 24 Nov: 2 village nights, Day 63 → 65, with the recommended 10
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBO-Xa6Ym6u4d8FvTWSLsPWlcYMueA4_jCSzIRJH21_evSACwNkwBcSVScmkS8C3jg0RRyxENAY6TYkTsScYUnyri3gqToZashIBxG2NAKoW77jNw5HwXqJHlWfhYXMUFZ8tAiX3inxZk=w640-h400-p-k-no" width="100%" alt="The Base Crestones hut in the páramo"><br><b><a href="https://www.google.com/maps?ftid=0x8fa6b70072b7c863:0x411f793d5bee2237">Base Crestones</a></b> (3,400 m) · $46.68 a night<br>The hut at km 14.5: 4-bed bunk rooms, cold showers, lights out at 20:00.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVMVAsuPcQmNQnQTB2ZvsKRTia3myvtGMj0ivt0UtRohwUsByontR80m8KcJUJ4UxgIklOozYVNpp0czfh0qfB4mE9n_AXdJ1Z4uVPHIs4Se3AT2mjYtZar6g-H2O556SUfDw1=w640-h400-p-k-no" width="100%" alt="A waterfall in Cloudbridge Nature Reserve"><br><b><a href="https://www.google.com/maps?ftid=0x8fa6b545dd89b5cf:0x304767c03c3cdf90">Cloudbridge Nature Reserve</a></b> · $12 · a morning · <a href="https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4721509,-83.5776278&travelmode=driving">🚕 ≈ 8 min</a><br>Self-guided cloud-forest trails to waterfalls, next to the Chirripó trailhead. The warm-up on Day 67.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVMVAsuPcQmNQnQTB2ZvsKRTia3myvtGMj0ivt0UtRohwUsByontR80m8KcJUJ4UxgIklOozYVNpp0czfh0qfB4mE9n_AXdJ1Z4uVPHIs4Se3AT2mjYtZar6g-H2O556SUfDw1=w640-h400-p-k-no" width="100%" alt="A waterfall in Cloudbridge Nature Reserve"><br><b><a href="https://www.google.com/maps?ftid=0x8fa6b545dd89b5cf:0x304767c03c3cdf90">Cloudbridge Nature Reserve</a></b> · $12 · a morning · <a href="https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4721509,-83.5776278&travelmode=driving">🚕 ≈ 8 min</a><br>Self-guided cloud-forest trails to waterfalls, next to the Chirripó trailhead. The warm-up on Day 69.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2v-IvE47jIr6jlaPdmYdP2uTkS5pzh8_pTcMViLDn-czfiKUG10cwXFOLw-COV55GuADpvx8t_9d4L6_kxgaAPinJM0tyq8v0K07vp5NtP2MHivfoorFtIQay3tb5BTQ62cMXio61_R6w=w640-h400-p-k-no" width="100%" alt="A river through moss forest on Sendero Los Gigantes"><br><b><a href="https://www.google.com/maps?ftid=0x8fa14bdeab9250f5:0xd49b929146c0331a">Sendero Los Gigantes</a></b> · ₡2,000 ($4.50) · 6 km loop<br>Up a river through moss forest to a lookout over the Valle de El General.</td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ Live-checked on 24 Nov: 2 village nights, Day 63 → 65, with the recommended 10
 - **Night temperatures at Crestones go near 0 °C** in the dry season; bring a warm layer, gloves, hat and headlamp.
 - **Leave your big bag** at the lodge while you sleep at Crestones (ask when booking).
 
-## 🚌 Leaving: San Gerardo → San Isidro → Uvita, Day 70
+## 🚌 Leaving: San Gerardo → San Isidro → Uvita, Day 72
 
 - With the extra night (27 Nov) you leave the morning after the descent, so no taxi is needed. **Hernández Solís 06:30** (also 11:00 and 16:00; Mon–Sat, ✅ hernandezsolis.com, read 26 Nov) → San Isidro ≈ 07:20.
 - Then **Grupo Blanco 09:00** direct → Uvita ≈ 11:00 (≈ ₡2,500), or the 13:30 Dominical bus + the local bus to Uvita (20 min). Details in the [Uvita guide](uvita.md).

@@ -88,13 +88,13 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Copa and Avianca don't fly from Arequipa.
   - From Lima, Avianca via Bogotá ($254) saves only $20 over Copa's nonstop ($274) and takes 7–8 h instead of 3 h 48 min.
   - So: two tickets, with Copa nonstop LIM → PTY.
-- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to Day 67, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and Day 60 versus $52–62 on the 3rd (24 Nov). On 27 Nov: $36–38 on Day 61, from $39 on Day 60.
+- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to Day 69, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and Day 60 versus $52–62 on the 3rd (24 Nov). On 27 Nov: $36–38 on Day 61, from $39 on Day 60.
 - **Bags:** Sky and JetSMART's cheapest fares are a personal item only; a cabin bag is ≈ $15–30 extra. The Copa economy-basic bag allowance isn't checked yet; read it before buying.
 - **Lima self-transfer (new Jorge Chávez terminal):** you arrive domestic, exit landside, check in at Copa (the counter usually closes 60 min before departure), then exit immigration (no exit tax; it's in the fare).
 
 **Panama entry** (the Tica Bus migration page; the CDC page for yellow fever):
 - passport valid ≥3 months;
-- **proof of onward travel** (carry the MGA → SEA Day 93 itinerary; a refundable onward bus ticket is the safest add-on);
+- **proof of onward travel** (carry the MGA → SEA Day 95 itinerary; a refundable onward bus ticket is the safest add-on);
 - **solvency ≥ $500–1,000** (a card or bank statement);
 - **yellow-fever card, required because you arrive from Peru.** Copa may check all of this at check-in in Lima.
 

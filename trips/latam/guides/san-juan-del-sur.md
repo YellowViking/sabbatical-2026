@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) · [Ometepe](ometepe.md) →
 
-> **Stop 32 · Day 79 → 81 · 2 nights · border crossing**<br>
+> **Stop 33 · Day 81 → 83 · 2 nights · border crossing**<br>
 > 🏞️ Surf town on a horseshoe Pacific bay, with Playa Maderas 20 min north<br>
 > 🛏️ **Hostel SaltWater**, a quiet 6-bed dorm a block from the beach, $25 for 2 nights (Nalu Nalu sold out, 27 Nov)<br>
-> 🚌 **In:** buses from Liberia via the Peñas Blancas border, Day 79 (leave by ~08:00) · **Out:** bus to Rivas and the ferry to Ometepe, Day 81
+> 🚌 **In:** buses from Liberia via the Peñas Blancas border, Day 81 (leave by ~08:00) · **Out:** bus to Rivas and the ferry to Ometepe, Day 83
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S59ePt0-NQslO000JBRfnXJTRHL5-f1HVoYbsxtN4nrVou3k0_FBJI7VUllNcydLTFBYWI8E5ZokPPByFf4kJg3g9Q1YlXjNVx-Mz3Btt19zmhcwhFrk840nIQuEzNing1QpRmXWyTTUyO=w1200-h360-p-k-no" alt="The bay of San Juan del Sur from the hill above town" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of San Juan del Sur: the beds, the market bus stop, the beach and the brewery](img/san-juan-del-sur-map-504959be.jpg)
 
-**In town:** (the map's ★ is Nalu Nalu, now sold out; the pick is **1** SaltWater) · ★ ~~[Nalu Nalu Hostal](https://www.google.com/maps?ftid=0x8f75b5e1ef27a9c5:0x22b324eed8db03b3)** ~~ (sold out Day 79 → 81, [watch](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Hostel SaltWater](https://www.google.com/maps?ftid=0x8f75b442fac2282d:0x424671b5cdf21e7a) (⭐ the pick since 27 Nov, [book](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-24&to=2027-02-26&guests=1)) · **2** [ORÍGENES Guest House](https://www.google.com/maps?ftid=0x8f75b5b6dc377521:0x6fc43e59f23969fc) (private alternative; the private alt Lobolira isn't on Google Maps, [book](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [market bus stop](https://www.google.com/maps?ftid=0x8f75b4424012c647:0x87bd573724e67f42) · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) [🚶 18 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2589739,-85.8758082&travelmode=walking) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84) [🚶 2 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2534245,-85.870146&travelmode=walking)
+**In town:** (the map's ★ is Nalu Nalu, now sold out; the pick is **1** SaltWater) · ★ ~~[Nalu Nalu Hostal](https://www.google.com/maps?ftid=0x8f75b5e1ef27a9c5:0x22b324eed8db03b3)** ~~ (sold out Day 81 → 83, [watch](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-26&checkout=2027-02-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Hostel SaltWater](https://www.google.com/maps?ftid=0x8f75b442fac2282d:0x424671b5cdf21e7a) (⭐ the pick since 27 Nov, [book](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-26&to=2027-02-28&guests=1)) · **2** [ORÍGENES Guest House](https://www.google.com/maps?ftid=0x8f75b5b6dc377521:0x6fc43e59f23969fc) (private alternative; the private alt Lobolira isn't on Google Maps, [book](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-26&checkout=2027-02-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [market bus stop](https://www.google.com/maps?ftid=0x8f75b4424012c647:0x87bd573724e67f42) · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) [🚶 18 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2589739,-85.8758082&travelmode=walking) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84) [🚶 2 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2534245,-85.870146&travelmode=walking)
 
 ![Map of the area: San Juan del Sur and the beaches to the north, Marsella and Maderas](img/san-juan-del-sur-area-map-76eb91a0.jpg)
 
@@ -29,30 +29,30 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 79** | 🚌 Leave Liberia by ~08:00 → **Peñas Blancas** border (lines can take 1–2 h) → Rivas → San Juan del Sur, ≈ 3½–4½ h. Walk 7 min from the market bus stop to the hostel. 🌅 Sunset on the main beach (free). |
-| **Day 80** | 🏄 Coastal walk or shuttle to **Playa Maderas** (20 min north), on to Playa Majagual; Playa Marsella. |
-| **Day 81** | 🚌 Bus to Rivas → San Jorge → ⛴️ ferry to **Ometepe** (see Leaving). |
+| **Day 81** | 🚌 Leave Liberia by ~08:00 → **Peñas Blancas** border (lines can take 1–2 h) → Rivas → San Juan del Sur, ≈ 3½–4½ h. Walk 7 min from the market bus stop to the hostel. 🌅 Sunset on the main beach (free). |
+| **Day 82** | 🏄 Coastal walk or shuttle to **Playa Maderas** (20 min north), on to Playa Majagual; Playa Marsella. |
+| **Day 83** | 🚌 Bus to Rivas → San Jorge → ⛴️ ferry to **Ometepe** (see Leaving). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov (the beds were live-checked again on 25 Nov). ⚠️ = time-sensitive.
 
-**Beds** (Day 79 → 81, 2 nights)
+**Beds** (Day 81 → 83, 2 nights)
 
 | | Where | Total | Location | From the bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** (since 27 Nov) | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite, breakfast | **$25** ✅ 27 Nov | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-24&to=2027-02-26&guests=1) |
-| ~~Pick~~ | ~~**Nalu Nalu Hostal**~~ · ❌ sold out Day 79 → 81 on Booking and Hostelworld (27 Nov; on sale again from Day 86) | — | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking (watch for cancellations)](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-24&to=2027-02-26&guests=1) |
-| Private alt | **Lobolira** · whole 1-bedroom cabin | $44 | 9.6 | 📍 not found on Google Maps (the listing says "3 blocks from the beach") | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&selected_currency=USD) |
+| ⭐ **Pick** (since 27 Nov) | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite, breakfast | **$25** ✅ 27 Nov | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-26&to=2027-02-28&guests=1) |
+| ~~Pick~~ | ~~**Nalu Nalu Hostal**~~ · ❌ sold out Day 81 → 83 on Booking and Hostelworld (27 Nov; on sale again from Day 88) | — | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking (watch for cancellations)](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-26&checkout=2027-02-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-26&to=2027-02-28&guests=1) |
+| Private alt | **Lobolira** · whole 1-bedroom cabin | $44 | 9.6 | 📍 not found on Google Maps (the listing says "3 blocks from the beach") | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-26&checkout=2027-02-28&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport and border**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
 | ⚠️ Before | **Costa Rica exit tax** (BCR, pay online) | any time before the border | **$8** | [bancobcr.com](https://www.bancobcr.com/) |
-| ⚠️ Before | **Nicaragua advance registration** (Migración) | **by Day 72** (≥ 7 days ahead) | free | [solicitudes.migob.gob.ni](https://solicitudes.migob.gob.ni/) |
-| In | Liberia → Peñas Blancas → Rivas → San Juan del Sur, local buses | **Day 79**, leave Liberia by ~08:00; ≈ 3½–4½ h | ≈ $8 + fees | — |
-| Out | San Juan del Sur → Rivas → San Jorge → ferry to Moyogalpa | Day 81 | ≈ $4–5 | [ferry timetable](https://www.ometepeislandinfo.com/) |
+| ⚠️ Before | **Nicaragua advance registration** (Migración) | **by Day 74** (≥ 7 days ahead) | free | [solicitudes.migob.gob.ni](https://solicitudes.migob.gob.ni/) |
+| In | Liberia → Peñas Blancas → Rivas → San Juan del Sur, local buses | **Day 81**, leave Liberia by ~08:00; ≈ 3½–4½ h | ≈ $8 + fees | — |
+| Out | San Juan del Sur → Rivas → San Jorge → ferry to Moyogalpa | Day 83 | ≈ $4–5 | [ferry timetable](https://www.ometepeislandinfo.com/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Liberia → Peñas Blancas → San Juan del Sur, Day 79
+## 🚌 Getting here: Liberia → Peñas Blancas → San Juan del Sur, Day 81
 
 - **Liberia terminal → Peñas Blancas** bus: frequent, ~1–1½ h, ≈ ₡2,000–2,500 / $5 (LP: "frequent public buses… 60–90 min").
 - **Border post open 06:00–24:00** (LP). Walk through both sides.
@@ -80,7 +80,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Nicaragua entry:** US citizens buy a **90-day tourist entry stamp for $10 cash** (exact change); passport valid 6+ months ✅ travel.state.gov Nicaragua page.
   - Land borders add small immigration and municipal ("alcaldía") charges, ≈ $1–4 (traveller reports, Oct–Nov 2026), so budget **≈ $12–14** in total. ✅ The $10 stamp is also on ni.usembassy.gov.
   - Bring small, clean US$ bills.
-- **Online pre-registration ("Solicitud de Ingreso y Egreso Ordenado, Ágil y Seguro"): submit it anyway, by Day 72 (≥ 7 days ahead).**
+- **Online pre-registration ("Solicitud de Ingreso y Egreso Ordenado, Ágil y Seguro"): submit it anyway, by Day 74 (≥ 7 days ahead).**
   - It's free, at solicitudes.migob.gob.ni or by email to solicitudes@mint.gob.ni, with the passport bio page. Keep the confirmation on your phone.
   - The evidence:
     - State Dept says only that "for **non-tourist** visitors the Government of Nicaragua **recommends** that you pre-register" ✅ travel.state.gov.
@@ -93,9 +93,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 Live-checked 25 Nov, chosen for location.
 
-### ~~Pick~~: Nalu Nalu Hostal (❌ sold out Day 79 → 81, 27 Nov)
+### ~~Pick~~: Nalu Nalu Hostal (❌ sold out Day 81 → 83, 27 Nov)
 - **Unit:** standard 6-bed mixed dorm.
-- **Price:** **$18 for 2 nights on Booking** (breakfast included, free cancellation to Day 74, pay at the property) vs $20 on Hostelworld.
+- **Price:** **$18 for 2 nights on Booking** (breakfast included, free cancellation to Day 76, pay at the property) vs $20 on Hostelworld.
 - **Reviews:** Booking **8.2 (231; 5% below 7)**, location **9.6**; HW 8.4 (59; 9.5 % < 7).
 - **Where:** one street from the beach, ~0.1 km from the centre.
 - **Why it fits:** ✅ shared kitchen ("equipped kitchen"), "nice quiet hostel", "definitely isn't a party hostel".
@@ -116,7 +116,7 @@ Live-checked 25 Nov, chosen for location.
 - **Lobolira cabin ("1 bedroom cabin, 3 blocks from beach")**, a whole cabin. **$44 for 2 nights** (room table) on Booking.com.
 - Booking location **9.6** (score 9.4, 32 reviews, 0 % bad).
 - 0.6 km from the centre, on a quiet street.
-- Alternative: **ORÍGENES Guest House** double, location 9.4 (79 reviews, 3 % bad), $60 on [Booking](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD), 0.4 km.
+- Alternative: **ORÍGENES Guest House** double, location 9.4 (79 reviews, 3 % bad), $60 on [Booking](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-26&checkout=2027-02-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD), 0.4 km.
 
 ## 🌳 Things to do (free and outdoors first)
 
@@ -154,7 +154,7 @@ Live-checked 25 Nov, chosen for location.
 - **Decline drug offers** (LP: up to 3 years' prison for 20 g of cannabis).
 - **Money:** ATMs in town take US cards; US$ are widely accepted.
 
-## 🚌 Leaving: San Juan del Sur → Ometepe, Day 81
+## 🚌 Leaving: San Juan del Sur → Ometepe, Day 83
 
 - **Bus to Rivas** (frequent, ~45 min, ≈ C$30–40) → taxi or colectivo 5 km to the **San Jorge** port → **ferry to Moyogalpa** (~70 min). ≈ 3 h, ≈ $4–5 in all.
 - Ferry times, fares and the windy-lake advice are in the [Ometepe](ometepe.md) guide.

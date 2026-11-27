@@ -1,6 +1,6 @@
 # 🇵🇦 Boquete
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Panama City](panama-city.md) · [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Panama City](panama-city.md) · [Bocas del Toro](bocas-del-toro.md) →
 
 > **Stop 26 · Day 63 → 66 · 3 nights · 🎭 Carnaval**<br>
 > 🏞️ Cool coffee-country town in the highlands, below Volcán Barú (3,474 m)<br>
