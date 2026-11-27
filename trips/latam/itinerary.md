@@ -5,7 +5,11 @@
 - ✅ = read on the operator's or property's own site. ≈ = estimate or an aggregator/AI summary.
 - Dates assume the **Alaska business award on Mon 7 Dec** (SEA 09:15 → PHL → MIA → AA905 → Rio Tue 8 Dec 09:25, 60k + $26). Booking a different date shifts everything by the same amount.
 
-Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [latam-route-draft.svg](latam-route-draft.svg).
+Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [interactive route map](https://raw.githubusercontent.com/YellowViking/sabbatical-2026/latam-route-v5/trips/latam/latam-route-draft.svg) (click a stop for its guide) · [alternatives map](https://raw.githubusercontent.com/YellowViking/sabbatical-2026/latam-route-v5/trips/latam/latam-alternatives-map.svg).
+
+[![Route map: Rio → Paraguay → Uruguay → the Andes → Central America, 37 numbered stops](latam-route-draft.svg)](https://raw.githubusercontent.com/YellowViking/sabbatical-2026/latam-route-v5/trips/latam/latam-route-draft.svg)
+
+<sub>🖱️ Click the map to open the interactive version, where each stop opens its guide.</sub>
 
 ## At a glance
 

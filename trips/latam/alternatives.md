@@ -2,9 +2,11 @@
 
 Part of the [LatAm itinerary](itinerary.md). The **route order is fixed** (decided 26 Nov). This page holds the choices that can wait. Each one says when to decide, what to book for each option, and the signs that should tip it.
 
-![Map of the alternatives: the main route faded; Plan B via Florianópolis, B2 via Punta del Diablo, A2 via Salto and option C via Nazca in colour; numbered add-on pins; inset of the Christmas-week corner](latam-alternatives-map.svg)
+[![Map of the alternatives: the main route faded; Plan B via Florianópolis, B2 via Punta del Diablo, A2 via Salto and option C via Nazca in colour; numbered add-on pins; inset of the Christmas-week corner](latam-alternatives-map.svg)](https://raw.githubusercontent.com/YellowViking/sabbatical-2026/latam-route-v5/trips/latam/latam-alternatives-map.svg)
 
-The main route on its own: [latam-route-draft.svg](latam-route-draft.svg).
+<sub>🖱️ Click the map to open the interactive version: every stop, line and pin there opens its guide.</sub>
+
+The main route on its own: [interactive route map](https://raw.githubusercontent.com/YellowViking/sabbatical-2026/latam-route-v5/trips/latam/latam-route-draft.svg).
 
 ## Decided (26 Nov 2026)
 - **Route order:** keep the current one (Brazil → Paraguay/Uruguay → Argentina → Atacama → Bolivia → southern Peru → Panama → Costa Rica → Nicaragua). The Andes-first and reversed orders were re-scored in [route-v5-brainstorm §1](route-v5-brainstorm.md) and not taken.

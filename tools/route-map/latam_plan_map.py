@@ -2,7 +2,8 @@
 #   curl -sLo /tmp/countries.geojson https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson
 #   python3 tools/route-map/latam_plan_map.py /tmp/countries.geojson trips/latam/latam-route-draft.svg
 # Edit S (stops), L (legs by mode) and the Central America inset to redraw the plan.
-import json, math, sys
+# Each stop links to its guide on the latam-route-v5 branch; after merging, set GUIDE_BASE=…/blob/main/trips/latam/ and redraw.
+import json, math, sys, os
 GEO = sys.argv[1]; OUT = sys.argv[2]
 LON0, LON1, LAT0, LAT1 = -95.0, -24.0, -36.5, 19.5
 W = 1000; K = math.cos(math.radians(-8)); SX = W / ((LON1 - LON0) * K); H_MAP = (LAT1 - LAT0) * SX
@@ -50,6 +51,13 @@ S = [
  (37,'Somoto canyon','optional',13.48,-86.58, 0,0,'start'),
 ]
 OPTIONAL = {37}
+# each stop links to its guide when the SVG is opened on its own (GitHub shows embedded SVGs as plain images)
+GUIDE_BASE = os.environ.get('GUIDE_BASE', 'https://github.com/YellowViking/sabbatical-2026/blob/latam-route-v5/trips/latam/')
+GUIDES = dict(enumerate(['rio-de-janeiro','ilha-grande','paraty','sao-paulo','curitiba','foz-do-iguacu','asuncion','encarnacion','montevideo','cabo-polonio','colonia',
+  'cordoba','cafayate','salta','quebrada-de-humahuaca','san-pedro-de-atacama','uyuni-jeep-tour','potosi','sucre','la-paz','copacabana-isla-del-sol','puno','colca-canyon',
+  'arequipa','panama-city','boquete','san-gerardo-de-rivas','uvita','monteverde','la-fortuna','rincon-de-la-vieja','san-juan-del-sur','ometepe','granada','leon','esteli','somoto'], 1))
+def gurl(page): return GUIDE_BASE + page if page.endswith('.md') or '#' in page else GUIDE_BASE + 'guides/' + page + '.md'
+def alink(page, inner): return f'<a href="{gurl(page)}" xlink:href="{gurl(page)}" target="_top">{inner}</a>'
 CA = {s[1] for s in S if s[0] >= 25}
 st = {s[1]: s for s in S}
 FOR, NAT, GOI, POA, CHUY, BA, POS, CDE = (-3.73,-38.52), (-5.79,-35.21), (-6.27,-35.21), (-30.03,-51.23), (-33.69,-53.46), (-34.6,-58.38), (-27.37,-55.9), (-25.51,-54.61)
@@ -132,6 +140,7 @@ CSS = """
   .t-num { font-size: 9.5px; font-weight: 700; } .t-leg { font-size: 12.5px; } .t-note { font-size: 11.5px; }
   .t-country { font-size: 13px; font-weight: 600; letter-spacing: 2px; } .t-list { font-size: 11.5px; }
   .halo { stroke-width: 3.5px; stroke-linejoin: round; paint-order: stroke; }
+  a { cursor: pointer; } a:hover .t-stop, a:hover .t-list, a:hover .t-date, a:hover .t-leg { text-decoration: underline; } a:hover circle { stroke-width: 3.5px; }
 """
 def draw_legs(o, proj, legs, op=1.0):
     for mode,items in legs:
@@ -140,12 +149,13 @@ def draw_legs(o, proj, legs, op=1.0):
         o.append(f'<path class="m-{mode}" d="{d}" fill="none" stroke-width="{c[3]}" stroke-linecap="round" stroke-linejoin="round" opacity="{op}"{dash}><title>{c[4]}</title></path>')
 def draw_stop(o, proj, s, label=True, dates=True, r=8.5):
     n,name,dt,la,lo,dx,dy,anc=s; x,y=proj(la,lo)
-    o.append(f'<g><title>{n}. {name}: {dt}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" class="dot ring" stroke-width="2"/>'
+    g=(f'<g><title>{n}. {name}: {dt} (click for the guide)</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" class="dot ring" stroke-width="2"/>'
              f'<text x="{x:.1f}" y="{y+3.3:.1f}" class="num t-num" text-anchor="middle">{n}</text>'
              + (f'<text x="{x+dx:.1f}" y="{y+dy:.1f}" class="ink t-stop halo" text-anchor="{anc}">{name}'
                 + (f' <tspan class="ink2 t-date">{dt}</tspan>' if dates else '') + '</text>' if label else '') + '</g>')
+    o.append(alink(GUIDES[n], g) if n in GUIDES else g)
 
-o=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif">',
+o=[f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif">',
    '<title>Latin America route v5: Rio → Iguaçu → Paraguay → Uruguay → NW Argentina → Atacama → Bolivia → Peru → Panama → Costa Rica → Nicaragua</title>', f'<style>{CSS}</style>',
    f'<rect width="{W}" height="{H}" class="page"/>', f'<rect x="0" y="{TOP}" width="{W}" height="{H_MAP:.0f}" class="surface"/>',
    f'<clipPath id="map"><rect x="0" y="{TOP}" width="{W}" height="{H_MAP:.0f}"/></clipPath>','<g clip-path="url(#map)">']
@@ -194,7 +204,7 @@ for s_ in S:
         o[-1]=o[-1].replace(f'>{s_[1]}</text>', f'>{short}' + (' (optional)' if s_[0] in OPTIONAL else '') + '</text>')
         if s_[0] in OPTIONAL: o[-1]=o[-1].replace('<g>','<g opacity="0.45">',1)
         if s_[0] == 25: o[-1]=o[-1].replace('>Panama City</text>','>Panama City <tspan class="ink2 t-date">✈ from Lima</tspan></text>')
-x,y=PI(*MGA); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"/><text x="{x+10:.0f}" y="{y-12:.0f}" class="ink2 t-date halo">✈ home from Managua, Thu 4 Mar</text>')
+x,y=PI(*MGA); o.append(alink('flight-home', f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"/><text x="{x+10:.0f}" y="{y-12:.0f}" class="ink2 t-date halo">✈ home from Managua, Thu 4 Mar</text>'))
 
 o.append('</g>')
 # title
@@ -211,9 +221,9 @@ o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Stops (≈ dates)</text>')
 for ci,col in enumerate(cols):
     for ri,s_ in enumerate(col):
         x0=lx+ci*320; y0=ty+20+ri*17
-        o.append(f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{s_[0]}.</tspan> {s_[1]} <tspan class="ink2">{s_[2] or "≈ mid-Feb"}</tspan></text>')
+        o.append(alink(GUIDES[s_[0]], f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{s_[0]}.</tspan> {s_[1]} <tspan class="ink2">{s_[2] or "≈ mid-Feb"}</tspan></text>'))
 o.append(f'<text x="{lx}" y="{ty+20+13*17+10}" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz, ✈ Arequipa → Lima → Panama City and ✈ Panama City → David (Boquete, Carnaval).</text>')
 o.append(f'<text x="{lx}" y="{ty+20+13*17+28}" class="ink2 t-note">Night buses: Curitiba → Foz, Encarnación → Montevideo, Buenos Aires → Córdoba, Córdoba → Tucumán. Only spurs: Cabo Polonio and the Ometepe ferry.</text>')
-o.append(f'<text x="{lx}" y="{ty+20+13*17+46}" class="ink2 t-note">Beds, buses and flights checked live 24–26 Nov (see itinerary.md). Options and add-ons (Plan B Florianópolis, Arequipa → Panama, Somoto…) are in alternatives.md and its map. Nothing booked.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+13*17+46}" class="ink2 t-note">Beds, buses and flights checked live 24–26 Nov (see itinerary.md). Click a stop for its guide. Options and add-ons are in alternatives.md and its map. Nothing booked.</text>')
 o.append('</svg>')
 open(OUT,'w').write('\n'.join(o)); print(OUT, W, H)

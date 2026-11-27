@@ -30,18 +30,22 @@ ADD = [
  (12,'Somoto','Somoto Canyon from Estelí, +1',13.48,-86.58,12,4,'start',True),
  (13,'trek','Monteverde → La Fortuna on foot, +1',10.4,-84.73,12,10,'start',True),
 ]
+ALT_LINK = {'B':'florianopolis','B2':'florianopolis','A2':'encarnacion','C':'huacachina-paracas'}
+ADDONS = 'alternatives.md#3-optional-add-ons-11-spare-days-before-15-mar'
+ADD_LINK = {1:'huacachina-paracas', 2:'teresopolis', 12:'somoto'}
+def addlink(n): return ADD_LINK.get(n, ADDONS)
 def alt_path(o, proj, key, items):
     c,dash,w,_ = ALT[key]; d = path('bus', items, proj)
     o.append(f'<path class="ring" d="{d}" fill="none" stroke-width="{w+3}" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>')
-    o.append(f'<path d="{d}" fill="none" stroke="{c}" stroke-width="{w}" stroke-dasharray="{dash}" stroke-linecap="round" stroke-linejoin="round"><title>{ALT[key][3]}</title></path>')
+    o.append(alink(ALT_LINK[key], f'<path d="{d}" fill="none" stroke="{c}" stroke-width="{w}" stroke-dasharray="{dash}" stroke-linecap="round" stroke-linejoin="round"><title>{ALT[key][3]} (click for the guide)</title></path>'))
 def add_pin(o, proj, a, r=8.5):
     n,lab,txt,la,lo,dx,dy,anc,_ = a; x,y = proj(la,lo)
-    o.append(f'<g><title>{n}. {txt}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="#f9a825" class="ring" stroke-width="2"/>'
+    o.append(alink(addlink(n), f'<g><title>{n}. {txt}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="#f9a825" class="ring" stroke-width="2"/>'
              f'<text x="{x:.1f}" y="{y+3.3:.1f}" class="t-num" fill="#0b0b0b" text-anchor="middle">{n}</text>'
-             f'<text x="{x+dx:.1f}" y="{y+dy:.1f}" class="ink t-date halo" text-anchor="{anc}">{lab}</text></g>')
+             f'<text x="{x+dx:.1f}" y="{y+dy:.1f}" class="ink t-date halo" text-anchor="{anc}">{lab}</text></g>'))
 
 HH = int(TOP + H_MAP + 320)
-o=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {HH}" width="{W}" height="{HH}" font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif">',
+o=[f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {W} {HH}" width="{W}" height="{HH}" font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif">',
    '<title>Latin America v5: alternatives and add-ons</title>', f'<style>{CSS}</style>',
    f'<rect width="{W}" height="{HH}" class="page"/>', f'<rect x="0" y="{TOP}" width="{W}" height="{H_MAP:.0f}" class="surface"/>',
    f'<clipPath id="map"><rect x="0" y="{TOP}" width="{W}" height="{H_MAP:.0f}"/></clipPath>','<g clip-path="url(#map)">']
@@ -52,8 +56,8 @@ o.append('</g>')
 draw_legs(o, P, L, op=0.22)                       # the main route, faded
 for s_ in S:
     if s_[1] in CA: continue
-    x,y=P(*s_[3:5]); o.append(f'<g opacity="0.55"><title>{s_[0]}. {s_[1]}: {s_[2]}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="6" class="dot ring" stroke-width="1.5"/>'
-                              f'<text x="{x:.1f}" y="{y+3:.1f}" class="num" font-size="7.5" font-weight="700" text-anchor="middle">{s_[0]}</text></g>')
+    x,y=P(*s_[3:5]); o.append(alink(GUIDES[s_[0]], f'<g opacity="0.55"><title>{s_[0]}. {s_[1]}: {s_[2]} (click for the guide)</title><circle cx="{x:.1f}" cy="{y:.1f}" r="6" class="dot ring" stroke-width="1.5"/>'
+                              f'<text x="{x:.1f}" y="{y+3:.1f}" class="num" font-size="7.5" font-weight="700" text-anchor="middle">{s_[0]}</text></g>'))
 for key,items in ALT_LEGS: alt_path(o, P, key, items)
 SLON0, SLON1, SLAT0, SLAT1 = -59.6, -47.6, -35.2, -24.9          # the south-east corner, zoomed in an inset
 inSE = lambda la,lo: SLAT0 <= la <= SLAT1 and SLON0 <= lo <= SLON1
@@ -75,14 +79,14 @@ def PSE(lat, lon): return (SX0 + (lon-SLON0)*SK*SSX, SY0 + (SLAT1-lat)*SSX)
 o.append(f'<line x1="{zx0:.0f}" y1="{(zy0+zy1)/2:.0f}" x2="{SX0+SW_+1:.0f}" y2="{SY0+SH_/2:.0f}" class="frame" stroke-width="1" stroke-dasharray="4 3"/>')
 o.append(f'<rect x="{SX0-1}" y="{SY0-30:.0f}" width="{SW_+2}" height="{SH_+31:.0f}" rx="6" class="box" stroke-width="1.2"/>')
 o.append(f'<rect x="{SX0}" y="{SY0:.0f}" width="{SW_}" height="{SH_:.0f}" class="surface"/>')
-o.append(f'<text x="{SX0+10}" y="{SY0-10:.0f}" class="ink t-stop">Christmas week: Paraguay or the coast</text>')
+o.append(alink('alternatives.md#1-christmas-week-paraguay-plan-a-or-florianópolis-plan-b--decide-by--15-dec', f'<text x="{SX0+10}" y="{SY0-10:.0f}" class="ink t-stop">Christmas week: Paraguay or the coast</text>'))
 o.append(f'<clipPath id="se"><rect x="{SX0}" y="{SY0:.0f}" width="{SW_}" height="{SH_:.0f}"/></clipPath><g clip-path="url(#se)">')
 for name,d in land_paths(PSE,(SLON0,SLON1,SLAT0,SLAT1)): o.append(f'<path class="land" d="{d}"><title>{name}</title></path>')
 draw_legs(o, PSE, L, op=0.3)
 for s_ in S:
     if s_[1] in CA or not inSE(*s_[3:5]): continue
-    x,y=PSE(*s_[3:5]); o.append(f'<g opacity="0.6"><title>{s_[0]}. {s_[1]}: {s_[2]}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="6" class="dot ring" stroke-width="1.5"/>'
-                                f'<text x="{x:.1f}" y="{y+3:.1f}" class="num" font-size="7.5" font-weight="700" text-anchor="middle">{s_[0]}</text></g>')
+    x,y=PSE(*s_[3:5]); o.append(alink(GUIDES[s_[0]], f'<g opacity="0.6"><title>{s_[0]}. {s_[1]}: {s_[2]} (click for the guide)</title><circle cx="{x:.1f}" cy="{y:.1f}" r="6" class="dot ring" stroke-width="1.5"/>'
+                                f'<text x="{x:.1f}" y="{y+3:.1f}" class="num" font-size="7.5" font-weight="700" text-anchor="middle">{s_[0]}</text></g>'))
 for key,items in ALT_LEGS: alt_path(o, PSE, key, items)
 for nm,(la,lo),dx,dy,anc in PTS:
     if inSE(la,lo):
@@ -116,18 +120,18 @@ for a in ADD:
 o.append('</g>')
 # title
 o.append(f'<text x="32" y="40" class="ink t-title">Latin America v5: alternatives and add-ons (decide on the road)</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">Faded = the main route (see latam-route-draft.svg) · coloured lines = open options · yellow pins = add-ons for the 11 spare days · details in alternatives.md</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Faded = the main route (see latam-route-draft.svg) · coloured lines = open options · yellow pins = add-ons for the 11 spare days · click any stop, line or pin to open its guide</text>')
 # legend
 ly=TOP+H_MAP+30; lx=32
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">Open options</text>')
 for i,(k,v) in enumerate(ALT.items()):
     y0=ly+22+i*20
-    o.append(f'<line x1="{lx}" y1="{y0}" x2="{lx+44}" y2="{y0}" stroke="{v[0]}" stroke-width="{v[2]}" stroke-dasharray="{v[1]}" stroke-linecap="round"/><text x="{lx+54}" y="{y0+4}" class="ink t-leg">{v[3]}</text>')
+    o.append(alink(ALT_LINK[k], f'<line x1="{lx}" y1="{y0}" x2="{lx+44}" y2="{y0}" stroke="{v[0]}" stroke-width="{v[2]}" stroke-dasharray="{v[1]}" stroke-linecap="round"/><text x="{lx+54}" y="{y0+4}" class="ink t-leg">{v[3]}</text>'))
 ty=ly+22+len(ALT)*20+18
 o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Add-ons (yellow pins; ⭐ = my pick)</text>')
 for i,a in enumerate(ADD):
     col,row=divmod(i,7); x0=lx+col*480; y0=ty+20+row*17
-    o.append(f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{a[0]}.</tspan> {a[2]}</text>')
+    o.append(alink(addlink(a[0]), f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{a[0]}.</tspan> {a[2]}</text>'))
 o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Added to the main route on 26 Nov: a 2nd Potosí night (it took the Copacabana-town night). Decided: keep the route order; no northern Brazil entry.</text>')
 o.append('</svg>')
 OUT=sys.argv[2]; open(OUT,'w').write('\n'.join(o)); print(OUT, W, HH)
