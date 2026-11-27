@@ -54,7 +54,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 |---|---|---|---:|---|
 | ⚠️ In | **Air Panama 7P670** · Albrook (PAC) → David (DAV) | **Day 64 07:15 → 08:00** (also 7P970 16:15 → 17:00; ✅ Air Panama timetable, 27 Nov) | **$67** (24 Nov) | [Air Panama](https://www.airpanama.com/) |
 | In | **Boquete bus** (Coopsemautranchiri ≈) · David terminal → Boquete | every 20–30 min, ≈ 05:00–19:45, ≈ 45–60 min | $1.75–2.00 | on the day |
-| 🎭 Shift | Air Panama Albrook → David **a day late** (Ash Wednesday), with a 3rd Panama City night and 2 Boquete nights. A day early no longer works: the San Blas boat gets back on Day 63 after the last David flight | **Day 65** 07:15 (7P670 Mon–Sat) or 16:15 | ≈ $67 (Day 61 fare, 24 Nov; Day 65 not priced) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMTBqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
+| 🎭 Shift | Air Panama Albrook → David **a day early**, straight from the San Blas drop-off (back ≈ 12:00; ask for Albrook), swapping the 2nd Panama City night for a 4th Boquete night; or **a day late** (Ash Wednesday, quieter), with a 3rd Panama City night and 2 Boquete nights | **Day 63** 16:15 (7P970, daily except Saturday) · **Day 65** 07:15 or 16:15 | ≈ $67 (Day 61 fare, 24 Nov; Day 65 not priced) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMTBqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
 | 🎭 Other airline | Copa CM13 Tocumen → David | Day 64 06:39 → 07:46 (also CM17 07:42, CM28 17:50) | $80 ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDlqBRIDUFRZcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
 | Out | Boquete → David terminal, then on to Costa Rica | **Day 67 05:30** | $1.75–2.00 | on the day; full leg in the [San Gerardo guide](san-gerardo-de-rivas.md) |
 
@@ -111,7 +111,7 @@ All live-checked on 24 Nov. **Carnaval Sat 6 → Tue 9 Feb fills the town, so bo
 
 ### 🎭 Carnaval backups
 - **Another town:** **Penny House** in **David**, a single bed in a mixed dorm, **$41 for 3 nights** on Booking (26 Nov; 81 reviews, none below 7), location 9.4. It's a 17-min walk from David's bus terminal, where the Boquete buses leave (≈ 1 h).
-- **Shifted dates:** fly Air Panama Albrook → David **a day late**, on **Day 65** (Ash Wednesday; 07:15 or 16:15, not priced yet), with a 3rd Panama City night and 2 Boquete nights. Going a day early no longer works since the San Blas swap: the boat gets back to Panama City on Day 63 after the last David flight.
+- **Shifted dates:** either fly Air Panama Albrook → David **a day early**, on **Day 63** at 16:15, straight from the San Blas drop-off (back ≈ 12:00, so ≈ 4 h of slack; skip the late check-out), and swap the 2nd Panama City night for a 4th Boquete night; or fly **a day late**, on **Day 65** (Ash Wednesday, after the Carnaval rush; 07:15 or 16:15), with a 3rd Panama City night and 2 Boquete nights. Neither date is priced yet.
 - **Other airline:** Copa CM13 Tocumen → David, Day 64 06:39 → 07:46 ($80, ✅ 27 Nov).
 
 ## 🌳 Things to do (outdoors first)

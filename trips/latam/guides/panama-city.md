@@ -30,8 +30,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 | Day | Plan |
 |---|---|
 | **Day 61** · 🎭 Carnaval | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo** (it's the city's Carnaval site: crowds; see Good to know). |
-| **Day 62** · 🎭 Carnaval | 🚙 ≈ 05:00 hotel pickup for the **[San Blas](san-blas.md)** 2-day tour (4×4 to Cartí, boat to the islands). Leave the big pack at El Machico and take a small bag. Night on the islands. |
-| **Day 63** · 🎭 Carnaval | Back from San Blas in the afternoon; check back in at El Machico. Evening: Casco Viejo and the Cinta Costera (free). |
+| **Day 62** · 🎭 Carnaval | 🚙 **05:20** hostel pickup for the **[San Blas](san-blas.md)** 2-day tour (4×4 to Cartí, boat to the islands). Leave the big pack at El Machico and take a small bag. Night on the islands. |
+| **Day 63** · 🎭 Carnaval | Back from San Blas **≈ 12:00** (≈ 19:00 with the late check-out); check back in at El Machico. Evening: Casco Viejo and the Cinta Costera (free). |
 | **Day 64** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David, then the bus up to Boquete. **Or** take the 16:15 flight and do the morning here: 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Sat) and a craft beer. |
 
 ## 🔖 Book (one click)

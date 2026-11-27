@@ -9,18 +9,19 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 ## (a) Bottom line
 
-**Plan on about $6.8–7.4k for the trip, and carry about $8.2k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $74–80 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, home Day 94, beds re-priced for the new dates.)*
+**Plan on about $7.0–7.6k for the trip, and carry about $8.5k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $75–81 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, the San Blas island tour, home Day 94, beds re-priced for the new dates.)*
 
 | Item | Amount | Notes |
 |---|---:|---|
-| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.92k** (≈ $43/day) | table (b) |
-| 10% cushion on living | ≈ $0.39k | |
+| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.96k** (≈ $42.5/day) | table (b) |
+| 10% cushion on living | ≈ $0.40k | |
 | **Intercity transport** (buses, ferries, the Sucre → La Paz, Arequipa → Lima → Panama and Panama City → David flights, border fees; + ≈ $80 for the Champaquí buses and remís; the coast route through Brazil into Uruguay is ≈ $40 cheaper than Paraguay's) | ≈ $1.29–1.64k | [route-v5-brainstorm §12/§15](route-v5-brainstorm.md) + the guides |
 | **Uyuni jeep tour** (3 days, 2 nights, meals, park and border fees) | ≈ $0.28–0.30k | [guide](guides/uyuni-jeep-tour.md) |
+| **San Blas island tour** (2 days, 1 night on Perro Chico, meals, 4×4 and boat: $192.85; + ≈ $25 Guna Yala and island fees in cash) | ≈ $0.22k | [guide](guides/san-blas.md); the Cayos Holandeses 3D/2N upgrade is $319.93 (+ ≈ $127 and +1 day) |
 | Sights and park fees (core) | ≈ $0.43k | list (c), plus Cerro Toco ($83) and the Somoto tour ($30), now in the plan |
 | Admin: Brazil e-visa ($80.90), travel insurance, eSIMs | ≈ $0.29–0.43k | |
 | Route-change reserve | ≈ $0.15–0.25k | |
-| **Expected spend** | **≈ $6.8–7.4k** | |
+| **Expected spend** | **≈ $7.0–7.6k** | |
 | Optional adventure extras | + $0.22–0.33k | Death Road $85 or Pico Austria ≈ $100, El Hoyo ≈ $70, Concepción guide $25–40, Cerro Negro ≈ $35 |
 | **Private-room buffer** | + ≈ $1.0k | Every guide names a location-first private room. Privates cost 2–4× a dorm in Rio, Uruguay, Panama and Costa Rica, but only $5–15 more a night in Bolivia, Peru and Nicaragua. $1k covers privates on roughly 40% of nights |
 | Using the 4 spare days left before 15 Mar | + ≈ $0.17k | at ≈ $43/day living |
@@ -30,22 +31,22 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 - **Home:** Managua → Seattle, Alaska economy, 25,000 points + $94. Cash is $417.
 - **Points total:** 85,000 Alaska points. The cash totals above include only the $120 in award taxes.
 
-## (b) Living cost by region (dorm picks, 91 nights + the flight day)
+## (b) Living cost by region (dorm picks, Day 1 → 94)
 
 | Region | Dates | Days | Beds (actual picks) | Food / day | 2 beers / day | Local + small / day | Subtotal | Note |
 |---|---|---:|---:|---:|---:|---:|---:|---|
 | Brazil (Rio → Foz) | Day 1 → 14 | 13 | $180 | $17 | $6.0 | $5.5 | **$550** | 12 bed nights + 1 night bus; picks $13–49 |
 | Brazil's south coast | Day 14 → 19 | 5 | $52 | $17 | $6.0 | $5.5 | **$195** | Night bus from Foz; Florianópolis (Pequi $31) and Porto Alegre over Christmas (Nick Hostel $21) |
 | Uruguay | Day 19 → 25 | 6 | $146 | $22 | $9.0 | $6.5 | **$371** | Day 19 on the night bus to Chuí; Punta del Diablo $26, Cabo Polonio $70, New Year at MedioMundo $50 (no surcharge) |
-| Argentina | Day 25 → 41 | 15 | $257 | $17 | $6.6 | $4 | **$671** | 2 night buses; Los Gigantes refugio ≈ $15/night and the Champaquí refuge ≈ $30 assumed (prices on request) + La Resolana $22; Iruya private $37 (no dorms) |
+| Argentina | Day 25 → 41 | 16 | $257 | $17 | $6.6 | $4 | **$699** | 2 night buses; Los Gigantes refugio ≈ $15/night and the Champaquí refuge ≈ $30 assumed (prices on request) + La Resolana $22; Iruya private $37 (no dorms) |
 | Chile (San Pedro) | Day 41 → 45 | 4 | $73 | $24 | $9.5 | $7.5 | **$237** | desert-town markup; buy staples in Salta |
 | Uyuni jeep tour | Day 45 → 47 | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
 | Bolivia | Day 47 → 56 | 9 | $128 | $9 | $3.7 | $3 | **$269** | Potosí 2 nights ($57), Isla del Sol 1 night; La Paz pick now $36 (+$16, 27 Nov) |
-| Peru | 1 → 6 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | Puno is in Candelaria week: book Kantaya early |
-| Panama | 6 → 11 Feb | 5 | $138 | $17 | $5.0 | $5.5 | **$276** | Carnaval in both stops; ONDA Boquete $99.76 on Agoda |
-| Costa Rica | Day 67 → 80 | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
+| Peru | Day 56 → 61 | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | Puno is in Candelaria week: book Kantaya early |
+| Panama | Day 61 → 67 | 6 | $138 | $17 | $5.0 | $5.5 | **$286** | Carnaval in all three stops; El Machico $19 × 2, ONDA Boquete $99.76 on Agoda; the San Blas night and its meals are in the tour (above), so food counts 5 days |
+| Costa Rica | Day 67 → 80 | 13 | $287 | $22 | $7.5 | $7 | **$762** | San Gerardo 3 village nights $124 + ≈ $45 Base Crestones bunk (if a permit appears) |
 | Nicaragua | Day 80 → 94 | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
-| **Total** | | **91** | **$1,512** (≈ $17/night) | **$1,434** | **$532** | **$438** | **≈ $3,915** (≈ $43/day) | |
+| **Total** | | **93** | **$1,515** (≈ $16/night) | **$1,451** | **$543** | **$447** | **≈ $3,956** (≈ $42.5/day) | |
 
 - **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
 - **26 Nov changes (net +$8 in beds, +1 day):** Iruya added (+$37), San Pedro down to 3 nights (−$19), Granada split with a Laguna de Apoyo night (+$4), Estelí added (+$14), and the Managua airport night is a $17 homestay instead of ≈ $45 (−$28).
