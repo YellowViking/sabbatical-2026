@@ -13,9 +13,9 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 | Item | Amount | Notes |
 |---|---:|---|
-| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.90k** (≈ $43/day) | table (b) |
+| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.92k** (≈ $43/day) | table (b) |
 | 10% cushion on living | ≈ $0.39k | |
-| **Intercity transport** (buses, ferries, the Sucre → La Paz, Arequipa → Lima → Panama and Panama City → David flights, border fees; + ≈ $80 for the Champaquí buses and remís) | ≈ $1.33–1.68k | [route-v5-brainstorm §12/§15](route-v5-brainstorm.md) + the guides |
+| **Intercity transport** (buses, ferries, the Sucre → La Paz, Arequipa → Lima → Panama and Panama City → David flights, border fees; + ≈ $80 for the Champaquí buses and remís; the coast route through Brazil into Uruguay is ≈ $40 cheaper than Paraguay's) | ≈ $1.29–1.64k | [route-v5-brainstorm §12/§15](route-v5-brainstorm.md) + the guides |
 | **Uyuni jeep tour** (3 days, 2 nights, meals, park and border fees) | ≈ $0.28–0.30k | [guide](guides/uyuni-jeep-tour.md) |
 | Sights and park fees (core) | ≈ $0.43k | list (c), plus Cerro Toco ($83) and the Somoto tour ($30), now in the plan |
 | Admin: Brazil e-visa ($80.90), travel insurance, eSIMs | ≈ $0.29–0.43k | |
@@ -35,8 +35,8 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | Region | Dates | Days | Beds (actual picks) | Food / day | 2 beers / day | Local + small / day | Subtotal | Note |
 |---|---|---:|---:|---:|---:|---:|---:|---|
 | Brazil (Rio → Foz) | Day 1 → 14 | 13 | $180 | $17 | $6.0 | $5.5 | **$550** | 12 bed nights + 1 night bus; picks $13–49 |
-| Paraguay | Day 14 → 19 | 5 | $94 | $11.5 | $3.7 | $3 | **$185** | Encarnación is a whole flat ($76) because the hostels are full |
-| Uruguay | Day 19 → 25 | 6 | $145 | $22 | $9.0 | $6.5 | **$370** | Day 19 on the bus; no NYE surcharge at MedioMundo |
+| Brazil's south coast | Day 14 → 19 | 5 | $52 | $17 | $6.0 | $5.5 | **$195** | Night bus from Foz; Florianópolis (Pequi $31) and Porto Alegre over Christmas (Nick Hostel $21) |
+| Uruguay | Day 19 → 25 | 6 | $146 | $22 | $9.0 | $6.5 | **$371** | Day 19 on the night bus to Chuí; Punta del Diablo $26, Cabo Polonio $70, New Year at MedioMundo $50 (no surcharge) |
 | Argentina | Day 25 → 41 | 15 | $257 | $17 | $6.6 | $4 | **$671** | 2 night buses; Los Gigantes refugio ≈ $15/night and the Champaquí refuge ≈ $30 assumed (prices on request) + La Resolana $22; Iruya private $37 (no dorms) |
 | Chile (San Pedro) | Day 41 → 45 | 4 | $73 | $24 | $9.5 | $7.5 | **$237** | desert-town markup; buy staples in Salta |
 | Uyuni jeep tour | Day 45 → 47 | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
@@ -45,7 +45,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | Panama | 6 → 11 Feb | 5 | $138 | $17 | $5.0 | $5.5 | **$276** | Carnaval in both stops; ONDA Boquete $99.76 on Agoda |
 | Costa Rica | Day 66 → 79 | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
 | Nicaragua | Day 79 → 93 | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
-| **Total** | | **91** | **$1,553** (≈ $17/night) | **$1,406** | **$520** | **$425** | **≈ $3,904** (≈ $43/day) | |
+| **Total** | | **91** | **$1,512** (≈ $17/night) | **$1,434** | **$532** | **$438** | **≈ $3,915** (≈ $43/day) | |
 
 - **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
 - **26 Nov changes (net +$8 in beds, +1 day):** Iruya added (+$37), San Pedro down to 3 nights (−$19), Granada split with a Laguna de Apoyo night (+$4), Estelí added (+$14), and the Managua airport night is a $17 homestay instead of ≈ $45 (−$28).

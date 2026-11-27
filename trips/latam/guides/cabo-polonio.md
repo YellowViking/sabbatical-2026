@@ -1,11 +1,11 @@
 # 🇺🇾 Cabo Polonio
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Montevideo](montevideo.md) · [Colonia stopover → Buenos Aires → Córdoba](colonia.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Punta del Diablo](punta-del-diablo.md) · [Montevideo](montevideo.md) →
 
 > **Stop 10 · Day 21 → 23 · 2 nights · New Year week (peak)**<br>
 > 🏞️ An off-grid village on a cape inside a national park: sea lions, a lighthouse and big moving dunes<br>
 > 🛏️ **Hostel Albatros**, a bed in a 6-bed dorm, $70 for 2 nights<br>
-> 🚌 **In:** Rutas del Sol from Montevideo, Day 21 10:10, then the 4x4 truck · **Out:** truck 14:00 + Rutas del Sol 15:10, Day 23
+> 🚌 **In:** from Punta del Diablo via Rocha (Rutas del Sol 09:20, then 13:30 → the gate 14:30), then the 4x4 truck · **Out:** truck 14:00 + Rutas del Sol 15:10, Day 23
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RxlS4fXkx-a3Th1xH2DxCVd_oJnOLqYRhHgXMN8-sh8cNxlcYQSL7tDbznqAN7M8sEVBqTjXPV_OUlpKyjsu5U_IWjw9M42izYEA6BbHKMyAhKRm4zoSqdOLUw76QpULOrVkZg=w1200-h360-p-k-no" alt="The Cabo Polonio lighthouse above the granite rocks of the cape" width="100%">
 
@@ -29,7 +29,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Day 21** | 🚌 10:10 Rutas del Sol from Tres Cruces, gate 14:30, then the 4x4 truck (≈ 20 min). Walk 3 min to the hostel. 🦭 **Sea-lion colony** below the lighthouse. 🌅 Sunset at Playa Sur / La Calavera, then ✨ stargazing. |
+| **Day 21** | 🚌 Rutas del Sol 09:20 Punta del Diablo → Rocha 11:00, then 13:30 Rocha → the Cabo Polonio gate 14:30 (the Montevideo bus), then the 4x4 truck (≈ 20 min). Walk 3 min to the hostel. 🦭 **Sea-lion colony** below the lighthouse. 🌅 Sunset at Playa Sur / La Calavera, then ✨ stargazing. |
 | **Day 22** | 🥾 Early: **dune walk to Barra de Valizas** and back (≈ 2–3 h each way). Afternoon: 🏖️ swim at Playa Sur; climb the lighthouse. |
 | **Day 23** | 🚚 Truck 14:00 → 🚌 **Rutas del Sol 15:10 → Tres Cruces 20:10**, for New Year in [Montevideo](montevideo.md). |
 
@@ -50,7 +50,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Rutas del Sol** · Tres Cruces → Cabo Polonio gate (via San Carlos, Rocha, La Paloma) | **Day 21 10:10 → 14:30** | UYU 1,003 ≈ **$25** | [Rutas del Sol](https://www.rutasdelsol.com.uy/) or the Tres Cruces counter |
+| In | **Rutas del Sol** · Punta del Diablo → Rocha, then the Montevideo → Cabo Polonio bus from Rocha to the gate | **Day 21 09:20 → 11:00**, then **13:30 → 14:30** (winter timetable; recheck mid-December) | ≈ UYU 300–400 ≈ (not published) | [Rutas del Sol](https://www.rutasdelsol.com.uy/) · details in the [Punta del Diablo guide](punta-del-diablo.md) |
 | In | **4x4 truck** · Puerta del Polonio gate → village | ≈ 20 min | UYU 470 return ≈ **$12** | Pay at the gate (cash or debit) |
 | Out | Truck 14:00 → **Rutas del Sol** · Cabo Polonio → Tres Cruces | **Day 23 15:10 → 20:10** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
 
@@ -63,19 +63,13 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Montevideo → Cabo Polonio, Day 21
+## 🚌 Getting here: Punta del Diablo → Cabo Polonio, Day 21
 
-<img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T48W1l1Qqbg4hO_Ps7wjOCyhO-S0Bxo9PkrrlLrSsr2rlTHT1nJMLYTkNnyb6UmTPH1y8Vs0DcH59gRQ1asYZ5UobqKq5Hip3PadRDtEWIaq0Xurk1rzWchRYStmVNF1t9IL9hYIVIWUFG=w640-h400-p-k-no" width="50%" alt="One of the open-top 4x4 trucks at the Puerta del Polonio gate">
-
-<sub>A 4x4 truck at the Puerta del Polonio gate. Photo: Google Maps.</sub>
-
-- **Rutas del Sol 10:10 Tres Cruces → 14:30 Cabo Polonio gate** (via San Carlos, Rocha, La Paloma).
-- **UYU 1,003 ≈ $25.** Tres Cruces counter or rutasdelsol.com.uy.
-- ✅ Operator timetable and fare table, but only the **winter 2026** timetable is online; summer adds buses, so recheck in mid-December.
-- COT's La Pedrera line doesn't stop at Cabo Polonio.
-- **Peak-week tip:** on busy dates a company may run several buses at the same hour and print a bus number on your ticket, so check it before boarding (LP).
-- Then the **4x4 truck** from the Puerta del Polonio gate into the village: ≈ 20 min, **UYU 470 return ≈ $12**, park entry free, pay at the gate (cash or debit). ✅ Portal del Cabo.
-- No tents or pets are allowed in the national park.
+There's no direct bus; change at **Rocha** onto the Montevideo → Cabo Polonio line (the full leg, with sources, is in the [Punta del Diablo guide](punta-del-diablo.md#-leaving-punta-del-diablo--cabo-polonio-day-21)):
+1. 🚌 **Rutas del Sol 09:20** Punta del Diablo → **Rocha 11:00** (or Cynsa 11:30 → 13:00).
+2. 🚌 **Rutas del Sol 13:30** Rocha → La Paloma → La Pedrera → **Cabo Polonio gate 14:30** (Puerta del Polonio, Ruta 10 km 264.5).
+3. 🚚 **4x4 truck** into the village, ≈ 20 min, **UYU 470 return** (pay at the gate; cash or debit).
+- ⚠️ These are the **winter 2026** times; the summer timetable usually starts around 19 December and may add a coastal run. Recheck in mid-December.
 
 ## 🛏️ Where to sleep
 
@@ -146,7 +140,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <table>
 <tr>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bu%C3%B1uelos_de_algas.jpg/500px-Bu%C3%B1uelos_de_algas.jpg" width="100%" alt="Buñuelos de algas, seaweed fritters, with lemon"><br><b>Buñuelos de algas</b> · ≈ UYU 250–350 ($6–9) ≈ (lead)<br>The local seaweed fritters, from a beach stand; LP's pick is Lo de Dany by the truck stop (LP). Generic photo.</td>
-<td width="50%" valign="top"><b>Cook: bring 2 days of groceries from Montevideo</b><br>Tienda Inglesa or Disco. The village almacenes are small and dear, and restaurants charge resort prices (≈ UYU 800–1,200 ≈ $20–30 a main).</td>
+<td width="50%" valign="top"><b>Cook: bring 2 days of groceries from Rocha or Punta del Diablo</b><br>Rocha's supermarkets are by the bus change. The village almacenes are small and dear, and restaurants charge resort prices (≈ UYU 800–1,200 ≈ $20–30 a main).</td>
 </tr>
 </table>
 
