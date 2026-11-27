@@ -5,7 +5,7 @@
 
 **Assumptions** (user, 27 Nov 2026):
 - About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there"). Home ≈ **Day 172**, from Tashkent.
-- Entering China on a US passport with a Chinese visa.
+- Entering China on a US passport with a **10-year Q2 visa 探亲签证** (family visit).
 - **Yunnan 云南, Guilin 桂林, Sichuan 四川 and Chongqing 重庆 already visited**, so they're left out. Central Asia is all new.
 
 [![China + Central Asia 2027 draft route map](china-route-draft.svg)](china-route-draft.svg)
@@ -54,8 +54,8 @@
 | Day 48 → 49 | Urumqi 乌鲁木齐 (transit) | 1 | 23/11 °C · 23% wet |
 | Day 49 → 54 | Kashgar 喀什 | 5 | 28/14 °C · 8% wet |
 | Day 54 → 58 | Tashkurgan 塔什库尔干 + Karakul Lake 喀拉库勒湖 on the Karakoram Highway 中巴公路 | 4 | 13/3 °C · 26% wet |
-| | ***🌍 China visa reset*** | | |
-| Day 58 → 64 | 🇰🇬 Osh + Alay valley, over the Irkeshtam pass 伊尔克什坦口岸 | 6 | — |
+| | ***🧭 Flexible*** | | |
+| Day 58 → 64 | **6 flexible days:** a family visit (the Q2 is a family-visit visa), or more time where the weather is best. Where depends on where your family lives | 6 | — |
 | | ***🌾 Far north*** | | |
 | Day 64 → 71 | Hulunbuir 呼伦贝尔: Hailar 海拉尔, Enhe 恩和, Shiwei 室韦 | 7 | 20/6 °C · 21% wet |
 | Day 71 → 74 | Arxan 阿尔山 | 3 | 19/8 °C · 51% wet |
@@ -170,16 +170,19 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 
 ## Visas and border crossings
 
-**China (US 10-year L visa):** **60 or 90 days per stay**; check *Duration of each stay* printed on the visa. Each exit and re-entry starts a new stay.
-- Stay 1 is Day 1 → 58. The Osh trip over the Irkeshtam pass 伊尔克什坦口岸 resets the clock.
-- Stay 2 is Day 64 → 118, ending at Khorgos 霍尔果斯口岸 (55 days). That works for both 60- and 90-day stays.
+**China: 10-year Q2 visa 探亲签证 (user, 27 Nov 2026).**
+- US citizens' 10-year Q2 visas usually allow **120 days per entry**; some are issued with 180. Confirm the figure printed under *Duration of each stay* 入境后可停留.
+- The count starts on the day after entry ✅ [Chinese Consulate-General in San Francisco, FAQ](https://sanfrancisco.china-consulate.gov.cn/lsfw/qianzhen/zgqz/201502/t20150212_10389353.htm).
+- **The whole China part is one stay:** Day 1 → 118, leaving at Khorgos 霍尔果斯口岸. That's 117 days after the entry day, inside 120, so **no mid-trip exit is needed**. The May trip to Osh is gone, and its 6 days became flexible days (Day 58 → 64).
+- **Buffer:** a local police exit-entry office 公安机关出入境管理部门 can extend the stay. Extensions may add up to the visa's own stay length (120 days) in total ✅ [National Immigration Administration reply on a 120-day Q2](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=Dsq799Zl%2BmJ2BIahe95J%2BA%3D%3D), Sep 2023.
+- A Q2 is issued for visiting relatives, so a family visit in the flexible days also matches the visa's purpose if the border officer asks.
 
 **Central Asia (US passport):**
 
 | Country | Rule | Days in the plan | Source |
 |---|---|---|---|
 | 🇰🇿 Kazakhstan | Visa-free up to 30 days per visit, 90 in any 180. **From 1 July 2027 every foreigner also needs a QazETA** e-travel authorization: free, apply ≥ 72 h ahead on qazeta.kz or its app, valid 180 days, multiple entry; without it you're refused entry | 8 (Day 118 → 126); the entry falls after 1 July, so QazETA is required | ✅ US Embassy Kazakhstan ([visa-free](https://kz.usembassy.gov/visa-free-travel-to-kazakhstan/), [QazETA](https://kz.usembassy.gov/services/electronic-travel-authorization-qazeta/)), read 27 Nov |
-| 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60**; overstays need a fine and an exit visa | 6 in May (Day 58 → 64) and 18 in August (Day 126 → 144). The two visits are more than 60 days apart | ✅ [US Embassy Bishkek](https://kg.usembassy.gov/traveling-to-the-kyrgyz-republic/), updated 8 Jan 2026 |
+| 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60**; overstays need a fine and an exit visa | 18 (Day 126 → 144) | ✅ [US Embassy Bishkek](https://kg.usembassy.gov/traveling-to-the-kyrgyz-republic/), updated 8 Jan 2026 |
 | 🇹🇯 Tajikistan | Visa-free up to 30 days. **The Pamir (GBAO) needs a permit: $20, single entry, on a fixed entry date**, applied for on evisa.tj (the form has a "GBAO Permit" option and lists the United States) | 18 (Day 144 → 162) | ✅ travel.state.gov; ✅ [evisa.tj](https://www.evisa.tj/#/help) FAQ, read 27 Nov |
 | 🇺🇿 Uzbekistan | Visa-free up to 30 days since 1 Jan 2026 | 10 (Day 162 → 172) | ✅ gov.uz |
 
@@ -196,7 +199,7 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 
 | Crossing | Status | Source |
 |---|---|---|
-| Irkeshtam 伊尔克什坦口岸 (Kashgar ↔ Osh), Day 58 and Day 64 | Open to foreign travellers. **Weekdays only** (about 09:00–11:00 and 14:00–18:00), and closed on Chinese and Kyrgyz public holidays. Day 58 and Day 64 fall on a Wednesday and a Tuesday at the current dates, with no holiday; keep both on weekdays if the plan slides | ✅ Xinjiang border inspection station's holiday-closure notices 新疆边检总站 (Sep 2026); hours from Caravanistan (Jul 2026; lead) |
+| Irkeshtam 伊尔克什坦口岸 (Kashgar ↔ Osh) | **No longer needed** with the Q2 visa; kept as an option for a Kyrgyz side trip from Kashgar. Open to foreign travellers on **weekdays only** (about 09:00–11:00 and 14:00–18:00), closed on Chinese and Kyrgyz public holidays | ✅ Xinjiang border inspection station's holiday-closure notices 新疆边检总站 (Sep 2026); hours from Caravanistan (Jul 2026; lead) |
 | Khorgos 霍尔果斯口岸 (Ili → Almaty), Day 118 | Passenger crossing in daily use: 977,000 travellers in Jan–Oct 2026. Buses Yining 伊宁 ↔ Almaty Sayran terminal | ✅ Chinese customs figures via the press; bus times from traveller reports (lead) |
 | Kegen / Karkara (Kazakhstan → Karakol), Day 126 | Open all year, 24/7 since 2025 (it used to be May–Oct only) | Caravanistan, Oct 2026, and a Sep 2026 traveller report (lead) |
 | Kyzyl-Art (Kyrgyzstan → Tajikistan on the Pamir Highway), Day 144 | Open to foreigners; no special permit for the crossing itself (you still need the GBAO permit) | Caravanistan forum, Mar 2026; Pamir guides, Oct 2026 (lead) |
@@ -222,7 +225,7 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 
 ## Next steps
 
-1. Check the visa's *Duration of each stay* (60 or 90 days).
+1. Confirm the Q2 visa's *Duration of each stay* 入境后可停留 (usually 120 days), and decide where the 6 flexible days go.
 2. Before Kazakhstan: QazETA (free, ≥ 72 h ahead). Before Tajikistan: the GBAO permit on evisa.tj ($20, fixed entry date).
 3. Beds stop by stop, live-checked (Trip.com, Booking, Agoda, own sites), plus each stop's hikes.
 4. Train legs on 12306 / Trip.com, the Kashgar → Hailar and Arxan → Urumqi flights, and transport for the Pamir.

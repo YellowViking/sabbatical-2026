@@ -29,8 +29,7 @@ S = [
  (16,'Urumqi 乌鲁木齐','Urumqi 乌鲁木齐 (twice; Tianchi 天山天池)','48–49 · 80–83',43.80,87.60, 12,-6,'start',0),
  (17,'Kashgar 喀什','Kashgar 喀什','49–54',39.47,75.99, 12,4,'start',0),
  (18,'Tashkurgan 塔什库尔干','Tashkurgan 塔什库尔干 + Karakul 喀拉库勒湖','54–58',37.77,75.23, 12,6,'start',0),
- (19,'Osh (May)','🇰🇬 Osh: China visa reset (Irkeshtam)','58–64',40.66,73.05, 0,-13,'middle',0),
- (20,'Hulunbuir 呼伦贝尔','Hulunbuir 呼伦贝尔: Hailar, Enhe, Shiwei','64–71',49.21,119.74, -12,4,'end',0),
+  (20,'Hulunbuir 呼伦贝尔','Hulunbuir 呼伦贝尔: Hailar, Enhe, Shiwei','64–71',49.21,119.74, -12,4,'end',0),
  (21,'Arxan 阿尔山','Arxan 阿尔山','71–74',47.17,119.94, -12,6,'end',0),
  (22,'Changbaishan 长白山','Harbin 哈尔滨 + Changbaishan 长白山 (opt.)','74–80',42.40,128.10, -12,18,'end',1),
  (23,'Kanas 喀纳斯 · Hemu 禾木','Kanas 喀纳斯, Hemu 禾木, Baihaba 白哈巴','83–92',48.70,87.02, 12,4,'start',0),
@@ -54,6 +53,7 @@ S = [
  (41,'Tashkent','Tashkent → ✈ home','170–172',41.30,69.24, 12,-4,'start',0),
 ]
 st = {s[0]: s for s in S}
+DISP = {s[0]: i for i, s in enumerate(S, 1)}   # display numbers (internal ids keep gaps)
 # waypoints (not stops)
 HARBIN, LIUYUAN, KASH = (45.75,126.65), (41.11,95.38), None
 IRK, KHORGOS, KEGEN, KYZYLART, SARAZM = (39.70,73.92), (44.20,80.40), (42.95,79.10), (39.37,73.37), (39.50,67.45)
@@ -61,7 +61,7 @@ SARYTASH, KALAIKHUMB, PENJ, ALTAY, KUITUN = (39.73,73.25), (38.45,70.79), (39.50
 NALATI, ZHAOSU, SAYRAM = (43.30,84.00), (43.15,81.13), (44.60,81.20)
 L = [
  ('train',[1,2,3,4,5,6,7]), ('train',[7,8,9,10,11,12,13,14,LIUYUAN,15,16]), ('train',[16,17]),
- ('bus',[17,18,17]), ('bus',[17,IRK,19]), ('bus',[19,IRK,17]),
+ ('bus',[17,18,17]),
  ('flight',[17,20]), ('train',[20,21]),
  ('flight',[21,16]),
  ('train',[16,ALTAY]), ('bus',[ALTAY,23]), ('bus',[23,KUITUN]), ('train',[KUITUN,24]),
@@ -130,12 +130,12 @@ def draw_legs(o, proj, legs, op=1.0):
 def draw_stop(o, proj, s, r=8.5):
     n,lab,full,days,la,lo,dx,dy,anc,opt=s; x,y=proj(la,lo)
     fade = ' opacity="0.5"' if opt else ''
-    o.append(f'<g{fade}><title>{n}. {full}: Day {days}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" class="dot ring" stroke-width="2"/>'
-             f'<text x="{x:.1f}" y="{y+3.3:.1f}" class="num t-num" text-anchor="middle">{n}</text>'
+    o.append(f'<g{fade}><title>{DISP[n]}. {full}: Day {days}</title><circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" class="dot ring" stroke-width="2"/>'
+             f'<text x="{x:.1f}" y="{y+3.3:.1f}" class="num t-num" text-anchor="middle">{DISP[n]}</text>'
              f'<text x="{x+dx:.1f}" y="{y+dy:.1f}" class="ink t-stop halo" text-anchor="{anc}">{lab}</text></g>')
 
 FONT = "system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif"
-CA = {19} | set(range(25, 42))                 # stops outside China: small dots on the main map, full detail in the panel
+CA = set(range(25, 42))                 # stops outside China: small dots on the main map, full detail in the panel
 PANEL_CN = {17, 18, 24}                          # Chinese stops repeated in the Central Asia panel
 # Central Asia panel (below the main map)
 ILON0, ILON1, ILAT0, ILAT1 = 59.6, 81.9, 36.3, 45.1
@@ -162,7 +162,7 @@ def season(proj, items):
     for txt,la,lo in items:
         x,y=proj(la,lo); o.append(f'<text x="{x:.0f}" y="{y:.0f}" class="ink2 t-season halo" text-anchor="middle">{txt}</text>')
 def crossings(proj, small=False):
-    for nm,(la,lo),lab,dx,dy,anc in [('Irkeshtam 伊尔克什坦口岸 (weekdays only)',IRK,'Irkeshtam',9,4,'start'),('Khorgos 霍尔果斯口岸',KHORGOS,'Khorgos 霍尔果斯',0,-10,'middle'),
+    for nm,(la,lo),lab,dx,dy,anc in [('Khorgos 霍尔果斯口岸',KHORGOS,'Khorgos 霍尔果斯',0,-10,'middle'),
                                   ('Kegen / Karkara',KEGEN,'Kegen',9,4,'start'),('Kyzyl-Art pass',KYZYLART,'Kyzyl-Art',-9,4,'end'),('Penjikent → Samarkand (Sarazm / Jartepa)',SARAZM,'',0,0,'start')]:
         x,y=proj(la,lo); r=3.5 if small else 4.5
         o.append(f'<g><title>Border crossing: {nm}</title><rect x="{x-r:.1f}" y="{y-r:.1f}" width="{2*r}" height="{2*r}" transform="rotate(45 {x:.1f} {y:.1f})" class="xing" stroke-width="1.5"/>'
@@ -180,7 +180,7 @@ draw_legs(o, P, L_OPT, op=0.45); draw_legs(o, P, SPURS, op=0.6); draw_legs(o, P,
 crossings(P, small=True)
 for s_ in S:
     if s_[0] in CA:
-        x,y=P(*s_[4:6]); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>{s_[0]}. {s_[2]}: Day {s_[3]}</title></circle>')
+        x,y=P(*s_[4:6]); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>{DISP[s_[0]]}. {s_[2]}: Day {s_[3]}</title></circle>')
     else: draw_stop(o, P, s_)
 x,y=P(*HARBIN); o.append(f'<g opacity="0.5"><circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"/><text x="{x+8:.0f}" y="{y+4:.0f}" class="ink2 t-date halo">Harbin 哈尔滨</text></g>')
 bx,by=P(*coords(1)); sx,sy=P(33.2,131.2)
@@ -188,7 +188,7 @@ o.append(f'<path class="m-flight" d="M{sx:.0f},{sy:.0f} Q{bx+150:.0f},{by+120:.0
 o.append(f'<text x="{sx-4:.0f}" y="{sy-10:.0f}" class="ink2 t-date halo" text-anchor="end">✈ from Seattle via Manila, lands Day 1</text>')
 # ---- Central Asia panel
 o.append(f'<rect x="{IX0-1}" y="{IY0-32}" width="{IW+2:.0f}" height="{IH+33:.0f}" rx="6" class="box" stroke-width="1.2"/>')
-o.append(f'<text x="{IX0+10}" y="{IY0-11}" class="ink t-stop">Central Asia: the May visa reset (Day 58–64) and Day 118–172</text>')
+o.append(f'<text x="{IX0+10}" y="{IY0-11}" class="ink t-stop">Central Asia, Day 118–172 (plus Kashgar and Tashkurgan in May)</text>')
 base(PI,(ILON0,ILON1,ILAT0,ILAT1),IX0,IY0,IW,IH,'panel',[('KAZAKHSTAN',44.5,67.0),('UZBEKISTAN',41.9,64.6),('TURKMENISTAN',37.1,62.2),('KYRGYZSTAN',42.6,70.9),
       ('TAJIKISTAN',37.0,69.5),('AFGHANISTAN',36.5,65.0),('CHINA 中国',38.6,79.6)])
 season(PI,[('Jul – Aug: Kazakhstan + the Kyrgyz highlands',44.75,72.6),('Aug: Pamir Highway, almost rainless',36.6,77.9),('Sep: Uzbekistan, after the heat',38.75,63.4),('May: Kashgar, Tashkurgan',38.2,78.8)])
@@ -201,7 +201,7 @@ x,y=PI(*coords(41)); o.append(f'<path class="m-flight" d="M{x+6:.0f},{y-6:.0f} Q
 o.append(f'<text x="{x+152:.0f}" y="{y-136:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ home to Seattle, Day 172</text>')
 # ---- title
 o.append(f'<text x="32" y="40" class="ink t-title">China 中国 + Central Asia 2027 (draft): follow the weather</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · ✈ home from Tashkent ≈ Day 172 · ◆ = land border crossing · faded = optional</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 58–64: 6 flexible days (family visit or longer stays) · ✈ home from Tashkent ≈ Day 172 · ◆ = border crossing · faded = optional</text>')
 # ---- legend (right of the panel)
 lx=IX0+IW+40; ly=IY0-11
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
@@ -210,7 +210,7 @@ for i,(k,v) in enumerate(MODES.items()):
     o.append(f'<line x1="{lx}" y1="{y0}" x2="{lx+44}" y2="{y0}" class="m-{k}" stroke-width="{v[3]+0.5}" stroke-linecap="round"{dash}/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">{v[4]}</text>')
 y0=ly+24+4*24; o.append(f'<rect x="{lx+17}" y="{y0-5}" width="10" height="10" transform="rotate(45 {lx+22} {y0})" class="xing" stroke-width="1.5"/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">Land border crossing</text>')
 notes=['Flights: Seattle → Beijing, Kashgar → Hailar','(via Beijing or Urumqi), Arxan → Urumqi,','Tashkent → Seattle. Everything else by train,','bus, shared taxi or 4×4.','',
-       'China visa stays: Day 1 → 58 and Day 64 → 118.','Kazakhstan: QazETA needed from 1 July 2027.','Pamir: GBAO permit ($20, fixed entry date).','Tashkurgan: border-area permit, in person,','at the police exit-entry office in Kashgar.','',
+       'China: one stay, Day 1 → 118, on the 10-year Q2 visa.','Kazakhstan: QazETA needed from 1 July 2027.','Pamir: GBAO permit ($20, fixed entry date).','Tashkurgan: border-area permit, in person,','at the police exit-entry office in Kashgar.','',
        'Weather: 10-year normals (Open-Meteo for China,','NASA POWER for Central Asia).','Route order and stop lengths only;','beds and legs come next.']
 for i,t in enumerate(notes): o.append(f'<text x="{lx}" y="{ly+150+i*17}" class="ink2 t-note">{t}</text>')
 # ---- stop list
@@ -219,6 +219,6 @@ cols=[S[:14],S[14:28],S[28:]]
 for ci,col in enumerate(cols):
     for ri,s_ in enumerate(col):
         x0=32+ci*390; y0=LIST_Y+20+ri*17; fade = ' opacity="0.55"' if s_[9] else ''
-        o.append(f'<text x="{x0}" y="{y0}" class="ink t-list"{fade}><title>{s_[2]}</title><tspan font-weight="700">{s_[0]}.</tspan> {s_[2]} <tspan class="ink2">Day {s_[3]}</tspan></text>')
+        o.append(f'<text x="{x0}" y="{y0}" class="ink t-list"{fade}><title>{s_[2]}</title><tspan font-weight="700">{DISP[s_[0]]}.</tspan> {s_[2]} <tspan class="ink2">Day {s_[3]}</tspan></text>')
 o.append('</svg>')
 open(OUT,'w').write('\n'.join(o)); print(OUT, W, H)
