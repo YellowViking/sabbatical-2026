@@ -60,7 +60,8 @@
     {"guide": "asuncion", "anchor": "foz", "note": "Plan A (Paraguay), dropped 27 Nov"},
     {"guide": "encarnacion", "anchor": "foz", "note": "Plan A (Paraguay), dropped 27 Nov"},
     {"guide": "huacachina-paracas", "anchor": "arequipa", "note": "option C"},
-    {"guide": "somoto", "anchor": "esteli", "note": "Day 2 of the Estelí stay (in the plan since 27 Nov)"}
+    {"guide": "somoto", "anchor": "esteli", "note": "Day 2 of the Estelí stay (in the plan since 27 Nov)"},
+    {"guide": "bocas-del-toro", "anchor": "san-gerardo", "note": "Chirripó fallback (user, 27 Nov): replaces San Gerardo if no permit"}
   ],
   "fixed_events": [
     {"date": "2026-12-24", "label": "🎄 Christmas Eve"},

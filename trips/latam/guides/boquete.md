@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 > **Stop 27 · Day 64 → 67 · 3 nights · 🎭 Carnaval**<br>
 > 🏞️ Cool coffee-country town in the highlands, below Volcán Barú (3,474 m)<br>
 > 🛏️ **ONDA Boquete** ("Socialtel Boquete" on Booking), mixed dorm, $99.76 for 3 nights on Agoda (✅ 27 Nov; Booking $116)<br>
-> ✈️ **In:** Air Panama Albrook → David, Day 64 07:15, then the bus up · **Out:** 🚌 05:30 bus to David and the Costa Rican border, Day 67
+> ✈️ **In:** Air Panama Albrook → David, Day 64 07:15, then the bus up · **Out:** 🚌 05:30 bus to David and the Costa Rican border, Day 67 (Plan B, no Chirripó permit: 🚐 08:00 Hello Travel shuttle to [Bocas del Toro](bocas-del-toro.md), $30)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tc6P2WPKowahXr3-hkzcXJS1ahpDruNC06zsfEHPsQqANPejVt_ZqrU49T8g7ClxNoBXSeIAempdT9MaxrizIqdlPVHhMpXGg0WJHvrhwSoSUbokYG-dxhRpG-7kRDF6_lF-_W6XCniPkI=w1200-h360-p-k-no" alt="Sunrise above a sea of clouds from the summit of Volcán Barú" width="100%">
 

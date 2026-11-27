@@ -102,7 +102,7 @@ _D1 = rf'(?:(?P<wd1>{WDR}) )?(?P<d1>\d{{1,2}})(?: (?P<m1>{MR}))?(?: (?P<y1>2026|
 _D2 = rf'(?:(?P<wd2>{WDR}) )?(?P<d2>\d{{1,2}}) (?P<m2>{MR})\b(?: (?P<y2>2026|2027))?'
 R_ARROW = re.compile(rf'\b{_D1} → {_D2}')
 R_DASH = re.compile(rf'\b{_D1} ?[–-] ?{_D2}')
-R_ONE = re.compile(rf'\b(?:(?P<wd>{WDR}) )?(?P<d>\d{{1,2}}) (?P<m>{MR})\b(?: (?P<y>2026|2027))?')
+R_ONE = re.compile(rf'\b(?:(?P<wd>{WDR}) )?(?P<d>\d{{1,2}}) (?P<m>{MR})\b(?! (?:19|20)(?!26|27)\d\d)(?: (?P<y>2026|2027))?')   # other years ("1 Mar 2016") are history, not trip dates
 URLSPAN = re.compile(r'\]\([^)]*\)|(?:href|src)="[^"]*"|https?://\S+')
 
 def _safe(fn):

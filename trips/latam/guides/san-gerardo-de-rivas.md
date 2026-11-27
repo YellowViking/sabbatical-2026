@@ -167,6 +167,7 @@ Live-checked on 24 Nov for an earlier plan, and again on 27 Nov for Day 67 → 7
 - The Herradura–Urán (Tue/Thu/Sun) and San Jerónimo (Mon/Wed/Fri) routes need a mandatory guide ✅ chirripo.org.
 
 ### If Crestones is full (day hikes)
+- **Or skip San Gerardo: [Bocas del Toro](bocas-del-toro.md)** is the user's fallback (27 Nov) if no overnight permit appears: Boquete → Bocas on Day 67 (Filthy Friday), then on to Uvita without moving the later dates. The day hikes below are the fallback for a short stay here instead.
 - **Cloudbridge Nature Reserve** (next to the Chirripó trailhead): **$12 foreigners** (2026 tariff ✅ cloudbridge.org/prices), self-guided marked trails in 444 acres of cloud forest, waterfalls (Catarata Pacífica, Las Gemelas) and the Río Chirripó. A full morning.
 - **Sendero Los Gigantes** (San José de Rivas, 15 min down the valley): a **6 km loop** (3 km up a river through moss forest to the La Piedra de Lucas lookout over the Valle de El General, 3 km back by road), "beginner" grade, **₡2,000 ($4.50)**, open daily 06:00–17:00 ✅ perezzeledon.com (updated 13 Oct 2026) / chirripocostarica.com. Note: it's a river-and-forest circuit to a lookout, not a high ridge.
 - The **Chirripó "Diario" permit** (summit in a day), if SINAC sells one for your date.

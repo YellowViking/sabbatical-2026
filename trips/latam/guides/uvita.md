@@ -5,7 +5,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 29 · Day 71 → 73 · 2 nights**<br>
 > 🏞️ Pacific beach town by the "whale's tail" sandbar of Marino Ballena, with jungle waterfalls in the hills behind<br>
 > 🛏️ **Hostel Cascada Verde**, 8-bed mixed dorm, $23 for 2 nights<br>
-> 🚌 **In:** from San Gerardo via San Isidro (Grupo Blanco), Day 71 · **Out:** 05:15 Grupo Blanco to Quepos, on to Monteverde, Day 73
+> 🚌 **In:** from San Gerardo via San Isidro (Grupo Blanco), Day 71 · **Out:** 05:15 Grupo Blanco to Quepos, on to Monteverde, Day 73<br>
+> ↳ **Plan B (no Chirripó permit):** in from [Bocas del Toro](bocas-del-toro.md) on Day 70 (✅ Tracopa Paso Canoas 13:20 → Uvita 16:30), with a 3rd night here, Day 70 → 71, at Cascada Verde ($14.69)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPhc6dPtbF1hQ-RhbFIUbjAOMmiai-gI2vAfLKuxJGJtKC0IpkDKuEFIZ_ph_qpf8k-iUnmtpTphOZ19KzvkTsIXD7N1e8dw_is7_1oAN-cVJjEtcoK615_uQNY5DUdzGobyfS_sgA1Cwz=w1200-h360-p-k-no" alt="Aerial view of the Punta Uvita sandbar, the whale's tail of Marino Ballena" width="100%">
 

@@ -95,6 +95,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
   - Self-cater more in Uruguay, Chile and Costa Rica, where hostel kitchens are confirmed at the picks. That's worth about $5–8/day there.
   - Encarnación: if a hostel bed frees up, it saves about $40 on the flat.
   - Take the Boquete bus instead of the Air Panama flight: about −$45, but Carnaval Friday buses are packed.
+  - **Chirripó fallback, [Bocas del Toro](guides/bocas-del-toro.md)** (if no permit by Day 54): ≈ $250 for beds, the shuttle, Filthy Friday, the Zapatilla tour, boats, the long day to Uvita and Uvita's extra night, against ≈ $310 for San Gerardo + Chirripó, so about −$60.
   - **Arequipa → Panama, three open options** ([Panama City guide](guides/panama-city.md#getting-here-three-options-arequipa--panama-city)):
     - A, cash same day: ≈ $345 including the 2nd Arequipa night.
     - B, Lima night + Copa on United miles: ≈ $90 + 17,500.
