@@ -88,20 +88,8 @@ Every guide also has a **Book (one click)** table at the top, with dates and 1 a
 | 12 | Andesmar Purmamarca → San Pedro, Fri 15 Jan 03:40 | One departure a day; captcha-protected shop (also on [Plataforma10](https://www.plataforma10.com.ar/)) | [Andesmar shop](https://shop.andesmar.com/) |
 | 13 | ✈ Flight home MGA → Seattle, Thu 4 Mar (25k + $94) | Book once the route is settled (9 seats on 3–5 Mar) | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-04&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
 
-## Plan B: skip Paraguay (Florianópolis), added 26 Nov
-Paraguay has little tourist infrastructure (LP lists about five hostels in the country; Encarnación had no hostel beds left for Christmas), and the only direct bus on to Uruguay is EGA's, on Wednesdays and Saturdays. Plan B swaps **21–27 Dec** for the standard Atlantic-coast route; **nothing from Sun 27 Dec on changes**. Details: [Florianópolis guide](guides/florianopolis.md).
-
-| Dates | Plan A (current) | **Plan B** |
-|---|---|---|
-| Mon 21 Dec | ✅ Expresso Nordeste Foz 08:00 → Asunción | Free day in Foz; ✅ **Nordeste 16:30 → Florianópolis 08:10** (R$276.99 ≈ $46.50, ClickBus) |
-| 21 → 23 Dec | Asunción (Hostel Chaton, $18) | (night bus, then) |
-| 22 → 26 Dec | Asunción → Encarnación, Christmas in a whole flat ($76) | **Florianópolis**, 4 nights: **Pequi Hostel**, location 9.8, $62, Booking (backup Tucano House, $55) |
-| Sat 26 → Sun 27 Dec | ✅ EGA Encarnación 13:30 → Montevideo 07:15 ($124) | ✅ **EGA 14:30 / TTL 15:00 Florianópolis → Montevideo ≈ 09:45** (Saturdays only; ≈ $146 semi-cama) |
-| **Beds + buses, 21–27 Dec** | ≈ $256 | **≈ $255** |
-
-**B2 variant** (in the guide): Florianópolis → Porto Alegre → overnight to Chuí (R$165 + R$268), then **Punta del Diablo** 27 → 28 Dec (Mar de Fondo, $26) instead of the Montevideo night, and on to Cabo Polonio on the 28th (summer bus times not yet published).
-
-**Switch if** Paraguay's buses or beds look shaky, or the EGA from Encarnación sells out. Decide by mid-December, then book the Florianópolis → Montevideo bus at once (holiday week, Saturdays only).
+## Alternatives (decide on the road)
+The Christmas-week Plan B (Florianópolis instead of Paraguay), the three Arequipa → Panama options, optional add-ons for the 11 spare days, and the things to recheck before each stop are in **[alternatives.md](alternatives.md)**.
 
 ## Holiday backups (checked 25 Nov)
 Every stay or leg that falls on a holiday has a backup: either shifted dates or a nearby town that isn't booked out. Each backup was checked live on Booking for the exact dates and 1 adult, and it's a one-click row in the guide's **Book** table (🎄 Christmas, 🎆 New Year, 🎭 Carnaval). "How tight" compares Booking's availability on our dates with the same nights a week later.
@@ -207,4 +195,4 @@ Points: 60k + 25k Alaska. Details: [budget-forecast.md](budget-forecast.md).
 - **Costa Rica:** [San Gerardo de Rivas (Chirripó)](guides/san-gerardo-de-rivas.md) → [Uvita](guides/uvita.md) → [Monteverde](guides/monteverde.md) → [La Fortuna](guides/la-fortuna.md) → [Rincón de la Vieja](guides/rincon-de-la-vieja.md)
 - **Nicaragua:** [San Juan del Sur](guides/san-juan-del-sur.md) → [Ometepe](guides/ometepe.md) → [Granada](guides/granada.md) → [León](guides/leon.md) → [Estelí](guides/esteli.md) → [Flight home](guides/flight-home.md)
 
-**Optional extras:** [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) (+2 days before Rio) · [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days, Arequipa → Lima overland; option C) · [Somoto Canyon](guides/somoto.md) (+1 day from Estelí before flying home).
+**Optional extras** (all options and add-ons: [alternatives.md](alternatives.md)): [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) (+2 days before Rio) · [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days, Arequipa → Lima overland; option C) · [Somoto Canyon](guides/somoto.md) (+1 day from Estelí before flying home).

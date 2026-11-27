@@ -55,6 +55,8 @@ Going Central America first puts both halves in their worse months. It also land
 | Reversed (Central America 8 Dec – 5 Jan, Brazil 22 Feb – 3 Mar) | 42.8 | 27 (Costa Rica over Christmas and New Year) |
 | Andes first (Andes in Dec, Brazil late Jan, Central America in Feb) | 36.0 | 25 (Uruguay and Córdoba in January, Brazil before Carnaval) |
 
+**Decision, 26 Nov:** keep the current order. The northern Brazil award entry (Belém, 7 Dec) was also dropped. Open choices now live in [alternatives.md](alternatives.md).
+
 The v5 order stays.
 
 Smaller pluses for South America first:
