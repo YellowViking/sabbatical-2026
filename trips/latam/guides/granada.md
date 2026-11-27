@@ -30,7 +30,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 | Day | Plan |
 |---|---|
 | **Day 1** · Mon 1 Mar | ⛴️ Morning ferry Moyogalpa → San Jorge (≤ 09:00) → Rivas → 🚌 **Granada** (≈ 3½–4½ h). 🌋 Evening: **Volcán Masaya at night** (night entry ≈ 16:30–20:00); any Managua-bound bus to the *Entrada Volcán Masaya*. |
-| **Day 2** · Tue 2 Mar | 🚶 Early walk: the colonial grid, **La Pólvora** and the **Lake Nicaragua malecón** (best at sunset, but Thursday evening is Masaya). Then 🚕 shuttle or taxi to **Coco Bay, Laguna de Apoyo**: swim at sunset. |
+| **Day 2** · Tue 2 Mar | 🚶 Early walk: the colonial grid, **La Pólvora** and the **Lake Nicaragua malecón** (best at sunset, but Monday evening is Masaya). Then 🚕 shuttle or taxi to **Coco Bay, Laguna de Apoyo**: swim at sunset. |
 | **Day 3** · Wed 3 Mar | 🏊 Sunrise swim, then 🚌 via Managua to **León**. |
 
 ## 🔖 Book (one click)
@@ -117,7 +117,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 **Free:** walk the colonial grid to the **Lake Nicaragua malecón** at sunset; the La Pólvora fortress area.
 
-**Laguna de Apoyo (Fri 26 → Wed 3 Mar, now an overnight):**
+**Laguna de Apoyo (Tue 2 → Wed 3 Mar, an overnight):**
 - A crater lake, thermally warm (~28 °C) and very clear (LP).
 - Hostel shuttles Granada ↔ Apoyo with a day pass at a lakeside hostel (e.g. Paradiso, Coco Bay) ≈ $10–20 return (≈).
 - By bus: Granada → a Masaya-bound bus to the Apoyo turn-off + a taxi down.

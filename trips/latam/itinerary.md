@@ -41,20 +41,20 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [int
 | 23 → 25 Jan | **Potosí** (2; 2nd night added 26 Nov, LP pick: mine + mint) | Los Faroles (private; no decent dorm), $57, Booking | Colonial, ≈ $120 | Uyuni → Potosí 15:00–18:30, $11–15 | [→](guides/potosi.md) |
 | 25 → 28 Jan | **Sucre** (3) | Villa Oropeza (curtains, 2 kitchens), $17, Agoda | Los Balcones, $50 | Potosí → Sucre 13:00/14:00, $7–8 | [→](guides/sucre.md) |
 | Thu 28 Jan | ✈ | — | — | ✅ BoA via Cochabamba 09:05 → 11:25, $49 (no nonstop) | [→](guides/la-paz.md) |
-| 28 → 31 Jan | **La Paz** (3) | Casa Bonita (by the bus terminal), $20.39, Agoda | Nuevo Sol, $93 | Death Road ≈ $85; Pico Austria ≈ $80–115 | [→](guides/la-paz.md) |
-| 31 Jan → 1 Feb | **Isla del Sol** (1; the Copacabana night went to Potosí) | Inti Wasi Lodge, $18, Booking | Hostal Inti Wayra, $26 | La Paz → Copacabana 07:30, $7; boat 13:30; back Fri for the **18:00** Puno bus (or the 10:30 boat + 13:30 bus) | [→](guides/copacabana-isla-del-sol.md) |
+| 28 → 31 Jan | **La Paz** (3) | Casa Bonita (by the bus terminal), $36, Hostelworld/Agoda (✅ 27 Nov; was $20.39) | Nuevo Sol, $93 | Death Road ≈ $85; Pico Austria ≈ $80–115 | [→](guides/la-paz.md) |
+| 31 Jan → 1 Feb | **Isla del Sol** (1; the Copacabana night went to Potosí) | Inti Wasi Lodge, $18, Booking | Hostal Inti Wayra, $26 | La Paz → Copacabana 07:30, $7; boat 13:30; back Mon for the **18:00** Puno bus (or the 10:30 boat + 13:30 bus) | [→](guides/copacabana-isla-del-sol.md) |
 | 1 → 2 Feb | **Puno** (1) | Kantaya Hostel, $10.50, Hostelworld | | ✅ Titicaca Bolivia Bus 18:00 → ≈ 21:00, $9 (13:30 if you skip the ridge walk) | [→](guides/puno.md) |
 | 2 → 4 Feb | **Chivay** (1) + **Sangalle oasis** (1) | Samay Lodge $12 + Paraíso Las Palmeras $32, Booking | | ✅ 4M Express Puno 06:15 → Chivay ~12:30, $54; boleto turístico S/70 | [→](guides/colca-canyon.md) |
 | 4 → 6 Feb | **Arequipa** (2) | Econunay, $18.94, Hostelworld/Agoda | | Climb out of the canyon 05:00, 09:30 bus from Cabanaconde, S/35 | [→](guides/arequipa.md) |
 | Sat 6 Feb | ✈ ✈ (**3 open options**) | — | — | **A:** Sky 06:50 + Copa CM760 13:20, $326 cash (two tickets, 4 h 45 gap). **B:** Lima night + Copa 10:30 on 17,500 United miles. **C:** overland via Huacachina + Paracas, award from Lima on 9 Feb (+3 days) | [→](guides/panama-city.md) |
 | 6 → 8 Feb | **Panama City** (2) | El Machico (curtains, big kitchen), $38, Booking | | Tocumen → city by Metro, $0.85 | [→](guides/panama-city.md) |
-| 8 → 11 Feb | **Boquete** (3, Carnaval) | ONDA Boquete, $116, Booking | | ✈ Air Panama Albrook 07:00 → David, $67 (the buses are packed on Carnaval Friday) | [→](guides/boquete.md) |
+| 8 → 11 Feb | **Boquete** (3, Carnaval) | ONDA Boquete, $99.76 Agoda ($116 Booking) | | ✈ Air Panama 7P670 Albrook 07:15 → David on Carnaval Monday (Mon–Sat service), $67 (24 Nov) | [→](guides/boquete.md) |
 | 11 → 15 Feb | **San Gerardo de Rivas** (3, +1 on 27 Nov) + **Chirripó** (Base Crestones, 13 → 14) ⚠️ SINAC showed **0 permits** for every February night on 27 Nov: watch for cancellations | Casa Colibri Chirripó, $121 (3 nights around the Crestones night; $163 for 4 if there is no permit), Booking | | ✅ Tracopa Paso Canoas 08:00 → San Isidro; ✅ 14:30 bus → San Gerardo | [→](guides/san-gerardo-de-rivas.md) |
 | 15 → 17 Feb | **Uvita** (2) | Cascada Verde (location 9.0), $23, Booking | | | [→](guides/uvita.md) |
 | 17 → 19 Feb | **Monteverde** (2) | Monteverde Backpackers, $24, Hostelworld | | Buses via Quepos and Puntarenas | [→](guides/monteverde.md) |
-| 19 → 22 Feb | **La Fortuna** (3) | Ceiba Hostel (curtains, kitchen; small pool), $39, Booking | | Jeep-boat-jeep | [→](guides/la-fortuna.md) |
+| 19 → 22 Feb | **La Fortuna** (3) | Ceiba Hostel (curtains, kitchen; small pool), $43, Booking (✅ 27 Nov) | | Jeep-boat-jeep | [→](guides/la-fortuna.md) |
 | 22 → 24 Feb | **Liberia / Rincón de la Vieja** (2) | Hostel Pura Vida, $28, Booking | | | [→](guides/rincon-de-la-vieja.md) |
-| 24 → 26 Feb | **San Juan del Sur** (2) | Nalu Nalu (location 9.6; kitchen, breakfast), $18, Booking | | CR exit $8 + Nicaragua entry ≈ $12–14 ($10 stamp + border charges), cash | [→](guides/san-juan-del-sur.md) |
+| 24 → 26 Feb | **San Juan del Sur** (2) | Hostel SaltWater (quiet, kitchen, breakfast; location 8.7), $25, Hostelworld (Nalu Nalu sold out, 27 Nov) | | CR exit $8 + Nicaragua entry ≈ $12–14 ($10 stamp + border charges), cash | [→](guides/san-juan-del-sur.md) |
 | 26 Feb → 1 Mar | **Ometepe** (3) | Guest House Nena (private double, location 9.4, by the port), $36, Booking | | Ferry from San Jorge | [→](guides/ometepe.md) |
 | 1 → 3 Mar | **Granada** (1) + **Laguna de Apoyo** (1, new 26 Nov) | De Boca en Boca $14 + Coco Bay (lakeshore, location 9.6) $14, Booking | | Masaya volcano at night on 1 Mar ($10 + ≈ $5 ride up) | [→](guides/granada.md) |
 | 3 → 6 Mar | **León** (3) | Casa Lula, $33, Booking | | Telica closed; El Hoyo overnight instead | [→](guides/leon.md) |
@@ -152,7 +152,7 @@ Every bed in the guides' **Book** tables shows its **location** score: Booking.c
 | [Cabo Polonio](guides/cabo-polonio.md) | **Hostel Albatros 9.4**, $70 | Green House 8.7, $50 | +$20 | 9.1 overall, 1% below 7, kitchen, no noise complaints |
 | [Tilcara](guides/quebrada-de-humahuaca.md) | **Tilcara Mística 9.5**, $23 | Casa Colores 8.8, $11 | +$12 | 160 m from the plaza; one Nov 2026 review says patio noise carries into the dorms |
 | [San Pedro](guides/san-pedro-de-atacama.md) | **Hostal Lackuntur 9.4**, 4-bed dorm, $74 for 4 nights ($55 for 3 since 26 Nov; Booking 9.3, 1,228 reviews, 1% below 7) | Casa Voyage 8.8, $65 | +$9 | Found in the 25 Nov sweep. It's cheaper than the proposed Backpackers San Pedro ($84.80), which stays as the backup. Shared kitchen, "far from a party"; no bunk curtains |
-| [San Juan del Sur](guides/san-juan-del-sur.md) | **Nalu Nalu 9.6**, $18 | SaltWater 8.7, $28.60 | −$10.60 | Kitchen and breakfast; the 6-bed dorm is hot (no AC), so consider the 4-bed at $24 |
+| [San Juan del Sur](guides/san-juan-del-sur.md) | ~~Nalu Nalu 9.6, $18~~ sold out 24 → 26 Feb (27 Nov) | SaltWater 8.7, **$25 (the pick again)** | — | Kitchen and breakfast; the 6-bed dorm is hot (no AC), so consider the 4-bed at $24 |
 | [Ometepe](guides/ometepe.md) | **Guest House Nena 9.4**, private double, $36 for 3 nights | Life is Good 8.3, $30 | +$6 | No dorm scores ≥ 9.0 here. 0.3 km from the port; street noise, so bring earplugs |
 
 **Net: +$32** for the six.

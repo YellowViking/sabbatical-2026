@@ -4,7 +4,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 > **Stop 32 · Wed 24 → Fri 26 Feb 2027 · 2 nights · border crossing**<br>
 > 🏞️ Surf town on a horseshoe Pacific bay, with Playa Maderas 20 min north<br>
-> 🛏️ **Nalu Nalu Hostal**, a 6-bed mixed dorm one street from the beach, $18 for 2 nights<br>
+> 🛏️ **Hostel SaltWater**, a quiet 6-bed dorm a block from the beach, $25 for 2 nights (Nalu Nalu sold out, 27 Nov)<br>
 > 🚌 **In:** buses from Liberia via the Peñas Blancas border, Wed (leave by ~08:00) · **Out:** bus to Rivas and the ferry to Ometepe, Fri 26 Feb
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S59ePt0-NQslO000JBRfnXJTRHL5-f1HVoYbsxtN4nrVou3k0_FBJI7VUllNcydLTFBYWI8E5ZokPPByFf4kJg3g9Q1YlXjNVx-Mz3Btt19zmhcwhFrk840nIQuEzNing1QpRmXWyTTUyO=w1200-h360-p-k-no" alt="The bay of San Juan del Sur from the hill above town" width="100%">
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of San Juan del Sur: the beds, the market bus stop, the beach and the brewery](img/san-juan-del-sur-map-504959be.jpg)
 
-**In town:** ★ **[Nalu Nalu Hostal](https://www.google.com/maps?ftid=0x8f75b5e1ef27a9c5:0x22b324eed8db03b3)** (the pick, [book](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Hostel SaltWater](https://www.google.com/maps?ftid=0x8f75b442fac2282d:0x424671b5cdf21e7a) (backup, [book](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-24&to=2027-02-26&guests=1)) · **2** [ORÍGENES Guest House](https://www.google.com/maps?ftid=0x8f75b5b6dc377521:0x6fc43e59f23969fc) (private alternative; the private alt Lobolira isn't on Google Maps, [book](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [market bus stop](https://www.google.com/maps?ftid=0x8f75b4424012c647:0x87bd573724e67f42) · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) [🚶 18 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2589739,-85.8758082&travelmode=walking) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84) [🚶 2 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2534245,-85.870146&travelmode=walking)
+**In town:** (the map's ★ is Nalu Nalu, now sold out; the pick is **1** SaltWater) · ★ ~~[Nalu Nalu Hostal](https://www.google.com/maps?ftid=0x8f75b5e1ef27a9c5:0x22b324eed8db03b3)** ~~ (sold out 24 → 26 Feb, [watch](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Hostel SaltWater](https://www.google.com/maps?ftid=0x8f75b442fac2282d:0x424671b5cdf21e7a) (⭐ the pick since 27 Nov, [book](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-24&to=2027-02-26&guests=1)) · **2** [ORÍGENES Guest House](https://www.google.com/maps?ftid=0x8f75b5b6dc377521:0x6fc43e59f23969fc) (private alternative; the private alt Lobolira isn't on Google Maps, [book](https://www.booking.com/hotel/ni/horizonte-nica-guest-house.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [market bus stop](https://www.google.com/maps?ftid=0x8f75b4424012c647:0x87bd573724e67f42) · **3** [Playa San Juan del Sur](https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570) [🚶 18 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2589739,-85.8758082&travelmode=walking) · **4** [San Juan del Sur Cervecería](https://www.google.com/maps?ftid=0x8f75b442150eed3f:0x573fe8233f326a84) [🚶 2 min](https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2534245,-85.870146&travelmode=walking)
 
 ![Map of the area: San Juan del Sur and the beaches to the north, Marsella and Maderas](img/san-juan-del-sur-area-map-76eb91a0.jpg)
 
@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Wed 24 Feb | 🚌 Leave Liberia by ~08:00 → **Peñas Blancas** border (Saturday lines 1–2 h) → Rivas → San Juan del Sur, ≈ 3½–4½ h. Walk 13 min to the hostel. 🌅 Sunset on the main beach (free). |
-| **Day 2** · Thu 25 Feb | 🏄 Coastal walk or shuttle to **Playa Maderas** (20 min north), on to Playa Majagual; Playa Marsella. 🎉 **Sunday Funday** pool crawl is today (paid ticket): fine as a day out, not as a base. |
+| **Day 1** · Wed 24 Feb | 🚌 Leave Liberia by ~08:00 → **Peñas Blancas** border (lines can take 1–2 h) → Rivas → San Juan del Sur, ≈ 3½–4½ h. Walk 7 min from the market bus stop to the hostel. 🌅 Sunset on the main beach (free). |
+| **Day 2** · Thu 25 Feb | 🏄 Coastal walk or shuttle to **Playa Maderas** (20 min north), on to Playa Majagual; Playa Marsella. |
 | **Day 3** · Fri 26 Feb | 🚌 Bus to Rivas → San Jorge → ⛴️ ferry to **Ometepe** (see Leaving). |
 
 ## 🔖 Book (one click)
@@ -41,8 +41,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Where | Total | Location | From the bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Nalu Nalu Hostal** · 6-bed mixed dorm, breakfast | **$18** | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-24&to=2027-02-26&guests=1) |
-| Backup | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite | $28.60 | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-24&to=2027-02-26&guests=1) |
+| ⭐ **Pick** (since 27 Nov) | **Hostel SaltWater** · basic 6-bed mixed dorm, ensuite, breakfast | **$25** ✅ 27 Nov | ⚠️ 8.7 | 🚶 7 min (500 m) from the market bus stop; centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2556725,-85.8711053&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/323210/hostel-saltwater/?from=2027-02-24&to=2027-02-26&guests=1) |
+| ~~Pick~~ | ~~**Nalu Nalu Hostal**~~ · ❌ sold out 24 → 26 Feb on Booking and Hostelworld (27 Nov; on sale again from 3 Mar) | — | 9.6 | 🚶 2 min (130 m) from the market bus stop; centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.2536479,-85.8704495&destination=11.2530333,-85.8711678&travelmode=walking) | [Booking (watch for cancellations)](https://www.booking.com/hotel/ni/nalu-nalu-hostel.html?checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/332428/nalu-nalu-hostal/?from=2027-02-24&to=2027-02-26&guests=1) |
 | Private alt | **Lobolira** · whole 1-bedroom cabin | $44 | 9.6 | 📍 not found on Google Maps (the listing says "3 blocks from the beach") | [Booking (search)](https://www.booking.com/searchresults.html?ss=Lobolira+San+Juan+del+Sur&checkin=2027-02-24&checkout=2027-02-26&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport and border**
@@ -70,7 +70,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - the bus to **Rivas** (≈ 45 min, ≈ C$30–40 / $1), then the Rivas → San Juan del Sur bus (≈ 45 min, ≈ C$30–40); or
   - get off at the **La Virgen** junction for the San Juan del Sur bus; or
   - a shared taxi from the border straight to San Juan del Sur, ≈ $25–35.
-- **Total ≈ 3½–4½ h, ≈ $8 plus fees.** ⚠️ **Leave Liberia by ~08:00**: Saturday lines at Peñas Blancas can take 1–2 h.
+- **Total ≈ 3½–4½ h, ≈ $8 plus fees.** ⚠️ **Leave Liberia by ~08:00**: lines at Peñas Blancas can take 1–2 h (worst at weekends; this crossing is on a Wednesday).
 
 **Border fees and paperwork**
 - **Costa Rica exit: $8 per person** ($5 tax + $2 phytosanitary + $1 SENASA).
@@ -93,7 +93,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 Live-checked 25 Nov, chosen for location.
 
-### ⭐ Pick: Nalu Nalu Hostal
+### ~~Pick~~: Nalu Nalu Hostal (❌ sold out 24 → 26 Feb, 27 Nov)
 - **Unit:** standard 6-bed mixed dorm.
 - **Price:** **$18 for 2 nights on Booking** (breakfast included, free cancellation to 19 Feb, pay at the property) vs $20 on Hostelworld.
 - **Reviews:** Booking **8.2 (231; 5% below 7)**, location **9.6**; HW 8.4 (59; 9.5 % < 7).
@@ -102,13 +102,14 @@ Live-checked 25 Nov, chosen for location.
 - Thin walls: noise carries up from the social area.
 - ⚠️ A Nov 2026 review says the 6-bed dorm has no AC and almost no airflow ("so hot I couldn't sleep"), so consider the **4-bed mixed dorm ($24)** and ask for a fan.
 
-### Backup: Hostel SaltWater
-- Town, calm; ⚠️ **location 8.7**. It was the pick until 25 Nov.
-- Basic 6-bed mixed dorm, ensuite. **$28.60 for 2 nights** ($26 + 10 % tax) on Hostelworld.
+### ⭐ Pick (since 27 Nov): Hostel SaltWater
+- Town, calm; ⚠️ **location 8.7**. It was the pick until 25 Nov, and is again since Nalu Nalu sold out.
+- Basic 6-bed mixed dorm, ensuite. **$25 for 2 nights** on Hostelworld (✅ 27 Nov), breakfast included.
+- Recent reviews (Hostelworld, 2026): "relaxing vibes", "they don't host any social events", free hot breakfast, community kitchen; one says the A/C costs extra and another found the kitchen small.
 - HW **8.9 (151; 13.2 % < 7)**. ~0.2 km from the centre and the bus stop.
 - "Great chill hostel… a good place to get some rest away from the partying". Hammocks and a sunset deck, fully equipped shared kitchen (property text), A/C.
 - **Only partial curtains** (top bunks have none). No pool.
-- **Avoid as a base:** Pachamama (party, pool), Hola Ola (party, pool), Surf Town (pool, many noise mentions), Sohla Rooftop (24.5 % < 7, party/pool), Casa Oro (32.6 % < 7).
+- **Avoid as a base:** Pachamama (party, pool), Hola Ola (party, pool), Surf Town (pool, many noise mentions; **Wednesday-night events with loud music until midnight**, Nov 2026 review), Sohla Rooftop (24.5 % < 7, party/pool), Casa Oro (32.6 % < 7).
 - **Playa Maderas option:** **Hush Maderas** (HW 9.7/116, 6-bed ensuite $70 for 2 nights, pool + bar, jungle lodge right above the beach).
 
 ### Private alt (location first): Lobolira
@@ -126,13 +127,13 @@ Live-checked 25 Nov, chosen for location.
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RqRAtXcBPRSrLlu8_ozXH_EZKlVinnSbPj7Ke5dK8f_G2nSkQd1uYvCN1ucdhXzdDtho3yUo6KbmlDiLR0GFiQUC8WOQl9ZWLGi5fQDX_MSNZB34BmKDHyMbzxXKWcpY5WWuR1HdnT1n4=w640-h400-p-k-no" width="100%" alt="Evening waves on the beach at San Juan del Sur"><br><b><a href="https://www.google.com/maps?ftid=0x8f75b4451cc4d32d:0xfc2b50e17b970570">Sunset on the main beach</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=11.2530333,-85.8711678&destination=11.2589739,-85.8758082&travelmode=walking">🚶 18 min</a><br>The town beach, one street from the hostel (LP).</td>
-<td width="50%" valign="top"><b>Sunday Funday</b> · paid ticket<br>A weekly pool crawl; this week it's on <b>Thu 25 Feb</b> (LP). Fine as a day out, not as a base.</td>
+<td width="50%" valign="top"><b>Sunday Funday</b> · paid ticket<br>A weekly Sunday pool crawl (LP). There's no Sunday in this stay since the 27 Nov shift, so it's out.</td>
 </tr>
 </table>
 
 - **Coastal walk or shuttle to Playa Maderas** (20 min north; surf, yoga, sunsets; LP) and on to Playa Majagual; Playa Marsella.
 - **Sunset on the main beach** (free; LP).
-- **Sunday Funday** pool crawl is on **Thu 25 Feb** (weekly; LP).
+- **Sunday Funday** is a Sunday pool crawl (LP); no Sunday falls in this stay.
 
 ## 🍽️ Eat and drink
 
