@@ -1,11 +1,11 @@
 # 🇧🇷 Foz do Iguaçu
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Asunción](asuncion.md) → · Plan B: [Florianópolis](florianopolis.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Florianópolis](florianopolis.md) →
 
 > **Stop 6 · Sat 19 → Mon 21 Dec 2026 · 2 nights · pre-Christmas weekend**<br>
 > 🏞️ The Iguaçu falls from both sides: the Brazilian panorama on Saturday, the Argentine walkways on Sunday<br>
 > 🛏️ **Hostel Bambu**, a bed in a 10-bed mixed ensuite dorm with privacy curtains, $33.60 + fee for 2 nights<br>
-> 🚌 **In:** Catarinense night bus from Curitiba, arriving ~07:00 Sat 19 · **Out:** Expresso Nordeste 08:00 to Asunción, Mon 21
+> 🚌 **In:** Catarinense night bus from Curitiba, arriving ~07:00 Sat 19 · **Out:** Nordeste night bus 16:30 to Florianópolis, Mon 21
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R9ISDvIozMTtOgSuSEQmzPoPYDa3HcCB6u8gC2SQRiMU9cOKiBvmKm1SWNlqET2avsRhWSKYhDLadPTO4Lg-kFKtfAqD__rXZEQYVEYDZtH3PEfqMH1I5CUOTbPGnMm9AphOg=w1200-h360-p-k-no" alt="The Garganta do Diabo walkway on the Brazilian side, with the falls behind" width="100%">
 
@@ -31,7 +31,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 |---|---|
 | **Day 1** · Sat 19 Dec | 🌙 Night bus arrives ~07:00 at the Rodoviária Internacional; city bus or Uber (≈ R$ 20–25) to the hostel to drop your pack. 🇧🇷 **Brazilian side**: bus 120 from the TTU (≈ 40 min, R$ 6), the **08:30 slot**, the falls trail first, then Ytepopo. 🎟️ Buy tomorrow's Argentine park ticket online. 🍺 277 Craft Beer in the evening (closed Sunday). |
 | **Day 2** · Sun 20 Dec | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). ⚠️ **The Garganta del Diablo circuit has been closed since 3 Aug 2026** (high water) ✅ park news, so check before going. Last bus back to Brazil 20:30. |
-| **Day 3** · Mon 21 Dec | 🚌 Uber to the rodoviária ~07:15 for the **08:00 Expresso Nordeste** to Asunción. |
+| **Day 3** · Mon 21 Dec | A free morning: the **Marco das Três Fronteiras** or Parque das Aves (paid), or rest. Check out and leave the bag at the hostel. 🚌 Uber to the rodoviária ~15:45 for the **16:30 Nordeste** night bus to Florianópolis. |
 
 ## 🔖 Book (one click)
 
@@ -57,7 +57,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 |---|---|---|---:|---|
 | In | **Catarinense** night bus · Curitiba → Foz Rodoviária Internacional | **Fri 18 Dec 21:00 → Sat 19 07:00** | R$ 289.99 ($48.70) | [ClickBus](https://www.clickbus.com.br/onibus/curitiba-pr/foz-do-iguacu-pr?departureDate=2026-12-18) |
 | Day trip | **Río Uruguay** bus · Foz TTU → Puerto Iguazú | **Sun 20 Dec**, hourly 07:30–21:30 | ≈ AR$ 10–12k ($7–9) | [Río Uruguay](https://riouruguaybus.com.ar/) |
-| Out | **Expresso Nordeste** · Foz Rodoviária Internacional → Asunción | **Mon 21 Dec 08:00 → 15:00** | R$ 114.99 ($19.30) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/assuncao-py?departureDate=2026-12-21) |
+| Out | **Nordeste** semi-leito · Foz → Florianópolis (Rita Maria) | **Mon 21 Dec 16:30 → Tue 22 08:10** (15 h 40; also 17:30, 18:40) | **R$ 276.99** (≈ $46.50) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/florianopolis-sc?departureDate=2026-12-21) |
 
 <details><summary>How to read these tables</summary>
 
@@ -196,12 +196,17 @@ All ≈ leads from Google, 24 Nov.
 - **Money:** carry Argentine pesos (or a card) for the buses, and US dollars or reais as a fallback.
 - **Weather:** Foz is hot and humid in December (≈ 33 °C), with afternoon storms.
 
-## 🚌 Leaving: Foz do Iguaçu → Asunción, Mon 21 Dec
+## 🚌 Leaving: Foz do Iguaçu → Florianópolis, Mon 21 Dec
 
-- 🔁 **Plan B (skip Paraguay):** stay in Foz until the **16:30 Nordeste night bus to Florianópolis** on Mon 21 Dec (R$276.99, arrives 08:10). See [Florianópolis](florianopolis.md).
-- **Pick: Expresso Nordeste 08:00 Foz Rodoviária Internacional → Asunción terminal 15:00**, semi-leito, **R$ 114.99 ($19.30)**, 28 seats left ✅ ClickBus. Take an Uber to the rodoviária at ~07:15 (≈ 6 km).
-- **Alternative:** NSA 10:00 → 17:00, Gs 200,000 ($31.50).
-- The do-it-yourself route via Ciudad del Este, and the exit and entry stamps you need either way, are in the [Asunción guide](asuncion.md).
+- **Pick: Nordeste semi-leito 16:30 → Florianópolis (Rita Maria) 08:10**, **R$ 276.99** (≈ $46.50); 16:00 → 07:05 is R$ 294.99; cama from R$ 431.99. Catarinense and Expresso São José run the same night ✅ ClickBus (26 Nov, 39 seats left at 16:30). Details in the [Florianópolis guide](florianopolis.md).
+- That leaves Monday free until ≈ 15:45.
+
+<details><summary>Plan A (dropped 27 Nov): on to Paraguay</summary>
+
+- Expresso Nordeste 08:00 Foz Rodoviária Internacional → Asunción terminal 15:00, semi-leito, R$ 114.99 ($19.30), 28 seats left ✅ ClickBus (25 Nov). Alternative: NSA 10:00 → 17:00, Gs 200,000 ($31.50).
+- The do-it-yourself route via Ciudad del Este and the stamps are in the [Asunción guide](asuncion.md).
+
+</details>
 
 ---
 <sub>Photos: Google Maps contributors (Mirante da Garganta do Diabo, Trilha das Cataratas, Trilha Poço Preto, Devil's Throat, Circuito Inferior, Salto Arrechea, Macuco Safari, Buffet Shami, Restaurante Treviso, 277 Craft Beer).</sub>

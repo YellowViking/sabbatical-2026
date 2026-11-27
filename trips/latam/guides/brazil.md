@@ -1,6 +1,6 @@
 # Brazil: region notes
 
-Part of the [LatAm itinerary](../itinerary.md). Stops: [Teresópolis / Serra dos Órgãos (optional)](teresopolis.md) · [Rio de Janeiro](rio-de-janeiro.md) · [Ilha Grande](ilha-grande.md) · [Paraty](paraty.md) · [São Paulo](sao-paulo.md) · [Curitiba + Serra Verde](curitiba.md) · [Foz do Iguaçu](foz-do-iguacu.md) · Plan B: [Florianópolis](florianopolis.md)
+Part of the [LatAm itinerary](../itinerary.md). Stops: [Teresópolis / Serra dos Órgãos (optional)](teresopolis.md) · [Rio de Janeiro](rio-de-janeiro.md) · [Ilha Grande](ilha-grande.md) · [Paraty](paraty.md) · [São Paulo](sao-paulo.md) · [Curitiba + Serra Verde](curitiba.md) · [Foz do Iguaçu](foz-do-iguacu.md) · [Florianópolis](florianopolis.md) · [Porto Alegre](porto-alegre.md) (since 27 Nov)
 
 **1. Brazil: Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Foz do Iguaçu (Tue 8 – Mon 21 Dec 2026)**
 

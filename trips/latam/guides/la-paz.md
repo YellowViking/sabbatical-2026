@@ -208,7 +208,7 @@ All live-checked on 24 Nov.
   - **Popular Cocina Boliviana** (Murillo 826): a seasonal three-course lunch with a gourmet take on the market almuerzo, ≈ B$50, Mon–Sat 12:30–14:30. Expect a queue (LP).
   - **La Espinita** (Quintín Barrios 712, Sopocachi): fried lake fish with ispi, potato and mote, ≈ B$20–30, Tue–Sun 12:00–14:30 (LP).
   - **Mercado Lanza** is open ≈ 06:00–20:00; **Mercado Camacho** (Camacho and Bueno) is the other big food market (LP).
-  - **Jallalla** (Indaburo 710 at Jaén): LP's top peña for live Andean music under Mamani Mamani's ceiling art, Tue, Thu, Fri and Sat 21:00–01:00, cover with a cocktail ≈ B$30–70. **Thu 28, Fri 29 and Sat 30** all fit (LP).
+  - **Jallalla** (Indaburo 710 at Jaén): LP's top peña for live Andean music under Mamani Mamani's ceiling art, Tue, Thu, Fri and Sat 21:00–01:00, cover with a cocktail ≈ B$30–70. Thursday 28, Friday 29 and Saturday 30 **all fit** (LP).
   - **Hallwright's** (Sánchez Lima 2235, Sopocachi): Bolivian wine bar with a 2-for-1 happy hour 18:00–19:30, Mon–Sat (LP).
   - **Reineke Fuchs** (Pasaje Jáuregui 2241, Sopocachi) brews its own pilsner, dunkel and amber (LP).
 

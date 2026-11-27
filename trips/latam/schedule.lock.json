@@ -38,24 +38,30 @@
    "nights": 2
   },
   {
-   "id": "asuncion",
-   "guide": "asuncion",
-   "nights": 2
-  },
-  {
-   "id": "encarnacion",
-   "guide": "encarnacion",
-   "nights": 3
-  },
-  {
-   "id": "bus-ega",
-   "guide": "encarnacion",
+   "id": "bus-foz-floripa",
+   "guide": "florianopolis",
    "nights": 1,
    "kind": "night bus"
   },
   {
-   "id": "montevideo-1",
-   "guide": "montevideo",
+   "id": "florianopolis",
+   "guide": "florianopolis",
+   "nights": 2
+  },
+  {
+   "id": "porto-alegre",
+   "guide": "porto-alegre",
+   "nights": 2
+  },
+  {
+   "id": "bus-poa-chui",
+   "guide": "porto-alegre",
+   "nights": 1,
+   "kind": "night bus"
+  },
+  {
+   "id": "punta-del-diablo",
+   "guide": "punta-del-diablo",
    "nights": 1
   },
   {

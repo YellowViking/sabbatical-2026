@@ -1,11 +1,11 @@
-# 🇵🇾 Encarnación
+# 🇵🇾 Encarnación (Plan A, dropped)
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Asunción](asuncion.md) · [Montevideo](montevideo.md) →
 
-> 🔁 **Backup plan:** if Paraguay looks shaky, [Plan B: Florianópolis](florianopolis.md) replaces 21–27 Dec (Asunción + Encarnación) with 4 nights on the island and the EGA bus to Montevideo on Sat 26 Dec. Nothing after 27 Dec changes.
+> ⏸️ **Plan A, dropped 27 Nov.** Christmas week now goes down Brazil's coast instead: [Florianópolis](florianopolis.md) → [Porto Alegre](porto-alegre.md) → [Punta del Diablo](punta-del-diablo.md). This guide is kept in case Paraguay comes back; its dates, prices and bookings were checked 24–26 Nov and haven't been rechecked.
 
 
-> **Stop 8 · Wed 23 → Sat 26 Dec 2026 · 3 nights · Christmas**<br>
+> **Plan A (dropped) · Wed 23 → Sat 26 Dec 2026 · 3 nights · Christmas**<br>
 > 🏞️ River town and beach on the Paraná, with Jesuit ruins nearby<br>
 > 🛏️ **Departamentos De La Costa**, a whole flat with a kitchen, $76 for 3 nights<br>
 > 🚌 **In:** La Encarnacena from Asunción, Wed 08:30 · **Out:** EGA overnight to Montevideo, Sat 13:30

@@ -1,37 +1,35 @@
-# 🇧🇷 Florianópolis (Plan B: instead of Paraguay)
+# 🇧🇷 Florianópolis
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Montevideo](montevideo.md) → · replaces [Asunción](asuncion.md) + [Encarnación](encarnacion.md) if you switch
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Porto Alegre](porto-alegre.md) →
 
-> **Plan B · Tue 22 → Sat 26 Dec 2026 · 4 nights · Christmas · added 26 Nov**<br>
+> **Stop 7 · Tue 22 → Thu 24 Dec 2026 · 2 nights · on the main route since 27 Nov (was Plan B)**<br>
 > 🏞️ Island of 42 beaches, dunes and forest trails, on the classic Brazil → Uruguay backpacker route<br>
-> 🛏️ **Pequi Hostel**, Lagoa da Conceição, a dorm bed, $62 for 4 nights (location 9.8)<br>
-> 🚌 **In:** night bus from Foz, Mon 21 Dec 16:30 · **Out:** EGA to Montevideo, Sat 26 Dec 14:30 → Sun 27 ≈ 09:45
+> 🛏️ **Pequi Hostel**, Lagoa da Conceição, a dorm bed, $31 for 2 nights (location 9.8)<br>
+> 🚌 **In:** night bus from Foz, Mon 21 Dec 16:30 · **Out:** morning bus to Porto Alegre, Thu 24 Dec (Christmas Eve)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RCb6URQ-0Mqq0cJDMy3kWtmhGYlyjA-dDRb8UgR_y1qDI9O-khUtxcw-mumVI-ndpN2v0ayo0sXZ2B9Y94VZHFQGEmwpxbIHADu57e0DvPBYYpAJPcf5v7zA55zX3RAJB-o-Y=w1200-h360-p-k-no" alt="Lagoa da Conceição and the dunes from the Morro da Lagoa viewpoint" width="100%">
 
 <sub>Lagoa da Conceição from the Morro da Lagoa viewpoint (3 on the map). Photo: Google Maps.</sub>
 
-## Why a Plan B
+## Why this route (decided 27 Nov)
 
-Paraguay is thin on tourist infrastructure: Lonely Planet *South America on a Shoestring* lists only about five hostels in the whole country, and the Christmas stop in Encarnación had **no hostels left** (a whole flat instead). The two countries share no border, so the only direct link on to Uruguay is the **EGA bus on Wed and Sat (≈ 18–20 h)**. Plan B swaps 21–27 Dec for **Florianópolis**, the standard stop on LP's "Atlantic Coast" route. **Everything from Sun 27 Dec on stays the same** (Montevideo, Cabo Polonio, New Year's Eve).
+Christmas week now runs down Brazil's south coast and into Uruguay by land, the classic backpacker way in (the Broke Backpacker's Uruguay guide: Florianópolis → Chuy → Punta del Diablo, 40 minutes past the border). It replaced Paraguay (Plan A), which had no hostel beds left in Encarnación for Christmas and only a twice-weekly bus on to Uruguay.
 
-| | Plan A: Paraguay (current) | **Plan B: Florianópolis** | Plan B2: + Punta del Diablo |
-|---|---|---|---|
-| 21 → 22 Dec | Asunción | 🚌 night bus Foz → Florianópolis | same as B |
-| 22 → 26 Dec | Asunción, then Encarnación (Christmas, whole flat) | **Florianópolis**, 4 nights (Christmas) | same as B |
-| 26 → 27 Dec | EGA Encarnación → Montevideo (17 h 45) | EGA/TTL Florianópolis → Montevideo (≈ 19 h) | 🚌 Florianópolis → Porto Alegre → night bus to Chuí |
-| 27 → 28 Dec | Montevideo | Montevideo | **Punta del Diablo** (instead of Montevideo) |
-| Beds + buses, 21–27 Dec | ≈ $256 | **≈ $255** | ≈ $220 (and no Montevideo bed on the 27th) |
-| New country | ✅ Paraguay | ✗ (Brazil again) | ✗ |
-| Hostels with a kitchen | none left in Encarnación | 33 on Hostelworld, 50 on Booking; no "% unavailable" banner (26 Nov) | + 4 in Punta del Diablo |
+| | Night |
+|---|---|
+| Mon 21 Dec | 🚌 Foz → Florianópolis night bus |
+| Tue 22 → Thu 24 Dec | **Florianópolis**, 2 nights (this guide) |
+| Thu 24 → Sat 26 Dec | 🎄 **[Porto Alegre](porto-alegre.md)**, 2 nights (Christmas) |
+| Sat 26 Dec | 🚌 Planalto night bus Porto Alegre 23:30 → Chuí 09:00 |
+| Sun 27 → Mon 28 Dec | **[Punta del Diablo](punta-del-diablo.md)**, Uruguay, then on to Cabo Polonio |
 
-**Switch if:** Paraguay's buses or beds look shaky closer to the date, or the EGA from Encarnación sells out (17 semi-cama seats left on 25 Nov). Decide by **mid-December**; book the Florianópolis → Montevideo bus as soon as you switch (holiday week, Saturdays only).
+Nothing from 28 Dec on changed. The Paraguay guides stay as [Plan A (dropped)](asuncion.md).
 
 ## 🗺️ Map
 
 ![Map of Lagoa da Conceição: the beds, the viewpoint, the Joaquina dunes, Praia Mole, Barra da Lagoa and the Costa da Lagoa trail](img/florianopolis-map-8ba12dd7.jpg)
 
-**Lagoa:** ★ **[Pequi Hostel](https://www.google.com/maps?ftid=0x95273fd9379e1ed1:0x22a20988379db3c0)** (the pick, [book](https://www.booking.com/hotel/br/pequi-hostel-florianopolis1.html?checkin=2026-12-22&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Tucano House](https://www.google.com/maps?ftid=0x95273eb91d602a79:0xe6aa61ddbe54bc7b) (backup, [book](https://www.booking.com/hotel/br/tucano-house-backpackers.html?checkin=2026-12-22&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Morro da Lagoa viewpoint](https://www.google.com/maps?ftid=0x952739345fb5a2c9:0x31c25b312b37d38c) [🚌 12 min (bus 330)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.6007367,-48.4813383&travelmode=transit) · **4** [Joaquina dunes](https://www.google.com/maps?ftid=0x95273c3abbc1d301:0x82ac6764819ffa48) [🚌 29 min (bus V-360)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.6209666,-48.4531507&travelmode=transit) · **5** [Praia Mole](https://www.google.com/maps?ftid=0x95273e7c21378ba7:0xa317ef29d5487b28) [🚌 12 min (bus V-360)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.603173599999998,-48.435012199999996&travelmode=transit) · **6** [Barra da Lagoa](https://www.google.com/maps?ftid=0x95273f97d95a7995:0xa2ad4910c9545a11) [🚌 24 min (bus V-360)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.5734502,-48.424938999999995&travelmode=transit) · **7** [Costa da Lagoa trail](https://www.google.com/maps?ftid=0x95273f0022df9c4b:0xd41c49e20debb2c3) [🚌 23 min (bus 362)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.5809163,-48.4575465&travelmode=transit) (start at Canto dos Araçás)
+**Lagoa:** ★ **[Pequi Hostel](https://www.google.com/maps?ftid=0x95273fd9379e1ed1:0x22a20988379db3c0)** (the pick, [book](https://www.booking.com/hotel/br/pequi-hostel-florianopolis1.html?checkin=2026-12-22&checkout=2026-12-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Tucano House](https://www.google.com/maps?ftid=0x95273eb91d602a79:0xe6aa61ddbe54bc7b) (backup, [book](https://www.booking.com/hotel/br/tucano-house-backpackers.html?checkin=2026-12-22&checkout=2026-12-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Morro da Lagoa viewpoint](https://www.google.com/maps?ftid=0x952739345fb5a2c9:0x31c25b312b37d38c) [🚌 12 min (bus 330)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.6007367,-48.4813383&travelmode=transit) · **4** [Joaquina dunes](https://www.google.com/maps?ftid=0x95273c3abbc1d301:0x82ac6764819ffa48) [🚌 29 min (bus V-360)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.6209666,-48.4531507&travelmode=transit) · **5** [Praia Mole](https://www.google.com/maps?ftid=0x95273e7c21378ba7:0xa317ef29d5487b28) [🚌 12 min (bus V-360)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.603173599999998,-48.435012199999996&travelmode=transit) · **6** [Barra da Lagoa](https://www.google.com/maps?ftid=0x95273f97d95a7995:0xa2ad4910c9545a11) [🚌 24 min (bus V-360)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.5734502,-48.424938999999995&travelmode=transit) · **7** [Costa da Lagoa trail](https://www.google.com/maps?ftid=0x95273f0022df9c4b:0xd41c49e20debb2c3) [🚌 23 min (bus 362)](https://www.google.com/maps/dir/?api=1&origin=-27.605318999999998,-48.4678009&destination=-27.5809163,-48.4575465&travelmode=transit) (start at Canto dos Araçás)
 
 ![Map of the island: the bus station by the bridge, Lagoa, Santo Antônio de Lisboa in the north-west and Lagoinha do Leste in the south](img/florianopolis-area-map-ef735d10.jpg)
 
@@ -45,23 +43,21 @@ Paraguay is thin on tourist infrastructure: Lonely Planet *South America on a Sh
 
 | Day | Plan |
 |---|---|
-| **Mon 21 Dec** | Last morning in Foz (check out, leave the bag at the hostel). 🚌 **16:30 Nordeste** from Foz's bus station, overnight. |
-| **Tue 22 Dec** | Arrive ≈ 08:10 at Rita Maria. 🚌 Bus 2120 to Lagoa (44 min). Afternoon: 🌅 **Morro da Lagoa viewpoint** walk (39 min) and the lagoon shore. |
-| **Wed 23 Dec** | 🥾 **Lagoinha do Leste**: bus to Pântano do Sul (1 h 20), then the forest trail over the headland (≈ 1 h each way) to a wild beach. |
-| **Thu 24 Dec** · Christmas Eve | 🥾 **Costa da Lagoa trail** along the lagoon (no road; come back by the lagoon boat), or the **Joaquina dunes** and Praia Mole on foot. Shops close early: buy food for the 25th. |
-| **Fri 25 Dec** · Christmas Day | Most places shut. 🏖️ **Barra da Lagoa** (24 min by bus) and its natural pools; cook at the hostel. |
-| **Sat 26 Dec** | Morning on the beach, then 🚌 **EGA 14:30** (or TTL 15:00) to Montevideo, arriving Sun 27 ≈ 09:45. |
+| **Day 1** · Mon 21 Dec | Last morning in Foz (check out, leave the bag at the hostel). 🚌 **16:30 Nordeste** from Foz's bus station, overnight. |
+| **Day 2** · Tue 22 Dec | Arrive ≈ 08:10 at Rita Maria. 🚌 Bus 2120 to Lagoa (44 min). 🌅 **Morro da Lagoa viewpoint** walk (39 min), then the **Joaquina dunes** and **Praia Mole** on foot in the afternoon. |
+| **Day 3** · Wed 23 Dec | 🥾 **Lagoinha do Leste**: bus to Pântano do Sul (1 h 20), then the forest trail over the headland (≈ 1 h each way) to a wild beach. Evening: the **Costa da Lagoa** shore or Barra da Lagoa if you have the legs. |
+| **Day 4** · Thu 24 Dec · 🎄 Christmas Eve | 🚌 **Morning bus to Porto Alegre** (≈ 7 h; times in the [Porto Alegre guide](porto-alegre.md)). Leave early: shops there close in the afternoon of the 24th. |
 
 ## 🔖 Book (one click)
 
-Dates and 1 adult are pre-filled. Prices were checked on 26 Nov. ⚠️ = time-sensitive.
+Dates and 1 adult are pre-filled. Prices were checked on 27 Nov. ⚠️ = time-sensitive.
 
-**Beds** (22 → 26 Dec, 4 nights)
+**Beds** (22 → 24 Dec, 2 nights)
 
 | | Where | Total | Location | From the bus station | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Pequi Hostel** · bed in an 8-bed mixed dorm | **$62** | 9.8 | 🚌 44 min: walk 15 min → bus 2120 → walk 5 min (taxi ≈ 25 min) · [route](https://www.google.com/maps/dir/?api=1&origin=-27.5975303,-48.5581724&destination=-27.605318999999998,-48.4678009&travelmode=transit) | [Booking](https://www.booking.com/hotel/br/pequi-hostel-florianopolis1.html?checkin=2026-12-22&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/303448/pequi-hostel/?from=2026-12-22&to=2026-12-26&guests=1) ($64.68) |
-| Backup | **Tucano House** · bunk in a mixed dorm, kitchen | $55 | 9.0 | 🚌 54 min: walk 15 min → bus 2120 → walk 13 min · [route](https://www.google.com/maps/dir/?api=1&origin=-27.5975303,-48.5581724&destination=-27.600945,-48.465633499999996&travelmode=transit) | [Booking](https://www.booking.com/hotel/br/tucano-house-backpackers.html?checkin=2026-12-22&checkout=2026-12-26&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/23936/tucano-house-summer-hostel/?from=2026-12-22&to=2026-12-26&guests=1) ($56.16) |
+| ⭐ **Pick** | **Pequi Hostel** · bed in an 8-bed mixed dorm | **$31** ✅ 27 Nov | 9.8 | 🚌 44 min: walk 15 min → bus 2120 → walk 5 min (taxi ≈ 25 min) · [route](https://www.google.com/maps/dir/?api=1&origin=-27.5975303,-48.5581724&destination=-27.605318999999998,-48.4678009&travelmode=transit) | [Booking](https://www.booking.com/hotel/br/pequi-hostel-florianopolis1.html?checkin=2026-12-22&checkout=2026-12-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/303448/pequi-hostel/?from=2026-12-22&to=2026-12-24&guests=1) ($64.68) |
+| Backup | **Tucano House** · bunk in a mixed dorm, kitchen | $26 ✅ 27 Nov | 9.0 | 🚌 54 min: walk 15 min → bus 2120 → walk 13 min · [route](https://www.google.com/maps/dir/?api=1&origin=-27.5975303,-48.5581724&destination=-27.600945,-48.465633499999996&travelmode=transit) | [Booking](https://www.booking.com/hotel/br/tucano-house-backpackers.html?checkin=2026-12-22&checkout=2026-12-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/23936/tucano-house-summer-hostel/?from=2026-12-22&to=2026-12-24&guests=1) ($56.16) |
 
 **Transport**
 
@@ -69,13 +65,12 @@ Dates and 1 adult are pre-filled. Prices were checked on 26 Nov. ⚠️ = time-s
 |---|---|---|---:|---|
 | In | 🚌 **Nordeste** · Foz do Iguaçu → Florianópolis, semi-leito | **Mon 21 Dec 16:30 → Tue 22 08:10** (15 h 40; also 17:30, 18:40) | **R$276.99** (≈ $46.50) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/florianopolis-sc?departureDate=2026-12-21) |
 | In (alt) | ✈ Azul via Campinas | 21 Dec evening, ≈ 4 h | $183 | Google Flights |
-| ⚠️ Out | 🚌 **EGA** (or TTL) · Florianópolis → Montevideo Tres Cruces | **Sat 26 Dec 14:30 → Sun 27 ≈ 09:45** (Saturdays only; TTL 15:00) | ≈ UYU 5,845 semi-cama (≈ $146) | [EGA](https://ega.com.uy/destino/florianopolis/) |
+| Out | 🚌 Florianópolis (Rita Maria) → Porto Alegre | **Thu 24 Dec**, morning (≈ 7 h) | see the [Porto Alegre guide](porto-alegre.md) | |
 
 <details><summary>How to read these tables</summary>
 
 - **Location** is the guests' location score on Booking.com (aim ≥ 9.0).
 - **From the bus station** comes from Google Maps (26 Nov), routed from Rita Maria bus station at 09:00 on 22 Dec.
-- The EGA fare is EGA's published Montevideo ↔ Florianópolis fare (cama UYU 7,195); EGA's Brazilian shop didn't load headless, so confirm the reverse fare when booking. Tres Cruces' timetable lists EGA 14:30 and TTL 15:00 from Florianópolis, arriving Sundays.
 
 </details>
 
@@ -89,13 +84,13 @@ Dates and 1 adult are pre-filled. Prices were checked on 26 Nov. ⚠️ = time-s
 ## 🛏️ Where to sleep
 
 ### ⭐ Pick: Pequi Hostel
-- **Unit:** bed in an 8-bed mixed dorm. **$62 for 4 nights on Booking** (26 Nov; Hostelworld $64.68).
+- **Unit:** bed in an 8-bed mixed dorm. **$31 for 2 nights on Booking** (✅ 27 Nov; it was $62 for 4 nights on 26 Nov).
 - **Reviews:** Booking **9.6** (250 reviews, **0 % below 7**), location **9.8**; Hostelworld listed.
 - **House rules:** no parties or events, **quiet hours 22:00–07:00**; shared kitchen.
 - **Where:** in Lagoa da Conceição, LP's "rowdy and social" hub, 39 min on foot from the viewpoint and 5 min from the 2120 bus.
 
 ### Backup: Tucano House
-- Bunk in a mixed dorm, **$55 on Booking** (Hostelworld $56.16 = $14.04 a night).
+- Bunk in a mixed dorm, **$26 for 2 nights on Booking** (✅ 27 Nov).
 - Hostelworld **9.6 from 1,275 reviews**, Booking 9.3 (244; 1 % below 7), location 9.0; kitchen ✅ (Hostelworld).
 - Reviews mention shared dinners and "a party" side: fine as a backup, not for early hike starts.
 
@@ -125,29 +120,24 @@ Dates and 1 adult are pre-filled. Prices were checked on 26 Nov. ⚠️ = time-s
 
 ## 🍽️ Eat and drink
 
-- **Cook at the hostel on 24–25 Dec:** supermarkets close early on Christmas Eve, and most restaurants shut on Christmas Day.
+- **Buy food for the bus on the 23rd:** supermarkets close early on Christmas Eve.
 - Lagoa's main streets have por-quilo buffets (pay by weight) for lunch; seafood ("sequência de camarão") is the local splurge. Prices weren't researched.
 
 ## ℹ️ Good to know
 
 - **Season:** Christmas week is the start of Brazil's summer peak; prices rise from Réveillon (New Year), after you leave. LP: prices drop 15–40 % outside high season.
 - **Island buses:** one fare covers a ride plus one transfer at the district terminals (LP; the fare was R$4.20 in LP and is higher now). Uber is cheap: LP quotes ≈ R$26 from the airport to Lagoa.
-- **Christmas Day:** reduced bus timetables on the 25th; plan beach days near the hostel.
 - **Sea:** east-coast beaches (Mole, Joaquina, Galheta) have strong surf; swim where there are lifeguards.
 
-## 🚌 Leaving: Florianópolis → Montevideo, Sat 26 Dec
+## 🚌 Leaving: Florianópolis → Porto Alegre, Thu 24 Dec
 
-- **EGA 14:30** (semi-cama ≈ UYU 5,845 / $146; cama UYU 7,195) or **TTL 15:00**, both **Saturdays only**, arriving Tres Cruces Sun 27 Dec ≈ 09:45–10:30 ✅ Tres Cruces terminal timetable (26 Nov). Bring US$/UYU for Uruguay; the border stop is at Chuí/Chuy at night.
-- Then the plan continues unchanged: [Montevideo](montevideo.md) Sun 27 → Mon 28, Cabo Polonio 28 → 30, New Year's Eve in Montevideo.
+- A **morning bus** from Rita Maria (≈ 7 h): operators, times and fares are in the [Porto Alegre guide](porto-alegre.md). For reference, on Sat 26 Dec Expresso NS da Penha's semi-leito 14:00 → 21:00 cost **R$164.59** (≈ $27.65 ✅ ClickBus, 26 Nov).
+- Then the route continues: [Porto Alegre](porto-alegre.md) 24 → 26 Dec, the Planalto night bus to Chuí, and [Punta del Diablo](punta-del-diablo.md) 27 → 28 Dec.
 
-<details><summary>Plan B2: via Porto Alegre and Punta del Diablo (cheaper, more legs)</summary>
+<details><summary>Before 27 Nov: Plan B (4 nights here, then the EGA bus straight to Montevideo)</summary>
 
-- **Sat 26 Dec:** 🚌 Florianópolis **14:00 → Porto Alegre 21:00** (Expresso NS da Penha semi-leito, **R$164.59** ≈ $27.65 ✅ [ClickBus](https://www.clickbus.com.br/onibus/florianopolis-sc/porto-alegre-rs?departureDate=2026-12-26)), then **Planalto 23:30 → Chuí Sun 27 09:00** (convencional **R$267.95** ≈ $45, executivo R$347.95 ✅ [ClickBus](https://www.clickbus.com.br/onibus/porto-alegre-rs/chui-rs?departureDate=2026-12-26)).
-- **Sun 27 Dec:** get the **Uruguay entry stamp** at the Chuy border post (insist on both stamps), then any Montevideo-bound Ruta 9 bus from Chuy (e.g. CYNSA 10:15, COT 11:30, Rutas del Sol 12:45 ✅ Tres Cruces timetable) stops at **Punta del Diablo** (≈ 1 h 20).
-- **Bed, 27 → 28 Dec:** **Mar de Fondo Hostel**, bed in a 4-bed dorm, **$26** on [Booking](https://www.booking.com/hotel/uy/mar-de-fondo-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · 9.2 (269; 1 % below 7), location 9.6, kitchen. Skip Compay ($18): its reviews describe a party hostel.
-- **Do:** the fishermen's beach and rocks ([Playa de los Pescadores](https://www.google.com/maps?ftid=0x95732dbca4e40137:0xdf7cb972b9e4ec67)), and the coastal walk or a bus to **[Fortaleza de Santa Teresa](https://www.google.com/maps?ftid=0x950d1dcb7cbb5fad:0xa812dbb5abe809)** in its national park (LP: free fort grounds, beaches, flamingos at Laguna Negra).
-- **Mon 28 Dec:** on to Cabo Polonio: a Ruta 9 bus to Castillos, then the Rutas del Sol Valizas line to the Cabo Polonio gate. ⚠️ Only the **winter 2026 timetable** is published (Castillos → Cabo Polonio 19:20 that season); summer adds runs. Check rutasdelsol.com.uy in December, or ask the hostel about a shared taxi.
-- **Saves** the Montevideo bed on the 27th ($25) and ≈ $45 of bus fare against EGA; **costs** an extra night-bus change at 23:30 in Porto Alegre.
+- **EGA 14:30** (semi-cama ≈ UYU 5,845 / $146; cama UYU 7,195) or **TTL 15:00**, both **Saturdays only**, Florianópolis → Montevideo Tres Cruces, arriving Sun ≈ 09:45–10:30 ✅ Tres Cruces terminal timetable (26 Nov). EGA's Brazilian shop didn't load headless, so the reverse fare wasn't confirmed.
+- That plan kept 4 nights here (Pequi $62) and a Montevideo night on the 27th. The current route trades two of those nights for Porto Alegre and the 27th for Punta del Diablo.
 
 </details>
 

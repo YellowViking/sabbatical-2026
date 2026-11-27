@@ -135,7 +135,7 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
   - **Bs 70 for foreigners**, guided tours only, ≈ 1 h 30, up to 25 people, **daily**. The site lists QR payment, which foreign apps can't use, so bring cash and ask.
   - **English tours Mon–Fri 09:00, 11:00 and 14:30** (Sat–Sun 09:15, 11:00); Spanish tours run about every half-hour 09:00–15:00 on weekdays.
   - LP's older figures were B$40 + B$20 for photos, Tue–Sun; LP calls it one of South America's finest museums.
-  - **Sun 24:** take the **09:15** English tour (✅ casanacionaldemoneda.bo, 27 Nov: at weekends English tours run only at 09:15 and 11:00, and the box office closes at 11:45). The weekday 14:30 tour doesn't run on Sundays.
+  - **Day 2 (Sun 24 Jan):** take the **09:15** English tour (✅ casanacionaldemoneda.bo, 27 Nov: at weekends English tours run only at 09:15 and 11:00, and the box office closes at 11:45). The weekday 14:30 tour doesn't run on Sundays.
 - **Ojo del Inca, Tarapaya (outdoors, cheap; Sunday afternoon):** a perfectly round, 30 °C green crater lake you can swim in, 21 km north-west of town (LP).
   - Camiones from Mercado Chuquimia on Av. Antofagasta (near the old terminal) every ≈ 30 min, 06:00–19:00, B$4, 30 min; taxi ≈ B$70 one way. The last ride back leaves Tarapaya around 17:00–18:00 (LP).
   - After the 09:15 mint tour (≈ 1 h 30) there's the whole afternoon; be on a ride back by ≈ 17:00.

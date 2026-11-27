@@ -1,11 +1,11 @@
-# 🇵🇾 Asunción
+# 🇵🇾 Asunción (Plan A, dropped)
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Encarnación](encarnacion.md) →
 
-> 🔁 **Backup plan:** if Paraguay looks shaky, [Plan B: Florianópolis](florianopolis.md) replaces 21–27 Dec (Asunción + Encarnación) with 4 nights on the island and the EGA bus to Montevideo on Sat 26 Dec. Nothing after 27 Dec changes.
+> ⏸️ **Plan A, dropped 27 Nov.** Christmas week now goes down Brazil's coast instead: [Florianópolis](florianopolis.md) → [Porto Alegre](porto-alegre.md) → [Punta del Diablo](punta-del-diablo.md). This guide is kept in case Paraguay comes back; its dates, prices and bookings were checked 24–26 Nov and haven't been rechecked.
 
 
-> **Stop 7 · Mon 21 → Wed 23 Dec 2026 · 2 nights**<br>
+> **Plan A (dropped) · Mon 21 → Wed 23 Dec 2026 · 2 nights**<br>
 > 🏞️ Paraguay's capital on its river bay: a waterfront promenade, a compact old centre and a mural-covered hillside barrio<br>
 > 🛏️ **Hostel Chaton**, a bunk in a mixed dorm, $18 for 2 nights<br>
 > 🚌 **In:** Expresso Nordeste from Foz do Iguaçu, Mon 08:00 · **Out:** La Encarnacena to Encarnación, Wed 08:30

@@ -1,11 +1,11 @@
 # 🇺🇾 Montevideo
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Encarnación](encarnacion.md) · [Cabo Polonio](cabo-polonio.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Cabo Polonio](cabo-polonio.md) · [Colonia](colonia.md) →
 
-> **Stops 9 + 11 · Sun 27 → Mon 28 Dec and Wed 30 Dec 2026 → Fri 1 Jan 2027 · 1 + 2 nights · New Year's Eve**<br>
-> 🏞️ A laid-back capital on a long waterfront Rambla, with city beaches, a Sunday flea market and a paper-throwing New Year's Eve<br>
-> 🛏️ **MedioMundo Hostel**, a bed in a 6-bed dorm, $25 + $50 (no New Year premium)<br>
-> 🚌 **In:** EGA overnight from Encarnación, Sun 27 07:15 · **Cabo Polonio:** Rutas del Sol out Mon 28 10:10, back Wed 30 20:10 · **Out:** COT to Colonia, Fri 1 Jan 09:30
+> **Stop 11 · Wed 30 Dec 2026 → Fri 1 Jan 2027 · 2 nights · New Year's Eve**<br>
+> 🏞️ A laid-back capital on a long waterfront Rambla, with city beaches and a paper-throwing New Year's Eve<br>
+> 🛏️ **MedioMundo Hostel**, a bed in a 6-bed dorm, $50 for 2 nights (no New Year premium)<br>
+> 🚌 **In:** Rutas del Sol from Cabo Polonio, Wed 30, Tres Cruces 20:10 · **Out:** COT to Colonia, Fri 1 Jan 09:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf34w9NDdofo3Kw5g2LglTB80IUcoXJjKWkq5aU8hfACUUlwYryqat_Ko-T4r64sOnCf-3rQivb6Oe7CBeXwYkatmQy7LfUlsGD7XH3HOyHFO74gSKa0zJtBcpUChV2nRUxTBs4w=w1200-h360-p-k-no" alt="Pocitos beach and the Rambla curving along the bay in Montevideo" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 ![Map of central Montevideo: the hostel in Parque Rodó, Tres Cruces terminal, Ciudad Vieja, the beaches and the market](img/montevideo-map-4dfbefd1.jpg)
 
-**In town:** ★ **[MedioMundo Hostel](https://www.google.com/maps?ftid=0x959f81a456ed8df9:0xeb2b6db7e1a9768b)** (the pick; Youki Haus, the 27 Dec backup, is on the same street, [book](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Viajero Montevideo Hostel](https://www.google.com/maps?ftid=0x959f81d290a982e7:0x4d318138258d4c98) (New Year backup, [book](https://www.agoda.com/partners/partnersearch.aspx?hid=245581&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1)) · **2** [Circus Hotel](https://www.google.com/maps?ftid=0x959f7f800d93b873:0x8e35f88b89280ae7) (🎆 holiday backup, [book](https://www.booking.com/hotel/uy/circus-hostel-amp-montevideo.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Apartamento céntrico](https://www.google.com/maps?ftid=0x959f81b4f4a4a39f:0x7454e0c6f5bafece) (private alt, beside 4, [book](https://www.booking.com/searchresults.html?ss=Guayabos+1790+Montevideo&checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [Tres Cruces bus terminal](https://www.google.com/maps?ftid=0x959f80522ba3212b:0xdc820d37aaf2dd36) · **4** [Feria de Tristán Narvaja](https://www.google.com/maps?ftid=0x959f804b2d33107b:0x96c7b9f5e31dc82) [🚶 22 min](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9021695,-56.1774&travelmode=walking) · **6** [Playa Pocitos](https://www.google.com/maps?ftid=0x959f816c4983d23f:0x371de34edac4830d) [🚌 14 min (bus 128)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.911679,-56.1448388&travelmode=transit) · **7** [Playa Ramírez](https://www.google.com/maps?ftid=0x959f81bd2c0d85ad:0x5647ad7d1621b33d) [🚶 16 min](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9163774,-56.1697373&travelmode=walking) · **8** [Plaza Independencia](https://www.google.com/maps?ftid=0x959f802b0e1d1f07:0x7d9cac3abf570af3) [🚌 19 min (bus 407)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9070225,-56.1997977&travelmode=transit) (Ciudad Vieja) · **9** [Mercado del Puerto](https://www.google.com/maps?ftid=0x959f7f8458a9a267:0xab03acd0858658d2) [🚌 29 min (bus 116 + bus D11)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9056855,-56.2117517&travelmode=transit) · **10** [Barrio Sur](https://www.google.com/maps/@-34.9109,-56.1882,16z) [🚌 11 min (bus 300)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9108776,-56.1881819&travelmode=transit) (candombe) · **11** [Bar Facal](https://www.google.com/maps?ftid=0x959f81ccd6fd326f:0x33d7855c66ecd541) [🚌 17 min (bus 149)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9055998,-56.1892516&travelmode=transit) · **12** [Montevideo Brew House](https://www.google.com/maps?ftid=0x959f810a3d223451:0x4bb459831cea35c8) [🚶 14 min](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9103682,-56.1573441&travelmode=walking)
+**In town:** ★ **[MedioMundo Hostel](https://www.google.com/maps?ftid=0x959f81a456ed8df9:0xeb2b6db7e1a9768b)** (the pick, [book](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Viajero Montevideo Hostel](https://www.google.com/maps?ftid=0x959f81d290a982e7:0x4d318138258d4c98) (New Year backup, [book](https://www.agoda.com/partners/partnersearch.aspx?hid=245581&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1)) · **2** [Circus Hotel](https://www.google.com/maps?ftid=0x959f7f800d93b873:0x8e35f88b89280ae7) (🎆 holiday backup, [book](https://www.booking.com/hotel/uy/circus-hostel-amp-montevideo.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Apartamento céntrico](https://www.google.com/maps?ftid=0x959f81b4f4a4a39f:0x7454e0c6f5bafece) (private alt, beside 4, [book](https://www.booking.com/searchresults.html?ss=Guayabos+1790+Montevideo&checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [Tres Cruces bus terminal](https://www.google.com/maps?ftid=0x959f80522ba3212b:0xdc820d37aaf2dd36) · **4** [Feria de Tristán Narvaja](https://www.google.com/maps?ftid=0x959f804b2d33107b:0x96c7b9f5e31dc82) [🚶 22 min](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9021695,-56.1774&travelmode=walking) · **6** [Playa Pocitos](https://www.google.com/maps?ftid=0x959f816c4983d23f:0x371de34edac4830d) [🚌 14 min (bus 128)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.911679,-56.1448388&travelmode=transit) · **7** [Playa Ramírez](https://www.google.com/maps?ftid=0x959f81bd2c0d85ad:0x5647ad7d1621b33d) [🚶 16 min](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9163774,-56.1697373&travelmode=walking) · **8** [Plaza Independencia](https://www.google.com/maps?ftid=0x959f802b0e1d1f07:0x7d9cac3abf570af3) [🚌 19 min (bus 407)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9070225,-56.1997977&travelmode=transit) (Ciudad Vieja) · **9** [Mercado del Puerto](https://www.google.com/maps?ftid=0x959f7f8458a9a267:0xab03acd0858658d2) [🚌 29 min (bus 116 + bus D11)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9056855,-56.2117517&travelmode=transit) · **10** [Barrio Sur](https://www.google.com/maps/@-34.9109,-56.1882,16z) [🚌 11 min (bus 300)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9108776,-56.1881819&travelmode=transit) (candombe) · **11** [Bar Facal](https://www.google.com/maps?ftid=0x959f81ccd6fd326f:0x33d7855c66ecd541) [🚌 17 min (bus 149)](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9055998,-56.1892516&travelmode=transit) · **12** [Montevideo Brew House](https://www.google.com/maps?ftid=0x959f810a3d223451:0x4bb459831cea35c8) [🚶 14 min](https://www.google.com/maps/dir/?api=1&origin=-34.9105207,-56.1668596&destination=-34.9103682,-56.1573441&travelmode=walking)
 
 ![Map of the Montevideo bay: the Cerro and its fortress across the water, Ciudad Vieja, Parque Rodó and the Punta Carretas lighthouse](img/montevideo-area-map-1d78e3d2.jpg)
 
@@ -29,8 +29,6 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sun 27 Dec | 🚌 EGA arrives at Tres Cruces 07:15. Drop the bag at MedioMundo by 07:45. 🛍️ **Feria de Tristán Narvaja** (≈ 09:00–14:00). 🌊 **Rambla walk** to Punta Carretas and Pocitos. 🥁 **Candombe drums** in Barrio Sur from ≈ 18:00–19:00 (✅ street candombe is mainly at weekends; the time is a lead). |
-| **Day 2** · Mon 28 Dec | 🚌 **10:10 Rutas del Sol** to [Cabo Polonio](cabo-polonio.md). |
 | **New Year · Day 1** · Wed 30 Dec | 🚌 Back from Cabo Polonio, Tres Cruces 20:10. Shop for New Year's Eve tonight or tomorrow morning. |
 | **New Year · Day 2** · Thu 31 Dec · 🎆 New Year's Eve | Morning: ⛰️ **Cerro de Montevideo** (or shopping, before supermarkets close early). From late morning: 📄 **paper and water wars** in Ciudad Vieja and Centro, and the 🍺 **cider and beer fight** at the Mercado del Puerto. City buses stop at ≈ 18:30. Evening: hostel asado or shared dinner. 🎆 **Midnight:** fireworks along the Rambla, from Playa Ramírez or Pocitos. |
 | **New Year · Day 3** · Fri 1 Jan · 🎆 New Year's Day | No city buses. 🚶 Walk 2.5 km (30 min) to Tres Cruces for the **09:30 COT** to [Colonia](colonia.md). |
@@ -39,15 +37,13 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (27 → 28 Dec, 1 night; 30 Dec → 1 Jan, 2 nights)
+**Beds** (30 Dec → 1 Jan, 2 nights)
 
 | | Where | Total | Location | From Tres Cruces | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick**, 27 Dec | **MedioMundo Hostel** · bed in a 6-bed mixed dorm | **$25** | 9.4 | 🚌 18 min by bus 300; walk 30 min; ℹ️ outside the centre (46 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=-34.8938383,-56.1663727&destination=-34.9105207,-56.166859599999995&travelmode=transit) | [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-27&to=2026-12-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-27&checkout=2026-12-28&NumberofAdults=1&Rooms=1) |
-| ⭐ **Pick**, New Year | **MedioMundo Hostel** · the same dorm, 30 Dec → 1 Jan | **$50** | 9.4 | 🚌 13 min by bus 407; walk 30 min; ℹ️ outside the centre (46 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=-34.8938383,-56.1663727&destination=-34.9105207,-56.166859599999995&travelmode=transit) | [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) |
-| Backup, 27 Dec | **Youki Haus Hostel** · bed in a 4-bed mixed dorm | $27 | 9.3 | 🚌 16 min: bus 174 → walk 6 min; walk 29 min; ℹ️ outside the centre (47 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=-34.8938383,-56.1663727&destination=-34.910720999999995,-56.166360499999996&travelmode=transit) | [Booking](https://www.booking.com/hotel/uy/youki-haus-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/316645/youki-haus-hostel/?from=2026-12-27&to=2026-12-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=56167397&checkin=2026-12-27&checkout=2026-12-28&NumberofAdults=1&Rooms=1) |
+| ⭐ **Pick**, New Year | **MedioMundo Hostel** · bed in a 6-bed mixed dorm, 30 Dec → 1 Jan | **$50** | 9.4 | 🚌 13 min by bus 407; walk 30 min; ℹ️ outside the centre (46 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=-34.8938383,-56.1663727&destination=-34.9105207,-56.166859599999995&travelmode=transit) | [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) |
 | Backup, New Year | **Viajero Montevideo Hostel** · 10-bed mixed ensuite dorm | $44.53 | 9.0 | 🚌 19 min: walk 4 min → bus 714 → walk 6 min; walk 54 min; centre 4 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-34.8938383,-56.1663727&destination=-34.906412599999996,-56.202146299999995&travelmode=transit) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=245581&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/37593/viajero-montevideo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Viajero+Montevideo+Hostel+&checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Private alt | **Apartamento céntrico** (Guayabos 1790, Cordón) · 1-bed flat with a kitchen | $62 (27 Dec) · $140 (New Year) | 9.8 | — | [Booking (search)](https://www.booking.com/searchresults.html?ss=Guayabos+1790+Montevideo&checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&selected_currency=USD) (room table) |
+| Private alt | **Apartamento céntrico** (Guayabos 1790, Cordón) · 1-bed flat with a kitchen | $140 (New Year) | 9.8 | — | [Booking (search)](https://www.booking.com/searchresults.html?ss=Guayabos+1790+Montevideo&checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&selected_currency=USD) (room table) |
 | 🎆 Holiday backup, New Year | **Circus Hotel Montevideo** · bed in a 6-bed mixed dorm | $32 | 9.2 | 🚌 28 min by bus 407 (taxi 14 min); Plaza Independencia 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-34.8938383,-56.1663727&destination=-34.908818,-56.204281&travelmode=transit) | [Booking](https://www.booking.com/hotel/uy/circus-hostel-amp-montevideo.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 | 🎆 Holiday backup, New Year (alt town) | **Casarão Sacramento Hostel**, **Colonia del Sacramento** · bed in an 8-bed mixed dorm | $40 | 9.8 | 🚶 7 min (450 m) from Colonia's bus terminal; old town 5 min on foot. Also removes the 1 Jan Montevideo → Colonia bus · [route](https://www.google.com/maps/dir/?api=1&origin=-34.4726414,-57.8425142&destination=-34.472580,-57.847469&travelmode=walking) | [Booking](https://www.booking.com/hotel/uy/casarao-sacramento-hostel-amp-suites.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
@@ -55,8 +51,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **EGA** · Encarnación → Tres Cruces (see the [Encarnación guide](encarnacion.md)) | Sat 26 Dec 13:30 → **Sun 27 Dec 07:15** | $124 semi-cama | [EGA Paraguay shop](https://reservadirecta.sittnet.net/Commerce/egapy) |
-| Out | **Rutas del Sol** · Tres Cruces → Cabo Polonio gate | **Mon 28 Dec 10:10 → 14:30** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
+| In | **Rutas del Sol** · Cabo Polonio gate → Tres Cruces (see the [Cabo Polonio guide](cabo-polonio.md)) | **Wed 30 Dec**, arriving 20:10 | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
 | In | **Rutas del Sol** · Cabo Polonio → Tres Cruces | Wed 30 Dec 15:10 → **20:10** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
 | ⚠️ Out | **COT** · Tres Cruces → Colonia (see the [Colonia guide](colonia.md)) | **Fri 1 Jan 09:30 → 12:20** | UYU 579 ≈ $14 | [COT](https://www.cot.com.uy/) |
 
@@ -69,32 +64,24 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Encarnación → Montevideo, Sat 26 → Sun 27 Dec
+## 🚌 Getting here: Cabo Polonio → Montevideo, Wed 30 Dec
 
-- **EGA arrives at Tres Cruces at 07:15** (the bus and ticket are in the [Encarnación guide](encarnacion.md)).
-- MedioMundo is 2.5 km away (city bus or a 30-min walk).
-- It has **24 h reception and free luggage storage**, so drop the bag at 07:45.
+- **Rutas del Sol** from the Cabo Polonio gate to **Tres Cruces, arriving 20:10** (UYU 1,003 ≈ $25; the trip is in the [Cabo Polonio guide](cabo-polonio.md)).
+- MedioMundo is 2.5 km from Tres Cruces: bus 407 (13 min) or a 30-min walk. It has 24 h reception.
+- Since 27 Nov the trip reaches Uruguay overland from Brazil ([Punta del Diablo](punta-del-diablo.md) on the 27th), so Montevideo is only the New Year stop.
 
 ## 🛏️ Where to sleep
 
 **Live-checked 24 Nov.**
 
-### ⭐ Pick: MedioMundo Hostel (both stays)
+### ⭐ Pick: MedioMundo Hostel
 - **Unit:** a bed in a 6-bed mixed dorm.
-- **27 → 28 Dec:** **$25 for 1 night on Booking** (Agoda $26, HW $25.52).
-- **30 Dec → 1 Jan:** **$50 for 2 nights on Booking** (Agoda $52, HW $50.48). **No New Year premium** ($25 a night, the same as 27 Dec). No minimum-stay rule triggered for 30 Dec → 1 Jan on HW or Booking.
+- **30 Dec → 1 Jan:** **$50 for 2 nights on Booking** (Agoda $52, HW $50.48). **No New Year premium** ($25 a night, the same as a normal December night). No minimum-stay rule triggered for 30 Dec → 1 Jan on HW or Booking.
 - Its 4-bed dorm is $58 and its double with shared bath $117 (New Year dates).
 - **Reviews:** Booking **9.2 (1,010; 0% below 7)**, **location 9.4**; HW 94 (775).
 - **Where:** San Salvador 2211, Parque Rodó, 200 m from the Rambla and beach, 3 km from Ciudad Vieja.
 - ✅ **Stove kitchen** (cooker, utensils, BBQ). ✅ **Bed curtains** (review: "las camas… tienen cortinas").
 - Not a party hostel. The noise complaints are about street traffic and thin walls, not parties.
-
-### Backup, 27 Dec: Youki Haus Hostel
-- Same street, no. 2248. Bed in a 4-bed mixed dorm.
-- **$27 on Booking** (Agoda $30.63, HW $30.52).
-- Booking 8.8 (475; 4% below 7), location 9.3; HW 96 (89).
-- Bunks with curtains, stove kitchen.
-- ⚠ On a busy corner (traffic noise).
 
 ### Backup, New Year: Viajero Montevideo Hostel
 - Ciudad Vieja. 10-bed mixed ensuite dorm.
@@ -107,8 +94,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 ### Private alt (location first): Apartamento céntrico
 - Guayabos 1790, Cordón. A one-bedroom flat with a kitchen.
 - Booking **location 9.8** (9.7; 83 reviews; 0% below 7).
-- **27 Dec: $62** (room table). **30 Dec → 1 Jan: $140 for 2 nights** (room table; $70 a night against $62 on 27 Dec). Booking.
-- **27 Dec second choice:** [LocoAmor](https://www.google.com/maps?ftid=0x959f7f327b777319:0xc95112e6d5424ff7) in Ciudad Vieja, single room with private bath, location 9.5 (9.2 from 103 reviews), $45.
+- **30 Dec → 1 Jan: $140 for 2 nights** (room table; $70 a night). Booking.
 - **New Year alternative:** [Hotel London Palace](https://www.google.com/maps?ftid=0x959f81d2bbe5b89d:0xf0bdbe882d25eec9) (Centro, location 9.2; 8.6 from 1,823 reviews; 1% below 7), single room with breakfast, $126 for 2 nights.
 
 ### 🎆 Holiday backups (New Year's Eve)
@@ -137,15 +123,17 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-**Sunday 27 Dec:**
-- **Feria de Tristán Narvaja:** the huge Sunday flea and food market in Cordón, ≈ 09:00–14:00 (LP: to 16:00). Free; 1.5 km from the hostel. It runs north from Av 18 de Julio along Calle Tristán Narvaja and into the side streets (LP).
+**Any time (Wed 30 evening, Thu 31 morning):**
 - **Rambla walk:** Parque Rodó → Punta Carretas lighthouse → Pocitos beach, ≈ 6 km of waterfront. Free. LP's tip: the whole Rambla is a ≈ 20 km walking and cycling path, from Ciudad Vieja past Parque Rodó, Punta Carretas, Pocitos, Buceo and Malvín to Carrasco; Orange Bike (Pérez Castellano 1417, Ciudad Vieja) rented bikes by the half or whole day (LP).
 - **Or the other way, to Ciudad Vieja:** [Plaza Independencia](https://www.google.com/maps?ftid=0x959f802b0e1d1f07:0x7d9cac3abf570af3), [Puerta de la Ciudadela](https://www.google.com/maps?ftid=0x959f802afe10cee1:0xb95846203de847c5), [Peatonal Sarandí](https://www.google.com/maps?ftid=0x959f7f80806f152b:0x6e2990084a9e2348), the Mercado del Puerto to look at. Also free. LP calls the Mercado del Puerto unmissable and says it's liveliest on weekend afternoons, with artists, craftspeople and street musicians (LP).
-- **Candombe drums:** the comparsas parade through Barrio Sur and Palermo (around Isla de Flores / Carlos Gardel streets), ≈ from 18:00–19:00. Free; ask at the hostel for the time.
-  - ✅ The city's tourism site (descubrimontevideo.uy/candombe) says street candombe is played mainly at **weekends and on public holidays**, so Sunday 27 fits. It also offers **Latido Afro**, a free self-guided route through Barrio Sur and Palermo.
-  - LP: comparsas practise informally at weekends all year, and the drummers mostly parade along **Isla de Flores, from Salto to Gaboto** (LP).
+- **Swim out to the island off Playa Malvín** (≈ 700 m offshore, palm-covered; the Broke Backpacker's tip) or join the beach-volleyball games at **Pocitos**. Free.
 - **Free museums:** the Museo Nacional de Artes Visuales in Parque Rodó, 5 min from the hostel: ✅ free, Tue–Sun 13:00–20:00 (mnav.gub.uy). **Casa Rivera** (Rincón 437, Ciudad Vieja), the National Historical Museum in the first president's 1802 house, is free and open ≈ Wed–Sun 12:00–17:45 (LP).
-- Optional, for a keen hiker who speaks Spanish: **Sierra de las Ánimas** (see below). It is only open on weekends, so Sunday 27 Dec is the only possible day.
+- **Not on this route any more** (since the 27 Nov switch there's no Sunday here):
+  - **Feria de Tristán Narvaja:** the huge Sunday flea and food market in Cordón, ≈ 09:00–14:00 (LP: to 16:00). Free; 1.5 km from the hostel. It runs north from Av 18 de Julio along Calle Tristán Narvaja and into the side streets (LP).
+  - **Candombe drums:** the comparsas parade through Barrio Sur and Palermo (around Isla de Flores / Carlos Gardel streets), ≈ from 18:00–19:00. Free; ask at the hostel for the time.
+    - ✅ The city's tourism site (descubrimontevideo.uy/candombe) says street candombe is played mainly at **weekends and on public holidays** (31 Dec isn't a parade night). It also offers **Latido Afro**, a free self-guided route through Barrio Sur and Palermo.
+    - LP: comparsas practise informally at weekends all year, and the drummers mostly parade along **Isla de Flores, from Salto to Gaboto** (LP).
+  - Sierra de las Ánimas (weekends only, see below).
 
 **New Year's Eve:**
 - **31 Dec, from late morning: paper and water wars in Ciudad Vieja and Centro.** Office workers rip up their diaries and throw them out of the windows, and soak passers-by with buckets.
@@ -168,28 +156,28 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - **Teatro Solís** guided tours: cheap, and free on Wednesdays (LP), but you're at Cabo Polonio that Wednesday.
 - **Mercado Agrícola (MAM)** (José Terra 2220, 2.5 km north of the centre, ≈ 09:00–22:00): a restored market hall with food stalls, cafés and Mastra's brewpub (LP).
 
-<details><summary><b>Sierra de las Ánimas: does it work en route? Mostly no.</b> (✅ official site, sierradelasanimas.com)</summary>
+<details><summary><b>Sierra de las Ánimas: doesn't fit since 27 Nov</b> (✅ official site, sierradelasanimas.com)</summary>
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RylOWQt06x82e2TmNuA7h_oXH6tgXbP7ua2IRfsszQDX2Tp-rLDy2QsTwFKW9opwQaqDSKo_6HHnoJzV6z3TspW0m3xWxH8Ge0F0K8q88RjWN3TTTWc6xa_H6oioKtDf3RML66ZQ=w640-h400-p-k-no" width="50%" alt="A hiker on the summit rocks of Cerro de las Ánimas looking over the hills to the sea">
 
 <sub>[Cerro de las Ánimas](https://www.google.com/maps?ftid=0x95755acb0cc1dcf5:0x58b1134b33b776ea) summit. Photo: Google Maps.</sub>
 
 - It is a private reserve on the Interbalnearia at **km 86** ("Parada Los Cardos", opposite Parador Los Cardos). Any Punta del Este or Rocha bus stops there, but not the Piriápolis buses.
-- It is open **Saturdays and Sundays only ("not all of them")**, plus Carnival week and Easter week. **Mon 28 and Wed 30 Dec are closed.**
+- It is open **Saturdays and Sundays only ("not all of them")**, plus Carnival week and Easter week. **Wed 30 Dec is closed**, and there's no weekend day in Montevideo now.
 - Booking ahead is **mandatory, by WhatsApp text only** (094 419 891). They confirm whether that weekend is open and what kit is compulsory.
 - Entry is **UYU 250 ≈ $6**. Walks: Cerro de las Ánimas summit (501 m) ≈ 4 h return; Cañadón de los Espejos ≈ 4 h; both together 7–8 h.
 - **Foreigners who aren't fluent in Spanish must come with a Spanish speaker.**
 - There is **no luggage storage** and no camping (closed).
 
-So it can't be a stop on the way to Cabo Polonio with bags. The only fit is **Sun 27 Dec** as a day trip from Montevideo, straight off the night bus: leave bags at MedioMundo, take a ≈ 08:30 Rocha or Punta del Este bus from Tres Cruces (≈ 1 h 15; ≈ UYU 290–330, between COT's Peaje Solís and Pan de Azúcar fares), do the summit loop, and be back by ≈ 18:00.
+So it doesn't fit this route (since 27 Nov there's no weekend in Montevideo).
 
-**Recommendation: skip it** unless you speak Spanish and feel fresh after 18 h on the bus.
+**Recommendation: skip it.**
 
 **An alternative that LP lists as open every day: Cerro Pan de Azúcar** (389 m, Uruguay's fourth-highest hill), ≈ 5 km north of Piriápolis.
 - The trail is ≈ 2½ h return from the car park of the Reserva de Fauna Autóctona: a dirt track, then a steep path marked with red arrows (LP).
 - **Castillo de Piria**, the town founder's extravagant mansion, is across the road and free, ≈ 09:00–18:00 (LP).
 - Montevideo → Piriápolis is ≈ 1½ h by COT or Copsa (LP). The local leg to the trailhead isn't checked ≈.
-- It could fill Sun 27 or the morning of Thu 31 Dec, but neither is a rest day, so treat it as optional.
+- It could fill the morning of Thu 31 Dec, but that isn't a rest day, so treat it as optional.
 
 </details>
 
@@ -212,7 +200,7 @@ So it can't be a stop on the way to Cabo Polonio with bags. The only fit is **Su
   - **Bar Tasende** (Ciudadela × San José, since 1931): *muzzarella al tacho* pizza slices, a cheap snack with a beer (LP).
   - **Café Brasilero** (Ituzaingó 1447, Ciudad Vieja, since 1877; Mon–Sat): a wood-panelled old café with a good-value menú ejecutivo (LP).
   - **Shawarma Ashot** (Zelmar Michelini 1295, Centro; closed Sunday): cheap falafel and shawarma (LP).
-  - **La Pulpería** (Lagunillas × Nuñez, Punta Carretas): a small neighbourhood parrilla with no sign, open for Sunday lunch ≈ 12:00–16:00, so it fits the 27 Dec Rambla walk (LP).
+  - **La Pulpería** (Lagunillas × Nuñez, Punta Carretas): a small neighbourhood parrilla with no sign, open for Sunday lunch ≈ 12:00–16:00, so it doesn't fit this route any more (LP).
 - **Near the hostel (LP):** **El Club del Pan** bakery (Pablo de María × Muller, Tue–Sat, lunchtime sandwiches) and **Escaramuza**, a bookshop-café (Pablo de María 1185, Mon–Sat). The Parque Rodó–Cordón bars cluster around **Canelones × Juan Jackson**, a few blocks away; Baker's Bar (Pablo de María 1198) is one (LP).
 - **Craft beer (LP):** **Mastra**, Uruguay's best-known microbrewery, has its main pub in the Mercado Agrícola (four-beer tasting board on weekdays) and another in Pocitos (26 de Marzo × Pérez). The **Shannon Irish Pub** (Bartolomé Mitre 1318, Ciudad Vieja) pours Uruguayan microbrews with live music every night (LP).
 - **Tango:** **Fun Fun** (Tue–Sat from 20:00), a tango bar since 1895 known for its *uvita* wine drink. LP had it at Soriano 922 but expected it to move back to the Mercado Central, so check the address (LP). Wed 30 is the only night that fits.
@@ -222,7 +210,6 @@ So it can't be a stop on the way to Cabo Polonio with bags. The only fit is **Su
 ## ℹ️ Good to know
 - **Weather:** Uruguay is mid-summer (≈ 28 °C) and sunny, with strong wind on the Rambla.
 - **Safety:** Ciudad Vieja is dodgy late at night, so take the bus or Uber back. (LP says a city clean-up has cut petty crime there, but the advice stands.)
-- **Sunday arrival:** most shops are shut, but the market and the Rambla are lively.
 - **Tres Cruces** has left luggage, ATMs, a tourist office and the Indumex exchange (≈ 06:00–24:00) (LP).
 - **City buses (LP):** the **CA1** from the east side of Tres Cruces runs along Av 18 de Julio to Ciudad Vieja; the **174** goes to Punta Carretas and the **183** to Pocitos. The city's "Cómo ir" planner (montevideo.gub.uy) gives routes (LP).
 - **Taxis** are metered and cost 20% more 22:00–06:00 and on Sundays and holidays; Uber is widely used (LP).
@@ -233,8 +220,6 @@ So it can't be a stop on the way to Cabo Polonio with bags. The only fit is **Su
 - Very few restaurants open on 24/25 and 31 Dec/1 Jan.
 
 ## 🚌 Leaving
-
-**Mon 28 Dec → Cabo Polonio:** **Rutas del Sol 10:10** from Tres Cruces, arriving at the Cabo Polonio gate 14:30, UYU 1,003 ≈ $25. Details in the [Cabo Polonio guide](cabo-polonio.md).
 
 **Fri 1 Jan → Colonia:** **walk** the 2.5 km (30 min) from the hostel to Tres Cruces for the **COT 09:30 → Colonia 12:20**, UYU 579 ≈ $14. Details and the holiday fallbacks are in the [Colonia guide](colonia.md).
 

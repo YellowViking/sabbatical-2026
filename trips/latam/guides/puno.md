@@ -131,7 +131,7 @@ Live-checked on 24 Nov (Hostelworld API).
 
 ## ℹ️ Good to know
 - **Altitude:** 3,830 m (the same as Copacabana).
-- **Fiesta de la Candelaria 2027** (the Federación's calendar on vivecandelaria.com, ✅ 27 Nov): Sat 30 – Sun 31 Jan, the danzas originarias contest in the stadium; **Tue 2 Feb, the central day**, with Mass at the Santuario and the procession through the flower-carpeted streets of the centre; Sun 7 Feb, the trajes de luces contest; Mon 8 – Tue 9 Feb, the parade. Puno is busy and short of beds (see Where to sleep).
+- **Fiesta de la Candelaria 2027** (the Federación's calendar on vivecandelaria.com, ✅ 27 Nov): Sat 30 – Sun 31 Jan, the danzas originarias contest in the stadium; **the central day, Tue 2 Feb**, with Mass at the Santuario and the procession through the flower-carpeted streets of the centre; Sun 7 Feb, the trajes de luces contest; Mon 8 – Tue 9 Feb, the parade. Puno is busy and short of beds (see Where to sleep).
   - LP's rule: when Candlemas falls on a Sunday to Tuesday, the big celebrations start the Saturday before. 2 Feb 2027 is a Tuesday, so they start Sat 30 Jan, two days before you arrive, which matches the calendar. Your night is the eve of the central day: expect a loud, boozy Monday night (LP says the drinking is legendary).
 - **Cash:** soles from the ATMs on Jr. Lima (BCP is there, LP) or at the bus terminal. Change leftover bolivianos at the border or in Copacabana.
 - **Tourist info:** iPerú on the Plaza (corner of Jr. Lima and Deustua), Mon–Sat 09:00–18:00 (LP).

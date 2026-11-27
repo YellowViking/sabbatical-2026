@@ -1,8 +1,8 @@
 # Paraguay + Uruguay: region notes
 
-Part of the [LatAm itinerary](../itinerary.md). Stops: [Asunción](asuncion.md) · [Encarnación](encarnacion.md) · [Montevideo](montevideo.md) · [Cabo Polonio](cabo-polonio.md) · [Colonia stopover → Buenos Aires → Córdoba](colonia.md)
+Part of the [LatAm itinerary](../itinerary.md). Uruguay stops: [Punta del Diablo](punta-del-diablo.md) · [Cabo Polonio](cabo-polonio.md) · [Montevideo](montevideo.md) · [Colonia stopover → Buenos Aires → Córdoba](colonia.md). Paraguay (dropped Plan A): [Asunción](asuncion.md) · [Encarnación](encarnacion.md)
 
-> 🔁 **Backup plan:** if Paraguay looks shaky, [Plan B: Florianópolis](florianopolis.md) replaces the Paraguay leg, 21–27 Dec, with 4 nights on the island and the EGA bus to Montevideo on Sat 26 Dec. Nothing after 27 Dec changes.
+> ⏸️ **27 Nov: Paraguay dropped.** Christmas week now goes down Brazil's coast ([Florianópolis](florianopolis.md) → [Porto Alegre](porto-alegre.md)) and into Uruguay at Chuí → [Punta del Diablo](punta-del-diablo.md). The Paraguay notes below are kept as Plan A; Montevideo is now only the New Year stop. Nothing from 28 Dec on changed.
 
 
 **2. Paraguay + Uruguay (stops 7–11): Mon 21 Dec → Sat 2 Jan**

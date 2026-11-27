@@ -17,12 +17,12 @@ S = [
  (3,'Paraty','14–15 Dec',-23.1,-45.45, -2,-14,'end'),
  (4,'São Paulo','15–17 Dec',-23.7,-47.0, -12,-6,'end'),
  (5,'Curitiba','17–18 Dec',-25.43,-49.27, 12,14,'start'),
- (6,'Foz do Iguaçu','19–21 Dec',-25.55,-54.58, 10,18,'start'),
- (7,'Asunción','21–23 Dec',-25.28,-57.63, -10,-10,'end'),
- (8,'Encarnación','23–26 Dec',-27.33,-55.87, 12,10,'start'),
- (9,'Montevideo','27–28 Dec · 30 Dec–1 Jan',-34.9,-56.16, 4,22,'start'),
- (10,'Cabo Polonio','28–30 Dec',-34.4,-53.78, 12,-4,'start'),
- (11,'Colonia (stopover)','1 Jan',-34.47,-57.84, -12,-8,'end'),
+ (6,'Foz do Iguaçu','19–21 Dec',-25.55,-54.58, -10,16,'end'),
+ (7,'Florianópolis','22–24 Dec',-27.6,-48.5, 12,4,'start'),
+ (8,'Porto Alegre','24–26 Dec',-30.03,-51.23, -12,4,'end'),
+ (9,'Punta del Diablo','27–28 Dec',-33.55,-52.95, 12,-2,'start'),
+ (10,'Cabo Polonio','28–30 Dec',-34.4,-53.78, 12,12,'start'),
+ (11,'Montevideo','30 Dec–1 Jan',-34.9,-56.16, 4,22,'start'),
  (12,'Córdoba + Los Gigantes','2–7 Jan',-31.42,-64.18, -12,4,'end'),
  (13,'Cafayate','8–10 Jan',-26.07,-65.98, -12,6,'end'),
  (14,'Salta','10–12 Jan',-24.79,-65.41, 12,6,'start'),
@@ -48,9 +48,9 @@ S = [
  (34,'Granada + Laguna de Apoyo','25–27 Feb',11.93,-85.96, 0,0,'start'),
  (35,'León','27 Feb–2 Mar',12.43,-86.88, 0,0,'start'),
  (36,'Estelí','2–3 Mar (+ airport night)',13.09,-86.35, 0,0,'start'),
- (37,'Somoto canyon','optional',13.48,-86.58, 0,0,'start'),
+ (37,'Somoto canyon','day trip, 8 Mar',13.48,-86.58, 0,0,'start'),
 ]
-OPTIONAL = {37}
+OPTIONAL = set()
 # Dates come from trips/latam/schedule.json when it exists (stop n → guide → its stays), so the map follows a reschedule.
 def from_schedule(S_):
     import datetime as _dt, re as _re
@@ -74,7 +74,8 @@ def from_schedule(S_):
         g = GUIDES.get(s_[0]); bl = blocks.get(g)
         if not bl or s_[0] in OPTIONAL: out.append(s_); continue
         if g == 'cordoba': bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]   # last 'night' is the bus to Tucumán
-        if g in ('curitiba', 'encarnacion'): bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]
+        if g in ('curitiba', 'porto-alegre'): bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]   # last 'night' is a night bus
+        if g == 'florianopolis': bl = [[bl[0][0] + _dt.timedelta(days=1), bl[0][1], None]]   # first 'night' is the bus from Foz
         txt = ' · '.join(rng(a, b) if b > a else f'{a.day} {M[a.month]}' for a, b, _ in bl)
         if g == 'colonia': txt = f'{bl[0][0].day} {M[bl[0][0].month]}'
         old = s_[2]; pre = _re.match(r'^[^\d]*', old).group(0); post = _re.search(r'[^\d A-Za-z–·]*(?:\s*\(.*\))?$', old).group(0) if '(' in old else ''
@@ -83,7 +84,7 @@ def from_schedule(S_):
 
 # each stop links to its guide when the SVG is opened on its own (GitHub shows embedded SVGs as plain images)
 GUIDE_BASE = os.environ.get('GUIDE_BASE', 'https://github.com/YellowViking/sabbatical-2026/blob/latam-route-v5/trips/latam/')
-GUIDES = dict(enumerate(['rio-de-janeiro','ilha-grande','paraty','sao-paulo','curitiba','foz-do-iguacu','asuncion','encarnacion','montevideo','cabo-polonio','colonia',
+GUIDES = dict(enumerate(['rio-de-janeiro','ilha-grande','paraty','sao-paulo','curitiba','foz-do-iguacu','florianopolis','porto-alegre','punta-del-diablo','cabo-polonio','montevideo',
   'cordoba','cafayate','salta','quebrada-de-humahuaca','san-pedro-de-atacama','uyuni-jeep-tour','potosi','sucre','la-paz','copacabana-isla-del-sol','puno','colca-canyon',
   'arequipa','panama-city','boquete','san-gerardo-de-rivas','uvita','monteverde','la-fortuna','rincon-de-la-vieja','san-juan-del-sur','ometepe','granada','leon','esteli','somoto'], 1))
 import datetime as _dt0
@@ -96,15 +97,14 @@ def alink(page, inner): return f'<a href="{gurl(page)}" xlink:href="{gurl(page)}
 CA = {s[1] for s in S if s[0] >= 25}
 st = {s[1]: s for s in S}
 FOR, NAT, GOI, POA, CHUY, BA, POS, CDE = (-3.73,-38.52), (-5.79,-35.21), (-6.27,-35.21), (-30.03,-51.23), (-33.69,-53.46), (-34.6,-58.38), (-27.37,-55.9), (-25.51,-54.61)
+COLONIA = (-34.47,-57.84)
 TUC, JAMA, NAZ, SJO = (-26.82,-65.22), (-23.24,-67.03), (-14.83,-74.94), (9.93,-84.08)
 LAG = (-22.2,-67.8); SALAR = (-20.2,-67.6); IRUYA = (-22.79,-65.21); MGA = (12.14,-86.17)
 CONC, SALTO_UY, JUJ, LIMA, PTY = (-31.39,-58.02), (-31.38,-57.96), (-24.19,-65.3), (-12.02,-77.11), (8.98,-79.52)
 L = [
  ('boat',['Rio de Janeiro','Ilha Grande','Paraty']),
- ('bus',['Paraty','São Paulo','Curitiba','Foz do Iguaçu',CDE,'Asunción','Encarnación',POS,CONC,'Montevideo']),
- ('bus',['Montevideo','Cabo Polonio']),
- ('bus',['Montevideo','Colonia (stopover)']),
- ('boat',['Colonia (stopover)',BA]),
+ ('bus',['Paraty','São Paulo','Curitiba','Foz do Iguaçu','Florianópolis','Porto Alegre',CHUY,'Punta del Diablo','Cabo Polonio','Montevideo',COLONIA]),
+ ('boat',[COLONIA,BA]),
  ('bus',[BA,'Córdoba + Los Gigantes',TUC,'Cafayate','Salta',JUJ,'Tilcara + Iruya + Purmamarca',IRUYA,'Tilcara + Iruya + Purmamarca',JAMA,'San Pedro de Atacama']),
  ('jeep',['San Pedro de Atacama',LAG,SALAR,'Uyuni']),
  ('bus',['Uyuni','Potosí','Sucre']),
@@ -191,7 +191,7 @@ def draw_stop(o, proj, s, label=True, dates=True, r=8.5):
     o.append(alink(GUIDES[n], g) if n in GUIDES else g)
 
 o=[f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif">',
-   '<title>Latin America route v5: Rio → Iguaçu → Paraguay → Uruguay → NW Argentina → Atacama → Bolivia → Peru → Panama → Costa Rica → Nicaragua</title>', f'<style>{CSS}</style>',
+   '<title>Latin America route v5: Rio → Iguaçu → Florianópolis → Porto Alegre → Uruguay → NW Argentina → Atacama → Bolivia → Peru → Panama → Costa Rica → Nicaragua</title>', f'<style>{CSS}</style>',
    f'<rect width="{W}" height="{H}" class="page"/>', f'<rect x="0" y="{TOP}" width="{W}" height="{H_MAP:.0f}" class="surface"/>',
    f'<clipPath id="map"><rect x="0" y="{TOP}" width="{W}" height="{H_MAP:.0f}"/></clipPath>','<g clip-path="url(#map)">']
 for name,d in land_paths(P,(LON0,LON1,LAT0,LAT1)): o.append(f'<path class="land" d="{d}"><title>{name}</title></path>')
@@ -206,7 +206,7 @@ for s_ in S:
     else:
         draw_stop(o, P, s_, dates=False)
         if s_[0] == 15: o[-1]=o[-1].replace('>Tilcara + Iruya + Purmamarca</text>','>Quebrada</text>')
-x,y=P(*st['Cabo Polonio'][3:5]); o.append(f'<text x="{x+12:.0f}" y="{y+10:.0f}" class="ink2 t-date halo">there and back from Montevideo</text>')
+x,y=P(*COLONIA); o.append(alink('colonia', f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>Colonia: stopover and ferry, 1 Jan (click for the guide)</title></circle><text x="{x-8:.0f}" y="{y-6:.0f}" class="ink2 t-date halo" text-anchor="end">Colonia · ferry</text>'))
 x,y=P(*LIMA); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>Lima: change planes</title></circle><text x="{x-8:.0f}" y="{y+4:.0f}" class="ink2 t-date halo" text-anchor="end">Lima (change planes)</text>')
 # Seattle arrows
 x,y=P(*st['Rio de Janeiro'][3:5]); o.append(f'<path class="m-flight" d="M{x-170:.0f},{y-250:.0f} Q{x-110:.0f},{y-90:.0f} {x-6:.0f},{y-6:.0f}" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>')
@@ -230,7 +230,7 @@ for name,d in land_paths(PI,(ILON0,ILON1,ILAT0,ILAT1)): o.append(f'<path class="
 for name,la,lo in [('HONDURAS',13.75,-86.0),('NICARAGUA',12.9,-85.0),('COSTA RICA',10.05,-83.6),('PANAMA',7.95,-80.2)]:
     x,y=PI(la,lo); o.append(f'<text x="{x:.0f}" y="{y:.0f}" class="ink3 t-date" text-anchor="middle" letter-spacing="1.5">{name}</text>')
 draw_legs(o, PI, CAL)
-draw_legs(o, PI, CAL_OPT, op=0.35)
+draw_legs(o, PI, CAL_OPT)
 ISTOP={25:(-10,-9,'end'),26:(10,8,'start'),27:(10,-4,'start'),28:(-10,10,'end'),29:(-10,4,'end'),30:(10,-6,'start'),31:(-10,-4,'end'),32:(-10,-2,'end'),33:(10,8,'start'),34:(10,2,'start'),35:(-10,4,'end'),36:(10,-2,'start'),37:(10,4,'start')}
 for s_ in S:
     if s_[1] in CA:
@@ -243,7 +243,7 @@ x,y=PI(*MGA); o.append(alink('flight-home', f'<circle cx="{x:.1f}" cy="{y:.1f}" 
 
 o.append('</g>')
 # title
-o.append(f'<text x="32" y="40" class="ink t-title">Latin America route v5: Rio → Paraguay → Uruguay → the Andes → Central America</text>')
+o.append(f'<text x="32" y="40" class="ink t-title">Latin America route v5: Rio → south Brazil → Uruguay → the Andes → Central America</text>')
 o.append(f'<text x="32" y="64" class="ink2 t-sub">✈ Mon 7 Dec 2026 → ✈ home {HOME} {TRIP_END.year} · {SPARE} spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
 # legend + itinerary list
 ly=TOP+H_MAP+30; lx=32
@@ -258,7 +258,7 @@ for ci,col in enumerate(cols):
         x0=lx+ci*320; y0=ty+20+ri*17
         o.append(alink(GUIDES[s_[0]], f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{s_[0]}.</tspan> {s_[1]} <tspan class="ink2">{s_[2] or "≈ mid-Feb"}</tspan></text>'))
 o.append(f'<text x="{lx}" y="{ty+20+13*17+10}" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz, ✈ Arequipa → Lima → Panama City and ✈ Panama City → David (Boquete, Carnaval).</text>')
-o.append(f'<text x="{lx}" y="{ty+20+13*17+28}" class="ink2 t-note">Night buses: Curitiba → Foz, Encarnación → Montevideo, Buenos Aires → Córdoba, Córdoba → Tucumán. Only spurs: Cabo Polonio and the Ometepe ferry.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+13*17+28}" class="ink2 t-note">Night buses: Curitiba → Foz, Foz → Florianópolis, Porto Alegre → Chuí, Buenos Aires → Córdoba, Córdoba → Tucumán. Spurs: Iruya and the Ometepe ferry.</text>')
 o.append(f'<text x="{lx}" y="{ty+20+13*17+46}" class="ink2 t-note">Beds, buses and flights checked live 24–26 Nov (see itinerary.md). Click a stop for its guide. Options and add-ons are in alternatives.md and its map. Nothing booked.</text>')
 o.append('</svg>')
 open(OUT,'w').write('\n'.join(o)); print(OUT, W, H)

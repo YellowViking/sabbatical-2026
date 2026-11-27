@@ -7,13 +7,11 @@ exec(SRC[:SRC.index("o=[f'<svg")])          # defines W, H, P, S, L, CAL, MODES,
 
 FLN, PDD, NAZ_, HUA, PAR = (-27.6,-48.5), (-34.04,-53.54), (-14.83,-74.94), (-14.09,-75.76), (-13.83,-76.25)
 ALT = {  # key: (colour, dash, width, legend label)
- 'B':  ('#c2185b', '9 5', 3.4, 'Plan B: Foz → Florianópolis (Christmas) → EGA/TTL bus to Montevideo, instead of Paraguay'),
- 'B2': ('#7b1fa2', '2 5', 3.2, 'Plan B2: Florianópolis → Porto Alegre → Chuí → Punta del Diablo → Cabo Polonio'),
- 'A2': ('#00838f', '9 5', 3.4, 'Plan A2: break the EGA ride from Encarnación in Salto (Uruguay)'),
+ 'A':  ('#c2185b', '9 5', 3.4, 'Plan A, dropped 27 Nov: Foz → Asunción → Encarnación (Christmas) → EGA bus to Montevideo'),
  'C':  ('#2e7d32', '9 5', 3.4, 'Option C: Arequipa → Nazca → Huacachina → Paracas → Lima, award flight from Lima on 6 Feb'),
 }
-ALT_LEGS = [('B',['Foz do Iguaçu',FLN,POA,CHUY,'Montevideo']), ('B2',[CHUY,PDD,'Cabo Polonio']),
-            ('A2',[CONC,SALTO_UY,'Montevideo']), ('C',['Arequipa',NAZ_,HUA,PAR,LIMA])]
+ASU, ENC = (-25.28,-57.63), (-27.33,-55.87)
+ALT_LEGS = [('A',['Foz do Iguaçu',CDE,ASU,ENC,POS,CONC,'Montevideo']), ('C',['Arequipa',NAZ_,HUA,PAR,LIMA])]
 # add-ons: (n, short label, legend text, lat, lon, dx, dy, anchor, inset)
 ADD = [
  (1,'Nazca','⭐ Nazca Lines (with option C), +0–1 day',-14.83,-74.94,12,12,'start',False),
@@ -22,15 +20,15 @@ ADD = [
  (4,'Coroico','Coroico / Yungas after the Death Road, +1',-16.19,-67.72,12,-4,'start',False),
  (5,'Lunarejo','Valle del Lunarejo (Uruguay), +2 after New Year',-31.15,-55.95,12,4,'start',False),
  (6,'Ilha do Mel','Ilha do Mel after Curitiba, +1–2',-25.55,-48.31,12,6,'start',False),
- (7,'Santa Teresa','Santa Teresa park + Laguna Negra (B2 only), +0',-33.97,-53.55,12,-6,'start',False),
- (8,'Iberá','Esteros del Iberá (Plan A only), +2–3',-28.53,-57.17,-12,4,'end',False),
- (9,'Salto del Monday','Salto del Monday + Itaipú (Plan A only), +1',-25.57,-54.66,-12,-12,'end',False),
- (10,'Aparados','Aparados da Serra canyons (B2 only), +2',-29.17,-50.08,12,6,'start',False),
+ (7,'Santa Teresa','Santa Teresa park: in the plan since 27 Nov (Punta del Diablo)',-33.97,-53.55,12,-6,'start',False),
+ (8,'Iberá','Esteros del Iberá (only with the dropped Plan A), +2–3',-28.53,-57.17,-12,4,'end',False),
+ (9,'Salto del Monday','Salto del Monday + Itaipú (only with the dropped Plan A), +1',-25.57,-54.66,-12,-12,'end',False),
+ (10,'Aparados','Aparados da Serra canyons, from Porto Alegre, +2',-29.17,-50.08,12,6,'start',False),
  (11,'San Blas','San Blas islands, +1',9.55,-78.95,0,16,'middle',True),
  (12,'Somoto','Somoto Canyon: in the plan since 27 Nov (Estelí day trip)',13.48,-86.58,12,4,'start',True),
  (13,'trek','Monteverde → La Fortuna on foot: ✗ nothing bookable (27 Nov)',10.4,-84.73,12,10,'start',True),
 ]
-ALT_LINK = {'B':'florianopolis','B2':'florianopolis','A2':'encarnacion','C':'huacachina-paracas'}
+ALT_LINK = {'A':'asuncion','C':'huacachina-paracas'}
 ADDONS = 'alternatives.md#3-optional-add-ons-5-spare-days-before-15-mar'
 ADD_LINK = {1:'huacachina-paracas', 2:'teresopolis', 12:'somoto'}
 def addlink(n): return ADD_LINK.get(n, ADDONS)
@@ -74,8 +72,7 @@ for s_ in S:
                               f'<text x="{x:.1f}" y="{y+3:.1f}" class="num" font-size="7.5" font-weight="700" text-anchor="middle">{s_[0]}</text></g>'))
 SLON0, SLON1, SLAT0, SLAT1 = -59.6, -47.6, -35.2, -24.9          # the south-east corner, zoomed in an inset
 inSE = lambda la,lo: SLAT0 <= la <= SLAT1 and SLON0 <= lo <= SLON1
-PTS = [('Florianópolis',FLN,-10,4,'end'),('Porto Alegre',POA,12,4,'start'),('Chuí',CHUY,-10,-4,'end'),('Punta del Diablo',PDD,12,14,'start'),
-       ('Salto (A2)',SALTO_UY,4,17,'start'),('Huacachina',HUA,-10,10,'end'),('Paracas',PAR,-10,-2,'end'),('Lima',LIMA,-10,4,'end')]
+PTS = [('Asunción',ASU,6,14,'start'),('Encarnación',ENC,12,10,'start'),('Chuí',CHUY,-10,-4,'end'),('Huacachina',HUA,-10,10,'end'),('Paracas',PAR,-10,-2,'end'),('Lima',LIMA,-10,4,'end')]
 for nm,(la,lo),dx,dy,anc in PTS:
     x,y=P(la,lo); OBST.append((x, y, 3.5)); lab='' if inSE(la,lo) else f'<text x="{x+dx:.0f}" y="{y+dy:.0f}" class="ink t-date halo" text-anchor="{anc}">{nm}</text>'
     o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.5" class="dot ring" stroke-width="1.2"/>{lab}')
@@ -92,7 +89,7 @@ def PSE(lat, lon): return (SX0 + (lon-SLON0)*SK*SSX, SY0 + (SLAT1-lat)*SSX)
 o.append(f'<line x1="{zx0:.0f}" y1="{(zy0+zy1)/2:.0f}" x2="{SX0+SW_+1:.0f}" y2="{SY0+SH_/2:.0f}" class="frame" stroke-width="1" stroke-dasharray="4 3"/>')
 o.append(f'<rect x="{SX0-1}" y="{SY0-30:.0f}" width="{SW_+2}" height="{SH_+31:.0f}" rx="6" class="box" stroke-width="1.2"/>')
 o.append(f'<rect x="{SX0}" y="{SY0:.0f}" width="{SW_}" height="{SH_:.0f}" class="surface"/>')
-o.append(alink('alternatives.md#1-christmas-week-paraguay-plan-a-or-florianópolis-plan-b--decide-by--15-dec', f'<text x="{SX0+10}" y="{SY0-10:.0f}" class="ink t-stop">Christmas week: Paraguay or the coast</text>'))
+o.append(alink('alternatives.md#1-christmas-week-decided-27-nov-brazils-coast-into-uruguay', f'<text x="{SX0+10}" y="{SY0-10:.0f}" class="ink t-stop">Christmas week: the coast (Paraguay dropped)</text>'))
 o.append(f'<clipPath id="se"><rect x="{SX0}" y="{SY0:.0f}" width="{SW_}" height="{SH_:.0f}"/></clipPath><g clip-path="url(#se)">')
 for name,d in land_paths(PSE,(SLON0,SLON1,SLAT0,SLAT1)): o.append(f'<path class="land" d="{d}"><title>{name}</title></path>')
 draw_legs(o, PSE, L, op=0.3); OBST.clear(); PANEL[:] = [SX0, SY0, SX0+SW_, SY0+SH_]
@@ -147,6 +144,6 @@ o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Add-ons (yellow pins; ⭐ 
 for i,a in enumerate(ADD):
     col,row=divmod(i,7); x0=lx+col*480; y0=ty+20+row*17
     o.append(alink(addlink(a[0]), f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{a[0]}.</tspan> {a[2]}</text>'))
-o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Added to the main route on 26 Nov: a 2nd Potosí night (it took the Copacabana-town night). Decided: keep the route order; no northern Brazil entry.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Decided 27 Nov: Christmas week down Brazil’s coast into Uruguay (Paraguay dropped); +6 days at the adventure hubs (Champaquí, Cerro Toco, Chirripó, Somoto); home Wed 10 Mar.</text>')
 o.append('</svg>')
 OUT=sys.argv[2]; open(OUT,'w').write('\n'.join(o)); print(OUT, W, HH)
