@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Sat 19 Dec** | 🌙 Night bus arrives ~07:00 at the Rodoviária Internacional; city bus or Uber (≈ R$ 20–25) to the hostel to drop your pack. 🇧🇷 **Brazilian side**: bus 120 from the TTU (≈ 40 min, R$ 6), the **08:30 slot**, the falls trail first, then Ytepopo. 🎟️ Buy tomorrow's Argentine park ticket online. 🍺 277 Craft Beer in the evening (closed Sunday). |
-| **Sun 20 Dec** | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). ⚠️ **The Garganta del Diablo circuit has been closed since 3 Aug 2026** (high water) ✅ park news, so check before going. Last bus back to Brazil 20:30. |
-| **Mon 21 Dec** | 🚌 Uber to the rodoviária ~07:15 for the **08:00 Expresso Nordeste** to Asunción. |
+| **Day 1** · Sat 19 Dec | 🌙 Night bus arrives ~07:00 at the Rodoviária Internacional; city bus or Uber (≈ R$ 20–25) to the hostel to drop your pack. 🇧🇷 **Brazilian side**: bus 120 from the TTU (≈ 40 min, R$ 6), the **08:30 slot**, the falls trail first, then Ytepopo. 🎟️ Buy tomorrow's Argentine park ticket online. 🍺 277 Craft Beer in the evening (closed Sunday). |
+| **Day 2** · Sun 20 Dec | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). ⚠️ **The Garganta del Diablo circuit has been closed since 3 Aug 2026** (high water) ✅ park news, so check before going. Last bus back to Brazil 20:30. |
+| **Day 3** · Mon 21 Dec | 🚌 Uber to the rodoviária ~07:15 for the **08:00 Expresso Nordeste** to Asunción. |
 
 ## 🔖 Book (one click)
 

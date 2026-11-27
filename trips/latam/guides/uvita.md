@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Thu 11 Feb** | 🚕 After the Chirripó descent: taxi San Gerardo → San Isidro (no bus until 16:00) → 🚌 **Grupo Blanco 16:00** → Uvita ~18:00. |
-| **Fri 12 Feb** | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). Or 🐋 **Marino Ballena** and the whale's tail at low tide, ≈ **13:05** (± 1 h). **Catarata Uvita** is by the hostel. |
-| **Sat 13 Feb** | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
+| **Day 1** · Thu 11 Feb | 🚕 After the Chirripó descent: taxi San Gerardo → San Isidro (no bus until 16:00) → 🚌 **Grupo Blanco 16:00** → Uvita ~18:00. |
+| **Day 2** · Fri 12 Feb | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). Or 🐋 **Marino Ballena** and the whale's tail at low tide, ≈ **13:05** (± 1 h). **Catarata Uvita** is by the hostel. |
+| **Day 3** · Sat 13 Feb | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
 
 ## 🔖 Book (one click)
 

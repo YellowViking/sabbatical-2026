@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Sat 13 Feb** | 🚌 **05:15** Uvita → Quepos, **07:30** → Puntarenas, **13:20 Transmonteverde** → Santa Elena ~16:30. Book the jeep-boat-jeep the day you arrive. |
-| **Sun 14 Feb** | 🥾 **07:00 Reserva Santa Elena** for birds and fewer people. Then the free **Ficus tree** and **Cerro Amigos** (a view toward Arenal on clear days). |
-| **Mon 15 Feb** | 🚐 **08:00 jeep-boat-jeep** to La Fortuna. |
+| **Day 1** · Sat 13 Feb | 🚌 **05:15** Uvita → Quepos, **07:30** → Puntarenas, **13:20 Transmonteverde** → Santa Elena ~16:30. Book the jeep-boat-jeep the day you arrive. |
+| **Day 2** · Sun 14 Feb | 🥾 **07:00 Reserva Santa Elena** for birds and fewer people. Then the free **Ficus tree** and **Cerro Amigos** (a view toward Arenal on clear days). |
+| **Day 3** · Mon 15 Feb | 🚐 **08:00 jeep-boat-jeep** to La Fortuna. |
 
 ## 🔖 Book (one click)
 

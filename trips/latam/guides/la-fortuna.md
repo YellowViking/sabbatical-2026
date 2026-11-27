@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Mon 15 Feb** | 🚐 **08:00 jeep-boat-jeep** from Santa Elena (~3½–4 h), for a full afternoon in La Fortuna: ♨️ **El Chollín** in daylight. |
+| **Day 1** · Mon 15 Feb | 🚐 **08:00 jeep-boat-jeep** from Santa Elena (~3½–4 h), for a full afternoon in La Fortuna: ♨️ **El Chollín** in daylight. |
 | **Tue 16 – Wed 17 Feb** | Two full days: 🌋 a **volcano hike** (Arenal NP, El Silencio or Arenal 1968; viewpoints are clearest at dawn) and 💧 **Río Celeste** by tour (no public transport). The **hot river** again if you like. |
-| **Thu 18 Feb** | 🚌 Leave early for **Liberia** via Tilarán and Cañas. Or see Río Celeste on the way north via Bijagua (a long day). |
+| **Day 4** · Thu 18 Feb | 🚌 Leave early for **Liberia** via Tilarán and Cañas. Or see Río Celeste on the way north via Bijagua (a long day). |
 
 ## 🔖 Book (one click)
 

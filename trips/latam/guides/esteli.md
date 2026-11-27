@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Tue 2 Mar** | 🚌 **05:20** León → Estelí (≈ 3 h), to get the whole day. 🌳 **Guided day in Tisey–La Estanzuela or Miraflor**, set up by the hostel when you book. Tisey is the easier same-day choice; Miraflor on the arrival day needs a private 4×4. |
-| **Wed 3 Mar** | 💦 Morning: **Salto La Estanzuela** (taxi or the Tisey bus), or the free **murals in the centre** and a **cigar-factory tour**. 🚌 Express bus to Managua **≈ 12:00–13:15** → Mercado Mayoreo → the airport homestay ([Flight home](flight-home.md)). |
+| **Day 1** · Tue 2 Mar | 🚌 **05:20** León → Estelí (≈ 3 h), to get the whole day. 🌳 **Guided day in Tisey–La Estanzuela or Miraflor**, set up by the hostel when you book. Tisey is the easier same-day choice; Miraflor on the arrival day needs a private 4×4. |
+| **Day 2** · Wed 3 Mar | 💦 Morning: **Salto La Estanzuela** (taxi or the Tisey bus), or the free **murals in the centre** and a **cigar-factory tour**. 🚌 Express bus to Managua **≈ 12:00–13:15** → Mercado Mayoreo → the airport homestay ([Flight home](flight-home.md)). |
 
 ## 🔖 Book (one click)
 
@@ -101,7 +101,7 @@ Live-checked 26 Nov (Booking + Hostelworld APIs).
 </tr>
 </table>
 
-**Tue 2 Mar, guided day in Tisey–La Estanzuela or Miraflor:**
+**Day 1 (Tue 2 Mar), guided day in Tisey–La Estanzuela or Miraflor:**
 - Both reserves are run with local cooperatives. Guides are booked through Estelí hostels and agencies or the community cooperatives (e.g. UCA Miraflor), not on big booking sites.
 - **≈ $18–25 per person with rural buses and a cooperative guide, ≈ $35–50+ for a private trip with a 4×4 from Estelí**, usually with a farm lunch *(lead from an AI summary citing Global Dreaming and Tripadvisor; ask the hostel to set it up when you book)*.
 - Reserve fees are small (≈ C$25–60).

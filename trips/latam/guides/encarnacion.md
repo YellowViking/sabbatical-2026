@@ -32,10 +32,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Wed 23 Dec** | 🚌 08:30 La Encarnacena from Asunción, arriving ≈ 14:00. Walk 24 min to the flat, or take a taxi (≈ 8 min). Sunset on the **Costanera**. |
-| **Thu 24 Dec** · Christmas Eve | 🏛️ **Jesuit missions of Trinidad and Jesús** (5–6 h, bus + moto-taxi). 🛒 Shop for the 25th before the shops close in the afternoon. 🎆 Nochebuena fireworks over the river at midnight. |
-| **Fri 25 Dec** · Christmas Day | Most restaurants are shut, so cook at the flat. 🏖️ **Playa San José** and the Costanera. |
-| **Sat 26 Dec** | A last Costanera walk, then the 🚌 **13:30 EGA** overnight to Montevideo. |
+| **Day 1** · Wed 23 Dec | 🚌 08:30 La Encarnacena from Asunción, arriving ≈ 14:00. Walk 24 min to the flat, or take a taxi (≈ 8 min). Sunset on the **Costanera**. |
+| **Day 2** · Thu 24 Dec · 🎄 Christmas Eve | 🏛️ **Jesuit missions of Trinidad and Jesús** (5–6 h, bus + moto-taxi). 🛒 Shop for the 25th before the shops close in the afternoon. 🎆 Nochebuena fireworks over the river at midnight. |
+| **Day 3** · Fri 25 Dec · 🎄 Christmas Day | Most restaurants are shut, so cook at the flat. 🏖️ **Playa San José** and the Costanera. |
+| **Day 4** · Sat 26 Dec | A last Costanera walk, then the 🚌 **13:30 EGA** overnight to Montevideo. |
 
 ## 🔖 Book (one click)
 

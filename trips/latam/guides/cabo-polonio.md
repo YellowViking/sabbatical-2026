@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Mon 28 Dec** | 🚌 10:10 Rutas del Sol from Tres Cruces, gate 14:30, then the 4x4 truck (≈ 20 min). Walk 3 min to the hostel. 🦭 **Sea-lion colony** below the lighthouse. 🌅 Sunset at Playa Sur / La Calavera, then ✨ stargazing. |
-| **Tue 29 Dec** | 🥾 Early: **dune walk to Barra de Valizas** and back (≈ 2–3 h each way). Afternoon: 🏖️ swim at Playa Sur; climb the lighthouse. |
-| **Wed 30 Dec** | 🚚 Truck 14:00 → 🚌 **Rutas del Sol 15:10 → Tres Cruces 20:10**, for New Year in [Montevideo](montevideo.md). |
+| **Day 1** · Mon 28 Dec | 🚌 10:10 Rutas del Sol from Tres Cruces, gate 14:30, then the 4x4 truck (≈ 20 min). Walk 3 min to the hostel. 🦭 **Sea-lion colony** below the lighthouse. 🌅 Sunset at Playa Sur / La Calavera, then ✨ stargazing. |
+| **Day 2** · Tue 29 Dec | 🥾 Early: **dune walk to Barra de Valizas** and back (≈ 2–3 h each way). Afternoon: 🏖️ swim at Playa Sur; climb the lighthouse. |
+| **Day 3** · Wed 30 Dec | 🚚 Truck 14:00 → 🚌 **Rutas del Sol 15:10 → Tres Cruces 20:10**, for New Year in [Montevideo](montevideo.md). |
 
 ## 🔖 Book (one click)
 

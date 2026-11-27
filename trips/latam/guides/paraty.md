@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Mon 14 Dec** | ⛴️ **10:00** ferry Abraão → Angra (~11:45), 🚌 **Colitur 12:40** → Paraty ~14:40. 🏖️ The **15:00** L25 bus to **Trindade**: Praia do Meio → **Cachadaço natural pool** and **Pedra que Engole**, back on the 18:00. Evening: the historic centre on foot. |
-| **Tue 15 Dec** | **(a) Recommended:** 🚌 the **09:00 Reunidas** to São Paulo (→ 15:40) for MASP's free Tuesday. **(b)** 💦 **Cachoeira do Tobogã** (L14 out 06:30, back 10:45), then the 13:40 bus. |
+| **Day 1** · Mon 14 Dec | ⛴️ **10:00** ferry Abraão → Angra (~11:45), 🚌 **Colitur 12:40** → Paraty ~14:40. 🏖️ The **15:00** L25 bus to **Trindade**: Praia do Meio → **Cachadaço natural pool** and **Pedra que Engole**, back on the 18:00. Evening: the historic centre on foot. |
+| **Day 2** · Tue 15 Dec | **(a) Recommended:** 🚌 the **09:00 Reunidas** to São Paulo (→ 15:40) for MASP's free Tuesday. **(b)** 💦 **Cachoeira do Tobogã** (L14 out 06:30, back 10:45), then the 13:40 bus. |
 
 ## 🔖 Book (one click)
 

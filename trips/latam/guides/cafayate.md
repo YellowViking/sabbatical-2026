@@ -30,9 +30,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 | Day | Plan |
 |---|---|
 | **Thu 7 Jan** (night) | 🚌 Night bus Córdoba → Tucumán: **Flecha Bus cama 20:30 → 04:30** (or Andesmar 20:15). Wait 1½ h in Tucumán's 24-h terminal. |
-| **Fri 8 Jan** | 🚌 **Aconquija 06:00 → Cafayate 12:31**, over the Infiernillo pass through Tafí del Valle (08:35). Walk 17 min to the hostel. Afternoon: 💧 **Río Colorado falls** (3–4 h, local guide mandatory). |
-| **Sat 9 Jan** | 🚲 **Quebrada de las Conchas by bike + bus:** bike in the hold of the 08:30 Flecha Bus to the Garganta del Diablo, then ride ≈ 50 km back, mostly downhill. |
-| **Sun 10 Jan** | 🚌 Bus to [Salta](salta.md) through the whole canyon (sit on the left). |
+| **Day 1** · Fri 8 Jan | 🚌 **Aconquija 06:00 → Cafayate 12:31**, over the Infiernillo pass through Tafí del Valle (08:35). Walk 17 min to the hostel. Afternoon: 💧 **Río Colorado falls** (3–4 h, local guide mandatory). |
+| **Day 2** · Sat 9 Jan | 🚲 **Quebrada de las Conchas by bike + bus:** bike in the hold of the 08:30 Flecha Bus to the Garganta del Diablo, then ride ≈ 50 km back, mostly downhill. |
+| **Day 3** · Sun 10 Jan | 🚌 Bus to [Salta](salta.md) through the whole canyon (sit on the left). |
 
 ## 🔖 Book (one click)
 

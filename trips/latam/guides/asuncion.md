@@ -32,9 +32,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Mon 21 Dec** | 🚌 08:00 Expresso Nordeste from Foz, arriving ≈ 15:00. Bus 88 to the hostel (18 min). Sunset on the **Costanera**. |
-| **Tue 22 Dec** | A normal working day, ≈ 34 °C, so walk early and late. 🏛️ **Historic-centre walk** and **Loma San Jerónimo** in the morning. Midday: lunch at **Lido Bar**. From 14:00: the **Museo del Barro** (✅ opens Tue 14:00–20:00, PYG 50,000). Late afternoon: **Cerro Lambaré** viewpoint, back before dark. |
-| **Wed 23 Dec** | 🚌 **08:30 La Encarnacena** to Encarnación (see the [Encarnación guide](encarnacion.md)). |
+| **Day 1** · Mon 21 Dec | 🚌 08:00 Expresso Nordeste from Foz, arriving ≈ 15:00. Bus 88 to the hostel (18 min). Sunset on the **Costanera**. |
+| **Day 2** · Tue 22 Dec | A normal working day, ≈ 34 °C, so walk early and late. 🏛️ **Historic-centre walk** and **Loma San Jerónimo** in the morning. Midday: lunch at **Lido Bar**. From 14:00: the **Museo del Barro** (✅ opens Tue 14:00–20:00, PYG 50,000). Late afternoon: **Cerro Lambaré** viewpoint, back before dark. |
+| **Day 3** · Wed 23 Dec | 🚌 **08:30 La Encarnacena** to Encarnación (see the [Encarnación guide](encarnacion.md)). |
 
 ## 🔖 Book (one click)
 

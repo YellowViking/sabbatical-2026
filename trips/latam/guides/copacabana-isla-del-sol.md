@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Thu 28 Jan** | 🚌 **07:30 Vicuña Travel** from La Paz, arriving ≈ 11:30 (launch across the Tiquina strait on the way). Leave the big bag at a Copacabana hostel or agency for the night. ⛴️ **13:30 boat to Yumani** (≈ 1.5 h). Climb the Inca stairway, sunset from the ridge. Night at Inti Wasi. |
-| **Fri 29 Jan** | 🥾 **07:00 ridge walk Yumani → Challa → Challapampa** (≈ 8–12 km, 3–4 h, up to 4,050 m). ⛴️ Boat back from Challapampa ≈ 13:00–13:30 (Copacabana ≈ 15:00). 🐟 Trout on the waterfront. 🚌 **18:00 Titicaca Bolivia Bus** to Puno (≈ 21:00). **Shorter option:** skip the ridge, take the **10:30 boat from Yumani** and the **13:30 bus**. |
+| **Day 1** · Thu 28 Jan | 🚌 **07:30 Vicuña Travel** from La Paz, arriving ≈ 11:30 (launch across the Tiquina strait on the way). Leave the big bag at a Copacabana hostel or agency for the night. ⛴️ **13:30 boat to Yumani** (≈ 1.5 h). Climb the Inca stairway, sunset from the ridge. Night at Inti Wasi. |
+| **Day 2** · Fri 29 Jan | 🥾 **07:00 ridge walk Yumani → Challa → Challapampa** (≈ 8–12 km, 3–4 h, up to 4,050 m). ⛴️ Boat back from Challapampa ≈ 13:00–13:30 (Copacabana ≈ 15:00). 🐟 Trout on the waterfront. 🚌 **18:00 Titicaca Bolivia Bus** to Puno (≈ 21:00). **Shorter option:** skip the ridge, take the **10:30 boat from Yumani** and the **13:30 bus**. |
 
 ## 🔖 Book (one click)
 
@@ -125,7 +125,7 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 
 **Paid tours aren't needed:** the public boats do it all.
 
-**Thu 28 Jan, to the island:**
+**Day 1 (Thu 28 Jan), to the island:**
 - Arrive ≈ 11:30. Leave the big bag at a Copacabana hostel or agency (ask Mia Posada).
 - Take the **13:30 boat to Yumani** (south, ≈ 1.5 h, ≈ **Bs 30–40** one way at the pier). Buy at the pier office and insist on a ticket.
   - LP: the boat co-operative **Asociación Unión Marines** sells at kiosks on the beach, B$20 one way / B$30 return, leaving Copacabana at **08:30 and 13:30**. Boats back leave Yumani at **10:30 and 15:00–16:00** (B$25). Buy direct, not through the agencies on Av. 6 de Agosto (LP).
@@ -133,14 +133,14 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
   - LP: the **Escalera del Inca** gains almost 200 m in under 1 km, past terraced gardens (fee B$10). Donkeys carry a pack up for ≈ B$30 (LP).
   - **Pilko Kaina** ruins: a two-storey Inca palace on a terraced slope, ≈ 2 km (30 min) south of Yumani, B$10 (LP). Good for the late afternoon, and the obvious extra if the north is closed. Mirador Palla Khasa is a viewpoint just north of Yumani (LP).
 
-**Thu 28 Jan, the ridge walk:**
+**Day 1 (Thu 28 Jan), the ridge walk:**
 - Start at 07:00 and walk the ridge **Yumani → Challa → Challapampa**, ≈ 8–12 km, 3–4 h, up to 4,050 m.
 - **Community fees** in cash, small notes; keep every stub: Yumani ≈ Bs 10–20, Challa ≈ Bs 5–20, Challapampa (Chincana ruins and the Sacred Rock) ≈ Bs 10–15.
 - **Boat back** from Challapampa ≈ 13:00–13:30.
 - **If the north is closed:** walk to the Challa boundary and back, add the **Pilko Kaina** ruins south of Yumani (LP), then take the 15:00–16:00 boat from Yumani (or LP's 10:30).
 - Night 2 in Copacabana.
 
-**Fri 29 Jan:** sunrise on the **Horca del Inca** (Kesanani) hill, an Inca astronomical stone, or the Calvario hill viewpoint above the bay; then the bus to Puno.
+**Day 2 (Fri 29 Jan):** sunrise on the **Horca del Inca** (Kesanani) hill, an Inca astronomical stone, or the Calvario hill viewpoint above the bay; then the bus to Puno.
 
 **North–south walk status for 2026–27:**
 - AllTrails hikers logged the full Challapampa ↔ Yumani walk in **Aug, Sep and Oct 2026**.

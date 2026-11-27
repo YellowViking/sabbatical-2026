@@ -29,11 +29,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Sun 27 Dec** | 🚌 EGA arrives at Tres Cruces 07:15. Drop the bag at MedioMundo by 07:45. 🛍️ **Feria de Tristán Narvaja** (≈ 09:00–14:00). 🌊 **Rambla walk** to Punta Carretas and Pocitos. 🥁 **Candombe drums** in Barrio Sur from ≈ 18:00–19:00 (✅ street candombe is mainly at weekends; the time is a lead). |
-| **Mon 28 Dec** | 🚌 **10:10 Rutas del Sol** to [Cabo Polonio](cabo-polonio.md). |
-| **Wed 30 Dec** | 🚌 Back from Cabo Polonio, Tres Cruces 20:10. Shop for New Year's Eve tonight or tomorrow morning. |
-| **Thu 31 Dec** · New Year's Eve | Morning: ⛰️ **Cerro de Montevideo** (or shopping, before supermarkets close early). From late morning: 📄 **paper and water wars** in Ciudad Vieja and Centro, and the 🍺 **cider and beer fight** at the Mercado del Puerto. City buses stop at ≈ 18:30. Evening: hostel asado or shared dinner. 🎆 **Midnight:** fireworks along the Rambla, from Playa Ramírez or Pocitos. |
-| **Fri 1 Jan** · New Year's Day | No city buses. 🚶 Walk 2.5 km (30 min) to Tres Cruces for the **09:30 COT** to [Colonia](colonia.md). |
+| **Day 1** · Sun 27 Dec | 🚌 EGA arrives at Tres Cruces 07:15. Drop the bag at MedioMundo by 07:45. 🛍️ **Feria de Tristán Narvaja** (≈ 09:00–14:00). 🌊 **Rambla walk** to Punta Carretas and Pocitos. 🥁 **Candombe drums** in Barrio Sur from ≈ 18:00–19:00 (✅ street candombe is mainly at weekends; the time is a lead). |
+| **Day 2** · Mon 28 Dec | 🚌 **10:10 Rutas del Sol** to [Cabo Polonio](cabo-polonio.md). |
+| **New Year · Day 1** · Wed 30 Dec | 🚌 Back from Cabo Polonio, Tres Cruces 20:10. Shop for New Year's Eve tonight or tomorrow morning. |
+| **New Year · Day 2** · Thu 31 Dec · 🎆 New Year's Eve | Morning: ⛰️ **Cerro de Montevideo** (or shopping, before supermarkets close early). From late morning: 📄 **paper and water wars** in Ciudad Vieja and Centro, and the 🍺 **cider and beer fight** at the Mercado del Puerto. City buses stop at ≈ 18:30. Evening: hostel asado or shared dinner. 🎆 **Midnight:** fireworks along the Rambla, from Playa Ramírez or Pocitos. |
+| **New Year · Day 3** · Fri 1 Jan · 🎆 New Year's Day | No city buses. 🚶 Walk 2.5 km (30 min) to Tres Cruces for the **09:30 COT** to [Colonia](colonia.md). |
 
 ## 🔖 Book (one click)
 

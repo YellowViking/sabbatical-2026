@@ -18,8 +18,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Wed 3 Mar** | Estelí morning walk → 🚌 **express bus ≈ 12:00–13:15** from COTRAN Sur (C$110, ≈ 2 h 30) → **Mercado Mayoreo** → 🚕 taxi ≈ 2 km to the homestay (agree the fare first). Ask the host to book the morning taxi. |
-| **Thu 4 Mar** | 🚕 Taxi to MGA **≈ 05:00** → ✈ **AA1318 MGA 07:00 → MIA 10:49** → **AS38 MIA 16:47 → PDX 20:47** → **AS1432 PDX 21:35 → SEA 22:39**. |
+| **Day 1** · Wed 3 Mar | Estelí morning walk → 🚌 **express bus ≈ 12:00–13:15** from COTRAN Sur (C$110, ≈ 2 h 30) → **Mercado Mayoreo** → 🚕 taxi ≈ 2 km to the homestay (agree the fare first). Ask the host to book the morning taxi. |
+| **Day 2** · Thu 4 Mar | 🚕 Taxi to MGA **≈ 05:00** → ✈ **AA1318 MGA 07:00 → MIA 10:49** → **AS38 MIA 16:47 → PDX 20:47** → **AS1432 PDX 21:35 → SEA 22:39**. |
 
 ## 🔖 Book (one click)
 

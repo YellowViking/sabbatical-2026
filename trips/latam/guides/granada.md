@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Thu 25 Feb** | ⛴️ Morning ferry Moyogalpa → San Jorge (≤ 09:00) → Rivas → 🚌 **Granada** (≈ 3½–4½ h). 🌋 Evening: **Volcán Masaya at night** (night entry ≈ 16:30–20:00); any Managua-bound bus to the *Entrada Volcán Masaya*. |
-| **Fri 26 Feb** | 🚶 Early walk: the colonial grid, **La Pólvora** and the **Lake Nicaragua malecón** (best at sunset, but Thursday evening is Masaya). Then 🚕 shuttle or taxi to **Coco Bay, Laguna de Apoyo**: swim at sunset. |
-| **Sat 27 Feb** | 🏊 Sunrise swim, then 🚌 via Managua to **León**. |
+| **Day 1** · Thu 25 Feb | ⛴️ Morning ferry Moyogalpa → San Jorge (≤ 09:00) → Rivas → 🚌 **Granada** (≈ 3½–4½ h). 🌋 Evening: **Volcán Masaya at night** (night entry ≈ 16:30–20:00); any Managua-bound bus to the *Entrada Volcán Masaya*. |
+| **Day 2** · Fri 26 Feb | 🚶 Early walk: the colonial grid, **La Pólvora** and the **Lake Nicaragua malecón** (best at sunset, but Thursday evening is Masaya). Then 🚕 shuttle or taxi to **Coco Bay, Laguna de Apoyo**: swim at sunset. |
+| **Day 3** · Sat 27 Feb | 🏊 Sunrise swim, then 🚌 via Managua to **León**. |
 
 ## 🔖 Book (one click)
 

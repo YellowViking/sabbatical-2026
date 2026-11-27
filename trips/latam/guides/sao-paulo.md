@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Tue 15 Dec** | 🚌 **Reunidas 09:00** Paraty → Tietê 15:40, then Metrô L1 → L2 to Sumaré (~40 min). 🖼️ **MASP is free on Tuesdays** (10:00–20:00, last entry 19:00; **book a free slot online**). |
-| **Wed 16 Dec** | 🥾 **07:00 Pico do Jaraguá** via the Trilha do Pai Zé (2–2.5 h, free). Afternoon: 🥪 lunch at the **Mercadão**, the **Liberdade** streets, then **Ibirapuera** or **Beco do Batman** at sunset. 🍺 Hocus Pocus SP or Ambar. |
-| **Thu 17 Dec** | Leave the hostel ~06:45 for the 🚌 **07:30 Penha** from Tietê to Curitiba. The metro opens at 04:40. |
+| **Day 1** · Tue 15 Dec | 🚌 **Reunidas 09:00** Paraty → Tietê 15:40, then Metrô L1 → L2 to Sumaré (~40 min). 🖼️ **MASP is free on Tuesdays** (10:00–20:00, last entry 19:00; **book a free slot online**). |
+| **Day 2** · Wed 16 Dec | 🥾 **07:00 Pico do Jaraguá** via the Trilha do Pai Zé (2–2.5 h, free). Afternoon: 🥪 lunch at the **Mercadão**, the **Liberdade** streets, then **Ibirapuera** or **Beco do Batman** at sunset. 🍺 Hocus Pocus SP or Ambar. |
+| **Day 3** · Thu 17 Dec | Leave the hostel ~06:45 for the 🚌 **07:30 Penha** from Tietê to Curitiba. The metro opens at 04:40. |
 
 ## 🔖 Book (one click)
 

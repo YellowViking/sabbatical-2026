@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Mon 1 Feb** | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
-| **Tue 2 Feb** | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
-| **Wed 3 Feb** | ✈ Option A: leave by 05:10 for the **06:50** flight. |
+| **Day 1** · Mon 1 Feb | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
+| **Day 2** · Tue 2 Feb | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
+| **Day 3** · Wed 3 Feb | ✈ Option A: leave by 05:10 for the **06:50** flight. |
 
 ## 🔖 Book (one click)
 

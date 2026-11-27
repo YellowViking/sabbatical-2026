@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Sat 20 Feb** | 🚌 Leave Liberia by ~08:00 → **Peñas Blancas** border (Saturday lines 1–2 h) → Rivas → San Juan del Sur, ≈ 3½–4½ h. Walk 13 min to the hostel. 🌅 Sunset on the main beach (free). |
-| **Sun 21 Feb** | 🏄 Coastal walk or shuttle to **Playa Maderas** (20 min north), on to Playa Majagual; Playa Marsella. 🎉 **Sunday Funday** pool crawl is today (paid ticket): fine as a day out, not as a base. |
-| **Mon 22 Feb** | 🚌 Bus to Rivas → San Jorge → ⛴️ ferry to **Ometepe** (see Leaving). |
+| **Day 1** · Sat 20 Feb | 🚌 Leave Liberia by ~08:00 → **Peñas Blancas** border (Saturday lines 1–2 h) → Rivas → San Juan del Sur, ≈ 3½–4½ h. Walk 13 min to the hostel. 🌅 Sunset on the main beach (free). |
+| **Day 2** · Sun 21 Feb | 🏄 Coastal walk or shuttle to **Playa Maderas** (20 min north), on to Playa Majagual; Playa Marsella. 🎉 **Sunday Funday** pool crawl is today (paid ticket): fine as a day out, not as a base. |
+| **Day 3** · Mon 22 Feb | 🚌 Bus to Rivas → San Jorge → ⛴️ ferry to **Ometepe** (see Leaving). |
 
 ## 🔖 Book (one click)
 

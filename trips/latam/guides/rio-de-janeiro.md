@@ -29,12 +29,12 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Tue 8 Dec** | ✈️ AA lands at GIG 09:25. 🚇 BRT + metro to Siqueira Campos (≈ 1 h 20), reaching Copacabana ~11:00. Beach, then **Arpoador rock for sunset** (free). Or, if you'd rather be out of the sun: **MAR is free on Tuesdays** ✅, next to the Boulevard Olímpico murals (LP). |
-| **Wed 9 Dec** | 🥾 **Pico da Tijuca** (1,021 m, backlog): Uber to Bom Retiro, ≈ 1 h 30 up. **Tijuca Mirim** and **Cascatinha Taunay** on the way down. |
-| **Thu 10 Dec** | 🥾 **Pedra Bonita** (696 m) at sunrise. Or, if clear, **Pedra da Gávea** (844 m) with a guide. |
-| **Fri 11 Dec** | 🌅 Morning: **Morro do Leme** fort + **Caminho dos Pescadores**. ⛰️ Afternoon: **Urca** (Cláudio Coutinho → Morro da Urca trail; Sugarloaf optional). 🍺 Hocus Pocus DNA in Botafogo. 🎶 Evening: **Pedra do Sal** (Friday roda ≈). |
+| **Day 1** · Tue 8 Dec | ✈️ AA lands at GIG 09:25. 🚇 BRT + metro to Siqueira Campos (≈ 1 h 20), reaching Copacabana ~11:00. Beach, then **Arpoador rock for sunset** (free). Or, if you'd rather be out of the sun: **MAR is free on Tuesdays** ✅, next to the Boulevard Olímpico murals (LP). |
+| **Day 2** · Wed 9 Dec | 🥾 **Pico da Tijuca** (1,021 m, backlog): Uber to Bom Retiro, ≈ 1 h 30 up. **Tijuca Mirim** and **Cascatinha Taunay** on the way down. |
+| **Day 3** · Thu 10 Dec | 🥾 **Pedra Bonita** (696 m) at sunrise. Or, if clear, **Pedra da Gávea** (844 m) with a guide. |
+| **Day 4** · Fri 11 Dec | 🌅 Morning: **Morro do Leme** fort + **Caminho dos Pescadores**. ⛰️ Afternoon: **Urca** (Cláudio Coutinho → Morro da Urca trail; Sugarloaf optional). 🍺 Hocus Pocus DNA in Botafogo. 🎶 Evening: **Pedra do Sal** (Friday roda ≈). |
 | **First clear morning** | ⛰️ **Christ the Redeemer**: the Parque Lage trail (free, platform R$ 58) or the Trem do Corcovado (R$ 139). |
-| **Sat 12 Dec** | 🚌 Uber to Novo Rio ~04:15 for the **05:00 Costa Verde** bus → ferry to Ilha Grande. |
+| **Day 5** · Sat 12 Dec | 🚌 Uber to Novo Rio ~04:15 for the **05:00 Costa Verde** bus → ferry to Ilha Grande. |
 
 ## 🔖 Book (one click)
 
@@ -223,7 +223,7 @@ All three were live-checked on 24 Nov.
 - **Getting around (LP):** Uber is ≈ 30% cheaper than a yellow taxi. The Novo Rio bus station sits in a run-down area, so arrive and leave by Uber and wait inside.
 - **Airport alternative (LP):** the **Premium bus 2018** runs from GIG along the beachfront to Copacabana and Ipanema every 30–40 min, ≈ R$ 16 in LP (now more). The BRT + metro above is cheaper.
 - **Medical:** Clínica Galdino Campos, Av. N. S. de Copacabana 492, is open 24 h with multilingual doctors (LP).
-- **Events:** **Sat 12 Dec, Henrique & Juliano play Maracanã** (sold out; seen in a Google snippet ≈). You leave that morning, so the effect is small. Nothing else big found for 8–11 Dec.
+- **Events:** **Day 5 (Sat 12 Dec), Henrique & Juliano play Maracanã** (sold out; seen in a Google snippet ≈). You leave that morning, so the effect is small. Nothing else big found for 8–11 Dec.
 - **Optional +2 days first:** [Teresópolis / Serra dos Órgãos](teresopolis.md), straight from GIG; Rio would then move to Thu 10 → Mon 14 Dec.
 
 ## 🚌 Leaving: Rio → Ilha Grande, Sat 12 Dec

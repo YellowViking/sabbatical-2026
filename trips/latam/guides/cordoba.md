@@ -33,12 +33,12 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Sat 2 Jan** | 🚌 Arrive early on the night bus; rest. 🎟️ Buy the **Sarmiento** ticket for Mon 06:15 (terminal window or Plataforma10) and the **COATA** ticket for Sunday. 📝 Do the **Condorito online registration** and **WhatsApp the Club Andino**. |
-| **Sun 3 Jan** | 🦅 **Quebrada del Condorito** day trip: COATA 09:30 → La Pampilla 11:30; back 19:40 → 21:45. |
-| **Mon 4 Jan** | 🚌 **06:15 Sarmiento** to Los Gigantes (off at 08:40), 🥾 walk up to the refugio (2–3 h). Afternoon: Cerro de la Cruz and the Cueva de la Salamanca. |
-| **Tue 5 Jan** | ⛰️ **Cerro Mogote** at dawn, then the **Los Cajones** granite canyons. |
-| **Wed 6 Jan** | 🥾 Down by ≈ 11:30 for the **12:04 bus**, back in Córdoba 13:59. 🏛️ Wednesday is **free entry at the provincial museums** ✅: the Museo Caraffa by Parque Sarmiento is open until 17:30. |
-| **Thu 7 Jan** | Spare day: redo Condorito if Sunday was fogged in, or laundry and the city, or a half day at a Jesuit estancia (Alta Gracia or Jesús María, see below). 🚌 Night bus at 20:15/20:30, or 23:45 if you redo Condorito. |
+| **Day 1** · Sat 2 Jan | 🚌 Arrive early on the night bus; rest. 🎟️ Buy the **Sarmiento** ticket for Mon 06:15 (terminal window or Plataforma10) and the **COATA** ticket for Sunday. 📝 Do the **Condorito online registration** and **WhatsApp the Club Andino**. |
+| **Day 2** · Sun 3 Jan | 🦅 **Quebrada del Condorito** day trip: COATA 09:30 → La Pampilla 11:30; back 19:40 → 21:45. |
+| **Day 3** · Mon 4 Jan | 🚌 **06:15 Sarmiento** to Los Gigantes (off at 08:40), 🥾 walk up to the refugio (2–3 h). Afternoon: Cerro de la Cruz and the Cueva de la Salamanca. |
+| **Day 4** · Tue 5 Jan | ⛰️ **Cerro Mogote** at dawn, then the **Los Cajones** granite canyons. |
+| **Day 5** · Wed 6 Jan | 🥾 Down by ≈ 11:30 for the **12:04 bus**, back in Córdoba 13:59. 🏛️ Wednesday is **free entry at the provincial museums** ✅: the Museo Caraffa by Parque Sarmiento is open until 17:30. |
+| **Day 6** · Thu 7 Jan | Spare day: redo Condorito if Sunday was fogged in, or laundry and the city, or a half day at a Jesuit estancia (Alta Gracia or Jesús María, see below). 🚌 Night bus at 20:15/20:30, or 23:45 if you redo Condorito. |
 
 ## 🔖 Book (one click)
 

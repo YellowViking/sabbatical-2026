@@ -23,9 +23,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Mon 18 Jan** · day 1 | 🚐 Pickup at the hostel ≈ 06:00–06:30 → Chilean exit stamp → **Hito Cajón** (Bolivian migración, 4,400 m; Bs 15) → change into a 6-seat Land Cruiser. Days 1–2 cover **Lagunas Blanca and Verde**, the **Dalí desert**, the **Polques** hot pool, **Sol de Mañana** (≈ 4,900 m), **Laguna Colorada** and the **Árbol de Piedra**. 🛏️ Night 1 at Villa Mar (3,990 m) with Estrella del Sur. Below freezing, no heating. |
-| **Tue 19 Jan** · day 2 | 🏞️ The rest of the lagoons and the Árbol de Piedra (order depends on the operator). 🛏️ Night 2 at a salt hotel (Hotel de Sal Cruz Andina with Estrella del Sur). |
-| **Wed 20 Jan** · day 3 | 🌅 **Salar de Uyuni at sunrise**; the mirror effect is likely in January. Isla Incahuasi is usually skipped. The tour ends in Uyuni town ≈ 13:00–15:00, then the 🚌 bus to Potosí. |
+| **Day 1** · Mon 18 Jan | 🚐 Pickup at the hostel ≈ 06:00–06:30 → Chilean exit stamp → **Hito Cajón** (Bolivian migración, 4,400 m; Bs 15) → change into a 6-seat Land Cruiser. Days 1–2 cover **Lagunas Blanca and Verde**, the **Dalí desert**, the **Polques** hot pool, **Sol de Mañana** (≈ 4,900 m), **Laguna Colorada** and the **Árbol de Piedra**. 🛏️ Night 1 at Villa Mar (3,990 m) with Estrella del Sur. Below freezing, no heating. |
+| **Day 2** · Tue 19 Jan | 🏞️ The rest of the lagoons and the Árbol de Piedra (order depends on the operator). 🛏️ Night 2 at a salt hotel (Hotel de Sal Cruz Andina with Estrella del Sur). |
+| **Day 3** · Wed 20 Jan | 🌅 **Salar de Uyuni at sunrise**; the mirror effect is likely in January. Isla Incahuasi is usually skipped. The tour ends in Uyuni town ≈ 13:00–15:00, then the 🚌 bus to Potosí. |
 
 ## 🔖 Book (one click)
 

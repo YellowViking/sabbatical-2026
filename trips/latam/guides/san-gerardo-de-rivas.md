@@ -31,10 +31,10 @@ The recommended plan: climb **Wed 10 → Thu 11 Feb** (see the timing note under
 
 | Day | Plan |
 |---|---|
-| **Mon 8 Feb** · Day 63 | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
-| **Tue 9 Feb** | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
-| **Wed 10 Feb** | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
-| **Thu 11 Feb** | ⛰️ **Summit (3,820 m)**, 5.5 km beyond Crestones. Leave Crestones early and be back in San Gerardo by **~12:00**, then 🚕 taxi to San Isidro and the 🚌 bus to Uvita (no San Gerardo bus until 16:00). |
+| **Day 1** · Mon 8 Feb · 🎭 Carnaval | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
+| **Day 2** · Tue 9 Feb · 🎭 Carnaval | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
+| **Day 3** · Wed 10 Feb | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
+| **Day 4** · Thu 11 Feb | ⛰️ **Summit (3,820 m)**, 5.5 km beyond Crestones. Leave Crestones early and be back in San Gerardo by **~12:00**, then 🚕 taxi to San Isidro and the 🚌 bus to Uvita (no San Gerardo bus until 16:00). |
 
 ## 🔖 Book (one click)
 

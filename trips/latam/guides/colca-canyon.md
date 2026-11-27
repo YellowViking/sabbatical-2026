@@ -31,9 +31,9 @@ The recommended plan: one night in Chivay, then one in Sangalle (Plan B is under
 
 | Day | Plan |
 |---|---|
-| **Sat 30 Jan** | 🚌 **4M Express** pickup in Puno 05:50–06:10, via Lagunillas and **Patapampa (4,910 m)**, to the Plaza de Chivay ≈ 12:30. Buy the boleto if it wasn't checked on the bus. 🥾 Over the Inca bridge to **Corporaque** (7 km, free, LP) and/or ♨️ **La Calera hot springs** (3 km, S/15; LP says it closes at 18:00). Sleep in Chivay. |
-| **Sun 31 Jan** | 🚌 ≈ 06:00 bus to **Cruz del Cóndor** (≈ 07:30; LP: a 07:30 Milagros bus from Chivay's bus station, S/8); condors fly ≈ 08:00–10:00, but LP says they rarely appear in Jan–Feb. 🥾 **Rim walk to Cabanaconde** (≈ 12 km, 2.5–3 h) or flag the next bus. Early lunch; buy Monday's bus ticket on the plaza. 🥾 **Descend to Sangalle** by noon (≈ 1,100 m down, 2–3 h). Sleep at the oasis. |
-| **Mon 1 Feb** | 🥾 **05:00 climb out** (≈ 3–3.5 h), in Cabanaconde by ≈ 08:30. Breakfast, then the 🚌 **09:30 Transandino** (or the next Andalucía) to Arequipa, arriving ≈ 15:15 (5 h 45 min). |
+| **Day 1** · Sat 30 Jan | 🚌 **4M Express** pickup in Puno 05:50–06:10, via Lagunillas and **Patapampa (4,910 m)**, to the Plaza de Chivay ≈ 12:30. Buy the boleto if it wasn't checked on the bus. 🥾 Over the Inca bridge to **Corporaque** (7 km, free, LP) and/or ♨️ **La Calera hot springs** (3 km, S/15; LP says it closes at 18:00). Sleep in Chivay. |
+| **Day 2** · Sun 31 Jan | 🚌 ≈ 06:00 bus to **Cruz del Cóndor** (≈ 07:30; LP: a 07:30 Milagros bus from Chivay's bus station, S/8); condors fly ≈ 08:00–10:00, but LP says they rarely appear in Jan–Feb. 🥾 **Rim walk to Cabanaconde** (≈ 12 km, 2.5–3 h) or flag the next bus. Early lunch; buy Monday's bus ticket on the plaza. 🥾 **Descend to Sangalle** by noon (≈ 1,100 m down, 2–3 h). Sleep at the oasis. |
+| **Day 3** · Mon 1 Feb | 🥾 **05:00 climb out** (≈ 3–3.5 h), in Cabanaconde by ≈ 08:30. Breakfast, then the 🚌 **09:30 Transandino** (or the next Andalucía) to Arequipa, arriving ≈ 15:15 (5 h 45 min). |
 
 ## 🔖 Book (one click)
 
@@ -151,13 +151,13 @@ Hostelworld shows nothing at the oasis for these dates.
 </tr>
 </table>
 
-**Sat 30 Jan, Chivay:**
+**Day 1 (Sat 30 Jan), Chivay:**
 - 4M arrives in Chivay at about 12:30. Buy the boleto if it wasn't checked on the bus.
 - 🥾 **Chivay → Corporaque → Yanque loop** (free, LP). Leave from the north edge of town on the La Calera road, fork left, cross the Puente Inca, and follow the fields 7 km to Corporaque on the north side of the canyon. Then drop past small ruins to the orange bridge over the Río Colca to Yanque, and take a passing bus or colectivo the 7 km back (or walk the road). Bikes can be rented in Chivay for a quicker version (LP).
 - **La Calera hot springs**, 3 km from the plaza, S/15 (price on 4M's tour page; LP: S/5–15, open 05:00–18:00). It's on the same road, so do it after the walk if there's time.
 - **Zip line** over the river just past La Calera (paid, optional): Colca Zip-Lining, 2/4/6 rides for S/50/100/150 (LP).
 
-**Sun 31 Jan, condors, rim and descent:**
+**Day 2 (Sun 31 Jan), condors, rim and descent:**
 - About 06:00, the bus from Chivay to **Cruz del Cóndor** (arrive ≈ 07:30). Condors fly about 08:00–10:00. January is low season for condors (dry-season months are best), so sightings aren't guaranteed. Free with the boleto.
   - LP is blunter: the condors are **unlikely to appear at all in January and February**, and less likely on rainy days. Treat them as a bonus; the 1,200 m drop and the rim walk are the reason to stop.
 - Walk the rim road and paths **Cruz del Cóndor → Cabanaconde, ≈ 12 km, 2.5–3 h, mostly gentle**, or flag the next bus.
@@ -165,15 +165,15 @@ Hostelworld shows nothing at the oasis for these dates.
 - ⚠️ The switchbacks get muddy and loose, so use poles and grippy shoes.
 - Other trails down from Cabanaconde, about as long as the Sangalle one: to San Juan de Chuccho, Tapay or Llahuar (LP).
 
-**Mon 1 Feb, climb out:**
+**Day 3 (Mon 1 Feb), climb out:**
 - **05:00 climb out**, about 3–3.5 h up, in Cabanaconde by about 08:30.
 - Breakfast, then the 09:30 Transandino (or the next Andalucía) to Arequipa, arriving ≈ 15:00–17:30.
 - No ATMs below Cabanaconde, so carry soles for the lodge, dinner and water.
 
 <details><summary><b>Plan B: one night in Cabanaconde, then one in Sangalle</b></summary>
 
-- **Sat 30 Jan:** take the 14:00–15:00 combi Chivay → Cabanaconde (you pass Cruz del Cóndor in the afternoon, when there are few condors). Sleep at Homestay Pachamama.
-- **Sun 31 Jan:** descend at 07:00. Easier, but you trade the morning condors for a lazy oasis afternoon. LP says the condors rarely show in Jan–Feb anyway, so the trade costs less than it looks (you also descend before the afternoon rain).
+- **Day 1 (Sat 30 Jan):** take the 14:00–15:00 combi Chivay → Cabanaconde (you pass Cruz del Cóndor in the afternoon, when there are few condors). Sleep at Homestay Pachamama.
+- **Day 2 (Sun 31 Jan):** descend at 07:00. Easier, but you trade the morning condors for a lazy oasis afternoon. LP says the condors rarely show in Jan–Feb anyway, so the trade costs less than it looks (you also descend before the afternoon rain).
 
 </details>
 

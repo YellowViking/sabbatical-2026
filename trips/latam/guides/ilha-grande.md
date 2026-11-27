@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Sat 12 Dec** | 🚌 Uber to Novo Rio ~04:15, **Costa Verde 05:00 → Mangaratiba 07:10**, ⛴️ ferry **08:00** → Abraão ~09:50. 🥾 **Lopes Mendes trail** (≈ 6 km, 2½–3 h each way, via Palmas and Pouso; boat back from Pouso ≈ R$ 30–40). Arriving late? Praia Preta, the Lazareto ruins and the Aqueduto, then sunset on the beach. |
-| **Sun 13 Dec** | 🥾 **Pico do Papagaio** (982 m) at sunrise: groups leave ~02:00 and are back ~09:30; decide the night before. Afternoon: the 6 km dirt road to **Dois Rios** beach and the old prison (Museu do Cárcere, Tue–Sun 10–16 ≈). |
-| **Mon 14 Dec** | 🌅 07:00 shore walk to Abraãozinho, then the ⛴️ **10:00 ferry** to Angra and the bus to Paraty. |
+| **Day 1** · Sat 12 Dec | 🚌 Uber to Novo Rio ~04:15, **Costa Verde 05:00 → Mangaratiba 07:10**, ⛴️ ferry **08:00** → Abraão ~09:50. 🥾 **Lopes Mendes trail** (≈ 6 km, 2½–3 h each way, via Palmas and Pouso; boat back from Pouso ≈ R$ 30–40). Arriving late? Praia Preta, the Lazareto ruins and the Aqueduto, then sunset on the beach. |
+| **Day 2** · Sun 13 Dec | 🥾 **Pico do Papagaio** (982 m) at sunrise: groups leave ~02:00 and are back ~09:30; decide the night before. Afternoon: the 6 km dirt road to **Dois Rios** beach and the old prison (Museu do Cárcere, Tue–Sun 10–16 ≈). |
+| **Day 3** · Mon 14 Dec | 🌅 07:00 shore walk to Abraãozinho, then the ⛴️ **10:00 ferry** to Angra and the bus to Paraty. |
 
 ## 🔖 Book (one click)
 

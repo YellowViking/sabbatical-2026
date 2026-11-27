@@ -29,10 +29,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Mon 25 Jan** | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: **Alasitas** (the miniatures fair, on since the 24th) and a 🚡 **Mi Teleférico** ride. The El Alto **Feria 16 de Julio** (Thu + Sun only) no longer fits: the 2nd Potosí night took the Sunday. |
-| **Tue 26 Jan** | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
-| **Wed 27 Jan** | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone). Alasitas is still on. Withdraw ≈ Bs 600 for Isla del Sol. |
-| **Thu 28 Jan** | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
+| **Day 1** · Mon 25 Jan | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: **Alasitas** (the miniatures fair, on since the 24th) and a 🚡 **Mi Teleférico** ride. The El Alto **Feria 16 de Julio** (Thu + Sun only) no longer fits: the 2nd Potosí night took the Sunday. |
+| **Day 2** · Tue 26 Jan | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
+| **Day 3** · Wed 27 Jan | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone). Alasitas is still on. Withdraw ≈ Bs 600 for Isla del Sol. |
+| **Day 4** · Thu 28 Jan | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
 
 ## 🔖 Book (one click)
 
@@ -149,7 +149,7 @@ All live-checked on 24 Nov.
 
 **Other DIY day hikes LP names:** the **Valle de la Luna** eroded badlands in the Zona Sur (≈ B$25, dawn to dusk; a short walk, not the Chilean one) and the **Valle de las Ánimas** rock spires on the south-eastern edge (LP). Same caution as the Muela: go in company.
 
-**Mon 25 Jan, arrival day (pick one for the afternoon; the Sunday-only El Alto options below no longer fit):**
+**Day 1 (Mon 25 Jan), arrival day (pick one for the afternoon; the Sunday-only El Alto options below no longer fit):**
 - The plane lands at El Alto, which holds its huge **16 de Julio street market on Thursdays and Sundays**, and the **cholitas wrestling** show runs on Sunday afternoons in El Alto. Both are worth fitting in on the way down into La Paz *(leads)*.
 - **El Alto's Feria 16 de Julio** (Thursdays and Sundays, so this is your only chance): a huge flea market on the rim at 4,000 m. Take Mi Teleférico's red line up to 16 de Julio station; carry little and watch pockets.
   - ⚠️ LP gives its hours as **≈ 06:00–15:00**. Landing at 11:25, go straight from the airport (it's in El Alto) and drop the bag later, or it will be winding down.

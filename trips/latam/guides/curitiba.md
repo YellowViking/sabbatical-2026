@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Thu 17 Dec** | 🚌 **Penha 07:30** Tietê → **14:00** Curitiba Rodoferroviária. Afternoon (free): the **Jardim Botânico**, then the **Largo da Ordem** at dusk; Parque Tanguá or Barigui if there's time. 🍺 Hop'n Roll or We Are Bastards. |
-| **Fri 18 Dec** | 🚆 **08:30 Serra Verde Express** to Morretes (about 4 h 30; arrive ≈ 12:30–13:00). 🍲 Barreado lunch, then the **Rio Nhundiaquara** riverbank and the Ponte Velha. 🚌 **16:10 Graciosa bus** via the Estrada da Graciosa → 17:47. Collect your pack, then the 🌙 **21:00 Catarinense** night bus to Foz (→ Sat 07:00). |
+| **Day 1** · Thu 17 Dec | 🚌 **Penha 07:30** Tietê → **14:00** Curitiba Rodoferroviária. Afternoon (free): the **Jardim Botânico**, then the **Largo da Ordem** at dusk; Parque Tanguá or Barigui if there's time. 🍺 Hop'n Roll or We Are Bastards. |
+| **Day 2** · Fri 18 Dec | 🚆 **08:30 Serra Verde Express** to Morretes (about 4 h 30; arrive ≈ 12:30–13:00). 🍲 Barreado lunch, then the **Rio Nhundiaquara** riverbank and the Ponte Velha. 🚌 **16:10 Graciosa bus** via the Estrada da Graciosa → 17:47. Collect your pack, then the 🌙 **21:00 Catarinense** night bus to Foz (→ Sat 07:00). |
 
 ## 🔖 Book (one click)
 

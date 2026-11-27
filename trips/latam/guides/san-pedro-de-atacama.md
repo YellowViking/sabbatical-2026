@@ -31,10 +31,10 @@ Note: the walking routes in the beds table start from a different Google "bus te
 
 | Day | Plan |
 |---|---|
-| **Fri 15 Jan** | 🚌 Andesmar from Purmamarca arrives ≈ 11:30; immigration and the SAG food check on arrival. A rest day after 4,200 m on Jama: walk Caracoles and the river edge. ✨ **Free stargazing** out of town (darkest 00:00–04:00). |
-| **Sat 16 Jan** | 🚲 **Valle de la Luna by rented bike** (bikes may enter only 09:00–11:00). Afternoon (or Sun): the short bike loop north to the **Pukará de Quitor** ruins, the **Garganta del Diablo** and the **Valle de Marte** dunes. Optional: **Laguna Cejar**. |
-| **Sun 17 Jan** | 🏔️ **Cerro Toco** 5,604 m (optional guided walk-up, 06:00 → ≈ 13:30), if you feel fine. 💱 Change ≈ Bs 250 in small notes for the tour. |
-| **Mon 18 Jan** | 🚙 Jeep tour pickup at the hostel ≈ 06:00–06:30 → Uyuni ([tour guide](uyuni-jeep-tour.md)). |
+| **Day 1** · Fri 15 Jan | 🚌 Andesmar from Purmamarca arrives ≈ 11:30; immigration and the SAG food check on arrival. A rest day after 4,200 m on Jama: walk Caracoles and the river edge. ✨ **Free stargazing** out of town (darkest 00:00–04:00). |
+| **Day 2** · Sat 16 Jan | 🚲 **Valle de la Luna by rented bike** (bikes may enter only 09:00–11:00). Afternoon (or Sun): the short bike loop north to the **Pukará de Quitor** ruins, the **Garganta del Diablo** and the **Valle de Marte** dunes. Optional: **Laguna Cejar**. |
+| **Day 3** · Sun 17 Jan | 🏔️ **Cerro Toco** 5,604 m (optional guided walk-up, 06:00 → ≈ 13:30), if you feel fine. 💱 Change ≈ Bs 250 in small notes for the tour. |
+| **Day 4** · Mon 18 Jan | 🚙 Jeep tour pickup at the hostel ≈ 06:00–06:30 → Uyuni ([tour guide](uyuni-jeep-tour.md)). |
 
 ## 🔖 Book (one click)
 

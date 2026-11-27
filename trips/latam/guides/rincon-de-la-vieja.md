@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Thu 18 Feb** | 🚌 La Fortuna → Tilarán → Cañas → Liberia (≈ 4½–5½ h). Buy the park ticket online and book a shuttle. |
-| **Fri 19 Feb** | 🌋 **Rincón de la Vieja, Sector Las Pailas.** Leave by **07:00** to be at the gate at opening. The **Las Pailas loop**, then the **La Cangreja waterfall** or the Cataratas Escondidas. Carry 3 L of water. |
-| **Sat 20 Feb** | 🚌 Bus to the Nicaraguan border; pay the **$8 exit tax online** first. |
+| **Day 1** · Thu 18 Feb | 🚌 La Fortuna → Tilarán → Cañas → Liberia (≈ 4½–5½ h). Buy the park ticket online and book a shuttle. |
+| **Day 2** · Fri 19 Feb | 🌋 **Rincón de la Vieja, Sector Las Pailas.** Leave by **07:00** to be at the gate at opening. The **Las Pailas loop**, then the **La Cangreja waterfall** or the Cataratas Escondidas. Carry 3 L of water. |
+| **Day 3** · Sat 20 Feb | 🚌 Bus to the Nicaraguan border; pay the **$8 exit tax online** first. |
 
 ## 🔖 Book (one click)
 

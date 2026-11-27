@@ -29,10 +29,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Fri 5 Feb** · Day 60 · Carnaval exodus day | ✈️ **Air Panama 07:00** Albrook → David 08:00, taxi to the terminal, Boquete bus; in Boquete by ≈ 10:00. Afternoon: 🥾 **Lost Waterfalls** or the **Pipeline Trail**. |
-| **Sat 6 Feb** · Day 61 · 🎭 Carnaval | Morning: 🥾 **Sendero Los Quetzales** from Alto Chiquero, or a free road walk (Jaramillo Arriba, Bajo Mono). Nap in the afternoon. Leave ≈ 23:00 for Barú. |
-| **Sun 7 Feb** · Day 62 · 🎭 Carnaval | 🌋 **Volcán Barú summit for sunrise ≈ 06:30**, back by ≈ 12:00. Recover; coffee-farm cupping is optional (paid). Pack for the 05:30 start. |
-| **Mon 8 Feb** · Day 63 | 🚌 **05:30** bus to David, then the border and Costa Rica ([San Gerardo guide](san-gerardo-de-rivas.md)). |
+| **Day 1** · Fri 5 Feb · 🎭 Carnaval exodus day (Panama) | ✈️ **Air Panama 07:00** Albrook → David 08:00, taxi to the terminal, Boquete bus; in Boquete by ≈ 10:00. Afternoon: 🥾 **Lost Waterfalls** or the **Pipeline Trail**. |
+| **Day 2** · Sat 6 Feb · 🎭 Carnaval | Morning: 🥾 **Sendero Los Quetzales** from Alto Chiquero, or a free road walk (Jaramillo Arriba, Bajo Mono). Nap in the afternoon. Leave ≈ 23:00 for Barú. |
+| **Day 3** · Sun 7 Feb · 🎭 Carnaval | 🌋 **Volcán Barú summit for sunrise ≈ 06:30**, back by ≈ 12:00. Recover; coffee-farm cupping is optional (paid). Pack for the 05:30 start. |
+| **Day 4** · Mon 8 Feb · 🎭 Carnaval | 🚌 **05:30** bus to David, then the border and Costa Rica ([San Gerardo guide](san-gerardo-de-rivas.md)). |
 
 ## 🔖 Book (one click)
 
@@ -128,12 +128,12 @@ The Barú timing is the key choice.
 </table>
 
 - **Barú on your own** costs ≈ $5 in park fees against $40–85 guided, but muggings have been reported on the trail: start with other hikers from the hostel, not alone (The Broke Backpacker, 26 Nov lead).
-- **Fri 5 Feb, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
-- **Sat 6 Feb, morning:**
+- **Day 1 (Fri 5 Feb), afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
+- **Day 2 (Sat 6 Feb), morning:**
   - **Option 1: Sendero Los Quetzales**, out-and-back from the Alto Chiquero ranger post (Barú NP; park fee ≈ $7, ≈ 45 min by taxi). Quetzal season is Feb–May (LP).
   - **Option 2:** free road walks: the Jaramillo Arriba loop with volcano views, or Bajo Mono.
   - Then nap in the afternoon.
-- **Sun 7 Feb:** recover; coffee-farm cupping is optional (paid).
+- **Day 3 (Sun 7 Feb):** recover; coffee-farm cupping is optional (paid).
 
 ### 🌋 Volcán Barú sunrise climb, Sat 6 → Sun 7 Feb
 - **Route:** from the **Camiseta** control post above Boquete, a rocky 4×4 road, **12–13.5 km each way, ≈ 1,800 m gain**, 5–7 h up. Leave Boquete ≈ 23:00 (taxi ≈ $15–20, or a hostel shuttle ≈ $6–7; ≈) to summit for **sunrise ≈ 06:30**. Down in 4–5 h, back by ≈ 12:00.

@@ -37,10 +37,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Tue 12 Jan** · Tilcara | 🚌 Salta 08:05 → Jujuy 10:00, then Evelia or Balut to Tilcara (≈ 4 h door to door). 🥾 **Garganta del Diablo** in the afternoon if the sky is clear (≈ 3–3.5 h). |
-| **Wed 13 Jan** · Iruya | 🚌 Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00, then **Transporte Iruya 08:20** → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor. 🥾 Afternoon: the riverbed walk to **San Isidro**, or the **Mirador del Cóndor** at sunset. 🎫 Book the return seat. |
-| **Thu 14 Jan** · Purmamarca | 🚌 **06:00** Iruya → Humahuaca (≈ 09:00). 🏔️ **Hornocal** by shared 4x4 (≈ 3 h return). 🚌 Humahuaca → Purmamarca (≈ 1 h 15). 🥾 **Paseo de los Colorados** and **Cerro El Porito** at golden hour. Dinner, bed by 21:00. |
-| **Fri 15 Jan** | ⏰ **03:40 Andesmar** from the RN52 stop → San Pedro de Atacama 11:30. |
+| **Day 1** · Tue 12 Jan · Tilcara | 🚌 Salta 08:05 → Jujuy 10:00, then Evelia or Balut to Tilcara (≈ 4 h door to door). 🥾 **Garganta del Diablo** in the afternoon if the sky is clear (≈ 3–3.5 h). |
+| **Day 2** · Wed 13 Jan · Iruya | 🚌 Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00, then **Transporte Iruya 08:20** → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor. 🥾 Afternoon: the riverbed walk to **San Isidro**, or the **Mirador del Cóndor** at sunset. 🎫 Book the return seat. |
+| **Day 3** · Thu 14 Jan · Purmamarca | 🚌 **06:00** Iruya → Humahuaca (≈ 09:00). 🏔️ **Hornocal** by shared 4x4 (≈ 3 h return). 🚌 Humahuaca → Purmamarca (≈ 1 h 15). 🥾 **Paseo de los Colorados** and **Cerro El Porito** at golden hour. Dinner, bed by 21:00. |
+| **Day 4** · Fri 15 Jan | ⏰ **03:40 Andesmar** from the RN52 stop → San Pedro de Atacama 11:30. |
 
 ## 🔖 Book (one click)
 

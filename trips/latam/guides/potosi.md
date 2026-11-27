@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Wed 20 Jan** | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
-| **Thu 21 Jan** | ⛏️ **Cerro Rico mine tour** at 09:00, 3–4 h. 🍲 Calapurca for lunch. 🏛️ **Casa Nacional de Moneda**, the 14:30 English tour (✅ Bs 70; English tours Mon–Fri 09:00, 11:00, 14:30). 🌆 The centre at dusk. |
-| **Fri 22 Jan** · Día del Estado Plurinacional (holiday) | 🌊 Morning swim in the **Ojo del Inca** crater lake (taxi), or the centre and its viewpoints at 08:00. 🚌 **Potosí → Sucre** after lunch (13:00 or 14:00; buses run on the holiday). |
+| **Day 1** · Wed 20 Jan | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
+| **Day 2** · Thu 21 Jan | ⛏️ **Cerro Rico mine tour** at 09:00, 3–4 h. 🍲 Calapurca for lunch. 🏛️ **Casa Nacional de Moneda**, the 14:30 English tour (✅ Bs 70; English tours Mon–Fri 09:00, 11:00, 14:30). 🌆 The centre at dusk. |
+| **Day 3** · Fri 22 Jan · 🇧🇴 Día del Estado Plurinacional (holiday) | 🌊 Morning swim in the **Ojo del Inca** crater lake (taxi), or the centre and its viewpoints at 08:00. 🚌 **Potosí → Sucre** after lunch (13:00 or 14:00; buses run on the holiday). |
 
 ## 🔖 Book (one click)
 

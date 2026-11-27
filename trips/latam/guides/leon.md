@@ -29,10 +29,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Sat 27 Feb** | 🚌 Granada → Managua (UCA) → **León** (≈ 3 h). Taxi ≈ 11 min from the bus terminal to Casa Lula (or a 28-min walk). Book the Bigfoot tours (online or at the hostel). |
-| **Sun 28 Feb** | 🌋 **Cerro Negro volcano boarding** with Bigfoot, **08:00 → ~13:00**. Take the morning tour: the black sand gets very hot. |
-| **Mon 1 Mar** | 🏕️ **El Hoyo** with Bigfoot (sunset or sunrise $45, camping overnight $70), or 🏖️ **Las Peñitas / Poneloya** by city bus for a Pacific sunset (free). |
-| **Tue 2 Mar** | 🚌 **05:20** bus to **Estelí** (C$110, ≈ 3 h). |
+| **Day 1** · Sat 27 Feb | 🚌 Granada → Managua (UCA) → **León** (≈ 3 h). Taxi ≈ 11 min from the bus terminal to Casa Lula (or a 28-min walk). Book the Bigfoot tours (online or at the hostel). |
+| **Day 2** · Sun 28 Feb | 🌋 **Cerro Negro volcano boarding** with Bigfoot, **08:00 → ~13:00**. Take the morning tour: the black sand gets very hot. |
+| **Day 3** · Mon 1 Mar | 🏕️ **El Hoyo** with Bigfoot (sunset or sunrise $45, camping overnight $70), or 🏖️ **Las Peñitas / Poneloya** by city bus for a Pacific sunset (free). |
+| **Day 4** · Tue 2 Mar | 🚌 **05:20** bus to **Estelí** (C$110, ≈ 3 h). |
 
 ## 🔖 Book (one click)
 
@@ -112,7 +112,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Bigfoot** runs good volcano tours, but its León hostel is a party hostel (The Broke Backpacker): take the tours and sleep elsewhere, as planned.
 - **Cerro Negro volcano boarding: $39.90** + **$10 (or C$370) park fee in cash** ✅ bigfoothostelleon.com.
   - Day tour daily **08:00 → ~13:00** (min 4 people, otherwise moved to the 12:30 sunset tour, which comes with a party bus and dinner); **sunrise tour 03:15**.
-  - 45–60 min hike up with the board. Book online or at the hostel. Suggest **Sun 28 Feb, 08:00**.
+  - 45–60 min hike up with the board. Book online or at the hostel. Suggest **Day 2 (Sun 28 Feb), 08:00**.
 - **El Hoyo** (ridge over the Maribios chain; the camping tour swims in Laguna Asososca): Bigfoot sunset or sunrise **$45**, **camping overnight $70** ✅ bigfoothostelleon.com. This is the overnight to do while Telica is shut.
 
 **Telica overnight: currently closed.**

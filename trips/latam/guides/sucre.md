@@ -29,10 +29,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Fri 22 Jan** · Día del Estado Plurinacional | 🚌 Potosí **13:00 or 14:00** → Sucre ≈ 17:00–18:00. Micro or taxi to the hostel (≈ Bs 10–15). 🌇 The **Recoleta** viewpoint at sunset if there's light. |
-| **Sat 23 Jan** | 🥾 **Maragua, day 1:** trufi to **Chataquila** (≈ 1.5 h), the Inca trail 6.5 km down to **Chaunaca**, then 10 km up the Río Ravelo canyon into the **crater**. Sleep in Maragua (Nativus Hostel, Bs 50 with dinner and breakfast). |
-| **Sun 24 Jan** | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00 on weekdays; ⚠️ **Sunday service not confirmed**: ask in Maragua the evening before, fallback a shared camioneta or taxi). Full moon on 22–23 Jan. |
-| **Mon 25 Jan** | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
+| **Day 1** · Fri 22 Jan · 🇧🇴 Día del Estado Plurinacional (holiday) | 🚌 Potosí **13:00 or 14:00** → Sucre ≈ 17:00–18:00. Micro or taxi to the hostel (≈ Bs 10–15). 🌇 The **Recoleta** viewpoint at sunset if there's light. |
+| **Day 2** · Sat 23 Jan | 🥾 **Maragua, day 1:** trufi to **Chataquila** (≈ 1.5 h), the Inca trail 6.5 km down to **Chaunaca**, then 10 km up the Río Ravelo canyon into the **crater**. Sleep in Maragua (Nativus Hostel, Bs 50 with dinner and breakfast). |
+| **Day 3** · Sun 24 Jan · Alasitas fair opens (La Paz) | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00 on weekdays; ⚠️ **Sunday service not confirmed**: ask in Maragua the evening before, fallback a shared camioneta or taxi). Full moon on 22–23 Jan. |
+| **Day 4** · Mon 25 Jan | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
 
 Not hiking? Swap Sat–Sun for **Siete Cascadas**, **Parque Cretácico**, the **Mercado Central** and **Cerro Churuquella**, plus LP's town picks (Mercado Campesino, the Casa de la Libertad on Saturday, the ASUR textile museum).
 

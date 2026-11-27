@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Sun 10 Jan** | 🚌 **11:30 Flecha Bus** from Cafayate through the Quebrada de las Conchas (sit on the left), arriving 15:20. Walk 20 min to Clivias. 🏛️ **MAAM** this afternoon (last entry 18:30): ✅ it's **closed on Mondays**. 🎶 Peñas on **Calle Balcarce** at night. |
-| **Mon 11 Jan** | 🌳 **Quebrada de San Lorenzo** in the morning (best then). 🥾 **Cerro San Bernardo** on foot in the late afternoon, for the view at sunset. 🏧 Draw the pesos you need for the Quebrada. |
-| **Tue 12 Jan** | 🚌 **08:05 20 de Junio** to Jujuy (or Balut 09:30), then Evelia or Balut to Tilcara. |
+| **Day 1** · Sun 10 Jan | 🚌 **11:30 Flecha Bus** from Cafayate through the Quebrada de las Conchas (sit on the left), arriving 15:20. Walk 20 min to Clivias. 🏛️ **MAAM** this afternoon (last entry 18:30): ✅ it's **closed on Mondays**. 🎶 Peñas on **Calle Balcarce** at night. |
+| **Day 2** · Mon 11 Jan | 🌳 **Quebrada de San Lorenzo** in the morning (best then). 🥾 **Cerro San Bernardo** on foot in the late afternoon, for the view at sunset. 🏧 Draw the pesos you need for the Quebrada. |
+| **Day 3** · Tue 12 Jan | 🚌 **08:05 20 de Junio** to Jujuy (or Balut 09:30), then Evelia or Balut to Tilcara. |
 
 ## 🔖 Book (one click)
 

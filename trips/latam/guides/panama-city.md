@@ -29,9 +29,9 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Wed 3 Feb** · Day 58 | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo**. |
-| **Thu 4 Feb** · Day 59 | 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Wed) and a craft beer. |
-| **Fri 5 Feb** · Day 60 | ✈️ **Air Panama 07:00** Albrook → David, then the bus up to Boquete. Carnaval exodus day. |
+| **Day 1** · Wed 3 Feb | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo**. |
+| **Day 2** · Thu 4 Feb | 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Wed) and a craft beer. |
+| **Day 3** · Fri 5 Feb · 🎭 Carnaval exodus day (Panama) | ✈️ **Air Panama 07:00** Albrook → David, then the bus up to Boquete. Carnaval exodus day. |
 
 ## 🔖 Book (one click)
 

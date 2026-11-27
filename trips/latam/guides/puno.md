@@ -25,8 +25,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Fri 29 Jan** | 🚌 **18:00 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 21:00 (Peru is 1 h behind Bolivia). 🚕 Taxi ≈ 10 min to Kantaya (tell the hostel you arrive late). Dinner and bed: the 4M Express picks up at 05:50. If you took the 13:30 bus instead (no ridge walk), the daylight Plaza de Armas → Jr. Lima → Mirador Kuntur Wasi walk below still fits. |
-| **Sat 30 Jan** | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
+| **Day 1** · Fri 29 Jan | 🚌 **18:00 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 21:00 (Peru is 1 h behind Bolivia). 🚕 Taxi ≈ 10 min to Kantaya (tell the hostel you arrive late). Dinner and bed: the 4M Express picks up at 05:50. If you took the 13:30 bus instead (no ridge walk), the daylight Plaza de Armas → Jr. Lima → Mirador Kuntur Wasi walk below still fits. |
+| **Day 2** · Sat 30 Jan | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
 
 ## 🔖 Book (one click)
 
