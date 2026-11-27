@@ -22,13 +22,14 @@ S = [
  (9,"Xi'an 西安","Xi'an 西安 + Hua Shan 华山",'27–33',34.34,108.94, 0,22,'middle',0),
  (10,'Lanzhou 兰州','Lanzhou 兰州','33–34',36.06,103.83, 10,16,'start',0),
  (11,'Xining 西宁','Xining 西宁, Qinghai Lake 青海湖, Chaka 茶卡','34–38',36.62,101.78, -4,20,'end',0),
- (12,'Zhangye 张掖','Zhangye 张掖: Rainbow Danxia 七彩丹霞','38–41',38.93,100.45, 12,4,'start',0),
- (13,'Jiayuguan 嘉峪关','Jiayuguan 嘉峪关','41–42',39.77,98.29, 8,-12,'start',0),
- (14,'Dunhuang 敦煌','Dunhuang 敦煌: Mingsha 鸣沙山, Mogao 莫高窟','42–46',40.14,94.66, 0,22,'middle',0),
- (15,'Turpan 吐鲁番','Turpan 吐鲁番','46–48',42.95,89.19, 10,16,'start',0),
- (16,'Urumqi 乌鲁木齐','Urumqi 乌鲁木齐 (twice; Tianchi 天山天池)','48–49 · 80–83',43.80,87.60, 12,-6,'start',0),
- (17,'Kashgar 喀什','Kashgar 喀什','49–54',39.47,75.99, 12,4,'start',0),
- (18,'Tashkurgan 塔什库尔干','Tashkurgan 塔什库尔干 + Karakul 喀拉库勒湖','54–58',37.77,75.23, 12,6,'start',0),
+ (11.5,'Zigong 自贡 (family)','Zigong 自贡: family week over 五一 Labour Day','38–45',29.34,104.78, -12,5,'end',0),
+ (12,'Zhangye 张掖','Zhangye 张掖: Rainbow Danxia 七彩丹霞','45–48',38.93,100.45, 12,4,'start',0),
+ (13,'Jiayuguan 嘉峪关','Jiayuguan 嘉峪关','48–49',39.77,98.29, 8,-12,'start',0),
+ (14,'Dunhuang 敦煌','Dunhuang 敦煌: Mingsha 鸣沙山, Mogao 莫高窟','49–53',40.14,94.66, 0,22,'middle',0),
+ (15,'Turpan 吐鲁番','Turpan 吐鲁番','53–54',42.95,89.19, 10,16,'start',0),
+ (16,'Urumqi 乌鲁木齐','Urumqi 乌鲁木齐 (twice; Tianchi 天山天池)','54–55 · 80–83',43.80,87.60, 12,-6,'start',0),
+ (17,'Kashgar 喀什','Kashgar 喀什','55–60',39.47,75.99, 12,4,'start',0),
+ (18,'Tashkurgan 塔什库尔干','Tashkurgan 塔什库尔干 + Karakul 喀拉库勒湖','60–64',37.77,75.23, 12,6,'start',0),
   (20,'Hulunbuir 呼伦贝尔','Hulunbuir 呼伦贝尔: Hailar, Enhe, Shiwei','64–71',49.21,119.74, -12,4,'end',0),
  (21,'Arxan 阿尔山','Arxan 阿尔山','71–74',47.17,119.94, -12,6,'end',0),
  (22,'Changbaishan 长白山','Harbin 哈尔滨 + Changbaishan 长白山 (opt.)','74–80',42.40,128.10, -12,18,'end',1),
@@ -60,7 +61,7 @@ IRK, KHORGOS, KEGEN, KYZYLART, SARAZM = (39.70,73.92), (44.20,80.40), (42.95,79.
 SARYTASH, KALAIKHUMB, PENJ, ALTAY, KUITUN = (39.73,73.25), (38.45,70.79), (39.50,67.61), (47.85,88.13), (44.43,84.90)
 NALATI, ZHAOSU, SAYRAM = (43.30,84.00), (43.15,81.13), (44.60,81.20)
 L = [
- ('train',[1,2,3,4,5,6,7]), ('train',[7,8,9,10,11,12,13,14,LIUYUAN,15,16]), ('train',[16,17]),
+ ('train',[1,2,3,4,5,6,7]), ('train',[7,8,9,10,11]), ('flight',[11,11.5],0.22), ('flight',[11.5,10],-0.30), ('train',[10,11,12,13,14,LIUYUAN,15,16]), ('train',[16,17]),
  ('bus',[17,18,17]),
  ('flight',[17,20]), ('train',[20,21]),
  ('flight',[21,16]),
@@ -77,12 +78,12 @@ MODES = {  # light, dark, dash, width, label  (slots 1–4 of the validated cate
  'bus':   ('#eb6834','#d95926','9 5',3,'Bus / shared taxi'),
  'jeep':  ('#eda100','#c98500','10 4 2 4',3,'4×4 (Pamir Highway)'),
 }
-def coords(i): return st[i][4:6] if isinstance(i,int) else i
-def path(mode, items, proj):
+def coords(i): return st[i][4:6] if isinstance(i,(int,float)) else i
+def path(mode, items, proj, bend_k=0.14):
     ps=[proj(*coords(i)) for i in items]
     if mode=='flight':
         (x1,y1),(x2,y2)=ps; mx,my=(x1+x2)/2,(y1+y2)/2; dx,dy=x2-x1,y2-y1; nx,ny=-dy,dx; n=math.hypot(nx,ny) or 1
-        bend=0.14*math.hypot(dx,dy); sgn=-1 if ny>0 else 1; cx,cy=mx+nx/n*bend*sgn,my+ny/n*bend*sgn
+        bend=bend_k*math.hypot(dx,dy); sgn=-1 if ny>0 else 1; cx,cy=mx+nx/n*bend*sgn,my+ny/n*bend*sgn
         return f'M{x1:.1f},{y1:.1f} Q{cx:.1f},{cy:.1f} {x2:.1f},{y2:.1f}'
     return 'M'+' L'.join(f'{x:.1f},{y:.1f}' for x,y in ps)
 
@@ -123,8 +124,9 @@ CSS = """
   .halo { stroke-width: 3.5px; stroke-linejoin: round; paint-order: stroke; }
 """
 def draw_legs(o, proj, legs, op=1.0):
-    for mode,items in legs:
-        c=MODES[mode]; dash=f' stroke-dasharray="{c[2]}"' if c[2] else ''; d=path(mode,items,proj)
+    for leg in legs:
+        mode,items=leg[0],leg[1]; bk=leg[2] if len(leg)>2 else 0.14
+        c=MODES[mode]; dash=f' stroke-dasharray="{c[2]}"' if c[2] else ''; d=path(mode,items,proj,bk)
         o.append(f'<path class="ring" d="{d}" fill="none" stroke-width="{c[3]+3}" stroke-linecap="round" stroke-linejoin="round" opacity="{0.9*op:.2f}"/>')
         o.append(f'<path class="m-{mode}" d="{d}" fill="none" stroke-width="{c[3]}" stroke-linecap="round" stroke-linejoin="round" opacity="{op}"{dash}><title>{c[4]}</title></path>')
 def draw_stop(o, proj, s, r=8.5):
@@ -170,7 +172,7 @@ def crossings(proj, small=False):
 
 # ---- main map
 base(P,(LON0,LON1,LAT0,LAT1),0,TOP,W,H_MAP,'map',[('CHINA 中国',32.3,94.0),('MONGOLIA',46.6,103.0),('RUSSIA',52.2,95.0),('KAZAKHSTAN',48.2,68.0),('KOREA',36.3,127.9),('JAPAN',37.6,131.0),('INDIA',30.0,79.5),('PAKISTAN',30.2,68.5)])
-season(P,[('Mar – Apr: north China + Yangtze delta',30.2,101.0),('May: Silk Road 河西走廊 + southern Xinjiang 南疆',34.6,91.0),
+season(P,[('Mar – Apr: north + Yangtze delta',41.6,111.0),('May: Silk Road 河西走廊 + southern Xinjiang 南疆',34.6,91.0),
           ('late May – Jun: grasslands of the far north',51.8,113.0),('Jun – Jul: northern Xinjiang 北疆, driest in summer',50.2,87.5)])
 o.append('</g>')
 fx0,fy0=P(ILAT1,ILON0); fx1,fy1=P(ILAT0,ILON1)
@@ -201,7 +203,7 @@ x,y=PI(*coords(41)); o.append(f'<path class="m-flight" d="M{x+6:.0f},{y-6:.0f} Q
 o.append(f'<text x="{x+152:.0f}" y="{y-136:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ home to Seattle, Day 172</text>')
 # ---- title
 o.append(f'<text x="32" y="40" class="ink t-title">China 中国 + Central Asia 2027 (draft): follow the weather</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 58–64: 6 flexible days (family visit or longer stays) · ✈ home from Tashkent ≈ Day 172 · ◆ = border crossing · faded = optional</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · ✈ home from Tashkent ≈ Day 172 · ◆ = border crossing · faded = optional</text>')
 # ---- legend (right of the panel)
 lx=IX0+IW+40; ly=IY0-11
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
@@ -209,7 +211,7 @@ for i,(k,v) in enumerate(MODES.items()):
     y0=ly+24+i*24; dash=f' stroke-dasharray="{v[2]}"' if v[2] else ''
     o.append(f'<line x1="{lx}" y1="{y0}" x2="{lx+44}" y2="{y0}" class="m-{k}" stroke-width="{v[3]+0.5}" stroke-linecap="round"{dash}/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">{v[4]}</text>')
 y0=ly+24+4*24; o.append(f'<rect x="{lx+17}" y="{y0-5}" width="10" height="10" transform="rotate(45 {lx+22} {y0})" class="xing" stroke-width="1.5"/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">Land border crossing</text>')
-notes=['Flights: Seattle → Beijing, Kashgar → Hailar','(via Beijing or Urumqi), Arxan → Urumqi,','Tashkent → Seattle. Everything else by train,','bus, shared taxi or 4×4.','',
+notes=['Flights: Seattle → Beijing, Xining → Chengdu (Zigong),','Yibin or Chengdu → Lanzhou, Kashgar → Hailar,','Arxan → Urumqi, Tashkent → Seattle. Everything','else by train, bus, shared taxi or 4×4.','',
        'China: one stay, Day 1 → 118, on the 10-year Q2 visa.','Kazakhstan: QazETA needed from 1 July 2027.','Pamir: GBAO permit ($20, fixed entry date).','Tashkurgan: border-area permit, in person,','at the police exit-entry office in Kashgar.','',
        'Weather: 10-year normals (Open-Meteo for China,','NASA POWER for Central Asia).','Route order and stop lengths only;','beds and legs come next.']
 for i,t in enumerate(notes): o.append(f'<text x="{lx}" y="{ly+150+i*17}" class="ink2 t-note">{t}</text>')

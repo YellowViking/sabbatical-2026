@@ -6,6 +6,7 @@
 **Assumptions** (user, 27 Nov 2026):
 - About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there"). Home ≈ **Day 172**, from Tashkent.
 - Entering China on a US passport with a **10-year Q2 visa 探亲签证** (family visit).
+- **Family in Zigong 自贡, Sichuan 四川:** a week there over the Labour Day holiday 五一 (Day 38 → 45).
 - **Yunnan 云南, Guilin 桂林, Sichuan 四川 and Chongqing 重庆 already visited**, so they're left out. Central Asia is all new.
 
 [![China + Central Asia 2027 draft route map](china-route-draft.svg)](china-route-draft.svg)
@@ -46,16 +47,17 @@
 | | ***🏜️ Silk Road: Gansu 甘肃 + Qinghai 青海*** | | |
 | Day 33 → 34 | Lanzhou 兰州 | 1 | 21/8 °C · 20% wet |
 | Day 34 → 38 | Xining 西宁, Qinghai Lake 青海湖, Chaka salt lake 茶卡盐湖 | 4 | 16/2 °C · 25% wet |
-| Day 38 → 41 | Zhangye 张掖: Rainbow Danxia 七彩丹霞, Binggou Danxia 冰沟丹霞 | 3 | 22/6 °C · 14% wet |
-| Day 41 → 42 | Jiayuguan 嘉峪关 | 1 | 23/8 °C · 16% wet |
-| Day 42 → 46 | Dunhuang 敦煌: Mingsha dunes + Crescent Lake 鸣沙山月牙泉, Mogao Caves 莫高窟 | 4 | 26/12 °C · 9% wet |
+| | ***👪 Family*** | | |
+| Day 38 → 45 | Zigong 自贡, Sichuan 四川: family over the Labour Day holiday 五一 (✈ Xining → Chengdu, then high-speed train; out via Yibin 宜宾 or Chengdu → ✈ Lanzhou) | 7 | 26/17 °C · 54% wet |
+| | ***🏜️ Silk Road: Gansu 甘肃*** | | |
+| Day 45 → 48 | Zhangye 张掖: Rainbow Danxia 七彩丹霞, Binggou Danxia 冰沟丹霞 | 3 | 23/8 °C · 16% wet |
+| Day 48 → 49 | Jiayuguan 嘉峪关 | 1 | 23/8 °C · 16% wet |
+| Day 49 → 53 | Dunhuang 敦煌: Mingsha dunes + Crescent Lake 鸣沙山月牙泉, Mogao Caves 莫高窟 | 4 | 26/12 °C · 9% wet |
 | | ***🏜️ Southern Xinjiang 南疆*** | | |
-| Day 46 → 48 | Turpan 吐鲁番 | 2 | 32/20 °C · 3% wet |
-| Day 48 → 49 | Urumqi 乌鲁木齐 (transit) | 1 | 23/11 °C · 23% wet |
-| Day 49 → 54 | Kashgar 喀什 | 5 | 28/14 °C · 8% wet |
-| Day 54 → 58 | Tashkurgan 塔什库尔干 + Karakul Lake 喀拉库勒湖 on the Karakoram Highway 中巴公路 | 4 | 13/3 °C · 26% wet |
-| | ***🧭 Flexible*** | | |
-| Day 58 → 64 | **6 flexible days:** a family visit (the Q2 is a family-visit visa), or more time where the weather is best. Where depends on where your family lives | 6 | — |
+| Day 53 → 54 | Turpan 吐鲁番 | 1 | 32/20 °C · 3% wet |
+| Day 54 → 55 | Urumqi 乌鲁木齐 (transit) | 1 | 23/11 °C · 23% wet |
+| Day 55 → 60 | Kashgar 喀什 | 5 | 29/15 °C · 16% wet |
+| Day 60 → 64 | Tashkurgan 塔什库尔干 + Karakul Lake 喀拉库勒湖 on the Karakoram Highway 中巴公路 | 4 | 14/4 °C · 31% wet |
 | | ***🌾 Far north*** | | |
 | Day 64 → 71 | Hulunbuir 呼伦贝尔: Hailar 海拉尔, Enhe 恩和, Shiwei 室韦 | 7 | 20/6 °C · 21% wet |
 | Day 71 → 74 | Arxan 阿尔山 | 3 | 19/8 °C · 51% wet |
@@ -173,9 +175,9 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 **China: 10-year Q2 visa 探亲签证 (user, 27 Nov 2026).**
 - US citizens' 10-year Q2 visas usually allow **120 days per entry**; some are issued with 180. Confirm the figure printed under *Duration of each stay* 入境后可停留.
 - The count starts on the day after entry ✅ [Chinese Consulate-General in San Francisco, FAQ](https://sanfrancisco.china-consulate.gov.cn/lsfw/qianzhen/zgqz/201502/t20150212_10389353.htm).
-- **The whole China part is one stay:** Day 1 → 118, leaving at Khorgos 霍尔果斯口岸. That's 117 days after the entry day, inside 120, so **no mid-trip exit is needed**. The May trip to Osh is gone, and its 6 days became flexible days (Day 58 → 64).
+- **The whole China part is one stay:** Day 1 → 118, leaving at Khorgos 霍尔果斯口岸. That's 117 days after the entry day, inside 120, so **no mid-trip exit is needed**. The May trip to Osh is gone, and its 6 days went to the family week in Zigong 自贡.
 - **Buffer:** a local police exit-entry office 公安机关出入境管理部门 can extend the stay. Extensions may add up to the visa's own stay length (120 days) in total ✅ [National Immigration Administration reply on a 120-day Q2](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=Dsq799Zl%2BmJ2BIahe95J%2BA%3D%3D), Sep 2023.
-- A Q2 is issued for visiting relatives, so a family visit in the flexible days also matches the visa's purpose if the border officer asks.
+- A Q2 is issued for visiting relatives; the Zigong week matches that purpose if a border officer asks.
 
 **Central Asia (US passport):**
 
@@ -190,7 +192,7 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 - Since 15 Apr 2026 the permit is electronic: the **电子边境管理区通行证**. It's free.
 - **Foreigners must apply in person** at a county-level public security exit-entry office 出入境管理机构 or a designated police station, with their passport. If the papers are complete it's issued on the spot; otherwise it takes up to 10 working days. Only mainland residents can apply online in the 移民局12367 app. ✅ National Immigration Administration 国家移民管理局, [notice No. 2 of 2026](https://en.nia.gov.cn/n147418/n147468/c199270/content.html) and its [service guide](https://www.nia.gov.cn/n741445/n741604/n1787214/c1792376/content.html).
 - **What this means for the plan:**
-  - Use one Kashgar 喀什 morning for the Tashkurgan permit, before Day 54.
+  - Use one Kashgar 喀什 morning for the Tashkurgan permit, before Day 60.
   - Do the same in Burqin 布尔津 or Altay 阿勒泰 for Baihaba, and in Hailar 海拉尔 or Ergun 额尔古纳 for Shiwei/Enhe.
   - Ask there whether those villages are open to foreigners at all. Local police pages add that areas **not open to foreigners** also need an Alien Travel Permit 外国人旅行证.
   - Kanas 喀纳斯 and Hemu 禾木 need only a passport and an entry ticket (traveller guides; lead).
@@ -210,7 +212,7 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 | Holiday | Dates | Where the plan has you | What to do |
 |---|---|---|---|
 | Qingming 清明节 | 3–5 Apr | Qingdao 青岛 → Shanghai 上海 (Day 12–14) | Mount Tai 泰山 comes before it, on weekdays |
-| **Labour Day 劳动节 (五一)** | **1–5 May** | Zhangye 张掖 → Jiayuguan 嘉峪关 → Dunhuang 敦煌 (Day 40–44) | Book the Mogao Caves 莫高窟 and beds early; Rainbow Danxia 七彩丹霞 at opening time |
+| **Labour Day 劳动节 (五一)** | **1–5 May** | **With family in Zigong 自贡** (Day 38 → 45) | Fly in on 29 Apr and leave on 6 May, before and after the holiday rush. The Silk Road sights (Danxia, Mogao) come after the crowds |
 | Dragon Boat 端午节 | 9 Jun | Harbin 哈尔滨 / Changbaishan 长白山 or a travel day (Day 79) | Book that night's bed early |
 | Mid-Autumn 中秋节, National Day 国庆节 | 15 Sep, 1–7 Oct | After China | — |
 
@@ -218,14 +220,14 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 
 - **Beds in China:** many hotels and hostels aren't licensed to host foreigners. Hostelworld lists few places outside the big cities (none in Dunhuang, Kashgar or Xining on sample May–June dates, 27 Nov), so the main channels will be Trip.com / Ctrip 携程 (filter for properties that accept foreign guests) and Booking.
 - **Trains:** buy on 12306 (the official railway app) with a passport; high-speed rail reaches Urumqi 乌鲁木齐.
-- **Domestic flights** are cheap on Ctrip 携程. Its lowest fares over the next few months (summer 2027 isn't on sale yet and will cost more): Kashgar → Beijing ¥700, Beijing → Hailar ¥250, Harbin → Urumqi ¥400, before about ¥60 of airport and fuel charges.
+- **Domestic flights** are cheap on Ctrip 携程. Its lowest fares over the next few months (summer 2027 isn't on sale yet and will cost more): Xining → Chengdu ¥260 (median ¥550), Chengdu → Lanzhou ¥350, Yibin 宜宾 → Lanzhou ¥300 (Zigong's nearest airport is Yibin, 20 min by high-speed train), Kashgar → Beijing ¥700, Beijing → Hailar ¥250, Harbin → Urumqi ¥400, before about ¥60 of airport and fuel charges.
 - **Google is blocked in mainland China.** Google Maps and Flights (and most of this repo's tools) only work through a foreign eSIM that roams back home. Use a US or Hong Kong data eSIM.
 - **Xinjiang 新疆:** expect police checkpoints, and carry your passport everywhere. Border-area permits are in the visa section above.
 - **The Pamir Highway** is shared taxis and hired 4×4s, not buses; split a driver with other travellers in Osh or Khorog.
 
 ## Next steps
 
-1. Confirm the Q2 visa's *Duration of each stay* 入境后可停留 (usually 120 days), and decide where the 6 flexible days go.
+1. Confirm the Q2 visa's *Duration of each stay* 入境后可停留 (usually 120 days).
 2. Before Kazakhstan: QazETA (free, ≥ 72 h ahead). Before Tajikistan: the GBAO permit on evisa.tj ($20, fixed entry date).
 3. Beds stop by stop, live-checked (Trip.com, Booking, Agoda, own sites), plus each stop's hikes.
 4. Train legs on 12306 / Trip.com, the Kashgar → Hailar and Arxan → Urumqi flights, and transport for the Pamir.
