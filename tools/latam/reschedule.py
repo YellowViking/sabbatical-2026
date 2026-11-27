@@ -255,6 +255,13 @@ def main():
         for r in report[:200]: print('  ' + r)
     if a.apply:
         json.dump({'start': S['start'], 'stays': S['stays']}, open(LOCK, 'w'), ensure_ascii=False, indent=1)
+        geo = os.environ.get('GEO', '/tmp/countries.geojson')   # redraw the route + alternatives maps from the new dates
+        if os.path.exists(geo):
+            import subprocess
+            for scr, out in (('latam_plan_map.py', 'latam-route-draft.svg'), ('latam_alt_map.py', 'latam-alternatives-map.svg')):
+                subprocess.run([sys.executable, os.path.join(ROOT, 'tools', 'route-map', scr), geo, os.path.join(LATAM, out)], check=False)
+        else:
+            print('Maps not redrawn: download the countries file first (see tools/route-map/latam_plan_map.py), or set GEO=…')
         print('\nApplied; schedule.lock.json updated.')
     else:
         print('\nDry run. Add --apply to write.')

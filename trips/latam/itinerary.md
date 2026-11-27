@@ -1,6 +1,7 @@
 # Latin America itinerary, route v5 (8 Dec 2026 → 4 Mar 2027)
 
 **Status:** draft for review. **Nothing is booked.**
+- **Dates live in [schedule.json](schedule.json)** (start date + nights per stay). Guides plan in relative days ("**Day 2** · Thu 21 Jan"). To move things on the road, change a stay's nights there and run `python3 tools/latam/reschedule.py --apply`: every guide date, booking-link date, holiday tag, the tables here and both maps follow, and it lists the weekday-only services and closures to re-check.
 - Beds, buses, ferries and flights were checked live on **24 Nov 2026** for the exact dates and 1 adult, in **USD**.
 - ✅ = read on the operator's or property's own site. ≈ = estimate or an aggregator/AI summary.
 - Dates assume the **Alaska business award on Mon 7 Dec** (SEA 09:15 → PHL → MIA → AA905 → Rio Tue 8 Dec 09:25, 60k + $26). Booking a different date shifts everything by the same amount.

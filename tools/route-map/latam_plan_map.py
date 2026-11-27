@@ -51,11 +51,46 @@ S = [
  (37,'Somoto canyon','optional',13.48,-86.58, 0,0,'start'),
 ]
 OPTIONAL = {37}
+# Dates come from trips/latam/schedule.json when it exists (stop n → guide → its stays), so the map follows a reschedule.
+def from_schedule(S_):
+    import datetime as _dt, re as _re
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'trips', 'latam', 'schedule.json')
+    if not os.path.exists(p): return S_
+    global TRIP_END
+    sch = json.load(open(p)); d = _dt.date.fromisoformat(sch['start']); blocks = {}
+    for s in sch['stays']:
+        b = blocks.setdefault(s['guide'], []); e = d + _dt.timedelta(days=s['nights'])
+        if b and b[-1][1] == d and b[-1][2] == s.get('label'): b[-1][1] = e
+        else: b.append([d, e, s.get('label')])
+        d = e
+    TRIP_END = d
+    M = {12: 'Dec', 1: 'Jan', 2: 'Feb', 3: 'Mar'}
+    def rng(a, b):
+        if a.month == b.month: return f'{a.day}–{b.day} {M[b.month]}'
+        return f'{a.day} {M[a.month]}–{b.day} {M[b.month]}'
+    out = []
+    gmap = {v: k for k, v in GUIDES.items()}
+    for s_ in S_:
+        g = GUIDES.get(s_[0]); bl = blocks.get(g)
+        if not bl or s_[0] in OPTIONAL: out.append(s_); continue
+        if g == 'cordoba': bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]   # last 'night' is the bus to Tucumán
+        if g in ('curitiba', 'encarnacion'): bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]
+        txt = ' · '.join(rng(a, b) if b > a else f'{a.day} {M[a.month]}' for a, b, _ in bl)
+        if g == 'colonia': txt = f'{bl[0][0].day} {M[bl[0][0].month]}'
+        old = s_[2]; pre = _re.match(r'^[^\d]*', old).group(0); post = _re.search(r'[^\d A-Za-z–·]*(?:\s*\(.*\))?$', old).group(0) if '(' in old else ''
+        out.append(s_[:2] + (pre + txt + post,) + s_[3:])
+    return out
+
 # each stop links to its guide when the SVG is opened on its own (GitHub shows embedded SVGs as plain images)
 GUIDE_BASE = os.environ.get('GUIDE_BASE', 'https://github.com/YellowViking/sabbatical-2026/blob/latam-route-v5/trips/latam/')
 GUIDES = dict(enumerate(['rio-de-janeiro','ilha-grande','paraty','sao-paulo','curitiba','foz-do-iguacu','asuncion','encarnacion','montevideo','cabo-polonio','colonia',
   'cordoba','cafayate','salta','quebrada-de-humahuaca','san-pedro-de-atacama','uyuni-jeep-tour','potosi','sucre','la-paz','copacabana-isla-del-sol','puno','colca-canyon',
   'arequipa','panama-city','boquete','san-gerardo-de-rivas','uvita','monteverde','la-fortuna','rincon-de-la-vieja','san-juan-del-sur','ometepe','granada','leon','esteli','somoto'], 1))
+import datetime as _dt0
+TRIP_END = _dt0.date(2027, 3, 4)
+S = from_schedule(S); st = {s[1]: s for s in S}
+_WD = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']; _MN = {12:'Dec',1:'Jan',2:'Feb',3:'Mar'}
+HOME = f"{_WD[TRIP_END.weekday()]} {TRIP_END.day} {_MN[TRIP_END.month]}"; CA_RANGE = st['Panama City'][2].split('–')[0] + ' ' + st['Panama City'][2].split()[-1] + ' – ' + str(TRIP_END.day) + ' ' + _MN[TRIP_END.month]; SPARE = (_dt0.date(2027, 3, 15) - TRIP_END).days
 def gurl(page): return GUIDE_BASE + page if page.endswith('.md') or '#' in page else GUIDE_BASE + 'guides/' + page + '.md'
 def alink(page, inner): return f'<a href="{gurl(page)}" xlink:href="{gurl(page)}" target="_top">{inner}</a>'
 CA = {s[1] for s in S if s[0] >= 25}
@@ -189,7 +224,7 @@ def PI(lat, lon): return (IX0 + (lon-ILON0)*IK*ISX, IY0 + (ILAT1-lat)*ISX)
 o.append(f'<line x1="{bx1:.0f}" y1="{(by0+by1)/2:.0f}" x2="{IX0-1:.0f}" y2="{IY0+IH/2:.0f}" class="frame" stroke-width="1" stroke-dasharray="4 3"/>')
 o.append(f'<rect x="{IX0-1}" y="{IY0-30}" width="{IW+2}" height="{IH+31:.0f}" rx="6" class="box" stroke-width="1.2"/>')
 o.append(f'<rect x="{IX0}" y="{IY0}" width="{IW}" height="{IH:.0f}" class="surface"/>')
-o.append(f'<text x="{IX0+10}" y="{IY0-10}" class="ink t-stop">Central America, 3 Feb – 4 Mar</text>')
+o.append(f'<text x="{IX0+10}" y="{IY0-10}" class="ink t-stop">Central America, {CA_RANGE}</text>')
 o.append(f'<clipPath id="inset"><rect x="{IX0}" y="{IY0}" width="{IW}" height="{IH:.0f}"/></clipPath><g clip-path="url(#inset)">')
 for name,d in land_paths(PI,(ILON0,ILON1,ILAT0,ILAT1)): o.append(f'<path class="land" d="{d}"><title>{name}</title></path>')
 for name,la,lo in [('HONDURAS',13.75,-86.0),('NICARAGUA',12.9,-85.0),('COSTA RICA',10.05,-83.6),('PANAMA',7.95,-80.2)]:
@@ -204,12 +239,12 @@ for s_ in S:
         o[-1]=o[-1].replace(f'>{s_[1]}</text>', f'>{short}' + (' (optional)' if s_[0] in OPTIONAL else '') + '</text>')
         if s_[0] in OPTIONAL: o[-1]=o[-1].replace('<g>','<g opacity="0.45">',1)
         if s_[0] == 25: o[-1]=o[-1].replace('>Panama City</text>','>Panama City <tspan class="ink2 t-date">✈ from Lima</tspan></text>')
-x,y=PI(*MGA); o.append(alink('flight-home', f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"/><text x="{x+10:.0f}" y="{y-12:.0f}" class="ink2 t-date halo">✈ home from Managua, Thu 4 Mar</text>'))
+x,y=PI(*MGA); o.append(alink('flight-home', f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"/><text x="{x+10:.0f}" y="{y-12:.0f}" class="ink2 t-date halo">✈ home from Managua, {HOME}</text>'))
 
 o.append('</g>')
 # title
 o.append(f'<text x="32" y="40" class="ink t-title">Latin America route v5: Rio → Paraguay → Uruguay → the Andes → Central America</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">✈ Mon 7 Dec 2026 → ✈ home Thu 4 Mar 2027 · 11 spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">✈ Mon 7 Dec 2026 → ✈ home {HOME} {TRIP_END.year} · {SPARE} spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
 # legend + itinerary list
 ly=TOP+H_MAP+30; lx=32
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
