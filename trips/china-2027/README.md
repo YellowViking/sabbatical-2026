@@ -176,12 +176,29 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 
 | Country | Rule | Days in the plan | Source |
 |---|---|---|---|
-| 🇰🇿 Kazakhstan | Visa-free up to 30 days per visit, 90 in any 180 | 8 (Day 118 → 126) | ✅ travel.state.gov |
-| 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60** | 6 in May (Day 58 → 64) and 18 in August (Day 126 → 144). The two visits are more than 60 days apart | ✅ US Embassy Bishkek, Jan 2026 |
-| 🇹🇯 Tajikistan | Visa-free up to 30 days. **The Pamir needs a GBAO permit** (≈ $20 via evisa.tj; lead, to check) | 18 (Day 144 → 162) | ✅ travel.state.gov |
+| 🇰🇿 Kazakhstan | Visa-free up to 30 days per visit, 90 in any 180. **From 1 July 2027 every foreigner also needs a QazETA** e-travel authorization: free, apply ≥ 72 h ahead on qazeta.kz or its app, valid 180 days, multiple entry; without it you're refused entry | 8 (Day 118 → 126); the entry falls after 1 July, so QazETA is required | ✅ US Embassy Kazakhstan ([visa-free](https://kz.usembassy.gov/visa-free-travel-to-kazakhstan/), [QazETA](https://kz.usembassy.gov/services/electronic-travel-authorization-qazeta/)), read 27 Nov |
+| 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60**; overstays need a fine and an exit visa | 6 in May (Day 58 → 64) and 18 in August (Day 126 → 144). The two visits are more than 60 days apart | ✅ [US Embassy Bishkek](https://kg.usembassy.gov/traveling-to-the-kyrgyz-republic/), updated 8 Jan 2026 |
+| 🇹🇯 Tajikistan | Visa-free up to 30 days. **The Pamir (GBAO) needs a permit: $20, single entry, on a fixed entry date**, applied for on evisa.tj (the form has a "GBAO Permit" option and lists the United States) | 18 (Day 144 → 162) | ✅ travel.state.gov; ✅ [evisa.tj](https://www.evisa.tj/#/help) FAQ, read 27 Nov |
 | 🇺🇿 Uzbekistan | Visa-free up to 30 days since 1 Jan 2026 | 10 (Day 162 → 172) | ✅ gov.uz |
 
-- ⚠️ **To check:** that foreigners can cross at Irkeshtam (both ways) and Khorgos. The Kegen crossing (Kazakhstan → Karakol), the Pamir Highway's Kyzyl-Art pass (Kyrgyzstan → Tajikistan) and Penjikent → Samarkand were all open in recent traveller reports; these are leads.
+**China's border management areas 边境管理区** (Tashkurgan 塔什库尔干 and the Karakoram Highway; probably also Baihaba 白哈巴 and Shiwei 室韦/Enhe 恩和):
+- Since 15 Apr 2026 the permit is electronic: the **电子边境管理区通行证**. It's free.
+- **Foreigners must apply in person** at a county-level public security exit-entry office 出入境管理机构 or a designated police station, with their passport. If the papers are complete it's issued on the spot; otherwise it takes up to 10 working days. Only mainland residents can apply online in the 移民局12367 app. ✅ National Immigration Administration 国家移民管理局, [notice No. 2 of 2026](https://en.nia.gov.cn/n147418/n147468/c199270/content.html) and its [service guide](https://www.nia.gov.cn/n741445/n741604/n1787214/c1792376/content.html).
+- **What this means for the plan:**
+  - Use one Kashgar 喀什 morning for the Tashkurgan permit, before Day 54.
+  - Do the same in Burqin 布尔津 or Altay 阿勒泰 for Baihaba, and in Hailar 海拉尔 or Ergun 额尔古纳 for Shiwei/Enhe.
+  - Ask there whether those villages are open to foreigners at all. Local police pages add that areas **not open to foreigners** also need an Alien Travel Permit 外国人旅行证.
+  - Kanas 喀纳斯 and Hemu 禾木 need only a passport and an entry ticket (traveller guides; lead).
+
+**Land border crossings:**
+
+| Crossing | Status | Source |
+|---|---|---|
+| Irkeshtam 伊尔克什坦口岸 (Kashgar ↔ Osh), Day 58 and Day 64 | Open to foreign travellers. **Weekdays only** (about 09:00–11:00 and 14:00–18:00), and closed on Chinese and Kyrgyz public holidays. Day 58 and Day 64 fall on a Wednesday and a Tuesday at the current dates, with no holiday; keep both on weekdays if the plan slides | ✅ Xinjiang border inspection station's holiday-closure notices 新疆边检总站 (Sep 2026); hours from Caravanistan (Jul 2026; lead) |
+| Khorgos 霍尔果斯口岸 (Ili → Almaty), Day 118 | Passenger crossing in daily use: 977,000 travellers in Jan–Oct 2026. Buses Yining 伊宁 ↔ Almaty Sayran terminal | ✅ Chinese customs figures via the press; bus times from traveller reports (lead) |
+| Kegen / Karkara (Kazakhstan → Karakol), Day 126 | Open all year, 24/7 since 2025 (it used to be May–Oct only) | Caravanistan, Oct 2026, and a Sep 2026 traveller report (lead) |
+| Kyzyl-Art (Kyrgyzstan → Tajikistan on the Pamir Highway), Day 144 | Open to foreigners; no special permit for the crossing itself (you still need the GBAO permit) | Caravanistan forum, Mar 2026; Pamir guides, Oct 2026 (lead) |
+| Penjikent / Sarazm → Samarkand / Jartepa, Day 162 | Passenger crossing, open 24 h | Uzbek operators' guides, Oct 2026 (lead) |
 
 ## 2027 public holidays in China (State Council notice, 5 Nov 2026)
 
@@ -198,12 +215,13 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 - **Trains:** buy on 12306 (the official railway app) with a passport; high-speed rail reaches Urumqi 乌鲁木齐.
 - **Domestic flights** are cheap on Ctrip 携程. Its lowest fares over the next few months (summer 2027 isn't on sale yet and will cost more): Kashgar → Beijing ¥700, Beijing → Hailar ¥250, Harbin → Urumqi ¥400, before about ¥60 of airport and fuel charges.
 - **Google is blocked in mainland China.** Google Maps and Flights (and most of this repo's tools) only work through a foreign eSIM that roams back home. Use a US or Hong Kong data eSIM.
-- **Xinjiang 新疆 and the border areas:** expect police checkpoints. Check whether foreigners need a border permit 边防证 for Tashkurgan 塔什库尔干, Baihaba 白哈巴, Shiwei 室韦 and Enhe 恩和 before fixing those stops.
+- **Xinjiang 新疆:** expect police checkpoints, and carry your passport everywhere. Border-area permits are in the visa section above.
 - **The Pamir Highway** is shared taxis and hired 4×4s, not buses; split a driver with other travellers in Osh or Khorog.
 
 ## Next steps
 
 1. Check the visa's *Duration of each stay* (60 or 90 days).
-2. Beds stop by stop, live-checked (Trip.com, Booking, Agoda, own sites), plus each stop's hikes.
-3. Train legs on 12306 / Trip.com, the Kashgar → Hailar and Arxan → Urumqi flights, and transport for the Pamir.
-4. Book the flight there once the dates are fixed.
+2. Before Kazakhstan: QazETA (free, ≥ 72 h ahead). Before Tajikistan: the GBAO permit on evisa.tj ($20, fixed entry date).
+3. Beds stop by stop, live-checked (Trip.com, Booking, Agoda, own sites), plus each stop's hikes.
+4. Train legs on 12306 / Trip.com, the Kashgar → Hailar and Arxan → Urumqi flights, and transport for the Pamir.
+5. Book the flight there once the dates are fixed.
