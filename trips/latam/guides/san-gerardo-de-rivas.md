@@ -4,7 +4,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 > **Stop 28 · Day 67 → 71 · 4 nights (+1 on 27 Nov), one of them at Base Crestones** · ⚠️ SINAC showed no Chirripó permits on sale for February (27 Nov)<br>
 > 🏞️ Mountain village at the Chirripó trailhead: 14.5 km and ~2,100 m up to the Crestones hut, then the 3,820 m summit<br>
-> 🛏️ **Casa Colibri Chirripó**, single bed in a mixed dorm, $121 for 3 nights (11 → 13 and 14 → 15), around a bunk at **Base Crestones** on 13 → 14 ($46.68)<br>
+> 🛏️ **Casa Colibri Chirripó**, single bed in a mixed dorm, $124 for 3 nights (Day 67 → 69 and Day 70 → 71), around a bunk at **Base Crestones** on Day 69 → 70 ($46.68)<br>
 > 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Day 67 (10–11 h) · **Out:** 06:30 bus to San Isidro, then on to Uvita, Day 71
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QGbCSTApH7O4R1Wrtg90J7pi_oP0qRq7t7BxGpfw8dhZ0TlTohaLpzvFzByOhiYcrKEMnpehuPw9DbYkd66uFx-nVISgMZWHuTqvJUuWpI9cTJ705RVeyWK2dkS73uWwt1lwq7=w1200-h360-p-k-no" alt="A lake in the páramo below the summit of Cerro Chirripó" width="100%">
@@ -41,14 +41,14 @@ The plan: climb **Day 69 → 70** if a permit turns up (see the permit note unde
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (village 11 → 13 and Day 70 → 71, 3 nights; Crestones Day 69 → 70)
+**Beds** (village Day 67 → 69 and Day 70 → 71, 3 nights; Crestones Day 69 → 70)
 
 | | Where | Total | Location | From the village bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Casa Colibri Chirripó** · single bed in a mixed dorm | **$121** (11 → 13 $82 + 14 → 15 $39; ✅ 27 Nov; all 4 nights $163 if there is no permit) | 9.8 | 🚶 21 min (1.2 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) | [Booking 11 → 13](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-12&checkout=2027-02-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Booking 14 → 15](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-15&checkout=2027-02-16&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Casa Colibri Chirripó** · single bed in a mixed dorm | **$124** (Day 67 → 69 $85 + Day 70 → 71 $39; ✅ 27 Nov; all 4 nights $163 if there is no permit) | 9.8 | 🚶 21 min (1.2 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) | [Booking Day 67 → 69](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-12&checkout=2027-02-14&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Booking Day 70 → 71](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-15&checkout=2027-02-16&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 | ⛰️ Mountain night | **Base Crestones** · 4-bed bunk room, Day 69 → 70 | **$46.68** bed + $49.63 meals | — | 🥾 14.5 km and ~2,100 m up from the trailhead | [Consorcio info](https://chirripo.org/info-util/), after the SINAC permit below |
 | Backup | **Casa Mariposa Nature Lodge** · ask for a bed in a shared room | no online price | — | 50 m from the Chirripó trailhead (not routed) | [casamariposachirripo.net](https://casamariposachirripo.net/) (email booking) |
-| Private alt | **Hotel de Montaña El Pelícano** · double room | ❌ sold out for 3–4 nights (27 Nov); 11 → 13 only a $264 suite | not returned | 🚶 9 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.460934,-83.604143&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-12&checkout=2027-02-14&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Private alt | **Hotel de Montaña El Pelícano** · double room | ❌ sold out for 3–4 nights (27 Nov); Day 67 → 69 only a $264 suite | not returned | 🚶 9 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.460934,-83.604143&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-12&checkout=2027-02-14&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport and permits**
 
@@ -107,7 +107,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ## 🛏️ Where to sleep
 
-Live-checked on 24 Nov: 2 village nights, Day 64 → 66, with the recommended 10 → 11 climb. Hostelworld lists nothing here, and Booking files the village under "Herradura".
+Live-checked on 24 Nov for an earlier plan, and again on 27 Nov for Day 67 → 71 (Casa Colibri Day 67 → 69 $85, Day 70 → 71 $39, all 4 nights $163). Hostelworld lists nothing here, and Booking files the village under "Herradura".
 
 ### ⭐ Pick: Casa Colibri Chirripó
 - **Room:** single bed in a mixed dorm.
