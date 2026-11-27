@@ -70,7 +70,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - the bus to **Rivas** (≈ 45 min, ≈ C$30–40 / $1), then the Rivas → San Juan del Sur bus (≈ 45 min, ≈ C$30–40); or
   - get off at the **La Virgen** junction for the San Juan del Sur bus; or
   - a shared taxi from the border straight to San Juan del Sur, ≈ $25–35.
-- **Total ≈ 3½–4½ h, ≈ $8 plus fees.** ⚠️ **Leave Liberia by ~08:00**: lines at Peñas Blancas can take 1–2 h (worst at weekends; this crossing is on a Wednesday).
+- **Total ≈ 3½–4½ h, ≈ $8 plus fees.** ⚠️ **Leave Liberia by ~08:00**: lines at Peñas Blancas can take 1–2 h (worst at weekends; this crossing is on a Thursday).
 
 **Border fees and paperwork**
 - **Costa Rica exit: $8 per person** ($5 tax + $2 phytosanitary + $1 SENASA).

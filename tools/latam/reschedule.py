@@ -33,7 +33,7 @@ WDR = r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)'; MR = r'(?:Dec|Jan|Feb|Mar)'
 # lines about fixed-calendar events keep their real dates (only their trip-day tokens move)
 EVENT = re.compile(r'Christmas|Navidad|Nochebuena|New Year|Réveillon|Año Nuevo|Carnaval|Carnival|Candelaria|Alasitas|'
                    r'Día del|holiday|feriado|Semana Santa|spring.break|March break|full moon|moon|Carrera|race|festival|'
-                   r'Tilcareño|Natal Luz|exodus', re.I)
+                   r'Tilcareño|Natal Luz|exodus|\btides?\b', re.I)
 TAG_DROP = re.compile(r'^(?:.*(?:Christmas|New Year|Carnaval|Día del Estado|Alasitas).*)$')
 
 def year_for(m): return 2026 if m == 12 else 2027

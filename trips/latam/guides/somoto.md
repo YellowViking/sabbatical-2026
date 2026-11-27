@@ -32,7 +32,7 @@ Since 27 Nov this is **Day 92**, during the [Estelí](esteli.md) stay, a day tri
 |---|---|
 | **Day 92** | 🚌 **05:30** *ruteado* from **COTRAN Norte**, Estelí (or 06:30, 07:30; listed 2 h 50, C$46) → Somoto terminal ≈ 08:15. 🛶 **Somoto Canyon Tours** 4-h standard tour from the terminal ≈ 08:30–12:30 (**$30**: lunch, entry, boat fee, life jacket, dry bag, river shoes, ride to the trailhead). 🚌 Back on the 13:40, 14:45, 16:00 or **17:00 (last)** *ruteado* to COTRAN Norte (C$50–60, ≈ 1 h 30). |
 
-- **Why Monday:** the buses run daily, but the guides' site doesn't say whether they work Sundays. Confirm on WhatsApp (+505 5791 9556, English) and keep **Day 91** as the backup.
+- **Why Day 92 (a Tuesday):** the buses run daily, but the guides' site doesn't say whether they work Sundays, and Day 90 is the Sunday. Confirm on WhatsApp (+505 5791 9556, English) and keep **Day 91** as the backup.
 - **Sleeping by the canyon instead:** Somoto Canyon Tours' cabins are $8 per person per night (dorm cabins or private doubles, kitchen use; WhatsApp only). Keep one Estelí night if you do it.
 
 ## 🔖 Book (one click)

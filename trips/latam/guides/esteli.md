@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 90** | 🚌 **05:20** León → Estelí (≈ 3 h), to get the whole day. 🌳 **Guided day in Tisey–La Estanzuela or Miraflor**, set up by the hostel when you book. Tisey is the easier same-day choice; Miraflor on the arrival day needs a private 4×4. |
-| **Day 91** | 🌳 **The other reserve**: Miraflor if Day 90 was Tisey (bus 06:00 from COTRAN Norte; ⚠️ Sunday service unconfirmed), or Tisey if Day 90 was Miraflor. |
+| **Day 90** | 🚌 **05:20** León → Estelí (≈ 3 h), to get the whole day. 🌳 **Guided day in Tisey–La Estanzuela or Miraflor**, set up by the hostel when you book. Tisey is the easier same-day choice; Miraflor on the arrival day needs a private 4×4. Day 90 is a **Sunday**: the 05:20 should run (NicaBuses lists it daily, no Sunday note), and the 12:40 is the fallback. |
+| **Day 91** | 🌳 **The other reserve**: Miraflor if Day 90 was Tisey (bus 06:00 from COTRAN Norte; Day 91 is a Monday, so the unconfirmed Sunday service doesn't matter), or Tisey if Day 90 was Miraflor. |
 | **Day 92** | 🏞️ **[Somoto Canyon](somoto.md)** day trip: 🚌 **05:30** from **COTRAN Norte** → Somoto ≈ 08:15 (C$46), **Somoto Canyon Tours** 4-h tour ($30, lunch, entry and gear, pickup at the Somoto terminal), back on the 13:40–17:00 buses (C$50–60). |
 | **Day 93** | 💦 Morning: **Salto La Estanzuela** (taxi or the Tisey bus), or the free **murals in the centre** and a **cigar-factory tour**. 🚌 Express bus to Managua **≈ 12:00–13:15** → Mercado Mayoreo → the airport homestay ([Flight home](flight-home.md)). |
 
@@ -127,7 +127,7 @@ Live-checked 26 Nov (Booking + Hostelworld APIs).
 - **Why Estelí:** Nicaragua's only cool highland stop (≈ 850 m, after León's mid-30s °C), with two cloud-forest and waterfall reserves on its doorstep. Nomadic Matt calls Miraflor the highlight of his Nicaragua trip.
 - **It adds one day:** the flight home moves from Day 87 to **Day 94** (same award, same price).
 - **Carry córdobas in small notes** for buses and reserve fees.
-- **Somoto Canyon** is Day 92, a day trip from here (see [Somoto](somoto.md)). Monday rather than Sunday: the buses run daily, but the guides' site doesn't say whether they work Sundays; confirm on WhatsApp and keep Day 91 as the backup.
+- **Somoto Canyon** is Day 92, a day trip from here (see [Somoto](somoto.md)). Day 92 is a Tuesday, so the guides' unclear Sunday hours don't matter; confirm on WhatsApp and keep Day 91 (Monday) as the backup.
 
 ## 🚌 Leaving: Estelí → Managua airport, Day 93
 

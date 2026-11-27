@@ -29,7 +29,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 82** | 🚌 San Juan del Sur → Rivas → San Jorge → ⛴️ ferry to **Moyogalpa** (≈ 3 h). Walk 7 min to the guest house. **Book the Concepción guide today** for Tuesday. 🌅 Sunset at **Punta Jesús María** (free). |
+| **Day 82** | 🚌 San Juan del Sur → Rivas → San Jorge → ⛴️ ferry to **Moyogalpa** (≈ 3 h). Walk 7 min to the guest house. **Book the Concepción guide today** for tomorrow (Day 83, a Sunday). 🌅 Sunset at **Punta Jesús María** (free). |
 | **Day 83** | 🌋 **Volcán Concepción** with a guide: meet ~04:00–05:00, 8–10 h return. Take 3 L of water. |
 | **Day 84** | 🛵 Scooter day: **Ojo de Agua** spring pool (small fee) and **Playa Santo Domingo** (free). |
 | **Day 85** | ⛴️ Morning ferry (≤ 09:00) to San Jorge → 🚌 Rivas → **Granada**. |

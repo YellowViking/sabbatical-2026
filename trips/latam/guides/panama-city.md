@@ -243,7 +243,7 @@ Panama is pricey, so use the hostel kitchen for breakfast and dinner. Prices are
   - In 2026 the city festival ("Volumen Caribe") took over the **Cinta Costera I and Av. Balboa**: a main stage and stalls from 10:00 every day, culecos (water-truck soakings), and drinks sold until 03:00 (La Prensa, Feb 2026). The 2027 layout isn't published yet (≈).
   - So the bayside walk runs through a street party: carry little, expect to get wet by day, and use the Cinta Costera III / Casco Viejo end if it's packed.
   - Government offices close and some shops and fondas shut on Mon–Tue (≈). Buy groceries on Saturday.
-  - The exodus out of the city is Fri 5 – Sat 6; you fly west on the Monday, after it (see [Boquete](boquete.md)).
+  - The exodus out of the city is Fri 5 – Sat 6; you fly west on Carnaval Tuesday (Day 64), after it (see [Boquete](boquete.md)).
 - ⚠️ Don't walk alone at night in **El Chorrillo or Curundú** (beside Casco Viejo).
 - **USD** is the currency.
 

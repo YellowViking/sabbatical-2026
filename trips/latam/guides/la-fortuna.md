@@ -137,7 +137,7 @@ All live-checked on 24 Nov.
 - **Craft beer:** **La Fortuna Pub** (Tico craft beers incl. their own brews; LP).
 
 ## ℹ️ Good to know
-- **Monday Day 78 leaves early** for Liberia.
+- **Day 78 (a Tuesday) leaves early** for Liberia.
 - **Most volcano viewpoints are clearest at dawn.**
 
 ## 🚌 Leaving: La Fortuna → Tilarán → Cañas → Liberia, Day 78

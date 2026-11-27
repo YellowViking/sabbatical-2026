@@ -49,7 +49,7 @@ S = [
  (35,'Granada + Laguna de Apoyo','25–27 Feb',11.93,-85.96, 0,0,'start'),
  (36,'León','27 Feb–2 Mar',12.43,-86.88, 0,0,'start'),
  (37,'Estelí','89–92 (+ airport night)',13.09,-86.35, 0,0,'start'),
- (38,'Somoto canyon','day trip, Day 93',13.48,-86.58, 0,0,'start'),
+ (38,'Somoto canyon','day trip, Day 92',13.48,-86.58, 0,0,'start'),
 ]
 OPTIONAL = set()
 # Dates come from trips/latam/schedule.json when it exists (stop n → guide → its stays), so the map follows a reschedule.

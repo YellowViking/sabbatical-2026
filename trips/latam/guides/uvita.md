@@ -29,8 +29,8 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 71** | 🚌 **06:30** Hernández Solís San Gerardo → San Isidro (≈ 07:20) → **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi now). 🐋 Afternoon: **Marino Ballena** and the whale's tail at low tide, ≈ **15:35** (± 1 h; the park closes at 16:00). |
-| **Day 72** | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). **Catarata Uvita** is by the hostel. Today's low tide (≈ 16:25) comes after the park closes, so the whale's tail is a Day 1 job. |
+| **Day 71** | 🚌 **06:30** Hernández Solís San Gerardo → San Isidro (≈ 07:20) → **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi now). 🐋 Afternoon: **Marino Ballena** and the whale's tail on the falling tide, ≈ 14:30–16:00 (low ≈ **16:25** on 16 Feb, ± 1 h; the park closes at 16:00, so you may not get the full sand bar). |
+| **Day 72** | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). **Catarata Uvita** is by the hostel. Today's low tide (≈ 17:15 on 17 Feb) comes even later after the park closes, so the whale's tail is an arrival-day job. |
 | **Day 73** | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
 
 ## 🔖 Book (one click)
@@ -115,7 +115,7 @@ All live-checked on 24 Nov.
 - **Parque Nacional Marino Ballena:** **$6 + 13 % IVA (≈ $6.78)**, daily 07:00–16:00 ✅ sinac.go.cr park page (entrances Uvita, Colonia, Ballena, Piñuela). Walk the **Punta Uvita "whale's tail" tombolo only at low tide**: it is sand and rock exposed by the tide (tides below).
 - **Tides for the whale's tail (≈, not a published table):**
   - No free tide table for Feb 2027 loaded from here. Estimate from tablademareas.com's Uvita reading (full moon 24 Nov 2026: low tides 07:55 and 20:05) shifted by moon age.
-  - Low tide ≈ **15:35 on Day 71, 16:25 on Day 72, 17:15 on Day 73** (± 1 h; re-estimated 27 Nov for the new dates). Only **Monday's** falls inside park hours (07:00–16:00), so go out ≈ 14:00–16:00 on arrival day. The morning lows (≈ 03:10–04:55) are before the park opens.
+  - Low tide ≈ **15:35 on Mon 15 Feb 2027, 16:25 on Tue 16 Feb, 17:15 on Wed 17 Feb, ≈ 18:05 on Thu 18 Feb** (± 1 h; estimated 27 Nov). Tides follow the calendar, not the trip days: with the stay on **Day 71 → 73** (16–18 Feb at the current anchor) **no low tide falls inside park hours** (07:00–16:00). The best is the arrival afternoon: go out ≈ 14:30–16:00 on the falling tide, 30–110 min before low, and turn back if the sand bar is still under water. If the trip slips a day earlier, the 15:35 low lands on arrival day. The morning lows (≈ 03:10–04:55) are before the park opens.
   - These are **near neap tides** (first quarter is 14 Feb, full moon 20 Feb), so the lows are shallower and the tombolo is less exposed than at springs: walk out within an hour of low tide and turn back as it rises.
   - Check tablademareas.com/cr/costa-oceano-pacifico/uvita a week before.
 - **Catarata Uvita** (Uvita waterfall, natural slide and pool, 15 min walk above town; small community fee ≈ ₡2,000–3,000).

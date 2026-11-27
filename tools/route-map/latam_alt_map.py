@@ -144,6 +144,6 @@ o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Add-ons (yellow pins; ⭐ 
 for i,a in enumerate(ADD):
     col,row=divmod(i,7); x0=lx+col*480; y0=ty+20+row*17
     o.append(alink(addlink(a[0]), f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{a[0]}.</tspan> {a[2]}</text>'))
-o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Decided 27 Nov: Christmas week down Brazil’s coast into Uruguay (Paraguay dropped); +6 days at the adventure hubs (Champaquí, Cerro Toco, Chirripó, Somoto); home on Day 93.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Decided 27 Nov: Christmas week down Brazil’s coast into Uruguay (Paraguay dropped); +6 days at the adventure hubs (Champaquí, Cerro Toco, Chirripó, Somoto); home on Day 94.</text>')
 o.append('</svg>')
 OUT=sys.argv[2]; open(OUT,'w').write('\n'.join(o)); print(OUT, W, HH)

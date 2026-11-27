@@ -54,7 +54,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 |---|---|---|---:|---|
 | ⚠️ In | **Air Panama 7P670** · Albrook (PAC) → David (DAV) | **Day 64 07:15 → 08:00** (also 7P970 16:15 → 17:00; ✅ Air Panama timetable, 27 Nov) | **$67** (24 Nov) | [Air Panama](https://www.airpanama.com/) |
 | In | **Boquete bus** (Coopsemautranchiri ≈) · David terminal → Boquete | every 20–30 min, ≈ 05:00–19:45, ≈ 45–60 min | $1.75–2.00 | on the day |
-| 🎭 Shift | Air Panama Albrook → David a day early, swapping the 2nd Panama City night for a 4th Boquete night | **Day 61** 13:30 or 16:15 (no 07:15 on Sundays) | $67 (24 Nov) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
+| 🎭 Shift | Air Panama Albrook → David **a day late** (Ash Wednesday), with a 3rd Panama City night and 2 Boquete nights. A day early no longer works: the San Blas boat gets back on Day 63 after the last David flight | **Day 65** 07:15 (7P670 Mon–Sat) or 16:15 | ≈ $67 (Day 61 fare, 24 Nov; Day 65 not priced) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMTBqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
 | 🎭 Other airline | Copa CM13 Tocumen → David | Day 64 06:39 → 07:46 (also CM17 07:42, CM28 17:50) | $80 ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDlqBRIDUFRZcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
 | Out | Boquete → David terminal, then on to Costa Rica | **Day 67 05:30** | $1.75–2.00 | on the day; full leg in the [San Gerardo guide](san-gerardo-de-rivas.md) |
 
@@ -78,7 +78,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Regular ≈ $15–17 (7–8 h); express ≈ $18–22 (6–6.5 h). Departures roughly hourly; cash at the counter; a RapiPass is needed for the terminal turnstile.
   - On Carnaval Friday, AI-Mode leads and Panamanian news say expresses sell out and the Interamericana jams (**+2–4 h**). You travel on Carnaval Tuesday, after the outbound rush and before the return rush on Wednesday, so it should be calmer (≈), but buy the ticket at Albrook on Sun 7 Feb if you bus.
   - Then the Boquete bus as above. ≈ (no operator website; times from AI Mode and secondary sites).
-- **Verdict: fly.** It's about $45–50 more, saves 6–10 h on a Carnaval road, and gives you Monday afternoon in Boquete.
+- **Verdict: fly.** It's about $45–50 more, saves 6–10 h on a Carnaval road, and gives you Tuesday afternoon in Boquete.
 
 ## 🛏️ Where to sleep
 
@@ -111,7 +111,7 @@ All live-checked on 24 Nov. **Carnaval Sat 6 → Tue 9 Feb fills the town, so bo
 
 ### 🎭 Carnaval backups
 - **Another town:** **Penny House** in **David**, a single bed in a mixed dorm, **$41 for 3 nights** on Booking (26 Nov; 81 reviews, none below 7), location 9.4. It's a 17-min walk from David's bus terminal, where the Boquete buses leave (≈ 1 h).
-- **Shifted dates:** fly Air Panama Albrook → David on **Day 61** (13:30 or 16:15; the 07:15 doesn't run on Sundays; $67 on 24 Nov) and swap the 2nd Panama City night for a 4th Boquete night.
+- **Shifted dates:** fly Air Panama Albrook → David **a day late**, on **Day 65** (Ash Wednesday; 07:15 or 16:15, not priced yet), with a 3rd Panama City night and 2 Boquete nights. Going a day early no longer works since the San Blas swap: the boat gets back to Panama City on Day 63 after the last David flight.
 - **Other airline:** Copa CM13 Tocumen → David, Day 64 06:39 → 07:46 ($80, ✅ 27 Nov).
 
 ## 🌳 Things to do (outdoors first)
@@ -163,7 +163,7 @@ Prices are ≈ and not checked. Cook at the hostel to save.
 - **Craft beer:** Boquete Brewing Company's taproom, pints ≈ $5–6.
 
 ## ℹ️ Good to know
-- **Carnaval Sat 6 → Tue 9 Feb:** Boquete and Barú fill with Panamanians (597 Barú visitors in the 2026 Carnaval operation, per MiAmbiente). You arrive on Carnaval Monday and stay into Ash Wednesday. Book the bed now: on 27 Nov Booking had ≈ 20% fewer 8+ properties free for 8 → 11 Feb than for the week after.
+- **Carnaval Sat 6 → Tue 9 Feb:** Boquete and Barú fill with Panamanians (597 Barú visitors in the 2026 Carnaval operation, per MiAmbiente). You arrive on Carnaval Tuesday (Day 64) and stay through Ash Wednesday to Day 67. Book the bed now: on 27 Nov Booking had ≈ 20% fewer 8+ properties free for 8 → 11 Feb than for the week after.
 - **ATMs:** Banco Nacional and others on the main street (≈).
 - **Nights are cool**, ≈ 13–15 °C.
 

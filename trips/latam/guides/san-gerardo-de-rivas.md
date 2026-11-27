@@ -82,7 +82,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Fallback:** if you miss the 08:00 Tracopa, take the **11:00 → San Isidro ≈ 16:00, then the 18:15 Hernández Solís** (San Gerardo ≈ 19:00). Or a taxi from San Isidro, ≈ ₡15,000–20,000 ($34–45; perezzeledon.com).
 - **Total ≈ $20–25**, 10–11 h door to door. Costa Rica is **1 h behind** Panama.
 - **Panama exit:** stamp at Migración in Paso Canoas. No exit tax found. Costa Rica's $8 land **exit** tax applies later, when you leave for Nicaragua.
-- 8 Feb is Carnaval Monday in Panama, so expect a busier border than usual. Costa Rica has no holiday that day.
+- The crossing (Day 67) is 3 days after Panama's Carnaval ends, so the border should be back to normal. Costa Rica has no holiday that day.
 
 **Costa Rica entry requirements** (✅ visitcostarica.com "Entry requirements"; Tica Bus migration page):
 - **Return or onward ticket out of Costa Rica.** By law it must be a pre-purchased bus ticket out of the country, a flight out, or cruise passage. Your MGA → SEA flight leaves from Nicaragua, so it doesn't prove you'll leave Costa Rica. Buy a **Tica Bus San José → Managua ticket ($33 online, daily 06:00 / 07:30)**, or another cheap bus ticket out of CR, before Day 64.
@@ -92,7 +92,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ### ⚠️ Timing vs the 16:00 check-in
 - To climb on Day 68 you must register in San Gerardo **before 16:00 on Day 67**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ≈ 13:00 by Tracopa's estimate, then the 14:30 Hernández Solís, San Gerardo ≈ 15:15), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
-- **The plan since 27 Nov: climb Day 69 → 70.** Arrive Day 67, register on Day 68 with Cloudbridge as the warm-up, descend by noon on Day 70, and take Monday's 06:30 bus to Uvita.
+- **The plan since 27 Nov: climb Day 69 → 70.** Arrive Day 67, register on Day 68 with Cloudbridge as the warm-up, descend by noon on Day 70, and take the 06:30 bus to Uvita on Day 71 (a Tuesday).
 - ⚠️ **Permits:** SINAC's availability calendar showed **0 overnight places** for every night from 28 Nov to mid-May (1 Jun and 1 Jul showed 20), so the dry season looks sold out. Places return when someone cancels ≥ 15 days ahead (permits can't be moved, only cancelled). Check the calendar often; a permit for Day 68 → 69 also works if you register on arrival day.
 - **No permit:** the days become Cloudbridge ($12), Sendero Los Gigantes (₡2,000) and the hot springs, or the one-day **"Diario"** summit permit (≈ 40 km, ~2,500 m up) if SINAC sells one. Then 2 nights here are enough, and the spare days can move north.
 
@@ -149,9 +149,9 @@ Live-checked on 24 Nov: 2 village nights, Day 64 → 66, with the recommended 10
 </table>
 
 ### ⛰️ Chirripó: availability and rules
-- **Availability (SINAC portal): NOT verified.** SINAC's public calendar (serviciosenlinea.sinac.go.cr → "Disponibilidad de Parques Nacionales" → Parque Nacional Chirripó) sits behind a Google reCAPTCHA tick, and buying needs a SICORE account. I didn't tick the captcha or create an account (see Open issues).
+- **Availability (SINAC portal):** on 27 Nov the calendar showed **0 overnight places** through mid-May (see Timing above). Earlier note: SINAC's public calendar (serviciosenlinea.sinac.go.cr → "Disponibilidad de Parques Nacionales" → Parque Nacional Chirripó) sits behind a Google reCAPTCHA tick, and buying needs a SICORE account. I didn't tick the captcha or create an account (see Open issues).
 - Base Crestones (Consorcio CRC Chirripó, chirripo.org) publishes no calendar: you buy the SINAC admission first, then the Consorcio emails lodging/meal payment instructions ✅ chirripo.org "Info útil" + casamariposachirripo.net "How to get tickets".
-- **How tight it is:** 52 overnight permits a day (Lonely Planet); weekends Jan–Apr sell out months ahead; weekdays are easier (LP; AI lead says Feb weekday beds go "moderately" fast). 9/Day 66 are Tue/Wed. Tickets are released on a rolling basis up to ~6 months ahead, so Feb 2027 dates should already be on sale.
+- **How tight it is:** 52 overnight permits a day (Lonely Planet); weekends Jan–Apr sell out months ahead; weekdays are easier (LP; AI lead says Feb weekday beds go "moderately" fast). ⚠️ The planned climb, **Day 69 → 70, starts on a Sunday** (Sun 14 Feb at the current anchor, Valentine's weekend), the hardest kind of date. The Day 68 → 69 fallback (Sat → Sun) is no easier. Tickets are released on a rolling basis up to ~6 months ahead, so Feb 2027 dates should already be on sale.
 - **Two permit types** ✅ casamariposachirripo.net:
   - an **overnight** permit (entry and exit dates differ, tied to a Crestones bed);
   - a **"Diario" day permit** (same entry/exit date, no bed): the ultra-fit option of summit-and-back in one day (≈ 40 km, ~2,500 m up). It is the fallback if Crestones is full.
