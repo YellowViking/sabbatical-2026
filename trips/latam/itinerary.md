@@ -33,12 +33,12 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [lat
 | Fri 15 Jan | over the Andes | — | — | ✅ **Andesmar Purmamarca 03:40 → San Pedro 11:30**, ARS 120,000 (Plataforma10, 26 Nov) | [→](guides/san-pedro-de-atacama.md) |
 | 15 → 18 Jan | **San Pedro de Atacama** (3) | Hostal Lackuntur (location 9.4, 4-bed dorm, kitchen; 12 min on foot from the terminal), $55, Booking | Hostal Ayni, $135 (3 nights) | Cerro Toco optional ≈ $83 | [→](guides/san-pedro-de-atacama.md) |
 | 18 → 20 Jan | **Jeep tour to Uyuni** (2) | Estrella del Sur, $260–280 + Bs 210–250 park/border fees (cash) | backup World White Travel $275 | Incahuasi often skipped in January (flooding); mirror effect likely | [→](guides/uyuni-jeep-tour.md) |
-| 20 → 21 Jan | **Potosí** (1) | Los Faroles (private; no decent dorm), $28, Booking | Colonial, $60 | Uyuni → Potosí 15:00–18:30, $11–15 | [→](guides/potosi.md) |
-| 21 → 24 Jan | **Sucre** (3) | Villa Oropeza (curtains, 2 kitchens), $17, Agoda | Los Balcones, $50 | Potosí → Sucre 13:00/14:00, $7–8 | [→](guides/sucre.md) |
-| Sun 24 Jan | ✈ | — | — | BoA via Cochabamba 09:05 → 11:25, ≈ $56 (no Sunday nonstop) | [→](guides/la-paz.md) |
-| 24 → 27 Jan | **La Paz** (3) | Casa Bonita (by the bus terminal), $24, Agoda | Nuevo Sol, $120 | Death Road ≈ $85; Pico Austria ≈ $80–115 | [→](guides/la-paz.md) |
-| 27 → 29 Jan | **Isla del Sol** (1) + **Copacabana** (1) | Inti Wasi Lodge $18, Booking + Mia Posada $17, Hostelworld | Hostal Las Olas, $92/night | La Paz → Copacabana 07:30, $7 | [→](guides/copacabana-isla-del-sol.md) |
-| 29 → 30 Jan | **Puno** (1) | Kantaya Hostel, $10.50, Hostelworld | | ✅ Titicaca Bolivia Bus 13:30, $10 | [→](guides/puno.md) |
+| 20 → 22 Jan | **Potosí** (2; 2nd night added 26 Nov, LP pick: mine + mint) | Los Faroles (private; no decent dorm), $57, Booking | Colonial, ≈ $120 | Uyuni → Potosí 15:00–18:30, $11–15 | [→](guides/potosi.md) |
+| 22 → 25 Jan | **Sucre** (3) | Villa Oropeza (curtains, 2 kitchens), $17, Agoda | Los Balcones, $50 | Potosí → Sucre 13:00/14:00, $7–8 | [→](guides/sucre.md) |
+| Mon 25 Jan | ✈ | — | — | ✅ BoA via Cochabamba 09:05 → 11:25, $49 (no nonstop) | [→](guides/la-paz.md) |
+| 25 → 28 Jan | **La Paz** (3) | Casa Bonita (by the bus terminal), $20.39, Agoda | Nuevo Sol, $93 | Death Road ≈ $85; Pico Austria ≈ $80–115 | [→](guides/la-paz.md) |
+| 28 → 29 Jan | **Isla del Sol** (1; the Copacabana night went to Potosí) | Inti Wasi Lodge, $18, Booking | Hostal Inti Wayra, $26 | La Paz → Copacabana 07:30, $7; boat 13:30; back Fri for the **18:00** Puno bus (or the 10:30 boat + 13:30 bus) | [→](guides/copacabana-isla-del-sol.md) |
+| 29 → 30 Jan | **Puno** (1) | Kantaya Hostel, $10.50, Hostelworld | | ✅ Titicaca Bolivia Bus 18:00 → ≈ 21:00, $9 (13:30 if you skip the ridge walk) | [→](guides/puno.md) |
 | 30 Jan → 1 Feb | **Chivay** (1) + **Sangalle oasis** (1) | Samay Lodge $12 + Paraíso Las Palmeras $32, Booking | | ✅ 4M Express Puno 06:15 → Chivay ~12:30, $54; boleto turístico S/70 | [→](guides/colca-canyon.md) |
 | 1 → 3 Feb | **Arequipa** (2) | Econunay, $18.94, Hostelworld/Agoda | | Climb out of the canyon 05:00, 09:30 bus from Cabanaconde, S/35 | [→](guides/arequipa.md) |
 | Wed 3 Feb | ✈ ✈ (**3 open options**) | — | — | **A:** Sky 06:50 + Copa CM760 13:20, $326 cash (two tickets, 4 h 45 gap). **B:** Lima night + Copa 10:30 on 17,500 United miles. **C:** overland via Huacachina + Paracas, award from Lima on 6 Feb (+3 days) | [→](guides/panama-city.md) |
@@ -123,7 +123,7 @@ Every guide's booking table now has a **Getting there** column: the property fou
 | [Colca](guides/colca-canyon.md) | Sangalle oasis, 31 Jan → 1 Feb: Paraíso Las Palmeras - Sangalle | 🥾 **hike only**: trail down from Cabanaconde (guide: ≈ 2–3 h down, 3–4 h back up at dawn); Google Maps walk 1 hr 34 min (5.1 km) |
 | [Foz do Iguaçu](guides/foz-do-iguacu.md) | Dorm pick: Hostel Bambu | 🚕 taxi/rideshare ≈ 11 min from the international bus terminal (walk 55 min, 4.1 km); centre 10 min on foot |
 | [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol backup: Hostal Inti Wayra | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 15 min (600 m) |
-| [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol, 27 → 28 Jan: Inti Wasi Lodge | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) |
+| [Isla del Sol](guides/copacabana-isla-del-sol.md) | Isla del Sol, 28 → 29 Jan: Inti Wasi Lodge | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) |
 | [León](guides/leon.md) | Dorm pick: Casa Lula | 🚕 taxi/rideshare ≈ 11 min from the bus terminal (walk 28 min, 2.1 km); centre 5 min on foot |
 | [La Paz](guides/la-paz.md) | Dorm pick: La Casa Bonita | 🚕 taxi/rideshare ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot |
 | [Panama City](guides/panama-city.md) | Dorm pick: El Machico Hostel | 🚕 taxi/rideshare ≈ 33 min from Tocumen airport; or Metro Line 2 → Line 1 from the airport ($0.85, see the guide); ℹ️ outside the centre (56 min on foot, buses run) |

@@ -40,15 +40,16 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 | Argentina | 1 → 15 Jan | 13 | $207 | $17 | $6.6 | $4 | **$566** | 2 night buses; refugio assumed ≈ $15/night (price on request); Iruya private $37 (no dorms) |
 | Chile (San Pedro) | 15 → 18 Jan | 3 | $55 | $24 | $9.5 | $7.5 | **$178** | desert-town markup; buy staples in Salta |
 | Uyuni jeep tour | 18 → 20 Jan | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
-| Bolivia | 20 → 29 Jan | 9 | $104 | $9 | $3.7 | $3 | **$245** | |
+| Bolivia | 20 → 29 Jan | 9 | $112 | $9 | $3.7 | $3 | **$253** | Potosí 2 nights ($57), Isla del Sol 1 night; no Copacabana night (26 Nov) |
 | Peru | 29 Jan → 3 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | |
 | Panama | 3 → 8 Feb | 5 | $154 | $17 | $5.0 | $5.5 | **$292** | Boquete at Carnaval prices ($116 for 3 nights) |
 | Costa Rica | 8 → 20 Feb | 12 | $236 | $22 | $7.5 | $7 | **$674** | incl. ≈ $45 Base Crestones bunk |
 | Nicaragua | 20 Feb → 4 Mar | 12 | $146 | $10 | $3.1 | $3 | **$339** | Granada 1 + Laguna de Apoyo 1, León 3, Estelí 1, airport homestay $17 |
-| **Total** | | **85** | **$1,393** (≈ $16.4/night) | **$1,306** | **$484** | **$397** | **≈ $3,580** (≈ $42/day) | |
+| **Total** | | **85** | **$1,401** (≈ $16.5/night) | **$1,306** | **$484** | **$397** | **≈ $3,588** (≈ $42/day) | |
 
 - **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
 - **26 Nov changes (net +$8 in beds, +1 day):** Iruya added (+$37), San Pedro down to 3 nights (−$19), Granada split with a Laguna de Apoyo night (+$4), Estelí added (+$14), and the Managua airport night is a $17 homestay instead of ≈ $45 (−$28).
+- **26 Nov, later:** a 2nd Potosí night (LP's top Bolivia pick) replaces the Copacabana-town night, so no dates after 29 Jan move: beds +$8, and the Sucre → La Paz flight moves to Mon 25 Jan ($49 instead of $56).
 - **Food, beer and local costs** are the midpoints of late-2026 backpacker ranges (Budget Your Trip, Numbeo, Hostelz, Indie Traveller, r/backpacking, as summarised by Google AI Mode; leads, not quotes). They're consistent with the dish prices in the guides. Two bar beers a day; add one more and it's about +$0.25k.
 
 ## (c) Transport, tours and fees

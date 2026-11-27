@@ -25,13 +25,13 @@ S = [
  (12,'Córdoba + Los Gigantes','2–7 Jan',-31.42,-64.18, -12,4,'end'),
  (13,'Cafayate','8–10 Jan',-26.07,-65.98, -12,6,'end'),
  (14,'Salta','10–12 Jan',-24.79,-65.41, 12,6,'start'),
- (15,'Purmamarca / Tilcara','12–14 Jan',-23.6,-65.4, 12,-2,'start'),
- (16,'San Pedro de Atacama','14–18 Jan',-22.91,-68.2, -12,6,'end'),
+ (15,'Tilcara + Iruya + Purmamarca','12–15 Jan',-23.6,-65.4, 12,-2,'start'),
+ (16,'San Pedro de Atacama','15–18 Jan',-22.91,-68.2, -12,6,'end'),
  (17,'Uyuni','jeep tour 18–20 Jan',-20.46,-66.83, -12,8,'end'),
- (18,'Potosí','20–21 Jan',-19.95,-66.0, 12,10,'start'),
- (19,'Sucre','21–24 Jan',-18.75,-64.8, 12,-2,'start'),
- (20,'La Paz','24–27 Jan',-16.5,-68.15, 12,4,'start'),
- (21,'Copacabana + Isla del Sol','27–29 Jan',-16.0,-69.1, 8,-13,'start'),
+ (18,'Potosí','20–22 Jan',-19.95,-66.0, 12,10,'start'),
+ (19,'Sucre','22–25 Jan',-18.75,-64.8, 12,-2,'start'),
+ (20,'La Paz','25–28 Jan',-16.5,-68.15, 12,4,'start'),
+ (21,'Isla del Sol','28–29 Jan',-16.0,-69.1, 8,-13,'start'),
  (22,'Puno','29–30 Jan',-15.6,-70.1, 0,-14,'middle'),
  (23,'Colca (Chivay, Sangalle)','30 Jan–1 Feb',-15.4,-72.1, -12,-4,'end'),
  (24,'Arequipa','1–3 Feb',-16.7,-71.4, -12,12,'end'),
@@ -44,16 +44,17 @@ S = [
  (31,'Rincón de la Vieja (Liberia)','18–20 Feb',10.77,-85.35, 0,0,'start'),
  (32,'San Juan del Sur / Playa Maderas','20–22 Feb',11.25,-85.87, 0,0,'start'),
  (33,'Ometepe','22–25 Feb',11.5,-85.6, 0,0,'start'),
- (34,'Granada + Apoyo','25–27 Feb',11.93,-85.96, 0,0,'start'),
- (35,'León','27 Feb–2 Mar (+ airport night)',12.43,-86.88, 0,0,'start'),
- (36,'Somoto canyon','optional',13.48,-86.58, 0,0,'start'),
+ (34,'Granada + Laguna de Apoyo','25–27 Feb',11.93,-85.96, 0,0,'start'),
+ (35,'León','27 Feb–2 Mar',12.43,-86.88, 0,0,'start'),
+ (36,'Estelí','2–3 Mar (+ airport night)',13.09,-86.35, 0,0,'start'),
+ (37,'Somoto canyon','optional',13.48,-86.58, 0,0,'start'),
 ]
-OPTIONAL = {36}
+OPTIONAL = {37}
 CA = {s[1] for s in S if s[0] >= 25}
 st = {s[1]: s for s in S}
 FOR, NAT, GOI, POA, CHUY, BA, POS, CDE = (-3.73,-38.52), (-5.79,-35.21), (-6.27,-35.21), (-30.03,-51.23), (-33.69,-53.46), (-34.6,-58.38), (-27.37,-55.9), (-25.51,-54.61)
 TUC, JAMA, NAZ, SJO = (-26.82,-65.22), (-23.24,-67.03), (-14.83,-74.94), (9.93,-84.08)
-LAG = (-22.2,-67.8); SALAR = (-20.2,-67.6)
+LAG = (-22.2,-67.8); SALAR = (-20.2,-67.6); IRUYA = (-22.79,-65.21); MGA = (12.14,-86.17)
 CONC, SALTO_UY, JUJ, LIMA, PTY = (-31.39,-58.02), (-31.38,-57.96), (-24.19,-65.3), (-12.02,-77.11), (8.98,-79.52)
 L = [
  ('boat',['Rio de Janeiro','Ilha Grande','Paraty']),
@@ -61,11 +62,11 @@ L = [
  ('bus',['Montevideo','Cabo Polonio']),
  ('bus',['Montevideo','Colonia (stopover)']),
  ('boat',['Colonia (stopover)',BA]),
- ('bus',[BA,'Córdoba + Los Gigantes',TUC,'Cafayate','Salta',JUJ,'Purmamarca / Tilcara',JAMA,'San Pedro de Atacama']),
+ ('bus',[BA,'Córdoba + Los Gigantes',TUC,'Cafayate','Salta',JUJ,'Tilcara + Iruya + Purmamarca',IRUYA,'Tilcara + Iruya + Purmamarca',JAMA,'San Pedro de Atacama']),
  ('jeep',['San Pedro de Atacama',LAG,SALAR,'Uyuni']),
  ('bus',['Uyuni','Potosí','Sucre']),
  ('flight',['Sucre','La Paz']),
- ('bus',['La Paz','Copacabana + Isla del Sol','Puno','Colca (Chivay, Sangalle)','Arequipa']),
+ ('bus',['La Paz','Isla del Sol','Puno','Colca (Chivay, Sangalle)','Arequipa']),
  ('flight',['Arequipa',LIMA]),
  ('flight',[LIMA,PTY]),
 ]
@@ -78,9 +79,9 @@ CAL = [
  ('bus',['Monteverde',FORT_LAKE]), ('boat',[FORT_LAKE,(10.52,-84.75)]), ('bus',[(10.52,-84.75),'La Fortuna / Arenal']),
  ('bus',['La Fortuna / Arenal','Rincón de la Vieja (Liberia)',PBLANCAS,'San Juan del Sur / Playa Maderas',SJORGE]),
  ('boat',[SJORGE,'Ometepe']),
- ('bus',[SJORGE,'Granada + Apoyo','León']),
+ ('bus',[SJORGE,'Granada + Laguna de Apoyo','León','Estelí',MGA]),
 ]
-CAL_OPT = [('bus',['León',ESTELI,'Somoto canyon'])]
+CAL_OPT = [('bus',['Estelí','Somoto canyon'])]
 MODES = {  # light, dark, dash, width, label  (slots 1–4 of the validated categorical palette, fixed order)
  'flight':('#2a78d6','#3987e5','2 6',2.5,'Flight'),
  'bus':   ('#eb6834','#d95926','9 5',3,'Bus / shuttle'),
@@ -159,6 +160,7 @@ for s_ in S:
         x,y=P(*s_[3:5]); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>{s_[0]}. {s_[1]}: {s_[2]}</title></circle>')
     else:
         draw_stop(o, P, s_, dates=False)
+        if s_[0] == 15: o[-1]=o[-1].replace('>Tilcara + Iruya + Purmamarca</text>','>Quebrada</text>')
 x,y=P(*st['Cabo Polonio'][3:5]); o.append(f'<text x="{x+12:.0f}" y="{y+10:.0f}" class="ink2 t-date halo">there and back from Montevideo</text>')
 x,y=P(*LIMA); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>Lima: change planes</title></circle><text x="{x-8:.0f}" y="{y+4:.0f}" class="ink2 t-date halo" text-anchor="end">Lima (change planes)</text>')
 # Seattle arrows
@@ -177,14 +179,14 @@ def PI(lat, lon): return (IX0 + (lon-ILON0)*IK*ISX, IY0 + (ILAT1-lat)*ISX)
 o.append(f'<line x1="{bx1:.0f}" y1="{(by0+by1)/2:.0f}" x2="{IX0-1:.0f}" y2="{IY0+IH/2:.0f}" class="frame" stroke-width="1" stroke-dasharray="4 3"/>')
 o.append(f'<rect x="{IX0-1}" y="{IY0-30}" width="{IW+2}" height="{IH+31:.0f}" rx="6" class="box" stroke-width="1.2"/>')
 o.append(f'<rect x="{IX0}" y="{IY0}" width="{IW}" height="{IH:.0f}" class="surface"/>')
-o.append(f'<text x="{IX0+10}" y="{IY0-10}" class="ink t-stop">Central America, 3 Feb – 3 Mar</text>')
+o.append(f'<text x="{IX0+10}" y="{IY0-10}" class="ink t-stop">Central America, 3 Feb – 4 Mar</text>')
 o.append(f'<clipPath id="inset"><rect x="{IX0}" y="{IY0}" width="{IW}" height="{IH:.0f}"/></clipPath><g clip-path="url(#inset)">')
 for name,d in land_paths(PI,(ILON0,ILON1,ILAT0,ILAT1)): o.append(f'<path class="land" d="{d}"><title>{name}</title></path>')
 for name,la,lo in [('HONDURAS',13.75,-86.0),('NICARAGUA',12.9,-85.0),('COSTA RICA',10.05,-83.6),('PANAMA',7.95,-80.2)]:
     x,y=PI(la,lo); o.append(f'<text x="{x:.0f}" y="{y:.0f}" class="ink3 t-date" text-anchor="middle" letter-spacing="1.5">{name}</text>')
 draw_legs(o, PI, CAL)
 draw_legs(o, PI, CAL_OPT, op=0.35)
-ISTOP={25:(-10,-9,'end'),26:(10,8,'start'),27:(10,-4,'start'),28:(-10,10,'end'),29:(-10,4,'end'),30:(10,-6,'start'),31:(-10,-4,'end'),32:(-10,-2,'end'),33:(10,8,'start'),34:(10,2,'start'),35:(-10,4,'end'),36:(10,4,'start')}
+ISTOP={25:(-10,-9,'end'),26:(10,8,'start'),27:(10,-4,'start'),28:(-10,10,'end'),29:(-10,4,'end'),30:(10,-6,'start'),31:(-10,-4,'end'),32:(-10,-2,'end'),33:(10,8,'start'),34:(10,2,'start'),35:(-10,4,'end'),36:(10,-2,'start'),37:(10,4,'start')}
 for s_ in S:
     if s_[1] in CA:
         dx,dy,anc=ISTOP[s_[0]]; short=s_[1].split(' (')[0].split(' / ')[0].split(' +')[0]
@@ -192,26 +194,26 @@ for s_ in S:
         o[-1]=o[-1].replace(f'>{s_[1]}</text>', f'>{short}' + (' (optional)' if s_[0] in OPTIONAL else '') + '</text>')
         if s_[0] in OPTIONAL: o[-1]=o[-1].replace('<g>','<g opacity="0.45">',1)
         if s_[0] == 25: o[-1]=o[-1].replace('>Panama City</text>','>Panama City <tspan class="ink2 t-date">✈ from Lima</tspan></text>')
-x,y=PI(*st['León'][3:5]); o.append(f'<text x="{x+12:.0f}" y="{y-10:.0f}" class="ink2 t-date halo">✈ home from Managua</text>')
+x,y=PI(*MGA); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"/><text x="{x+10:.0f}" y="{y-12:.0f}" class="ink2 t-date halo">✈ home from Managua, Thu 4 Mar</text>')
 
 o.append('</g>')
 # title
 o.append(f'<text x="32" y="40" class="ink t-title">Latin America route v5: Rio → Paraguay → Uruguay → the Andes → Central America</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">✈ Mon 7 Dec 2026 → ✈ home Wed 3 Mar 2027 · typical-stay dates, 12 spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">✈ Mon 7 Dec 2026 → ✈ home Thu 4 Mar 2027 · 11 spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
 # legend + itinerary list
 ly=TOP+H_MAP+30; lx=32
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
 for i,(k,v) in enumerate(MODES.items()):
     x0=lx+i*200; y0=ly+20; dash=f' stroke-dasharray="{v[2]}"' if v[2] else ''
     o.append(f'<line x1="{x0}" y1="{y0}" x2="{x0+44}" y2="{y0}" class="m-{k}" stroke-width="{v[3]+0.5}" stroke-linecap="round"{dash}/><text x="{x0+52}" y="{y0+4}" class="ink t-leg">{v[4]}</text>')
-ty=ly+56; cols=[S[:12],S[12:24],S[24:]]
+ty=ly+56; cols=[S[:13],S[13:26],S[26:]]
 o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Stops (≈ dates)</text>')
 for ci,col in enumerate(cols):
     for ri,s_ in enumerate(col):
         x0=lx+ci*320; y0=ty+20+ri*17
         o.append(f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{s_[0]}.</tspan> {s_[1]} <tspan class="ink2">{s_[2] or "≈ mid-Feb"}</tspan></text>')
-o.append(f'<text x="{lx}" y="{ty+20+12*17+10}" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz, ✈ Arequipa → Lima → Panama City and ✈ Panama City → David (Boquete, Carnaval).</text>')
-o.append(f'<text x="{lx}" y="{ty+20+12*17+28}" class="ink2 t-note">Night buses: Curitiba → Foz, Encarnación → Montevideo, Buenos Aires → Córdoba, Córdoba → Tucumán. Only spurs: Cabo Polonio and the Ometepe ferry.</text>')
-o.append(f'<text x="{lx}" y="{ty+20+12*17+46}" class="ink2 t-note">Beds, buses and flights checked live 24 Nov (see itinerary.md). Adventure extras (Teresópolis, Cerro Toco, Pico Austria, Somoto) fit in the 12 spare days. Nothing booked.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+13*17+10}" class="ink2 t-note">Overland everywhere except ✈ Sucre → La Paz, ✈ Arequipa → Lima → Panama City and ✈ Panama City → David (Boquete, Carnaval).</text>')
+o.append(f'<text x="{lx}" y="{ty+20+13*17+28}" class="ink2 t-note">Night buses: Curitiba → Foz, Encarnación → Montevideo, Buenos Aires → Córdoba, Córdoba → Tucumán. Only spurs: Cabo Polonio and the Ometepe ferry.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+13*17+46}" class="ink2 t-note">Beds, buses and flights checked live 24–26 Nov (see itinerary.md). Options and add-ons (Plan B Florianópolis, Arequipa → Panama, Somoto…) are in alternatives.md and its map. Nothing booked.</text>')
 o.append('</svg>')
 open(OUT,'w').write('\n'.join(o)); print(OUT, W, H)

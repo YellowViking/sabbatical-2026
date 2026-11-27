@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Sucre](sucre.md) · [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) →
 
-> **Stop 20 · Sun 24 → Wed 27 Jan 2027 (days 48–51) · 3 nights · Alasitas fair opens on the 24th**<br>
+> **Stop 20 · Mon 25 → Thu 28 Jan 2027 (days 49–52) · 3 nights · Alasitas fair (from the 24th) is on**<br>
 > 🏞️ A canyon city at 3,640 m under Illimani: cable cars, markets, and big days out to Tiwanaku, Pico Austria or the Death Road<br>
-> 🛏️ **La Casa Bonita**, a bed in a 4-bed mixed dorm, $23.70 for 3 nights (Agoda), 90 m from the bus terminal<br>
-> ✈ **In:** BoA Sucre → La Paz via Cochabamba, Sun 09:05 → 11:25 · 🚌 **Out:** bus to Copacabana, Wed 07:30
+> 🛏️ **La Casa Bonita**, a bed in a 4-bed mixed dorm, $20.39 for 3 nights (Agoda, rechecked 26 Nov), 90 m from the bus terminal<br>
+> ✈ **In:** BoA Sucre → La Paz via Cochabamba, Mon 09:05 → 11:25 · 🚌 **Out:** bus to Copacabana, Thu 07:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TEUOjBJJiBLPHdHpv87vFH3e8rDRiuPAG6orIH6GVaTuMcigV-qNi13xo8_n_cKzKuPdLjRlh0mi4StJWOuqKfYzrL8C6kBFBicy9T-eDJ4JL1ZukH6EvViMq_tuPDGP0hrbdXQ4BbgOvN=w1200-h360-p-k-no" alt="La Paz's high-rises with snow-capped Illimani behind, from Mirador Killi Killi" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 ![Map of La Paz: the beds, the bus terminal, the teleférico, the markets and El Alto's feria](img/la-paz-map-4b2c2284.jpg)
 
-**In town:** ★ **[La Casa Bonita](https://www.google.com/maps?ftid=0x915f217003de40d9:0xb5fd7f2fa25b9fef)** (the pick, [book](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-24&checkout=2027-01-27&NumberofAdults=1&Rooms=1)) · **1** [Hotel Martí](https://www.google.com/maps?ftid=0x915f216b292d68e3:0xf4e1ff688aa626df) (backup, [book](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-24&to=2027-01-27&guests=1)) · **2** [Hotel Nuevo Sol](https://www.google.com/maps?ftid=0x915f2076ca3cdea9:0xcff01ab9c3f98623) (private alt, [book](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-24&checkout=2027-01-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [main bus terminal](https://www.google.com/maps?ftid=0x915f200a5e717817:0x1b4009ee4ecb0cb2) (Copacabana buses) · **3** [Mi Teleférico, Línea Roja, Estación Central](https://www.google.com/maps?ftid=0x915edff540c05e71:0x473363a5899d81ff) [🚶 13 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4912191,-68.1444456&travelmode=walking) · **4** [Feria 16 de Julio](https://www.google.com/maps?ftid=0x915edfb8a9cc93a1:0xfede2c30b92be122) [🚌 33 min (gondola lift Roja)](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4967763,-68.1714609&travelmode=transit), El Alto · **5** [Alasitas, Campo Ferial Bicentenario](https://www.google.com/maps?ftid=0x915f206f8a7e909b:0x2e293bc33c6fb345) [🚕 ≈ 14 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5020736,-68.1291681&travelmode=driving) · **6** [Cholitas wrestling](https://www.google.com/maps?ftid=0x915edf9ef816aa07:0xa37771021bcd72c5) [🚌 49 min (gondola lift Roja)](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5140651,-68.1632602&travelmode=transit), El Alto · **7** [Calle Sagárnaga](https://www.google.com/maps?ftid=0x915f2076f5291f01:0x48db720b94821c5e) [🚶 25 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4988841,-68.1398794&travelmode=walking) · **8** [Cementerio General](https://www.google.com/maps?ftid=0x915edf8c494106d9:0x6f1f19800540ccfd) (Tiwanaku minibuses) · **9** [Mercado Lanza](https://www.google.com/maps?ftid=0x915f20747f2c08ad:0xe0886b55d5ae0b05) [🚶 16 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4946205,-68.1373658&travelmode=walking) · **10** [Mercado Rodríguez](https://www.google.com/maps?ftid=0x915f2077032c4643:0x4e25264c32849214) [🚕 ≈ 11 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5002761,-68.1385394&travelmode=driving) · **11** [DT Brew House Mirador](https://www.google.com/maps?ftid=0x915f217756ddf8a9:0xafb967aaa9118562) [🚕 ≈ 9 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4954213,-68.1270083&travelmode=driving)
+**In town:** ★ **[La Casa Bonita](https://www.google.com/maps?ftid=0x915f217003de40d9:0xb5fd7f2fa25b9fef)** (the pick, [book](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-25&checkout=2027-01-28&NumberofAdults=1&Rooms=1)) · **1** [Hotel Martí](https://www.google.com/maps?ftid=0x915f216b292d68e3:0xf4e1ff688aa626df) (backup, [book](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-25&to=2027-01-28&guests=1)) · **2** [Hotel Nuevo Sol](https://www.google.com/maps?ftid=0x915f2076ca3cdea9:0xcff01ab9c3f98623) (private alt, [book](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-25&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [main bus terminal](https://www.google.com/maps?ftid=0x915f200a5e717817:0x1b4009ee4ecb0cb2) (Copacabana buses) · **3** [Mi Teleférico, Línea Roja, Estación Central](https://www.google.com/maps?ftid=0x915edff540c05e71:0x473363a5899d81ff) [🚶 13 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4912191,-68.1444456&travelmode=walking) · **4** [Feria 16 de Julio](https://www.google.com/maps?ftid=0x915edfb8a9cc93a1:0xfede2c30b92be122) [🚌 33 min (gondola lift Roja)](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4967763,-68.1714609&travelmode=transit), El Alto · **5** [Alasitas, Campo Ferial Bicentenario](https://www.google.com/maps?ftid=0x915f206f8a7e909b:0x2e293bc33c6fb345) [🚕 ≈ 14 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5020736,-68.1291681&travelmode=driving) · **6** [Cholitas wrestling](https://www.google.com/maps?ftid=0x915edf9ef816aa07:0xa37771021bcd72c5) [🚌 49 min (gondola lift Roja)](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5140651,-68.1632602&travelmode=transit), El Alto · **7** [Calle Sagárnaga](https://www.google.com/maps?ftid=0x915f2076f5291f01:0x48db720b94821c5e) [🚶 25 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4988841,-68.1398794&travelmode=walking) · **8** [Cementerio General](https://www.google.com/maps?ftid=0x915edf8c494106d9:0x6f1f19800540ccfd) (Tiwanaku minibuses) · **9** [Mercado Lanza](https://www.google.com/maps?ftid=0x915f20747f2c08ad:0xe0886b55d5ae0b05) [🚶 16 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4946205,-68.1373658&travelmode=walking) · **10** [Mercado Rodríguez](https://www.google.com/maps?ftid=0x915f2077032c4643:0x4e25264c32849214) [🚕 ≈ 11 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5002761,-68.1385394&travelmode=driving) · **11** [DT Brew House Mirador](https://www.google.com/maps?ftid=0x915f217756ddf8a9:0xafb967aaa9118562) [🚕 ≈ 9 min](https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4954213,-68.1270083&travelmode=driving)
 
 ![Map of the area: La Paz, El Alto airport, Muela del Diablo, Tiwanaku to the west, Pico Austria to the north and the Death Road to the north-east](img/la-paz-area-map-a82e6ea2.jpg)
 
@@ -29,30 +29,30 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Sun 24 Jan** · Alasitas opens | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: **Feria 16 de Julio** in El Alto (Thu + Sun only, so this is your one chance; LP says it runs to ≈ 15:00, so go straight from the airport) *or* **Alasitas**, which opens at noon. Cholitas wrestling runs on Sunday afternoons in El Alto *(lead)*. |
-| **Mon 25 Jan** | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
-| **Tue 26 Jan** | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone) plus a 🚡 **Mi Teleférico** ride. Alasitas is still on. Withdraw ≈ Bs 600 for Copacabana and Isla del Sol. |
-| **Wed 27 Jan** | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
+| **Mon 25 Jan** | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: **Alasitas** (the miniatures fair, on since the 24th) and a 🚡 **Mi Teleférico** ride. The El Alto **Feria 16 de Julio** (Thu + Sun only) no longer fits: the 2nd Potosí night took the Sunday. |
+| **Tue 26 Jan** | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
+| **Wed 27 Jan** | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone). Alasitas is still on. Withdraw ≈ Bs 600 for Isla del Sol. |
+| **Thu 28 Jan** | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (24 → 27 Jan, 3 nights)
+**Beds** (25 → 28 Jan, 3 nights)
 
 | | Where | Total | Location | From El Alto airport | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **La Casa Bonita** · bed in a 4-bed mixed dorm | **$23.70** | 9.2 | 🚕 ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.4869368,-68.1425539&travelmode=driving) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-24&checkout=2027-01-27&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/310839/casa-de-huespedes-la-casa-bonita/?from=2027-01-24&to=2027-01-27&guests=1) |
-| Backup | **Hotel Martí** · bed in a 10-bed ensuite dorm | $42.90 | ⚠️ 8.9 *(HW)* | ⚠️ 🚕 ≈ 33 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); **34 min walk to the centre, no bus in Google Maps** · [route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.5071892,-68.1297937&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-24&to=2027-01-27&guests=1) |
-| Private alt | **Hotel Nuevo Sol** · Double or Twin, breakfast | $120 | 9.9 | 🚕 ≈ 32 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.4988642,-68.1375382&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-24&checkout=2027-01-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **La Casa Bonita** · bed in a 4-bed mixed dorm | **$20.39** (rechecked 26 Nov) | 9.2 | 🚕 ≈ 29 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.4869368,-68.1425539&travelmode=driving) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23739894&checkin=2027-01-25&checkout=2027-01-28&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/310839/casa-de-huespedes-la-casa-bonita/?from=2027-01-25&to=2027-01-28&guests=1) |
+| Backup | **Hotel Martí** · bed in a 10-bed ensuite dorm | $42.90 | ⚠️ 8.9 *(HW)* | ⚠️ 🚕 ≈ 33 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); **34 min walk to the centre, no bus in Google Maps** · [route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.5071892,-68.1297937&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/335481/hotel-marti/?from=2027-01-25&to=2027-01-28&guests=1) |
+| Private alt | **Hotel Nuevo Sol** · Double or Twin, breakfast | $120 | 9.9 | 🚕 ≈ 32 min from El Alto airport; Google has no bus data here, so local minibus/colectivo (ask locally); centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.510379,-68.1882265&destination=-16.4988642,-68.1375382&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/nuevo-sol-la-paz.html?checkin=2027-01-25&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | ✈ **BoA** · Sucre → La Paz via Cochabamba | **Sun 24 Jan 09:05 → 11:25** (2 h 20) | **$56** | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjRqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) · [BoA](https://www.boa.bo/) |
+| In | ✈ **BoA** · Sucre → La Paz via Cochabamba | **Mon 25 Jan 09:05 → 11:25** (2 h 20; also 20:45) | **$49** (✅ Google Flights, 26 Nov; Sunday was $56) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjVqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) · [BoA](https://www.boa.bo/) |
 | Check first | ✈ **EcoJet** · Sucre → La Paz nonstop | "new route from 4 December", no schedule shown | — | flyecojet.aero |
-| Out | 🚌 **Vicuña Travel** · La Paz → Copacabana (semi-cama) | **Wed 27 Jan 07:30 → ≈ 11:30** | ≈ $7 on Tickets Bolivia (the counter is cheaper) | at the terminal; see the [Copacabana guide](copacabana-isla-del-sol.md) |
+| Out | 🚌 **Vicuña Travel** · La Paz → Copacabana (semi-cama) | **Thu 28 Jan 07:30 → ≈ 11:30** | ≈ $7 on Tickets Bolivia (the counter is cheaper) | at the terminal; see the [Copacabana guide](copacabana-isla-del-sol.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## ✈ Getting here: Sucre → La Paz, Sun 24 Jan (Day 48)
+## ✈ Getting here: Sucre → La Paz, Mon 25 Jan (Day 49)
 
 - ✅ **Google Flights, live 24 Nov** (a real search page): no nonstop on Sunday. **BoA via Cochabamba:**
   - **09:05 → 11:25 (2 h 20), US$56**, the pick;
@@ -72,7 +72,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Buy** on boa.bo or Google Flights' BoA link (cash fare; a checked bag is normally included on BoA domestic, ≈).
 - **Nonstop options:** BoA's restored SRE–LPB nonstop started 17 Nov 2026 and runs **3× a week**: ≈ OB 561 07:35 on Wed/Thu and OB 567 21:30 on Tue/Wed (FlightsFrom/AI-summary lead), never Sunday.
 - ✅ **EcoJet** announces a "new route Sucre–La Paz from 4 December" on flyecojet.aero, but no schedule is shown. **Check EcoJet for a Sunday nonstop before buying the BoA connection.**
-- **Ground option:** overnight bus Sat 23 Jan 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$56 flight is better.
+- **Ground option:** overnight bus Sun 24 Jan 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$56 flight is better.
 - **Sucre's Alcantarí airport** is ≈ 30 km out (taxi ≈ Bs 80–100, ≈; leave town by 07:30).
 - **At El Alto:** official taxi **Bs 80–150** to the centre (Bolivian Life, Nov 2026), ≈ 40 min to the hostel, or minibus 212 for ≈ Bs 3.
   - LP: the minibus has a "Minibus Cotranstur" sign just outside arrivals, runs ≈ 07:00–20:00 to Plaza Isabel la Católica (B$3.80 in LP) and drops anywhere along El Prado. LP's radio-taxi fare was ≈ B$70 (LP).
@@ -149,7 +149,7 @@ All live-checked on 24 Nov.
 
 **Other DIY day hikes LP names:** the **Valle de la Luna** eroded badlands in the Zona Sur (≈ B$25, dawn to dusk; a short walk, not the Chilean one) and the **Valle de las Ánimas** rock spires on the south-eastern edge (LP). Same caution as the Muela: go in company.
 
-**Sun 24 Jan, arrival day (pick one for the afternoon):**
+**Mon 25 Jan, arrival day (pick one for the afternoon; the Sunday-only El Alto options below no longer fit):**
 - The plane lands at El Alto, which holds its huge **16 de Julio street market on Thursdays and Sundays**, and the **cholitas wrestling** show runs on Sunday afternoons in El Alto. Both are worth fitting in on the way down into La Paz *(leads)*.
 - **El Alto's Feria 16 de Julio** (Thursdays and Sundays, so this is your only chance): a huge flea market on the rim at 4,000 m. Take Mi Teleférico's red line up to 16 de Julio station; carry little and watch pockets.
   - ⚠️ LP gives its hours as **≈ 06:00–15:00**. Landing at 11:25, go straight from the airport (it's in El Alto) and drop the bag later, or it will be winding down.
@@ -223,7 +223,7 @@ All live-checked on 24 Nov.
 - **Laundry:** the laundries along Illampu, at the top of Sagárnaga, charge ≈ B$10–15 per kg for same-day service (LP).
 - **Cash:** ATMs are plentiful. **Withdraw enough bolivianos here for Copacabana and Isla del Sol** (≈ Bs 600).
 
-## 🚌 Leaving: bus to Copacabana, Wed 27 Jan
+## 🚌 Leaving: bus to Copacabana, Thu 28 Jan
 
 - From the main bus terminal, 90 m from La Casa Bonita. **07:30 Vicuña Travel** (semi-cama, arr ≈ 11:30) is the pick; ≈ 4 h.
 - LP: tourist buses from the main terminal cost ≈ B$30 and are worth it; cheaper minibuses (≈ B$20–25) leave when full from the Cementerio area, which LP warns about after dark; watch your bags there (LP).

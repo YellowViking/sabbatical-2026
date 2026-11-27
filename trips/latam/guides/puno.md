@@ -25,7 +25,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Fri 29 Jan** | 🚌 **13:30 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 15:30 Peru time (probably). Taxi ≈ 10 min to Kantaya (or a 28-min walk). 🌅 Plaza de Armas → Jr. Lima → **Mirador Kuntur Wasi** in daylight only: up by ≈ 16:30, down before dark (⚠️ robberies reported, see Things to do). 🐟 Trout or quinoa soup for dinner. Buy breakfast snacks. Sleep early. |
+| **Fri 29 Jan** | 🚌 **18:00 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 21:00 (Peru is 1 h behind Bolivia). 🚕 Taxi ≈ 10 min to Kantaya (tell the hostel you arrive late). Dinner and bed: the 4M Express picks up at 05:50. If you took the 13:30 bus instead (no ridge walk), the daylight Plaza de Armas → Jr. Lima → Mirador Kuntur Wasi walk below still fits. |
 | **Sat 30 Jan** | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
 
 ## 🔖 Book (one click)
@@ -45,7 +45,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚌 **Titicaca Bolivia Bus** (Marcopolo G7 double-decker) · Copacabana → Puno | **Fri 29 Jan 13:30 → 16:30** (or 18:00 → ~21:00) | **$10** (18:00: $9) | [Titicaca Bolivia Bus](https://titicacaboliviabus.com/trip/copacabana-puno/) (WhatsApp form) |
+| In | 🚌 **Titicaca Bolivia Bus** (Marcopolo G7 double-decker) · Copacabana → Puno | **Fri 29 Jan 18:00 → ≈ 21:00** (or 13:30 → 16:30 if you skip the Isla del Sol ridge walk) | **$9** (13:30: $10) | [Titicaca Bolivia Bus](https://titicacaboliviabus.com/trip/copacabana-puno/) (WhatsApp form) |
 | ⚠️ Out | 🚌 **4M Express** · Puno → Chivay | **Sat 30 Jan**, pickup 05:50–06:10, dep ≈ 06:15 → Chivay 12:15–12:45 | **$54** | [4M Express](https://www.4m-express.com/) (confirm by WhatsApp; closes 3 days before) |
 
 <details><summary>How to read these tables</summary>

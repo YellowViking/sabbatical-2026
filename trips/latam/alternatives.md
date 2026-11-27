@@ -2,8 +2,13 @@
 
 Part of the [LatAm itinerary](itinerary.md). The **route order is fixed** (decided 26 Nov). This page holds the choices that can wait. Each one says when to decide, what to book for each option, and the signs that should tip it.
 
+![Map of the alternatives: the main route faded; Plan B via Florianópolis, B2 via Punta del Diablo, A2 via Salto and option C via Nazca in colour; numbered add-on pins; inset of the Christmas-week corner](latam-alternatives-map.svg)
+
+The main route on its own: [latam-route-draft.svg](latam-route-draft.svg).
+
 ## Decided (26 Nov 2026)
 - **Route order:** keep the current one (Brazil → Paraguay/Uruguay → Argentina → Atacama → Bolivia → southern Peru → Panama → Costa Rica → Nicaragua). The Andes-first and reversed orders were re-scored in [route-v5-brainstorm §1](route-v5-brainstorm.md) and not taken.
+- **Potosí gets a 2nd night** (LP's top Bolivia pick: the mine and the mint), taken from the Copacabana-town night: Potosí 20 → 22, Sucre 22 → 25, La Paz 25 → 28 (BoA Mon 25 Jan, $49), Isla del Sol 28 → 29, then the 18:00 bus to Puno. Nothing after 29 Jan moves.
 - **Northern Brazil entry** (an award into Belém, Fortaleza or Manaus; the best was economy into Belém on 7 Dec, ≈ 26,700 points + $60): **dropped**. The trip starts with the Alaska business award into Rio on Tue 8 Dec.
 
 ## 1. Christmas week: Paraguay (Plan A) or Florianópolis (Plan B) · decide by ≈ 15 Dec
@@ -40,7 +45,6 @@ Three options, already in the [itinerary](itinerary.md) and the [Panama City gui
 
 | Option | Where it fits | Days | ≈ Cost | Season in our dates | Note |
 |---|---|---:|---:|---|---|
-| ⭐ **Potosí, +1 night** (new) | 21 → 22 Jan, before Sucre | +1 | ≈ $28 bed (Los Faroles) + mine tour or mint (✅ Bs 70) | Indoors, so January rain doesn't matter | LP's top Bolivia highlight; one night forces a choice between the mine and the mint. Or Kari Kari lagoons with a guide |
 | ⭐ **Nazca Lines** (new) | with option C above | +0–1 | ≈ $100–120 flight | Dry coast | Only if C is chosen |
 | [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) | before Rio | +2 | see guide | Wet in Dec (LP: best Apr–Oct) | Guide written |
 | [Somoto Canyon](guides/somoto.md) | from Estelí, 3 → 4 Mar | +1 | guides ≈ $25–45 + entry ≈ $5–10, bed not priced | Dry season ✅ | Guide written; flight home moves to 5 Mar (same award) |
