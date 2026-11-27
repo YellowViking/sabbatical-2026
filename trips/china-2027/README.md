@@ -8,6 +8,8 @@
 - Entering China on a US passport with a Chinese visa.
 - **Yunnan 云南, Guilin 桂林, Sichuan 四川 and Chongqing 重庆 already visited**, so they're left out. Central Asia is all new.
 
+[![China + Central Asia 2027 draft route map](china-route-draft.svg)](china-route-draft.svg)
+
 ## How the route was chosen
 
 - **Weather:** 10 years of daily data (2016–2025) by half-month: average high/low and the share of days with ≥ 1 mm of rain. China: Open-Meteo, 48 places. Central Asia: NASA POWER, 21 places.
