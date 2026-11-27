@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) · [Sucre](sucre.md) →
 
-> **Stop 18 · Wed 20 → Fri 22 Jan 2027 (days 44–46) · 2 nights (2nd night added 26 Nov, LP pick)**<br>
+> **Stop 18 · Sat 23 → Mon 25 Jan 2027 (days 47–49) · 2 nights (2nd night added 26 Nov, LP pick)**<br>
 > 🏞️ Colonial mining city at 4,070 m under the Cerro Rico: a UNESCO centre and a live mine<br>
 > 🛏️ **Los Faroles Hostal**, a private family room with shared bathroom, US$57 for 2 nights with breakfast (no well-rated dorm in town)<br>
-> 🚌 **In:** bus from Uyuni after the tour, Wed 15:00–19:00 · **Out:** bus to Sucre after lunch, Fri
+> 🚌 **In:** bus from Uyuni after the tour, Sat 15:00–19:00 · **Out:** bus to Sucre after lunch, Mon
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rw7nxCJFnCpQTAp8Fed3oZFGRGs1OSjSZkitAn5Tr_9F31PdJufNGvoNKxTNng3G91k2ZCxkVujMfRXOBiWSq1RVqUPoraUFd1nOB76XFmdLvMLdFflbj6vIQ90_ZRCJwdNe8=w1200-h360-p-k-no" alt="The Cerro Rico rising above the rooftops of Potosí" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 ![Map of central Potosí: the beds, Plaza 10 de Noviembre, Calle Quijarro and the Casa de Moneda](img/potosi-map-625be7e1.jpg)
 
-**In town:** ★ **[Los Faroles Hostal](https://www.google.com/maps?ftid=0x93f94f251bd89b39:0xf0959b0a4d0ce012)** (the pick, [book](https://www.booking.com/hotel/bo/los-faroles-hostal.html?checkin=2027-01-20&checkout=2027-01-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [The Koala Den](https://www.google.com/maps?ftid=0x93f94e7102f3861f:0xd5afa03f5d1aa500) (backup, [book](https://www.hostelworld.com/hostels/p/317982/the-koala-den-hostel/?from=2027-01-20&to=2027-01-22&guests=1)) · **2** [Hostal Colonial](https://www.google.com/maps?ftid=0x93f94f0066cbdc3f:0x955b0bb446cc40d8) (private alt, [book](https://www.booking.com/searchresults.html?ss=Hostal+Colonial+Potos%C3%AD&checkin=2027-01-20&checkout=2027-01-22&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Plaza 10 de Noviembre](https://www.google.com/maps?ftid=0x93f94e7a0cd112b5:0x53f0d2e9d9362068) [🚶 6 min](https://www.google.com/maps/dir/?api=1&origin=-19.5877093,-65.7557628&destination=-19.5892573,-65.7535301&travelmode=walking) · **4** [Calle Quijarro](https://www.google.com/maps?ftid=0x93f94e70e1143653:0x7fe6d6a92e5c7b02) [🚶 6 min](https://www.google.com/maps/dir/?api=1&origin=-19.5877093,-65.7557628&destination=-19.5854613,-65.7532608&travelmode=walking) · **5** [Casa Nacional de Moneda](https://www.google.com/maps?ftid=0x93f94e7a742dc163:0xf0943a56bebdf962) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=-19.5877093,-65.7557628&destination=-19.5888118,-65.7542524&travelmode=walking)
+**In town:** ★ **[Los Faroles Hostal](https://www.google.com/maps?ftid=0x93f94f251bd89b39:0xf0959b0a4d0ce012)** (the pick, [book](https://www.booking.com/hotel/bo/los-faroles-hostal.html?checkin=2027-01-23&checkout=2027-01-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [The Koala Den](https://www.google.com/maps?ftid=0x93f94e7102f3861f:0xd5afa03f5d1aa500) (backup, [book](https://www.hostelworld.com/hostels/p/317982/the-koala-den-hostel/?from=2027-01-23&to=2027-01-25&guests=1)) · **2** [Hostal Colonial](https://www.google.com/maps?ftid=0x93f94f0066cbdc3f:0x955b0bb446cc40d8) (private alt, [book](https://www.booking.com/hotel/bo/hostal-colonial-potosi.html?checkin=2027-01-23&checkout=2027-01-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Plaza 10 de Noviembre](https://www.google.com/maps?ftid=0x93f94e7a0cd112b5:0x53f0d2e9d9362068) [🚶 6 min](https://www.google.com/maps/dir/?api=1&origin=-19.5877093,-65.7557628&destination=-19.5892573,-65.7535301&travelmode=walking) · **4** [Calle Quijarro](https://www.google.com/maps?ftid=0x93f94e70e1143653:0x7fe6d6a92e5c7b02) [🚶 6 min](https://www.google.com/maps/dir/?api=1&origin=-19.5877093,-65.7557628&destination=-19.5854613,-65.7532608&travelmode=walking) · **5** [Casa Nacional de Moneda](https://www.google.com/maps?ftid=0x93f94e7a742dc163:0xf0943a56bebdf962) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=-19.5877093,-65.7557628&destination=-19.5888118,-65.7542524&travelmode=walking)
 
 ![Map of the area: Potosí, the Nueva Terminal, the food stops, Cerro Rico and Kari Kari](img/potosi-area-map-018436dc.jpg)
 
@@ -29,30 +29,30 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Wed 20 Jan | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
-| **Day 2** · Thu 21 Jan | ⛏️ **Cerro Rico mine tour** at 09:00, 3–4 h. 🍲 Calapurca for lunch. 🏛️ **Casa Nacional de Moneda**, the 14:30 English tour (✅ Bs 70; English tours Mon–Fri 09:00, 11:00, 14:30). 🌆 The centre at dusk. |
-| **Day 3** · Fri 22 Jan · 🇧🇴 Día del Estado Plurinacional (holiday) | 🌊 Morning swim in the **Ojo del Inca** crater lake (taxi), or the centre and its viewpoints at 08:00. 🚌 **Potosí → Sucre** after lunch (13:00 or 14:00; buses run on the holiday). |
+| **Day 1** · Sat 23 Jan | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
+| **Day 2** · Sun 24 Jan · Alasitas fair opens (La Paz) | 🏛️ **Casa Nacional de Moneda**, the **09:15** English tour (✅ Bs 70; at weekends English tours run only at 09:15 and 11:00). 🍲 Calapurca for lunch. 🌊 Afternoon swim in the **Ojo del Inca** crater lake (camión from Mercado Chuquimia; last ride back ≈ 17:00). 🌆 The centre at dusk. ⚠️ The mine tour moved to Monday: the miners don't work on Sundays. |
+| **Day 3** · Mon 25 Jan | ⛏️ **Cerro Rico mine tour** at 08:45–09:00, 3–4 h, on a working day. 🚌 **Potosí → Sucre** at **14:00** (13:00 if you skip the mine). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Beds** (20 → 22 Jan, 2 nights)
+**Beds** (23 → 25 Jan, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Los Faroles Hostal** · family room, shared bathroom, for 1, breakfast | **US$57** (2 nights; was $28 for 1) | 9.6 | 🚕 ≈ 19 min from the new bus terminal (walk 1 h 9 min, 4.2 km); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.557541099999998,-65.7613217&destination=-19.5877093,-65.7557628&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/los-faroles-hostal.html?checkin=2027-01-20&checkout=2027-01-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup | **The Koala Den** · private double with bathroom | US$60 (2 nights) | 9.3 *(HW)* | 🚕 ≈ 20 min (walk 1 h 8 min, 4.1 km); centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.557541099999998,-65.7613217&destination=-19.585739699999998,-65.7526159&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/317982/the-koala-den-hostel/?from=2027-01-20&to=2027-01-22&guests=1) |
-| Private alt | **Hostal Colonial** · small single, breakfast | ≈ US$120 (2 nights; not rechecked) | 9.8 | 🚕 ≈ 21 min (walk 1 h 15 min, 4.5 km); centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.557541099999998,-65.7613217&destination=-19.588839999999998,-65.7521033&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Colonial+Potos%C3%AD&checkin=2027-01-20&checkout=2027-01-22&group_adults=1&no_rooms=1&selected_currency=USD) |
+| ⭐ **Pick** | **Los Faroles Hostal** · family room, shared bathroom, for 1, breakfast | **US$57** (2 nights; was $28 for 1) | 9.6 | 🚕 ≈ 19 min from the new bus terminal (walk 1 h 9 min, 4.2 km); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.557541099999998,-65.7613217&destination=-19.5877093,-65.7557628&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/los-faroles-hostal.html?checkin=2027-01-23&checkout=2027-01-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup | **The Koala Den** · private double with bathroom | US$60 (2 nights) | 9.3 *(HW)* | 🚕 ≈ 20 min (walk 1 h 8 min, 4.1 km); centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.557541099999998,-65.7613217&destination=-19.585739699999998,-65.7526159&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/317982/the-koala-den-hostel/?from=2027-01-23&to=2027-01-25&guests=1) |
+| Private alt | **Hostal Colonial** · small single, breakfast | US$110 ✅ 27 Nov (2 nights) | 9.8 | 🚕 ≈ 21 min (walk 1 h 15 min, 4.5 km); centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.557541099999998,-65.7613217&destination=-19.588839999999998,-65.7521033&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/hostal-colonial-potosi.html?checkin=2027-01-23&checkout=2027-01-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Bus **Uyuni → Potosí**, semi-cama, ≈ 4 h | **Wed 20 Jan**, 15:00 → 19:00 (Trans ATL Grevalug) up to 19:00 → 23:00; later 19:30, 20:30, 21:00 | US$11–15 on Tickets Bolivia (the counter is cheaper) | at the Uyuni terminal |
+| In | Bus **Uyuni → Potosí**, semi-cama, ≈ 4 h | **Sat 23 Jan**, 15:00 → 19:00 (Trans ATL Grevalug) up to 19:00 → 23:00; later 19:30, 20:30, 21:00 | US$11–15 on Tickets Bolivia (the counter is cheaper) | at the Uyuni terminal |
 | Soft day | Night bus **Uyuni → Sucre** (Emperador / 6 de Octubre) | 21:30 → 05:30 | ≈ US$25 on Tickets Bolivia | if the tour runs a day late |
-| Tour | **Cerro Rico mine tour** | Thu 21 Jan 09:00, 3–4 h | ≈ Bs 100–150 (US$8.50–13) in person + Bs 20–40 of gifts | in person (GetYourGuide/Viator Bs 200–350) |
-| Out | Bus **Potosí → Sucre**, ≈ 3–4 h | **Fri 22 Jan 13:00 or 14:00** | US$7–8 | Nueva Terminal; see the [Sucre guide](sucre.md) |
+| Tour | **Cerro Rico mine tour** | **Mon 25 Jan 08:45–09:00**, 3–4 h (not Sunday: no miners at work) | ≈ Bs 100–150 (US$8.50–13) in person + Bs 20–40 of gifts | in person (GetYourGuide/Viator Bs 200–350) |
+| Out | Bus **Potosí → Sucre**, ≈ 3–4 h | **Mon 25 Jan 14:00** (13:00 without the mine tour) | US$7–8 | Nueva Terminal; see the [Sucre guide](sucre.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 </details>
 
-## 🚌 Getting here: Uyuni → Potosí, Wed 20 Jan
+## 🚌 Getting here: Uyuni → Potosí, Sat 23 Jan
 
 Bus Uyuni → Potosí, ≈ 4 h, semi-cama, from Uyuni's bus terminal. The schedule below is from Tickets Bolivia's route page (24 Nov), a reseller; its fares run above the terminal counter price. Departures after a 13:00–14:00 tour finish:
 
@@ -88,7 +88,7 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
 
 ### ⭐ Pick: Los Faroles Hostal
 - **Unit:** Family Room with shared bathroom (sold to 1 adult).
-- **Price:** **US$28 for 1 night incl. breakfast** (Booking room table, free cancellation to 19 Jan).
+- **Price:** **US$28 for 1 night incl. breakfast** (Booking room table); US$57 for the 2 nights.
 - **Reviews:** Booking 8.7, 707 reviews, **5.9% below 7**, location 9.6.
 - **Where:** 0.3 km from Plaza 10 de Noviembre.
 - **Checks:** quiet ✅; ✗ no guest kitchen; ⚠ no heating ("very cold at night", bring the tour layers).
@@ -122,7 +122,8 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
 </table>
 
 - **Free:** walk the UNESCO centre at dusk and at 08:00: Plaza 10 de Noviembre, the balconied Calle Quijarro, and the view of Cerro Rico from the centre. At 4,070 m it's higher than anything since the tour, so walk slowly.
-- **Cerro Rico mine tour (paid, unique), Thu 21 Jan 09:00, 3–4 h.** With the 2nd night (added 26 Nov) the mint fits the same afternoon.
+- **Cerro Rico mine tour (paid, unique), Mon 25 Jan 08:45–09:00, 3–4 h**, back ≈ 12:30 for the 14:00 bus to Sucre.
+  - ⚠️ **Not on Sunday 24:** "On Sundays the mine workers are not at work" (Kaleidoscope Travel's tour page, 27 Nov; lead), so you'd walk empty tunnels. LP has Koala Tours running Mon–Fri only. The mint and the Ojo del Inca take the Sunday instead.
   - **Price:** ≈ **Bs 100–150 (US$8.50–13)** booked in person, against Bs 200–350 on GetYourGuide/Viator; plus **Bs 20–40 of gifts** at the miners' market (coca leaves, juice or soda, work gloves).
   - Skip the dynamite: ethical guides discourage it.
   - Go with an operator run by **ex-miners**: Big Deal Tours, Koala Tours or Real Deal (≈ AI-summary leads; check the newest Tripadvisor reviews).
@@ -134,10 +135,10 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
   - **Bs 70 for foreigners**, guided tours only, ≈ 1 h 30, up to 25 people, **daily**. The site lists QR payment, which foreign apps can't use, so bring cash and ask.
   - **English tours Mon–Fri 09:00, 11:00 and 14:30** (Sat–Sun 09:15, 11:00); Spanish tours run about every half-hour 09:00–15:00 on weekdays.
   - LP's older figures were B$40 + B$20 for photos, Tue–Sun; LP calls it one of South America's finest museums.
-  - **Mine or mint on Thu 21?** The 08:45–09:00 mine tour ends ≈ 12:30, after the 11:00 English mint tour has started. Pick one before a 13:00–14:00 bus, or do the mint at 09:00 and Koala's 13:30 mine tour, then take a later bus or a shared taxi to Sucre (see Leaving).
-- **Ojo del Inca, Tarapaya (outdoors, cheap; alternative to the mine):** a perfectly round, 30 °C green crater lake you can swim in, 21 km north-west of town (LP).
+  - **Sun 24:** take the **09:15** English tour (✅ casanacionaldemoneda.bo, 27 Nov: at weekends English tours run only at 09:15 and 11:00, and the box office closes at 11:45). The weekday 14:30 tour doesn't run on Sundays.
+- **Ojo del Inca, Tarapaya (outdoors, cheap; Sunday afternoon):** a perfectly round, 30 °C green crater lake you can swim in, 21 km north-west of town (LP).
   - Camiones from Mercado Chuquimia on Av. Antofagasta (near the old terminal) every ≈ 30 min, 06:00–19:00, B$4, 30 min; taxi ≈ B$70 one way. The last ride back leaves Tarapaya around 17:00–18:00 (LP).
-  - A morning there still makes the 13:00–14:00 bus to Sucre.
+  - After the 09:15 mint tour (≈ 1 h 30) there's the whole afternoon; be on a ride back by ≈ 17:00.
 - **Kari Kari lagoons** (hike backlog) needs a full day plus a guide or taxi: it doesn't fit one night. Add a night only if the tour runs early and the weather's dry.
   - The lakes are colonial reservoirs at 4,500–5,000 m, built by forced indigenous labour to power the silver smelters. Agencies charge ≈ B$160–280 (≈ B$180 per person per day in a group of three; LP).
 - **Viewpoints:** LP's city viewpoints are church bell towers, so they're left out here. The free view of the Cerro Rico from the plaza and Calle Quijarro does the job.
@@ -166,10 +167,10 @@ These are ≈ AI-summary leads, Nov 2026.
 - **Money:** ATMs are common in the centre. Businesses on Bolívar, Sucre and in the market change US dollars; stalls on Héroes del Chaco also take euros and Chilean and Argentine pesos (LP).
 - **Tourist police:** ground floor of the Gobernación on Plaza 10 de Noviembre, with a branch at the new bus terminal (LP).
 
-## 🚌 Leaving: Potosí → Sucre, Fri 22 Jan
+## 🚌 Leaving: Potosí → Sucre, Mon 25 Jan
 
 - Potosí's buses to Sucre also leave from the **Nueva Terminal**.
-- After a morning mine tour, take the **13:00 or 14:00**. Times, fares and the blockade warning are in the [Sucre guide](sucre.md).
+- After the Monday-morning mine tour, take the **14:00** (Trans Emperador). Times, fares and the blockade warning are in the [Sucre guide](sucre.md).
 - **Faster option:** shared taxis to Sucre, ≈ B$50 and 2¼ h, can collect you from the hostel (Cielito Express, Correcaminos). They leave only when full, so a solo traveller does better going to their offices behind the old bus terminal on Av. Universitaria (LP). LP's flota fare was B$20, ≈ 3 h (LP).
 
 ---

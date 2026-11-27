@@ -20,13 +20,14 @@
     {"id": "cordoba-1", "guide": "cordoba", "nights": 2},
     {"id": "los-gigantes", "guide": "cordoba", "nights": 2},
     {"id": "cordoba-2", "guide": "cordoba", "nights": 1},
+    {"id": "champaqui", "guide": "cordoba", "nights": 2},
     {"id": "bus-cordoba-tucuman", "guide": "cordoba", "nights": 1, "kind": "night bus"},
     {"id": "cafayate", "guide": "cafayate", "nights": 2},
     {"id": "salta", "guide": "salta", "nights": 2},
     {"id": "tilcara", "guide": "quebrada-de-humahuaca", "nights": 1},
     {"id": "iruya", "guide": "quebrada-de-humahuaca", "nights": 1},
     {"id": "purmamarca", "guide": "quebrada-de-humahuaca", "nights": 1},
-    {"id": "san-pedro", "guide": "san-pedro-de-atacama", "nights": 3},
+    {"id": "san-pedro", "guide": "san-pedro-de-atacama", "nights": 4},
     {"id": "uyuni-tour", "guide": "uyuni-jeep-tour", "nights": 2},
     {"id": "potosi", "guide": "potosi", "nights": 2},
     {"id": "sucre", "guide": "sucre", "nights": 3},
@@ -38,7 +39,7 @@
     {"id": "arequipa", "guide": "arequipa", "nights": 2},
     {"id": "panama-city", "guide": "panama-city", "nights": 2},
     {"id": "boquete", "guide": "boquete", "nights": 3},
-    {"id": "san-gerardo", "guide": "san-gerardo-de-rivas", "nights": 3},
+    {"id": "san-gerardo", "guide": "san-gerardo-de-rivas", "nights": 4},
     {"id": "uvita", "guide": "uvita", "nights": 2},
     {"id": "monteverde", "guide": "monteverde", "nights": 2},
     {"id": "la-fortuna", "guide": "la-fortuna", "nights": 3},
@@ -48,14 +49,14 @@
     {"id": "granada", "guide": "granada", "nights": 1},
     {"id": "apoyo", "guide": "granada", "nights": 1},
     {"id": "leon", "guide": "leon", "nights": 3},
-    {"id": "esteli", "guide": "esteli", "nights": 1},
+    {"id": "esteli", "guide": "esteli", "nights": 3},
     {"id": "airport", "guide": "flight-home", "nights": 1}
   ],
   "optional": [
     {"guide": "teresopolis", "anchor": "rio", "note": "+2 days before Rio"},
     {"guide": "florianopolis", "anchor": "asuncion", "note": "Plan B for 21–27 Dec"},
     {"guide": "huacachina-paracas", "anchor": "arequipa", "note": "option C"},
-    {"guide": "somoto", "anchor": "esteli", "note": "+1 day from Estelí"}
+    {"guide": "somoto", "anchor": "esteli", "note": "Day 2 of the Estelí stay (in the plan since 27 Nov)"}
   ],
   "fixed_events": [
     {"date": "2026-12-24", "label": "🎄 Christmas Eve"},

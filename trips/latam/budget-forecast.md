@@ -9,43 +9,43 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 ## (a) Bottom line
 
-**Plan on about $6.2–6.8k for the trip, and carry about $7.5k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $75–80 a day all-in**, inside the $80–120/day target.
+**Plan on about $6.8–7.4k for the trip, and carry about $8.2k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $74–80 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, home 10 Mar, beds re-priced for the new dates.)*
 
 | Item | Amount | Notes |
 |---|---:|---|
-| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.58k** (≈ $42/day) | table (b) |
-| 10% cushion on living | ≈ $0.36k | |
-| **Intercity transport** (buses, ferries, the Sucre → La Paz, Arequipa → Lima → Panama and Panama City → David flights, border fees) | ≈ $1.25–1.60k | [route-v5-brainstorm §12/§15](route-v5-brainstorm.md) + the guides |
+| **Living** (beds + food + 2 drinks/day + local transport and small costs) | **≈ $3.90k** (≈ $43/day) | table (b) |
+| 10% cushion on living | ≈ $0.39k | |
+| **Intercity transport** (buses, ferries, the Sucre → La Paz, Arequipa → Lima → Panama and Panama City → David flights, border fees; + ≈ $80 for the Champaquí buses and remís) | ≈ $1.33–1.68k | [route-v5-brainstorm §12/§15](route-v5-brainstorm.md) + the guides |
 | **Uyuni jeep tour** (3 days, 2 nights, meals, park and border fees) | ≈ $0.28–0.30k | [guide](guides/uyuni-jeep-tour.md) |
-| Sights and park fees (core) | ≈ $0.32k | list (c) |
+| Sights and park fees (core) | ≈ $0.43k | list (c), plus Cerro Toco ($83) and the Somoto tour ($30), now in the plan |
 | Admin: Brazil e-visa ($80.90), travel insurance, eSIMs | ≈ $0.29–0.43k | |
 | Route-change reserve | ≈ $0.15–0.25k | |
-| **Expected spend** | **≈ $6.2–6.8k** | |
-| Optional adventure extras | + $0.30–0.45k | Cerro Toco $83, Death Road $85 or Pico Austria ≈ $100, El Hoyo ≈ $70, Concepción guide $25–40, Cerro Negro ≈ $35, Somoto $20–30 |
+| **Expected spend** | **≈ $6.8–7.4k** | |
+| Optional adventure extras | + $0.22–0.33k | Death Road $85 or Pico Austria ≈ $100, El Hoyo ≈ $70, Concepción guide $25–40, Cerro Negro ≈ $35 |
 | **Private-room buffer** | + ≈ $1.0k | Every guide names a location-first private room. Privates cost 2–4× a dorm in Rio, Uruguay, Panama and Costa Rica, but only $5–15 more a night in Bolivia, Peru and Nicaragua. $1k covers privates on roughly 40% of nights |
-| Using the 11 spare days on the road | + ≈ $0.46k | at ≈ $42/day living |
+| Using the 5 spare days left before 15 Mar | + ≈ $0.21k | at ≈ $43/day living |
 
 **Flights on points:**
 - **In:** SEA → Rio, Alaska business, 60,000 points + $26. Cash for the same itinerary is ≈ $4,063, against ≈ $565–625 for cash economy.
 - **Home:** Managua → Seattle, Alaska economy, 25,000 points + $94. Cash is $417.
 - **Points total:** 85,000 Alaska points. The cash totals above include only the $120 in award taxes.
 
-## (b) Living cost by region (dorm picks, 85 nights + the flight day)
+## (b) Living cost by region (dorm picks, 91 nights + the flight day)
 
 | Region | Dates | Days | Beds (actual picks) | Food / day | 2 beers / day | Local + small / day | Subtotal | Note |
 |---|---|---:|---:|---:|---:|---:|---:|---|
 | Brazil (Rio → Foz) | 8 → 21 Dec | 13 | $180 | $17 | $6.0 | $5.5 | **$550** | 12 bed nights + 1 night bus; picks $13–49 |
 | Paraguay | 21 → 26 Dec | 5 | $94 | $11.5 | $3.7 | $3 | **$185** | Encarnación is a whole flat ($76) because the hostels are full |
 | Uruguay | 26 Dec → 1 Jan | 6 | $145 | $22 | $9.0 | $6.5 | **$370** | 26 Dec on the bus; no NYE surcharge at MedioMundo |
-| Argentina | 1 → 15 Jan | 13 | $207 | $17 | $6.6 | $4 | **$566** | 2 night buses; refugio assumed ≈ $15/night (price on request); Iruya private $37 (no dorms) |
-| Chile (San Pedro) | 15 → 18 Jan | 3 | $55 | $24 | $9.5 | $7.5 | **$178** | desert-town markup; buy staples in Salta |
-| Uyuni jeep tour | 18 → 20 Jan | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
-| Bolivia | 20 → 29 Jan | 9 | $112 | $9 | $3.7 | $3 | **$253** | Potosí 2 nights ($57), Isla del Sol 1 night; no Copacabana night (26 Nov) |
-| Peru | 29 Jan → 3 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | |
-| Panama | 3 → 8 Feb | 5 | $154 | $17 | $5.0 | $5.5 | **$292** | Boquete at Carnaval prices ($116 for 3 nights) |
-| Costa Rica | 8 → 20 Feb | 12 | $236 | $22 | $7.5 | $7 | **$674** | incl. ≈ $45 Base Crestones bunk |
-| Nicaragua | 20 Feb → 4 Mar | 12 | $146 | $10 | $3.1 | $3 | **$339** | Granada 1 + Laguna de Apoyo 1, León 3, Estelí 1, airport homestay $17 |
-| **Total** | | **85** | **$1,401** (≈ $16.5/night) | **$1,306** | **$484** | **$397** | **≈ $3,588** (≈ $42/day) | |
+| Argentina | 1 → 17 Jan | 15 | $257 | $17 | $6.6 | $4 | **$671** | 2 night buses; Los Gigantes refugio ≈ $15/night and the Champaquí refuge ≈ $30 assumed (prices on request) + La Resolana $22; Iruya private $37 (no dorms) |
+| Chile (San Pedro) | 17 → 21 Jan | 4 | $73 | $24 | $9.5 | $7.5 | **$237** | desert-town markup; buy staples in Salta |
+| Uyuni jeep tour | 21 → 23 Jan | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
+| Bolivia | 23 Jan → 1 Feb | 9 | $128 | $9 | $3.7 | $3 | **$269** | Potosí 2 nights ($57), Isla del Sol 1 night; La Paz pick now $36 (+$16, 27 Nov) |
+| Peru | 1 → 6 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | Puno is in Candelaria week: book Kantaya early |
+| Panama | 6 → 11 Feb | 5 | $138 | $17 | $5.0 | $5.5 | **$276** | Carnaval in both stops; ONDA Boquete $99.76 on Agoda |
+| Costa Rica | 11 → 24 Feb | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
+| Nicaragua | 24 Feb → 10 Mar | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
+| **Total** | | **91** | **$1,553** (≈ $17/night) | **$1,406** | **$520** | **$425** | **≈ $3,904** (≈ $43/day) | |
 
 - **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
 - **26 Nov changes (net +$8 in beds, +1 day):** Iruya added (+$37), San Pedro down to 3 nights (−$19), Granada split with a Laguna de Apoyo night (+$4), Estelí added (+$14), and the Managua airport night is a $17 homestay instead of ≈ $45 (−$28).
@@ -100,7 +100,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
     - C, overland via [Huacachina + Paracas](guides/huacachina-paracas.md) + the award: ≈ $185 + 17,500, and +3 days (≈ +$125 living).
 - **Up:**
   - Private rooms everywhere: about +$1.5–2k.
-  - The 11 spare days: +$0.46k.
+  - The 5 spare days left: +$0.21k.
   - Bolivian blockades: extra nights or a flight, +$0.1–0.3k (the route-change reserve covers one event).
 
 ## (e) Against the backpacker consensus

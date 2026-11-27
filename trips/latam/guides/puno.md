@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) · [Colca Canyon](colca-canyon.md) →
 
-> **Stop 22 · Fri 29 → Sat 30 Jan 2027 (days 53–54) · 1 night · transit · Candelaria festival weeks**<br>
+> **Stop 22 · Mon 1 → Tue 2 Feb 2027 (days 56–57) · 1 night · transit · Candelaria festival weeks**<br>
 > 🏞️ One evening on Lake Titicaca's Peruvian shore at 3,830 m, between the border and the Colca bus<br>
-> 🛏️ **Kantaya Hostel**, a bed in a 10-bed mixed ensuite dorm, $10.50<br>
-> 🚌 **In:** Titicaca Bolivia Bus from Copacabana, Fri 13:30 · **Out:** 4M Express to Chivay, Sat pickup 05:50–06:10
+> 🛏️ **Kantaya Hostel**, a bed in a 10-bed mixed ensuite dorm, $10.50 (✅ 27 Nov; ⚠️ book now: Candelaria is selling Puno out)<br>
+> 🚌 **In:** Titicaca Bolivia Bus from Copacabana, Mon 13:30 · **Out:** 4M Express to Chivay, Tue pickup 05:50–06:10
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tw8MPIKRoB42wPDFklfHkSJZpvl0af4XAIeME-DEL7N3zN57BzZsaqrBL0xiLNqbULgJ_OXYzcOyySgWmGUV7gqMKYAIs4LtgmCOslhuDk9m4JSHwrVxGwrvM-1uwsFxTSRW79=w1200-h360-p-k-no" alt="Puno's rooftops and the bay of Lake Titicaca from the Kuntur Wasi viewpoint" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 ![Map of Puno: the beds, the bus arrival point, the two viewpoints and the Mercado Central](img/puno-map-1fdec9b6.jpg)
 
-**In town:** ★ **[Kantaya Hostel](https://www.google.com/maps?ftid=0x915d69ea8a067b63:0x9f5f42eee31642e6)** (the pick, [book](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1)) · **1** [Urpi Wasi Backpackers](https://www.google.com/maps?ftid=0x915d69007f9b8173:0x8887d42497a03b83) (backup, [book](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Tierra Viva Puno Plaza](https://www.google.com/maps?ftid=0x915d69eb1bedc8e1:0xb60edbdb02af863) (private alt, on the [Plaza de Armas](https://www.google.com/maps?ftid=0x915d69eb4013ddbd:0xde99b3eca4371e4b), [book](https://www.booking.com/hotel/pe/tierra-viva-puno-plaza.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Terminal Terrestre](https://www.google.com/maps?ftid=0x915d6991146e1df7:0x207220d2f7951a10) (bus arrival; the walking routes start here) · **3** [Mirador Kuntur Wasi](https://www.google.com/maps?ftid=0x915d69ed9ad4f677:0xc77330e7fa9a440b) [🚶 21 min](https://www.google.com/maps/dir/?api=1&origin=-15.8375858,-70.0294303&destination=-15.8471962,-70.0299667&travelmode=walking) · **4** [Cerro Huajsapata](https://www.google.com/maps?ftid=0x915d69ebe173627f:0xe002096b4f76a085) [🚶 12 min](https://www.google.com/maps/dir/?api=1&origin=-15.8375858,-70.0294303&destination=-15.8411467,-70.032118&travelmode=walking) · **5** [Mercado Central](https://www.google.com/maps?ftid=0x915d69eab4e2357b:0x7068c827b19b5d8f) [🚶 4 min](https://www.google.com/maps/dir/?api=1&origin=-15.8375858,-70.0294303&destination=-15.8375222,-70.0265946&travelmode=walking) · [Jr. Lima](https://www.google.com/maps?ftid=0x915d69eb5827e2c5:0x796ad8664da7a977) runs from the Plaza
+**In town:** ★ **[Kantaya Hostel](https://www.google.com/maps?ftid=0x915d69ea8a067b63:0x9f5f42eee31642e6)** (the pick, [book](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-02-01&to=2027-02-02&guests=1)) · **1** [Urpi Wasi Backpackers](https://www.google.com/maps?ftid=0x915d69007f9b8173:0x8887d42497a03b83) (old backup, sold out for 1 Feb, [book](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-02-01&checkout=2027-02-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Tierra Viva Puno Plaza](https://www.google.com/maps?ftid=0x915d69eb1bedc8e1:0xb60edbdb02af863) (private alt, on the [Plaza de Armas](https://www.google.com/maps?ftid=0x915d69eb4013ddbd:0xde99b3eca4371e4b), [book](https://www.booking.com/hotel/pe/tierra-viva-puno-plaza.html?checkin=2027-02-01&checkout=2027-02-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Terminal Terrestre](https://www.google.com/maps?ftid=0x915d6991146e1df7:0x207220d2f7951a10) (bus arrival; the walking routes start here) · **3** [Mirador Kuntur Wasi](https://www.google.com/maps?ftid=0x915d69ed9ad4f677:0xc77330e7fa9a440b) [🚶 21 min](https://www.google.com/maps/dir/?api=1&origin=-15.8375858,-70.0294303&destination=-15.8471962,-70.0299667&travelmode=walking) · **4** [Cerro Huajsapata](https://www.google.com/maps?ftid=0x915d69ebe173627f:0xe002096b4f76a085) [🚶 12 min](https://www.google.com/maps/dir/?api=1&origin=-15.8375858,-70.0294303&destination=-15.8411467,-70.032118&travelmode=walking) · **5** [Mercado Central](https://www.google.com/maps?ftid=0x915d69eab4e2357b:0x7068c827b19b5d8f) [🚶 4 min](https://www.google.com/maps/dir/?api=1&origin=-15.8375858,-70.0294303&destination=-15.8375222,-70.0265946&travelmode=walking) · [Jr. Lima](https://www.google.com/maps?ftid=0x915d69eb5827e2c5:0x796ad8664da7a977) runs from the Plaza
 
 🧭 The time after each place is from the ★ bed (Google Maps, 26 Nov): 🚶 walk · 🚌 bus · 🚕 taxi · 🚗 by road (tour or bus). Click it for the route.
 
@@ -25,28 +25,29 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Fri 29 Jan | 🚌 **18:00 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 21:00 (Peru is 1 h behind Bolivia). 🚕 Taxi ≈ 10 min to Kantaya (tell the hostel you arrive late). Dinner and bed: the 4M Express picks up at 05:50. If you took the 13:30 bus instead (no ridge walk), the daylight Plaza de Armas → Jr. Lima → Mirador Kuntur Wasi walk below still fits. |
-| **Day 2** · Sat 30 Jan | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
+| **Day 1** · Mon 1 Feb | 🚌 **18:00 Titicaca Bolivia Bus** from Copacabana via the Kasani / Yunguyo border, arriving ≈ 21:00 (Peru is 1 h behind Bolivia). 🚕 Taxi ≈ 10 min to Kantaya (tell the hostel you arrive late). Dinner and bed: the 4M Express picks up at 05:50. 🎭 Tonight is the eve of Candelaria's central day, so expect bands and fireworks late (earplugs). If you took the 13:30 bus instead (no ridge walk), the daylight Plaza de Armas → Jr. Lima → Mirador Kuntur Wasi walk below still fits. |
+| **Day 2** · Tue 2 Feb | 🚌 **4M Express pickup 05:50–06:10** at the hostel, on to Chivay ([Colca guide](colca-canyon.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (29 → 30 Jan, 1 night)
+**Beds** (1 → 2 Feb, 1 night)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Kantaya Hostel** · bed in a 10-bed mixed ensuite dorm | **$10.50** | 9.6 *(HW)* | 🚕 ≈ 10 min from the bus terminal (walk 28 min, 1.9 km); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8375858,-70.0294303&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-01-29&to=2027-01-30&guests=1) |
-| Backup | **Urpi Wasi Backpackers** · bed in an 8-bed mixed dorm | $9 | 9.1 | 🚕 ≈ 8 min from the bus terminal (walk 26 min, 1.6 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8427017,-70.0299885&travelmode=driving) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-01-29&to=2027-01-30&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-01-29&checkout=2027-01-30&NumberofAdults=1&Rooms=1) |
-| Private alt | **Tierra Viva Puno Plaza** · standard single, breakfast | $53 | 9.5 | 0.06 km from the Plaza | [Booking](https://www.booking.com/hotel/pe/tierra-viva-puno-plaza.html?checkin=2027-01-29&checkout=2027-01-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Private value | **Hotel T'ika** · twin, private bathroom | $39 | 9.3 | 0.38 km | Booking |
+| ⭐ **Pick** | **Kantaya Hostel** · bed in a 10-bed mixed ensuite dorm | **$10.50** · ⚠️ book now | 9.6 *(HW)* | 🚕 ≈ 10 min from the bus terminal (walk 28 min, 1.9 km); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8375858,-70.0294303&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/84925/kantaya-hostel/?from=2027-02-01&to=2027-02-02&guests=1) |
+| Backup | **Iguana Hostel Puno** · bed in a 10-bed mixed ensuite dorm | $10.35 ✅ 27 Nov | 10.0 *(HW)* | 🚕 ≈ 10 min from the bus terminal; **the same building as Kantaya** (Jr. Santiago Giraldo 222), sold as a separate listing · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8375858,-70.0294303&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/101428/iguana-hostel-puno/?from=2027-02-01&to=2027-02-02&guests=1) |
+| Old backup | **Urpi Wasi Backpackers** · bed in an 8-bed mixed dorm | **SOLD OUT** ✅ 27 Nov (Booking, HW and Agoda; Candelaria) | 9.1 | 🚕 ≈ 8 min from the bus terminal (walk 26 min, 1.6 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-15.8437497,-70.0173287&destination=-15.8427017,-70.0299885&travelmode=driving) | [Booking](https://www.booking.com/hotel/pe/urpi-wasi.html?checkin=2027-02-01&checkout=2027-02-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/320986/urpi-wasi-backpackers/?from=2027-02-01&to=2027-02-02&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=46704468&checkin=2027-02-01&checkout=2027-02-02&NumberofAdults=1&Rooms=1) |
+| Private alt | **Tierra Viva Puno Plaza** · standard single, breakfast | $61 ✅ 27 Nov | 9.5 | 0.06 km from the Plaza | [Booking](https://www.booking.com/hotel/pe/tierra-viva-puno-plaza.html?checkin=2027-02-01&checkout=2027-02-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Private value | **Hotel T'ika** · twin, private bathroom | **SOLD OUT** ✅ 27 Nov (Candelaria; $39 on 25 Jan) | 9.3 | 0.38 km | [Booking](https://www.booking.com/hotel/pe/t-39-ika.html?checkin=2027-02-01&checkout=2027-02-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚌 **Titicaca Bolivia Bus** (Marcopolo G7 double-decker) · Copacabana → Puno | **Fri 29 Jan 18:00 → ≈ 21:00** (or 13:30 → 16:30 if you skip the Isla del Sol ridge walk) | **$9** (13:30: $10) | [Titicaca Bolivia Bus](https://titicacaboliviabus.com/trip/copacabana-puno/) (WhatsApp form) |
-| ⚠️ Out | 🚌 **4M Express** · Puno → Chivay | **Sat 30 Jan**, pickup 05:50–06:10, dep ≈ 06:15 → Chivay 12:15–12:45 | **$54** | [4M Express](https://www.4m-express.com/) (confirm by WhatsApp; closes 3 days before) |
+| In | 🚌 **Titicaca Bolivia Bus** (Marcopolo G7 double-decker) · Copacabana → Puno | **Mon 1 Feb 18:00 → ≈ 21:00** (or 13:30 → 16:30 if you skip the Isla del Sol ridge walk) | **$9** (13:30: $10) | [Titicaca Bolivia Bus](https://titicacaboliviabus.com/trip/copacabana-puno/) (WhatsApp form) |
+| ⚠️ Out | 🚌 **4M Express** · Puno → Chivay | **Tue 2 Feb** (Candelaria's central day), pickup 05:50–06:10, dep ≈ 06:15 → Chivay 12:15–12:45 | **$54** | [4M Express](https://www.4m-express.com/) (confirm by WhatsApp; closes 3 days before) |
 
 <details><summary>How to read these tables</summary>
 
@@ -57,7 +58,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Copacabana → Puno, Fri 29 Jan
+## 🚌 Getting here: Copacabana → Puno, Mon 1 Feb
 
 - **Bus via the Kasani / Yunguyo border.**
 - **Titicaca Bolivia Bus** (Marcopolo G7 double-decker): **13:30 → 16:30, US$10**, or 18:00 → ~21:00, US$9. Daily. Their page says about 3 h including the border.
@@ -73,6 +74,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 Live-checked on 24 Nov (Hostelworld API).
 
+⚠️ **Book Kantaya now.** Re-checked 27 Nov for 1 → 2 Feb, inside the Candelaria: Kantaya is still $10.50, but Booking shows **no hostel with beds** in Puno that night, Hostelworld has **10 bookable places against 18 on 25 Jan**, and both old backups (Urpi Wasi, Hotel T'ika) are sold out.
+
 ### ⭐ Pick: Kantaya Hostel
 - **Unit and price:** 10-bed mixed ensuite dorm · **US$10.50** for the night · Hostelworld. Add Hostelworld's small booking fee.
 - **Rating:** 9.2 (1,300 reviews); 6% of the last 107 reviews are below 7.
@@ -80,17 +83,18 @@ Live-checked on 24 Nov (Hostelworld API).
 - **Checks:** a Mar 2026 review says "dorms have lockers and curtains on beds" (a 2024 review said none, so they were probably added). Full kitchen ("fully functional"). Pool table; free breakfast; reviews call it calm and warm. Not a party hostel.
 - **Pickup:** it's central, so it should be inside 4M Express's pickup zone. Confirm when you book 4M.
 - **Channels:** Kantaya isn't on Booking (a name search returns Urpi Wasi) and isn't among Agoda's first 49 Puno results, so Hostelworld is the only channel found.
-- ⚠️ Koala and Iguana Hostel are the **same building** under separate listings (a Jan 2026 review says so; same address). Don't use them as the backup.
+- ⚠️ Kantaya, Koala and Iguana are **one hostel under three Hostelworld listings** (Jr. Santiago Giraldo 220/222; reviews from 2024 to Jan 2026 say so). Each listing sells its own beds, so Iguana still works as the backup when Kantaya's listing fills, but it's the same building.
 
-### Backup: Urpi Wasi Backpackers
-- **Unit and price:** 8-bed mixed dorm · **US$9 on Booking** (Hostelworld $10.20, Agoda $11.80).
-- **Rating:** Hostelworld 9.1 (143 reviews; 11% of the last 53 below 7); Booking 9.0 (838 reviews).
-- **Where:** Jr. Huancané 806, 0.34 km from the Plaza.
-- **Checks:** kitchen with a cooker; the listing mentions curtains; no party reports.
+### Backup: Iguana Hostel Puno (new 27 Nov)
+- **Unit and price:** 10-bed mixed ensuite dorm · **US$10.35** ✅ 27 Nov · Hostelworld. Not on Booking that night, so there's no Booking location score.
+- **Rating:** Hostelworld 9.3 (971 reviews), location 10.0. It beats the other twin listing, Koala Hostel Puno ($10.26; 9.1 from 411, location 9.7).
+- **Where:** Jr. Santiago Giraldo 222, the Kantaya building, 0.63 km from the Plaza on Hostelworld's map.
+- **Checks:** kitchen ✅; quiet ("not a super social hostel", Oct 2026; "don't expect … to party", 2025); pancake breakfast. Lockers are small, and some ground-floor dorms have no window (2024 complaints of a musty smell). Bunk curtains aren't mentioned.
+- **Old backup Urpi Wasi Backpackers:** **sold out** on Booking, Hostelworld and Agoda for 1 Feb (✅ 27 Nov; still $9 on Booking on 25 Jan).
 
 ### Private alt (location first, Booking room table)
-- **Tierra Viva Puno Plaza** · standard single · **US$53** incl. breakfast · Booking. Location 9.5, 855 reviews, **3% below 7**, 0.06 km from the Plaza.
-- **Value:** Hotel T'ika · twin with private bathroom · **US$39** · Booking. Location 9.3, 237 reviews, 3% below 7, 0.38 km.
+- **Tierra Viva Puno Plaza** · standard single · **US$61** ✅ 27 Nov incl. breakfast (was US$53) · Booking. Location 9.5, 855 reviews, **3% below 7**, 0.06 km from the Plaza.
+- **Value:** Hotel T'ika · twin with private bathroom · **sold out** for 1 Feb (✅ 27 Nov; US$39 on 25 Jan) · [Booking](https://www.booking.com/hotel/pe/t-39-ika.html?checkin=2027-02-01&checkout=2027-02-02&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD). Location 9.3, 237 reviews, 3% below 7, 0.38 km.
 
 ## 🌳 Things to do (free first; you have one evening)
 
@@ -127,14 +131,17 @@ Live-checked on 24 Nov (Hostelworld API).
 
 ## ℹ️ Good to know
 - **Altitude:** 3,830 m (the same as Copacabana).
-- **Fiesta de la Candelaria:** the main day is 2 Feb 2027, and the festival weeks start in late January, so Puno is busier and pricier. Beds still showed at about $10 on 24 Nov.
-  - LP's rule: when Candlemas falls on a Sunday to Tuesday, the big celebrations start the Saturday before. 2 Feb 2027 is a Tuesday, so they'd start Sat 30 Jan, the morning you leave. Expect a loud, boozy Friday night (LP says the drinking is legendary).
+- **Fiesta de la Candelaria 2027** (the Federación's calendar on vivecandelaria.com, ✅ 27 Nov): Sat 30 – Sun 31 Jan, the danzas originarias contest in the stadium; **Tue 2 Feb, the central day**, with Mass at the Santuario and the procession through the flower-carpeted streets of the centre; Sun 7 Feb, the trajes de luces contest; Mon 8 – Tue 9 Feb, the parade. Puno is busy and short of beds (see Where to sleep).
+  - LP's rule: when Candlemas falls on a Sunday to Tuesday, the big celebrations start the Saturday before. 2 Feb 2027 is a Tuesday, so they start Sat 30 Jan, two days before you arrive, which matches the calendar. Your night is the eve of the central day: expect a loud, boozy Monday night (LP says the drinking is legendary).
 - **Cash:** soles from the ATMs on Jr. Lima (BCP is there, LP) or at the bus terminal. Change leftover bolivianos at the border or in Copacabana.
 - **Tourist info:** iPerú on the Plaza (corner of Jr. Lima and Deustua), Mon–Sat 09:00–18:00 (LP).
-## 🚌 Leaving: 4M Express to Chivay, Sat 30 Jan
+## 🚌 Leaving: 4M Express to Chivay, Tue 2 Feb
 
 - **Pickup from central Puno hotels 05:50–06:10**, departure about 06:15, Plaza de Chivay 12:15–12:45. **US$54**, with a guide, snacks and photo stops.
 - ⚠️ Book by WhatsApp first; online bookings are processed only ≥ 3 days before travel.
+- 🎭 **Candelaria on Tue 2 Feb:** the bus still runs (✅ "Día de salida: diario" on 4m-express.com, 27 Nov), and it leaves at ≈ 06:15, hours before the Mass and procession. Two catches:
+  - **Seats:** festival week fills tourist services, so message 4M now, not at the 3-day cut-off (the last date for an online booking is Sat 30 Jan; the [Colca guide](colca-canyon.md) says to book 4 days ahead, so by Fri 29). A Tripadvisor review says a half-empty departure can be swapped for a van *(lead)*.
+  - **Pickup:** streets around the Santuario and the Plaza close that day for the carpets and the procession *(≈)*, and the eve's bands can still be out at dawn. Ask 4M to confirm the pickup point (maybe a corner on a through street rather than Kantaya's narrow Jr. Santiago Giraldo) and be ready at reception at 05:50, as their page asks.
 - All details are in the [Colca Canyon guide](colca-canyon.md).
 
 ---

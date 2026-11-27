@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) · [Granada + Laguna de Apoyo](granada.md) →
 
-> **Stop 33 · Mon 22 → Thu 25 Feb 2027 · 3 nights**<br>
+> **Stop 33 · Fri 26 Feb → Mon 1 Mar 2027 · 3 nights**<br>
 > 🏞️ Twin-volcano island in Lake Nicaragua; climb Volcán Concepción from Moyogalpa<br>
 > 🛏️ **Guest House Nena**, a private double 0.3 km from the port, $36 for 3 nights<br>
-> 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Mon · **Out:** morning ferry to San Jorge, then the bus to Granada, Thu 25 Feb
+> 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Fri · **Out:** morning ferry to San Jorge, then the bus to Granada, Mon 1 Mar
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNqfuifD5gmjptUngsU_O0ULeSapCuKEa9JWQJFMe7HDfOXGj8PLM-EYeEqna80k5uetV3T8iBHGn98aYuDsTwjJGUIHyzUjOmXqbCKs8ygbT5OO3rGppz4BivqFArx8g02aPF=w1200-h360-p-k-no" alt="Volcán Concepción rising from Lake Nicaragua" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Moyogalpa: the beds, the ferry port and two places to eat](img/ometepe-map-cdefb68e.jpg)
 
-**Moyogalpa:** ★ **[Guest House Nena](https://www.google.com/maps?ftid=0x8f745bcc5724a087:0xafb963db0c8581fa)** (the pick, [book](https://www.booking.com/hotel/ni/guest-house-nena.html?checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Nómadas Hostel](https://www.google.com/maps?ftid=0x8f745bfa77eaad6f:0x53da9ceed26216ac) (dorm backup, [book](https://www.booking.com/hotel/ni/nomadas-hostel.html?checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Hostel Life is Good](https://www.google.com/maps?ftid=0x8f745bcfd2c559b9:0x4207bebae83ae38c) (backup 2, [book](https://www.booking.com/searchresults.html?ss=Hostel+Life+is+Good+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Rancho Tranquillo](https://www.google.com/maps?ftid=0x8f745baf46250ecf:0x976ac37055c801b0) (backup 3, [book](https://www.booking.com/searchresults.html?ss=Rancho+Tranquillo+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [ferry port](https://www.google.com/maps?ftid=0x8f745b686e6a826d:0xc0dad21a021a232a) · **4** [El Picante](https://www.google.com/maps?ftid=0x8f745bcb7d30f2a7:0xe0bd6ad15ddb380c) [🚶 4 min](https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5405727,-85.699917&travelmode=walking) · **5** [The Cornerhouse](https://www.google.com/maps?ftid=0x8f745bcc8e46fc43:0x27b63ff86a15230c) [🚶 4 min](https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5405247,-85.698882&travelmode=walking)
+**Moyogalpa:** ★ **[Guest House Nena](https://www.google.com/maps?ftid=0x8f745bcc5724a087:0xafb963db0c8581fa)** (the pick, [book](https://www.booking.com/hotel/ni/guest-house-nena.html?checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **1** [Nómadas Hostel](https://www.google.com/maps?ftid=0x8f745bfa77eaad6f:0x53da9ceed26216ac) (dorm backup, [book](https://www.booking.com/hotel/ni/nomadas-hostel.html?checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Hostel Life is Good](https://www.google.com/maps?ftid=0x8f745bcfd2c559b9:0x4207bebae83ae38c) (backup 2, [book](https://www.booking.com/searchresults.html?ss=Hostel+Life+is+Good+Ometepe&checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Rancho Tranquillo](https://www.google.com/maps?ftid=0x8f745baf46250ecf:0x976ac37055c801b0) (backup 3, [book](https://www.booking.com/searchresults.html?ss=Rancho+Tranquillo+Ometepe&checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [ferry port](https://www.google.com/maps?ftid=0x8f745b686e6a826d:0xc0dad21a021a232a) · **4** [El Picante](https://www.google.com/maps?ftid=0x8f745bcb7d30f2a7:0xe0bd6ad15ddb380c) [🚶 4 min](https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5405727,-85.699917&travelmode=walking) · **5** [The Cornerhouse](https://www.google.com/maps?ftid=0x8f745bcc8e46fc43:0x27b63ff86a15230c) [🚶 4 min](https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5405247,-85.698882&travelmode=walking)
 
 ![Map of the island: Moyogalpa, the two volcanoes, the beaches and the San Jorge port on the mainland](img/ometepe-area-map-617152f7.jpg)
 
@@ -29,31 +29,31 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 22 Feb | 🚌 San Juan del Sur → Rivas → San Jorge → ⛴️ ferry to **Moyogalpa** (≈ 3 h). Walk 7 min to the guest house. **Book the Concepción guide today** for Tuesday. 🌅 Sunset at **Punta Jesús María** (free). |
-| **Day 2** · Tue 23 Feb | 🌋 **Volcán Concepción** with a guide: meet ~04:00–05:00, 8–10 h return. Take 3 L of water. |
-| **Day 3** · Wed 24 Feb | 🛵 Scooter day: **Ojo de Agua** spring pool (small fee) and **Playa Santo Domingo** (free). |
-| **Day 4** · Thu 25 Feb | ⛴️ Morning ferry (≤ 09:00) to San Jorge → 🚌 Rivas → **Granada**. |
+| **Day 1** · Fri 26 Feb | 🚌 San Juan del Sur → Rivas → San Jorge → ⛴️ ferry to **Moyogalpa** (≈ 3 h). Walk 7 min to the guest house. **Book the Concepción guide today** for Tuesday. 🌅 Sunset at **Punta Jesús María** (free). |
+| **Day 2** · Sat 27 Feb | 🌋 **Volcán Concepción** with a guide: meet ~04:00–05:00, 8–10 h return. Take 3 L of water. |
+| **Day 3** · Sun 28 Feb | 🛵 Scooter day: **Ojo de Agua** spring pool (small fee) and **Playa Santo Domingo** (free). |
+| **Day 4** · Mon 1 Mar | ⛴️ Morning ferry (≤ 09:00) to San Jorge → 🚌 Rivas → **Granada**. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov (the beds were live-checked again on 25 Nov). ⚠️ = time-sensitive.
 
-**Beds** (22 → 25 Feb, 3 nights)
+**Beds** (26 Feb → 1 Mar, 3 nights)
 
 | | Where | Total | Location | From the ferry port | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Guest House Nena** · private double | **$36** | 9.4 | 🚶 7 min (450 m) from Moyogalpa port; centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5416810327774,-85.6979298591614&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/guest-house-nena.html?checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup (dorm) | **Nómadas Hostel** · bed in a mixed dorm | $31 | 9.2 | 🚶 9 min (600 m) from the Moyogalpa ferry pier; centre 4 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.537611,-85.698511&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nomadas-hostel.html?checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup 2 (dorm) | **Hostel Life is Good** · 4-bed mixed dorm | $30 | ⚠️ 8.3 | 🚶 24 min (1.7 km) from Moyogalpa port; centre 21 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5512246,-85.69406459999999&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Life+is+Good+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/270660/hostel-life-is-good/?from=2027-02-22&to=2027-02-25&guests=1) |
-| Backup 3 (dorm) | **Rancho Tranquillo** · bed in a 6-bed mixed dorm | $27 | ⚠️ 8.7 | 🚶 20 min (1.4 km) from Moyogalpa port; centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5507324,-85.6994522&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Rancho+Tranquillo+Ometepe&checkin=2027-02-22&checkout=2027-02-25&group_adults=1&no_rooms=1&selected_currency=USD) |
+| ⭐ **Pick** | **Guest House Nena** · private double | **$36** | 9.4 | 🚶 7 min (450 m) from Moyogalpa port; centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5416810327774,-85.6979298591614&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/guest-house-nena.html?checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup (dorm) | **Nómadas Hostel** · bed in a mixed dorm | $31 | 9.2 | 🚶 9 min (600 m) from the Moyogalpa ferry pier; centre 4 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.537611,-85.698511&travelmode=walking) | [Booking](https://www.booking.com/hotel/ni/nomadas-hostel.html?checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup 2 (dorm) | **Hostel Life is Good** · 4-bed mixed dorm | $30 | ⚠️ 8.3 | 🚶 24 min (1.7 km) from Moyogalpa port; centre 21 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5512246,-85.69406459999999&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Life+is+Good+Ometepe&checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/270660/hostel-life-is-good/?from=2027-02-26&to=2027-03-01&guests=1) |
+| Backup 3 (dorm) | **Rancho Tranquillo** · bed in a 6-bed mixed dorm | $27 | ⚠️ 8.7 | 🚶 20 min (1.4 km) from Moyogalpa port; centre 18 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=11.540645,-85.7013423&destination=11.5507324,-85.6994522&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Rancho+Tranquillo+Ometepe&checkin=2027-02-26&checkout=2027-03-01&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Bus San Juan del Sur → Rivas, taxi to San Jorge, **ferry San Jorge → Moyogalpa** | **Mon 22 Feb**, ferries 07:00–17:45 (~70 min) | ≈ $4–5 | [ferry timetable](https://www.ometepeislandinfo.com/) |
-| ⚠️ Tour | **Volcán Concepción**, guide mandatory | **Tue 23 Feb**, meet ~04:00–05:00 | ≈ $25–35 + ≈ $3 | hostels / local guides in Moyogalpa (book on arrival) |
-| Out | **Ferry Moyogalpa → San Jorge**, then Rivas → Granada | **Thu 25 Feb**, a morning ferry (≤ 09:00) | ≈ $4–6 | [ferry timetable](https://www.ometepeislandinfo.com/) |
+| In | Bus San Juan del Sur → Rivas, taxi to San Jorge, **ferry San Jorge → Moyogalpa** | **Fri 26 Feb**, ferries 07:00–17:45 (~70 min) | ≈ $4–5 | [ferry timetable](https://www.ometepeislandinfo.com/) |
+| ⚠️ Tour | **Volcán Concepción**, guide mandatory | **Sat 27 Feb**, meet ~04:00–05:00 | ≈ $25–35 + ≈ $3 | hostels / local guides in Moyogalpa (book on arrival) |
+| Out | **Ferry Moyogalpa → San Jorge**, then Rivas → Granada | **Mon 1 Mar**, a morning ferry (≤ 09:00) | ≈ $4–6 | [ferry timetable](https://www.ometepeislandinfo.com/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: San Juan del Sur → Rivas → San Jorge → Moyogalpa, Mon 22 Feb
+## 🚌 Getting here: San Juan del Sur → Rivas → San Jorge → Moyogalpa, Fri 26 Feb
 
 - **San Juan del Sur → Rivas** bus: frequent, ~45 min, ≈ C$30–40.
 - **Rivas → San Jorge port:** taxi or colectivo, 5 km (≈ C$20–30 shared).
@@ -121,7 +121,7 @@ Beds live-checked 25 Nov, chosen for location.
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QmXCuOIk846qQbef40YeTrVaRU3fKSWHNm9r2bnoErWH9eR8UcP-N-6QsaWpRRO1bRrv2aSEQxj5w0bf25-uEGJlgrkGP0j_6xK5mztoHWCzKAnhNDlEmzrKNCPudZYWNA5uNuIg=w640-h400-p-k-no" width="100%" alt="The Ojo de Agua spring pool in the forest"><br><b><a href="https://www.google.com/maps?ftid=0x8f74f7a3fa87ea09:0xdd8c18a1d8301286">Ojo de Agua</a></b> · small fee · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5190588,-85.5669624&travelmode=driving">🚕 ≈ 37 min</a><br>A spring pool, on a scooter day.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ts1iPPwdz8FBGMdimd97oqdh1t8IQcYl3shZ3l3bkPZVIzTj8pKOVnmlj4ThFEUjzlzH2Np_w_Tc1JcNgvI_URk857ghV7pUvGf8hnvXdhHgmunj0zi8PuIf5kWKv3_uzKYN70-sePSdd5=w640-h400-p-k-no" width="100%" alt="The upper cone of Volcán Concepción"><br><b><a href="https://www.google.com/maps?ftid=0x8f74588ae68a7515:0xd80db4aa733c53e7">Volcán Concepción</a></b> (1,610 m) · ≈ $25–35 + ≈ $3 fee · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5397222,-85.6213889&travelmode=driving">🚕 ≈ 43 min</a><br>Guide mandatory. 8–10 h return, steep loose scree at the top. <b>Tue 23 Feb.</b></td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ts1iPPwdz8FBGMdimd97oqdh1t8IQcYl3shZ3l3bkPZVIzTj8pKOVnmlj4ThFEUjzlzH2Np_w_Tc1JcNgvI_URk857ghV7pUvGf8hnvXdhHgmunj0zi8PuIf5kWKv3_uzKYN70-sePSdd5=w640-h400-p-k-no" width="100%" alt="The upper cone of Volcán Concepción"><br><b><a href="https://www.google.com/maps?ftid=0x8f74588ae68a7515:0xd80db4aa733c53e7">Volcán Concepción</a></b> (1,610 m) · ≈ $25–35 + ≈ $3 fee · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5397222,-85.6213889&travelmode=driving">🚕 ≈ 43 min</a><br>Guide mandatory. 8–10 h return, steep loose scree at the top. <b>Sat 27 Feb.</b></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Laguna_de_Maderas_by_ET.jpg/500px-Laguna_de_Maderas_by_ET.jpg" width="100%" alt="The crater lagoon of Volcán Maderas"><br><b><a href="https://www.google.com/maps?ftid=0x8f74fa2b58570c7b:0x2781ee7b008cacae">Volcán Maderas</a></b> (1,394 m) · ≈ $20–30 + C$100 · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.446,-85.515&travelmode=driving">🚕 ≈ 1 h 18 min</a><br>The alternative: cloud forest and a crater lagoon (in the photo), muddy. 6–8 h.</td>
@@ -133,7 +133,7 @@ Beds live-checked 25 Nov, chosen for location.
 - **Price:** ≈ **$25–35 per person** in a small group from Moyogalpa (hostels/local guides; AI lead) + a small reserve fee (≈ $3).
 - **Time:** **meet ~04:00–05:00**, 8–10 h return. Steep loose scree at the top.
 - Guides check volcanic activity before leaving (Epic Hikes).
-- **Book the day you arrive** for Tue 23 Feb. Take 3 L of water.
+- **Book the day you arrive** for Sat 27 Feb. Take 3 L of water.
 
 **Volcán Maderas (1,394 m), the alternative:**
 - Cloud forest and a crater lagoon, muddy. 6–8 h.
@@ -161,7 +161,7 @@ Craft beer: none known.
 - **Take 3 L of water** up Concepción.
 - **Windy lake:** prefer the big ferries to the lanchas on February afternoons.
 
-## 🚌 Leaving: Moyogalpa → San Jorge → Rivas → Granada, Thu 25 Feb
+## 🚌 Leaving: Moyogalpa → San Jorge → Rivas → Granada, Mon 1 Mar
 
 - **Ferry Moyogalpa → San Jorge:** 05:30, 06:00, 06:30 (lancha), 06:45, 07:00 (lancha), 09:00, 10:00, 11:00, 11:30, 12:30, 13:00 (lancha), 14:00, 15:00 (lancha), 16:00, 17:30 (≈ ometepeislandinfo.com).
 - Take a **morning ferry (≤ 09:00)** for the better bus connections. Bus details are in the [Granada](granada.md) guide.

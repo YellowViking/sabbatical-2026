@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Monteverde](monteverde.md) · [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) →
 
-> **Stop 30 · Mon 15 → Thu 18 Feb 2027 · 3 nights**<br>
+> **Stop 30 · Fri 19 → Mon 22 Feb 2027 · 3 nights**<br>
 > 🏞️ Town under the Arenal volcano: a free hot river, lava-flow trails and a day trip to Río Celeste<br>
-> 🛏️ **Ceiba Hostel**, capsule in an 8-bed dorm, $39 for 3 nights<br>
-> 🚐 **In:** jeep-boat-jeep from Monteverde, Mon 08:00 · **Out:** buses via Tilarán and Cañas to Liberia, Thu morning
+> 🛏️ **Ceiba Hostel**, capsule in an 8-bed dorm, $43 for 3 nights ✅ 27 Nov<br>
+> 🚐 **In:** jeep-boat-jeep from Monteverde, Fri 08:00 · **Out:** buses via Tilarán and Cañas to Liberia, Mon morning
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TY7qRYx6i950OsuLY_5vqQrY86KFk5a2Yh3GIitPkFHO-lT3CHcDCXR2gab2an_oPH7Ht2KhgK2aupiGvkRmSuJePbGm7ZrMYXqMvRtt_BHrsiYuYKxGr_vGGP1AQIG7GRMp9JBg=w1200-h360-p-k-no" alt="The cone of Volcán Arenal above the forest" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of La Fortuna: the beds, the bus terminal and La Fortuna Pub](img/la-fortuna-map-7e0accd2.jpg)
 
-**In town:** ★ **[Ceiba Hostel](https://www.google.com/maps?ftid=0x8fa00d211f0120dd:0x6d32c1fc206e9ace)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [bus terminal](https://www.google.com/maps?ftid=0x8fa00d0aef06d4c9:0x9d4857be7750c35e) · **1** [Alpha Arenal](https://www.google.com/maps?ftid=0x8fa00d99bd1fb577:0x74d506821600fcc6) (backup, [book](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Casa Paraíso](https://www.google.com/maps?ftid=0x8fa00cfa57547e51:0x9b468350f631006d) (private alt, 2.5 km out, [book](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [La Fortuna Pub](https://www.google.com/maps?ftid=0x8fa00c8bc2a0449d:0xcb3b226a5317fa3e) [🚶 17 min](https://www.google.com/maps/dir/?api=1&origin=10.4712581,-84.640129&destination=10.4705006,-84.6491963&travelmode=walking)
+**In town:** ★ **[Ceiba Hostel](https://www.google.com/maps?ftid=0x8fa00d211f0120dd:0x6d32c1fc206e9ace)** (the pick, [book](https://www.booking.com/hotel/cr/ceiba-hostel.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [bus terminal](https://www.google.com/maps?ftid=0x8fa00d0aef06d4c9:0x9d4857be7750c35e) · **1** [Pura Vibra Hostel](https://www.google.com/maps?ftid=0x8fa00d180af88a69:0xd73aa4286225341d) (backup since 27 Nov, [book](https://www.booking.com/hotel/cr/pura-vibra-hostel.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD); the pin marks its neighbour [Alpha Arenal](https://www.google.com/maps?ftid=0x8fa00d99bd1fb577:0x74d506821600fcc6), 40 m away, the old backup, not bookable now) · **2** [Casa Paraíso](https://www.google.com/maps?ftid=0x8fa00cfa57547e51:0x9b468350f631006d) (private alt, 2.5 km out, [book](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [La Fortuna Pub](https://www.google.com/maps?ftid=0x8fa00c8bc2a0449d:0xcb3b226a5317fa3e) [🚶 17 min](https://www.google.com/maps/dir/?api=1&origin=10.4712581,-84.640129&destination=10.4705006,-84.6491963&travelmode=walking)
 
 ![Map of the area: La Fortuna, the hot river by Tabacón, the Arenal trails and La Fortuna Waterfall](img/la-fortuna-area-map-95ff6152.jpg)
 
@@ -29,29 +29,30 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 15 Feb | 🚐 **08:00 jeep-boat-jeep** from Santa Elena (~3½–4 h), for a full afternoon in La Fortuna: ♨️ **El Chollín** in daylight. |
-| **Tue 16 – Wed 17 Feb** | Two full days: 🌋 a **volcano hike** (Arenal NP, El Silencio or Arenal 1968; viewpoints are clearest at dawn) and 💧 **Río Celeste** by tour (no public transport). The **hot river** again if you like. |
-| **Day 4** · Thu 18 Feb | 🚌 Leave early for **Liberia** via Tilarán and Cañas. Or see Río Celeste on the way north via Bijagua (a long day). |
+| **Day 1** · Fri 19 Feb | 🚐 **08:00 jeep-boat-jeep** from Santa Elena (~3½–4 h), for a full afternoon in La Fortuna: ♨️ **El Chollín** in daylight. |
+| **Sat 20 – Sun 21 Feb** | Two full days: 🌋 a **volcano hike** (Arenal NP, El Silencio or Arenal 1968; viewpoints are clearest at dawn) and 💧 **Río Celeste** by tour (no public transport). The **hot river** again if you like. |
+| **Day 4** · Mon 22 Feb | 🚌 Leave early for **Liberia** via Tilarán and Cañas. Or see Río Celeste on the way north via Bijagua (a long day). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (15 → 18 Feb, 3 nights)
+**Beds** (19 → 22 Feb, 3 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Ceiba Hostel** · capsule in an 8-bed dorm | **$39** | 9.1 *(HW)* | 🚶 2 min (140 m); centre 10 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4712581,-84.640129&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Ceiba+Hostel+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-15&to=2027-02-18&guests=1) |
-| Backup | **Alpha Arenal** · basic 8-bed mixed dorm | $45 | 9.5 *(HW)* | 🚶 15 min (1.0 km) (taxi ≈ 4 min); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4721914,-84.6485847&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Alpha+Arenal+&checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-15&to=2027-02-18&guests=1) |
-| Private alt | **Casa Paraíso – La Fortuna** · double room | $182 | 9.7 | ⚠️ 🚕 ≈ 7 min (walk 51 min, 3.5 km); **45 min walk to the centre, no bus in Google Maps** · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.448872536342,-84.640383350087&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-15&checkout=2027-02-18&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Ceiba Hostel** · capsule in an 8-bed dorm | **$43** ✅ 27 Nov | 9.1 *(HW)* | 🚶 2 min (140 m); centre 10 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4712581,-84.640129&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/ceiba-hostel.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/330861/ceiba-hostel/?from=2027-02-19&to=2027-02-22&guests=1) |
+| Backup | **Pura Vibra Hostel** · bed in a 10-bed mixed dorm, bed curtains | $36 ✅ 27 Nov | 9.1 | 🚶 16 min (1.1 km) (taxi ≈ 5 min); centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4720402,-84.648976&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/pura-vibra-hostel.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/321675/pura-vibra-hostel/?from=2027-02-19&to=2027-02-22&guests=1) |
+| ~~Backup~~ | ~~**Alpha Arenal**~~ · basic 8-bed mixed dorm | **not bookable** ✅ 27 Nov | 9.5 *(HW)* | 🚶 15 min (1.0 km) (taxi ≈ 4 min); centre 6 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.4721914,-84.6485847&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/alpha-arenal-la-fortuna.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317195/alpha-arenal/?from=2027-02-19&to=2027-02-22&guests=1) |
+| Private alt | **Casa Paraíso – La Fortuna** · double room | $182 | 9.7 | ⚠️ 🚕 ≈ 7 min (walk 51 min, 3.5 km); **45 min walk to the centre, no bus in Google Maps** · [route](https://www.google.com/maps/dir/?api=1&origin=10.4710996,-84.6408778&destination=10.448872536342,-84.640383350087&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/alinnas-house.html?checkin=2027-02-19&checkout=2027-02-22&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tickets**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Green Road** shared jeep-boat-jeep · Santa Elena → La Fortuna | **Mon 15 Feb 08:00** (or 14:00, $50) | **$45** | greenroadcr.com (or ask Monteverde Backpackers: $29–35 ≈) |
+| In | **Green Road** shared jeep-boat-jeep · Santa Elena → La Fortuna | **Fri 19 Feb 08:00** (or 14:00, $50) | **$45** | greenroadcr.com (or ask Monteverde Backpackers: $29–35 ≈) |
 | ⚠️ Tickets | Río Celeste and Arenal NP (SINAC, online only) | before the day | $13.56 / $16.95 | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
-| Out | La Fortuna → Tilarán → Cañas → Liberia | **Thu 18 Feb**, from ≈ 07:30–08:00 | ≈ $12–14 | details in the [Liberia guide](rincon-de-la-vieja.md) |
+| Out | La Fortuna → Tilarán → Cañas → Liberia | **Mon 22 Feb**, from ≈ 07:30–08:00 | ≈ $12–14 | details in the [Liberia guide](rincon-de-la-vieja.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -61,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚐 Getting here: jeep-boat-jeep from Monteverde, Mon 15 Feb
+## 🚐 Getting here: jeep-boat-jeep from Monteverde, Fri 19 Feb
 
 - **Route:** hotel pickup in Santa Elena → jeep to Lake Arenal → boat across → jeep to La Fortuna, ~3½–4 h.
 - **Green Road shared: dep 08:00 $45, 14:00 $50** (all fees included) ✅ greenroadcr.com.
@@ -74,23 +75,25 @@ All live-checked on 24 Nov.
 
 ### ⭐ Pick: Ceiba Hostel
 - **Room:** capsule in an 8-bed dorm.
-- **Price:** **$39 on Booking** (card $13 × 3; IVA treatment unchecked) vs $56.00 on Hostelworld ($49.56 + 13 % IVA).
+- **Price:** **$43 on Booking** ✅ 27 Nov (8-bed dorm; was $39; IVA treatment unchecked) vs $56.00 on Hostelworld ($49.56 + 13 % IVA).
 - **Reviews:** HW **9.0 (420; 7.3 % < 7)**, newest 91–100 (Oct–Nov 2026); Booking 8.7 (229).
 - **Where:** ~0.6 km from the centre.
 - **Checks:** **bunks with curtains, lights and outlets** (property text + reviews); fully equipped kitchen with cooker; "social without being party-focused"; **small new pool** (quiet, not a pool-party place; Booking also flags a happy hour).
 
-### Backup: Alpha Arenal
-- **Room:** basic 8-bed mixed dorm.
-- **Price:** **$45 on Booking** (card $15 × 3) vs $47.46 on Hostelworld ($42 + IVA).
-- **Reviews:** HW **9.1 (483; 10.7 % < 7)**; Booking 8.5 (281).
-- **Where:** ~0.6 km from the centre.
-- **Checks:** kitchen with cooker; **bed curtains + a fan per bed**; "social without being party-ish"; no pool; a few cleanliness complaints.
+### Backup (since 27 Nov): Pura Vibra Hostel
+- **Room:** bed in a 10-bed mixed dorm (6-bed $41).
+- **Price:** **$36 on Booking** ✅ 27 Nov vs $36 + IVA on Hostelworld (3 × $12). Reviews say it takes **cash only** at the desk.
+- **Reviews:** Booking 8.4 (578; 12 % below 7), location **9.1**; HW 8.9 (251).
+- **Where:** on the west edge of town, next door to Alpha Arenal: 16 min (1.1 km) on foot from the bus terminal.
+- **Checks:** "Cocina 100% equipada" / "große Küche" (full kitchen); **curtains on the beds**; quiet ("super calmo", "ruhiges Hostel", "quiet at night"); free yoga twice a day; no happy-hour flag on Booking. A/C runs only at night, and the lockers are outside the dorms.
+- ~~**Alpha Arenal**~~ (the backup until 27 Nov): **not bookable**. Booking has no rooms for 19 → 22 Feb or a 1 → 4 Mar control, and it's gone from Hostelworld ✅ 27 Nov. It may have closed.
+- **Also checked:** Argdivan Hostel (location 9.3, 812 reviews, $43): a bar upstairs, group activities, daytime music and a Booking happy-hour flag, so it's livelier.
 - **Avoid:** Arenal Backpackers Resort (pool resort; 29 % of recent reviews < 7), Poshtel (pool, many noise mentions), Blackout Party Hostel.
 
 ### Private alt (location first): Casa Paraíso – La Fortuna
 - Double room · Booking location **9.7** (score 9.8, 32 reviews, 0 % bad) · **$182 for 3 nights** (room table) · Booking.com · ⚠️ 2.5 km from the centre (walk/taxi).
 - Flora Glamping de Abuela (location 9.5, 170 reviews) chalet $202, 3.1 km out.
-- **Central and cheaper (Hostelworld):** Fortuna Pink Hostel twin, shared bath, HW 9.3/217 (0.8 % < 7), **$66 for 3 nights**, ~1 km from the centre; Alpha Arenal twin ensuite $135.60 incl. IVA.
+- **Central and cheaper (Hostelworld):** Fortuna Pink Hostel twin, shared bath, HW 9.3/217 (0.8 % < 7), **$66 for 3 nights**, ~1 km from the centre; Alpha Arenal twin ensuite $135.60 incl. IVA (not bookable on 27 Nov).
 
 ## 🌳 Things to do (free and outdoors first)
 
@@ -117,7 +120,7 @@ All live-checked on 24 Nov.
   - Pick **the national park** unless the cheaper El Silencio is the better view on the day: all three show the same volcano.
 - **Río Celeste (Parque Nacional Volcán Tenorio)** day trip: SINAC **$12 + IVA ≈ $13.56**, entry 08:00–14:00, stay until 16:00 ✅ sinac.go.cr (tickets online on SICORE; same account as Chirripó).
   - **No public transport to the park** (LP), so it's either a tour from La Fortuna (≈ $80–100 incl. entry and lunch, AI lead) or, cheaper, a stop on the way north.
-  - **On the way north:** 18 Feb La Fortuna → Tilarán → Cañas → **bus Cañas → Bijagua** → taxi ~9 km to the park → back to Cañas → Liberia the same evening (long; check the Cañas–Upala bus times locally).
+  - **On the way north:** Mon 22 Feb La Fortuna → Tilarán → Cañas → **bus Cañas → Bijagua** → taxi ~9 km to the park → back to Cañas → Liberia the same evening (long; check the Cañas–Upala bus times locally).
   - The bluest water is in the dry season, i.e. February.
 - **La Fortuna Waterfall** ≈ $20 (LP); only if the hot river and the volcano trails aren't enough.
 
@@ -134,12 +137,12 @@ All live-checked on 24 Nov.
 - **Craft beer:** **La Fortuna Pub** (Tico craft beers incl. their own brews; LP).
 
 ## ℹ️ Good to know
-- **Thursday 18 Feb leaves early** for Liberia.
+- **Monday 22 Feb leaves early** for Liberia.
 - **Most volcano viewpoints are clearest at dawn.**
 
-## 🚌 Leaving: La Fortuna → Tilarán → Cañas → Liberia, Thu 18 Feb
+## 🚌 Leaving: La Fortuna → Tilarán → Cañas → Liberia, Mon 22 Feb
 
-- No direct bus: La Fortuna → Tilarán (≈ 08:00, 12:15, 17:30 or 07:30/12:30/17:00) → Cañas → Liberia, ≈ 4½–5½ h and $12–14.
+- No direct bus: La Fortuna → Tilarán (weekdays 08:00, 12:15, 17:30; Transpisa) → Cañas → Liberia, ≈ 4½–5½ h and $12–14.
 - Times, the shuttle alternative and the Río Celeste detour are in the [Liberia guide](rincon-de-la-vieja.md) and above.
 
 ---

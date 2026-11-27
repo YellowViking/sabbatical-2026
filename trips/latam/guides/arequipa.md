@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Colca Canyon](colca-canyon.md) · [Panama City](panama-city.md) →
 
-> **Stop 24 · Mon 1 → Wed 3 Feb 2027 (days 56–58) · 2 nights (1 under options B and C)**<br>
+> **Stop 24 · Thu 4 → Sat 6 Feb 2027 (days 59–61) · 2 nights (1 under options B and C)**<br>
 > 🏞️ The white-stone city under Misti, Chachani and Pichu Pichu, and the driest stop of the week<br>
 > 🛏️ **Econunay**, a bed in an 8-bed mixed ensuite dorm, $18.94 for 2 nights<br>
-> 🚌 **In:** bus from Cabanaconde, Mon 09:30 · **Out:** three open options (A: fly Wed 3 Feb 06:50 · B: fly to Lima on the 2 Feb afternoon · C: night bus on 2 Feb to Huacachina + Paracas)
+> 🚌 **In:** bus from Cabanaconde, Thu 09:30 · **Out:** three open options (A: fly Sat 6 Feb 06:50 · B: fly to Lima on the 5 Feb afternoon · C: night bus on 5 Feb to Huacachina + Paracas)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPTx4F42BX0lvY1Lmm26GsgtT8z0Y2nWCnvCEyQx_xSSUVKNPNQsDRvq4N3OslIabt2I1eCzJBrq9kDeY17GiCCZVgtg1zf-SBNfdYVTV0Mm1kn2GVGnLFTVJd_qRUs3qoGoW_=w1200-h360-p-k-no" alt="The cone of El Misti volcano above Arequipa's green river valley" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 ![Map of central Arequipa: the beds, Puente Grau, the Plaza de Armas, Mundo Alpaca, the Juanita museum, Mercado San Camilo and Chelawasi](img/arequipa-map-8fcb675a.jpg)
 
-**In town:** ★ **[Econunay](https://www.google.com/maps?ftid=0x91424a504bc605c3:0x4ddee7bc10971d8c)** (the pick, [book](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-01&to=2027-02-03&guests=1)) · **1** [Friendly AQP](https://www.google.com/maps?ftid=0x91424a58e0d7a8f3:0x959fee4f9a896087) (backup, [book](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-01&to=2027-02-03&guests=1)) · **2** [Hotel Tierrasur](https://www.google.com/maps?ftid=0x91424a59cb4a9c3d:0xf78814ab63d38e1d) (private alt, [book](https://www.booking.com/hotel/pe/tierrasur-arequipa.html?checkin=2027-02-01&checkout=2027-02-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Puente Grau](https://www.google.com/maps?ftid=0x91424a4534523b1f:0x25dbcc5ab752753a) [🚶 10 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3927786,-71.5387761&travelmode=walking) (start of the riverside walk and the way to Yanahuara) · **4** [Plaza de Armas](https://www.google.com/maps?ftid=0x91424a59ffae2999:0xc419f49d1f9cd270) [🚶 12 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3988146,-71.5368919&travelmode=walking) · **5** [Mundo Alpaca](https://www.google.com/maps?ftid=0x91424a4fe1ae2d85:0x84aa1c7593f13cce) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3929231,-71.5354539&travelmode=walking), in the [San Lázaro](https://www.google.com/maps?ftid=0x91424a502cc27acb:0xb98105c5ac052250) lanes · **6** [Museo Santuarios Andinos](https://www.google.com/maps?ftid=0x91424a59e57eb765:0x1727dfb603fb649f) [🚶 14 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3999611,-71.537755&travelmode=walking) (Juanita) · **7** [Mercado San Camilo](https://www.google.com/maps?ftid=0x91424b4db3ab1345:0xaa3d6655a1e51714) [🚶 17 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.403028,-71.5349841&travelmode=walking) · **8** [Chelawasi Public House](https://www.google.com/maps?ftid=0x91424a51ce085917:0x6c82a877b74d0fc2) [🚶 2 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3935367,-71.5334405&travelmode=walking) (Lonko is ≈ 60 m from it)
+**In town:** ★ **[Econunay](https://www.google.com/maps?ftid=0x91424a504bc605c3:0x4ddee7bc10971d8c)** (the pick, [book](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-04&to=2027-02-06&guests=1)) · **1** [Friendly AQP](https://www.google.com/maps?ftid=0x91424a58e0d7a8f3:0x959fee4f9a896087) (backup, [book](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-04&to=2027-02-06&guests=1)) · **2** [Hotel Tierrasur](https://www.google.com/maps?ftid=0x91424a59cb4a9c3d:0xf78814ab63d38e1d) (private alt, [book](https://www.booking.com/hotel/pe/tierrasur-arequipa.html?checkin=2027-02-04&checkout=2027-02-06&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Puente Grau](https://www.google.com/maps?ftid=0x91424a4534523b1f:0x25dbcc5ab752753a) [🚶 10 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3927786,-71.5387761&travelmode=walking) (start of the riverside walk and the way to Yanahuara) · **4** [Plaza de Armas](https://www.google.com/maps?ftid=0x91424a59ffae2999:0xc419f49d1f9cd270) [🚶 12 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3988146,-71.5368919&travelmode=walking) · **5** [Mundo Alpaca](https://www.google.com/maps?ftid=0x91424a4fe1ae2d85:0x84aa1c7593f13cce) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3929231,-71.5354539&travelmode=walking), in the [San Lázaro](https://www.google.com/maps?ftid=0x91424a502cc27acb:0xb98105c5ac052250) lanes · **6** [Museo Santuarios Andinos](https://www.google.com/maps?ftid=0x91424a59e57eb765:0x1727dfb603fb649f) [🚶 14 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3999611,-71.537755&travelmode=walking) (Juanita) · **7** [Mercado San Camilo](https://www.google.com/maps?ftid=0x91424b4db3ab1345:0xaa3d6655a1e51714) [🚶 17 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.403028,-71.5349841&travelmode=walking) · **8** [Chelawasi Public House](https://www.google.com/maps?ftid=0x91424a51ce085917:0x6c82a877b74d0fc2) [🚶 2 min](https://www.google.com/maps/dir/?api=1&origin=-16.3927766,-71.5328378&destination=-16.3935367,-71.5334405&travelmode=walking) (Lonko is ≈ 60 m from it)
 
 ![Map of the area: the centre, the bus terminal to the south, the airport and the Ruta del Sillar to the north-west, Yanahuara, Chilina and Carmen Alto to the north](img/arequipa-area-map-58f45eea.jpg)
 
@@ -29,29 +29,29 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 1 Feb | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
-| **Day 2** · Tue 2 Feb | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
-| **Day 3** · Wed 3 Feb | ✈ Option A: leave by 05:10 for the **06:50** flight. |
+| **Day 1** · Thu 4 Feb | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
+| **Day 2** · Fri 5 Feb · 🎭 Carnaval exodus day (Panama) | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
+| **Day 3** · Sat 6 Feb · 🎭 Carnaval | ✈ Option A: leave by 05:10 for the **06:50** flight. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (1 → 3 Feb, 2 nights)
+**Beds** (4 → 6 Feb, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Econunay** · bed in an 8-bed mixed ensuite dorm | **$18.94** | 9.1 | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 12 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.392776599999998,-71.5328378&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=81309105&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) |
-| Backup | **Friendly AQP** · bed in a 4-bed mixed ensuite dorm | $20.40 | 9.0 | 🚕 taxi/rideshare ≈ 13 min from the bus terminal (walk 48 min, 3.3 km); centre 9 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.400574499999998,-71.5404465&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-01&to=2027-02-03&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37917604&checkin=2027-02-01&checkout=2027-02-03&NumberofAdults=1&Rooms=1) |
-| Private alt | **Hotel Tierrasur** · single room, breakfast | $79 | 9.7 | 0.29 km from the Plaza | [Booking](https://www.booking.com/hotel/pe/tierrasur-arequipa.html?checkin=2027-02-01&checkout=2027-02-03&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Econunay** · bed in an 8-bed mixed ensuite dorm | **$18.94** | 9.1 | 🚕 taxi/rideshare ≈ 17 min from the bus terminal (walk 1 hr 3 min, 4.2 km); centre 12 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.392776599999998,-71.5328378&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/101496/econunay/?from=2027-02-04&to=2027-02-06&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=81309105&checkin=2027-02-04&checkout=2027-02-06&NumberofAdults=1&Rooms=1) |
+| Backup | **Friendly AQP** · bed in a 4-bed mixed ensuite dorm | $20.40 | 9.0 | 🚕 taxi/rideshare ≈ 13 min from the bus terminal (walk 48 min, 3.3 km); centre 9 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.423054699999998,-71.5448284&destination=-16.400574499999998,-71.5404465&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/81894/friendly-aqp/?from=2027-02-04&to=2027-02-06&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=37917604&checkin=2027-02-04&checkout=2027-02-06&NumberofAdults=1&Rooms=1) |
+| Private alt | **Hotel Tierrasur** · single room, breakfast | $79 | 9.7 | 0.29 km from the Plaza | [Booking](https://www.booking.com/hotel/pe/tierrasur-arequipa.html?checkin=2027-02-04&checkout=2027-02-06&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 | Private value | **Olespier Hostel** · private double | $54 | 9.5 | 0.53 km from the Plaza | Booking |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚌 **Turismo Transandino** (or the next Andalucía) · Cabanaconde → Arequipa Terminal Terrestre | **Mon 1 Feb 09:30**, ≈ 5.5–6 h | **S/35** (≈ $9.50) | counters on Cabanaconde's plaza ([Colca guide](colca-canyon.md)) |
-| Out | Three open options: **A** fly 3 Feb 06:50 · **B** fly to Lima 2 Feb, then the Copa award · **C** night bus 2 Feb to Ica | see Leaving, below | — | [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city) · [Huacachina + Paracas guide](huacachina-paracas.md) |
+| In | 🚌 **Turismo Transandino** (or the next Andalucía) · Cabanaconde → Arequipa Terminal Terrestre | **Thu 4 Feb 09:30**, ≈ 5.5–6 h | **S/35** (≈ $9.50) | counters on Cabanaconde's plaza ([Colca guide](colca-canyon.md)) |
+| Out | Three open options: **A** fly 6 Feb 06:50 · **B** fly to Lima 5 Feb, then the Copa award · **C** night bus 5 Feb to Ica | see Leaving, below | — | [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city) · [Huacachina + Paracas guide](huacachina-paracas.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Cabanaconde → Arequipa, Mon 1 Feb
+## 🚌 Getting here: Cabanaconde → Arequipa, Thu 4 Feb
 
 - **Bus Cabanaconde → Arequipa Terminal Terrestre:** 09:30 Transandino or the next Andalucía, ≈ 5.5–6 h, S/35 (≈ $9.50). ≈ redBus route data (see the [Colca guide](colca-canyon.md)).
 - **Taxi to the centre** ≈ S/10–15 (LP: ≈ S/7). Take one from inside the terminal.
@@ -98,7 +98,7 @@ Live-checked on 24 Nov.
 
 ## 🌳 Things to do (free and outdoors first)
 
-You have Mon evening, all of Tue, and an early Wed exit.
+You have Thu evening, all of Fri, and an early Sat exit.
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ You have Mon evening, all of Tue, and an early Wed exit.
 </tr>
 </table>
 
-- **Mirador de Yanahuara** (free): sillar arches framing Misti, Chachani and Pichu Pichu. 1.5 km from the Plaza over Puente Grau. Best late afternoon; this is the Mon-evening walk.
+- **Mirador de Yanahuara** (free): sillar arches framing Misti, Chachani and Pichu Pichu. 1.5 km from the Plaza over Puente Grau. Best late afternoon; this is the Thu-evening walk.
   - LP's route: cross Puente Grau, take the first right (Bolognesi) along the park, then the first left up Cuesta del Ángel, and go four blocks to Plaza Yanahuara.
 - **Riverside walk:** Río Chili and the Chilina valley terraces between Puente Grau and the Yanahuara side (free).
   - ⚠️ Go by day, and keep out of **Parque Selva Alegre**, north of the centre: LP reports muggings there.
@@ -123,7 +123,7 @@ You have Mon evening, all of Tue, and an early Wed exit.
 - **Mundo Alpaca** (free): alpacas and live weaving, Alameda San Lázaro.
 - **Mirador de Carmen Alto:** terraced fields under Misti, ≈ S/5 plus a ≈ S/15 taxi (≈ unverified).
 - **One paid, unique:** either **Museo Santuarios Andinos** or the **Ruta del Sillar** (Añashuayco quarry canyon, where Arequipa's white stone is cut; ≈ S/40–60 by tour, or a taxi plus a small entry fee). Nothing later on the route covers either.
-  - ⚠️ **Juanita** (the Inca girl from Ampato) is **off display January–April** for conservation. **Sarita**, another Inca child offering from Sara Sara volcano, is shown instead (peru.travel and Peru's state news agency Andina; checked 26 Nov). On 2 Feb you'd see Sarita, which tilts the choice towards the **Ruta del Sillar**.
+  - ⚠️ **Juanita** (the Inca girl from Ampato) is **off display January–April** for conservation. **Sarita**, another Inca child offering from Sara Sara volcano, is shown instead (peru.travel and Peru's state news agency Andina; checked 26 Nov). On 5 Feb you'd see Sarita, which tilts the choice towards the **Ruta del Sillar**.
   - Museum (LP): adult **S/20** (also the foreign-adult rate on the museum's 2021 reopening notice). The guided tour is compulsory, takes ≈ 1 h, is free and expects a tip, and runs in Spanish, English or French. Mon–Sat 09:00–18:00, Sun to 15:00.
 - **Paid and outdoors, if the weather's good:** a half-day bike ride around Misti, US$50 with Peru Adventures Tours, transport and gear included (LP).
 - **Not in this season:** rafting on the Río Chili runs April–November only; LP says rivers are too high in Dec–Mar.
@@ -144,7 +144,7 @@ You have Mon evening, all of Tue, and an early Wed exit.
 </table>
 
 All ≈, not checked, except where LP is cited:
-- **La Nueva Palomino** (LP): mains S/22–69, but one *rocoto relleno* is a meal for a solo diner. Lunch only, Mon–Sat 12:00–17:00 (Sun breakfast 07:30–12:00), so go by ≈ 14:00 on Tuesday.
+- **La Nueva Palomino** (LP): mains S/22–69, but one *rocoto relleno* is a meal for a solo diner. Lunch only, Mon–Sat 12:00–17:00 (Sun breakfast 07:30–12:00), so go by ≈ 14:00 on Friday.
 - **Chelawasi:** opens 16:00 on weekdays (noon on Saturdays), and craft beers are S/15–18 (LP).
 - **Set lunch** (*menú del día*): soup, main and sometimes dessert for ≈ S/8–22 nationally (LP). Mercado San Camilo is LP's tip for cheap local eating too.
 - Mid-range and better restaurants add tax and a 10% service charge to the bill (LP), so the menu price isn't the total.
@@ -156,14 +156,14 @@ All ≈, not checked, except where LP is cited:
 - **Tours (LP):** book only at a recognised agency, never through street touts. Pay in cash, because card fraud has been reported.
 - **Petty theft** is common in cafés and bars, so keep your phone off the table (LP).
 - **Tourist info:** iPerú on the Plaza de Armas (Portal de la Municipalidad 110), Mon–Sat 09:00–18:00, Sun to 13:00 (LP).
-- **Carnival:** Peru's water-balloon fights start on February weekends (6–7 Feb), so they're probably not an issue on 1–3 Feb.
+- **Carnival:** Peru's water-balloon and foam fights peak on the Carnaval weekend, **Sat 6 – Sun 7 Feb 2027**. Option A flies out early on the 6th and B/C leave on the 5th, so expect at most some water play in the streets on Fri 5 (≈).
 
 ## 🚌 Leaving: three open options
 
 **Leaving Arequipa: three open options** (details in the [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city)):
-- **A:** fly 3 Feb 06:50 (2 nights here).
-- **B:** fly to Lima on the 2 Feb afternoon and use the Copa award (1 night here).
-- **C:** night bus on 2 Feb to Huacachina + Paracas, then the award from Lima on 6 Feb (1 night here; [guide](huacachina-paracas.md)).
+- **A:** fly Sat 6 Feb 06:50 (2 nights here): Sky + Copa ≈ $312 (✅ Google Flights, 27 Nov).
+- **B:** fly to Lima on the Fri 5 Feb afternoon and use the Copa award on Sat 6 (1 night here).
+- **C:** night bus on Fri 5 Feb to Huacachina + Paracas, then the award from Lima on Tue 9 Feb (1 night here; +3 days; [guide](huacachina-paracas.md)).
 
 ---
 <sub>Photos: Google Maps contributors (Misti, Mirador de Yanahuara, Puente Grau, Carmen Alto, Museo Santuarios Andinos, Ruta del Sillar, Mercado San Camilo, Chelawasi). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Queso_helado.jpg">Queso helado</a> (TomasVial, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Rocoto_relleno._Sol_de_mayo,_Arequipa.jpg">Rocoto relleno, Sol de Mayo</a> (HugoMon, CC BY-SA 3.0).</sub>

@@ -91,6 +91,11 @@
    "nights": 1
   },
   {
+   "id": "champaqui",
+   "guide": "cordoba",
+   "nights": 2
+  },
+  {
    "id": "bus-cordoba-tucuman",
    "guide": "cordoba",
    "nights": 1,
@@ -124,7 +129,7 @@
   {
    "id": "san-pedro",
    "guide": "san-pedro-de-atacama",
-   "nights": 3
+   "nights": 4
   },
   {
    "id": "uyuni-tour",
@@ -184,7 +189,7 @@
   {
    "id": "san-gerardo",
    "guide": "san-gerardo-de-rivas",
-   "nights": 3
+   "nights": 4
   },
   {
    "id": "uvita",
@@ -234,7 +239,7 @@
   {
    "id": "esteli",
    "guide": "esteli",
-   "nights": 1
+   "nights": 3
   },
   {
    "id": "airport",

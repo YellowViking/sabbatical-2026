@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Uvita](uvita.md) · [La Fortuna / Arenal](la-fortuna.md) →
 
-> **Stop 29 · Sat 13 → Mon 15 Feb 2027 · 2 nights**<br>
+> **Stop 29 · Wed 17 → Fri 19 Feb 2027 · 2 nights**<br>
 > 🏞️ Cool, windy cloud-forest town (Santa Elena): reserve trails at dawn, a fig tree you can climb inside, a hill with a view toward Arenal<br>
 > 🛏️ **Monteverde Backpackers**, 6-bed ensuite dorm, $24 for 2 nights<br>
-> 🚌 **In:** Uvita → Quepos → Puntarenas → Santa Elena, Sat (~11–12 h) · **Out:** jeep-boat-jeep to La Fortuna, Mon 08:00
+> 🚌 **In:** Uvita → Quepos → Puntarenas → Santa Elena, Wed (~11–12 h) · **Out:** jeep-boat-jeep to La Fortuna, Fri 08:00
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGvQ0r7-N2u7WFd8k2tWQfCM52ZF02PP1qSYSdx31e1xj6Uk65Jaix1tOM5MCCVnIHnhY5X7d9NnqenS-IhRjbD2Ejm5Eiz5lJP33nQkpctiDvE8iYrICXWsO5R9qOh3oZOcZLhOModGsD=w1200-h360-p-k-no" alt="Mist in the canopy of the Santa Elena cloud forest" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Santa Elena: the beds and the bus stop](img/monteverde-map-3f2d5a75.jpg)
 
-**In town:** ★ **[Monteverde Backpackers](https://www.google.com/maps?ftid=0x8fa01978f5f77c49:0xdfc8493fb544bbda)** (the pick, [book](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1)) · **B** [Santa Elena bus stop](https://www.google.com/maps?ftid=0x8fa01b80f7bc7937:0x24a35d5bdc738b2) · **1** [OutBox Inn](https://www.google.com/maps?ftid=0x8fa01b882444e4e1:0x9acf7748d3d1d36c) (backup, [book](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Hostel Cattleya](https://www.google.com/maps?ftid=0x8fa01bdbd65b1177:0xaa41898629d1c128) (backup 2, [book](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD)) · **3** [Casa Geranios #2](https://www.google.com/maps?ftid=0x8fa01bd09b8811fb:0xeb4d86f71730a0a1) (private alt, [book](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD))
+**In town:** ★ **[Monteverde Backpackers](https://www.google.com/maps?ftid=0x8fa01978f5f77c49:0xdfc8493fb544bbda)** (the pick, [book](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-17&to=2027-02-19&guests=1)) · **B** [Santa Elena bus stop](https://www.google.com/maps?ftid=0x8fa01b80f7bc7937:0x24a35d5bdc738b2) · **1** [OutBox Inn](https://www.google.com/maps?ftid=0x8fa01b882444e4e1:0x9acf7748d3d1d36c) (backup, [book](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **2** [Hostel Cattleya](https://www.google.com/maps?ftid=0x8fa01bdbd65b1177:0xaa41898629d1c128) (backup 2, [book](https://www.booking.com/hotel/cr/hostel-cattleya.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Casa Geranios #2](https://www.google.com/maps?ftid=0x8fa01bd09b8811fb:0xeb4d86f71730a0a1) (sold out 17 → 19 Feb) · [Mi Casa Su Casa](https://www.google.com/maps?ftid=0x8fa01b494e386f05:0xecada9d1ebcb087c) (private alt since 27 Nov, not pinned, [book](https://www.booking.com/hotel/cr/mi-casa-su-casa-monteverde.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD))
 
 ![Map of the area: Santa Elena, the Santa Elena reserve and Cerro Amigos](img/monteverde-area-map-4438861d.jpg)
 
@@ -29,31 +29,32 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 13 Feb | 🚌 **05:15** Uvita → Quepos, **07:30** → Puntarenas, **13:20 Transmonteverde** → Santa Elena ~16:30. Book the jeep-boat-jeep the day you arrive. |
-| **Day 2** · Sun 14 Feb | 🥾 **07:00 Reserva Santa Elena** for birds and fewer people. Then the free **Ficus tree** and **Cerro Amigos** (a view toward Arenal on clear days). |
-| **Day 3** · Mon 15 Feb | 🚐 **08:00 jeep-boat-jeep** to La Fortuna. |
+| **Day 1** · Wed 17 Feb | 🚌 **05:15** Uvita → Quepos, **07:30** → Puntarenas, **13:20 Transmonteverde** → Santa Elena ~16:30. Book the jeep-boat-jeep the day you arrive. |
+| **Day 2** · Thu 18 Feb | 🥾 **07:00 Reserva Santa Elena** for birds and fewer people. Then the free **Ficus tree** and **Cerro Amigos** (a view toward Arenal on clear days). |
+| **Day 3** · Fri 19 Feb | 🚐 **08:00 jeep-boat-jeep** to La Fortuna. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (13 → 15 Feb, 2 nights)
+**Beds** (17 → 19 Feb, 2 nights)
 
 | | Where | Total | Location | From the Santa Elena bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Monteverde Backpackers** · standard 6-bed mixed dorm, ensuite | **$24** | 9.4 | 🚶 6 min (450 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.3170834,-84.8254517&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-13&to=2027-02-15&guests=1) |
-| Backup | **OutBox Inn** · 8-bed ensuite dorm, privacy curtains | $43 | 9.7 | 🚶 10 min (650 m); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.317978,-84.82412&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup 2 | **Hostel Cattleya** · standard 4-bed mixed dorm | $22 | ⚠️ 8.7 | 🚶 2 min (130 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.314357099999999,-84.8285722&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Cattleya+&checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-13&to=2027-02-15&guests=1) |
-| Private alt | **Casa Geranios #2** · whole 1-bedroom apartment with kitchen | $125 | 9.6 | 🚶 5 min (350 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.315987164037,-84.825181419438&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-13&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Monteverde Backpackers** · standard 6-bed mixed dorm, ensuite | **$24** | 9.4 | 🚶 6 min (450 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.3170834,-84.8254517&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/19204/monteverde-backpackers/?from=2027-02-17&to=2027-02-19&guests=1) |
+| Backup | **OutBox Inn** · 8-bed ensuite dorm, privacy curtains | $43 | 9.7 | 🚶 10 min (650 m); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.317978,-84.82412&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/outbox-inn.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup 2 | **Hostel Cattleya** · standard 4-bed mixed dorm | $22 | ⚠️ 8.7 | 🚶 2 min (130 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.314357099999999,-84.8285722&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/hostel-cattleya.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/285313/hostel-cattleya/?from=2027-02-17&to=2027-02-19&guests=1) |
+| Private alt | **Mi Casa Su Casa** · economy double | $135 ✅ 27 Nov | 9.4 | 🚶 21 min (1.2 km); taxi ≈ 4 min · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.3224077,-84.8225832&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/mi-casa-su-casa-monteverde.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ~~Private alt~~ | ~~**Casa Geranios #2**~~ · whole 1-bedroom apartment with kitchen | **sold out** ✅ 27 Nov | 9.6 | 🚶 5 min (350 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.3141672,-84.8275034&destination=10.315987164037,-84.825181419438&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/casa-geranios-2.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tickets**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Grupo Blanco** · Uvita → Quepos | **Sat 13 Feb 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | on the bus |
+| In | **Grupo Blanco** · Uvita → Quepos | **Wed 17 Feb 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | on the bus |
 | In | **Transportes Quepos–Puntarenas** · Quepos → Puntarenas | **07:30** → ~10:30 | ₡2,965 ($6.64) | tqpcr.com |
 | ⚠️ In | **Transmonteverde route 625** · Puntarenas → Santa Elena | **13:20** (via Guacimal) → ~16:30 | ≈ ₡2,700–3,900 ($6–9) | [Transmonteverde](https://transmonteverde.com/) (seats sold online) |
-| Out | **Green Road** jeep-boat-jeep · Santa Elena → La Fortuna | **Mon 15 Feb 08:00** | $45 | greenroadcr.com, details in the [La Fortuna guide](la-fortuna.md) |
+| Out | **Green Road** jeep-boat-jeep · Santa Elena → La Fortuna | **Fri 19 Feb 08:00** | $45 | greenroadcr.com, details in the [La Fortuna guide](la-fortuna.md) |
 | Sight | Reserva Bosque Nuboso Santa Elena | no booking needed for self-guided walks | ₡10,000 ($22.40) | [reservasantaelena.org](https://reservasantaelena.org/) |
 
 <details><summary>How to read these tables</summary>
@@ -64,14 +65,14 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Uvita → Quepos → Puntarenas → Santa Elena, Sat 13 Feb
+## 🚌 Getting here: Uvita → Quepos → Puntarenas → Santa Elena, Wed 17 Feb
 
 A long day: ~11–12 h door to door, ≈ $15.
 
 1. **Uvita 05:15 → Quepos ~07:15** (Grupo Blanco; other departures 11:30, 14:30, 16:00; ≈ ₡1,745 / $3.90) ✅ times on uvita.info (2026 schedule).
 2. **Quepos 07:30 → Puntarenas ~10:30** (Transportes Quepos–Puntarenas; also 04:35, 05:30, 11:00, 14:00, 15:30, 16:30, 18:00; **₡2,965 / $6.64**) ✅ tqpcr.com. If you miss the 07:30, the 11:00 arrives ~14:00.
 3. **Puntarenas → Santa Elena (Monteverde), Transmonteverde route 625:** 08:30 (via Las Juntas), 13:20 (via Guacimal), 14:30 (via Las Juntas), 15:45 (via Lagartos), ~3–3½ h.
-   - Seats sold online ✅ transmonteverde.com booking engine (checked for Sat 28 Nov 2026; Feb 2027 dates not yet bookable).
+   - Seats sold online ✅ transmonteverde.com booking engine. Read again 27 Nov: the 13:20 via Guacimal runs midweek (listed for Wed 2 Dec, and Sat 5 / Sun 6 Dec too); Feb 2027 dates are not bookable yet.
    - Fare ≈ ₡2,700–3,900 ($6–9).
    - With the 07:30 from Quepos take the **13:20** → Santa Elena ~16:30.
 
@@ -102,9 +103,9 @@ All live-checked on 24 Nov.
 - **Where:** ~0.6 km from the centre.
 - **Checks:** "huge, very nice kitchen" (cooker listed); "definitely not a party hostel"; building-site noise in the mornings.
 
-### Private alt (location first): Casa Geranios #2
-- Whole 1-bedroom apartment with kitchen · Booking location **9.6** (score 9.2, 73 reviews, 0 % bad) · **$125 for 2 nights** (room table) · Booking.com · 170 m from the Santa Elena centre.
-- **Room in a guesthouse instead:** Mi Casa Su Casa (location 9.4, 243 reviews), economy double or twin $135.
+### Private alt (location first, since 27 Nov): Mi Casa Su Casa
+- Economy double in a guesthouse · Booking location **9.4** (243 reviews, 3 % below 7) · **$135 for 2 nights** ✅ 27 Nov (room table) · [Booking.com](https://www.booking.com/hotel/cr/mi-casa-su-casa-monteverde.html?checkin=2027-02-17&checkout=2027-02-19&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · 1.2 km north-east of the bus stop (🚶 21 min, taxi ≈ 4 min).
+- ~~**Casa Geranios #2**~~ (whole 1-bedroom apartment with kitchen, location 9.6, $125): **sold out for 17 → 19 Feb** ✅ 27 Nov (still $126 for 24 → 26 Feb).
 - **Cheaper on Hostelworld:** Pension Santa Elena double, shared bath, $60.90 (centre, but 14.8 % < 7).
 
 ## 🌳 Things to do (free and outdoors first)
@@ -143,7 +144,7 @@ All live-checked on 24 Nov.
 - **Cold, windy nights** (~15 °C) in February; bring a fleece.
 - **Book the jeep-boat-jeep** (next leg) the day you arrive.
 
-## 🚐 Leaving: jeep-boat-jeep to La Fortuna, Mon 15 Feb
+## 🚐 Leaving: jeep-boat-jeep to La Fortuna, Fri 19 Feb
 
 - Hotel pickup in Santa Elena → jeep to Lake Arenal → boat across → jeep to La Fortuna, ~3½–4 h. **Green Road shared 08:00, $45.**
 - Prices, the 14:00 departure and the cheaper hostel deals are in the [La Fortuna guide](la-fortuna.md).

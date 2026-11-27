@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Potosí](potosi.md) · [La Paz](la-paz.md) →
 
-> **Stop 19 · Fri 22 → Mon 25 Jan 2027 (days 46–49) · 3 nights · arrive on the 22 Jan holiday**<br>
+> **Stop 19 · Mon 25 → Thu 28 Jan 2027 (days 49–52) · 3 nights**<br>
 > 🏞️ The white colonial city, the warmest stop of the section, and the base for a 2-day Inca-trail hike into the Maragua crater<br>
 > 🛏️ **Villa Oropeza Hostel**, a bed in a 6-bed mixed dorm with curtains, US$16.95 for 3 nights<br>
-> 🚌 **In:** bus from Potosí, Fri 13:00 or 14:00 · **Out:** ✈ BoA to La Paz, Mon 09:05 (see the [La Paz guide](la-paz.md))
+> 🚌 **In:** bus from Potosí, Mon 13:00 or 14:00 · **Out:** ✈ BoA to La Paz, Thu 09:05 (see the [La Paz guide](la-paz.md))
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20170805_Bolivia_1128%2B31_Pano_crop_Sucre_sRGB_%2837926300676%29.jpg/1280px-20170805_Bolivia_1128%2B31_Pano_crop_Sucre_sRGB_%2837926300676%29.jpg" alt="Sucre's red rooftops spread below the hills, seen from above the centre" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 ![Map of Sucre: the beds, the bus terminal, the trufi stop for Chataquila, the plaza, the Recoleta, Churuquella, the market and Brewcraft](img/sucre-map-00b4bc6d.jpg)
 
-**In town:** ★ **[Villa Oropeza Hostel](https://www.google.com/maps?ftid=0x93fbcf4a055700cf:0x29b6aa704df67dc4)** (the pick, [book](https://www.agoda.com/partners/partnersearch.aspx?hid=1114745&checkin=2027-01-22&checkout=2027-01-25&NumberofAdults=1&Rooms=1)) · **1** [Holis](https://www.google.com/maps?ftid=0x93fbcf15d2e851bd:0x8997dd622a82b885) (backup, [book](https://www.hostelworld.com/hostels/p/330736/holis/?from=2027-01-22&to=2027-01-25&guests=1)) · **2** [Los Balcones](https://www.google.com/maps?ftid=0x93fbcff17e3c212f:0x2f84f68e0188d1c0) (private alt, [book](https://www.booking.com/hotel/bo/los-balcones.html?checkin=2027-01-22&checkout=2027-01-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [bus terminal](https://www.google.com/maps?ftid=0x93fbcf2cd33087db:0x737fd9bca6262b76) (Av. Ostria Gutiérrez) · **T** trufis to Chataquila (Calle Tomás Frías, near [Plaza San Juanillo](https://www.google.com/maps?ftid=0x93fbc8cf344c6489:0x6a1a059edb4fca06)) · **3** [Plaza 25 de Mayo](https://www.google.com/maps?ftid=0x93fbcf36656fb06b:0x5e4f23584d3c808f) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0482651,-65.2600836&travelmode=walking) · **4** [Mirador de la Recoleta](https://www.google.com/maps?ftid=0x93fbcf3a4b73bf57:0xc81656ad53e4deaf) [🚶 22 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0543297,-65.2542511&travelmode=walking) · **5** [Cerro Churuquella](https://www.google.com/maps?ftid=0x93fbcf19b5642f45:0x3e8a7e08508301fa) [🚕 ≈ 13 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.066122,-65.2486047&travelmode=driving) · **6** [Mercado Central](https://www.google.com/maps?ftid=0x93fbcf35b496e193:0x760cd620ffd463c2) [🚶 7 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0450131,-65.2592749&travelmode=walking) · **7** [Brewcraft](https://www.google.com/maps?ftid=0x93fbcf08008594e5:0xb6f47aff8c42c48d) [🚶 15 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0531559,-65.2593121&travelmode=walking)
+**In town:** ★ **[Villa Oropeza Hostel](https://www.google.com/maps?ftid=0x93fbcf4a055700cf:0x29b6aa704df67dc4)** (the pick, [book](https://www.agoda.com/partners/partnersearch.aspx?hid=1114745&checkin=2027-01-25&checkout=2027-01-28&NumberofAdults=1&Rooms=1)) · **1** [Holis](https://www.google.com/maps?ftid=0x93fbcf15d2e851bd:0x8997dd622a82b885) (backup, [book](https://www.hostelworld.com/hostels/p/330736/holis/?from=2027-01-25&to=2027-01-28&guests=1)) · **2** [Los Balcones](https://www.google.com/maps?ftid=0x93fbcff17e3c212f:0x2f84f68e0188d1c0) (private alt, [book](https://www.booking.com/hotel/bo/los-balcones.html?checkin=2027-01-25&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [bus terminal](https://www.google.com/maps?ftid=0x93fbcf2cd33087db:0x737fd9bca6262b76) (Av. Ostria Gutiérrez) · **T** trufis to Chataquila (Calle Tomás Frías, near [Plaza San Juanillo](https://www.google.com/maps?ftid=0x93fbc8cf344c6489:0x6a1a059edb4fca06)) · **3** [Plaza 25 de Mayo](https://www.google.com/maps?ftid=0x93fbcf36656fb06b:0x5e4f23584d3c808f) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0482651,-65.2600836&travelmode=walking) · **4** [Mirador de la Recoleta](https://www.google.com/maps?ftid=0x93fbcf3a4b73bf57:0xc81656ad53e4deaf) [🚶 22 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0543297,-65.2542511&travelmode=walking) · **5** [Cerro Churuquella](https://www.google.com/maps?ftid=0x93fbcf19b5642f45:0x3e8a7e08508301fa) [🚕 ≈ 13 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.066122,-65.2486047&travelmode=driving) · **6** [Mercado Central](https://www.google.com/maps?ftid=0x93fbcf35b496e193:0x760cd620ffd463c2) [🚶 7 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0450131,-65.2592749&travelmode=walking) · **7** [Brewcraft](https://www.google.com/maps?ftid=0x93fbcf08008594e5:0xb6f47aff8c42c48d) [🚶 15 min](https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0531559,-65.2593121&travelmode=walking)
 
 ![Map of the area: Sucre, Parque Cretácico, Siete Cascadas and the Chataquila–Maragua–Potolo trek (terrain)](img/sucre-area-map-b3ad2d6a.jpg)
 
@@ -29,34 +29,34 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Fri 22 Jan · 🇧🇴 Día del Estado Plurinacional (holiday) | 🚌 Potosí **13:00 or 14:00** → Sucre ≈ 17:00–18:00. Micro or taxi to the hostel (≈ Bs 10–15). 🌇 The **Recoleta** viewpoint at sunset if there's light. |
-| **Day 2** · Sat 23 Jan | 🥾 **Maragua, day 1:** trufi to **Chataquila** (≈ 1.5 h), the Inca trail 6.5 km down to **Chaunaca**, then 10 km up the Río Ravelo canyon into the **crater**. Sleep in Maragua (Nativus Hostel, Bs 50 with dinner and breakfast). |
-| **Day 3** · Sun 24 Jan · Alasitas fair opens (La Paz) | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00 on weekdays; ⚠️ **Sunday service not confirmed**: ask in Maragua the evening before, fallback a shared camioneta or taxi). Full moon on 22–23 Jan. |
-| **Day 4** · Mon 25 Jan | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
+| **Day 1** · Mon 25 Jan | 🚌 Potosí **14:00** (after the Cerro Rico mine tour; 13:00 without it) → Sucre ≈ 17:00–18:00. Micro or taxi to the hostel (≈ Bs 10–15). 🌇 The **Recoleta** viewpoint at sunset if there's light. |
+| **Day 2** · Tue 26 Jan | 🥾 **Maragua, day 1:** trufi to **Chataquila** (≈ 1.5 h), the Inca trail 6.5 km down to **Chaunaca**, then 10 km up the Río Ravelo canyon into the **crater**. Sleep in Maragua (Nativus Hostel, Bs 50 with dinner and breakfast). |
+| **Day 3** · Wed 27 Jan | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00 on weekdays, and this is a Wednesday; ⚠️ it leaves when full, so reach Potolo by ≈ 13:00; ask in Maragua the evening before, fallback a shared camioneta or taxi). Waning moon (full on 22 Jan). |
+| **Day 4** · Thu 28 Jan | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
 
-Not hiking? Swap Sat–Sun for **Siete Cascadas**, **Parque Cretácico**, the **Mercado Central** and **Cerro Churuquella**, plus LP's town picks (Mercado Campesino, the Casa de la Libertad on Saturday, the ASUR textile museum).
+Not hiking? Swap Tue–Wed for **Siete Cascadas**, **Parque Cretácico**, the **Mercado Central** and **Cerro Churuquella**, plus LP's town picks (Mercado Campesino, the Casa de la Libertad, the ASUR textile museum; all open on weekdays).
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Beds** (22 → 25 Jan, 3 nights)
+**Beds** (25 → 28 Jan, 3 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Villa Oropeza Hostel** · bed in a 6-bed mixed dorm, curtains on most beds | **US$16.95** | 9.8 | 🚕 ≈ 12 min (walk 31 min, 2.2 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.039653899999998,-65.2466877&destination=-19.0466826,-65.26266749999999&travelmode=driving) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1114745&checkin=2027-01-22&checkout=2027-01-25&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/101313/villa-oropeza-hostel/?from=2027-01-22&to=2027-01-25&guests=1) |
-| Backup | **Holis** · 12-bed ensuite dorm | US$18.24 | 9.6 | 🚕 ≈ 13 min (walk 34 min, 2.5 km); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.039653899999998,-65.2466877&destination=-19.048383899999997,-65.264147&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/330736/holis/?from=2027-01-22&to=2027-01-25&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=69299472&checkin=2027-01-22&checkout=2027-01-25&NumberofAdults=1&Rooms=1) |
-| Private alt | **Los Balcones** · budget twin room | US$50 | 9.9 | 🚕 ≈ 13 min (walk 36 min, 2.6 km); centre 9 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.039653899999998,-65.2466877&destination=-19.0524884,-65.2626841&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/los-balcones.html?checkin=2027-01-22&checkout=2027-01-25&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/338257/los-balcones-de-moral-y-santa-catalina/?from=2027-01-22&to=2027-01-25&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=78760415&checkin=2027-01-22&checkout=2027-01-25&NumberofAdults=1&Rooms=1) |
+| ⭐ **Pick** | **Villa Oropeza Hostel** · bed in a 6-bed mixed dorm, curtains on most beds | **US$16.95** | 9.8 | 🚕 ≈ 12 min (walk 31 min, 2.2 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.039653899999998,-65.2466877&destination=-19.0466826,-65.26266749999999&travelmode=driving) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1114745&checkin=2027-01-25&checkout=2027-01-28&NumberofAdults=1&Rooms=1) · [Hostelworld](https://www.hostelworld.com/hostels/p/101313/villa-oropeza-hostel/?from=2027-01-25&to=2027-01-28&guests=1) |
+| Backup | **Holis** · 12-bed ensuite dorm | US$18.24 | 9.6 | 🚕 ≈ 13 min (walk 34 min, 2.5 km); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.039653899999998,-65.2466877&destination=-19.048383899999997,-65.264147&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/330736/holis/?from=2027-01-25&to=2027-01-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=69299472&checkin=2027-01-25&checkout=2027-01-28&NumberofAdults=1&Rooms=1) |
+| Private alt | **Los Balcones** · budget twin room | US$50 | 9.9 | 🚕 ≈ 13 min (walk 36 min, 2.6 km); centre 9 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-19.039653899999998,-65.2466877&destination=-19.0524884,-65.2626841&travelmode=driving) | [Booking](https://www.booking.com/hotel/bo/los-balcones.html?checkin=2027-01-25&checkout=2027-01-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/338257/los-balcones-de-moral-y-santa-catalina/?from=2027-01-25&to=2027-01-28&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=78760415&checkin=2027-01-25&checkout=2027-01-28&NumberofAdults=1&Rooms=1) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ In | Bus **Potosí → Sucre**, ≈ 3–4 h | **Fri 22 Jan 13:00** (Transtin Dil Rey) or **14:00** (Trans Emperador) | US$8 / US$7 | Potosí's Nueva Terminal (listed on Tickets Bolivia) |
-| Hike | Trufi **Sucre → Chataquila**, ≈ 1.5 h | Fri 22 Jan, morning | ≈ Bs 15 | Calle Tomás Frías, near Plaza San Juanillo |
-| Hike | **Nativus Hostel**, Maragua | Fri 22 Jan night | Bs 50 with dinner and breakfast | WhatsApp, no booking needed |
-| Hike | Minibus **Potolo → Sucre**, 2–2.5 h | Sun 24 Jan, hourly until ≈ 16:00 (⚠️ Sunday service unconfirmed) | Bs 30 | on the spot |
-| Out | ✈ **BoA** Sucre → La Paz via Cochabamba | **Mon 25 Jan 09:05 → 11:25** | $49 | see the [La Paz guide](la-paz.md) |
+| ⚠️ In | Bus **Potosí → Sucre**, ≈ 3–4 h | **Mon 25 Jan 14:00** (Trans Emperador), after the mine tour; or **13:00** (Transtin Dil Rey) | US$8 / US$7 | Potosí's Nueva Terminal (listed on Tickets Bolivia) |
+| Hike | Trufi **Sucre → Chataquila**, ≈ 1.5 h | Tue 26 Jan, morning | ≈ Bs 25 | Calle Tomás Frías, near Plaza San Juanillo |
+| Hike | **Nativus Hostel**, Maragua | Tue 26 Jan night | Bs 50 with dinner and breakfast | WhatsApp, no booking needed |
+| Hike | Minibus **Potolo → Sucre**, 2–2.5 h | Wed 27 Jan, ≈ hourly until ≈ 16:00, ⚠️ when full | Bs 30 | on the spot |
+| Out | ✈ **BoA** Sucre → La Paz via Cochabamba | **Thu 28 Jan 09:05 → 11:25** | $49 | see the [La Paz guide](la-paz.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -67,11 +67,11 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 </details>
 
-## 🚌 Getting here: Potosí → Sucre, Fri 22 Jan
+## 🚌 Getting here: Potosí → Sucre, Mon 25 Jan
 
 - **Bus, ≈ 3–4 h**, from Potosí's Nueva Terminal to Sucre's terminal (Av. Ostria Gutiérrez).
 - Tickets Bolivia lists **13 daily departures, 06:00–19:00**: Trans Emperador 10:00, 12:30, 14:00 (US$7) and Transtin Dil Rey 09:45, 13:00 (US$8), all regular buses.
-- After a morning mine tour, take the **13:00 or 14:00** to arrive ≈ 17:00–18:00.
+- After the Monday-morning mine tour in Potosí, take the **14:00** to arrive ≈ 17:00–18:00.
 - Shared taxis are faster (≈ 2.5 h, ≈ Bs 50–70, ≈ unverified). LP gives ≈ B$50 and 2¼ h, with a hostel pickup (LP); companies are in the [Potosí guide](potosi.md).
 - From the Sucre terminal it's 1.8 km to the plaza: micro or taxi ≈ Bs 10–15 (≈). LP calls it a 3-km uphill walk and gives **micros A or 3** along Ravelo, B$1.50; with a big bag a taxi is easier (LP).
 - The terminal has **no ATM** and charges a small terminal tax (B$2.50 in LP) (LP).
@@ -83,7 +83,7 @@ Live-checked 24 Nov.
 
 ### ⭐ Pick: Villa Oropeza Hostel
 - **Unit:** a bed in a 6-bed mixed dorm (8-bed also free).
-- **Price:** **US$16.95 for 3 nights on Agoda** (signed-in) ≈ Booking US$17 (pay at the property, free cancellation to 21 Jan 18:00) ≈ Hostelworld US$17.46 (8-bed US$16.92) + Hostelworld's fee.
+- **Price:** **US$16.95 for 3 nights on Agoda** (signed-in) ≈ Booking US$17 (pay at the property) ≈ Hostelworld US$17.46 (8-bed US$16.92) + Hostelworld's fee.
 - **Reviews:** Hostelworld 9.6 (1,179; 0% below 70 in the last 12 months); Booking 356 reviews, **2.8% below 7**, location 9.8.
 - **Where:** 0.3 km from Plaza 25 de Mayo.
 - **Checks:**
@@ -125,13 +125,14 @@ Live-checked 24 Nov.
 </tr>
 </table>
 
-**Maragua crater via the Chataquila Inca trail, unguided, 2 days (hike backlog), Sat 23 → Sun 24 Jan.** Logistics from una-noche-mas.com, updated Feb 2026:
-- **Getting out:** trufi from Calle Tomás Frías near Plaza San Juanillo to **Chataquila**, ≈ 1.5 h, ≈ Bs 15.
+**Maragua crater via the Chataquila Inca trail, unguided, 2 days (hike backlog), Tue 26 → Wed 27 Jan.** Logistics from una-noche-mas.com, updated Feb 2026:
+- **Getting out:** trufi from Calle Tomás Frías near Plaza San Juanillo to **Chataquila**, ≈ 1.5 h, ≈ Bs 25 for foreigners (hikers' updates on the same page, Feb–Mar 2026; it was Bs 15).
 - **Day 1:** pre-Hispanic paved trail **6.5 km, −800 m** down to Chaunaca (community fee **Bs 25**), then 10 km up the Río Ravelo canyon into the crater. Sleep in Maragua: Nativus Hostel **Bs 50 with dinner and breakfast** (WhatsApp, no booking needed), or Samary Wasi.
 - **Day 2:** 16.5 km over the crater wall, past the **Niñu Mayu dinosaur tracks (Bs 20)**, to **Potolo**. Minibus back to Sucre hourly until ≈ 16:00, **Bs 30**, 2–2.5 h.
+  - ⚠️ **It leaves when full**, and no source gives different weekday times. A hiker who reached Potolo at 12:10 got a 13:00 colectivo (Nov 2025); one who arrived at 14:00 was told at 18:30 that the bus wouldn't fill, and her group paid for the empty seats (Bs 100 each; Sep 2026, comments on una-noche-mas.com). Start early from Maragua and aim for Potolo by ≈ 13:00.
 - **Totals:** 33 km, top ≈ 3,650 m, ≈ Bs 140 ≈ US$12 plus food and water.
 - **In January:** it's the rainy season (148 mm), so start early and expect afternoon storms. River crossings below Chaunaca and Maragua rise after rain; don't ford a brown, fast river. Download Mapy.cz/Maps.me offline. Spanish helps.
-- **The bed:** keep the Villa Oropeza bed for 22 Jan with the big bag in it (US$5.64), or book 21→22 and 23→24 only.
+- **The bed:** keep the Villa Oropeza bed for 26 Jan with the big bag in it (US$5.64), or book 25→26 and 27→28 only.
 - **Guided option:** Sucre agencies such as Condor Trekkers sell 1–2-day Maragua trips with transport (price not verified; ask in town).
   - ⚠️ **LP strongly advises a guide** in the Cordillera de los Frailes: the villages speak Quechua, and a good guide smooths relations with the Jal'qa communities and helps avoid local hostility. LP's prices were ≈ B$650 for 3 days and B$800 for 4 per person, and it rates Condor Trekkers (Calvo and Bolívar; part of its earnings go to social projects) highly; add your name to its whiteboard to share the cost (LP).
   - Our 2026 sources walk it unguided without trouble, so it's a judgement call. If you go alone, pay every community fee, ask before taking photos, and ask at Condor Trekkers about the current mood on the trail.
@@ -143,13 +144,13 @@ Live-checked 24 Nov.
 - **Free in town:** the Recoleta viewpoint plaza (arcaded mirador over the white city) at sunset, and a walk up Cerro Churuquella behind it. The Mercado Central is for eating.
 - **Parque Cretácico (paid, optional):** the Cal Orck'o wall with thousands of dinosaur tracks, **Bs 30** for foreigners (Parque Cretácico's Facebook, 2026). If you do Maragua you see tracks at Niñu Mayu anyway; the wall is bigger.
 
-**If you don't hike (or on Sat 23 if you return early), from LP's picks:**
+**If you don't hike (or on Wed 27 if you get back early), from LP's picks:**
 - **Mercado Campesino (free):** a huge maze of a local market (food, housewares, everything), 06:00–19:00; micro 7 or G northbound from the centre (LP).
 - **Cementerio Municipal (free):** colonial families' mausoleums among clipped poplar arches and palms, 8 blocks south of the plaza along Junín. Mon–Fri 08:00–11:30 and 14:00–17:30, Sat 08:00–17:30 (LP).
 - **The best view in town:** ask the police office inside the Prefectura de Chuquisaca (next to the cathedral) about climbing its cupola; independence murals line the stairs (LP).
-- **Casa de la Libertad** (Plaza 25 de Mayo 11), where Bolivia's independence was signed in 1825. ✅ casadelalibertad.org.bo (26 Nov 2026): **Bs 50** for foreigners, guided visits every hour, Mon–Fri 08:30–16:30, Sat–Sun 09:00–13:00, **closed on public holidays** (so shut on Fri 22 Jan). LP's figure was B$15.
+- **Casa de la Libertad** (Plaza 25 de Mayo 11), where Bolivia's independence was signed in 1825. ✅ casadelalibertad.org.bo (26 Nov 2026): **Bs 50** for foreigners, guided visits every hour, Mon–Fri 08:30–16:30, Sat–Sun 09:00–13:00, **closed on public holidays** (none falls in this stay). LP's figure was B$15.
 - **Museo de Arte Indígena (ASUR)** (Pasaje Iturricha 314, near the Recoleta): Jal'qa and Tarabuco weaving, with weavers at work; the Jal'qa are the Maragua communities, so it's good context for the hike. ≈ B$22, Mon–Fri 09:00–12:30 and 14:30–18:00, Sat 09:00–12:00 and 14:30–18:00 (LP).
-- **Doesn't fit:** Tarabuco's Sunday textile market (micros 06:30–09:30 from Av. de las Américas and Mendoza, B$10, 1½ h; LP) clashes with Maragua day 2 on Sunday.
+- **Doesn't fit:** Tarabuco's Sunday textile market (micros 06:30–09:30 from Av. de las Américas and Mendoza, B$10, 1½ h; LP): this stay is Mon–Thu, with no Sunday.
 
 ## 🍽️ Eat and drink
 
@@ -159,7 +160,7 @@ Live-checked 24 Nov.
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChorizoChuquisaque%C3%B1o.jpg/500px-ChorizoChuquisaque%C3%B1o.jpg" width="100%" alt="Chorizo chuquisaqueño with bread and salad"><br><b>Chorizo chuquisaqueño</b> · Bs 15–25<br>The city's sausage plate; at the market, stall 7 Lunares. Generic photo (Wikimedia Commons).</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TldtpRBfusdFmMONepVoDHhiYGETDuK9yvlMZXGFX5jVKGEFF0zEbyz8GSJUDCdQCl_Gu37eDKJGAFIH-8Knj5x0iwEAJ0zhU4wuOHYqZdA683YeDAq6boq3P_IoW3lDROnHgmQ6tf9Owp=w640-h400-p-k-no" width="100%" alt="A row of craft beers in front of the taps at Brewcraft"><br><b><a href="https://www.google.com/maps?ftid=0x93fbcf08008594e5:0xb6f47aff8c42c48d">Brewcraft</a></b> · 2-for-1 pints on Friday evenings (≈) · <a href="https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0531559,-65.2593121&travelmode=walking">🚶 15 min</a><br>Five house beers, 11 min from Plaza 25 de Mayo.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TldtpRBfusdFmMONepVoDHhiYGETDuK9yvlMZXGFX5jVKGEFF0zEbyz8GSJUDCdQCl_Gu37eDKJGAFIH-8Knj5x0iwEAJ0zhU4wuOHYqZdA683YeDAq6boq3P_IoW3lDROnHgmQ6tf9Owp=w640-h400-p-k-no" width="100%" alt="A row of craft beers in front of the taps at Brewcraft"><br><b><a href="https://www.google.com/maps?ftid=0x93fbcf08008594e5:0xb6f47aff8c42c48d">Brewcraft</a></b> · 2-for-1 pints on Friday evenings (≈; no Friday in this stay) · <a href="https://www.google.com/maps/dir/?api=1&origin=-19.0466826,-65.2626675&destination=-19.0531559,-65.2593121&travelmode=walking">🚶 15 min</a><br>Five house beers, 11 min from Plaza 25 de Mayo.</td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
@@ -172,20 +173,20 @@ Live-checked 24 Nov.
   - **El Paso de los Abuelos** (Bustillos 216): salteñas ≈ B$8, 08:00–13:00; they sell out, so go early (LP).
   - **Prem** (San Alberto 54): a tiny vegan place with a set lunch, ≈ B$25 in LP (LP).
   - **Café Gourmet Mirador** at the Recoleta viewpoint: deck chairs over the rooftops, a coffee with the sunset view (LP).
-  - **Goblin Brew Pub** (Grau 246): family-run with its own craft beers, Thu–Sat from 20:00, so Thu 21 or Sat 23 (LP).
+  - **Goblin Brew Pub** (Grau 246): family-run with its own craft beers, Thu–Sat from 20:00, so it doesn't fit: your evenings are Mon–Wed (LP).
 
 ## ℹ️ Good to know
-- **Fri 22 Jan** is the Día del Estado Plurinacional (a national holiday; LP lists it on 22 Jan): banks, offices and some museums close (the Casa de la Libertad does), buses run.
+- **The 22 Jan holiday** (Día del Estado Plurinacional) now falls on the Uyuni tour, before you arrive, so nothing is shut for it during this stay.
 - **Safety:** LP calls Sucre one of Bolivia's safest towns; the tourist police are at Plazuela Zudáñez (Dalence 1) (LP).
-- **Laundry:** ≈ B$9–12 per kg, but most need half a day or more and nearly all close on Sundays (LP), so post-hike laundry won't be back before the Monday 09:05 flight: wash at the hostel.
+- **Laundry:** ≈ B$9–12 per kg, but most need half a day or more and nearly all close on Sundays (LP), so laundry dropped after the hike on Wed afternoon won't be back before the Thursday 09:05 flight: wash at the hostel.
 - **Weather:** Sucre is the warmest stop of the section (21 °C days). January is the rainy season (148 mm): afternoon storms.
 - **Cash:** ATMs work in Sucre: top up here before La Paz.
-- **Moon:** full moon on 22–23 Jan in Maragua.
+- **Moon:** full on 22 Jan; on the Maragua night (26 Jan) it's waning and rises late in the evening (≈).
 - ⚠ **Blockades:** the Potosí → Sucre road was blockaded by the Chuquisaca drivers in Nov 2026.
 
-## ✈ Leaving: Sucre → La Paz, Mon 25 Jan
+## ✈ Leaving: Sucre → La Paz, Thu 28 Jan
 
-- **BoA 09:05** Sucre → Cochabamba → La Paz (El Alto) **11:25**, $56.
+- **BoA 09:05** Sucre → Cochabamba → La Paz (El Alto) **11:25**, **$49** (✅ Google Flights, 27 Nov; no nonstop that day).
 - Flight options, the EcoJet check and the overnight-bus alternative are in the [La Paz guide](la-paz.md).
 - **To Alcantarí airport** (30 km south): LP gives a taxi at ≈ B$50 (40 min at night, longer by day), a shared taxi (2+ people) for ≈ B$60 from Plaza Tréveris, or a micro for ≈ B$8 from near Plaza Camargo that leaves when full. The airport has an ATM but no exchange desk (LP).
 

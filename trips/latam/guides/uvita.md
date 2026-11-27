@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) · [Monteverde](monteverde.md) →
 
-> **Stop 28 · Thu 11 → Sat 13 Feb 2027 · 2 nights**<br>
+> **Stop 28 · Mon 15 → Wed 17 Feb 2027 · 2 nights**<br>
 > 🏞️ Pacific beach town by the "whale's tail" sandbar of Marino Ballena, with jungle waterfalls in the hills behind<br>
 > 🛏️ **Hostel Cascada Verde**, 8-bed mixed dorm, $23 for 2 nights<br>
-> 🚌 **In:** from San Gerardo via San Isidro (Grupo Blanco), Thu · **Out:** 05:15 Grupo Blanco to Quepos, on to Monteverde, Sat
+> 🚌 **In:** from San Gerardo via San Isidro (Grupo Blanco), Mon · **Out:** 05:15 Grupo Blanco to Quepos, on to Monteverde, Wed
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPhc6dPtbF1hQ-RhbFIUbjAOMmiai-gI2vAfLKuxJGJtKC0IpkDKuEFIZ_ph_qpf8k-iUnmtpTphOZ19KzvkTsIXD7N1e8dw_is7_1oAN-cVJjEtcoK615_uQNY5DUdzGobyfS_sgA1Cwz=w1200-h360-p-k-no" alt="Aerial view of the Punta Uvita sandbar, the whale's tail of Marino Ballena" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Uvita: the beds, the Costanera bus stop, Catarata Uvita and Marino Ballena Restaurant](img/uvita-map-527b21d7.jpg)
 
-**In town:** ★ **[Hostel Cascada Verde](https://www.google.com/maps?ftid=0x8fa157a7e939cd1b:0x9895ba13d25b3c6a)** (the pick, [book](https://www.booking.com/hotel/cr/cascada-verde-hostel-at-the-waterfall.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Costanera bus stop](https://www.google.com/maps?ftid=0x8fa157a2fcb7238d:0xc22aabc298db8921) · **1** [Shipwrecked Hostel](https://www.google.com/maps?ftid=0x8fa157c51f6107a5:0xb9534db3d7b3dcce) (backup, [book](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hotel Sueños de María](https://www.google.com/maps?ftid=0x8fa1579695d26b37:0xf57a56eb6c7ae15f) (private alt, [book](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Catarata Uvita](https://www.google.com/maps?ftid=0x8fa157a63b503e57:0x9762e0d305b5270e) [🚶 6 min](https://www.google.com/maps/dir/?api=1&origin=9.1788926,-83.7315213&destination=9.1786698,-83.7300983&travelmode=walking) · **4** [Marino Ballena Restaurant](https://www.google.com/maps?ftid=0x8fa157bb87aabd3d:0xe9b50a6f098d0315) [🚕 ≈ 6 min](https://www.google.com/maps/dir/?api=1&origin=9.1788926,-83.7315213&destination=9.1652997,-83.7356418&travelmode=driving)
+**In town:** ★ **[Hostel Cascada Verde](https://www.google.com/maps?ftid=0x8fa157a7e939cd1b:0x9895ba13d25b3c6a)** (the pick, [book](https://www.booking.com/hotel/cr/cascada-verde-hostel-at-the-waterfall.html?checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Costanera bus stop](https://www.google.com/maps?ftid=0x8fa157a2fcb7238d:0xc22aabc298db8921) · **1** [Shipwrecked Hostel](https://www.google.com/maps?ftid=0x8fa157c51f6107a5:0xb9534db3d7b3dcce) (backup, [book](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hotel Sueños de María](https://www.google.com/maps?ftid=0x8fa1579695d26b37:0xf57a56eb6c7ae15f) (private alt, [book](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Catarata Uvita](https://www.google.com/maps?ftid=0x8fa157a63b503e57:0x9762e0d305b5270e) [🚶 6 min](https://www.google.com/maps/dir/?api=1&origin=9.1788926,-83.7315213&destination=9.1786698,-83.7300983&travelmode=walking) · **4** [Marino Ballena Restaurant](https://www.google.com/maps?ftid=0x8fa157bb87aabd3d:0xe9b50a6f098d0315) [🚕 ≈ 6 min](https://www.google.com/maps/dir/?api=1&origin=9.1788926,-83.7315213&destination=9.1652997,-83.7356418&travelmode=driving)
 
 ![Map of the area: Uvita, Marino Ballena and the whale's tail on the coast, Nauyaca to the north](img/uvita-area-map-50cb16f4.jpg)
 
@@ -29,29 +29,29 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 11 Feb | 🚕 After the Chirripó descent: taxi San Gerardo → San Isidro (no bus until 16:00) → 🚌 **Grupo Blanco 16:00** → Uvita ~18:00. |
-| **Day 2** · Fri 12 Feb | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). Or 🐋 **Marino Ballena** and the whale's tail at low tide, ≈ **13:05** (± 1 h). **Catarata Uvita** is by the hostel. |
-| **Day 3** · Sat 13 Feb | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
+| **Day 1** · Mon 15 Feb | 🚌 **06:30** Hernández Solís San Gerardo → San Isidro (≈ 07:20) → **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi now). 🐋 Afternoon: **Marino Ballena** and the whale's tail at low tide, ≈ **15:35** (± 1 h; the park closes at 16:00). |
+| **Day 2** · Tue 16 Feb | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). **Catarata Uvita** is by the hostel. Today's low tide (≈ 16:25) comes after the park closes, so the whale's tail is a Day 1 job. |
+| **Day 3** · Wed 17 Feb | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (11 → 13 Feb, 2 nights)
+**Beds** (15 → 17 Feb, 2 nights)
 
 | | Where | Total | Location | From the Costanera bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Hostel Cascada Verde** · basic 8-bed mixed dorm | **$23** | 9.0 | 🚕 ≈ 5 min (walk 27 min, 1.7 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1788926,-83.7315213&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/cascada-verde-hostel-at-the-waterfall.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-11&to=2027-02-13&guests=1) |
-| Backup | **Shipwrecked Hostel** · 8-bed mixed dorm in "cabins" | $50 | ⚠️ 8.8 | 🚶 13 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1641613,-83.7361981&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-11&to=2027-02-13&guests=1) |
-| Private alt | **Hotel Sueños de María** · double with pool view | $80 | 9.6 | 🚶 13 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1666557,-83.7407691&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Hostel Cascada Verde** · basic 8-bed mixed dorm | **$23** | 9.0 | 🚕 ≈ 5 min (walk 27 min, 1.7 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1788926,-83.7315213&travelmode=driving) | [Booking](https://www.booking.com/hotel/cr/cascada-verde-hostel-at-the-waterfall.html?checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/271637/hostel-cascada-verde/?from=2027-02-15&to=2027-02-17&guests=1) |
+| Backup | **Shipwrecked Hostel** · 8-bed mixed dorm in "cabins" | $50 | ⚠️ 8.8 | 🚶 13 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1641613,-83.7361981&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Shipwrecked+Hostel+&checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/317296/shipwrecked-hostel/?from=2027-02-15&to=2027-02-17&guests=1) |
+| Private alt | **Hotel Sueños de María** · ground-floor apartment (the $80 double is gone) | $125 ✅ 27 Nov | 9.6 | 🚶 13 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.1711447,-83.7387852&destination=9.1666557,-83.7407691&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/cabinas-suenos-de-maria.html?checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚕 Taxi · San Gerardo → San Isidro | **Thu 11 Feb** ≈ 12:30 → ≈ 13:05 (Hernández Solís buses leave San Gerardo only at 06:30, 11:00, 16:00) | ≈ ₡15,000–20,000 ($34–45) | ask the San Gerardo hostel |
-| In | **Grupo Blanco** · San Isidro → Uvita, direct | **16:00** → ~18:00 (or 09:00 → ~11:00) | ≈ ₡2,500 ($5.60) | cash on board |
-| Out | **Grupo Blanco** · Uvita → Quepos | **Sat 13 Feb 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | the full leg is in the [Monteverde guide](monteverde.md) |
+| In | **Hernández Solís** · San Gerardo → San Isidro | **Mon 15 Feb 06:30** → ≈ 07:20 (Mon–Sat; also 11:00, 16:00) | ≈ ₡1,000 ($2.25) | cash on board |
+| In | **Grupo Blanco** · San Isidro → Uvita, direct | **09:00** → ≈ 11:00 (or 16:00 → ~18:00) | ≈ ₡2,500 ($5.60) | cash on board |
+| Out | **Grupo Blanco** · Uvita → Quepos | **Wed 17 Feb 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | the full leg is in the [Monteverde guide](monteverde.md) |
 | Tides | Uvita tide table (the whale's tail needs low tide) | check a week before | free | [tablademareas.com](https://tablademareas.com/cr/costa-oceano-pacifico/uvita) |
 
 <details><summary>How to read these tables</summary>
@@ -62,13 +62,13 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: San Gerardo → San Isidro → Uvita, Thu 11 Feb
+## 🚌 Getting here: San Gerardo → San Isidro → Uvita, Mon 15 Feb
 
-- **San Gerardo → San Isidro:** Hernández Solís buses leave San Gerardo at **06:30, 11:00 and 16:00** (Mon–Sat; ✅ hernandezsolis.com (read 26 Nov)), ≈ 40–50 min. After a noon Chirripó descent none fits, so take a **taxi** (≈ 35 min, ≈ ₡15,000–20,000 / $34–45).
-- **Grupo Blanco direct San Isidro → Uvita, 09:00 or 16:00** (~2 h, ≈ ₡2,500 / $5.60) → Uvita ~11:00 (~18:00).
+- **San Gerardo → San Isidro:** Hernández Solís **06:30** (also 11:00 and 16:00; Mon–Sat ✅ hernandezsolis.com, read 27 Nov) → San Isidro ≈ 07:20 (40–50 min, ≈ ₡1,000). San Gerardo got an extra night on 27 Nov, so you leave the morning after the descent and no taxi is needed.
+- **Grupo Blanco direct San Isidro → Uvita, 09:00** (or 16:00; ~2 h, ≈ ₡2,500 / $5.60) → Uvita ≈ 11:00. It leaves from the Grupo Blanco terminal on Calle 5, 2 min on foot from Tracopa.
 - **Or:** San Isidro → Dominical (05:00, 09:00, 13:30, 15:30) and the frequent Dominical → Uvita local bus (20 min).
 - **Sources:** ≈ perezzeledon.com bus page (updated 18 Nov 2026) + uvita.info. Pay cash on board.
-- **Total ≈ $8**, 3–4 h.
+- **Total ≈ $8**, ≈ 4½ h (06:30 → 11:00).
 
 ## 🛏️ Where to sleep
 
@@ -90,8 +90,8 @@ All live-checked on 24 Nov.
 - **Other options:** Tucan Hotel (9.7/135, pods, but **pool + bar**, no kitchen, $64 + tax); Karandi (8.1, 16-bed).
 
 ### Private alt (location first): Hotel Sueños de María
-- Double room with pool view · Booking location **9.6** (score 9.2, 65 reviews, 3 % bad) · **$80 for 2 nights** (room table) · Booking.com · 0.5 km from the centre (pool).
-- **Cheaper with a kitchen:** Apartamentos Equipados DMR #3, studio with kitchen, location 9.2 (123 reviews, 0 % bad), $104.
+- Ground-floor apartment · Booking location **9.6** (score 9.2, 65 reviews, 3 % bad) · **$125 for 2 nights** ✅ 27 Nov (room table; the $80 double is gone, +56 %) · Booking.com · 0.5 km from the centre (pool).
+- **Cheaper with a kitchen:** Apartamentos Equipados DMR #3, studio with kitchen, location 9.2 (123 reviews, 0 % bad), **$105** ✅ 27 Nov, now $20 less than Sueños de María ([Booking](https://www.booking.com/hotel/cr/apartamentos-equipados-dmr-3.html?checkin=2027-02-15&checkout=2027-02-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)).
 - **Hostelworld's cheapest private:** Cascada Verde double, shared bath, $84.
 
 ## 🌳 Things to do (free and outdoors first)
@@ -115,8 +115,8 @@ All live-checked on 24 Nov.
 - **Parque Nacional Marino Ballena:** **$6 + 13 % IVA (≈ $6.78)**, daily 07:00–16:00 ✅ sinac.go.cr park page (entrances Uvita, Colonia, Ballena, Piñuela). Walk the **Punta Uvita "whale's tail" tombolo only at low tide**: it is sand and rock exposed by the tide (tides below).
 - **Tides for the whale's tail (≈, not a published table):**
   - No free tide table for Feb 2027 loaded from here. Estimate from tablademareas.com's Uvita reading (full moon 24 Nov 2026: low tides 07:55 and 20:05) shifted by moon age.
-  - Low tide ≈ **12:15 on Thu 11 Feb, 13:05 on Fri 12 Feb, 13:55 on Sat 13 Feb** (± 1 h), i.e. midday, inside park hours.
-  - These are **neap tides** (first quarter is 14 Feb), so the lows are shallower and the tombolo is less exposed than at springs: walk out within an hour of low tide and turn back as it rises.
+  - Low tide ≈ **15:35 on Mon 15 Feb, 16:25 on Tue 16 Feb, 17:15 on Wed 17 Feb** (± 1 h; re-estimated 27 Nov for the new dates). Only **Monday's** falls inside park hours (07:00–16:00), so go out ≈ 14:00–16:00 on arrival day. The morning lows (≈ 03:10–04:55) are before the park opens.
+  - These are **near neap tides** (first quarter is 14 Feb, full moon 20 Feb), so the lows are shallower and the tombolo is less exposed than at springs: walk out within an hour of low tide and turn back as it rises.
   - Check tablademareas.com/cr/costa-oceano-pacifico/uvita a week before.
 - **Catarata Uvita** (Uvita waterfall, natural slide and pool, 15 min walk above town; small community fee ≈ ₡2,000–3,000).
 - **Whales:** humpbacks are off the coast Dec–Mar (LP). Free option: watch from Punta Uvita at low tide; paid boat tours ≈ $80–100 only if no later stop offers whales (none does on this route).
@@ -141,7 +141,7 @@ All live-checked on 24 Nov.
 - **Uvita is spread out** (LP: "not a walkable town"): the beach is ~3 km from the highway.
 - **Buy colones in San Isidro.**
 
-## 🚌 Leaving: Uvita → Quepos → Puntarenas → Monteverde, Sat 13 Feb
+## 🚌 Leaving: Uvita → Quepos → Puntarenas → Monteverde, Wed 17 Feb
 
 - **Uvita 05:15 → Quepos ~07:15** (Grupo Blanco), then Quepos → Puntarenas and the Transmonteverde bus up to Santa Elena; ~11–12 h door to door, ≈ $15.
 - The full timetable and the shuttle alternative are in the [Monteverde guide](monteverde.md).

@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [La Fortuna / Arenal](la-fortuna.md) · [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) →
 
-> **Stop 31 · Thu 18 → Sat 20 Feb 2027 · 2 nights**<br>
+> **Stop 31 · Mon 22 → Wed 24 Feb 2027 · 2 nights**<br>
 > 🏞️ Hot, dry Guanacaste town; the base for the mud pots, fumaroles and waterfalls of Rincón de la Vieja<br>
 > 🛏️ **Hostel Pura Vida en Liberia**, 10-bed mixed dorm, $28 for 2 nights<br>
-> 🚌 **In:** La Fortuna → Tilarán → Cañas → Liberia, Thu · **Out:** bus to the Nicaraguan border, Sat
+> 🚌 **In:** La Fortuna → Tilarán → Cañas → Liberia, Mon · **Out:** bus to the Nicaraguan border, Wed
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tqj1Pap7uwjknMvXUBRXk34BPZkW1XMxEac1YcjgBMmV1vViSKB54mdhoVu7rBq7DXNwdqEOTUVOplkRuvTCxVthcehrpIq8uQh7Kfo-CX-3QHnqKZkqgfqiOpKK2EebU2s0Gqtg=w1200-h360-p-k-no" alt="A mud pool and dry forest in Rincón de la Vieja National Park" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of Liberia: the beds, the bus terminal and the central market](img/rincon-de-la-vieja-map-420c312a.jpg)
 
-**In town:** ★ **[Hostel Pura Vida en Liberia](https://www.google.com/maps?ftid=0x8f757d2cf20af0c7:0x7ca4a2146794c10f)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [main bus terminal](https://www.google.com/maps?ftid=0x8f757d29c113415f:0xa7abf91e18fcc9b3) (Terminal Municipal, where the Cañas bus arrives) · **1** [Hospedaje Dodero](https://www.google.com/maps?ftid=0x8f757cd628fb08bb:0x919f0c2ddd372375) (backup, [book](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hotel Liberia](https://www.google.com/maps?ftid=0x8f757d98dd659bb5:0xadfa68043f08eb6) (private alt, [book](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Mercado Municipal de Liberia](https://www.google.com/maps?ftid=0x8f757d29ee555555:0x9419781315a6eb17) [🚶 3 min](https://www.google.com/maps/dir/?api=1&origin=10.6322397,-85.4441777&destination=10.6308963,-85.4435211&travelmode=walking)
+**In town:** ★ **[Hostel Pura Vida en Liberia](https://www.google.com/maps?ftid=0x8f757d2cf20af0c7:0x7ca4a2146794c10f)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-22&checkout=2027-02-24&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [main bus terminal](https://www.google.com/maps?ftid=0x8f757d29c113415f:0xa7abf91e18fcc9b3) (Terminal Municipal, where the Cañas bus arrives) · **1** [Hospedaje Dodero](https://www.google.com/maps?ftid=0x8f757cd628fb08bb:0x919f0c2ddd372375) (backup, [book](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-22&checkout=2027-02-24&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hotel Liberia](https://www.google.com/maps?ftid=0x8f757d98dd659bb5:0xadfa68043f08eb6) (private alt, [book](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-22&checkout=2027-02-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **3** [Mercado Municipal de Liberia](https://www.google.com/maps?ftid=0x8f757d29ee555555:0x9419781315a6eb17) [🚶 3 min](https://www.google.com/maps/dir/?api=1&origin=10.6322397,-85.4441777&destination=10.6308963,-85.4435211&travelmode=walking)
 
 ![Map of the area: Liberia, Curubandé and the Las Pailas sector of Rincón de la Vieja](img/rincon-de-la-vieja-area-map-195666b4.jpg)
 
@@ -29,29 +29,29 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 18 Feb | 🚌 La Fortuna → Tilarán → Cañas → Liberia (≈ 4½–5½ h). Buy the park ticket online and book a shuttle. |
-| **Day 2** · Fri 19 Feb | 🌋 **Rincón de la Vieja, Sector Las Pailas.** Leave by **07:00** to be at the gate at opening. The **Las Pailas loop**, then the **La Cangreja waterfall** or the Cataratas Escondidas. Carry 3 L of water. |
-| **Day 3** · Sat 20 Feb | 🚌 Bus to the Nicaraguan border; pay the **$8 exit tax online** first. |
+| **Day 1** · Mon 22 Feb | 🚌 La Fortuna → Tilarán → Cañas → Liberia (≈ 4½–5½ h). Buy the park ticket online and book a shuttle. |
+| **Day 2** · Tue 23 Feb | 🌋 **Rincón de la Vieja, Sector Las Pailas.** Leave by **07:00** to be at the gate at opening. The **Las Pailas loop**, then the **La Cangreja waterfall** or the Cataratas Escondidas. Carry 3 L of water. |
+| **Day 3** · Wed 24 Feb | 🚌 Bus to the Nicaraguan border; pay the **$8 exit tax online** first. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (18 → 20 Feb, 2 nights)
+**Beds** (22 → 24 Feb, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Hostel Pura Vida en Liberia** · mixed 10-bed dorm | **$28** | 9.5 | 🚶 3 min (200 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.6322397,-85.4441777&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Backup | **Hospedaje Dodero** · standard 6-bed mixed dorm, ensuite | $30 | 9.1 *(HW)* | 🚶 2 min (180 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.631971,-85.4447684&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-18&to=2027-02-20&guests=1) |
-| Private alt | **Hotel Liberia** · single room | $151 | 9.6 | 🚶 14 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.6290625,-85.43731249999999&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-18&checkout=2027-02-20&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Hostel Pura Vida en Liberia** · mixed 10-bed dorm | **$28** | 9.5 | 🚶 3 min (200 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.6322397,-85.4441777&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostel+Pura+Vida+en+Liberia+&checkin=2027-02-22&checkout=2027-02-24&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Backup | **Hospedaje Dodero** · standard 6-bed mixed dorm, ensuite | $30 | 9.1 *(HW)* | 🚶 2 min (180 m) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.631971,-85.4447684&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hospedaje+Dodero+&checkin=2027-02-22&checkout=2027-02-24&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/51177/hospedaje-dodero/?from=2027-02-22&to=2027-02-24&guests=1) |
+| Private alt | **Hotel Liberia** · single room | $151 | 9.6 | 🚶 14 min (1.0 km) · [route](https://www.google.com/maps/dir/?api=1&origin=10.6306412,-85.4440852&destination=10.6290625,-85.43731249999999&travelmode=walking) | [Booking](https://www.booking.com/hotel/cr/liberia-liberia.html?checkin=2027-02-22&checkout=2027-02-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tickets**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | La Fortuna → Tilarán → Cañas → Liberia (no direct bus) | **Thu 18 Feb**, ≈ 08:00 or 07:30 | ≈ $12–14 | at the La Fortuna terminal (check the day before) |
-| ⚠️ Ticket | **Rincón de la Vieja, Las Pailas** (SINAC, online only; no cash or card at the gate) | **Fri 19 Feb** (closed Mondays) | ≈ $16.95 | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
-| Park | Round-trip shuttle Liberia → the park gate | Fri 19 Feb, leave by 07:00 | ≈ $25–40 | Liberia hostels/agencies |
+| In | La Fortuna → Tilarán → Cañas → Liberia (no direct bus) | **Mon 22 Feb**, 08:00 (also 12:15, 17:30) | ≈ $12–14 | at the La Fortuna terminal (check the day before) |
+| ⚠️ Ticket | **Rincón de la Vieja, Las Pailas** (SINAC, online only; no cash or card at the gate) | **Tue 23 Feb** (closed Mondays) | ≈ $16.95 | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
+| Park | Round-trip shuttle Liberia → the park gate | Tue 23 Feb, leave by 07:00 | ≈ $25–40 | Liberia hostels/agencies |
 | ⚠️ Out | **Costa Rica land exit tax** | online, before leaving Liberia | $8 | see the [San Juan del Sur guide](san-juan-del-sur.md) |
 
 <details><summary>How to read these tables</summary>
@@ -62,19 +62,20 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: La Fortuna → Tilarán → Cañas → Liberia, Thu 18 Feb
+## 🚌 Getting here: La Fortuna → Tilarán → Cañas → Liberia, Mon 22 Feb
 
 No direct bus.
-- **La Fortuna → Tilarán:** ≈ 08:00, 12:15, 17:30 or 07:30/12:30/17:00; ~2 h, ≈ ₡3,500 / $7.80.
-- **Tilarán → Cañas:** frequent, 30–60 min, ≈ ₡700 / $1.60.
-- **Cañas → Liberia:** frequent, ~1–1½ h, ≈ ₡2,000 / $4.50.
+- **La Fortuna → Tilarán (Transpisa):** weekdays **08:00**, 12:15, 17:30; ≈ 2–2¾ h, ≈ ₡3,500 / $7.80 (times ≈ yoviajocr.com, read 27 Nov for a weekday).
+- **Tilarán → Cañas:** weekdays 9 a day, 06:00–19:45; 1 h, ₡830 / $1.90.
+- **Cañas → Liberia (Reyna del Campo, route 524):** weekdays about every 30 min, 04:30–21:30; 1½ h, ₡1,990 / $4.50.
+- Both Cañas legs ≈ buscobus.co.cr (read 27 Nov), with the ARESEP fares in force since 28 Oct 2026.
 - **In all:** ≈ 4½–5½ h and $12–14 (AI lead + LP route; check the La Fortuna terminal the day before).
 - **Shuttle:** shared La Fortuna → Liberia ≈ $45–65, ~3 h (≈).
 - **Río Celeste on the way:** see the [La Fortuna guide](la-fortuna.md) (Cañas → Bijagua, long).
 
 ## 🛏️ Where to sleep
 
-**Base: Liberia, not the park.** Liberia has the hostels, the cheap bus to the Nicaraguan border (20 Feb) and supermarkets. The lodges near the park (Curubandé, Hacienda Guachipelín, Rinconcito) still need a car or shuttle to the gate and cost more. With one park day, stay in Liberia and buy a shuttle.
+**Base: Liberia, not the park.** Liberia has the hostels, the cheap bus to the Nicaraguan border (Wed 24 Feb) and supermarkets. The lodges near the park (Curubandé, Hacienda Guachipelín, Rinconcito) still need a car or shuttle to the gate and cost more. With one park day, stay in Liberia and buy a shuttle.
 
 All live-checked on 24 Nov.
 
@@ -106,12 +107,12 @@ All live-checked on 24 Nov.
 </tr>
 </table>
 
-- **Parque Nacional Rincón de la Vieja, Sector Las Pailas** (Fri 19 Feb): **$15 + IVA ≈ $16.95**, Tue–Sun 08:00–15:00, **closed Mondays** ✅ sinac.go.cr park page. **Tickets online only** on SINAC's SICORE (no cash or card at the gate; LP).
+- **Parque Nacional Rincón de la Vieja, Sector Las Pailas** (Tue 23 Feb): **$15 + IVA ≈ $16.95**, Tue–Sun 08:00–15:00, **closed Mondays** ✅ sinac.go.cr park page. **Tickets online only** on SINAC's SICORE (no cash or card at the gate; LP).
   - The **Las Pailas loop (~3.5–4 km)**: mud pots, fumaroles, the Volcancito.
   - Then the **La Cangreja waterfall** trail (≈ 10 km return) or the Cataratas Escondidas.
   - The crater trail is closed (active volcano; hike backlog + LP).
 - **Getting to the gate without a car:**
-  - Public bus Liberia → Curubandé 3×/day (≈ 06:00–06:45, 12:00, 17:15; ≈ ₡1,130 / $2.50) stops ~10 km short of the gate (LP: "your accommodation can arrange further transport").
+  - Public bus Liberia → Curubandé (Tranbasa), weekdays **06:45**, 12:00, 17:15 (25 min, ₡1,130 / $2.50; ≈ buscobus.co.cr, read 27 Nov), stops ~10 km short of the gate (LP: "your accommodation can arrange further transport").
   - Hacienda Guachipelín charges $1.60/person to use its private road (LP).
   - **Practical:** a **round-trip shuttle from Liberia** (≈ $25–40, sold by Liberia hostels/agencies) or a taxi (≈ $40–50 each way). Leave by 07:00 to be at the gate at opening.
 
@@ -132,7 +133,7 @@ All live-checked on 24 Nov.
 - **Guanacaste in February is hot and dry** (low 30s °C): start early, carry 3 L of water.
 - ⚠️ Pay the **CR land exit tax ($8) online** before leaving Liberia (stop 32).
 
-## 🚌 Leaving: Liberia → the Nicaraguan border, Sat 20 Feb
+## 🚌 Leaving: Liberia → the Nicaraguan border, Wed 24 Feb
 
 - The cheap bus to the border leaves from Liberia. Times, the border crossing and the onward leg are in the [San Juan del Sur guide](san-juan-del-sur.md).
 - Pay the **$8 land exit tax online** first.

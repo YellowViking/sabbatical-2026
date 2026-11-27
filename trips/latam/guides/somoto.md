@@ -1,11 +1,11 @@
-# 🇳🇮 Somoto Canyon (optional)
+# 🇳🇮 Somoto Canyon (day trip from Estelí)
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md)
 
-> **Optional · +1 day from Estelí · Wed 3 → Fri 5 Mar 2027 · 2 nights (Somoto + the airport homestay)**<br>
+> **In the plan since 27 Nov · a day trip from Estelí · Mon 8 Mar 2027 · no extra night (you sleep in [Estelí](esteli.md))**<br>
 > 🏞️ A narrow granite canyon of the Río Coco by the Honduran border: hike in, then float, swim and jump<br>
-> 🛏️ Somoto lodging not checked; local guides offer homestay beds<br>
-> 🚌 **In:** Estelí → Somoto (≈ 1½–2 h), Wed 3 Mar · **Out:** afternoon express Somoto → Managua, Thu 4 Mar; ✈ Fri 5 Mar
+> 🛏️ Sleep in Estelí (Melody 78); the tour company also rents $8 cabin beds near the canyon (WhatsApp only)<br>
+> 🚌 **In:** 05:30 *ruteado* COTRAN Norte, Estelí → Somoto, Mon 8 Mar · **Out:** back to Estelí 13:40–17:00; Managua on Tue 9, ✈ Wed 10 Mar
 
 <table>
 <tr>
@@ -26,35 +26,29 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 📅 Day by day
 
-The award flight is **AA1318 MGA 07:00 on every day 3–5 Mar, 25k + $94.42** ✅ (3 and 4 Mar rechecked 26 Nov; 5 Mar checked 24 Nov), so the trip can move a day.
+Since 27 Nov this is **Day 3 of the Estelí stay**, a day trip with no extra night (✅ times and prices checked 27 Nov).
 
-| Day | Base plan (since 26 Nov) | Somoto +1 |
-|---|---|---|
-| **Tue 2 Mar** | León 05:20 → Estelí; Tisey or Miraflor | same |
-| **Wed 3 Mar** | Estelí → Managua airport homestay | 🚌 Estelí → **Somoto** (≈ 1½–2 h north on the Panamericana, ≈); night in Somoto |
-| **Thu 4 Mar** | ✈ 07:00 MGA → SEA | 🛶 **Canyon tour 07:00–12:00** → afternoon express Somoto → Managua (≈ 3½–4 h, ≈ C$150–200 / $4–6) → airport homestay |
-| **Fri 5 Mar** | | ✈ 07:00 MGA → SEA (same award: 25k + $94.42, checked 24 Nov) |
+| Day | Plan |
+|---|---|
+| **Mon 8 Mar** | 🚌 **05:30** *ruteado* from **COTRAN Norte**, Estelí (or 06:30, 07:30; listed 2 h 50, C$46) → Somoto terminal ≈ 08:15. 🛶 **Somoto Canyon Tours** 4-h standard tour from the terminal ≈ 08:30–12:30 (**$30**: lunch, entry, boat fee, life jacket, dry bag, river shoes, ride to the trailhead). 🚌 Back on the 13:40, 14:45, 16:00 or **17:00 (last)** *ruteado* to COTRAN Norte (C$50–60, ≈ 1 h 30). |
 
-That uses 1 of the 11 spare days and keeps the [Estelí](esteli.md) stop.
+- **Why Monday:** the buses run daily, but the guides' site doesn't say whether they work Sundays. Confirm on WhatsApp (+505 5791 9556, English) and keep **Sun 7** as the backup.
+- **Sleeping by the canyon instead:** Somoto Canyon Tours' cabins are $8 per person per night (dorm cabins or private doubles, kitchen use; WhatsApp only). Keep one Estelí night if you do it.
 
 ## 🔖 Book (one click)
 
-**Beds:** Somoto lodging wasn't checked (Hostelworld lists 0; Agoda's "Somoto" search returned Finnish cottages). Local guides offer homestay beds. For the airport night, see [Flight home](flight-home.md) and shift the dates by a day.
-
-**Transport and tour**
-
 | | Leg | When | Price | Book |
-|---|---|---|---:|---|
-| In | Estelí → Somoto bus, north on the Panamericana | Wed 3 Mar, ≈ 1½–2 h (≈) | — | [NicaBuses](https://www.nicabuses.com/) (re-check the times) |
-| Tour | **Somoto Canyon** with a local guide from Somoto town | Thu 4 Mar 07:00–12:00 | ≈ $25–45 + entrance ≈ $5–10 | local guides (e.g. Juan Ordóñez); not verified on a guide's own site |
-| Out | Somoto → Managua, afternoon express | Thu 4 Mar, ≈ 3½–4 h | ≈ C$150–200 / $4–6 | [NicaBuses](https://www.nicabuses.com/) |
-| ✈ | AA1318 MGA 07:00 → SEA (Alaska award) | **Fri 5 Mar** | 25k + $94.42 | see [Flight home](flight-home.md) |
+|---|---|---|---|---|
+| In | **Estelí → Somoto** *ruteado*, COTRAN Norte | **Mon 8 Mar 05:30** (17 a day, 05:30–18:10) | C$46 | [NicaBuses](https://nicabuses.com/rutas/esteli-somoto-ruteado) |
+| Tour | **Somoto Canyon Tours**, 4-h standard (3-h $25, 6-h $35, rim walk from $15) | Mon 8 Mar ≈ 08:30–12:30 | **$30** | [somotocanyontours.org](https://www.somotocanyontours.org/tours) · WhatsApp +505 5791 9556 |
+| Out | **Somoto → Estelí** *ruteado* | 13:40, 14:45, 16:00, 17:00 (last) | C$50–60 | [NicaBuses](https://nicabuses.com/rutas/somoto-esteli-ruteado) |
+| ✈ | Flight home | **Wed 10 Mar** | 25k + $94.42 | see [Flight home](flight-home.md) |
 
 ## 🛶 The canyon
 
 - **What:** Cañón de Somoto, a narrow granite canyon of the Río Coco near the Honduran border. Hike in, then float, swim and jump down it with a local guide (lifejacket supplied).
 - **Price:** **local guides from Somoto town ≈ $25–45 per person + canyon entrance ≈ $5–10** (pack-lightly.com; Viator lists "from $35"). Half-day or full-day versions.
-- **Guide:** not verified on a guide's own site. Juan Ordóñez is the name travellers keep recommending (Backpackers Nicaragua group).
+- **Guide:** ✅ Somoto Canyon Tours publishes its prices and inclusions on its own site (27 Nov). Juan Ordóñez is another name travellers recommend (Backpackers Nicaragua group; not verified).
 - **Why pay:** it's the only canyon-swim on the route, so it passes the "pay only if unique" test.
 
 ## ℹ️ Good to know

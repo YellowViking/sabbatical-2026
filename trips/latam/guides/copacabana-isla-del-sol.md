@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [La Paz](la-paz.md) · [Puno](puno.md) →
 
-> **Stop 21 · Thu 28 → Fri 29 Jan 2027 (days 52–53) · 1 night on Isla del Sol** (the Copacabana night went to Potosí on 26 Nov)<br>
+> **Stop 21 · Sun 31 Jan → Mon 1 Feb 2027 (days 55–56) · 1 night on Isla del Sol** (the Copacabana night went to Potosí on 26 Nov)<br>
 > 🏞️ Lake Titicaca: a night on Isla del Sol and the Inca ridge walk across it, up to 4,050 m<br>
 > 🛏️ **Inti Wasi Lodge** on the island, $18 (Mia Posada in Copacabana only if you split the night differently)<br>
-> 🚌 **In:** Vicuña Travel from La Paz, Thu 07:30 · **Out:** bus to Puno, Fri 18:00 (or 13:30 if you skip the ridge walk)
+> 🚌 **In:** Vicuña Travel from La Paz, Sun 07:30 · **Out:** bus to Puno, Mon 18:00 (or 13:30 if you skip the ridge walk)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKAn4qUedMZTF2eZoGWbTKmJlj-yPLoVLSjlqWxTrSIkquQ6aXWuIpDxlJkkgG66EAlBvw_MvMd2RF2w6lrrh7VD8g-Ka0Lz82unDgXH3eMsHH69q0pyb20RvhrFeknkUcjiOjCe9l5noQ=w1200-h360-p-k-no" alt="Copacabana's bay on Lake Titicaca, full of moored boats, from the hill above" width="100%">
 
@@ -15,11 +15,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 ![Map of Copacabana: the beds, the bus stop, the pier, the viewpoints and the trout tents](img/copacabana-map-b4ea0374.jpg)
 
-**In town:** ★ **[Mia Posada](https://www.google.com/maps?ftid=0x915dd3a1110f320f:0x2c69ab6db25be2d7)** (optional Copacabana night, [book](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-28&to=2027-01-29&guests=1)) · **1** [Hostal Florencia](https://www.google.com/maps?ftid=0x915dd27d447c3179:0xc481ccc2b51c03e2) (backup, [book](https://www.hostelworld.com/hostels/p/263464/hostal-florencia/?from=2027-01-28&to=2027-01-29&guests=1)) · **2** [Hostal Las Olas](https://www.google.com/maps?ftid=0x915dd27c0fc4e969:0xb2fb8b486d79e9ad) (private alt; Hotel La Cúpula is ≈ 50 m away, [book](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [bus stop](https://www.google.com/maps?ftid=0x915dd27cfbeaaaab:0xc7ca57037391ea70) (Plaza Sucre) · **P** [pier](https://www.google.com/maps?ftid=0x915dd27ea339c451:0x7b00bc4ee77465c5) (boats to Isla del Sol) · **3** [Cerro Calvario](https://www.google.com/maps?ftid=0x915dd279618bde5f:0x254f01f54680b526) [🚶 25 min](https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.1614278,-69.0911667&travelmode=walking) viewpoint · **4** [Horca del Inca](https://www.google.com/maps?ftid=0x915dd287d8e2a74d:0x6c966ab422da27e) [🚶 8 min](https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.170008,-69.0852995&travelmode=walking) (Kesanani) · **5** [waterfront and trout tents](https://www.google.com/maps?ftid=0x915dd2809384392d:0x5fcaae1cbab8692e) [🚶 14 min](https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.1692517,-69.0919049&travelmode=walking)
+**In town:** ★ **[Mia Posada](https://www.google.com/maps?ftid=0x915dd3a1110f320f:0x2c69ab6db25be2d7)** (optional Copacabana night, [book](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-31&to=2027-02-01&guests=1)) · **1** [Hostal Florencia](https://www.google.com/maps?ftid=0x915dd27d447c3179:0xc481ccc2b51c03e2) (backup, [book](https://www.hostelworld.com/hostels/p/263464/hostal-florencia/?from=2027-01-31&to=2027-02-01&guests=1)) · **2** [Hostal Las Olas](https://www.google.com/maps?ftid=0x915dd27c0fc4e969:0xb2fb8b486d79e9ad) (private alt; Hotel La Cúpula is ≈ 50 m away, [book](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [bus stop](https://www.google.com/maps?ftid=0x915dd27cfbeaaaab:0xc7ca57037391ea70) (Plaza Sucre) · **P** [pier](https://www.google.com/maps?ftid=0x915dd27ea339c451:0x7b00bc4ee77465c5) (boats to Isla del Sol) · **3** [Cerro Calvario](https://www.google.com/maps?ftid=0x915dd279618bde5f:0x254f01f54680b526) [🚶 25 min](https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.1614278,-69.0911667&travelmode=walking) viewpoint · **4** [Horca del Inca](https://www.google.com/maps?ftid=0x915dd287d8e2a74d:0x6c966ab422da27e) [🚶 8 min](https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.170008,-69.0852995&travelmode=walking) (Kesanani) · **5** [waterfront and trout tents](https://www.google.com/maps?ftid=0x915dd2809384392d:0x5fcaae1cbab8692e) [🚶 14 min](https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.1692517,-69.0919049&travelmode=walking)
 
 ![Map of Isla del Sol and Copacabana: Yumani in the south of the island, Challa in the middle, Challapampa and the Chincana ruins in the north](img/copacabana-isla-del-sol-area-map-fe25ee27.jpg)
 
-**Isla del Sol:** ★ **[Inti Wasi Lodge](https://www.google.com/maps?ftid=0x915dc50031d3b2c3:0x29c6ca2a91a4a2a2)** ([book](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)), Yumani (night-1 pick; Inti Wayra backup, the [Yumani pier](https://www.google.com/maps?ftid=0x915dc5817c0d2a77:0x2555dafa4dc5480f) and the [Inca stairway](https://www.google.com/maps?ftid=0x915dc50b4fa32d59:0x8afcbfd9994982d0) are all within ≈ 400 m) · **6** [Challa](https://www.google.com/maps?ftid=0x915dc5997250f315:0x8c227e8596da142a) [🚕 ≈ 58 min](https://www.google.com/maps/dir/?api=1&origin=-16.036048,-69.1472613&destination=-16.0204613,-69.1682504&travelmode=driving) (mid-island, on the ridge walk) · **7** [Challapampa](https://www.google.com/maps?ftid=0x915dc42b8e26143f:0x6ba7b57cc3898522) (boat back) · **8** [Chincana ruins](https://www.google.com/maps?ftid=0x915dc69ab5a64f05:0xb3d4057308574337) [🚶 2 h 8 min](https://www.google.com/maps/dir/?api=1&origin=-16.036048,-69.1472613&destination=-15.9901216,-69.2029539&travelmode=walking) and the [Sacred Rock](https://www.google.com/maps?ftid=0x915dc68529975141:0xc5a7fe1796ae3933) · ★ Copacabana (bottom right)
+**Isla del Sol:** ★ **[Inti Wasi Lodge](https://www.google.com/maps?ftid=0x915dc50031d3b2c3:0x29c6ca2a91a4a2a2)** ([book](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)), Yumani (night-1 pick; Inti Wayra backup, the [Yumani pier](https://www.google.com/maps?ftid=0x915dc5817c0d2a77:0x2555dafa4dc5480f) and the [Inca stairway](https://www.google.com/maps?ftid=0x915dc50b4fa32d59:0x8afcbfd9994982d0) are all within ≈ 400 m) · **6** [Challa](https://www.google.com/maps?ftid=0x915dc5997250f315:0x8c227e8596da142a) [🚕 ≈ 58 min](https://www.google.com/maps/dir/?api=1&origin=-16.036048,-69.1472613&destination=-16.0204613,-69.1682504&travelmode=driving) (mid-island, on the ridge walk) · **7** [Challapampa](https://www.google.com/maps?ftid=0x915dc42b8e26143f:0x6ba7b57cc3898522) (boat back) · **8** [Chincana ruins](https://www.google.com/maps?ftid=0x915dc69ab5a64f05:0xb3d4057308574337) [🚶 2 h 8 min](https://www.google.com/maps/dir/?api=1&origin=-16.036048,-69.1472613&destination=-15.9901216,-69.2029539&travelmode=walking) and the [Sacred Rock](https://www.google.com/maps?ftid=0x915dc68529975141:0xc5a7fe1796ae3933) · ★ Copacabana (bottom right)
 
 🧭 The time after each place is from the ★ bed (Google Maps, 26 Nov): 🚶 walk · 🚌 bus · 🚕 taxi · 🚗 by road (tour or bus). Click it for the route.
 
@@ -29,31 +29,31 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 28 Jan | 🚌 **07:30 Vicuña Travel** from La Paz, arriving ≈ 11:30 (launch across the Tiquina strait on the way). Leave the big bag at a Copacabana hostel or agency for the night. ⛴️ **13:30 boat to Yumani** (≈ 1.5 h). Climb the Inca stairway, sunset from the ridge. Night at Inti Wasi. |
-| **Day 2** · Fri 29 Jan | 🥾 **07:00 ridge walk Yumani → Challa → Challapampa** (≈ 8–12 km, 3–4 h, up to 4,050 m). ⛴️ Boat back from Challapampa ≈ 13:00–13:30 (Copacabana ≈ 15:00). 🐟 Trout on the waterfront. 🚌 **18:00 Titicaca Bolivia Bus** to Puno (≈ 21:00). **Shorter option:** skip the ridge, take the **10:30 boat from Yumani** and the **13:30 bus**. |
+| **Day 1** · Sun 31 Jan | 🚌 **07:30 Vicuña Travel** from La Paz, arriving ≈ 11:30 (launch across the Tiquina strait on the way). Leave the big bag at a Copacabana hostel or agency for the night. ⛴️ **13:30 boat to Yumani** (≈ 1.5 h). Climb the Inca stairway, sunset from the ridge. Night at Inti Wasi. |
+| **Day 2** · Mon 1 Feb | 🥾 **07:00 ridge walk Yumani → Challa → Challapampa** (≈ 8–12 km, 3–4 h, up to 4,050 m). ⛴️ Boat back from Challapampa ≈ 13:00–13:30 (Copacabana ≈ 15:00). 🐟 Trout on the waterfront. 🚌 **18:00 Titicaca Bolivia Bus** to Puno (≈ 21:00). **Shorter option:** skip the ridge, take the **10:30 boat from Yumani** and the **13:30 bus**. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (28 → 29 Jan on the island; the Copacabana rows are only for a Copacabana night instead)
+**Beds** (31 Jan → 1 Feb on the island; the Copacabana rows are only for a Copacabana night instead)
 
 | | Where | Total | Location | From the pier / bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Inti Wasi Lodge**, Yumani · double, private bathroom, breakfast | **$18** | 9.6 | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) · [route](https://www.google.com/maps/dir/?api=1&origin=-16.038460999999998,-69.1444077&destination=-16.036048,-69.1472613&travelmode=walking) | [Booking](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup, night 1 | **Hostal Inti Wayra**, Yumani · twin, shared bathroom, breakfast | $26 | 9.1 | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 15 min (600 m) · [route](https://www.google.com/maps/dir/?api=1&origin=-16.038460999999998,-69.1444077&destination=-16.0376583,-69.1473793&travelmode=walking) | [Booking](https://www.booking.com/hotel/bo/hostal-inti-wayra.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Optional, Copacabana | **Mia Posada Hostel & Coworking** · single private room with bathroom | **$17** | 10.0 *(HW)* | 🚶 walk 7 min (450 m) from the bus stop (Plaza Sucre); centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.1651831,-69.0876162&destination=-16.166212599999998,-69.085061&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-28&to=2027-01-29&guests=1) |
-| Optional, Copacabana | **Hostal Florencia** · single, shared bathroom | $6.08 | — | — | [Hostelworld](https://www.hostelworld.com/hostels/p/263464/hostal-florencia/?from=2027-01-28&to=2027-01-29&guests=1) |
-| Optional, Copacabana | **Hostal Las Olas** · Suite with lake view | $92 | 9.7 | 🚶 walk 7 min (400 m) from the bus stop (Plaza Sucre); centre 10 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.1651831,-69.0876162&destination=-16.1637249,-69.0901256&travelmode=walking) | [Booking](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-28&checkout=2027-01-29&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=3012976&checkin=2027-01-28&checkout=2027-01-29&NumberofAdults=1&Rooms=1) |
+| ⭐ **Pick** | **Inti Wasi Lodge**, Yumani · double, private bathroom, breakfast | **$18** | 9.6 | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 13 min (600 m) · [route](https://www.google.com/maps/dir/?api=1&origin=-16.038460999999998,-69.1444077&destination=-16.036048,-69.1472613&travelmode=walking) | [Booking](https://www.booking.com/hotel/bo/inti-wasi-lodge-la-paz.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup, night 1 | **Hostal Inti Wayra**, Yumani · twin, shared bathroom, breakfast | $26 | 9.1 | 🥾 boat to Yumani pier, then a steep stairway walk; Google Maps walk 15 min (600 m) · [route](https://www.google.com/maps/dir/?api=1&origin=-16.038460999999998,-69.1444077&destination=-16.0376583,-69.1473793&travelmode=walking) | [Booking](https://www.booking.com/hotel/bo/hostal-inti-wayra.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Optional, Copacabana | **Mia Posada Hostel & Coworking** · double private room with bathroom (the single has gone) | **$22** ✅ 27 Nov | 10.0 *(HW)* | 🚶 walk 7 min (450 m) from the bus stop (Plaza Sucre); centre 3 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.1651831,-69.0876162&destination=-16.166212599999998,-69.085061&travelmode=walking) | [Hostelworld](https://www.hostelworld.com/hostels/p/322936/mia-posada-hostel-coworking/?from=2027-01-31&to=2027-02-01&guests=1) |
+| Optional, Copacabana | **Hostal Florencia** · single, shared bathroom | $6.08 | — | — | [Hostelworld](https://www.hostelworld.com/hostels/p/263464/hostal-florencia/?from=2027-01-31&to=2027-02-01&guests=1) |
+| Optional, Copacabana | **Hostal Las Olas** · Suite with lake view | $92 | 9.7 | 🚶 walk 7 min (400 m) from the bus stop (Plaza Sucre); centre 10 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-16.1651831,-69.0876162&destination=-16.1637249,-69.0901256&travelmode=walking) | [Booking](https://www.booking.com/hotel/bo/hostal-las-olas.html?checkin=2027-01-31&checkout=2027-02-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=3012976&checkin=2027-01-31&checkout=2027-02-01&NumberofAdults=1&Rooms=1) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚌 **Vicuña Travel** · La Paz → Copacabana (semi-cama) | **Thu 28 Jan 07:30 → ≈ 11:30** | ≈ $7 (Tickets Bolivia; the counter is cheaper) | La Paz main bus terminal |
-| Boat | ⛴️ Copacabana → **Yumani** (south of the island) | **Thu 28 Jan 13:30**, ≈ 1.5 h | ≈ Bs 30–40 one way | pier office; insist on a ticket |
-| Boat | ⛴️ **Challapampa** → Copacabana | Fri 29 Jan ≈ 13:00–13:30 (or Yumani 10:30 to catch the 13:30 bus) | — | at the pier |
-| Out | 🚌 **Titicaca Bolivia Bus** · Copacabana → Puno | **Fri 29 Jan 18:00 → ≈ 21:00** ($9; or 13:30 → 16:30, $10, if you skip the ridge walk) | $9–10 | [Titicaca Bolivia Bus](https://titicacaboliviabus.com/trip/copacabana-puno/) (see the [Puno guide](puno.md)) |
+| In | 🚌 **Vicuña Travel** · La Paz → Copacabana (semi-cama) | **Sun 31 Jan 07:30 → ≈ 11:30** | ≈ $7 (Tickets Bolivia; the counter is cheaper) | La Paz main bus terminal |
+| Boat | ⛴️ Copacabana → **Yumani** (south of the island) | **Sun 31 Jan 13:30**, ≈ 1.5 h | ≈ Bs 30–40 one way | pier office; insist on a ticket |
+| Boat | ⛴️ **Challapampa** → Copacabana | Mon 1 Feb ≈ 13:00–13:30 (or Yumani 10:30 to catch the 13:30 bus) | — | at the pier |
+| Out | 🚌 **Titicaca Bolivia Bus** · Copacabana → Puno | **Mon 1 Feb 18:00 → ≈ 21:00** ($9; or 13:30 → 16:30, $10, if you skip the ridge walk) | $9–10 | [Titicaca Bolivia Bus](https://titicacaboliviabus.com/trip/copacabana-puno/) (see the [Puno guide](puno.md)) |
 
 <details><summary>How to read these tables</summary>
 
@@ -64,10 +64,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: La Paz → Copacabana, Thu 28 Jan
+## 🚌 Getting here: La Paz → Copacabana, Sun 31 Jan
 
 - **Bus, ≈ 4 h**, from La Paz's main bus terminal (90 m from Casa Bonita).
-- **Schedule** from Tickets Bolivia (24 Nov; their price US$7, the counter is cheaper):
+- **Schedule** from Tickets Bolivia (24 Nov; their price US$7, the counter is cheaper). ✅ 27 Nov: its route page says these buses leave "in the mornings every day", so the Sunday 31 Jan run is normal; buy at the terminal on Sat 30:
   - 07:00 Manco Kapac;
   - **07:30 Vicuña Travel** (semi-cama, arr ≈ 11:30), the pick;
   - 08:00 Trans Titicaca;
@@ -80,17 +80,17 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 
-### ⭐ Pick (28 Jan, on the island): Inti Wasi Lodge, Yumani
+### ⭐ Pick (31 Jan, on the island): Inti Wasi Lodge, Yumani
 - **Unit:** double room with private bathroom, breakfast.
-- **Price:** **US$18** (non-refundable) or US$20 (free cancellation to 26 Jan), Booking.
+- **Price:** **US$18** (non-refundable) or US$20 (free cancellation), Booking.
 - **Reviews:** Booking 8.8, 230 reviews, **3.0% below 7**, location 9.6.
 - **Where:** near the top of the Yumani village, with lake views.
 - ⚠️ Basic bathroom, cold at night.
 - Isla del Sol has 0 Hostelworld listings.
 
 ### Optional Copacabana night: Mia Posada Hostel & Coworking
-- **Unit:** single private room with bathroom.
-- **Price:** **US$17** on Hostelworld (not on Booking; listed on Agoda with no price for 28 Jan).
+- **Unit:** double private room with bathroom (the single room has gone for 31 Jan).
+- **Price:** **US$22** ✅ 27 Nov on Hostelworld (was US$17 for the single; not on Booking; listed on Agoda with no price on 24 Nov).
 - **Reviews:** Hostelworld 9.7 (157; 1 of 10 reviews in the last 12 months below 70).
 - **Where:** 0.2 km from the plaza, 0.6 km from the pier.
 - **Checks:** ✅ kitchen with stove · quiet, "more hotel than hostel", not social.
@@ -115,7 +115,7 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBqofnOkiAYLspDbRn4eWkOV5EkAv16i3Nkij0W5V43RktuB5cE8Z6B8YEYqhCkZ1qo2jdTthBDH_OXsiyafXy0_o5bVBbp-wIg618Nl6MZLun85jl_UecRv3hgv-Z4Zket82e=w640-h400-p-k-no" width="100%" alt="Stone walls of the Chincana ruins above a bay at the north end of Isla del Sol"><br><b><a href="https://www.google.com/maps?ftid=0x915dc69ab5a64f05:0xb3d4057308574337">Chincana ruins</a></b> and the <a href="https://www.google.com/maps?ftid=0x915dc68529975141:0xc5a7fe1796ae3933">Sacred Rock</a> · Challapampa fee ≈ Bs 10–15 · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.036048,-69.1472613&destination=-15.9901216,-69.2029539&travelmode=walking">🚶 2 h 8 min</a><br>The north end of the walk, if the north is open.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q1ubxanDMYK9eAt1kR3o7Mk3bB_CQlfzRgVIn1yCeyoa6Gg2jV19-EkTKxPmLOukI_4jhhqGFb3z0DV0ZojvVH-UEo3bGr10zqeLKOiLocfc7OFXEAQqrR8TYot8x5l4gqFabR7YLqi5oi=w640-h400-p-k-no" width="100%" alt="Copacabana town and the lake from the Horca del Inca hill"><br><b><a href="https://www.google.com/maps?ftid=0x915dd287d8e2a74d:0x6c966ab422da27e">Horca del Inca</a></b> (Kesanani) · sunrise, Fri 29 · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.170008,-69.0852995&travelmode=walking">🚶 8 min</a><br>An Inca astronomical stone on the hill above town.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q1ubxanDMYK9eAt1kR3o7Mk3bB_CQlfzRgVIn1yCeyoa6Gg2jV19-EkTKxPmLOukI_4jhhqGFb3z0DV0ZojvVH-UEo3bGr10zqeLKOiLocfc7OFXEAQqrR8TYot8x5l4gqFabR7YLqi5oi=w640-h400-p-k-no" width="100%" alt="Copacabana town and the lake from the Horca del Inca hill"><br><b><a href="https://www.google.com/maps?ftid=0x915dd287d8e2a74d:0x6c966ab422da27e">Horca del Inca</a></b> (Kesanani) · Mon 1 Feb, before the bus · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.1662126,-69.085061&destination=-16.170008,-69.0852995&travelmode=walking">🚶 8 min</a><br>An Inca astronomical stone on the hill above town.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SaJRrpZz8S8fBZmKPN3MblWfPMotkiaTiSGMBHSSDF_wy0xhWLp_qHryswaMoUktflSpU8B1ceKRvf21_bPYHvkvRbY6DZ2P57QMTRR204GOzPXWvXHcH_cyDfp76WNK_Gu_SeOQ=w640-h400-p-k-no" width="100%" alt="The curve of Copacabana's bay and town seen from Cerro Calvario"><br><b>Waterfront + <a href="https://www.google.com/maps?ftid=0x915dd279618bde5f:0x254f01f54680b526">Calvario hill</a></b> · free<br>The Copacabana waterfront, and sunset or sunrise from the hill above the bay.</td>
@@ -125,22 +125,23 @@ All live-checked on 24 Nov. Section total **≈ US$35–37** for both nights.
 
 **Paid tours aren't needed:** the public boats do it all.
 
-**Day 1 (Thu 28 Jan), to the island:**
+**Day 1 (Sun 31 Jan), to the island:**
 - Arrive ≈ 11:30. Leave the big bag at a Copacabana hostel or agency (ask Mia Posada).
 - Take the **13:30 boat to Yumani** (south, ≈ 1.5 h, ≈ **Bs 30–40** one way at the pier). Buy at the pier office and insist on a ticket.
+  - ✅ Sunday is fine: the boats run **daily at 08:30 and 13:30** (Bus Hop, Jun 2026; copacabanaisladelsoltour.com, Nov 2026).
   - LP: the boat co-operative **Asociación Unión Marines** sells at kiosks on the beach, B$20 one way / B$30 return, leaving Copacabana at **08:30 and 13:30**. Boats back leave Yumani at **10:30 and 15:00–16:00** (B$25). Buy direct, not through the agencies on Av. 6 de Agosto (LP).
 - Climb the Inca stairway (steep: go slowly). Sunset from the ridge, then sleep on the island.
   - LP: the **Escalera del Inca** gains almost 200 m in under 1 km, past terraced gardens (fee B$10). Donkeys carry a pack up for ≈ B$30 (LP).
   - **Pilko Kaina** ruins: a two-storey Inca palace on a terraced slope, ≈ 2 km (30 min) south of Yumani, B$10 (LP). Good for the late afternoon, and the obvious extra if the north is closed. Mirador Palla Khasa is a viewpoint just north of Yumani (LP).
 
-**Day 1 (Thu 28 Jan), the ridge walk:**
+**Day 2 (Mon 1 Feb), the ridge walk:**
 - Start at 07:00 and walk the ridge **Yumani → Challa → Challapampa**, ≈ 8–12 km, 3–4 h, up to 4,050 m.
 - **Community fees** in cash, small notes; keep every stub: Yumani ≈ Bs 10–20, Challa ≈ Bs 5–20, Challapampa (Chincana ruins and the Sacred Rock) ≈ Bs 10–15.
 - **Boat back** from Challapampa ≈ 13:00–13:30.
 - **If the north is closed:** walk to the Challa boundary and back, add the **Pilko Kaina** ruins south of Yumani (LP), then take the 15:00–16:00 boat from Yumani (or LP's 10:30).
-- Night 2 in Copacabana.
+- Then the 18:00 bus to Puno (13:30 if you skip the ridge walk).
 
-**Day 2 (Fri 29 Jan):** sunrise on the **Horca del Inca** (Kesanani) hill, an Inca astronomical stone, or the Calvario hill viewpoint above the bay; then the bus to Puno.
+**Back in Copacabana (Mon 1 Feb, before the 18:00 bus):** the **Horca del Inca** (Kesanani) hill, an Inca astronomical stone, or the Calvario hill viewpoint above the bay (sunrise there needs a Copacabana night).
 
 **North–south walk status for 2026–27:**
 - AllTrails hikers logged the full Challapampa ↔ Yumani walk in **Aug, Sep and Oct 2026**.
@@ -167,16 +168,16 @@ Prices are ≈ AI-summary leads, Nov 2026.
 
 ## ℹ️ Good to know
 - **The wettest stop of the trip:** 185 mm, rain on 19 January days; mornings are usually dry.
-- **Boats can be cancelled in storms**, so keep 29 Jan's bus to Puno for after midday.
-- **Cash only on the island:** no ATMs there, and Copacabana's run dry at weekends (you're there on a weekday).
+- **Boats can be cancelled in storms**, so keep 1 Feb's bus to Puno for after midday.
+- **Cash only on the island:** no ATMs there, and Copacabana's run dry at weekends. You arrive on a **Sunday**, so bring all the bolivianos from La Paz.
 - **Altitude:** 3,810–4,050 m.
 - **Sun:** LP warns of fierce UV off the lake at this altitude: hat, sun cream and plenty of water on the ridge walk (LP).
 - **Money before Peru:** ATMs on Plaza Sucre; shops on Av. 6 de Agosto change clean US dollars and most craft shops sell Peruvian soles. Bolivianos are hard to change outside Bolivia, so spend or swap them here (LP).
-- **Candelaria:** Copacabana's big festival is 2–5 Feb, after you leave.
+- **Candelaria:** Copacabana's big festival peaks on Tue 2 Feb (≈ 2–5 Feb), the day after you leave; pilgrims start arriving on Mon 1 Feb, so buy the Puno bus ticket on Sunday.
 
-## 🚌 Leaving: bus to Puno, Fri 29 Jan
+## 🚌 Leaving: bus to Puno, Mon 1 Feb
 
-- **Titicaca Bolivia Bus 13:30 → 16:30, US$10** (or 18:00), via the Kasani / Yunguyo border.
+- **Titicaca Bolivia Bus 13:30 → 16:30, US$10** (or 18:00 → 21:00, US$9), via the Kasani / Yunguyo border. ✅ Two departures daily, Monday included (titicacaboliviabus.com, 27 Nov).
 - Keep it for after midday in case a boat is cancelled.
 - ⚠️ **Peru is 1 h behind Bolivia** (LP): check whether the 13:30 → 16:30 times are Bolivian or Peruvian.
 - **DIY fallback** (LP): a minibus from Plaza Sucre to the Kasani border (B$4, 15 min, leaves when full), walk across after the exit stamp, taxi or mototaxi to Yunguyo (≈ S/3, 5 min), then a bus to Puno (≈ 2½ h). Keep your backpack with you at the border (LP).

@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [San Pedro de Atacama](san-pedro-de-atacama.md) · [Potosí](potosi.md) →
 
-> **Stop 17 · Mon 18 → Wed 20 Jan 2027 (days 42–44) · 2 nights in refugios**<br>
+> **Stop 17 · Thu 21 → Sat 23 Jan 2027 (days 45–47) · 2 nights in refugios**<br>
 > 🏞️ Three days by Land Cruiser across the Bolivian altiplano: coloured lagoons, geysers, flamingos and the Uyuni salt flat at sunrise<br>
 > 🛏️ **Expediciones Estrella del Sur**, US$280 with private bathrooms (US$260 shared); meals and lodging included, park fees extra<br>
-> 🚙 **In:** pickup at the San Pedro hostel ≈ 06:00–06:30, Mon · **Out:** the tour ends in Uyuni town ≈ 13:00–15:00, Wed; then the bus to Potosí
+> 🚙 **In:** pickup at the San Pedro hostel ≈ 06:00–06:30, Thu · **Out:** the tour ends in Uyuni town ≈ 13:00–15:00, Sat; then the bus to Potosí
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qe30GqgXPlmrBSqkvO0Dv_wllKhmaZxrvV1_EuTHOWfD0nykDKV5jcod1YkknAxJxoUmzb-B55TJG1_SzX70cX7btOnnsAv7GEDNjKj85WAtrBEkiUH-8wFTMQFZAktu4VSnIC1x6hMHc=w1200-h360-p-k-no" alt="Flamingos in the red water of Laguna Colorada below a snow-capped volcano" width="100%">
 
@@ -23,15 +23,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 18 Jan | 🚐 Pickup at the hostel ≈ 06:00–06:30 → Chilean exit stamp → **Hito Cajón** (Bolivian migración, 4,400 m; Bs 15) → change into a 6-seat Land Cruiser. Days 1–2 cover **Lagunas Blanca and Verde**, the **Dalí desert**, the **Polques** hot pool, **Sol de Mañana** (≈ 4,900 m), **Laguna Colorada** and the **Árbol de Piedra**. 🛏️ Night 1 at Villa Mar (3,990 m) with Estrella del Sur. Below freezing, no heating. |
-| **Day 2** · Tue 19 Jan | 🏞️ The rest of the lagoons and the Árbol de Piedra (order depends on the operator). 🛏️ Night 2 at a salt hotel (Hotel de Sal Cruz Andina with Estrella del Sur). |
-| **Day 3** · Wed 20 Jan | 🌅 **Salar de Uyuni at sunrise**; the mirror effect is likely in January. Isla Incahuasi is usually skipped. The tour ends in Uyuni town ≈ 13:00–15:00, then the 🚌 bus to Potosí. |
+| **Day 1** · Thu 21 Jan | 🚐 Pickup at the hostel ≈ 06:00–06:30 → Chilean exit stamp → **Hito Cajón** (Bolivian migración, 4,400 m; Bs 15) → change into a 6-seat Land Cruiser. Days 1–2 cover **Lagunas Blanca and Verde**, the **Dalí desert**, the **Polques** hot pool, **Sol de Mañana** (≈ 4,900 m), **Laguna Colorada** and the **Árbol de Piedra**. 🛏️ Night 1 at Villa Mar (3,990 m) with Estrella del Sur. Below freezing, no heating. |
+| **Day 2** · Fri 22 Jan · 🇧🇴 Día del Estado Plurinacional (holiday) | 🏞️ The rest of the lagoons and the Árbol de Piedra (order depends on the operator). 🛏️ Night 2 at a salt hotel (Hotel de Sal Cruz Andina with Estrella del Sur). |
+| **Day 3** · Sat 23 Jan | 🌅 **Salar de Uyuni at sunrise**; the mirror effect is likely in January. Isla Incahuasi is usually skipped. The tour ends in Uyuni town ≈ 13:00–15:00, then the 🚌 bus to Potosí. |
 
 ## 🔖 Book (one click)
 
 Prices are from each operator's own page, 24 Nov. ⚠️ = time-sensitive.
 
-**The tour** (18 → 20 Jan, 2 nights; shared tour, one way to Uyuni; meals and lodging included, park fees extra)
+**The tour** (21 → 23 Jan, 2 nights; shared tour, one way to Uyuni; meals and lodging included, park fees extra)
 
 | | Operator | Total | Nights 1 / 2 | Ends in Uyuni | Book |
 |---|---|---:|---|---|---|
@@ -44,8 +44,8 @@ Prices are from each operator's own page, 24 Nov. ⚠️ = time-sensitive.
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Agency minibus, San Pedro hostel → Hito Cajón | **Mon 18 Jan ≈ 06:00–06:30** | in the tour | — |
-| Out | Bus Uyuni → Potosí (≈ 4 h) | Wed 20 Jan, after the tour (15:00–19:00 departures) | US$11–15 on Tickets Bolivia | at the Uyuni terminal; see the [Potosí guide](potosi.md) |
+| In | Agency minibus, San Pedro hostel → Hito Cajón | **Thu 21 Jan ≈ 06:00–06:30** | in the tour | — |
+| Out | Bus Uyuni → Potosí (≈ 4 h) | Sat 23 Jan, after the tour (15:00–19:00 departures) | US$11–15 on Tickets Bolivia | at the Uyuni terminal; see the [Potosí guide](potosi.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -55,17 +55,17 @@ Prices are from each operator's own page, 24 Nov. ⚠️ = time-sensitive.
 
 </details>
 
-## 🚙 Getting here: San Pedro → Hito Cajón, Mon 18 Jan
+## 🚙 Getting here: San Pedro → Hito Cajón, Thu 21 Jan
 
 - The agency's minibus collects you from the hostel at **≈ 06:00–06:30**.
 - **Chilean exit stamp** at the San Pedro post.
 - **Hito Cajón:** Bolivian migración, 4,400 m. ✅ **Bs 15** border tax per WWT's page.
 - Then you change into a **6-seat Land Cruiser**.
-- The tour ends in **Uyuni town at ≈ 13:00–15:00 on 20 Jan**.
+- The tour ends in **Uyuni town at ≈ 13:00–15:00 on 23 Jan**.
 
 ## 🛏️ Where to sleep: the tour is the bed
 
-The tour *is* the bed for 18 and 19 Jan. Nothing else to book.
+The tour *is* the bed for 21 and 22 Jan. Nothing else to book.
 
 **Operators compared** (all shared tours, 3 days / 2 nights, one way to Uyuni, meals and lodging included, park fees extra; prices from each operator's own page, 24 Nov):
 
@@ -156,7 +156,7 @@ Everything here is on the tour route; the Reserva Eduardo Avaroa fee (Bs 150) co
 - Night 1 drops below freezing, with no heating, and hot showers aren't guaranteed.
 - **Bring:** the warmest layer, a buff, sun cream, 2 L water, snacks, toilet paper, swimwear for Polques and a headlamp.
 
-## 🚌 Leaving: Uyuni → Potosí, Wed 20 Jan
+## 🚌 Leaving: Uyuni → Potosí, Sat 23 Jan
 
 - The tour ends in Uyuni town ≈ 13:00–15:00 (WWT ≈ 13:00 with lunch; Estrella del Sur ≈ 14:00; Cordillera ≈ 15:00).
 - Buses to Potosí (≈ 4 h) leave the Uyuni terminal through the afternoon; times, fares and the soft-day plan are in the [Potosí guide](potosi.md). LP: hourly, ≈ B$30 at the counter (LP).
