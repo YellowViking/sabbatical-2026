@@ -48,6 +48,17 @@ Three options, already in the [itinerary](itinerary.md) and the [Panama City gui
 - **C:** overland via [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days), award from Lima on Day 61.
   - **New from LP (26 Nov): add the Nazca Lines to C** (+0–1 day). Either the bus Arequipa → Nazca (10–12 h), an early overflight, then ≈ 2½ h on to Huacachina; or an overflight from Pisco or Ica (≈ US$90 + S/30 airport tax, LP). The coast is in season in February.
 
+## Islands: which ones (evaluated 27 Nov)
+The route already has four island stops: Ilha Grande, Isla del Sol, Ometepe and Granada's Isletas. So this is about **one Caribbean island stay**. **San Blas is in the plan; the others stay open.** Prices come from operators' sites and Google results on 27 Nov; weather is Open-Meteo 10-year normals for 5–15 Feb.
+
+| Rank | Islands | Why | Cost | Fit with the route | Verdict |
+|---|---|---|---|---|---|
+| 1 | **San Blas (Guna Yala), Panama**: Chichime or Perro Chico on a 2-day / 1-night tour; Cayos Holandeses on a longer trip | Roadless white-sand islets run by the Guna; the traveller consensus pick (r/Panama, r/centralamerica: "pristine… culturally sound"; "Holandes Keys is the prettiest part, by far"). Snorkelling, including the Isla Perro wreck, is free | ≈ $180–209 + $22 Guna Yala tax (cash), meals included; day trip $148 | **In the plan**: Day 62 → 63 from Panama City, no backtracking | ⭐ Keep. Pick a tour that sleeps on **Chichime or Perro Chico**, not the busy hub islands. Upgrade to 3 days / 2 nights for the Holandeses only if a spare day is wanted (≈ +1 day; price not checked) |
+| 2 | **Little Corn Island, Nicaragua** | Car-free, with coral snorkelling, jungle paths, Creole culture and cheap cabins; "100% worth it" in most write-ups | La Costeña Managua ↔ Big Corn ≈ $170–240 return + panga ≈ $10 each way (leads) | +3 days at the end (Managua → Corn → Managua before the flight home); March is drier there | Open option if a 2nd island is wanted: a different sea and feel from San Blas |
+| 3 | **Bocas del Toro, Panama** | Starfish Beach (calm water, bus from town), the **Zapatilla Cays** (the clearest water; tour), Bastimentos's walk to Wizard / Red Frog (fee) | ≈ $30 shuttle from Boquete + hostels ≈ $15–20 | +2 after Boquete; the way back to San Gerardo may need a night on the road | Fallback if San Blas is full at Carnaval. Busier and party-ish; ≈ 71% wet days |
+| 4 | Isla Taboga (Panama City) | A quick beach-and-hill day out | Ferry ≈ $24 return, 30 min | Only with a spare Panama City day | Skip unless stuck in the city; mixed reviews |
+| 5 | Contadora / Pearl Islands | Pacific islands, resort-style | Ferry $118–133 return; day pass ≈ $150 | +1 from Panama City | Skip: dear for what it is |
+
 ## 3. Optional add-ons (4 spare days before 15 Mar)
 **Spring breaks:** the busiest 2027 US college weeks are 8–12 and 15–19 Mar, Ontario's March break is 15–19 Mar, and Semana Santa is 21–28 Mar (checked 27 Nov). The plan now ends **Wed 10 Mar** by choice (more hub days), with the last nights in Estelí, which spring-breakers rarely visit. Each add-on day below pushes everything after it later. Costa Rica's and Panama's 2027 school years start on 1 Mar, so local families travel through February.
 
