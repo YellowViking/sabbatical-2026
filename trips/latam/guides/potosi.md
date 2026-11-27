@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 > **Stop 18 · Day 47 → 49 · 2 nights (2nd night added 26 Nov, LP pick)**<br>
 > 🏞️ Colonial mining city at 4,070 m under the Cerro Rico: a UNESCO centre and a live mine<br>
 > 🛏️ **Los Faroles Hostal**, a private family room with shared bathroom, US$57 for 2 nights with breakfast (no well-rated dorm in town)<br>
-> 🚌 **In:** bus from Uyuni after the tour, Sat 15:00–19:00 · **Out:** bus to Sucre after lunch, Mon
+> 🚌 **In:** bus from Uyuni after the tour, Day 47 15:00–19:00 · **Out:** bus to Sucre after lunch, Day 49
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rw7nxCJFnCpQTAp8Fed3oZFGRGs1OSjSZkitAn5Tr_9F31PdJufNGvoNKxTNng3G91k2ZCxkVujMfRXOBiWSq1RVqUPoraUFd1nOB76XFmdLvMLdFflbj6vIQ90_ZRCJwdNe8=w1200-h360-p-k-no" alt="The Cerro Rico rising above the rooftops of Potosí" width="100%">
 

@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 > **Stop 15 · Day 38 → 41 · 3 nights: Tilcara, Iruya, Purmamarca (1 each)**<br>
 > 🏞️ A high desert valley of striped mountains: hikes from Tilcara, the cliffside village of Iruya, the Hornocal "14 colours" and Purmamarca's red rocks<br>
 > 🛏️ **Tilcara Mística** dorm $23 · **Hospedaje Ale**, Iruya (private; no dorms) $37 · **Giramundo** dorm, Purmamarca $17<br>
-> 🚌 **In:** Salta → Jujuy, Thu 08:05, then Evelia to Tilcara · **Out:** ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Sun 03:40
+> 🚌 **In:** Salta → Jujuy, Day 38 08:05, then Evelia to Tilcara · **Out:** ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Day 41 03:40
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMj8wfdy9cKB5QJ5m9MUPTTuQ4_XZUWYR5mOnVErzSQII-KsdQjb2fwx89j5ENTbn9EYJtV1j-MsDTR6FRHMuxPgwaf-CC9F-lthUZxZUCtrUbeDNcbWgT6Bf_vxnah-hyUZg=w1200-h360-p-k-no" alt="The zigzag coloured ridges of the Serranía de Hornocal" width="100%">
 

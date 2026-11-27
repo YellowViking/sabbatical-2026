@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 > **Stop 10 · Day 21 → 23 · 2 nights · New Year week (peak)**<br>
 > 🏞️ An off-grid village on a cape inside a national park: sea lions, a lighthouse and big moving dunes<br>
 > 🛏️ **Hostel Albatros**, a bed in a 6-bed dorm, $70 for 2 nights<br>
-> 🚌 **In:** Rutas del Sol from Montevideo, Mon 10:10, then the 4x4 truck · **Out:** truck 14:00 + Rutas del Sol 15:10, Wed
+> 🚌 **In:** Rutas del Sol from Montevideo, Day 21 10:10, then the 4x4 truck · **Out:** truck 14:00 + Rutas del Sol 15:10, Day 23
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RxlS4fXkx-a3Th1xH2DxCVd_oJnOLqYRhHgXMN8-sh8cNxlcYQSL7tDbznqAN7M8sEVBqTjXPV_OUlpKyjsu5U_IWjw9M42izYEA6BbHKMyAhKRm4zoSqdOLUw76QpULOrVkZg=w1200-h360-p-k-no" alt="The Cabo Polonio lighthouse above the granite rocks of the cape" width="100%">
 

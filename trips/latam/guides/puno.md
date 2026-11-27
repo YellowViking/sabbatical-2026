@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 > **Stop 22 · Day 56 → 57 · 1 night · transit · Candelaria festival weeks**<br>
 > 🏞️ One evening on Lake Titicaca's Peruvian shore at 3,830 m, between the border and the Colca bus<br>
 > 🛏️ **Kantaya Hostel**, a bed in a 10-bed mixed ensuite dorm, $10.50 (✅ 27 Nov; ⚠️ book now: Candelaria is selling Puno out)<br>
-> 🚌 **In:** Titicaca Bolivia Bus from Copacabana, Mon 13:30 · **Out:** 4M Express to Chivay, Tue pickup 05:50–06:10
+> 🚌 **In:** Titicaca Bolivia Bus from Copacabana, Day 56 13:30 · **Out:** 4M Express to Chivay, Day 57 pickup 05:50–06:10
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tw8MPIKRoB42wPDFklfHkSJZpvl0af4XAIeME-DEL7N3zN57BzZsaqrBL0xiLNqbULgJ_OXYzcOyySgWmGUV7gqMKYAIs4LtgmCOslhuDk9m4JSHwrVxGwrvM-1uwsFxTSRW79=w1200-h360-p-k-no" alt="Puno's rooftops and the bay of Lake Titicaca from the Kuntur Wasi viewpoint" width="100%">
 

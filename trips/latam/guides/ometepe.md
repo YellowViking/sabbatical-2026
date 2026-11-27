@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 33 · Day 81 → 84 · 3 nights**<br>
 > 🏞️ Twin-volcano island in Lake Nicaragua; climb Volcán Concepción from Moyogalpa<br>
 > 🛏️ **Guest House Nena**, a private double 0.3 km from the port, $36 for 3 nights<br>
-> 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Fri · **Out:** morning ferry to San Jorge, then the bus to Granada, Day 84
+> 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Day 81 · **Out:** morning ferry to San Jorge, then the bus to Granada, Day 84
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNqfuifD5gmjptUngsU_O0ULeSapCuKEa9JWQJFMe7HDfOXGj8PLM-EYeEqna80k5uetV3T8iBHGn98aYuDsTwjJGUIHyzUjOmXqbCKs8ygbT5OO3rGppz4BivqFArx8g02aPF=w1200-h360-p-k-no" alt="Volcán Concepción rising from Lake Nicaragua" width="100%">
 

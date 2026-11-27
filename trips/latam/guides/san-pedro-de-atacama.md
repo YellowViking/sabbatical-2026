@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 > **Stop 16 · Day 41 → 45 · 4 nights** (+1 on 27 Nov: a buffer day before Cerro Toco)<br>
 > 🏞️ Adobe oasis town in the Atacama desert: moon-like valleys by bike, salt lagoons, a 5,604 m volcano and dark skies<br>
 > 🛏️ **Hostal Lackuntur**, a bed in a 4-bed mixed dorm, US$73 for 4 nights<br>
-> 🚌 **In:** Andesmar from Purmamarca over Paso de Jama, Sun 03:40 → ≈ 11:30 · **Out:** the 3-day jeep tour to Uyuni, Thu morning
+> 🚌 **In:** Andesmar from Purmamarca over Paso de Jama, Day 41 03:40 → ≈ 11:30 · **Out:** the 3-day jeep tour to Uyuni, Day 45 morning
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdJ6HUgSMZ0XbK2M2n3-IBs9h9qD1hJx1PAgwnJfgZzsYDffnekbk96N1Vw0Dzz0zvTcyCjTklJREJ5WRcTKxrUFJK_8bAygvx4nVTDfVRq8jhspotUY02x98ETe4CIOY-77vz-uXTeGMc=w1200-h360-p-k-no" alt="A sand dune ridge in the Valle de la Luna" width="100%">
 

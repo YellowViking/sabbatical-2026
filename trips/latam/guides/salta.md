@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 > **Stop 14 · Day 36 → 38 · 2 nights**<br>
 > 🏞️ Colonial city in a green valley, with a hill to climb and peñas at night; the last big ATM town before Chile<br>
 > 🛏️ **Clivias Hostel**, a bed in a 4–6-bed mixed dorm, $30 for 2 nights<br>
-> 🚌 **In:** Flecha Bus from Cafayate, Tue 11:30 · **Out:** 20 de Junio to Jujuy, Thu 08:05, then on to Tilcara
+> 🚌 **In:** Flecha Bus from Cafayate, Day 36 11:30 · **Out:** 20 de Junio to Jujuy, Day 38 08:05, then on to Tilcara
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QaDPraVLYEU1Yb2IsTxWtmLvg_gIjQvB6b8oqzq7omrlj-VeCcPm_swdB8Kuq3bsU5XFNqs4jBAD3UKri0qsNceAKXKxP8jbfUnhgtD9n89GD6bDmbLOpTmCzjqrcKfigc61s_sTuC3ZjL=w1200-h360-p-k-no" alt="Salta spread across the Lerma valley, seen from Cerro San Bernardo" width="100%">
 

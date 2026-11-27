@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 31 · Day 77 → 79 · 2 nights**<br>
 > 🏞️ Hot, dry Guanacaste town; the base for the mud pots, fumaroles and waterfalls of Rincón de la Vieja<br>
 > 🛏️ **Hostel Pura Vida en Liberia**, 10-bed mixed dorm, $28 for 2 nights<br>
-> 🚌 **In:** La Fortuna → Tilarán → Cañas → Liberia, Mon · **Out:** bus to the Nicaraguan border, Wed
+> 🚌 **In:** La Fortuna → Tilarán → Cañas → Liberia, Day 77 · **Out:** bus to the Nicaraguan border, Day 79
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tqj1Pap7uwjknMvXUBRXk34BPZkW1XMxEac1YcjgBMmV1vViSKB54mdhoVu7rBq7DXNwdqEOTUVOplkRuvTCxVthcehrpIq8uQh7Kfo-CX-3QHnqKZkqgfqiOpKK2EebU2s0Gqtg=w1200-h360-p-k-no" alt="A mud pool and dry forest in Rincón de la Vieja National Park" width="100%">
 

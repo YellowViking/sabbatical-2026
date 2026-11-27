@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 32 · Day 79 → 81 · 2 nights · border crossing**<br>
 > 🏞️ Surf town on a horseshoe Pacific bay, with Playa Maderas 20 min north<br>
 > 🛏️ **Hostel SaltWater**, a quiet 6-bed dorm a block from the beach, $25 for 2 nights (Nalu Nalu sold out, 27 Nov)<br>
-> 🚌 **In:** buses from Liberia via the Peñas Blancas border, Wed (leave by ~08:00) · **Out:** bus to Rivas and the ferry to Ometepe, Day 81
+> 🚌 **In:** buses from Liberia via the Peñas Blancas border, Day 79 (leave by ~08:00) · **Out:** bus to Rivas and the ferry to Ometepe, Day 81
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S59ePt0-NQslO000JBRfnXJTRHL5-f1HVoYbsxtN4nrVou3k0_FBJI7VUllNcydLTFBYWI8E5ZokPPByFf4kJg3g9Q1YlXjNVx-Mz3Btt19zmhcwhFrk840nIQuEzNing1QpRmXWyTTUyO=w1200-h360-p-k-no" alt="The bay of San Juan del Sur from the hill above town" width="100%">
 

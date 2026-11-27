@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 27 · Day 66 → 70 · 4 nights (+1 on 27 Nov), one of them at Base Crestones** · ⚠️ SINAC showed no Chirripó permits on sale for February (27 Nov)<br>
 > 🏞️ Mountain village at the Chirripó trailhead: 14.5 km and ~2,100 m up to the Crestones hut, then the 3,820 m summit<br>
 > 🛏️ **Casa Colibri Chirripó**, single bed in a mixed dorm, $121 for 3 nights (11 → 13 and 14 → 15), around a bunk at **Base Crestones** on 13 → 14 ($46.68)<br>
-> 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Thu (10–11 h) · **Out:** 06:30 bus to San Isidro, then on to Uvita, Mon
+> 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Day 66 (10–11 h) · **Out:** 06:30 bus to San Isidro, then on to Uvita, Day 70
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QGbCSTApH7O4R1Wrtg90J7pi_oP0qRq7t7BxGpfw8dhZ0TlTohaLpzvFzByOhiYcrKEMnpehuPw9DbYkd66uFx-nVISgMZWHuTqvJUuWpI9cTJ705RVeyWK2dkS73uWwt1lwq7=w1200-h360-p-k-no" alt="A lake in the páramo below the summit of Cerro Chirripó" width="100%">
 

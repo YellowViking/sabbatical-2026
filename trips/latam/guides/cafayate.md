@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 > **Stop 13 · Day 34 → 36 · 2 nights · January peak season**<br>
 > 🏞️ A small valley town: the Río Colorado falls on foot, then a hike in the red Quebrada de las Conchas<br>
 > 🛏️ **Cielito Lindo Hostel**, a bed in a 10-bed dorm, $28.80 for 2 nights<br>
-> 🚌 **In:** night bus Córdoba → Tucumán, then Aconquija 06:00 → 12:31, Sun · **Out:** bus to Salta through the Quebrada, Tue
+> 🚌 **In:** night bus Córdoba → Tucumán, then Aconquija 06:00 → 12:31, Day 34 · **Out:** bus to Salta through the Quebrada, Day 36
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLpnXLRvpx-QkU11LLhBOuX_qkg3btqhYdQnbfDUY-D5OyGdDT2TnskrYcxOPjdA4lav_7ANMca6AzNbSHDGPnEucmB_OFlMWyirNA70k4p6K98jkvI3d4CCEmN4H_MEXc-zuWXw=w1200-h360-p-k-no" alt="Red rock ridges of the Quebrada de las Conchas from the Tres Cruces viewpoint" width="100%">
 

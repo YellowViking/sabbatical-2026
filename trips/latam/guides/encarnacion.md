@@ -8,7 +8,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 > **Plan A (dropped) · Day 16 → 19 · 3 nights · Christmas**<br>
 > 🏞️ River town and beach on the Paraná, with Jesuit ruins nearby<br>
 > 🛏️ **Departamentos De La Costa**, a whole flat with a kitchen, $76 for 3 nights<br>
-> 🚌 **In:** La Encarnacena from Asunción, Wed 08:30 · **Out:** EGA overnight to Montevideo, Sat 13:30
+> 🚌 **In:** La Encarnacena from Asunción, Day 16 08:30 · **Out:** EGA overnight to Montevideo, Day 19 13:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZETkaIy6IPRNTcu4QDmwNc3mgbzH6Ba72mXpQUFXaUel5eKBUFWcKV6Q1ZoNv881rYJkBGwZ-VObQd7Xqz86hgSJ4kT7q61QjlpXf0j-Dp0SGOfnzIPDqFREhkJVZDnwWbPxn=w1200-h360-p-k-no" alt="Sunset over the Paraná from the Costanera de Encarnación" width="100%">
 

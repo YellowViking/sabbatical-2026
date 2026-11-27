@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 > **Stop 20 · Day 52 → 55 · 3 nights · Alasitas fair (from the 24th) is on**<br>
 > 🏞️ A canyon city at 3,640 m under Illimani: cable cars, markets, and big days out to Tiwanaku, Pico Austria or the Death Road<br>
 > 🛏️ **La Casa Bonita**, a bed in a 4-bed mixed dorm, $36 for 3 nights (✅ 27 Nov, Hostelworld = Agoda = Booking), 90 m from the bus terminal<br>
-> ✈ **In:** BoA Sucre → La Paz via Cochabamba, Thu 09:05 → 11:25 · 🚌 **Out:** bus to Copacabana, Sun 07:30
+> ✈ **In:** BoA Sucre → La Paz via Cochabamba, Day 52 09:05 → 11:25 · 🚌 **Out:** bus to Copacabana, Day 55 07:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TEUOjBJJiBLPHdHpv87vFH3e8rDRiuPAG6orIH6GVaTuMcigV-qNi13xo8_n_cKzKuPdLjRlh0mi4StJWOuqKfYzrL8C6kBFBicy9T-eDJ4JL1ZukH6EvViMq_tuPDGP0hrbdXQ4BbgOvN=w1200-h360-p-k-no" alt="La Paz's high-rises with snow-capped Illimani behind, from Mirador Killi Killi" width="100%">
 
@@ -71,7 +71,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - via Santa Cruz, 18:30 → 21:05, US$74.
 - **Buy** on boa.bo or Google Flights' BoA link (cash fare; a checked bag is normally included on BoA domestic, ≈).
 - **Nonstop options:** BoA's restored SRE–LPB nonstop started 17 Nov 2026 and runs **3× a week**: ≈ OB 561 07:35 on Wed/Thu and OB 567 21:30 on Tue/Wed (FlightsFrom/AI-summary lead), never Sunday.
-  - ⚠️ **Not confirmed for Day 52:** Google Flights (27 Nov) shows no SRE–LPB nonstop on Day 52 or Day 51, nor on the control dates 3 and 9 Dec, only the connections above. boa.bo sits behind a bot check, so ask BoA (app or office) before relying on a 07:35.
+  - ⚠️ **Not confirmed for Day 52:** Google Flights (27 Nov) shows no SRE–LPB nonstop on Day 52 or Day 51, nor on two control dates in early December, only the connections above. boa.bo sits behind a bot check, so ask BoA (app or office) before relying on a 07:35.
 - ✅ **EcoJet** announces a "new route Sucre–La Paz from 4 December" on flyecojet.aero, but no schedule is shown. **Check EcoJet for a nonstop on your flight day before buying the BoA connection.**
 - **Ground option:** overnight bus Day 51 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$49 flight is better.
 - **Sucre's Alcantarí airport** is ≈ 30 km out (taxi ≈ Bs 80–100, ≈; leave town by 07:30).

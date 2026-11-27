@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 35 · Day 86 → 89 · 3 nights**<br>
 > 🏞️ Hot colonial city below the Maribios volcano chain: board down Cerro Negro, camp on El Hoyo<br>
 > 🛏️ **Casa Lula León Hostal**, a quiet mixed dorm with a kitchen, $33 for 3 nights<br>
-> 🚌 **In:** microbuses from Granada via Managua, Wed · **Out:** 05:20 bus to Estelí, Day 89
+> 🚌 **In:** microbuses from Granada via Managua, Day 86 · **Out:** 05:20 bus to Estelí, Day 89
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcH5WLMaFpde4oOhMsJpmuDERNgew-x4mKju3gQkP0G26hE9YMj8tLqZ9vmlvpBuHQzJm-5saVeEG2j_LKLoN37iWTHCs9Sv92GIKSE7fztZ-K4GTNBzJqMJowXom-3YWqXUdI=w1200-h360-p-k-no" alt="The black and red slopes of Cerro Negro" width="100%">
 

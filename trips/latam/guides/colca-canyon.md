@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 > **Stop 23 · Day 57 → 59 · 2 nights (Chivay, then the Sangalle oasis) · canyon trek**<br>
 > 🏞️ Chivay → Cruz del Cóndor → Cabanaconde → Sangalle: condors at dawn, a rim walk, ≈ 1,100 m down to an oasis and a 05:00 climb out<br>
 > 🛏️ **Samay Lodge**, Chivay, $12 · then **Paraíso Las Palmeras**, Sangalle oasis, $32<br>
-> 🚌 **In:** 4M Express from Puno, Tue 06:15 · **Out:** bus Cabanaconde → Arequipa, Thu 09:30
+> 🚌 **In:** 4M Express from Puno, Day 57 06:15 · **Out:** bus Cabanaconde → Arequipa, Day 59 09:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SlQxm3Oy8GQa-YtjmZZU1jnJ2SOgqQi12d8jjx9vXOu57ipHzcX_mpuSugR1OeW6fTuP7_0RBYr1ZhVQ6K__SoIr4-mk4uF_4r83OtASldkJbmqmuWVA_TdExy0Z-Ngvm55gKqzg=w1200-h360-p-k-no" alt="A hiker on the trail above the deep Colca Canyon near Sangalle" width="100%">
 

@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 34 · Day 84 → 86 · 2 nights: 1 in Granada, 1 at Laguna de Apoyo**<br>
 > 🏞️ Colonial lake town, Masaya's crater at night, then a night on a warm crater lake<br>
 > 🛏️ **De Boca en Boca** (Granada) $14 + **Coco Bay** (Laguna de Apoyo, on the shore) $14<br>
-> 🚌 **In:** morning ferry from Ometepe + bus via Rivas, Mon · **Out:** microbus via Managua to León, Day 86
+> 🚌 **In:** morning ferry from Ometepe + bus via Rivas, Day 84 · **Out:** microbus via Managua to León, Day 86
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDU7JG00K_QMAfW6cBaJUHGSXG1SDESL0CV3FNef88WDQphk18HAvqK1ugIdfIYA9jeH27PosJwqhhY838MqPyQRX8YuGQ74RBj4KoPqqG90MMukSgpZ3bXMmDY5oCpoTbONTsfw=w1200-h360-p-k-no" alt="Laguna de Apoyo from the crater rim" width="100%">
 

@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 > **Stop 19 · Day 49 → 52 · 3 nights**<br>
 > 🏞️ The white colonial city, the warmest stop of the section, and the base for a 2-day Inca-trail hike into the Maragua crater<br>
 > 🛏️ **Villa Oropeza Hostel**, a bed in a 6-bed mixed dorm with curtains, US$16.95 for 3 nights<br>
-> 🚌 **In:** bus from Potosí, Mon 13:00 or 14:00 · **Out:** ✈ BoA to La Paz, Thu 09:05 (see the [La Paz guide](la-paz.md))
+> 🚌 **In:** bus from Potosí, Day 49 13:00 or 14:00 · **Out:** ✈ BoA to La Paz, Day 52 09:05 (see the [La Paz guide](la-paz.md))
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20170805_Bolivia_1128%2B31_Pano_crop_Sucre_sRGB_%2837926300676%29.jpg/1280px-20170805_Bolivia_1128%2B31_Pano_crop_Sucre_sRGB_%2837926300676%29.jpg" alt="Sucre's red rooftops spread below the hills, seen from above the centre" width="100%">
 

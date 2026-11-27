@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 > **Stop 21 · Day 55 → 56 · 1 night on Isla del Sol** (the Copacabana night went to Potosí on 26 Nov)<br>
 > 🏞️ Lake Titicaca: a night on Isla del Sol and the Inca ridge walk across it, up to 4,050 m<br>
 > 🛏️ **Inti Wasi Lodge** on the island, $18 (Mia Posada in Copacabana only if you split the night differently)<br>
-> 🚌 **In:** Vicuña Travel from La Paz, Sun 07:30 · **Out:** bus to Puno, Mon 18:00 (or 13:30 if you skip the ridge walk)
+> 🚌 **In:** Vicuña Travel from La Paz, Day 55 07:30 · **Out:** bus to Puno, Day 56 18:00 (or 13:30 if you skip the ridge walk)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKAn4qUedMZTF2eZoGWbTKmJlj-yPLoVLSjlqWxTrSIkquQ6aXWuIpDxlJkkgG66EAlBvw_MvMd2RF2w6lrrh7VD8g-Ka0Lz82unDgXH3eMsHH69q0pyb20RvhrFeknkUcjiOjCe9l5noQ=w1200-h360-p-k-no" alt="Copacabana's bay on Lake Titicaca, full of moored boats, from the hill above" width="100%">
 

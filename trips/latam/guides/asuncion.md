@@ -8,7 +8,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 > **Plan A (dropped) · Day 14 → 16 · 2 nights**<br>
 > 🏞️ Paraguay's capital on its river bay: a waterfront promenade, a compact old centre and a mural-covered hillside barrio<br>
 > 🛏️ **Hostel Chaton**, a bunk in a mixed dorm, $18 for 2 nights<br>
-> 🚌 **In:** Expresso Nordeste from Foz do Iguaçu, Mon 08:00 · **Out:** La Encarnacena to Encarnación, Wed 08:30
+> 🚌 **In:** Expresso Nordeste from Foz do Iguaçu, Day 14 08:00 · **Out:** La Encarnacena to Encarnación, Day 16 08:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9STCKPzMgqZAkkQwzczhQHvyLm_rvIB4IKVHsvHZH80sgShTeP2S4ABZ_SAqXpnOIHzGgXpHYIosNQkKT9TLO_q43H3JVM8FmOuhdut4oMY0o9LqrzeYMplm2CfogFQOrFesYcV2g=w1200-h360-p-k-no" alt="Palacio de López, the presidential palace in Asunción's historic centre" width="100%">
 

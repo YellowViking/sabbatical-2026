@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 > **Stop 24 · Day 59 → 61 · 2 nights (1 under options B and C)**<br>
 > 🏞️ The white-stone city under Misti, Chachani and Pichu Pichu, and the driest stop of the week<br>
 > 🛏️ **Econunay**, a bed in an 8-bed mixed ensuite dorm, $18.94 for 2 nights<br>
-> 🚌 **In:** bus from Cabanaconde, Thu 09:30 · **Out:** three open options (A: fly Day 61 06:50 · B: fly to Lima on the Day 60 afternoon · C: night bus on Day 60 to Huacachina + Paracas)
+> 🚌 **In:** bus from Cabanaconde, Day 59 09:30 · **Out:** three open options (A: fly Day 61 06:50 · B: fly to Lima on the Day 60 afternoon · C: night bus on Day 60 to Huacachina + Paracas)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPTx4F42BX0lvY1Lmm26GsgtT8z0Y2nWCnvCEyQx_xSSUVKNPNQsDRvq4N3OslIabt2I1eCzJBrq9kDeY17GiCCZVgtg1zf-SBNfdYVTV0Mm1kn2GVGnLFTVJd_qRUs3qoGoW_=w1200-h360-p-k-no" alt="The cone of El Misti volcano above Arequipa's green river valley" width="100%">
 

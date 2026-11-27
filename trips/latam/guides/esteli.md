@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 36 · Day 89 → 92 · 3 nights · new 26 Nov; Somoto Canyon day added 27 Nov**<br>
 > 🏞️ Nicaragua's only cool highland stop (≈ 850 m), with two cloud-forest and waterfall reserves on its doorstep, and Somoto Canyon a bus ride north<br>
 > 🛏️ **Melody 78 Hostel & Suites**, a central dorm bed, $42 for 3 nights (double $81)<br>
-> 🚌 **In:** 05:20 bus from León, Sat · **Out:** express bus to Managua ≈ 12:00–13:15, Day 92
+> 🚌 **In:** 05:20 bus from León, Day 89 · **Out:** express bus to Managua ≈ 12:00–13:15, Day 92
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sw94uBcj3WuejeaUDRpCr2FqDBdIni7ilyeUQCe5M6YvcjK5Hz-5lxFbjmYjF9wOrGz4NG4UN8R96QodIk188D_T5yrKPZ6F5MyEKTPBFtmB_JJOybDaq07MQ-YvNEOur0NLbm=w1200-h360-p-k-no" alt="The northern highlands from the Tisey–La Estanzuela reserve" width="100%">
 

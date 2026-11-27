@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 29 · Day 72 → 74 · 2 nights**<br>
 > 🏞️ Cool, windy cloud-forest town (Santa Elena): reserve trails at dawn, a fig tree you can climb inside, a hill with a view toward Arenal<br>
 > 🛏️ **Monteverde Backpackers**, 6-bed ensuite dorm, $24 for 2 nights<br>
-> 🚌 **In:** Uvita → Quepos → Puntarenas → Santa Elena, Wed (~11–12 h) · **Out:** jeep-boat-jeep to La Fortuna, Fri 08:00
+> 🚌 **In:** Uvita → Quepos → Puntarenas → Santa Elena, Day 72 (~11–12 h) · **Out:** jeep-boat-jeep to La Fortuna, Day 74 08:00
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGvQ0r7-N2u7WFd8k2tWQfCM52ZF02PP1qSYSdx31e1xj6Uk65Jaix1tOM5MCCVnIHnhY5X7d9NnqenS-IhRjbD2Ejm5Eiz5lJP33nQkpctiDvE8iYrICXWsO5R9qOh3oZOcZLhOModGsD=w1200-h360-p-k-no" alt="Mist in the canopy of the Santa Elena cloud forest" width="100%">
 

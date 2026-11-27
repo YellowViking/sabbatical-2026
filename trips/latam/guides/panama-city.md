@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 > **Stop 25 · Day 61 → 63 · 2 nights · 🎭 Carnaval (Days 61–64)**<br>
 > 🏞️ The canal, Casco Viejo and a bayside skyline, with rainforest a short ride out<br>
 > 🛏️ **El Machico Hostel**, 10-bed mixed dorm, $38 for 2 nights<br>
-> ✈️ **In:** Sky + Copa from Arequipa via Lima, Sat (lands 17:08) · **Out:** Air Panama Albrook → David, Mon 07:15
+> ✈️ **In:** Sky + Copa from Arequipa via Lima, Day 61 (lands 17:08) · **Out:** Air Panama Albrook → David, Day 63 07:15
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QsiSmJT2coXgxzg64ERGJB8fCnnFiAm5K5zst8W9_p_AVzF3SZJn8m4mJodqXno-hI2wCjEm1aVTzgtb1LiX7mbVf9NovPEvFtXk-iphQXj0o6tB5kCi3a541aMOZZnToK3FFQUQ=w1200-h360-p-k-no" alt="The Panama City skyline from the Cinta Costera sea wall" width="100%">
 

@@ -4,7 +4,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 > **Last leg · Day 92 → 93 · 1 night by the airport · ✈ home**<br>
 > 🛏️ **Casa Robles MGA Airport Homestay**, an apartment ≈ 2 km west of the terminal, $17<br>
-> 🚌 **In:** express bus from Estelí to Mercado Mayoreo ≈ 12:00–13:15, Tue · **Out:** ✈ Alaska award MGA 07:00 → MIA → SEA 22:24, Day 93 (25k + $94.42)
+> 🚌 **In:** express bus from Estelí to Mercado Mayoreo ≈ 12:00–13:15, Day 92 · **Out:** ✈ Alaska award MGA 07:00 → MIA → SEA 22:24, Day 93 (25k + $94.42)
 
 ## 🗺️ Map
 

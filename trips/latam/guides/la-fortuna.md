@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 > **Stop 30 · Day 74 → 77 · 3 nights**<br>
 > 🏞️ Town under the Arenal volcano: a free hot river, lava-flow trails and a day trip to Río Celeste<br>
 > 🛏️ **Ceiba Hostel**, capsule in an 8-bed dorm, $43 for 3 nights ✅ 27 Nov<br>
-> 🚐 **In:** jeep-boat-jeep from Monteverde, Fri 08:00 · **Out:** buses via Tilarán and Cañas to Liberia, Mon morning
+> 🚐 **In:** jeep-boat-jeep from Monteverde, Day 74 08:00 · **Out:** buses via Tilarán and Cañas to Liberia, Day 77 morning
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TY7qRYx6i950OsuLY_5vqQrY86KFk5a2Yh3GIitPkFHO-lT3CHcDCXR2gab2an_oPH7Ht2KhgK2aupiGvkRmSuJePbGm7ZrMYXqMvRtt_BHrsiYuYKxGr_vGGP1AQIG7GRMp9JBg=w1200-h360-p-k-no" alt="The cone of Volcán Arenal above the forest" width="100%">
 
