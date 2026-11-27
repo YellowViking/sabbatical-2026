@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md). Stops: [Puno](puno.md) · [Colca Canyon](colca-canyon.md) · [Arequipa](arequipa.md) · [Panama City](panama-city.md) · [Boquete](boquete.md)
 
-**5. Southern Peru and Panama: stops 22–26 (Day 53 → 63)**
+**5. Southern Peru and Panama: stops 22–26 (Day 53 → 64)**
 
 *Checked 24 Nov 2026. Prices are USD totals for the stay unless marked.*
 - *✅ = verified on the operator's or authority's own site; ≈ = estimate or secondary source (AI Mode, aggregators, LP).*
@@ -16,12 +16,12 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Puno](puno.md) · [Colca
 | 24 | Arequipa | 1→Day 58 | Econunay dorm **$18.94** (Hostelworld = Agoda) | Friendly AQP dorm $20.40 (Hostelworld) | Cabanaconde bus 09:30, S/35 ≈ |
 | ✈ | AQP→LIM→PTY | Day 58 | Sky 06:50 ($52) + Copa CM760 13:20 → 17:08 ($274) = **$326** | | Google Flights live |
 | 25 | Panama City | 3→Day 60 | El Machico dorm **$38** (Booking) | Bodhi dorm $35.70 (Hostelworld) | Metro L2 from the airport, $0.85 ✅ |
-| 26 | Boquete | 5→Day 63 | ONDA Boquete dorm **$116** (Booking) | Doña Cata dorm $42 (Booking, noisy) | Air Panama PAC → DAV 07:00, $67 |
-| → | to San Gerardo | Day 63 | | | Tracopa 08:00 ✅ + Hernández Solís 14:30 ✅ |
+| 26 | Boquete | 5→Day 64 | ONDA Boquete dorm **$116** (Booking) | Doña Cata dorm $42 (Booking, noisy) | Air Panama PAC → DAV 07:00, $67 |
+| → | to San Gerardo | Day 64 | | | Tracopa 08:00 ✅ + Hernández Solís 14:30 ✅ |
 
 ## Region-wide warnings (read first)
 
-- **Yellow-fever card.** Panama requires a yellow-fever certificate from travellers ≥1 year arriving from risk countries; Peru (and Bolivia, Brazil, Paraguay) are on the list (CDC destination page, updated Apr 2025). Costa Rica requires it too for people coming from Brazil, Peru, Bolivia, Argentina, Colombia, Ecuador and others (CDC; Tica Bus's migration page repeats it). The vaccine must be ≥10 days old. Carry the card on the Day 58 flight to Panama **and** at Paso Canoas on Day 63.
+- **Yellow-fever card.** Panama requires a yellow-fever certificate from travellers ≥1 year arriving from risk countries; Peru (and Bolivia, Brazil, Paraguay) are on the list (CDC destination page, updated Apr 2025). Costa Rica requires it too for people coming from Brazil, Peru, Bolivia, Argentina, Colombia, Ecuador and others (CDC; Tica Bus's migration page repeats it). The vaccine must be ≥10 days old. Carry the card on the Day 58 flight to Panama **and** at Paso Canoas on Day 64.
 - **Panama Carnaval = Sat 6 → Tue 9 Feb 2027** (Ash Wednesday is 10 Feb). On Fri 5 Feb half of Panama City leaves for the interior from Albrook, Chiriquí included. Buy the Albrook → David bus ticket at the terminal early (or fly) and book Boquete beds now.
 - **Time zones:** Bolivia UTC−4 → Peru UTC−5 (gain 1 h at Kasani); Peru and Panama are both UTC−5; Costa Rica is UTC−6 (gain 1 h at Paso Canoas).
 
@@ -52,7 +52,7 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Puno](puno.md) · [Colca
 
 1. **Yellow-fever card.** Panama (arrival from Peru) and Costa Rica (arrival with Peru in recent travel) both list it as an entry requirement. Confirm you have a valid ICVP before booking the Copa ticket.
 2. **Onward-travel proof.** Panama and Costa Rica each want a ticket out of *their* country. The MGA → SEA flight covers neither directly.
-   - Plan: buy a **Tica Bus San José → Managua ($33)** before Day 63 for Costa Rica.
+   - Plan: buy a **Tica Bus San José → Managua ($33)** before Day 64 for Costa Rica.
    - For Copa check-in in Lima, carry the MGA → SEA itinerary plus that bus ticket.
    - Tica Bus's refund/change policy isn't checked.
 3. **Volcán Barú access.** The summit road at "La Nevera" was closed by a landslide on 7 Jul 2026, and I found no reopening notice. Re-check MiAmbiente the week before. The foreigner fee is $5 or $7 (online portal vs the 2022 resolution); not confirmed.

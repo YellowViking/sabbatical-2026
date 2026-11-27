@@ -1,11 +1,11 @@
 # 🇵🇦 Panama City
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [Boquete](boquete.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [San Blas](san-blas.md) →
 
-> **Stop 25 · Day 61 → 63 · 2 nights · 🎭 Carnaval (Days 61–64)**<br>
+> **Stop 25 · Day 61 → 64 · 2 nights (Day 61 → 62 and Day 63 → 64), with San Blas in between · 🎭 Carnaval weekend**<br>
 > 🏞️ The canal, Casco Viejo and a bayside skyline, with rainforest a short ride out<br>
-> 🛏️ **El Machico Hostel**, 10-bed mixed dorm, $38 for 2 nights<br>
-> ✈️ **In:** Sky + Copa from Arequipa via Lima, Day 61 (lands 17:08) · **Out:** Air Panama Albrook → David, Day 63 07:15
+> 🛏️ **El Machico Hostel**, 10-bed mixed dorm, $19 a night × 2 (✅ 27 Nov); it keeps your big pack during San Blas<br>
+> ✈️ **In:** Sky + Copa from Arequipa via Lima, Day 61 (lands 17:08) · **Out:** Air Panama Albrook → David, Day 64 07:15
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QsiSmJT2coXgxzg64ERGJB8fCnnFiAm5K5zst8W9_p_AVzF3SZJn8m4mJodqXno-hI2wCjEm1aVTzgtb1LiX7mbVf9NovPEvFtXk-iphQXj0o6tB5kCi3a541aMOZZnToK3FFQUQ=w1200-h360-p-k-no" alt="The Panama City skyline from the Cinta Costera sea wall" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 ![Map of Panama City: the beds, Albrook terminal and airport, the Cinta Costera, Casco Viejo, Cerro Ancón and the food and beer stops](img/panama-city-map-f6e00a9a.jpg)
 
-**In town:** ★ **[El Machico Hostel](https://www.google.com/maps?ftid=0x8faca8e14b172001:0x4bfdc8cb4d358a6b)** (the pick, [book](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-06&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD)) · **1** [Bodhi Panama City](https://www.google.com/maps?ftid=0x8faca916526c0533:0x563c8700c4f4203b) (backup, [book](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-06&to=2027-02-08&guests=1)) · **2** [Greg's Place](https://www.google.com/maps?ftid=0x8faca94045920d97:0x3ba8f71db100ad63) in Albrook (private alt, [book](https://www.booking.com/searchresults.html?ss=Greg%27s+Place+in+Albrook+Panama+City&checkin=2027-02-06&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [Albrook bus terminal](https://www.google.com/maps?ftid=0x8faca8a3bb04874b:0xb87b93195ae1d667) · **A** [Albrook airport (PAC)](https://www.google.com/maps?ftid=0x8faca8a1cbb2f85b:0x111d1d322af8388) · **3** [Cinta Costera](https://www.google.com/maps?ftid=0x8faca8c4b805dbe7:0xa9483c1626ca4251) [🚌 24 min (bus C640)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9692523,-79.5303661&travelmode=transit) · **4** [Paseo Esteban Huertas](https://www.google.com/maps?ftid=0x8facaf33672b4595:0x58b0279729701266) [🚌 48 min (bus I182 + bus C982)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9507893,-79.5318691&travelmode=transit) and [Plaza de Francia](https://www.google.com/maps?ftid=0x8facaf3482c1021d:0x2ebf4e48351e5242) (Casco Viejo) · **5** [Cerro Ancón](https://www.google.com/maps?ftid=0x8faca8b2045dd153:0x7b3744c2c67cec1e) [🚌 36 min (bus S420)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9595967,-79.5476994&travelmode=transit) · **6** [Parque Natural Metropolitano](https://www.google.com/maps?ftid=0x8faca88917f4d563:0x13615a6fe608ac41) [🚌 1 h 5 min (bus C941)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9935942,-79.5462943&travelmode=transit) · **7** [Mercado de Mariscos](https://www.google.com/maps?ftid=0x8faca8e771a6d8b1:0xd4efef42b96f67c3) [🚌 23 min (bus S420)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9589594,-79.5375159&travelmode=transit) · **8** [Casa Bruja Casco](https://www.google.com/maps?ftid=0x8faca8cabb6eaaab:0x7626bf627060fe3f) [🚌 27 min (bus S420)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9533861,-79.5371415&travelmode=transit) and [La Rana Dorada](https://www.google.com/maps?ftid=0x8faca8ca948d61d9:0x591d7b43d8f306bd) (craft beer, a block apart)
+**In town:** ★ **[El Machico Hostel](https://www.google.com/maps?ftid=0x8faca8e14b172001:0x4bfdc8cb4d358a6b)** (the pick, [book](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-06&checkout=2027-02-09&group_adults=1&no_rooms=1&selected_currency=USD)) · **1** [Bodhi Panama City](https://www.google.com/maps?ftid=0x8faca916526c0533:0x563c8700c4f4203b) (backup, [book](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-06&to=2027-02-09&guests=1)) · **2** [Greg's Place](https://www.google.com/maps?ftid=0x8faca94045920d97:0x3ba8f71db100ad63) in Albrook (private alt, [book](https://www.booking.com/searchresults.html?ss=Greg%27s+Place+in+Albrook+Panama+City&checkin=2027-02-06&checkout=2027-02-09&group_adults=1&no_rooms=1&selected_currency=USD)) · **B** [Albrook bus terminal](https://www.google.com/maps?ftid=0x8faca8a3bb04874b:0xb87b93195ae1d667) · **A** [Albrook airport (PAC)](https://www.google.com/maps?ftid=0x8faca8a1cbb2f85b:0x111d1d322af8388) · **3** [Cinta Costera](https://www.google.com/maps?ftid=0x8faca8c4b805dbe7:0xa9483c1626ca4251) [🚌 24 min (bus C640)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9692523,-79.5303661&travelmode=transit) · **4** [Paseo Esteban Huertas](https://www.google.com/maps?ftid=0x8facaf33672b4595:0x58b0279729701266) [🚌 48 min (bus I182 + bus C982)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9507893,-79.5318691&travelmode=transit) and [Plaza de Francia](https://www.google.com/maps?ftid=0x8facaf3482c1021d:0x2ebf4e48351e5242) (Casco Viejo) · **5** [Cerro Ancón](https://www.google.com/maps?ftid=0x8faca8b2045dd153:0x7b3744c2c67cec1e) [🚌 36 min (bus S420)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9595967,-79.5476994&travelmode=transit) · **6** [Parque Natural Metropolitano](https://www.google.com/maps?ftid=0x8faca88917f4d563:0x13615a6fe608ac41) [🚌 1 h 5 min (bus C941)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9935942,-79.5462943&travelmode=transit) · **7** [Mercado de Mariscos](https://www.google.com/maps?ftid=0x8faca8e771a6d8b1:0xd4efef42b96f67c3) [🚌 23 min (bus S420)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9589594,-79.5375159&travelmode=transit) · **8** [Casa Bruja Casco](https://www.google.com/maps?ftid=0x8faca8cabb6eaaab:0x7626bf627060fe3f) [🚌 27 min (bus S420)](https://www.google.com/maps/dir/?api=1&origin=8.9780616,-79.5207519&destination=8.9533861,-79.5371415&travelmode=transit) and [La Rana Dorada](https://www.google.com/maps?ftid=0x8faca8ca948d61d9:0x591d7b43d8f306bd) (craft beer, a block apart)
 
 ![Map of the area: Tocumen airport to the east, the canal locks and Pipeline Road to the north-west](img/panama-city-area-map-c01ddea6.jpg)
 
@@ -30,20 +30,22 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 | Day | Plan |
 |---|---|
 | **Day 61** · 🎭 Carnaval | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo** (it's the city's Carnaval site: crowds; see Good to know). |
-| **Day 62** · 🎭 Carnaval | 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Sat) and a craft beer. |
-| **Day 63** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David, then the bus up to Boquete (Carnaval Monday; the exodus from the city was on Fri–Sat). |
+| **Day 62** · 🎭 Carnaval | 🚙 ≈ 05:00 hotel pickup for the **[San Blas](san-blas.md)** 2-day tour (4×4 to Cartí, boat to the islands). Leave the big pack at El Machico and take a small bag. Night on the islands. |
+| **Day 63** · 🎭 Carnaval | Back from San Blas in the afternoon; check back in at El Machico. Evening: Casco Viejo and the Cinta Costera (free). |
+| **Day 64** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David, then the bus up to Boquete. **Or** take the 16:15 flight and do the morning here: 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Sat) and a craft beer. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (Day 61 → 63, 2 nights)
+**Beds** (Day 61 → 62 and Day 63 → 64; the night between is on San Blas)
 
 | | Where | Total | Location | From Tocumen airport | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **El Machico Hostel** · 10-bed mixed dorm | **$38** | 9.2 | 🚕 ≈ 33 min; or Metro Line 2 → Line 1 from the airport ($0.85, see below) · ℹ️ outside the centre (56 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.9780616,-79.5207519&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=El+Machico+Hostel+Panama+City&checkin=2027-02-06&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/88333/el-machico-hostel/?from=2027-02-06&to=2027-02-08&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=728716&checkin=2027-02-06&checkout=2027-02-08&NumberofAdults=1&Rooms=1) |
-| Backup | **Bodhi Panama City** · 16-bed mixed ensuite dorm | $35.70 | 9.0 | 🚕 ≈ 33 min; or Metro Line 2 → Line 1 ($0.85) · ℹ️ outside the centre (1 hr on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.980063699999999,-79.5208425&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-06&to=2027-02-08&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-06&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-06&checkout=2027-02-08&NumberofAdults=1&Rooms=1) |
-| Private alt | **Greg's Place in Albrook** · queen room, shared bath | $92 ✅ 27 Nov | 9.4 | Not routed. 1.3 km from the Albrook bus terminal and Albrook airport (PAC) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Greg%27s+Place+in+Albrook+Panama+City&checkin=2027-02-06&checkout=2027-02-08&group_adults=1&no_rooms=1&selected_currency=USD) |
+| ⭐ **Pick**, Day 61 → 62 | **El Machico Hostel** · 10-bed mixed dorm | **$19** ✅ 27 Nov | 9.2 | 🚕 ≈ 33 min; or Metro Line 2 → Line 1 from the airport ($0.85, see below) · ℹ️ outside the centre (56 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.9780616,-79.5207519&travelmode=driving) | [Booking](https://www.booking.com/hotel/pa/el-machico-hostel.html?checkin=2027-02-06&checkout=2027-02-07&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick**, Day 63 → 64 | **El Machico Hostel** · the same dorm, after San Blas | **$19** ✅ 27 Nov | 9.2 | back from San Blas by the tour van | [Booking](https://www.booking.com/hotel/pa/el-machico-hostel.html?checkin=2027-02-08&checkout=2027-02-09&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup | **Bodhi Panama City** · 16-bed mixed ensuite dorm | $35.70 | 9.0 | 🚕 ≈ 33 min; or Metro Line 2 → Line 1 ($0.85) · ℹ️ outside the centre (1 hr on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=9.0690876,-79.3830103&destination=8.980063699999999,-79.5208425&travelmode=driving) | [Hostelworld](https://www.hostelworld.com/hostels/p/313726/bodhi-panama-city/?from=2027-02-06&to=2027-02-09&guests=1) · [Booking (search)](https://www.booking.com/searchresults.html?ss=Bodhi+Panama+City+Panama+City&checkin=2027-02-06&checkout=2027-02-09&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=5867381&checkin=2027-02-06&checkout=2027-02-09&NumberofAdults=1&Rooms=1) |
+| Private alt | **Greg's Place in Albrook** · queen room, shared bath | $92 ✅ 27 Nov | 9.4 | Not routed. 1.3 km from the Albrook bus terminal and Albrook airport (PAC) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Greg%27s+Place+in+Albrook+Panama+City&checkin=2027-02-06&checkout=2027-02-09&group_adults=1&no_rooms=1&selected_currency=USD) |
 
 **Transport**
 
@@ -52,7 +54,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 | In | **Sky H2 5102** · Arequipa → Lima | **Day 61 06:50 → 08:35** | **$38** ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |
 | ⚠️ In | **Copa CM760** · Lima → Panama City (separate ticket) | **Day 61 13:20 → 17:08** | **$274** ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |
 | Points | Copa LIM → PTY on United miles | Day 61: CM400 10:30, or the 02:15 / 02:35 red-eyes | 17,500 + $31.49 saver | [United award search](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
-| Out | **Air Panama 7P670** · Albrook (PAC) → David | **Day 63 07:15 → 08:00** (✅ Air Panama timetable: Mon–Sat) | $67 (24 Nov) | [Air Panama](https://www.airpanama.com/) (details in the [Boquete guide](boquete.md)) |
+| Out | **Air Panama 7P670** · Albrook (PAC) → David | **Day 64 07:15 → 08:00** (✅ Air Panama timetable: Mon–Sat) | $67 (24 Nov) | [Air Panama](https://www.airpanama.com/) (details in the [Boquete guide](boquete.md)) |
 
 <details><summary>How to read these tables</summary>
 
@@ -84,17 +86,17 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Option for a later start:** JetSMART 08:17 → 09:55 + CM760 gives a 3 h 25 min gap ($338).
 - **Lima night: not worth it.** The same-day pair has a 4.75 h buffer, and staying over would cost a Panama night.
 - **The Copa red-eyes** (CM338 02:15 → 05:53 on Day 61, after an evening AQP → LIM on the 5th): you'd save a bed but lose sleep and a Panama evening. Not recommended.
-- **Single ticket AQP → PTY:** Google only sells **LATAM + Aeroméxico via Lima and Mexico City at $1,414** (27 Nov: leaves 19:35, arrives Day 62 13:31), which isn't reasonable.
+- **Single ticket AQP → PTY:** Google only sells **LATAM + Aeroméxico via Lima and Mexico City at $1,414** (27 Nov: leaves 19:35, arrives Day 61 13:31), which isn't reasonable.
   - Copa and Avianca don't fly from Arequipa.
   - From Lima, Avianca via Bogotá ($254) saves only $20 over Copa's nonstop ($274) and takes 7–8 h instead of 3 h 48 min.
   - So: two tickets, with Copa nonstop LIM → PTY.
-- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to Day 69, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and Day 60 versus $52–62 on the 3rd (24 Nov). On 27 Nov: $36–38 on Day 61, from $39 on Day 60.
+- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to Day 68, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and Day 60 versus $52–62 on the 3rd (24 Nov). On 27 Nov: $36–38 on Day 61, from $39 on Day 60.
 - **Bags:** Sky and JetSMART's cheapest fares are a personal item only; a cabin bag is ≈ $15–30 extra. The Copa economy-basic bag allowance isn't checked yet; read it before buying.
 - **Lima self-transfer (new Jorge Chávez terminal):** you arrive domestic, exit landside, check in at Copa (the counter usually closes 60 min before departure), then exit immigration (no exit tax; it's in the fare).
 
 **Panama entry** (the Tica Bus migration page; the CDC page for yellow fever):
 - passport valid ≥3 months;
-- **proof of onward travel** (carry the MGA → SEA Day 95 itinerary; a refundable onward bus ticket is the safest add-on);
+- **proof of onward travel** (carry the MGA → SEA Day 94 itinerary; a refundable onward bus ticket is the safest add-on);
 - **solvency ≥ $500–1,000** (a card or bank statement);
 - **yellow-fever card, required because you arrive from Peru.** Copa may check all of this at check-in in Lima.
 
@@ -245,7 +247,7 @@ Panama is pricey, so use the hostel kitchen for breakfast and dinner. Prices are
 - ⚠️ Don't walk alone at night in **El Chorrillo or Curundú** (beside Casco Viejo).
 - **USD** is the currency.
 
-## ✈️ Leaving: Albrook → David, Day 63
+## ✈️ Leaving: Albrook → David, Day 64
 
 - **Air Panama 7P670, Albrook (PAC) 07:15 → David (DAV) 08:00** (✅ Air Panama's own timetable, 27 Nov: Mon–Sat; also 7P970 16:15 → 17:00), **$67** (Google Flights, 24 Nov), then the Boquete bus. Full details, the bus alternative and the 🎭 Carnaval backups are in the [Boquete guide](boquete.md).
 - PAC is 1.3 km from Greg's Place; from Bella Vista it's ≈ $6–10 by Uber.

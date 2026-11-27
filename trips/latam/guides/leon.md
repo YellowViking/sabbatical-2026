@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Granada + Laguna de Apoyo](granada.md) · [Estelí](esteli.md) →
 
-> **Stop 36 · Day 88 → 91 · 3 nights**<br>
+> **Stop 36 · Day 87 → 90 · 3 nights**<br>
 > 🏞️ Hot colonial city below the Maribios volcano chain: board down Cerro Negro, camp on El Hoyo<br>
 > 🛏️ **Casa Lula León Hostal**, a quiet mixed dorm with a kitchen, $33 for 3 nights<br>
-> 🚌 **In:** microbuses from Granada via Managua, Day 88 · **Out:** 05:20 bus to Estelí, Day 91
+> 🚌 **In:** microbuses from Granada via Managua, Day 87 · **Out:** 05:20 bus to Estelí, Day 90
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcH5WLMaFpde4oOhMsJpmuDERNgew-x4mKju3gQkP0G26hE9YMj8tLqZ9vmlvpBuHQzJm-5saVeEG2j_LKLoN37iWTHCs9Sv92GIKSE7fztZ-K4GTNBzJqMJowXom-3YWqXUdI=w1200-h360-p-k-no" alt="The black and red slopes of Cerro Negro" width="100%">
 
@@ -15,7 +15,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ![Map of León: the beds, the bus terminal, Bigfoot and the market](img/leon-map-cdaf618e.jpg)
 
-**In town:** ★ **[Casa Lula León Hostal](https://www.google.com/maps?ftid=0x8f711f9220627a41:0x543702970b44123f)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-03-05&checkout=2027-03-08&group_adults=1&no_rooms=1&selected_currency=USD)) · **1** [Hostal La Tortuga Booluda](https://www.google.com/maps?ftid=0x8f711fed1007e841:0x83d17344a5ade4fa) (backup, [book](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-03-05&checkout=2027-03-08&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hostal el Sol](https://www.google.com/maps?ftid=0x8f711f25d97530a5:0x44489995e3f15430) (private alt, [book](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-03-05&checkout=2027-03-08&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [La Terminal](https://www.google.com/maps?ftid=0x8f711fa20700e937:0x9b4a6a79b346edaa) (bus) · **3** [Bigfoot](https://www.google.com/maps?ftid=0x8f711f9135f4c829:0x6fdb4e06eed4ec8e) [🚶 9 min](https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.4368418,-86.8760037&travelmode=walking) (volcano tours) · **4** [Mercado Central](https://www.google.com/maps?ftid=0x8f711f917ca4ede7:0x55f2fe9015de8377) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.4350924,-86.8768164&travelmode=walking)
+**In town:** ★ **[Casa Lula León Hostal](https://www.google.com/maps?ftid=0x8f711f9220627a41:0x543702970b44123f)** (the pick, [book](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-03-04&checkout=2027-03-07&group_adults=1&no_rooms=1&selected_currency=USD)) · **1** [Hostal La Tortuga Booluda](https://www.google.com/maps?ftid=0x8f711fed1007e841:0x83d17344a5ade4fa) (backup, [book](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-03-04&checkout=2027-03-07&group_adults=1&no_rooms=1&selected_currency=USD)) · **2** [Hostal el Sol](https://www.google.com/maps?ftid=0x8f711f25d97530a5:0x44489995e3f15430) (private alt, [book](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-03-04&checkout=2027-03-07&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [La Terminal](https://www.google.com/maps?ftid=0x8f711fa20700e937:0x9b4a6a79b346edaa) (bus) · **3** [Bigfoot](https://www.google.com/maps?ftid=0x8f711f9135f4c829:0x6fdb4e06eed4ec8e) [🚶 9 min](https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.4368418,-86.8760037&travelmode=walking) (volcano tours) · **4** [Mercado Central](https://www.google.com/maps?ftid=0x8f711f917ca4ede7:0x55f2fe9015de8377) [🚶 5 min](https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.4350924,-86.8768164&travelmode=walking)
 
 ![Map of the area: León, the Maribios volcanoes to the north-east and the Pacific beaches to the west](img/leon-area-map-46760a5a.jpg)
 
@@ -29,31 +29,31 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 88** | 🚌 Granada → Managua (UCA) → **León** (≈ 3 h). Taxi ≈ 11 min from the bus terminal to Casa Lula (or a 28-min walk). Book the Bigfoot tours (online or at the hostel). |
-| **Day 89** | 🌋 **Cerro Negro volcano boarding** with Bigfoot, **08:00 → ~13:00**. Take the morning tour: the black sand gets very hot. |
-| **Day 90** | 🏕️ **El Hoyo** with Bigfoot (sunset or sunrise $45, camping overnight $70), or 🏖️ **Las Peñitas / Poneloya** by city bus for a Pacific sunset (free). |
-| **Day 91** | 🚌 **05:20** bus to **Estelí** (C$110, ≈ 3 h). |
+| **Day 87** | 🚌 Granada → Managua (UCA) → **León** (≈ 3 h). Taxi ≈ 11 min from the bus terminal to Casa Lula (or a 28-min walk). Book the Bigfoot tours (online or at the hostel). |
+| **Day 88** | 🌋 **Cerro Negro volcano boarding** with Bigfoot, **08:00 → ~13:00**. Take the morning tour: the black sand gets very hot. |
+| **Day 89** | 🏕️ **El Hoyo** with Bigfoot (sunset or sunrise $45, camping overnight $70), or 🏖️ **Las Peñitas / Poneloya** by city bus for a Pacific sunset (free). |
+| **Day 90** | 🚌 **05:20** bus to **Estelí** (C$110, ≈ 3 h). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (Day 88 → 91, 3 nights)
+**Beds** (Day 87 → 90, 3 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **Casa Lula León Hostal** · bed in a mixed dorm | **$33** | 9.7 | 🚕 ≈ 11 min from the bus terminal (walk 28 min, 2.1 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.432866599999999,-86.87722509999999&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-03-05&checkout=2027-03-08&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Backup | **Hostal La Tortuga Booluda** · 4-bed mixed dorm | $39 | 9.1 | 🚕 ≈ 12 min from the bus terminal (walk 36 min, 2.6 km); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.4340789,-86.88410689999999&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-03-05&checkout=2027-03-08&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-03-05&to=2027-03-08&guests=1) |
-| Private alt | **Hostal el Sol** · double room | ≈ $43 | 9.5 | 🚕 ≈ 12 min from the bus terminal (walk 35 min, 2.6 km); centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.4327159,-86.8817871&travelmode=driving) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-03-05&checkout=2027-03-08&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **Casa Lula León Hostal** · bed in a mixed dorm | **$33** | 9.7 | 🚕 ≈ 11 min from the bus terminal (walk 28 min, 2.1 km); centre 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.432866599999999,-86.87722509999999&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Casa+Lula+Le%C3%B3n+Hostal+Le%C3%B3n+Nicaragua&checkin=2027-03-04&checkout=2027-03-07&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Backup | **Hostal La Tortuga Booluda** · 4-bed mixed dorm | $39 | 9.1 | 🚕 ≈ 12 min from the bus terminal (walk 36 min, 2.6 km); centre 8 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.4340789,-86.88410689999999&travelmode=driving) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+La+Tortuga+Booluda+Le%C3%B3n+Nicaragua&checkin=2027-03-04&checkout=2027-03-07&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/277471/hostal-la-tortuga-booluda/?from=2027-03-04&to=2027-03-07&guests=1) |
+| Private alt | **Hostal el Sol** · double room | ≈ $43 | 9.5 | 🚕 ≈ 12 min from the bus terminal (walk 35 min, 2.6 km); centre 7 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=12.4431297,-86.8676692&destination=12.4327159,-86.8817871&travelmode=driving) | [Booking](https://www.booking.com/hotel/ni/el-sol-hostel.html?checkin=2027-03-04&checkout=2027-03-07&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport and tours**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Microbus Granada → Managua (UCA), then a León microbus or bus | **Day 88**, ≈ 3 h | ≈ $3–4 | — (door-to-door shuttle ≈ $15–25) |
-| ⚠️ Tour | **Cerro Negro volcano boarding** (Bigfoot) | **Day 89 08:00** → ~13:00 | **$39.90** + $10 park fee | [Bigfoot volcano tours](https://www.bigfoothostelleon.com/volcano-boarding) |
+| In | Microbus Granada → Managua (UCA), then a León microbus or bus | **Day 87**, ≈ 3 h | ≈ $3–4 | — (door-to-door shuttle ≈ $15–25) |
+| ⚠️ Tour | **Cerro Negro volcano boarding** (Bigfoot) | **Day 88 08:00** → ~13:00 | **$39.90** + $10 park fee | [Bigfoot volcano tours](https://www.bigfoothostelleon.com/volcano-boarding) |
 | Tour | **El Hoyo** sunset/sunrise or camping (Bigfoot) | while Telica is shut | $45 / $70 | [Bigfoot volcano tours](https://www.bigfoothostelleon.com/volcano-boarding) |
-| Out | **León → Estelí** direct bus, La Terminal → COTRAN Sur | **Day 91 05:20** (also 12:40, 15:00), ≈ 3 h | C$110, pay on board | [NicaBuses timetable](https://www.nicabuses.com/rutas/leon-esteli-ruteado) |
+| Out | **León → Estelí** direct bus, La Terminal → COTRAN Sur | **Day 90 05:20** (also 12:40, 15:00), ≈ 3 h | C$110, pay on board | [NicaBuses timetable](https://www.nicabuses.com/rutas/leon-esteli-ruteado) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Granada → Managua → León, Day 88
+## 🚌 Getting here: Granada → Managua → León, Day 87
 
 - **Microbus Granada → Managua (UCA),** ~1 h, ≈ C$40–60.
 - **León microbus or bus from Managua** (UCA or Mercado Israel Lewites), ~1½–2¼ h, ≈ C$55–80.
@@ -100,7 +100,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <table>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTKPmBK-ZW_GVDjGuUB7S0zGlCHLKOnLqyH-YzCn0kMeQwzfRivzY_jMFbcDbI4dEoUGmkPTAWotSmjIRdDhsYxl9c4g-qTkmC4q5ixA-T3CV-nEcNOJFC9C19RjYFLW0THeSRfg=w640-h400-p-k-no" width="100%" alt="Sunset over the Pacific at Las Peñitas"><br><b><a href="https://www.google.com/maps?ftid=0x8f70dcf0b3f38e1d:0xbc0a871b800095e6">Las Peñitas</a> / <a href="https://www.google.com/maps?ftid=0x8f70dd1fe18e8327:0xcbc6e2ae82b370be">Poneloya</a></b> · free + city bus ≈ C$15–20<br>The beach 30 min away, with a sunset over the Pacific.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJieOkZE4cS0fc6yJj3dSluD8Z-4xY1KAMxOKimCSNym6epAOY7v4m04ROiNHzhv5ec8CymbnKXUr5HoKD_-26K4F4tpJ_rwMVuBwjXQoXpCwOuYPsGQ2WjkEtAA_et0OJXhRD6m6sKfx6=w640-h400-p-k-no" width="100%" alt="The black cone of Cerro Negro"><br><b><a href="https://www.google.com/maps?ftid=0x8f71172a910fb813:0xdf7b6a6ec825a478">Cerro Negro volcano boarding</a></b> · <b>$39.90</b> + $10 cash · <a href="https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.5077778,-86.7022222&travelmode=driving">🚕 ≈ 53 min</a><br>45–60 min hike up with the board, then slide down. <b>Day 89, 08:00.</b></td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJieOkZE4cS0fc6yJj3dSluD8Z-4xY1KAMxOKimCSNym6epAOY7v4m04ROiNHzhv5ec8CymbnKXUr5HoKD_-26K4F4tpJ_rwMVuBwjXQoXpCwOuYPsGQ2WjkEtAA_et0OJXhRD6m6sKfx6=w640-h400-p-k-no" width="100%" alt="The black cone of Cerro Negro"><br><b><a href="https://www.google.com/maps?ftid=0x8f71172a910fb813:0xdf7b6a6ec825a478">Cerro Negro volcano boarding</a></b> · <b>$39.90</b> + $10 cash · <a href="https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.5077778,-86.7022222&travelmode=driving">🚕 ≈ 53 min</a><br>45–60 min hike up with the board, then slide down. <b>Day 88, 08:00.</b></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SpNQNURuYDRgHCh_UW3KY1XWI9PgB8uB5scnVYJjz2vaILjNlAifFHMDUFdBb8jEIUXXpJbO9CaWbAKi1vbX_p7iOEXavsPdeEOvhDxa0gEvkhasy65QBJBRpfNCxr8CGUi4vSpg=w640-h400-p-k-no" width="100%" alt="Laguna Asososca below a volcanic cone"><br><b><a href="https://www.google.com/maps?ftid=0x8f7116a3b5a3ed39:0x85c56c3b0f0a7917">El Hoyo</a></b> · $45, camping $70 · <a href="https://www.google.com/maps/dir/?api=1&origin=12.4328666,-86.8772251&destination=12.4894444,-86.6675&travelmode=driving">🚕 ≈ 50 min</a><br>A ridge over the Maribios chain. The camping tour swims in <a href="https://www.google.com/maps?ftid=0x8f71160bd1534a99:0xbb655caa8c368172">Laguna Asososca</a> (in the photo).</td>
@@ -112,7 +112,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Bigfoot** runs good volcano tours, but its León hostel is a party hostel (The Broke Backpacker): take the tours and sleep elsewhere, as planned.
 - **Cerro Negro volcano boarding: $39.90** + **$10 (or C$370) park fee in cash** ✅ bigfoothostelleon.com.
   - Day tour daily **08:00 → ~13:00** (min 4 people, otherwise moved to the 12:30 sunset tour, which comes with a party bus and dinner); **sunrise tour 03:15**.
-  - 45–60 min hike up with the board. Book online or at the hostel. Suggest **Day 89, 08:00**.
+  - 45–60 min hike up with the board. Book online or at the hostel. Suggest **Day 88, 08:00**.
 - **El Hoyo** (ridge over the Maribios chain; the camping tour swims in Laguna Asososca): Bigfoot sunset or sunrise **$45**, **camping overnight $70** ✅ bigfoothostelleon.com. This is the overnight to do while Telica is shut.
 
 **Telica overnight: currently closed.**
@@ -148,12 +148,12 @@ Craft beer: check nearer the time.
 ## ℹ️ Good to know
 - **León is the hottest stop** (mid-30s °C).
 - **Cerro Negro's black sand gets very hot:** go on the morning tour.
-- León is 3 nights (Day 84 → 87).
+- León is 3 nights (Day 83 → 86).
 
-## 🚌 Leaving: León → Estelí, Day 91
+## 🚌 Leaving: León → Estelí, Day 90
 
 - **Take the 05:20 bus to Estelí** (C$110, ≈ 3 h; also 12:40 and 15:00; [NicaBuses](https://www.nicabuses.com/rutas/leon-esteli-ruteado), checked 26 Nov), from La Terminal to COTRAN Sur. Pay on board.
-- Then Managua's airport on Day 94 for the Day 95 07:00 flight home (see [Estelí](esteli.md) and [Flight home](flight-home.md)).
+- Then Managua's airport on Day 93 for the Day 94 07:00 flight home (see [Estelí](esteli.md) and [Flight home](flight-home.md)).
 
 ---
 <sub>Photos: Google Maps contributors (Cerro Negro, Las Peñitas, Laguna Asososca, San Cristóbal, Mercado Central de León). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Nicaraguan_Nacatamal.jpg">Nicaraguan Nacatamal</a> (MiguelRamirez77, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:VIGORON.JPG">Vigorón</a> (Nicaraguan food, public domain).</sub>

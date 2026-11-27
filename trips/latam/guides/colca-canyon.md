@@ -119,7 +119,7 @@ Hostelworld shows nothing at the oasis for these dates.
 - It has a spring-fed **pool** (flagged). Reviews read it as a place to unwind after the hike, with no party or music complaints. The one exception is a Dec 2024 review saying staff were drinking by the pool and there was no lunch.
 
 #### Backup: Oasis Paraíso Ecolodge
-- Twin with shared bathroom · was **US$27** on Booking (private bath $34–38). ⚠️ **No longer sells on Booking:** no rooms for Day 58 or a Day 65 control (✅ 27 Nov), so **pay on arrival / ask** at the lodge (it's next door to Las Palmeras).
+- Twin with shared bathroom · was **US$27** on Booking (private bath $34–38). ⚠️ **No longer sells on Booking:** no rooms for Day 58 or a Day 66 control (✅ 27 Nov), so **pay on arrival / ask** at the lodge (it's next door to Las Palmeras).
 - Booking 8.4 (384 reviews); **12% below 7** (very basic rooms, the odd broken toilet); location 9.5. Pool, next door.
 - Also listed on Hostelworld (no availability shown on 24 Nov).
 

@@ -37,8 +37,8 @@ S = [
  (23,'Colca (Chivay, Sangalle)','30 Jan–1 Feb',-15.4,-72.1, -12,-4,'end'),
  (24,'Arequipa','1–3 Feb',-16.7,-71.4, -12,12,'end'),
  (25,'Panama City','3–5 Feb',8.98,-79.52, 0,0,'start'),
- (26,'Boquete','5–8 Feb',8.78,-82.43, 0,0,'start'),
- (27,'Bocas del Toro','66–68',9.34,-82.24, 0,0,'start'),
+ (26,'San Blas','62–63',9.8,-79.25, 0,0,'start'),
+ (27,'Boquete','5–8 Feb',8.78,-82.43, 0,0,'start'),
  (28,'San Gerardo de Rivas (Chirripó)','8–11 Feb',9.47,-83.58, 0,0,'start'),
  (29,'Uvita','11–13 Feb',9.16,-83.74, 0,0,'start'),
  (30,'Monteverde','13–15 Feb',10.3,-84.82, 0,0,'start'),
@@ -87,7 +87,7 @@ def from_schedule(S_):
 GUIDE_BASE = os.environ.get('GUIDE_BASE', 'https://github.com/YellowViking/sabbatical-2026/blob/latam-route-v5/trips/latam/')
 GUIDES = dict(enumerate(['rio-de-janeiro','ilha-grande','paraty','sao-paulo','curitiba','foz-do-iguacu','florianopolis','porto-alegre','punta-del-diablo','cabo-polonio','montevideo',
   'cordoba','cafayate','salta','quebrada-de-humahuaca','san-pedro-de-atacama','uyuni-jeep-tour','potosi','sucre','la-paz','copacabana-isla-del-sol','puno','colca-canyon',
-  'arequipa','panama-city','boquete','bocas-del-toro','san-gerardo-de-rivas','uvita','monteverde','la-fortuna','rincon-de-la-vieja','san-juan-del-sur','ometepe','granada','leon','esteli','somoto'], 1))
+  'arequipa','panama-city','san-blas','boquete','san-gerardo-de-rivas','uvita','monteverde','la-fortuna','rincon-de-la-vieja','san-juan-del-sur','ometepe','granada','leon','esteli','somoto'], 1))
 import datetime as _dt0
 TRIP_END = _dt0.date(2027, 3, 4)
 S = from_schedule(S); st = {s[1]: s for s in S}
@@ -116,11 +116,11 @@ L = [
  ('flight',[LIMA,PTY]),
 ]
 FORT_LAKE = (10.5,-84.85); LIB = (10.63,-85.44); SJORGE = (11.43,-85.84); DAVID = (8.43,-82.43); PCANOAS = (8.54,-82.84); SISIDRO = (9.37,-83.70)
-ALMIR = (9.29,-82.39); QUEPOS = (9.43,-84.16); PUNTA = (9.98,-84.83); PBLANCAS = (11.21,-85.61); ESTELI = (13.09,-86.35)
+CARTI = (9.45,-78.98); QUEPOS = (9.43,-84.16); PUNTA = (9.98,-84.83); PBLANCAS = (11.21,-85.61); ESTELI = (13.09,-86.35)
 CAL = [
  ('flight',['Panama City',DAVID]), ('bus',[DAVID,'Boquete']),
- ('bus',['Boquete',DAVID,ALMIR]), ('boat',[ALMIR,'Bocas del Toro']),
- ('bus',[ALMIR,DAVID,PCANOAS,SISIDRO,'San Gerardo de Rivas (Chirripó)']),
+ ('bus',['Panama City',CARTI]), ('boat',[CARTI,'San Blas']),
+ ('bus',['Boquete',DAVID,PCANOAS,SISIDRO,'San Gerardo de Rivas (Chirripó)']),
  ('bus',['San Gerardo de Rivas (Chirripó)',SISIDRO,'Uvita',QUEPOS,PUNTA,'Monteverde']),
  ('bus',['Monteverde',FORT_LAKE]), ('boat',[FORT_LAKE,(10.52,-84.75)]), ('bus',[(10.52,-84.75),'La Fortuna / Arenal']),
  ('bus',['La Fortuna / Arenal','Rincón de la Vieja (Liberia)',PBLANCAS,'San Juan del Sur / Playa Maderas',SJORGE]),
@@ -234,7 +234,7 @@ for name,la,lo in [('HONDURAS',13.75,-86.0),('NICARAGUA',12.9,-85.0),('COSTA RIC
     x,y=PI(la,lo); o.append(f'<text x="{x:.0f}" y="{y:.0f}" class="ink3 t-date" text-anchor="middle" letter-spacing="1.5">{name}</text>')
 draw_legs(o, PI, CAL)
 draw_legs(o, PI, CAL_OPT)
-ISTOP={25:(-10,-9,'end'),26:(10,8,'start'),27:(0,-12,'middle'),28:(-10,-4,'end'),29:(-10,10,'end'),30:(-10,4,'end'),31:(10,-6,'start'),32:(-10,-4,'end'),33:(-10,-2,'end'),34:(10,8,'start'),35:(10,2,'start'),36:(-10,4,'end'),37:(10,-2,'start'),38:(10,4,'start')}
+ISTOP={25:(-10,-9,'end'),26:(-10,-4,'end'),27:(10,8,'start'),28:(-10,-4,'end'),29:(-10,10,'end'),30:(-10,4,'end'),31:(10,-6,'start'),32:(-10,-4,'end'),33:(-10,-2,'end'),34:(10,8,'start'),35:(10,2,'start'),36:(-10,4,'end'),37:(10,-2,'start'),38:(10,4,'start')}
 for s_ in S:
     if s_[1] in CA:
         dx,dy,anc=ISTOP[s_[0]]; short=s_[1].split(' (')[0].split(' / ')[0].split(' +')[0]

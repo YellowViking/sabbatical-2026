@@ -24,12 +24,12 @@ ADD = [
  (8,'Iberá','Esteros del Iberá (only with the dropped Plan A), +2–3',-28.53,-57.17,-12,4,'end',False),
  (9,'Salto del Monday','Salto del Monday + Itaipú (only with the dropped Plan A), +1',-25.57,-54.66,-12,-12,'end',False),
  (10,'Aparados','Aparados da Serra canyons, from Porto Alegre, +2',-29.17,-50.08,12,6,'start',False),
- (11,'San Blas','San Blas islands, +1',9.55,-78.95,0,16,'middle',True),
+ (11,'San Blas','San Blas islands: in the plan since 27 Nov (Panama City tour)',9.55,-78.95,0,16,'middle',True),
  (12,'Somoto','Somoto Canyon: in the plan since 27 Nov (Estelí day trip)',13.48,-86.58,12,4,'start',True),
  (13,'trek','Monteverde → La Fortuna on foot: ✗ nothing bookable (27 Nov)',10.4,-84.73,12,10,'start',True),
 ]
 ALT_LINK = {'A':'asuncion','C':'huacachina-paracas'}
-ADDONS = 'alternatives.md#3-optional-add-ons-3-spare-days-before-15-mar'
+ADDONS = 'alternatives.md#3-optional-add-ons-4-spare-days-before-15-mar'
 ADD_LINK = {1:'huacachina-paracas', 2:'teresopolis', 12:'somoto'}
 def addlink(n): return ADD_LINK.get(n, ADDONS)
 def alt_path(o, proj, key, items):

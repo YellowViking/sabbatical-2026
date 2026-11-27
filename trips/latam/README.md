@@ -9,7 +9,7 @@
 - Córdoba (+ Los Gigantes, Champaquí) → Cafayate → Salta → Quebrada de Humahuaca → San Pedro de Atacama → jeep tour to Uyuni.
 - Potosí → Sucre → ✈ La Paz → Titicaca → Colca → Arequipa.
 - ✈ Panama City → Boquete → Chirripó → Uvita → Monteverde → Arenal → Rincón → San Juan del Sur → Ometepe → Granada → León → Estelí (+ Somoto).
-- ✈ home from Managua on Day 95, with 3 spare days before mid-March.
+- ✈ home from Managua on Day 94, with 4 spare days before mid-March.
 
 **[Day-by-day itinerary for v5](itinerary.md)** (the index) with one guide per stop in [`guides/`](guides/): beds, buses and flights checked live on 24 Nov 2026. Nothing is booked. [Budget forecast](budget-forecast.md): ≈ $6.8–7.4k expected, carry ≈ $8.2k.
 

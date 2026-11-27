@@ -1,4 +1,4 @@
-# Latin America itinerary, route v5 (Day 1 → 95)
+# Latin America itinerary, route v5 (Day 1 → 94)
 
 **Status:** draft for review. **Nothing is booked.**
 - **Trip days, not dates (27 Nov).** **Day 1 = Tue 8 Dec 2026**, arrival in Rio (`start` in [schedule.json](schedule.json)); Day 0 is the flight there. Every guide, table and map counts trip days ("Day 41", "Day 41 → 45" = arrive → leave), so the plan can be shared and shifted without rewriting it. Only fixed-calendar facts (Christmas, Carnaval, holidays), check dates and the dates inside booking links stay as real dates.
@@ -48,22 +48,22 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [int
 | Day 56 → 57 | **Puno** (1) | Kantaya Hostel, $10.50, Hostelworld | | ✅ Titicaca Bolivia Bus 18:00 → ≈ 21:00, $9 (13:30 if you skip the ridge walk) | [→](guides/puno.md) |
 | Day 57 → 59 | **Chivay** (1) + **Sangalle oasis** (1) | Samay Lodge $12 + Paraíso Las Palmeras $32, Booking | | ✅ 4M Express Puno 06:15 → Chivay ~12:30, $54; boleto turístico S/70 | [→](guides/colca-canyon.md) |
 | Day 59 → 61 | **Arequipa** (2) | Econunay, $18.94, Hostelworld/Agoda | | Climb out of the canyon 05:00, 09:30 bus from Cabanaconde, S/35 | [→](guides/arequipa.md) |
-| Day 61 | ✈ ✈ (**3 open options**) | — | — | **A:** Sky 06:50 + Copa CM760 13:20, $326 cash (two tickets, 4 h 45 gap). **B:** Lima night + Copa 10:30 on 17,500 United miles. **C:** overland via Huacachina + Paracas, award from Lima on Day 64 (+3 days) | [→](guides/panama-city.md) |
-| Day 61 → 63 | **Panama City** (2) | El Machico (curtains, big kitchen), $38, Booking | | Tocumen → city by Metro, $0.85 | [→](guides/panama-city.md) |
-| Day 63 → 66 | **Boquete** (3, Carnaval) | ONDA Boquete, $99.76 Agoda ($116 Booking) | | ✈ Air Panama 7P670 Albrook 07:15 → David on Carnaval Monday (Mon–Sat service), $67 (24 Nov) | [→](guides/boquete.md) |
-| Day 66 → 68 | **Bocas del Toro** (2, added 27 Nov) | see the [guide](guides/bocas-del-toro.md) (being written) | | Shuttle + water taxi from Boquete (≈ $30, lead) | [→](guides/bocas-del-toro.md) |
-| Day 68 → 72 | **San Gerardo de Rivas** (3, +1 on 27 Nov) + **Chirripó** (Base Crestones, Day 70 → 71) ⚠️ SINAC showed **0 permits** for every February night on 27 Nov: watch for cancellations | Casa Colibri Chirripó, $121 (3 nights around the Crestones night; $163 for 4 if there is no permit), Booking | | ✅ Tracopa Paso Canoas 08:00 → San Isidro; ✅ 14:30 bus → San Gerardo | [→](guides/san-gerardo-de-rivas.md) |
-| Day 72 → 74 | **Uvita** (2) | Cascada Verde (location 9.0), $23, Booking | | | [→](guides/uvita.md) |
-| Day 74 → 76 | **Monteverde** (2) | Monteverde Backpackers, $24, Hostelworld | | Buses via Quepos and Puntarenas | [→](guides/monteverde.md) |
-| Day 76 → 79 | **La Fortuna** (3) | Ceiba Hostel (curtains, kitchen; small pool), $43, Booking (✅ 27 Nov) | | Jeep-boat-jeep | [→](guides/la-fortuna.md) |
-| Day 79 → 81 | **Liberia / Rincón de la Vieja** (2) | Hostel Pura Vida, $28, Booking | | | [→](guides/rincon-de-la-vieja.md) |
-| Day 81 → 83 | **San Juan del Sur** (2) | Hostel SaltWater (quiet, kitchen, breakfast; location 8.7), $25, Hostelworld (Nalu Nalu sold out, 27 Nov) | | CR exit $8 + Nicaragua entry ≈ $12–14 ($10 stamp + border charges), cash | [→](guides/san-juan-del-sur.md) |
-| Day 83 → 86 | **Ometepe** (3) | Guest House Nena (private double, location 9.4, by the port), $36, Booking | | Ferry from San Jorge | [→](guides/ometepe.md) |
-| Day 86 → 88 | **Granada** (1) + **Laguna de Apoyo** (1, new 26 Nov) | De Boca en Boca $14 + Coco Bay (lakeshore, location 9.6) $14, Booking | | Masaya volcano at night on Day 86 ($10 + ≈ $5 ride up) | [→](guides/granada.md) |
-| Day 88 → 91 | **León** (3) | Casa Lula, $33, Booking | | Telica closed; El Hoyo overnight instead | [→](guides/leon.md) |
-| Day 91 → 94 | **Estelí** (3) + **Somoto Canyon** day trip Day 93 (added 27 Nov) | Melody 78 (location 9.5), $42 (3 nights), Hostelworld | Casa Vínculos, $108 (3 nights) | ✅ León 05:20 → Estelí ≈ 08:20, C$110; guided Tisey and Miraflor days; ✅ Somoto: 05:30 bus C$46 + $30 tour | [→](guides/esteli.md) |
-| Day 94 → 95 | Managua airport homestay (1) | Casa Robles MGA Airport Homestay (apartment, location 9.5), $17, Booking | | ✅ Estelí express → Mercado Mayoreo ≈ 2 h 30, C$110; the award leaves MGA at 07:00 | [→](guides/flight-home.md) |
-| Day 95 | ✈ home | — | — | Alaska award MGA 07:00 → MIA → AA2363 → SEA 00:59 (+1), 25k + $94.42 (7 seats, 27 Nov); cash ≈ $417 | [→](guides/flight-home.md) |
+| Day 61 | ✈ ✈ (**3 open options**) | — | — | **A:** Sky 06:50 + Copa CM760 13:20, $326 cash (two tickets, 4 h 45 gap). **B:** Lima night + Copa 10:30 on 17,500 United miles. **C:** overland via Huacachina + Paracas, award from Lima on Day 65 (+3 days) | [→](guides/panama-city.md) |
+| Day 61 → 64 | **Panama City** (1 + 1, around San Blas) | El Machico (curtains, big kitchen; keeps the pack), $19 + $19, Booking | | Tocumen → city by Metro, $0.85 | [→](guides/panama-city.md) |
+| Day 62 → 63 | **San Blas** (1, island tour; added 27 Nov) | 2-day tour from Panama City, ≈ $180–209 + $22 Guna Yala tax (cash) | | ≈ 05:00 hostel pickup, back the next afternoon | [→](guides/san-blas.md) |
+| Day 64 → 67 | **Boquete** (3, Carnaval) | ONDA Boquete, $99.76 Agoda ($116 Booking) | | ✈ Air Panama 7P670 Albrook 07:15 → David on Carnaval Monday (Mon–Sat service), $67 (24 Nov) | [→](guides/boquete.md) |
+| Day 67 → 71 | **San Gerardo de Rivas** (3, +1 on 27 Nov) + **Chirripó** (Base Crestones, Day 69 → 70) ⚠️ SINAC showed **0 permits** for every February night on 27 Nov: watch for cancellations | Casa Colibri Chirripó, $121 (3 nights around the Crestones night; $163 for 4 if there is no permit), Booking | | ✅ Tracopa Paso Canoas 08:00 → San Isidro; ✅ 14:30 bus → San Gerardo | [→](guides/san-gerardo-de-rivas.md) |
+| Day 71 → 73 | **Uvita** (2) | Cascada Verde (location 9.0), $23, Booking | | | [→](guides/uvita.md) |
+| Day 73 → 75 | **Monteverde** (2) | Monteverde Backpackers, $24, Hostelworld | | Buses via Quepos and Puntarenas | [→](guides/monteverde.md) |
+| Day 75 → 78 | **La Fortuna** (3) | Ceiba Hostel (curtains, kitchen; small pool), $43, Booking (✅ 27 Nov) | | Jeep-boat-jeep | [→](guides/la-fortuna.md) |
+| Day 78 → 80 | **Liberia / Rincón de la Vieja** (2) | Hostel Pura Vida, $28, Booking | | | [→](guides/rincon-de-la-vieja.md) |
+| Day 80 → 82 | **San Juan del Sur** (2) | Hostel SaltWater (quiet, kitchen, breakfast; location 8.7), $25, Hostelworld (Nalu Nalu sold out, 27 Nov) | | CR exit $8 + Nicaragua entry ≈ $12–14 ($10 stamp + border charges), cash | [→](guides/san-juan-del-sur.md) |
+| Day 82 → 85 | **Ometepe** (3) | Guest House Nena (private double, location 9.4, by the port), $36, Booking | | Ferry from San Jorge | [→](guides/ometepe.md) |
+| Day 85 → 87 | **Granada** (1) + **Laguna de Apoyo** (1, new 26 Nov) | De Boca en Boca $14 + Coco Bay (lakeshore, location 9.6) $14, Booking | | Masaya volcano at night on Day 85 ($10 + ≈ $5 ride up) | [→](guides/granada.md) |
+| Day 87 → 90 | **León** (3) | Casa Lula, $33, Booking | | Telica closed; El Hoyo overnight instead | [→](guides/leon.md) |
+| Day 90 → 93 | **Estelí** (3) + **Somoto Canyon** day trip Day 92 (added 27 Nov) | Melody 78 (location 9.5), $42 (3 nights), Hostelworld | Casa Vínculos, $108 (3 nights) | ✅ León 05:20 → Estelí ≈ 08:20, C$110; guided Tisey and Miraflor days; ✅ Somoto: 05:30 bus C$46 + $30 tour | [→](guides/esteli.md) |
+| Day 93 → 94 | Managua airport homestay (1) | Casa Robles MGA Airport Homestay (apartment, location 9.5), $17, Booking | | ✅ Estelí express → Mercado Mayoreo ≈ 2 h 30, C$110; the award leaves MGA at 07:00 | [→](guides/flight-home.md) |
+| Day 94 | ✈ home | — | — | Alaska award MGA 07:00 → MIA → AS38 → PDX → SEA 22:39, 25k + $94.42 (9 seats, 27 Nov); cash ≈ $417 | [→](guides/flight-home.md) |
 
 Every stop has its own guide in [`guides/`](guides/) (→ column): bed pick, backup and private alternative, getting there, things to do, food, and notes.
 
@@ -88,18 +88,18 @@ Every guide also has a **Book (one click)** table at the top, with dates and 1 a
 | 4 | Christmas beds: Florianópolis, Pequi Hostel Day 15 → 17 ($31), and Porto Alegre, Nick Hostel Day 17 → 19 ($21) | Christmas week | [Pequi (Booking)](https://www.booking.com/hotel/br/pequi-hostel-florianopolis1.html?checkin=2026-12-22&checkout=2026-12-24&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Nick Hostel, Porto Alegre (Booking)](https://www.booking.com/searchresults.html?ss=Nick+Hostel+Cidade+Baixa+Porto+Alegre&checkin=2026-12-24&checkout=2026-12-26&group_adults=1&no_rooms=1&selected_currency=USD) |
 | 5 | Cabo Polonio, Hostel Albatros, Day 21 → 23 ($70) | Peak week; Viejo Lobo is already full on the 29th | [Booking](https://www.booking.com/hotel/uy/el-albatros.html?checkin=2026-12-28&checkout=2026-12-30&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1224576&checkin=2026-12-28&checkout=2026-12-30&NumberofAdults=1&Rooms=1) |
 | 6 | Montevideo, MedioMundo, New Year 30 Dec → 1 Jan ($50); Punta del Diablo, Mar de Fondo, 27 → 28 Dec ($26) | New Year's Eve; peak week on the coast | NYE: [Booking](https://www.booking.com/hotel/uy/mediomundo-hostel.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/268049/mediomundo-hostel/?from=2026-12-30&to=2027-01-01&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=1271943&checkin=2026-12-30&checkout=2027-01-01&NumberofAdults=1&Rooms=1) · Mar de Fondo: [Booking](https://www.booking.com/hotel/uy/mar-de-fondo-hostel.html?checkin=2026-12-27&checkout=2026-12-28&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| 7 | Boquete, ONDA (Socialtel), Day 63 → 66 ($116) | Panama Carnaval 6–9 Feb, during the stay ($99.76 on Agoda, ✅ 27 Nov) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Socialtel+Boquete+Boquete&checkin=2027-02-08&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35353686&checkin=2027-02-08&checkout=2027-02-13&NumberofAdults=1&Rooms=1) · [✈ Air Panama to David](https://www.airpanama.com/) |
-| 8 | Chirripó admission (Day 70) + Base Crestones bunk | ⚠️ SINAC showed **0 places** for every February night (27 Nov): watch for cancellations. **Needs you:** reCAPTCHA + SICORE account | [SINAC portal](https://serviciosenlinea.sinac.go.cr/) · [Base Crestones (Consorcio)](https://chirripo.org/info-util/) |
-| 9 | Entry paperwork | **Yellow-fever certificate**, needed by Bolivia, Panama and Costa Rica; get the shot ≥ 10 days before Day 45 (Bolivia). Panama and Costa Rica also want an onward ticket (Panama also ~$500 proof of funds). Nicaragua's free advance registration by Day 74 | [Tica Bus (onward ticket)](https://www.ticabus.com/en/) · [Nicaragua registration](https://solicitudes.migob.gob.ni/) · [CDC: Panama entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama) · [CDC: Costa Rica entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) |
+| 7 | Boquete, ONDA (Socialtel), Day 64 → 67 ($116) | Panama Carnaval 6–9 Feb, during the stay ($99.76 on Agoda, ✅ 27 Nov) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Socialtel+Boquete+Boquete&checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&selected_currency=USD) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35353686&checkin=2027-02-09&checkout=2027-02-12&NumberofAdults=1&Rooms=1) · [✈ Air Panama to David](https://www.airpanama.com/) |
+| 8 | Chirripó admission (Day 69) + Base Crestones bunk | ⚠️ SINAC showed **0 places** for every February night (27 Nov): watch for cancellations. **Needs you:** reCAPTCHA + SICORE account | [SINAC portal](https://serviciosenlinea.sinac.go.cr/) · [Base Crestones (Consorcio)](https://chirripo.org/info-util/) |
+| 9 | Entry paperwork | **Yellow-fever certificate**, needed by Bolivia, Panama and Costa Rica; get the shot ≥ 10 days before Day 45 (Bolivia). Panama and Costa Rica also want an onward ticket (Panama also ~$500 proof of funds). Nicaragua's free advance registration by Day 73 | [Tica Bus (onward ticket)](https://www.ticabus.com/en/) · [Nicaragua registration](https://solicitudes.migob.gob.ni/) · [CDC: Panama entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama) · [CDC: Costa Rica entry](https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica) |
 | 10 | Los Gigantes refugio, Day 28 → 30 | No published price, so message Club Andino Córdoba; bring a sleeping bag | see the [Córdoba guide](guides/cordoba.md) |
 | 11 | 4M Express Puno → Chivay, Day 57 06:15 ($54) | Confirm by WhatsApp; bookings close 3 days before | [4M Express](https://www.4m-express.com/) |
 | 12 | Andesmar Purmamarca → San Pedro, Day 41 03:40 | One departure a day; captcha-protected shop (also on [Plataforma10](https://www.plataforma10.com.ar/)) | [Andesmar shop](https://shop.andesmar.com/) |
-| 13 | ✈ Flight home MGA → Seattle, Day 95 (25k + $94) | Book once the route is settled (7 seats on the AA2363 routing, checked 27 Nov) | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-12&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
+| 13 | ✈ Flight home MGA → Seattle, Day 94 (25k + $94) | Book once the route is settled (9 seats on the AS38 routing, checked 27 Nov) | [Alaska award search](https://www.alaskaair.com/search/results?A=1&O=MGA&D=SEA&OD=2027-03-11&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
 | 14 | Puno, Kantaya Hostel, 1 → 2 Feb ($10.50) | The Candelaria festival is filling Puno: Booking shows 0 hostels, and both backups are sold out (27 Nov) | see the [Puno guide](guides/puno.md) |
 | 15 | Cerro Champaquí refuge, Day 31 → 32 (Valle del Tabaquillo) + Hostel La Resolana, Day 32 → 33 ($22) | Refuges book by WhatsApp only; January is peak season | see the [Córdoba guide](guides/cordoba.md) |
 
 ## Alternatives (decide on the road)
-The dropped Paraguay plan (Plan A), the three Arequipa → Panama options, optional add-ons for the 3 spare days left before 15 Mar, and the things to recheck before each stop are in **[alternatives.md](alternatives.md)**.
+The dropped Paraguay plan (Plan A), the three Arequipa → Panama options, optional add-ons for the 4 spare days left before 15 Mar, and the things to recheck before each stop are in **[alternatives.md](alternatives.md)**.
 
 ## Holiday backups (checked 25 Nov)
 Every stay or leg that falls on a holiday has a backup: either shifted dates or a nearby town that isn't booked out. Each backup was checked live on Booking for the exact dates and 1 adult, and it's a one-click row in the guide's **Book** table (🎄 Christmas, 🎆 New Year, 🎭 Carnaval). "How tight" compares Booking's availability on our dates with the same nights a week later.
@@ -154,7 +154,7 @@ Every bed in the guides' **Book** tables shows its **location** score: Booking.c
 | [Cabo Polonio](guides/cabo-polonio.md) | **Hostel Albatros 9.4**, $70 | Green House 8.7, $50 | +$20 | 9.1 overall, 1% below 7, kitchen, no noise complaints |
 | [Tilcara](guides/quebrada-de-humahuaca.md) | **Tilcara Mística 9.5**, $23 | Casa Colores 8.8, $11 | +$12 | 160 m from the plaza; one Nov 2026 review says patio noise carries into the dorms |
 | [San Pedro](guides/san-pedro-de-atacama.md) | **Hostal Lackuntur 9.4**, 4-bed dorm, $74 for 4 nights ($55 for 3 since 26 Nov; Booking 9.3, 1,228 reviews, 1% below 7) | Casa Voyage 8.8, $65 | +$9 | Found in the 25 Nov sweep. It's cheaper than the proposed Backpackers San Pedro ($84.80), which stays as the backup. Shared kitchen, "far from a party"; no bunk curtains |
-| [San Juan del Sur](guides/san-juan-del-sur.md) | ~~Nalu Nalu 9.6, $18~~ sold out Day 81 → 83 (27 Nov) | SaltWater 8.7, **$25 (the pick again)** | — | Kitchen and breakfast; the 6-bed dorm is hot (no AC), so consider the 4-bed at $24 |
+| [San Juan del Sur](guides/san-juan-del-sur.md) | ~~Nalu Nalu 9.6, $18~~ sold out Day 80 → 82 (27 Nov) | SaltWater 8.7, **$25 (the pick again)** | — | Kitchen and breakfast; the 6-bed dorm is hot (no AC), so consider the 4-bed at $24 |
 | [Ometepe](guides/ometepe.md) | **Guest House Nena 9.4**, private double, $36 for 3 nights | Life is Good 8.3, $30 | +$6 | No dorm scores ≥ 9.0 here. 0.3 km from the port; street noise, so bring earplugs |
 
 **Net: +$32** for the six.
@@ -177,7 +177,7 @@ Every bed in the guides' **Book** tables shows its **location** score: Booking.c
 Each guide's private alternative was already chosen location-first, and all of them score 9.2 or higher (San Gerardo's El Pelícano isn't scored).
 
 ## Money
-**Expected spend ≈ $6.8–7.4k** (≈ $74–80/day all-in). **Carry ≈ $8.2k**, which includes a ≈ $1k private-room buffer. *(27 Nov: +6 hub nights, +2 for Bocas del Toro, home Day 95, beds re-priced.)*
+**Expected spend ≈ $6.8–7.4k** (≈ $74–80/day all-in). **Carry ≈ $8.2k**, which includes a ≈ $1k private-room buffer. *(27 Nov: +6 hub nights, +1 for San Blas, home Day 94, beds re-priced.)*
 - **Living ≈ $3.9k** (≈ $43/day). Beds at the picks come to ≈ $1.55k for 91 nights.
 - **Transport ≈ $1.33–1.68k.**
 - **Uyuni tour ≈ $0.3k.**
@@ -202,7 +202,7 @@ Points: 60k + 25k Alaska. Details: [budget-forecast.md](budget-forecast.md).
 - **Argentina:** [Córdoba + Los Gigantes](guides/cordoba.md) → [Cafayate](guides/cafayate.md) → [Salta](guides/salta.md) → [Quebrada de Humahuaca](guides/quebrada-de-humahuaca.md)
 - **Chile and Bolivia:** [San Pedro de Atacama](guides/san-pedro-de-atacama.md) → [Jeep tour to Uyuni](guides/uyuni-jeep-tour.md) → [Potosí](guides/potosi.md) → [Sucre](guides/sucre.md) → [La Paz](guides/la-paz.md) → [Copacabana + Isla del Sol](guides/copacabana-isla-del-sol.md)
 - **Peru:** [Puno](guides/puno.md) → [Colca Canyon](guides/colca-canyon.md) → [Arequipa](guides/arequipa.md)
-- **Panama:** [Panama City](guides/panama-city.md) → [Boquete](guides/boquete.md) → [Bocas del Toro](guides/bocas-del-toro.md)
+- **Panama:** [Panama City](guides/panama-city.md) → [San Blas](guides/san-blas.md) → [Boquete](guides/boquete.md)
 - **Costa Rica:** [San Gerardo de Rivas (Chirripó)](guides/san-gerardo-de-rivas.md) → [Uvita](guides/uvita.md) → [Monteverde](guides/monteverde.md) → [La Fortuna](guides/la-fortuna.md) → [Rincón de la Vieja](guides/rincon-de-la-vieja.md)
 - **Nicaragua:** [San Juan del Sur](guides/san-juan-del-sur.md) → [Ometepe](guides/ometepe.md) → [Granada](guides/granada.md) → [León](guides/leon.md) → [Estelí](guides/esteli.md) → [Flight home](guides/flight-home.md)
 

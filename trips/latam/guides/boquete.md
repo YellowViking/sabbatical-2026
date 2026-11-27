@@ -1,11 +1,11 @@
 # 🇵🇦 Boquete
 
-Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Panama City](panama-city.md) · [Bocas del Toro](bocas-del-toro.md) →
+Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [San Blas](san-blas.md) · [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) →
 
-> **Stop 26 · Day 63 → 66 · 3 nights · 🎭 Carnaval**<br>
+> **Stop 27 · Day 64 → 67 · 3 nights · 🎭 Carnaval**<br>
 > 🏞️ Cool coffee-country town in the highlands, below Volcán Barú (3,474 m)<br>
 > 🛏️ **ONDA Boquete** ("Socialtel Boquete" on Booking), mixed dorm, $99.76 for 3 nights on Agoda (✅ 27 Nov; Booking $116)<br>
-> ✈️ **In:** Air Panama Albrook → David, Day 63 07:15, then the bus up · **Out:** 🚌 05:30 bus to David and the Costa Rican border, Day 66
+> ✈️ **In:** Air Panama Albrook → David, Day 64 07:15, then the bus up · **Out:** 🚌 05:30 bus to David and the Costa Rican border, Day 67
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tc6P2WPKowahXr3-hkzcXJS1ahpDruNC06zsfEHPsQqANPejVt_ZqrU49T8g7ClxNoBXSeIAempdT9MaxrizIqdlPVHhMpXGg0WJHvrhwSoSUbokYG-dxhRpG-7kRDF6_lF-_W6XCniPkI=w1200-h360-p-k-no" alt="Sunrise above a sea of clouds from the summit of Volcán Barú" width="100%">
 
@@ -15,11 +15,11 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 ![Map of Boquete: the beds, the main park and bus stop, and Boquete Brewing](img/boquete-map-361bb5c7.jpg)
 
-**In town:** ★ **[ONDA Boquete](https://www.google.com/maps?ftid=0x8fa5edeb0f96a23f:0xae690fb789f58a8)** (the pick, [book](https://www.booking.com/hotel/pa/socialtel-boquete.html?checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Parque Domingo Médica](https://www.google.com/maps?ftid=0x8fa5ecd8a998762b:0xad46ee985cc5ba40), the main park and the David-bus stop; **La Casa de Doña Cata** (budget backup) is right on it · **2** [Buena Vista Boquete](https://www.google.com/maps?ftid=0x8fa5ed1470d4ab81:0xe9edd7ce7f0af0c0) (private alt, [book](https://www.booking.com/searchresults.html?ss=Buena+Vista+Boquete+Boquete&checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&selected_currency=USD)) · **4** [Boquete Brewing Company](https://www.google.com/maps?ftid=0x8fa5ecdf89da0f2f:0x44fb66a6c7e3499c) [🚶 16 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.7809639,-82.4323627&travelmode=walking)
+**In town:** ★ **[ONDA Boquete](https://www.google.com/maps?ftid=0x8fa5edeb0f96a23f:0xae690fb789f58a8)** (the pick, [book](https://www.booking.com/hotel/pa/socialtel-boquete.html?checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)) · **B** [Parque Domingo Médica](https://www.google.com/maps?ftid=0x8fa5ecd8a998762b:0xad46ee985cc5ba40), the main park and the David-bus stop; **La Casa de Doña Cata** (budget backup) is right on it · **2** [Buena Vista Boquete](https://www.google.com/maps?ftid=0x8fa5ed1470d4ab81:0xe9edd7ce7f0af0c0) (private alt, [book](https://www.booking.com/searchresults.html?ss=Buena+Vista+Boquete+Boquete&checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&selected_currency=USD)) · **4** [Boquete Brewing Company](https://www.google.com/maps?ftid=0x8fa5ecdf89da0f2f:0x44fb66a6c7e3499c) [🚶 16 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.7809639,-82.4323627&travelmode=walking)
 
 ![Terrain map of the area: the waterfall trails and the Alto Chiquero ranger post to the north, Volcán Barú to the west](img/boquete-area-map-92157a3a.jpg)
 
-**Around:** ★ Boquete · **3** [Hostal Casa Pedro](https://www.google.com/maps?ftid=0x8fa5ecff756bfc31:0xdddd8daf3b853772) (value private, 2.8 km out, [book](https://www.booking.com/searchresults.html?ss=Hostal+Casa+Pedro+Boquete&checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&selected_currency=USD)) · **5** [Lost Waterfalls (Las Tres Cascadas)](https://www.google.com/maps?ftid=0x8fa5ebfbdcff069f:0x97bd578d071faac2) [🚕 ≈ 24 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8417664,-82.4813903&travelmode=driving) · **6** [Pipeline Trail](https://www.google.com/maps?ftid=0x8fa5ebf28d7da5fb:0xe313187bea8e01f8) [🚕 ≈ 22 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8300076,-82.4851082&travelmode=driving) · **7** [Alto Chiquero ranger post](https://www.google.com/maps?ftid=0x8fa5ebfb1d5e7cb7:0x8897fae8410e15d4) [🚕 ≈ 27 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8468593,-82.4886078&travelmode=driving) (Sendero Los Quetzales) · **8** [Jaramillo Arriba](https://www.google.com/maps?ftid=0x8fa5ed0169957e33:0x752dd8ad4b012401) [🚕 ≈ 8 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.7849465,-82.4238122&travelmode=driving) (road walk) · **9** [Bajo Mono](https://www.google.com/maps?ftid=0x8fa5ec6509d483db:0x3d1efd79df9f5424) [🚕 ≈ 14 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8130577,-82.4617364&travelmode=driving) (road walk) · **10** [Barú trail entrance, end of the paved road](https://www.google.com/maps?ftid=0x8fa5eb71ac2cf897:0xe624b8de34815ca1) [🚕 ≈ 16 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.7966897,-82.4891207&travelmode=driving) · **11** [Volcán Barú summit](https://www.google.com/maps?ftid=0x8fa5ea6050b7e431:0xaa272f8ce9430b06) [🚕 ≈ 55 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.808811,-82.542339&travelmode=driving) · off the map, ≈ 1 h south: [Penny House](https://www.google.com/maps?ftid=0x8fa59d98cb1a49c5:0xb5e26017cc5f972c) in David (🎭 Carnaval backup) and [David airport](https://www.google.com/maps?ftid=0x8fa577cace9b2da9:0xc39bd718b7c1ddb2)
+**Around:** ★ Boquete · **3** [Hostal Casa Pedro](https://www.google.com/maps?ftid=0x8fa5ecff756bfc31:0xdddd8daf3b853772) (value private, 2.8 km out, [book](https://www.booking.com/searchresults.html?ss=Hostal+Casa+Pedro+Boquete&checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&selected_currency=USD)) · **5** [Lost Waterfalls (Las Tres Cascadas)](https://www.google.com/maps?ftid=0x8fa5ebfbdcff069f:0x97bd578d071faac2) [🚕 ≈ 24 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8417664,-82.4813903&travelmode=driving) · **6** [Pipeline Trail](https://www.google.com/maps?ftid=0x8fa5ebf28d7da5fb:0xe313187bea8e01f8) [🚕 ≈ 22 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8300076,-82.4851082&travelmode=driving) · **7** [Alto Chiquero ranger post](https://www.google.com/maps?ftid=0x8fa5ebfb1d5e7cb7:0x8897fae8410e15d4) [🚕 ≈ 27 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8468593,-82.4886078&travelmode=driving) (Sendero Los Quetzales) · **8** [Jaramillo Arriba](https://www.google.com/maps?ftid=0x8fa5ed0169957e33:0x752dd8ad4b012401) [🚕 ≈ 8 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.7849465,-82.4238122&travelmode=driving) (road walk) · **9** [Bajo Mono](https://www.google.com/maps?ftid=0x8fa5ec6509d483db:0x3d1efd79df9f5424) [🚕 ≈ 14 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.8130577,-82.4617364&travelmode=driving) (road walk) · **10** [Barú trail entrance, end of the paved road](https://www.google.com/maps?ftid=0x8fa5eb71ac2cf897:0xe624b8de34815ca1) [🚕 ≈ 16 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.7966897,-82.4891207&travelmode=driving) · **11** [Volcán Barú summit](https://www.google.com/maps?ftid=0x8fa5ea6050b7e431:0xaa272f8ce9430b06) [🚕 ≈ 55 min](https://www.google.com/maps/dir/?api=1&origin=8.7720958,-82.4330009&destination=8.808811,-82.542339&travelmode=driving) · off the map, ≈ 1 h south: [Penny House](https://www.google.com/maps?ftid=0x8fa59d98cb1a49c5:0xb5e26017cc5f972c) in David (🎭 Carnaval backup) and [David airport](https://www.google.com/maps?ftid=0x8fa577cace9b2da9:0xc39bd718b7c1ddb2)
 
 🧭 The time after each place is from the ★ bed (Google Maps, 26 Nov): 🚶 walk · 🚌 bus · 🚕 taxi · 🚗 by road (tour or bus). Click it for the route.
 
@@ -29,34 +29,34 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Day 63** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David 08:00, taxi to the terminal, Boquete bus; in Boquete by ≈ 10:00. Afternoon: 🥾 **Lost Waterfalls** or the **Pipeline Trail**. |
-| **Day 64** · 🎭 Carnaval | Morning: 🥾 **Sendero Los Quetzales** from Alto Chiquero, or a free road walk (Jaramillo Arriba, Bajo Mono). Nap in the afternoon. Leave ≈ 23:00 for Barú. |
-| **Day 65** | 🌋 **Volcán Barú summit for sunrise ≈ 06:30**, back by ≈ 12:00. Recover; coffee-farm cupping is optional (paid). Pack for the 05:30 start. |
-| **Day 66** | 🚌 **05:30** bus to David, then the border and Costa Rica ([San Gerardo guide](san-gerardo-de-rivas.md)). |
+| **Day 64** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David 08:00, taxi to the terminal, Boquete bus; in Boquete by ≈ 10:00. Afternoon: 🥾 **Lost Waterfalls** or the **Pipeline Trail**. |
+| **Day 65** | Morning: 🥾 **Sendero Los Quetzales** from Alto Chiquero, or a free road walk (Jaramillo Arriba, Bajo Mono). Nap in the afternoon. Leave ≈ 23:00 for Barú. |
+| **Day 66** | 🌋 **Volcán Barú summit for sunrise ≈ 06:30**, back by ≈ 12:00. Recover; coffee-farm cupping is optional (paid). Pack for the 05:30 start. |
+| **Day 67** | 🚌 **05:30** bus to David, then the border and Costa Rica ([San Gerardo guide](san-gerardo-de-rivas.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (Day 63 → 66, 3 nights)
+**Beds** (Day 64 → 67, 3 nights)
 
 | | Where | Total | Location | From the park bus stop | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick** | **ONDA Boquete** ("Socialtel Boquete" on Booking and Agoda) · mixed dorm bunk | **$99.76** ✅ 27 Nov | 9.7 | 🚶 6 min (500 m) from the central park (bus from David) · [route](https://www.google.com/maps/dir/?api=1&origin=8.7763958,-82.4322826&destination=8.772095799999999,-82.4330009&travelmode=walking) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35353686&checkin=2027-02-08&checkout=2027-02-11&NumberofAdults=1&Rooms=1) · [Booking](https://www.booking.com/hotel/pa/socialtel-boquete.html?checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup (budget) | **La Casa de Doña Cata** · 8-bed mixed dorm | $42 | 9.4 | 🚶 1 min (8 m) from the central park (bus from David) · [route](https://www.google.com/maps/dir/?api=1&origin=8.7763958,-82.4322826&destination=8.7762121,-82.4322037&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=La+Casa+de+Do%C3%B1a+Cata+Boquete&checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/310314/la-casa-de-dona-cata/?from=2027-02-08&to=2027-02-11&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23738460&checkin=2027-02-08&checkout=2027-02-11&NumberofAdults=1&Rooms=1) |
-| Private alt | **Buena Vista Boquete** · classic room (sleeps 4), non-refundable | $173 ✅ 27 Nov | 9.5 | Not routed. 0.43 km from the park | [Booking (search)](https://www.booking.com/searchresults.html?ss=Buena+Vista+Boquete+Boquete&checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&selected_currency=USD) |
-| Value private | **Hostal Casa Pedro Boquete** · twin, private bathroom | $94 | 9.2 | Not routed. 2.8 km out (taxi ≈ $3) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Casa+Pedro+Boquete&checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&selected_currency=USD) |
-| 🎭 Carnaval backup | **Penny House**, **David** (alt town) · single bed in a mixed dorm | $41 for 3 nights | 9.4 | 🚶 17 min (1.2 km) from David's bus terminal (taxi 3 min); Boquete buses leave the same terminal (≈ 1 h) · [route](https://www.google.com/maps/dir/?api=1&origin=8.4347139,-82.421874&destination=8.442252,-82.419783&travelmode=walking) | [Booking](https://www.booking.com/hotel/pa/penny-house-hostal-david.html?checkin=2027-02-08&checkout=2027-02-11&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick** | **ONDA Boquete** ("Socialtel Boquete" on Booking and Agoda) · mixed dorm bunk | **$99.76** ✅ 27 Nov | 9.7 | 🚶 6 min (500 m) from the central park (bus from David) · [route](https://www.google.com/maps/dir/?api=1&origin=8.7763958,-82.4322826&destination=8.772095799999999,-82.4330009&travelmode=walking) | [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=35353686&checkin=2027-02-09&checkout=2027-02-12&NumberofAdults=1&Rooms=1) · [Booking](https://www.booking.com/hotel/pa/socialtel-boquete.html?checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup (budget) | **La Casa de Doña Cata** · 8-bed mixed dorm | $42 | 9.4 | 🚶 1 min (8 m) from the central park (bus from David) · [route](https://www.google.com/maps/dir/?api=1&origin=8.7763958,-82.4322826&destination=8.7762121,-82.4322037&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=La+Casa+de+Do%C3%B1a+Cata+Boquete&checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/310314/la-casa-de-dona-cata/?from=2027-02-09&to=2027-02-12&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=23738460&checkin=2027-02-09&checkout=2027-02-12&NumberofAdults=1&Rooms=1) |
+| Private alt | **Buena Vista Boquete** · classic room (sleeps 4), non-refundable | $173 ✅ 27 Nov | 9.5 | Not routed. 0.43 km from the park | [Booking (search)](https://www.booking.com/searchresults.html?ss=Buena+Vista+Boquete+Boquete&checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&selected_currency=USD) |
+| Value private | **Hostal Casa Pedro Boquete** · twin, private bathroom | $94 | 9.2 | Not routed. 2.8 km out (taxi ≈ $3) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hostal+Casa+Pedro+Boquete&checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&selected_currency=USD) |
+| 🎭 Carnaval backup | **Penny House**, **David** (alt town) · single bed in a mixed dorm | $41 for 3 nights | 9.4 | 🚶 17 min (1.2 km) from David's bus terminal (taxi 3 min); Boquete buses leave the same terminal (≈ 1 h) · [route](https://www.google.com/maps/dir/?api=1&origin=8.4347139,-82.421874&destination=8.442252,-82.419783&travelmode=walking) | [Booking](https://www.booking.com/hotel/pa/penny-house-hostal-david.html?checkin=2027-02-09&checkout=2027-02-12&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ In | **Air Panama 7P670** · Albrook (PAC) → David (DAV) | **Day 63 07:15 → 08:00** (also 7P970 16:15 → 17:00; ✅ Air Panama timetable, 27 Nov) | **$67** (24 Nov) | [Air Panama](https://www.airpanama.com/) |
+| ⚠️ In | **Air Panama 7P670** · Albrook (PAC) → David (DAV) | **Day 64 07:15 → 08:00** (also 7P970 16:15 → 17:00; ✅ Air Panama timetable, 27 Nov) | **$67** (24 Nov) | [Air Panama](https://www.airpanama.com/) |
 | In | **Boquete bus** (Coopsemautranchiri ≈) · David terminal → Boquete | every 20–30 min, ≈ 05:00–19:45, ≈ 45–60 min | $1.75–2.00 | on the day |
-| 🎭 Shift | Air Panama Albrook → David a day early, swapping the 2nd Panama City night for a 4th Boquete night | **Day 62** 13:30 or 16:15 (no 07:15 on Sundays) | $67 (24 Nov) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDdqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
-| 🎭 Other airline | Copa CM13 Tocumen → David | Day 63 06:39 → 07:46 (also CM17 07:42, CM28 17:50) | $80 ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDhqBRIDUFRZcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
-| Out | Boquete → David terminal, then on to Costa Rica | **Day 66 05:30** | $1.75–2.00 | on the day; full leg in the [San Gerardo guide](san-gerardo-de-rivas.md) |
+| 🎭 Shift | Air Panama Albrook → David a day early, swapping the 2nd Panama City night for a 4th Boquete night | **Day 61** 13:30 or 16:15 (no 07:15 on Sundays) | $67 (24 Nov) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
+| 🎭 Other airline | Copa CM13 Tocumen → David | Day 64 06:39 → 07:46 (also CM17 07:42, CM28 17:50) | $80 ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDlqBRIDUFRZcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
+| Out | Boquete → David terminal, then on to Costa Rica | **Day 67 05:30** | $1.75–2.00 | on the day; full leg in the [San Gerardo guide](san-gerardo-de-rivas.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -66,10 +66,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## ✈️ Getting here: Panama City → David → Boquete, Day 63 (Carnaval Monday)
+## ✈️ Getting here: Panama City → David → Boquete, Day 64 (Carnaval Monday)
 
 - **Recommended: Air Panama 7P670, Albrook (PAC) 07:15 → David (DAV) 08:00, $67** (Google Flights, live 24 Nov). There's also 7P970, 16:15 → 17:00.
-  - ✅ **Air Panama's own timetable (27 Nov):** 7P670 runs Mon–Sat, 7P972 13:30 → 14:15 Sat–Sun, 7P970 16:15 → 17:00 daily except Saturday. Google Flights showed **no Air Panama fares at all** for Days 60–64 on 27 Nov, so the $67 couldn't be re-priced; price it on airpanama.com.
+  - ✅ **Air Panama's own timetable (27 Nov):** 7P670 runs Mon–Sat, 7P972 13:30 → 14:15 Sat–Sun, 7P970 16:15 → 17:00 daily except Saturday. Google Flights showed **no Air Panama fares at all** for Days 60–65 on 27 Nov, so the $67 couldn't be re-priced; price it on airpanama.com.
   - **Fallback:** Copa CM13 from Tocumen 06:39 → 07:46, **$80** (✅ Google Flights, 27 Nov).
   - PAC is next to Albrook Mall: 1.3 km from Greg's Place, ≈ $6–10 by Uber from Bella Vista.
   - Then a taxi from DAV to the David bus terminal (≈ $5), and the **Boquete bus** (Coopsemautranchiri ≈), every 20–30 min from about 05:00 to 19:45, ≈ 45–60 min, **$1.75–2.00**. You're in Boquete by ≈ 10:00.
@@ -111,8 +111,8 @@ All live-checked on 24 Nov. **Carnaval Sat 6 → Tue 9 Feb fills the town, so bo
 
 ### 🎭 Carnaval backups
 - **Another town:** **Penny House** in **David**, a single bed in a mixed dorm, **$41 for 3 nights** on Booking (26 Nov; 81 reviews, none below 7), location 9.4. It's a 17-min walk from David's bus terminal, where the Boquete buses leave (≈ 1 h).
-- **Shifted dates:** fly Air Panama Albrook → David on **Day 62** (13:30 or 16:15; the 07:15 doesn't run on Sundays; $67 on 24 Nov) and swap the 2nd Panama City night for a 4th Boquete night.
-- **Other airline:** Copa CM13 Tocumen → David, Day 63 06:39 → 07:46 ($80, ✅ 27 Nov).
+- **Shifted dates:** fly Air Panama Albrook → David on **Day 61** (13:30 or 16:15; the 07:15 doesn't run on Sundays; $67 on 24 Nov) and swap the 2nd Panama City night for a 4th Boquete night.
+- **Other airline:** Copa CM13 Tocumen → David, Day 64 06:39 → 07:46 ($80, ✅ 27 Nov).
 
 ## 🌳 Things to do (outdoors first)
 
@@ -130,20 +130,20 @@ The Barú timing is the key choice.
 </table>
 
 - **Barú on your own** costs ≈ $5 in park fees against $40–85 guided, but muggings have been reported on the trail: start with other hikers from the hostel, not alone (The Broke Backpacker, 26 Nov lead).
-- **Day 63, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
-- **Day 64, morning:**
+- **Day 64, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
+- **Day 65, morning:**
   - **Option 1: Sendero Los Quetzales**, out-and-back from the Alto Chiquero ranger post (Barú NP; park fee ≈ $7, ≈ 45 min by taxi). Quetzal season is Feb–May (LP).
   - **Option 2:** free road walks: the Jaramillo Arriba loop with volcano views, or Bajo Mono.
   - Then nap in the afternoon.
-- **Day 65:** recover; coffee-farm cupping is optional (paid).
+- **Day 66:** recover; coffee-farm cupping is optional (paid).
 
-### 🌋 Volcán Barú sunrise climb, Day 64 → 65
+### 🌋 Volcán Barú sunrise climb, Day 65 → 66
 - **Route:** from the **Camiseta** control post above Boquete, a rocky 4×4 road, **12–13.5 km each way, ≈ 1,800 m gain**, 5–7 h up. Leave Boquete ≈ 23:00 (taxi ≈ $15–20, or a hostel shuttle ≈ $6–7; ≈) to summit for **sunrise ≈ 06:30**. Down in 4–5 h, back by ≈ 12:00.
 - **Fee and registration:** MiAmbiente's 2022 fee table puts **foreigners at B/ 7.00** (≈ $7); AI-Mode leads say $5 paid online. **Registration at Camiseta is mandatory**, digital (MiAmbiente, Sep 2025); pre-register online, as the post may be unstaffed at night (≈).
 - **Self-guided or guided:** the road is unmistakable and your climb is on the last night of Carnaval (Tue 9 → Wed 10), when there should still be plenty of hikers (≈), so self-guided is reasonable if the forecast is clear. MiAmbiente and LP still advise "preferably with a certified guide". A **guided hike costs ≈ $120–150**; a **4×4 sunrise tour ≈ $110–155** (leaves ≈ 03:30, 15 operator jeeps; ≈ AI-Mode/operator pages).
 - **Conditions:** February is the dry season, with the best odds of seeing both oceans. The summit is **0–5 °C with strong wind before dawn**, so bring a down layer, gloves, a headlamp and 3 L of water. MiAmbiente treated two exhausted hikers at Camiseta in Apr 2026.
 - ⚠️ **Access status:**
-  - **20–24 Feb 2026:** the **"La Nevera" section (km 9.6–10) was under repair**. 4×4s could only enter 04:00–04:30, while visits on foot continued; sunset trips resumed on Day 83.
+  - **20–24 Feb 2026:** the **"La Nevera" section (km 9.6–10) was under repair**. 4×4s could only enter 04:00–04:30, while visits on foot continued; sunset trips resumed on Day 82.
   - **7 Jul 2026: a landslide there closed summit access for walkers and 4×4s.** MiAmbiente's site shows no reopening notice, but its 5 Nov 2026 note says the park is open to visitors.
   - **Check MiAmbiente's Facebook or the Camiseta post the week before.**
 
@@ -167,7 +167,7 @@ Prices are ≈ and not checked. Cook at the hostel to save.
 - **ATMs:** Banco Nacional and others on the main street (≈).
 - **Nights are cool**, ≈ 13–15 °C.
 
-## 🚌 Leaving: Boquete → David → Costa Rica, Day 66
+## 🚌 Leaving: Boquete → David → Costa Rica, Day 67
 
 - **05:30** Boquete → David terminal (Coopsemautranchiri bus from the park, $1.75–2.00), then the Frontera bus to Paso Canoas, the border and Tracopa to San Isidro.
 - The full step-by-step leg, the Costa Rica entry rules and the fallbacks are in the [San Gerardo de Rivas guide](san-gerardo-de-rivas.md).

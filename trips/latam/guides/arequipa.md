@@ -163,7 +163,7 @@ All ≈, not checked, except where LP is cited:
 **Leaving Arequipa: three open options** (details in the [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city)):
 - **A:** fly Day 61 06:50 (2 nights here): Sky + Copa ≈ $312 (✅ Google Flights, 27 Nov).
 - **B:** fly to Lima on the Day 60 afternoon and use the Copa award on Day 61 (1 night here).
-- **C:** night bus on Day 60 to Huacachina + Paracas, then the award from Lima on Day 64 (1 night here; +3 days; [guide](huacachina-paracas.md)).
+- **C:** night bus on Day 60 to Huacachina + Paracas, then the award from Lima on Day 65 (1 night here; +3 days; [guide](huacachina-paracas.md)).
 
 ---
 <sub>Photos: Google Maps contributors (Misti, Mirador de Yanahuara, Puente Grau, Carmen Alto, Museo Santuarios Andinos, Ruta del Sillar, Mercado San Camilo, Chelawasi). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Queso_helado.jpg">Queso helado</a> (TomasVial, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Rocoto_relleno._Sol_de_mayo,_Arequipa.jpg">Rocoto relleno, Sol de Mayo</a> (HugoMon, CC BY-SA 3.0).</sub>
