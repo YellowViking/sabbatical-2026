@@ -168,7 +168,7 @@ Prices are ≈ AI-summary leads, Nov 2026.
 ## ℹ️ Good to know
 - **The wettest stop of the trip:** 185 mm, rain on 19 January days; mornings are usually dry.
 - **Boats can be cancelled in storms**, so keep 29 Jan's bus to Puno for after midday.
-- **Cash only on the island:** no ATMs there, and Copacabana's run dry at weekends (the 27th is a Wednesday, so you're fine).
+- **Cash only on the island:** no ATMs there, and Copacabana's run dry at weekends (you're there on a weekday).
 - **Altitude:** 3,810–4,050 m.
 - **Sun:** LP warns of fierce UV off the lake at this altitude: hat, sun cream and plenty of water on the ridge walk (LP).
 - **Money before Peru:** ATMs on Plaza Sucre; shops on Av. 6 de Agosto change clean US dollars and most craft shops sell Peruvian soles. Bolivianos are hard to change outside Bolivia, so spend or swap them here (LP).

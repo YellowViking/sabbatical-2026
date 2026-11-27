@@ -155,11 +155,11 @@ All three were live-checked on 24 Nov.
 
 **Christ the Redeemer by train (paid, once):** Trem do Corcovado **R$ 139 ($23)** ✅ tremdocorcovado.rio. Go on the first clear morning; it is often in cloud in the afternoon. The Paineiras van price is unverified.
 
-**Wed 9: Pico da Tijuca (1,021 m), backlog.** Uber to Bom Retiro (Floresta da Tijuca), then about 1 h 30 up, finishing on rock-cut steps. Add Tijuca Mirim and Cascatinha Taunay on the way down.
+**Day 2 (Wed 9 Dec): Pico da Tijuca (1,021 m), backlog.** Uber to Bom Retiro (Floresta da Tijuca), then about 1 h 30 up, finishing on rock-cut steps. Add Tijuca Mirim and Cascatinha Taunay on the way down.
 
-**Thu 10:** **Pedra Bonita** (696 m) at sunrise, about 1 h return from the hang-glider ramp road. Or, if clear, **Pedra da Gávea** (844 m): it has an exposed rock pitch, so go with a guide (≈ from $60). This is the one paid hike worth it.
+**Day 3 (Thu 10 Dec):** **Pedra Bonita** (696 m) at sunrise, about 1 h return from the hang-glider ramp road. Or, if clear, **Pedra da Gávea** (844 m): it has an exposed rock pitch, so go with a guide (≈ from $60). This is the one paid hike worth it.
 
-**Fri 11:**
+**Day 4 (Fri 11 Dec):**
 - **Morning:** **Morro do Leme** fort (R$ 10 ≈, Army-run) plus the free **Caminho dos Pescadores** sea walk.
 - **Afternoon, Urca:**
   - Walk Pista Cláudio Coutinho, then the **Morro da Urca trail**, about 30–40 min steep. Free, and the bay view is nearly as good as from the top.

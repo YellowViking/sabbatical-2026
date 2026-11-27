@@ -131,7 +131,7 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 
 **Argentine side:** buy the park ticket online the day before (≈ 15% cheaper, per Worldly Adventurer), and book the boat ride (Gran Aventura) first thing, because it sells out by mid-morning *(lead)*.
 
-**Sat 19: Brazilian side** (Parque Nacional do Iguaçu). It's the panorama side; do it the morning you arrive.
+**Day 1 (Sat 19 Dec): Brazilian side** (Parque Nacional do Iguaçu). It's the panorama side; do it the morning you arrive.
 - **Getting there:** bus **120 "Parque Nacional" from the TTU**, ≈ 40 min, every ≈ 20–30 min. The fare is **R$ 6 ($1)** from 4 Dec 2026 ✅ foz.pr.gov.br; the line number ✅ park site.
 - **Hours** ✅ cataratasdoiguacu.com.br: Sat–Sun 08:30–16:00 (weekdays from 09:00); you may stay until 17:30.
 - **Ticket:** **online only, with a timed entry slot.** **Foreigners from R$ 131 ($22)** (Mercosur R$ 118; locker R$ 45) ✅ tickets.cataratasdoiguacu.com.br. The exact 19 Dec price wasn't shown.
@@ -143,7 +143,7 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 - **Plan:** walk the falls trail at 08:30, before the crowds, then Ytepopo.
 - ⚠️ **High water, Nov 2026:** the **Garganta do Diabo walkway** (the one out over the river) **closed again on 26 Nov** for a new rise in the river ≈ (La Voz de Cataratas / De la Tribuna news, 26 Nov). The Trilha das Cataratas and the other viewpoints stay open. It had reopened on 31 Oct after a 20-day closure. Check the park's news on cataratasdoiguacu.com.br before 19 Dec.
 
-**Sun 20: Argentine side** (Parque Nacional Iguazú). This is the up-close side and needs the whole day.
+**Day 2 (Sun 20 Dec): Argentine side** (Parque Nacional Iguazú). This is the up-close side and needs the whole day.
 - **Foz → Puerto Iguazú:** Río Uruguay bus, hourly 07:30–21:30. On Thu–Sun it starts at the **TTU** ✅ riouruguaybus.com.ar. The fare is ≈ AR$ 10–12k ($7–9) from resellers; the operator's site shows no fare.
 - **Border:** Argentine immigration always stops the bus. For a same-day return you can usually stay on it at the Brazilian post (LP tip ≈), so confirm with the driver. Bring your passport.
 - **Puerto Iguazú terminal → falls:** buses every 15 min, 06:00–17:30 ✅. ≈ AR$ 12,000 ($7.60) each way for foreigners (council tariff, July 2026, local news).

@@ -137,12 +137,12 @@ No cars on the island; every trail starts in Abraão.
 </table>
 
 - **Sat 12 (with option A): the Lopes Mendes trail.** About 6 km and 2½–3 h each way, via Palmas and Pouso. Free. A boat back from Pouso is ≈ R$ 30–40. If you arrive late, walk to Praia Preta, the Lazareto ruins and the Aqueduto (20 min, free) and watch sunset from the beach.
-- **Sun 13: Pico do Papagaio (982 m) at sunrise (backlog).**
+- **Day 2 (Sun 13 Dec): Pico do Papagaio (982 m) at sunrise (backlog).**
   - Steep 6 km. Groups leave ~02:00 and are back ~09:30.
   - A guide is ≈ $20–40. Going solo in daylight is free, but don't climb in the dark alone.
   - Decide the night before from the forecast; the summit is often clouded in December.
 - **Sun 13 afternoon:** the 6 km dirt road to **Dois Rios** beach and the old prison. The **Museu do Cárcere is open Tue–Sun 10–16** (LP ≈), so Sunday works.
-- **Mon 14:** a 07:00 shore walk only (Abraãozinho), before the 10:00 ferry.
+- **Day 3 (Mon 14 Dec):** a 07:00 shore walk only (Abraãozinho), before the 10:00 ferry.
 - **Backlog:** the Ilha Grande circuit (about 90 km, 4–6 days) does not fit.
 
 **From Lonely Planet** (*South America on a Shoestring*):

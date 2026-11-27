@@ -113,14 +113,14 @@ All live-checked on 24 Nov.
 </table>
 
 - **Tue 15 (after the 09:00 bus): MASP is free on Tuesdays,** 10:00–20:00 (last entry 19:00) ✅ masp.org.br. **You must book a free slot online, even on free days.** Otherwise R$ 85; closed Mondays. It is on Av. Paulista, 2 metro stops from Sumaré.
-- **Wed 16, 07:00: Pico do Jaraguá (1,135 m)** via the **Trilha do Pai Zé.**
+- **Day 2 (Wed 16 Dec), 07:00: Pico do Jaraguá (1,135 m)** via the **Trilha do Pai Zé.**
   - About 3.5–5.5 km and 2–2.5 h, free.
   - The trail is in use in 2026 (AllTrails reviews, Nov 2026 ≈); hours are ≈ Tue–Sun 07:00–16:00.
   - Take CPTM Line 7 to Vila Aurora, then a short Uber or bus to the gate.
 - **Wed 16 afternoon (all free):**
   - Lunch at the Mercadão in Centro, then the Liberdade streets. Liberdade's street fair is weekend-only.
   - Parque Ibirapuera (Niemeyer's Marquise and the lake), or Beco do Batman graffiti alley in Vila Madalena (15 min from the hostel) at sunset.
-- **Thu 17:** leave the hostel ~06:45 for the 07:30 Penha bus from Tietê, which gives you Curitiba's afternoon. The metro opens at 04:40.
+- **Day 3 (Thu 17 Dec):** leave the hostel ~06:45 for the 07:30 Penha bus from Tietê, which gives you Curitiba's afternoon. The metro opens at 04:40.
 - **Skip:** the Pinacoteca (R$ 40; free only on Saturdays ✅) and the Sesc Paulista rooftop, which is **closed for works** ✅ sescsp.org.br.
 
 **From Lonely Planet** (*South America on a Shoestring*):

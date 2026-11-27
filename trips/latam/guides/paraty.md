@@ -130,7 +130,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Mon 14 afternoon: Trindade.** Colitur L25 from the rodoviária, **R$ 5.00** ✅ colitur. Weekdays it leaves hourly 05:15–17:00, then 19:00 and 22:30. Returns run hourly to 18:00, then 22:00 and 23:15.
   - Take the 15:00 out and come back on the 18:00.
   - Walk Praia do Meio → **Cachadaço natural pool** (20 min of forest trail) and see the **Pedra que Engole** waterfall pool. All free.
-- **Tue 15, pick one:**
+- **Day 2 (Tue 15 Dec), pick one:**
   - **(a) Recommended:** the 09:00 bus to São Paulo, then MASP's free Tuesday (see [São Paulo](sao-paulo.md)).
   - **(b) Cachoeira do Tobogã** (a natural rock waterslide, free). Colitur L14 "Penha", R$ 5.00 ✅: out **06:30**, back **10:45** (the 08:00 runs only to Pantanal). Then take the 13:40 bus.
 - **Historic centre on foot:** free. The cobbled streets flood at high tide; sunset at the Pontal.

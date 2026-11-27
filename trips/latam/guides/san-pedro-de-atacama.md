@@ -142,14 +142,14 @@ The pick until 25 Nov. ⚠️ Location 8.8.
 - The moon (37%) sets around midnight, so 00:00–04:00 on 14–15 Jan is the darkest window.
 - Paid astronomy tours are cancelled often in January cloud and aren't needed.
 
-**Sat 16: Valle de la Luna by rented bike** (the cheap version of the most-sold tour).
+**Day 2 (Sat 16 Jan): Valle de la Luna by rented bike** (the cheap version of the most-sold tour).
 - ✅ Bikes may enter only **09:00–11:00** (valledelaluna.com, Sep–Mar).
 - ✅ Entry **CLP 10,800 ≈ US$10.50** (Viator/SanPedroAtacama.com/Horizonte quoting CONAF). Buy online at valledelaluna.com/shop (card at the gate; no cash).
 - Bike hire ≈ CLP 8,000–10,000 for the half day (Caracoles shops, helmet included, ≈).
 - ≈ 30–35 km round trip on sand and washboard. Carry 2 L of water; you're back before the afternoon heat.
 - The Piedra del Coyote (Ckari) sunset viewpoint is reported closed (≈).
 
-**Sat 16, afternoon, or Sun 17: short bike loop north.**
+**Day 2 (Sat 16 Jan), afternoon, or Sun 17: short bike loop north.**
 - **Garganta del Diablo** canyon in Quebrada de Catarpe (gate ≈ CLP 5,000 cash, tur.com).
 - The **Valle de Marte** (Valle de la Muerte) dunes 2 km from town (≈ CLP 7,500, June 2026 post).
 - Both are rideable from town in 2–4 h.
@@ -162,7 +162,7 @@ The pick until 25 Nov. ⚠️ Location 8.8.
 - **Alternatives:** Lagunas Escondidas de **Baltinache** (≈ CLP 10,000 at the gate, seven floatable turquoise pools, ≈ 1 h south on a rough road, so a tour or a shared car) or **Ojos del Salar + Laguna Tebinquiche** (≈ CLP 5,000–6,000; swim in the Ojos, sunset reflections at Tebinquiche; on the Cejar road).
 - Or simply skip it: the jeep tour has the Polques hot pool, flamingo lagoons and the salt flat.
 
-**Sun 17: Cerro Toco 5,604 m** (optional guided walk-up; Iruya, Hornocal and Jama make good acclimatisation for it). Guide mandatory (it's inside a park).
+**Day 3 (Sun 17 Jan): Cerro Toco 5,604 m** (optional guided walk-up; Iruya, Hornocal and Jama make good acclimatisation for it). Guide mandatory (it's inside a park).
 - ✅ **Vulcano Expediciones CLP 85,000 ≈ US$83** group (06:00 → ≈ 13:30; 4x4 to ≈ 5,200 m, then ≈ 400 m of ascent on scree in 2–3 h; WFR guide, poles, warm layers, oxygen; full refund or reschedule if weather stops it; private CLP 290,000).
 - ✅ **Nomades CLP 75,000 ≈ US$73** (7 h, free reschedule ≥ 48 h). Atacama Chile Tours from US$110.
 - **Acclimatisation:** operators want 2–3 days in San Pedro plus something above 3,500 m first. You arrive from Purmamarca (2,300 m) over Jama (4,200 m), so the 17th is day 4 and OK if you feel fine on the 15th–16th. It also pre-acclimatises you for the tour's 4,300–4,900 m. Skip it if you have a headache or poor sleep.

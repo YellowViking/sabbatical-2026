@@ -66,6 +66,7 @@ def parse_dm(day, mon, yr=None):
 
 SINGLE = re.compile(rf'\b(?:(?P<wd>{WDR}) )?(?P<d>\d{{1,2}}) (?P<m>{MR})\b(?: (?P<y>2026|2027))?')
 RANGE = re.compile(rf'\b(?:(?P<wd1>{WDR}) )?(?P<d1>\d{{1,2}})(?: (?P<m1>{MR}))?(?: (?P<y1>2026|2027))? → (?:(?P<wd2>{WDR}) )?(?P<d2>\d{{1,2}}) (?P<m2>{MR})\b(?: (?P<y2>2026|2027))?')
+COMBO = re.compile(RANGE.pattern + '|' + SINGLE.pattern)
 ISO = re.compile(r'\b(2026-1[12]-\d\d|2027-0[1-3]-\d\d)\b'); DMY = re.compile(r'\b(\d\d)-(\d\d)-(2026|2027)\b')
 TFS = re.compile(r'tfs=([A-Za-z0-9_-]+)')
 
@@ -86,9 +87,8 @@ def map_single(mm, f):
 
 def map_text(s, f, weekday_only=False):
     """Map plan dates in a piece of text. weekday_only: only 'Ddd D Mon' singles (prose)."""
-    if not weekday_only:
-        s = RANGE.sub(lambda mm: map_range(mm, f), s)
-        return SINGLE.sub(lambda mm: map_single(mm, f), s)
+    if not weekday_only:   # one combined pass, so a range's end date is not mapped a second time
+        return COMBO.sub(lambda mm: map_range(mm, f) if mm.group('d1') else map_single(mm, f), s)
     return SINGLE.sub(lambda mm: map_single(mm, f) if mm.group('wd') else mm.group(0), s)
 
 def map_urls(s, f):
@@ -142,9 +142,11 @@ def process_guide(path, old_blocks, new_blocks, f, events, convert, warn):
                 # prose: relative markers first, then weekday dates outside fixed-event sentences
                 line = re.sub(rf'(?:(?P<lab>[A-Z][\w ]+?) · )?Day (?P<n>\d+) \((?P<date>{WDR} \d{{1,2}} {MR})\)',
                               lambda mm: rel_marker(mm, new_blocks), line)
-                if convert and old_blocks:
+                if old_blocks:   # idempotent: only absolute bold day headers are converted
                     line = re.sub(rf'\*\*(?P<date>{WDR} \d{{1,2}} {MR})(?P<tail>[,:])',
                                   lambda mm: conv_bold(mm, old_blocks, new_blocks), line)
+                    line = re.sub(rf'\*\*(?P<wd>{WDR}) (?P<d>\d{{1,2}})(?P<tail>[,:])',
+                                  lambda mm: conv_bold_nomonth(mm, old_blocks, new_blocks), line)
                 parts = re.split(r'(?<=[.;!?])\s+', line)
                 line = ' '.join(p if FIXED_KW.search(p) or re.search(r'Day \d+ \(', p) else map_text(p, f, weekday_only=True) for p in parts) if parts else line
         line = map_urls(line, f)
@@ -178,6 +180,16 @@ def rel_marker(mm, new_blocks):
     nb = next((b for b in new_blocks if b[0] == lab), None) if lab else (new_blocks[0] if new_blocks else None)
     if not nb: return mm.group(0)
     return (f'{lab} · ' if lab else '') + f'Day {n} ({fmt(nb[1] + TD(days=n - 1))})'
+
+def conv_bold_nomonth(mm, old_blocks, new_blocks):
+    for b in old_blocks:   # find the block day with this weekday and day-of-month
+        d = b[1]
+        while d <= b[2]:
+            if d.day == int(mm.group('d')) and WD[d.weekday()] == mm.group('wd'):
+                n = (d - b[1]).days + 1; nb = next((x for x in new_blocks if x[0] == b[0]), b)
+                return f'**{(b[0] + " · ") if b[0] else ""}Day {n} ({fmt(nb[1] + TD(days=n - 1))}){mm.group("tail")}'
+            d += TD(days=1)
+    return mm.group(0)
 
 def conv_bold(mm, old_blocks, new_blocks):
     d = parse_dm(*mm.group('date').split()[1:]); b = in_block(old_blocks, d)
@@ -226,7 +238,7 @@ def main():
             ff = (lambda dlt: (lambda d: d + dlt if D(2026, 12, 1) <= d <= D(2027, 3, 31) else d))(delta)
             new, ch = process_guide(p, [], [], ff, events, False, report)
         else:
-            new, ch = process_guide(p, old_blocks.get(g, []), new_blocks.get(g, []), f, events, first_run, report)
+            new, ch = process_guide(p, old_blocks.get(g, []), new_blocks.get(g, []), f, events, True, report)
         old = open(p).read()
         if new != old:
             print(f'  {g}: {ch} lines change')

@@ -184,8 +184,8 @@ Prices are ≈.
 Ride the same EGA bus only as far as **Salto (00:45, 11 h 15)**:
 - **Ticket:** Encarnación → Salto is semi-cama PYG 740,000 ≈ $116 on the same shop. If you already hold the Montevideo ticket, ask EGA whether you can simply get off at Salto. Mark your bag for Salto.
 - **Bed:** Hotel Los Cedros, Booking location 9.5 (345 reviews, 1% below 7), 24-hour desk, **$65** ([Booking](https://www.booking.com/hotel/uy/los-cedros.html?checkin=2026-12-26&checkout=2026-12-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)). It's ≈ 1.5 km from the terminal, so take a taxi. Cheaper but out at the hot springs: Hotel Village Termas de Daymán, $38, location 8.9.
-- **Sun 27, morning:** the Daymán municipal hot springs, 08:00–22:00, ≈ UYU 200. City bus from Julio Delgado y Brasil at 09:10 (≈ 30 min, UYU 54). *(AI-summary leads; check them on the day.)*
-- **Sun 27, afternoon:** ✅ Agencia Central **13:00 → Tres Cruces 20:00**, or Núñez 12:30 → 19:50, both daily (Tres Cruces timetable). Fares from ≈ UYU 1,672 ≈ $40.
+- **Day 5 (Sun 27 Dec), morning:** the Daymán municipal hot springs, 08:00–22:00, ≈ UYU 200. City bus from Julio Delgado y Brasil at 09:10 (≈ 30 min, UYU 54). *(AI-summary leads; check them on the day.)*
+- **Day 5 (Sun 27 Dec), afternoon:** ✅ Agencia Central **13:00 → Tres Cruces 20:00**, or Núñez 12:30 → 19:50, both daily (Tres Cruces timetable). Fares from ≈ UYU 1,672 ≈ $40.
 - **What stays the same:** the MedioMundo night and the 28 Dec Cabo Polonio bus.
 
 </details>

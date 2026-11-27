@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 > **Stop 5 · Thu 17 → Fri 18 Dec 2026 · 1 night · then the Serra Verde train and a night bus**<br>
 > 🏞️ Brazil's craft-beer capital, then the train down the Serra do Mar's Atlantic forest to colonial Morretes<br>
 > 🛏️ **Hostel Residencial Botânico**, a bunk in a mixed dorm, $13 for 1 night<br>
-> 🚌 **In:** Penha 07:30 Tietê → Curitiba 14:00, Thu 17 · 🚆 **Fri 18:** Serra Verde Express 08:30 to Morretes, Graciosa bus back 16:10 · 🌙 **Out:** Catarinense night bus 21:00 to Foz, Fri 18
+> 🚌 **In:** Penha 07:30 Tietê → Curitiba 14:00, Thu 17 · 🚆 **Day 2 (Fri 18 Dec):** Serra Verde Express 08:30 to Morretes, Graciosa bus back 16:10 · 🌙 **Out:** Catarinense night bus 21:00 to Foz, Fri 18
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QboXr01sgcu37O2-5fvpMFAZLvGx8mzPT5PPo9vj4GzsfCD0C9XvMkyKvCNAT4QKaO-mUWtw3gPZvgS2j-4EtD8vxxmtAjl1B0xMdV0WxdjhyqtVXRegpIpugwo3vFwpY-twChBZY1WZEO=w1200-h360-p-k-no" alt="The Serra Verde Express train on a ledge above the forested Serra do Mar" width="100%">
 
@@ -141,7 +141,7 @@ All live-checked on 24 Nov.
 - **Evening (LP):** on warm nights the bars around **Praça Garibaldi and the Largo da Ordem** spill onto the street. Batel's Av. Vicente Machado is the late-night strip.
 - **Backlog (LP):** **Ilha do Mel**, a car-free island of wild beaches and coastal walks, which LP calls southern Brazil's most picturesque beach spot. From Morretes, a bus runs to Paranaguá (≈ 1 h, LP), then a boat to the island (1½–2 h). It doesn't fit the Friday night bus.
 
-**Fri 18: Serra Verde Express Curitiba → Morretes, 08:30**
+**Day 2 (Fri 18 Dec): Serra Verde Express Curitiba → Morretes, 08:30**
 - ✅ **It runs on Fri 18 Dec**, per serraverdeexpress.com.br's own booking API. It leaves from the Rodoferroviária. The operator gives "about 4 h 30" for the trip, so you arrive ≈ 12:30–13:00.
 - **One-way fares** ✅ (495 of 1,118 seats already sold):
 
@@ -156,7 +156,7 @@ All live-checked on 24 Nov.
 - **Rules:** be there 1 h early. Online tickets can be cancelled free within 7 days of buying; after that the fee is 20% ✅.
 - **Backpack:** leave it at the hostel (ask at check-out), or use the Malex automatic lockers in the Rodoferroviária. The lockers are ✅ listed on the URBS station page; the price, ≈ R$ 35 a day, comes from an old snippet.
 
-**Fri 18, Morretes (≈ 13:00–16:10):**
+**Day 2 (Fri 18 Dec), Morretes (≈ 13:00–16:10):**
 - Walk the **Rio Nhundiaquara** riverbank, the Ponte Velha and the colonial centre: free.
 - Porto de Cima (≈ 6 km) doesn't fit before the 16:10 bus.
 

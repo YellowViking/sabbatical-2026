@@ -65,13 +65,13 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ## ✈ Getting here: Sucre → La Paz, Mon 25 Jan (Day 49)
 
-- ✅ **Google Flights, live 24 Nov** (a real search page): no nonstop on Sunday. **BoA via Cochabamba:**
+- ✅ **Google Flights, live 24 Nov** for the old Sunday date, rechecked 26 Nov for **Mon 25 Jan** (no nonstop either day; Monday is **$49**). **BoA via Cochabamba:**
   - **09:05 → 11:25 (2 h 20), US$56**, the pick;
   - 20:45 → 23:05, US$50;
   - via Santa Cruz, 12:00 → 14:50, US$91.
 - **Buy** on boa.bo or Google Flights' BoA link (cash fare; a checked bag is normally included on BoA domestic, ≈).
 - **Nonstop options:** BoA's restored SRE–LPB nonstop started 17 Nov 2026 and runs **3× a week**: ≈ OB 561 07:35 on Wed/Thu and OB 567 21:30 on Tue/Wed (FlightsFrom/AI-summary lead), never Sunday.
-- ✅ **EcoJet** announces a "new route Sucre–La Paz from 4 December" on flyecojet.aero, but no schedule is shown. **Check EcoJet for a Sunday nonstop before buying the BoA connection.**
+- ✅ **EcoJet** announces a "new route Sucre–La Paz from 4 December" on flyecojet.aero, but no schedule is shown. **Check EcoJet for a nonstop on your flight day before buying the BoA connection.**
 - **Ground option:** overnight bus Sun 24 Jan 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$56 flight is better.
 - **Sucre's Alcantarí airport** is ≈ 30 km out (taxi ≈ Bs 80–100, ≈; leave town by 07:30).
 - **At El Alto:** official taxi **Bs 80–150** to the centre (Bolivian Life, Nov 2026), ≈ 40 min to the hostel, or minibus 212 for ≈ Bs 3.

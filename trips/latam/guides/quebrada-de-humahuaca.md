@@ -156,24 +156,24 @@ Live-checked 26 Nov.
 </tr>
 </table>
 
-**Tue 12, afternoon, Tilcara: the Garganta del Diablo gorge**, if the sky is clear.
+**Day 1 (Tue 12 Jan), afternoon, Tilcara: the Garganta del Diablo gorge**, if the sky is clear.
 - 8–9 km return from town on a dirt road and then the canyon path, +≈ 420 m, ≈ 3–3.5 h.
 - It's on Comunidad Ayllu Mama Qolla land; they charge a cash entry fee at the top, ≈ ARS 5,000–6,000 (≈ $3–4) *(fee not published; amount from leads)*.
 - Don't enter the gorge if a storm is building (flash floods). If it's raining, swap it with Wednesday morning.
 - Tilcara's tourist office (Belgrano 366) has information on walks, but its opening hours are unreliable (LP).
 
-**Wed 13: Iruya.** ✅ Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00 (ARS 4,500), then **Transporte Iruya 08:20** (also 10:30 and 16:00, not Saturdays at 16:00) → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor (≈ ARS 9,500–12,000 ≈ $6–8; buy at the Humahuaca terminal) *(times and fares from leads; confirm at the terminal)*.
+**Day 2 (Wed 13 Jan): Iruya.** ✅ Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00 (ARS 4,500), then **Transporte Iruya 08:20** (also 10:30 and 16:00, not Saturdays at 16:00) → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor (≈ ARS 9,500–12,000 ≈ $6–8; buy at the Humahuaca terminal) *(times and fares from leads; confirm at the terminal)*.
 - **Afternoon (free):** walk the riverbed to **San Isidro**, a smaller village ≈ 8 km up the valley (≈ 3–4 h return), or climb to the **Mirador del Cóndor** above the village at sunset.
 - **Book your return seat** at the Iruya ticket office when you arrive.
 
-**Thu 14, morning: Serranía de Hornocal** ("14 colours", 4,350 m).
+**Day 3 (Thu 14 Jan), morning: Serranía de Hornocal** ("14 colours", 4,350 m).
 - Take the **06:00 bus** Iruya → Humahuaca (arrives ≈ 09:00; no Sunday service). Leave the bag at the terminal's luggage office (ask) or with the 4x4 driver.
 - Shared 4x4s leave the Humahuaca terminal when full, ≈ 3 h return, ≈ ARS 20,000 + ARS 2,000 community fee (≈ $13 total) *(leads)*. Late morning gives the best light before the storms.
 - **Back in Humahuaca (free, near the terminal):** the old cabildo on Plaza Gómez, whose clock tower puts out a life-size saint figure at noon, and the stairway from the plaza up to the Independence monument for a view over the adobe town (LP). The tourist office is in the cabildo (LP).
 - **Lunch before the bus (LP):** **Mikunayoc** (Corrientes & Tucumán; lunch only, llama dishes and unusual empanadas) or **Aisito** (Buenos Aires 435; baked empanadas and llama).
 - Then Evelia or Balut Humahuaca → Purmamarca (≈ 1 h 15), arriving early afternoon.
 
-**Thu 14, late afternoon, Purmamarca:**
+**Day 3 (Thu 14 Jan), late afternoon, Purmamarca:**
 - The **Paseo de los Colorados**: a 3 km dirt loop through red-rock spires behind the village, ≈ 1 h, small or no community fee.
 - The **Cerro El Porito** lookout for the Cerro de los Siete Colores: best at golden hour, 10–15 min up.
 - Then dinner and bed by 21:00.
