@@ -17,7 +17,7 @@ Route and reasoning: [route-v5-brainstorm.md](route-v5-brainstorm.md). Map: [int
 | Dates | Stop (nights) | Dorm pick: total, channel | Private alt (location first) | Getting there | Guide |
 |---|---|---|---|---|---|
 | Tue 8 → Sat 12 Dec | **Rio de Janeiro** (4) | Copacabana Central Hostel, $49, Booking | Studio da Lu, $154 | ✈ Alaska award; GIG → Copacabana by BRT + metro | [→](guides/rio-de-janeiro.md) |
-| 12 → 14 Dec | **Ilha Grande** (2) | Lila Limão, $45, Booking | Blue Door Brasil, $95 | 05:00 bus to Mangaratiba + 08:00 ferry → Abraão 09:50, ≈ $13 | [→](guides/ilha-grande.md) |
+| 12 → 14 Dec | **Ilha Grande** (2) | Lila Limão, $45, Booking | Blue Door Brasil, $95 | 07:00 Costa Verde to Conceição de Jacareí + 09:30 Porto Real flex boat → Abraão 09:50, ≈ $23 (05:00 bus + 08:00 state ferry is $13; door-to-door van $44) | [→](guides/ilha-grande.md) |
 | 14 → 15 Dec | **Paraty** (1) | Girassol Hostel (location 9.7; kitchen; 4 min from the rodoviária), $12, Booking | Casa Nossa, $25 | Ferry + Colitur bus | [→](guides/paraty.md) |
 | 15 → 17 Dec | **São Paulo** (2) | Lamparina (curtains, stove), $27, Booking | Zen Hostel Brasil, $42 | ✅ Reunidas 09:00 → 15:40, $19.89 (MASP is free on Tuesdays) | [→](guides/sao-paulo.md) |
 | 17 → 18 Dec | **Curitiba** (1) + Serra Verde train | Residencial Botânico, $13, Booking | Studio Lifespace Batel, $50 | ✅ Penha 07:30 → 14:00, $19.60; ✅ train Fri 18 Dec 08:30, R$70; bus back 16:10 | [→](guides/curitiba.md) |

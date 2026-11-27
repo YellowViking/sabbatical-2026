@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 > **Stop 2 · Sat 12 → Mon 14 Dec 2026 · 2 nights · weekend ferry timetable**<br>
 > 🏞️ A car-free island of beaches and forest; every trail starts in Vila do Abraão<br>
 > 🛏️ **Lila Limão Hostel**, a bed in a 6-bed mixed ensuite dorm, $45 for 2 nights<br>
-> 🚌 **In:** Costa Verde 05:00 to Mangaratiba + ferry 08:00, Sat 12 · **Out:** Barcas ferry Abraão → Angra 10:00, then Colitur to Paraty, Mon 14
+> 🚌 **In:** Costa Verde 07:00 to Conceição de Jacareí + Porto Real flex boat 09:30, Sat 12 · **Out:** Barcas ferry Abraão → Angra 10:00, then Colitur to Paraty, Mon 14
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXD7rjE0KvzYeZBi57Dl1dLxzE4WZEUcY2byXKqzD-wVefQZBBDNHK0HPimftt7O6YIzu2ocIisQ3Kwx03bgJBG99BmQQrAy33YcVDW9D4ew8f0GPZfRsU90tRjZ0cbuODXTdA=w1200-h360-p-k-no" alt="Praia do Abraão: rocks, boats and the forested hills of Ilha Grande" width="100%">
 
@@ -29,7 +29,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 12 Dec | 🚌 Uber to Novo Rio ~04:15, **Costa Verde 05:00 → Mangaratiba 07:10**, ⛴️ ferry **08:00** → Abraão ~09:50. 🥾 **Lopes Mendes trail** (≈ 6 km, 2½–3 h each way, via Palmas and Pouso; boat back from Pouso ≈ R$ 30–40). Arriving late? Praia Preta, the Lazareto ruins and the Aqueduto, then sunset on the beach. |
+| **Day 1** · Sat 12 Dec | 🚇 Metro + VLT to Novo Rio by ~06:40, **Costa Verde 07:00** (Rio–Paraty bus) → off at **Conceição de Jacareí** ≈ 09:00, 🚤 **Porto Real flex boat 09:30** → Abraão ~09:50 (next boat 12:30). 🥾 **Lopes Mendes trail** (≈ 6 km, 2½–3 h each way, via Palmas and Pouso; boat back from Pouso ≈ R$ 30–40). Arriving late? Praia Preta, the Lazareto ruins and the Aqueduto, then sunset on the beach. |
 | **Day 2** · Sun 13 Dec | 🥾 **Pico do Papagaio** (982 m) at sunrise: groups leave ~02:00 and are back ~09:30; decide the night before. Afternoon: the 6 km dirt road to **Dois Rios** beach and the old prison (Museu do Cárcere, Tue–Sun 10–16 ≈). |
 | **Day 3** · Mon 14 Dec | 🌅 07:00 shore walk to Abraãozinho, then the ⛴️ **10:00 ferry** to Angra and the bus to Paraty. |
 
@@ -50,9 +50,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In (A) | **Costa Verde** bus Rio Novo Rio → Mangaratiba | **Sat 12 Dec 05:00 → 07:10** | R$ 57.99 ≈ | [ClickBus](https://www.clickbus.com.br/onibus/rio-de-janeiro-novo-rio-rj/mangaratiba-rj?departureDate=2026-12-12) |
-| In (A) | **Barcas Rio** ferry Mangaratiba → Abraão | **Sat 12 Dec 08:00** → ~09:50 | R$ 20.50 | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
-| In (C, D) | **Porto Real** flex boat, Conceição de Jacareí → Abraão | ~15 min | R$ 65 one way | [Porto Real](https://portorealilhagrande.com.br/) |
+| In | **Costa Verde** Rio–Paraty bus, Novo Rio → Conceição de Jacareí (ask to get off) | **Sat 12 Dec 07:00** → ≈ 09:00 (also 08:00, 09:00) | ≈ R$ 60 (fare to Jacareí not published) | [Costa Verde timetable](https://www.costaverdetransportes.com.br/linhas-horarios) · buy at Novo Rio |
+| ⚠️ In | **Porto Real** flex boat, Cais Porto Real (Conceição de Jacareí) → Abraão | **09:30** → 09:50 (also 12:30, 14:00, 17:00) | R$ 65 one way (+ ≈ R$ 10.30 boarding fee) | [Porto Real](https://portorealilhagrande.com.br/travessias-flex-boat) · WhatsApp +55 24 99225 4922 |
+| Cheapest | Costa Verde 05:00 → Mangaratiba + **Barcas Rio** ferry 08:00 → Abraão 09:50 | Sat 12 Dec | R$ 78.49 ($13) | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
 | Out | **Barcas Rio** ferry Abraão → Angra | **Mon 14 Dec 10:00** → ~11:45 | R$ 20.50 | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
 
 <details><summary>How to read these tables</summary>
@@ -65,17 +65,19 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ## 🚌 Getting here: Rio → Ilha Grande, Sat 12 Dec
 
-Saturday: the state ferry runs a weekend timetable.
+Web sweep and operator pages, 27 Nov. The cheap state ferry from Mangaratiba runs **once a day at 08:00**, which is why the cheapest option means a 04:00 alarm. The private boats from Conceição de Jacareí, 20 minutes across, let you sleep two hours longer and still land at 09:50.
 
-| Option | Route | Arrive Abraão | Cost |
-|---|---|---|---|
-| **A. Cheapest + earliest (recommended)** | Uber to Novo Rio at ~04:15 (≈ R$ 35; the metro opens 05:00), **Costa Verde 05:00 → Mangaratiba 07:10** (R$ 57.99 ≈, ClickBus listing), then **Barcas Rio ferry Mangaratiba → Abraão 08:00** (R$ 20.50, up to 110 min ✅ barcasrio.com.br) | ~09:50 | **R$ 78.49 ($13.17)** + Uber |
-| B. No dawn start | **Costa Verde 07:00 → Angra 11:02** or **09:00 → 12:00** (R$ 80.99 ≈ ClickBus), walk ~1.5 km to the pier, **weekend ferry Angra → Abraão 13:30** (R$ 20.50 ✅; weekdays 15:30) | ~15:20 | **R$ 101.49 ($17.03)** |
-| C. Fastest do-it-yourself | Costa Verde to Conceição de Jacareí (~2½ h; Saturday times unverified) + **Porto Real flex boat R$ 65 one way, ~15 min** ✅ portorealilhagrande.com.br | ~lunchtime | ≈ R$ 135 ($23) |
-| D. Door-to-door | Porto Real van Rio → Jacareí **R$ 140** + boat R$ 65 ✅ | ~lunchtime | **R$ 205 ($34)** |
+| Option | Route | Leave Copacabana | Arrive Abraão | Cost |
+|---|---|---|---|---|
+| ⭐ **A. Recommended** | Metro + VLT to Novo Rio, **Costa Verde 07:00** (the Rio–Paraty bus; ask for Conceição de Jacareí, *lead*) → **Porto Real flex boat 09:30** (✅ times on travessiailhagrande.com; R$ 65 ✅ portorealilhagrande.com.br) | ≈ 06:00 | **09:50** (next boat 12:30 → 12:50) | ≈ R$ 135 ($23) + metro |
+| B. Door-to-door | **Top Transfer** shared van + speedboat from the hostel (GetYourGuide, 4.0 from 903 reviews): pickups 05:45–07:15 or 08:45–10:15; free cancellation to 24 h | hostel pickup | ≈ 10:00 or ≈ 13:00 | **$44** (✅ GetYourGuide for 12 Dec) |
+| C. Cheapest | Uber to Novo Rio ~04:15, **Costa Verde 05:00 → Mangaratiba 07:10**, **Barcas Rio ferry 08:00** (R$ 20.50 ✅ barcasrio.com.br) | 04:15 | 09:50 | **R$ 78.49 ($13)** + Uber |
+| D. Via Angra | **Costa Verde 07:00 → Angra 11:02**, walk ≈ 1.5 km to Cais de Santa Luzia, private boat **12:30** (also 13:30, 15:00; 35 min) or the state ferry 13:30 | ≈ 06:00 | 13:05–15:20 | ≈ R$ 160 ($28), or R$ 101 with the ferry |
 
-- **Option A** gives you all of Saturday for the Lopes Mendes trail.
-- **Option B** suits you if you'd rather not get up at 04:00.
+- **Why A:** same arrival as C for ≈ $10 more and no 04:00 Uber. You still get all of Saturday for the Lopes Mendes trail.
+- ⚠️ **Book the 09:30 boat ahead** on Porto Real's site or WhatsApp. If the bus runs late, other operators at the Jacareí tourist pier also cross through the day (*lead*: roughly hourly in summer); Porto Real's next boat is 12:30.
+- Costa Verde's Rio–Paraty departures are 04:00, 05:15, 07:00, 08:00, 09:00, 11:00… (✅ costaverdetransportes.com.br, 27 Nov; no weekday breakdown, so check Saturday at the Novo Rio counter). Its dedicated Rio → Conceição de Jacareí line has no times online.
+- Other shared vans: Transfer Ilha R$ 260; Nomades R$ 285; GetYourGuide's other listings $45–70.
 - Some operators add a Jacareí boarding fee (≈ R$ 10.30).
 
 ## 🛏️ Where to sleep

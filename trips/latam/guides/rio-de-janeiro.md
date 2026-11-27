@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 > **Stop 1 · Tue 8 → Sat 12 Dec 2026 · 4 nights · first stop**<br>
 > 🏞️ Granite peaks, rainforest trails and city beaches, with a base in Copacabana<br>
 > 🛏️ **Copacabana Central Hostel**, a bed in an 8-bed mixed dorm, $49 for 4 nights<br>
-> ✈️ **In:** Alaska award SEA → GIG (AA lands 09:25), then BRT + metro to Copacabana · 🚌 **Out:** Costa Verde bus 05:00 to Mangaratiba + ferry to Ilha Grande, Sat 12 Dec
+> ✈️ **In:** Alaska award SEA → GIG (AA lands 09:25), then BRT + metro to Copacabana · 🚌 **Out:** Costa Verde bus 07:00 to Conceição de Jacareí + flex boat 09:30 to Ilha Grande, Sat 12 Dec
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q4cmSDPhUEH5Xs-tSW_Zic82n3Ztrh-WAkgPPglpCl5wQVpuUaMgfmxa1Jk-vYDs5ntrn2Ho-4anQ2MoFvGcHD4lpFnyG0SXG0WtOmVWtszPBdyHl0Dl82nlkpvBxnzatYPwYSyA=w1200-h360-p-k-no" alt="The Lagoa Rodrigo de Freitas and Ipanema from Mirante do Sacopã" width="100%">
 
@@ -34,7 +34,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 | **Day 3** · Thu 10 Dec | 🥾 **Pedra Bonita** (696 m) at sunrise. Or, if clear, **Pedra da Gávea** (844 m) with a guide. |
 | **Day 4** · Fri 11 Dec | 🌅 Morning: **Morro do Leme** fort + **Caminho dos Pescadores**. ⛰️ Afternoon: **Urca** (Cláudio Coutinho → Morro da Urca trail; Sugarloaf optional). 🍺 Hocus Pocus DNA in Botafogo. 🎶 Evening: **Pedra do Sal** (Friday roda ≈). |
 | **First clear morning** | ⛰️ **Christ the Redeemer**: the Parque Lage trail (free, platform R$ 58) or the Trem do Corcovado (R$ 139). |
-| **Day 5** · Sat 12 Dec | 🚌 Uber to Novo Rio ~04:15 for the **05:00 Costa Verde** bus → ferry to Ilha Grande. |
+| **Day 5** · Sat 12 Dec | 🚇 Metro + VLT to Novo Rio by ~06:40 for the **07:00 Costa Verde** bus → Conceição de Jacareí → 🚤 flex boat 09:30 to Ilha Grande. |
 
 ## 🔖 Book (one click)
 
@@ -54,7 +54,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 |---|---|---|---:|---|
 | In | ✈ **Alaska award** SEA → GIG | **Mon 7 Dec** (AA lands 09:25) | 60k miles, business | [Alaska](https://www.alaskaair.com/search/results?A=1&O=SEA&D=GIG&OD=2026-12-07&OT=Anytime&RT=false&UPG=none&ShoppingMethod=onlineaward&awardType=MilesOnly) |
 | In | BRT TransCarioca + Metrô · GIG → Siqueira Campos | ≈ 1 h 20 (BRT 04:00–00:00) | R$ 9.70 ($1.63) | pay at the gates (foreign cards at the BRT gate ≈; carry R$ 20 cash) |
-| Out | Costa Verde Novo Rio → Mangaratiba, then Barcas Rio ferry → Abraão | **Sat 12 Dec 05:00 → 07:10**; ferry 08:00 → ~09:50 | R$ 78.49 ($13.17) + Uber | [ClickBus](https://www.clickbus.com.br/onibus/rio-de-janeiro-novo-rio-rj/mangaratiba-rj?departureDate=2026-12-12) · [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
+| Out | Costa Verde Novo Rio → Conceição de Jacareí, then Porto Real flex boat → Abraão | **Sat 12 Dec 07:00** → ≈ 09:00; boat **09:30** → 09:50 | ≈ R$ 135 ($23) | [Costa Verde timetable](https://www.costaverdetransportes.com.br/linhas-horarios) · [Porto Real boat](https://portorealilhagrande.com.br/travessias-flex-boat) |
 
 **Sights:** Sugarloaf cable car (optional, R$ 205): [bondinho.com.br](https://bondinho.com.br/)
 
@@ -228,10 +228,9 @@ All three were live-checked on 24 Nov.
 
 ## 🚌 Leaving: Rio → Ilha Grande, Sat 12 Dec
 
-- **Recommended (option A in the [Ilha Grande guide](ilha-grande.md)):** Uber to Novo Rio at ~04:15 (≈ R$ 35; the metro opens 05:00).
-- **Costa Verde 05:00 → Mangaratiba 07:10** (R$ 57.99 ≈, ClickBus listing), then the **Barcas Rio ferry Mangaratiba → Abraão 08:00** (R$ 20.50, up to 110 min ✅ barcasrio.com.br). Arrive ~09:50.
-- **Total R$ 78.49 ($13.17)** + Uber. It gives you all of Saturday for the Lopes Mendes trail.
-- Three other options (a later bus via Angra, the Jacareí flex boat, a door-to-door van) are in the Ilha Grande guide.
+- **Recommended (option A in the [Ilha Grande guide](ilha-grande.md)):** metro to Central, then the VLT or a 10-min walk to Novo Rio by ~06:40.
+- **Costa Verde 07:00** (the Rio–Paraty bus; ask to get off at **Conceição de Jacareí**, ≈ 2 h), then **Porto Real's flex boat at 09:30** (R$ 65, 20 min; book ahead). Arrive Abraão ~09:50, the same time as the old 05:00 plan, for ≈ $10 more.
+- **Cheapest:** the 05:00 bus to Mangaratiba + the 08:00 state ferry, R$ 78.49 ($13), but it means an Uber at 04:15. **Easiest:** Top Transfer's shared van + speedboat from the hostel, $44. Details and the Angra option are in the Ilha Grande guide.
 
 ---
 <sub>Photos: Google Maps contributors (Mirante do Sacopã, Parque Lage, Pico da Tijuca, Pedra Bonita, Pedra da Gávea, Arpoador, Morro da Urca, Forte Duque de Caxias, Escadaria Selarón, Pedra do Sal, Sugarloaf, Christ the Redeemer, Aipo e Aipim, Companhia do Garfo, Hocus Pocus DNA). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Prato_Feito_em_Bel%C3%A9m.jpg">Prato Feito em Belém</a> (Los viajes del Cangrejo, CC BY 2.0).</sub>
