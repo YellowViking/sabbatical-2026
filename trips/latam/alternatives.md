@@ -43,6 +43,11 @@ Three options, already in the [itinerary](itinerary.md) and the [Panama City gui
   - **New from LP (26 Nov): add the Nazca Lines to C** (+0–1 day). Either the bus Arequipa → Nazca (10–12 h), an early overflight, then ≈ 2½ h on to Huacachina; or an overflight from Pisco or Ica (≈ US$90 + S/30 airport tax, LP). The coast is in season in February.
 
 ## 3. Optional add-ons (11 spare days before 15 Mar)
+**Spring-break cap (27 Nov): fly home by ≈ Sun 7 Mar.**
+- **Why:** to stay clear of US and Canadian school breaks. The busiest 2027 college spring-break weeks are 8–12 and 15–19 Mar, Ontario's March break is 15–19 Mar, and Semana Santa is 21–28 Mar (checked 27 Nov: Fresh Calendars' 2027 college list, Ontario school boards).
+- **What it costs:** each add-on day pushes the whole Central America leg later, so only **≈ 3 of the 11 spare days** are usable. For example, Somoto (+1) plus one +2 option. Option C's +3 alone uses them all.
+- **Local holidays:** Costa Rica's and Panama's 2027 school years start on 1 Mar (MEP, Meduca), so local families travel through February, and Panama's Carnaval is 6–9 Feb. That can't be avoided inside the dry season; the local peaks are Christmas–New Year and Semana Santa.
+
 ⭐ = my pick. Costs marked "not priced" haven't been checked yet. "New" = first raised by the Lonely Planet *South America on a Shoestring* review on 26 Nov; the rest came from the earlier article sweep or already have guides.
 
 | Option | Where it fits | Days | ≈ Cost | Season in our dates | Note |
