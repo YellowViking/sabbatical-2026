@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Panama City](panama-city.md) · [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) →
 
-> **Stop 26 · Mon 8 → Thu 11 Feb 2027 · 3 nights · 🎭 Carnaval**<br>
+> **Stop 26 · Day 63 → 66 · 3 nights · 🎭 Carnaval**<br>
 > 🏞️ Cool coffee-country town in the highlands, below Volcán Barú (3,474 m)<br>
 > 🛏️ **ONDA Boquete** ("Socialtel Boquete" on Booking), mixed dorm, $99.76 for 3 nights on Agoda (✅ 27 Nov; Booking $116)<br>
 > ✈️ **In:** Air Panama Albrook → David, Mon 07:15, then the bus up · **Out:** 🚌 05:30 bus to David and the Costa Rican border, Thu
@@ -29,16 +29,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 8 Feb · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David 08:00, taxi to the terminal, Boquete bus; in Boquete by ≈ 10:00. Afternoon: 🥾 **Lost Waterfalls** or the **Pipeline Trail**. |
-| **Day 2** · Tue 9 Feb · 🎭 Carnaval | Morning: 🥾 **Sendero Los Quetzales** from Alto Chiquero, or a free road walk (Jaramillo Arriba, Bajo Mono). Nap in the afternoon. Leave ≈ 23:00 for Barú. |
-| **Day 3** · Wed 10 Feb | 🌋 **Volcán Barú summit for sunrise ≈ 06:30**, back by ≈ 12:00. Recover; coffee-farm cupping is optional (paid). Pack for the 05:30 start. |
-| **Day 4** · Thu 11 Feb | 🚌 **05:30** bus to David, then the border and Costa Rica ([San Gerardo guide](san-gerardo-de-rivas.md)). |
+| **Day 63** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David 08:00, taxi to the terminal, Boquete bus; in Boquete by ≈ 10:00. Afternoon: 🥾 **Lost Waterfalls** or the **Pipeline Trail**. |
+| **Day 64** · 🎭 Carnaval | Morning: 🥾 **Sendero Los Quetzales** from Alto Chiquero, or a free road walk (Jaramillo Arriba, Bajo Mono). Nap in the afternoon. Leave ≈ 23:00 for Barú. |
+| **Day 65** | 🌋 **Volcán Barú summit for sunrise ≈ 06:30**, back by ≈ 12:00. Recover; coffee-farm cupping is optional (paid). Pack for the 05:30 start. |
+| **Day 66** | 🚌 **05:30** bus to David, then the border and Costa Rica ([San Gerardo guide](san-gerardo-de-rivas.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (8 → 11 Feb, 3 nights)
+**Beds** (Day 63 → 66, 3 nights)
 
 | | Where | Total | Location | From the park bus stop | Book |
 |---|---|---:|:---:|---|---|
@@ -52,11 +52,11 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ In | **Air Panama 7P670** · Albrook (PAC) → David (DAV) | **Mon 8 Feb 07:15 → 08:00** (also 7P970 16:15 → 17:00; ✅ Air Panama timetable, 27 Nov) | **$67** (24 Nov) | [Air Panama](https://www.airpanama.com/) |
+| ⚠️ In | **Air Panama 7P670** · Albrook (PAC) → David (DAV) | **Day 63 07:15 → 08:00** (also 7P970 16:15 → 17:00; ✅ Air Panama timetable, 27 Nov) | **$67** (24 Nov) | [Air Panama](https://www.airpanama.com/) |
 | In | **Boquete bus** (Coopsemautranchiri ≈) · David terminal → Boquete | every 20–30 min, ≈ 05:00–19:45, ≈ 45–60 min | $1.75–2.00 | on the day |
-| 🎭 Shift | Air Panama Albrook → David a day early, swapping the 2nd Panama City night for a 4th Boquete night | **Sun 7 Feb** 13:30 or 16:15 (no 07:15 on Sundays) | $67 (24 Nov) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDdqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
-| 🎭 Other airline | Copa CM13 Tocumen → David | Mon 8 Feb 06:39 → 07:46 (also CM17 07:42, CM28 17:50) | $80 ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDhqBRIDUFRZcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
-| Out | Boquete → David terminal, then on to Costa Rica | **Thu 11 Feb 05:30** | $1.75–2.00 | on the day; full leg in the [San Gerardo guide](san-gerardo-de-rivas.md) |
+| 🎭 Shift | Air Panama Albrook → David a day early, swapping the 2nd Panama City night for a 4th Boquete night | **Day 62** 13:30 or 16:15 (no 07:15 on Sundays) | $67 (24 Nov) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDdqBRIDUEFDcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
+| 🎭 Other airline | Copa CM13 Tocumen → David | Day 63 06:39 → 07:46 (also CM17 07:42, CM28 17:50) | $80 ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDhqBRIDUFRZcgUSA0RBVkABSAGYAQI&curr=USD&hl=en) |
+| Out | Boquete → David terminal, then on to Costa Rica | **Day 66 05:30** | $1.75–2.00 | on the day; full leg in the [San Gerardo guide](san-gerardo-de-rivas.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -66,10 +66,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## ✈️ Getting here: Panama City → David → Boquete, Mon 8 Feb (Carnaval Monday)
+## ✈️ Getting here: Panama City → David → Boquete, Day 63 (Carnaval Monday)
 
 - **Recommended: Air Panama 7P670, Albrook (PAC) 07:15 → David (DAV) 08:00, $67** (Google Flights, live 24 Nov). There's also 7P970, 16:15 → 17:00.
-  - ✅ **Air Panama's own timetable (27 Nov):** 7P670 runs Mon–Sat, 7P972 13:30 → 14:15 Sat–Sun, 7P970 16:15 → 17:00 daily except Saturday. Google Flights showed **no Air Panama fares at all** for 5–9 Feb on 27 Nov, so the $67 couldn't be re-priced; price it on airpanama.com.
+  - ✅ **Air Panama's own timetable (27 Nov):** 7P670 runs Mon–Sat, 7P972 13:30 → 14:15 Sat–Sun, 7P970 16:15 → 17:00 daily except Saturday. Google Flights showed **no Air Panama fares at all** for Days 60–64 on 27 Nov, so the $67 couldn't be re-priced; price it on airpanama.com.
   - **Fallback:** Copa CM13 from Tocumen 06:39 → 07:46, **$80** (✅ Google Flights, 27 Nov).
   - PAC is next to Albrook Mall: 1.3 km from Greg's Place, ≈ $6–10 by Uber from Bella Vista.
   - Then a taxi from DAV to the David bus terminal (≈ $5), and the **Boquete bus** (Coopsemautranchiri ≈), every 20–30 min from about 05:00 to 19:45, ≈ 45–60 min, **$1.75–2.00**. You're in Boquete by ≈ 10:00.
@@ -111,8 +111,8 @@ All live-checked on 24 Nov. **Carnaval Sat 6 → Tue 9 Feb fills the town, so bo
 
 ### 🎭 Carnaval backups
 - **Another town:** **Penny House** in **David**, a single bed in a mixed dorm, **$41 for 3 nights** on Booking (26 Nov; 81 reviews, none below 7), location 9.4. It's a 17-min walk from David's bus terminal, where the Boquete buses leave (≈ 1 h).
-- **Shifted dates:** fly Air Panama Albrook → David on **Sun 7 Feb** (13:30 or 16:15; the 07:15 doesn't run on Sundays; $67 on 24 Nov) and swap the 2nd Panama City night for a 4th Boquete night.
-- **Other airline:** Copa CM13 Tocumen → David, Mon 8 Feb 06:39 → 07:46 ($80, ✅ 27 Nov).
+- **Shifted dates:** fly Air Panama Albrook → David on **Day 62** (13:30 or 16:15; the 07:15 doesn't run on Sundays; $67 on 24 Nov) and swap the 2nd Panama City night for a 4th Boquete night.
+- **Other airline:** Copa CM13 Tocumen → David, Day 63 06:39 → 07:46 ($80, ✅ 27 Nov).
 
 ## 🌳 Things to do (outdoors first)
 
@@ -130,20 +130,20 @@ The Barú timing is the key choice.
 </table>
 
 - **Barú on your own** costs ≈ $5 in park fees against $40–85 guided, but muggings have been reported on the trail: start with other hikers from the hostel, not alone (The Broke Backpacker, 26 Nov lead).
-- **Day 1 (Mon 8 Feb), afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
-- **Day 2 (Tue 9 Feb), morning:**
+- **Day 63, afternoon: Lost Waterfalls trail** (Tres Cascadas): privately run, **$10 cash** (LP; the owners' Instagram and 2026 guides agree; a sign photo on Google Maps showing $8 is older), daily from 08:00, last entry ≈ 15:00, 2–3 h, three waterfalls. Or the **Pipeline Trail**: privately maintained, ≈ $5–10 (≈), 2–3 h out-and-back through cloud forest to a tall cascade, with a good chance of quetzals in Feb (dry season). Both are in Alto/Bajo Boquete, taxi ≈ $5–10.
+- **Day 64, morning:**
   - **Option 1: Sendero Los Quetzales**, out-and-back from the Alto Chiquero ranger post (Barú NP; park fee ≈ $7, ≈ 45 min by taxi). Quetzal season is Feb–May (LP).
   - **Option 2:** free road walks: the Jaramillo Arriba loop with volcano views, or Bajo Mono.
   - Then nap in the afternoon.
-- **Day 3 (Wed 10 Feb):** recover; coffee-farm cupping is optional (paid).
+- **Day 65:** recover; coffee-farm cupping is optional (paid).
 
-### 🌋 Volcán Barú sunrise climb, Tue 9 → Wed 10 Feb
+### 🌋 Volcán Barú sunrise climb, Day 64 → 65
 - **Route:** from the **Camiseta** control post above Boquete, a rocky 4×4 road, **12–13.5 km each way, ≈ 1,800 m gain**, 5–7 h up. Leave Boquete ≈ 23:00 (taxi ≈ $15–20, or a hostel shuttle ≈ $6–7; ≈) to summit for **sunrise ≈ 06:30**. Down in 4–5 h, back by ≈ 12:00.
 - **Fee and registration:** MiAmbiente's 2022 fee table puts **foreigners at B/ 7.00** (≈ $7); AI-Mode leads say $5 paid online. **Registration at Camiseta is mandatory**, digital (MiAmbiente, Sep 2025); pre-register online, as the post may be unstaffed at night (≈).
 - **Self-guided or guided:** the road is unmistakable and your climb is on the last night of Carnaval (Tue 9 → Wed 10), when there should still be plenty of hikers (≈), so self-guided is reasonable if the forecast is clear. MiAmbiente and LP still advise "preferably with a certified guide". A **guided hike costs ≈ $120–150**; a **4×4 sunrise tour ≈ $110–155** (leaves ≈ 03:30, 15 operator jeeps; ≈ AI-Mode/operator pages).
 - **Conditions:** February is the dry season, with the best odds of seeing both oceans. The summit is **0–5 °C with strong wind before dawn**, so bring a down layer, gloves, a headlamp and 3 L of water. MiAmbiente treated two exhausted hikers at Camiseta in Apr 2026.
 - ⚠️ **Access status:**
-  - **20–24 Feb 2026:** the **"La Nevera" section (km 9.6–10) was under repair**. 4×4s could only enter 04:00–04:30, while visits on foot continued; sunset trips resumed on 28 Feb.
+  - **20–24 Feb 2026:** the **"La Nevera" section (km 9.6–10) was under repair**. 4×4s could only enter 04:00–04:30, while visits on foot continued; sunset trips resumed on Day 83.
   - **7 Jul 2026: a landslide there closed summit access for walkers and 4×4s.** MiAmbiente's site shows no reopening notice, but its 5 Nov 2026 note says the park is open to visitors.
   - **Check MiAmbiente's Facebook or the Camiseta post the week before.**
 
@@ -167,7 +167,7 @@ Prices are ≈ and not checked. Cook at the hostel to save.
 - **ATMs:** Banco Nacional and others on the main street (≈).
 - **Nights are cool**, ≈ 13–15 °C.
 
-## 🚌 Leaving: Boquete → David → Costa Rica, Thu 11 Feb
+## 🚌 Leaving: Boquete → David → Costa Rica, Day 66
 
 - **05:30** Boquete → David terminal (Coopsemautranchiri bus from the park, $1.75–2.00), then the Frontera bus to Paso Canoas, the border and Tracopa to San Isidro.
 - The full step-by-step leg, the Costa Rica entry rules and the fallbacks are in the [San Gerardo de Rivas guide](san-gerardo-de-rivas.md).

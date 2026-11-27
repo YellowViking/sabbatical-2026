@@ -47,8 +47,8 @@ S = [
  (33,'Ometepe','22–25 Feb',11.5,-85.6, 0,0,'start'),
  (34,'Granada + Laguna de Apoyo','25–27 Feb',11.93,-85.96, 0,0,'start'),
  (35,'León','27 Feb–2 Mar',12.43,-86.88, 0,0,'start'),
- (36,'Estelí','2–3 Mar (+ airport night)',13.09,-86.35, 0,0,'start'),
- (37,'Somoto canyon','day trip, 8 Mar',13.48,-86.58, 0,0,'start'),
+ (36,'Estelí','89–92 (+ airport night)',13.09,-86.35, 0,0,'start'),
+ (37,'Somoto canyon','day trip, Day 91',13.48,-86.58, 0,0,'start'),
 ]
 OPTIONAL = set()
 # Dates come from trips/latam/schedule.json when it exists (stop n → guide → its stays), so the map follows a reschedule.
@@ -64,10 +64,10 @@ def from_schedule(S_):
         else: b.append([d, e, s.get('label')])
         d = e
     TRIP_END = d
-    M = {12: 'Dec', 1: 'Jan', 2: 'Feb', 3: 'Mar'}
-    def rng(a, b):
-        if a.month == b.month: return f'{a.day}–{b.day} {M[b.month]}'
-        return f'{a.day} {M[a.month]}–{b.day} {M[b.month]}'
+    global DAY1
+    DAY1 = _dt.date.fromisoformat(sch.get('trip_day_1', sch['start']))
+    TD_ = lambda x: (x - DAY1).days + 1          # trip day (Day 1 = arrival in Rio)
+    def rng(a, b): return f'Day {TD_(a)}–{TD_(b)}'
     out = []
     gmap = {v: k for k, v in GUIDES.items()}
     for s_ in S_:
@@ -76,8 +76,8 @@ def from_schedule(S_):
         if g == 'cordoba': bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]   # last 'night' is the bus to Tucumán
         if g in ('curitiba', 'porto-alegre'): bl = [[bl[0][0], bl[0][1] - _dt.timedelta(days=1), None]]   # last 'night' is a night bus
         if g == 'florianopolis': bl = [[bl[0][0] + _dt.timedelta(days=1), bl[0][1], None]]   # first 'night' is the bus from Foz
-        txt = ' · '.join(rng(a, b) if b > a else f'{a.day} {M[a.month]}' for a, b, _ in bl)
-        if g == 'colonia': txt = f'{bl[0][0].day} {M[bl[0][0].month]}'
+        txt = ' · '.join(rng(a, b) if b > a else f'Day {TD_(a)}' for a, b, _ in bl)
+        if g == 'colonia': txt = f'Day {TD_(bl[0][0])}'
         old = s_[2]; pre = _re.match(r'^[^\d]*', old).group(0); post = _re.search(r'[^\d A-Za-z–·]*(?:\s*\(.*\))?$', old).group(0) if '(' in old else ''
         out.append(s_[:2] + (pre + txt + post,) + s_[3:])
     return out
@@ -91,7 +91,8 @@ import datetime as _dt0
 TRIP_END = _dt0.date(2027, 3, 4)
 S = from_schedule(S); st = {s[1]: s for s in S}
 _WD = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']; _MN = {12:'Dec',1:'Jan',2:'Feb',3:'Mar'}
-HOME = f"{_WD[TRIP_END.weekday()]} {TRIP_END.day} {_MN[TRIP_END.month]}"; CA_RANGE = st['Panama City'][2].split('–')[0] + ' ' + st['Panama City'][2].split()[-1] + ' – ' + str(TRIP_END.day) + ' ' + _MN[TRIP_END.month]; SPARE = (_dt0.date(2027, 3, 15) - TRIP_END).days
+DAY1 = globals().get('DAY1', _dt0.date(2026, 12, 8)); TDN = lambda x: (x - DAY1).days + 1
+HOME = f"Day {TDN(TRIP_END)}"; CA_RANGE = st['Panama City'][2].split('–')[0] + f' → {TDN(TRIP_END)}'; SPARE = (_dt0.date(2027, 3, 15) - TRIP_END).days
 def gurl(page): return GUIDE_BASE + page if page.endswith('.md') or '#' in page else GUIDE_BASE + 'guides/' + page + '.md'
 def alink(page, inner): return f'<a href="{gurl(page)}" xlink:href="{gurl(page)}" target="_top">{inner}</a>'
 CA = {s[1] for s in S if s[0] >= 25}
@@ -206,11 +207,11 @@ for s_ in S:
     else:
         draw_stop(o, P, s_, dates=False)
         if s_[0] == 15: o[-1]=o[-1].replace('>Tilcara + Iruya + Purmamarca</text>','>Quebrada</text>')
-x,y=P(*COLONIA); o.append(alink('colonia', f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>Colonia: stopover and ferry, 1 Jan (click for the guide)</title></circle><text x="{x-8:.0f}" y="{y-6:.0f}" class="ink2 t-date halo" text-anchor="end">Colonia · ferry</text>'))
+x,y=P(*COLONIA); o.append(alink('colonia', f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>Colonia: stopover and ferry, Day 25 (click for the guide)</title></circle><text x="{x-8:.0f}" y="{y-6:.0f}" class="ink2 t-date halo" text-anchor="end">Colonia · ferry</text>'))
 x,y=P(*LIMA); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>Lima: change planes</title></circle><text x="{x-8:.0f}" y="{y+4:.0f}" class="ink2 t-date halo" text-anchor="end">Lima (change planes)</text>')
 # Seattle arrows
 x,y=P(*st['Rio de Janeiro'][3:5]); o.append(f'<path class="m-flight" d="M{x-170:.0f},{y-250:.0f} Q{x-110:.0f},{y-90:.0f} {x-6:.0f},{y-6:.0f}" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>')
-o.append(f'<text x="{x-170:.0f}" y="{y-256:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ from Seattle, Mon 7 Dec (Alaska award, business)</text>')
+o.append(f'<text x="{x-170:.0f}" y="{y-256:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ from Seattle, Day 0 (Alaska award, business)</text>')
 for nm,(la,lo),dx,dy,anc in [('Buenos Aires (ferry, then night bus)',BA,-10,20,'end')]:
     x,y=P(la,lo); o.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" class="dot ring" stroke-width="1.2"><title>{nm}</title></circle><text x="{x+dx:.0f}" y="{y+dy:.0f}" class="ink2 t-date halo" text-anchor="{anc}">{nm}</text>')
 bx0,by0=P(13.9,-88.6); bx1,by1=P(7.7,-79.0)
@@ -244,7 +245,7 @@ x,y=PI(*MGA); o.append(alink('flight-home', f'<circle cx="{x:.1f}" cy="{y:.1f}" 
 o.append('</g>')
 # title
 o.append(f'<text x="32" y="40" class="ink t-title">Latin America route v5: Rio → south Brazil → Uruguay → the Andes → Central America</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">✈ Mon 7 Dec 2026 → ✈ home {HOME} {TRIP_END.year} · {SPARE} spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = {_WD[DAY1.weekday()]} {DAY1.day} {_MN[DAY1.month]} {DAY1.year} (arrival in Rio) · ✈ home on {HOME} · {SPARE} spare days · faded = optional · dots nudged apart where crowded · nothing booked</text>')
 # legend + itinerary list
 ly=TOP+H_MAP+30; lx=32
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
@@ -252,7 +253,7 @@ for i,(k,v) in enumerate(MODES.items()):
     x0=lx+i*200; y0=ly+20; dash=f' stroke-dasharray="{v[2]}"' if v[2] else ''
     o.append(f'<line x1="{x0}" y1="{y0}" x2="{x0+44}" y2="{y0}" class="m-{k}" stroke-width="{v[3]+0.5}" stroke-linecap="round"{dash}/><text x="{x0+52}" y="{y0+4}" class="ink t-leg">{v[4]}</text>')
 ty=ly+56; cols=[S[:13],S[13:26],S[26:]]
-o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Stops (≈ dates)</text>')
+o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Stops (trip days)</text>')
 for ci,col in enumerate(cols):
     for ri,s_ in enumerate(col):
         x0=lx+ci*320; y0=ty+20+ri*17

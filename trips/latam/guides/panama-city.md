@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Arequipa](arequipa.md) · [Boquete](boquete.md) →
 
-> **Stop 25 · Sat 6 → Mon 8 Feb 2027 · 2 nights · 🎭 Carnaval (Sat 6 – Tue 9 Feb)**<br>
+> **Stop 25 · Day 61 → 63 · 2 nights · 🎭 Carnaval (Days 61–64)**<br>
 > 🏞️ The canal, Casco Viejo and a bayside skyline, with rainforest a short ride out<br>
 > 🛏️ **El Machico Hostel**, 10-bed mixed dorm, $38 for 2 nights<br>
 > ✈️ **In:** Sky + Copa from Arequipa via Lima, Sat (lands 17:08) · **Out:** Air Panama Albrook → David, Mon 07:15
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 6 Feb · 🎭 Carnaval | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo** (it's the city's Carnaval site: crowds; see Good to know). |
-| **Day 2** · Sun 7 Feb · 🎭 Carnaval | 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Sat) and a craft beer. |
-| **Day 3** · Mon 8 Feb · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David, then the bus up to Boquete (Carnaval Monday; the exodus from the city was on Fri–Sat). |
+| **Day 61** · 🎭 Carnaval | ✈️ Sky **06:50** Arequipa → Lima 08:35, then **Copa CM760 13:20 → Tocumen 17:08**. Metro (≈ 60–75 min) or Uber to Bella Vista. Sunset walk on the **Cinta Costera → Casco Viejo** (it's the city's Carnaval site: crowds; see Good to know). |
+| **Day 62** · 🎭 Carnaval | 🥾 **07:00 Cerro Ancón** for sloths, toucans and the view. 🚢 **The canal:** Miraflores inside a transit window (morning until ≈ 08:45, afternoon from ≈ 13:35), or the free **Pedro Miguel** view (ships mostly after 14:00). Or **Pipeline Road** instead of the canal. Evening: Casco Viejo (if not done Sat) and a craft beer. |
+| **Day 63** · 🎭 Carnaval | ✈️ **Air Panama 07:15** Albrook → David, then the bus up to Boquete (Carnaval Monday; the exodus from the city was on Fri–Sat). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (6 → 8 Feb, 2 nights)
+**Beds** (Day 61 → 63, 2 nights)
 
 | | Where | Total | Location | From Tocumen airport | Book |
 |---|---|---:|:---:|---|---|
@@ -49,10 +49,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Sky H2 5102** · Arequipa → Lima | **Sat 6 Feb 06:50 → 08:35** | **$38** ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |
-| ⚠️ In | **Copa CM760** · Lima → Panama City (separate ticket) | **Sat 6 Feb 13:20 → 17:08** | **$274** ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |
-| Points | Copa LIM → PTY on United miles | Sat 6 Feb: CM400 10:30, or the 02:15 / 02:35 red-eyes | 17,500 + $31.49 saver | [United award search](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
-| Out | **Air Panama 7P670** · Albrook (PAC) → David | **Mon 8 Feb 07:15 → 08:00** (✅ Air Panama timetable: Mon–Sat) | $67 (24 Nov) | [Air Panama](https://www.airpanama.com/) (details in the [Boquete guide](boquete.md)) |
+| In | **Sky H2 5102** · Arequipa → Lima | **Day 61 06:50 → 08:35** | **$38** ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDQVFQcgUSA0xJTUABSAGYAQI&curr=USD&hl=en) |
+| ⚠️ In | **Copa CM760** · Lima → Panama City (separate ticket) | **Day 61 13:20 → 17:08** | **$274** ✅ 27 Nov | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDItMDZqBRIDTElNcgUSA1BUWUABSAGYAQI&curr=USD&hl=en) |
+| Points | Copa LIM → PTY on United miles | Day 61: CM400 10:30, or the 02:15 / 02:35 red-eyes | 17,500 + $31.49 saver | [United award search](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A) |
+| Out | **Air Panama 7P670** · Albrook (PAC) → David | **Day 63 07:15 → 08:00** (✅ Air Panama timetable: Mon–Sat) | $67 (24 Nov) | [Air Panama](https://www.airpanama.com/) (details in the [Boquete guide](boquete.md)) |
 
 <details><summary>How to read these tables</summary>
 
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## ✈️ Getting here: Arequipa → Lima → Panama City, Sat 6 Feb (two separate tickets)
+## ✈️ Getting here: Arequipa → Lima → Panama City, Day 61 (two separate tickets)
 
 **Live Google Flights search, 24 Nov 2026** (USD, 1 adult, taxes included, cheapest fare brand, bags extra):
 
@@ -77,24 +77,24 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 | LIM → PTY | Avianca AV102 + AV56, via Bogotá | 07:25 → 15:15 | $254 |
 | LIM → PTY | Avianca AV52 + AV40, via Bogotá | 17:55 → 01:20 (+1) | $254 |
 
-- **Rechecked 27 Nov for Sat 6 Feb (Google Flights):** Sky H2 5102 06:50 → 08:35 **$38** (H2 5104 11:55 $38, H2 5118 16:45 $36; LATAM from $47); Copa CM760 13:20 → 17:08 **$274** (CM400, CM132 and the red-eyes also $274; Avianca via Bogotá from $231). The table above is the 24 Nov search for the old date.
+- **Rechecked 27 Nov for Day 61 (Google Flights):** Sky H2 5102 06:50 → 08:35 **$38** (H2 5104 11:55 $38, H2 5118 16:45 $36; LATAM from $47); Copa CM760 13:20 → 17:08 **$274** (CM400, CM132 and the red-eyes also $274; Avianca via Bogotá from $231). The table above is the 24 Nov search for the old date.
 - **Recommended pair: Sky 06:50 → 08:35 + Copa CM760 13:20 → 17:08**, about **$312 total** (27 Nov; $326 on 24 Nov).
   - It leaves a **4 h 45 min self-transfer** at Lima.
   - If the Sky flight is late or cancelled, the later LATAM and Sky flights still reach Lima in time for **Copa CM132 at 16:40** (arriving 20:27), so there's a fallback without a Lima night.
 - **Option for a later start:** JetSMART 08:17 → 09:55 + CM760 gives a 3 h 25 min gap ($338).
 - **Lima night: not worth it.** The same-day pair has a 4.75 h buffer, and staying over would cost a Panama night.
-- **The Copa red-eyes** (CM338 02:15 → 05:53 on 6 Feb, after an evening AQP → LIM on the 5th): you'd save a bed but lose sleep and a Panama evening. Not recommended.
-- **Single ticket AQP → PTY:** Google only sells **LATAM + Aeroméxico via Lima and Mexico City at $1,414** (27 Nov: leaves 19:35, arrives Sun 7 Feb 13:31), which isn't reasonable.
+- **The Copa red-eyes** (CM338 02:15 → 05:53 on Day 61, after an evening AQP → LIM on the 5th): you'd save a bed but lose sleep and a Panama evening. Not recommended.
+- **Single ticket AQP → PTY:** Google only sells **LATAM + Aeroméxico via Lima and Mexico City at $1,414** (27 Nov: leaves 19:35, arrives Day 62 13:31), which isn't reasonable.
   - Copa and Avianca don't fly from Arequipa.
   - From Lima, Avianca via Bogotá ($254) saves only $20 over Copa's nonstop ($274) and takes 7–8 h instead of 3 h 48 min.
   - So: two tickets, with Copa nonstop LIM → PTY.
-- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to 12 Feb, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and 5 Feb versus $52–62 on the 3rd (24 Nov). On 27 Nov: $36–38 on Sat 6 Feb, from $39 on Fri 5 Feb.
+- **Calendar check (Google Flights GetCalendarPicker, live):** LIM → PTY is a flat $254 every day from 1 to Day 67, so moving the date saves nothing. AQP → LIM is $47 on 1, 2, 4 and Day 60 versus $52–62 on the 3rd (24 Nov). On 27 Nov: $36–38 on Day 61, from $39 on Day 60.
 - **Bags:** Sky and JetSMART's cheapest fares are a personal item only; a cabin bag is ≈ $15–30 extra. The Copa economy-basic bag allowance isn't checked yet; read it before buying.
 - **Lima self-transfer (new Jorge Chávez terminal):** you arrive domestic, exit landside, check in at Copa (the counter usually closes 60 min before departure), then exit immigration (no exit tax; it's in the fare).
 
 **Panama entry** (the Tica Bus migration page; the CDC page for yellow fever):
 - passport valid ≥3 months;
-- **proof of onward travel** (carry the MGA → SEA 10 Mar itinerary; a refundable onward bus ticket is the safest add-on);
+- **proof of onward travel** (carry the MGA → SEA Day 93 itinerary; a refundable onward bus ticket is the safest add-on);
 - **solvency ≥ $500–1,000** (a card or bank statement);
 - **yellow-fever card, required because you arrive from Peru.** Copa may check all of this at check-in in Lima.
 
@@ -109,11 +109,11 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Route | Arrive Panama | Cash | Points | Catch |
 |---|---|---|---|---|---|
-| **A. Cash, same day** (current plan) | Sky 06:50 → Lima 08:35, then Copa CM760 13:20 → PTY 17:08 | Sat 6 Feb 17:08 | ≈ $312 (27 Nov) | — | **Two separate tickets** (no single-ticket option exists; the only one is via Mexico City, $1,402). The 4 h 45 gap protects you; Copa won't rebook you if Sky is late |
-| **B. Points, Lima night** | LATAM Arequipa → Lima Fri 5 Feb afternoon (✅ LA2108 12:40 $47 on 27 Nov), Tupac airport hostel ($9.90), then Copa CM400 10:30 → 14:18 on United miles. Or the 02:15 red-eye and no bed | Sat 6 Feb 14:18 (red-eye ≈ 06:00) | ≈ $90 | 17,500 + $31.49 | One Arequipa night instead of two |
+| **A. Cash, same day** (current plan) | Sky 06:50 → Lima 08:35, then Copa CM760 13:20 → PTY 17:08 | Day 61 17:08 | ≈ $312 (27 Nov) | — | **Two separate tickets** (no single-ticket option exists; the only one is via Mexico City, $1,402). The 4 h 45 gap protects you; Copa won't rebook you if Sky is late |
+| **B. Points, Lima night** | LATAM Arequipa → Lima Day 60 afternoon (✅ LA2108 12:40 $47 on 27 Nov), Tupac airport hostel ($9.90), then Copa CM400 10:30 → 14:18 on United miles. Or the 02:15 red-eye and no bed | Day 61 14:18 (red-eye ≈ 06:00) | ≈ $90 | 17,500 + $31.49 | One Arequipa night instead of two |
 | **C. Overland + points** | Night bus Arequipa → Ica, **Huacachina** + **Paracas** (Ballestas), bus to Lima, then Copa CM400 Tue 9 Feb on miles | Tue 9 Feb 14:18 | ≈ $185 incl. beds and tours | 17,500 + $31.49 | +3 days (home ≈ 13 Mar); you'd land on the last Carnaval day and reach Boquete after it. Details: [Huacachina + Paracas guide](huacachina-paracas.md) |
 
-Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Copa seats at **20,000 + CA$85 (≈ US$61)** in economy and 40,000 in business, so it's dearer than United (17,500 + $31.49). The Aeroplan balance is 600, so it would also need a transfer. **LifeMiles:** Avianca via Bogotá at 12,730 + $36.49, confirmed for **2 Feb only**. The pages saved for 3, 5 and 6 Feb turned out to hold 2 Feb data. Its Copa ("Star Alliance") tab is unchecked; see the points table below. LifeMiles points come from Amex MR, Capital One or Citi, not Chase.
+Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Copa seats at **20,000 + CA$85 (≈ US$61)** in economy and 40,000 in business, so it's dearer than United (17,500 + $31.49). The Aeroplan balance is 600, so it would also need a transfer. **LifeMiles:** Avianca via Bogotá at 12,730 + $36.49, confirmed for **Day 57 only**. The pages saved for 3, 5 and Day 61 turned out to hold Day 57 data. Its Copa ("Star Alliance") tab is unchecked; see the points table below. LifeMiles points come from Amex MR, Capital One or Citi, not Chase.
 
 </details>
 
@@ -121,19 +121,19 @@ Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Cop
 
 | Program (transfer from) | Departs Lima → arrives Panama | Flights | Miles + tax | Dates seen |
 |---|---|---|---|---|
-| **LifeMiles** (Amex MR, Capital One), default Avianca view | **01:50** → 09:10 (7 h 20) | AV48 LIM–BOG 01:50 → 05:05, AV58 BOG–PTY 07:15 → 09:10 | **12,730 + $36.49** (business 29,710) | Tue 2 Feb |
-| LifeMiles | **02:55** → 09:10 (6 h 15) | AV96 LIM–BOG 02:55 → 06:05, AV58 07:15 → 09:10 | 12,730 + $36.49 | Tue 2 Feb |
-| LifeMiles | **17:55** → 01:20 next day (7 h 25) | AV140 LIM–BOG 17:55 → 21:10, AV40 BOG–PTY 23:35 → 01:20 | 12,730 + $36.49 | Tue 2 Feb |
-| **United** (Chase UR) | **02:15** → 05:53 nonstop | Copa CM338 | 17,500 + $31.49 | 2–6 Feb |
-| United | **02:35** → 06:13 nonstop | Copa CM264 | 17,500 + $31.49 | 2–6 Feb |
-| United | **10:30** → 14:18 nonstop | Copa CM400 | 17,500 + $31.49 | 2–6 Feb |
-| United | **16:40** → 20:27 nonstop | Copa CM132 | 17,500 + $31.49 | 5 Feb only (40,000 on the other days) |
-| United | 13:20 → 17:08 nonstop (the cash pick) | Copa CM760 | 40,000 (no saver) | 2–6 Feb |
-| **Aeroplan** (Chase UR, Amex MR) | 02:15 → 05:53 nonstop | Copa CM338 | 20,000 + CA$85 (≈ US$61) | 2 Feb (calendar: 20k lowest 31 Jan–4 Feb) |
+| **LifeMiles** (Amex MR, Capital One), default Avianca view | **01:50** → 09:10 (7 h 20) | AV48 LIM–BOG 01:50 → 05:05, AV58 BOG–PTY 07:15 → 09:10 | **12,730 + $36.49** (business 29,710) | Day 57 |
+| LifeMiles | **02:55** → 09:10 (6 h 15) | AV96 LIM–BOG 02:55 → 06:05, AV58 07:15 → 09:10 | 12,730 + $36.49 | Day 57 |
+| LifeMiles | **17:55** → 01:20 next day (7 h 25) | AV140 LIM–BOG 17:55 → 21:10, AV40 BOG–PTY 23:35 → 01:20 | 12,730 + $36.49 | Day 57 |
+| **United** (Chase UR) | **02:15** → 05:53 nonstop | Copa CM338 | 17,500 + $31.49 | Days 57–61 |
+| United | **02:35** → 06:13 nonstop | Copa CM264 | 17,500 + $31.49 | Days 57–61 |
+| United | **10:30** → 14:18 nonstop | Copa CM400 | 17,500 + $31.49 | Days 57–61 |
+| United | **16:40** → 20:27 nonstop | Copa CM132 | 17,500 + $31.49 | Day 60 only (40,000 on the other days) |
+| United | 13:20 → 17:08 nonstop (the cash pick) | Copa CM760 | 40,000 (no saver) | Days 57–61 |
+| **Aeroplan** (Chase UR, Amex MR) | 02:15 → 05:53 nonstop | Copa CM338 | 20,000 + CA$85 (≈ US$61) | Day 57 (calendar: 20k lowest Days 55–59) |
 | LifeMiles, Star Alliance tab (Copa nonstops) | — | — | not checked yet | — |
 
-- **Cheapest in miles:** LifeMiles on Avianca via Bogotá, 12,730 + $36.49. It's slower (6–7½ h) and only seen for 2 Feb so far.
-- **A same-day points route for option B:** Sky 06:50 Arequipa → Lima 08:35, then the **LifeMiles AV140 17:55** via Bogotá, arriving 01:20. That's a 9 h 20 gap, so it's safe on separate tickets with no Lima night, but it lands after midnight. It needs re-checking for 6 Feb.
+- **Cheapest in miles:** LifeMiles on Avianca via Bogotá, 12,730 + $36.49. It's slower (6–7½ h) and only seen for Day 57 so far.
+- **A same-day points route for option B:** Sky 06:50 Arequipa → Lima 08:35, then the **LifeMiles AV140 17:55** via Bogotá, arriving 01:20. That's a 9 h 20 gap, so it's safe on separate tickets with no Lima night, but it lands after midnight. It needs re-checking for Day 61.
 - **Fastest on points:** the Copa nonstops on United (17,500).
 - **Transfer bonuses (Frequent Miler tracker, 24 Nov):**
   - Nothing running to LifeMiles, United, Aeroplan or Alaska.
@@ -146,13 +146,13 @@ Aeroplan (checked 24 Nov in the signed-in aircanada.com tab) prices the same Cop
   - [United](https://www.united.com/en/us/fsr/choose-flights?f=LIM&t=PTY&d=2027-02-06&tt=1&at=1&sc=7&px=1&taxng=1&newHP=True&clm=7&st=bestmatches&tqp=A)
   - [Aeroplan](https://www.aircanada.com/aeroplan/redeem/availability/outbound?org0=LIM&dest0=PTY&departureDate0=2027-02-06&ADT=1&YTH=0&CHD=0&INF=0&INS=0&lang=en-CA&tripType=O&marketCode=INT)
 
-No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Copa and Avianca don't serve AQP), Alaska (0), Delta ("no results"); LATAM doesn't fly to Panama. United shows the Copa 17,500 saver on CM400, CM338, CM264 and (on 5 Feb) CM132; CM760 13:20 is 40,000.
+No award exists from Arequipa itself. Checked 24 Nov: United/Star (0 results; Copa and Avianca don't serve AQP), Alaska (0), Delta ("no results"); LATAM doesn't fly to Panama. United shows the Copa 17,500 saver on CM400, CM338, CM264 and (on Day 60) CM132; CM760 13:20 is 40,000.
 
 **Points option (checked 24 Nov on united.com).** Copa LIM → PTY is bookable with **United MileagePlus (Chase UR 1:1): 17,500 miles + $31.49** at saver.
-- Saver space on 3 Feb is on **CM400 10:30 → 14:18** and on the red-eyes **CM338 02:15 → 05:53** and **CM264 02:35 → 06:13**. The same pattern holds on 2 and 4 Feb, and United showed these savers across 2–6 Feb, so the new 6 Feb was covered (24 Nov; not rechecked).
+- Saver space on Day 58 is on **CM400 10:30 → 14:18** and on the red-eyes **CM338 02:15 → 05:53** and **CM264 02:35 → 06:13**. The same pattern holds on 2 and Day 59, and United showed these savers across Days 57–61, so the new Day 61 was covered (24 Nov; not rechecked).
 - The cash pick, **CM760 13:20**, is only at Standard (40,000), and business saver is 45,000 (737 recliners).
 - Arequipa → Lima has no partner award, so it stays cash ($37–52).
-- **The catch:** CM400 leaves **1 h 55 after Sky lands** on a separate ticket. Copa check-in closes 60 min before, so a late Sky flight costs the award. The safe ways are an afternoon AQP → LIM on Fri 5 Feb (LATAM ≈ $47) with either a Lima night before CM400 or the 02:15 red-eye. Both cost an Arequipa night.
+- **The catch:** CM400 leaves **1 h 55 after Sky lands** on a separate ticket. Copa check-in closes 60 min before, so a late Sky flight costs the award. The safe ways are an afternoon AQP → LIM on Day 60 (LATAM ≈ $47) with either a Lima night before CM400 or the 02:15 red-eye. Both cost an Arequipa night.
 - **Value:** it saves ≈ $243 for 17,500 miles (≈ 1.4¢ a mile), which is fair but not a sweet spot. LifeMiles and Aeroplan are compared in the points table above.
 
 </details>
@@ -245,7 +245,7 @@ Panama is pricey, so use the hostel kitchen for breakfast and dinner. Prices are
 - ⚠️ Don't walk alone at night in **El Chorrillo or Curundú** (beside Casco Viejo).
 - **USD** is the currency.
 
-## ✈️ Leaving: Albrook → David, Mon 8 Feb
+## ✈️ Leaving: Albrook → David, Day 63
 
 - **Air Panama 7P670, Albrook (PAC) 07:15 → David (DAV) 08:00** (✅ Air Panama's own timetable, 27 Nov: Mon–Sat; also 7P970 16:15 → 17:00), **$67** (Google Flights, 24 Nov), then the Boquete bus. Full details, the bus alternative and the 🎭 Carnaval backups are in the [Boquete guide](boquete.md).
 - PAC is 1.3 km from Greg's Place; from Bella Vista it's ≈ $6–10 by Uber.

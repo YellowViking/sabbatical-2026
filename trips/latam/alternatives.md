@@ -10,28 +10,28 @@ The main route on its own: [interactive route map](https://raw.githubusercontent
 
 ## Decided (26 Nov 2026)
 - **Route order:** keep the current one (Brazil → Paraguay/Uruguay → Argentina → Atacama → Bolivia → southern Peru → Panama → Costa Rica → Nicaragua). The Andes-first and reversed orders were re-scored in [route-v5-brainstorm §1](route-v5-brainstorm.md) and not taken.
-- **Potosí gets a 2nd night** (LP's top Bolivia pick: the mine and the mint), taken from the Copacabana-town night: Potosí 20 → 22, Sucre 22 → 25, La Paz 25 → 28 (BoA Mon 25 Jan, $49), Isla del Sol 28 → 29, then the 18:00 bus to Puno. Nothing after 29 Jan moves.
-- **Northern Brazil entry** (an award into Belém, Fortaleza or Manaus; the best was economy into Belém on 7 Dec, ≈ 26,700 points + $60): **dropped**. The trip starts with the Alaska business award into Rio on Tue 8 Dec.
+- **Potosí gets a 2nd night** (LP's top Bolivia pick: the mine and the mint), taken from the Copacabana-town night: Potosí 20 → 22, Sucre 22 → 25, La Paz 25 → 28 (BoA Day 49, $49), Isla del Sol 28 → 29, then the 18:00 bus to Puno. Nothing after Day 53 moves.
+- **Northern Brazil entry** (an award into Belém, Fortaleza or Manaus; the best was economy into Belém on Day 0, ≈ 26,700 points + $60): **dropped**. The trip starts with the Alaska business award into Rio on Day 1.
 
 ## Decided (27 Nov 2026)
 - **More days at the adventure hubs** (user's choice, over the 7 Mar spring-break cap). Every stop from 10 Jan moved 2–6 days later. `schedule.json` + `reschedule.py` re-dated the guides, links and maps, and every bed was re-priced for the new dates.
-  - **Córdoba +2: [Cerro Champaquí](guides/cordoba.md)**, Thu 7 → Sat 9 Jan. Villa Alpina → refuge → summit → back. A free declaration is compulsory; a guide is optional.
-  - **San Pedro +1:** a buffer and acclimatisation day before **Cerro Toco** (Wed 20 Jan, Vulcano CLP 85,000).
-  - **San Gerardo +1** (11 → 15 Feb). ⚠️ SINAC showed **0 Chirripó permits** for every night from now to mid-May (27 Nov): watch for cancellations, which return to sale when someone cancels at least 15 days ahead.
-  - **Estelí +2:** the [Somoto Canyon](guides/somoto.md) day trip (Mon 8 Mar, $30 tour), plus one more night so the Alaska award flies **Wed 10 Mar** with one change (AS305 via Miami). On 9 Mar the only routing at that price had a 34-minute change at JFK.
-  - **Home: Wed 10 Mar** (92 nights).
-- **Quebrada de las Conchas, Mon 11 Jan:** the 10.9 km loop hike (AllTrails 4.7, 94 reviews) instead of the bike ride. The 08:30 Flecha Bus drops you at the trailhead.
+  - **Córdoba +2: [Cerro Champaquí](guides/cordoba.md)**, Day 31 → 33. Villa Alpina → refuge → summit → back. A free declaration is compulsory; a guide is optional.
+  - **San Pedro +1:** a buffer and acclimatisation day before **Cerro Toco** (Day 44, Vulcano CLP 85,000).
+  - **San Gerardo +1** (Day 66 → 70). ⚠️ SINAC showed **0 Chirripó permits** for every night from now to mid-May (27 Nov): watch for cancellations, which return to sale when someone cancels at least 15 days ahead.
+  - **Estelí +2:** the [Somoto Canyon](guides/somoto.md) day trip (Day 91, $30 tour), plus one more night so the Alaska award flies **Day 93** with one change (AS305 via Miami). On Day 92 the only routing at that price had a 34-minute change at JFK.
+  - **Home: Day 93** (92 nights).
+- **Quebrada de las Conchas, Day 35:** the 10.9 km loop hike (AllTrails 4.7, 94 reviews) instead of the bike ride. The 08:30 Flecha Bus drops you at the trailhead.
 
 ## 1. Christmas week: decided 27 Nov, Brazil's coast into Uruguay
 The user chose the coastal route over Paraguay, after the Broke Backpacker's Uruguay guide, which describes the same way in (Florianópolis → Chuy → Punta del Diablo). The split version won over 4 nights in Florianópolis and over Porto Alegre + the Aparados canyons.
 
 | Dates | Now (main route) | Plan A, dropped (Paraguay) |
 |---|---|---|
-| Mon 21 Dec | 🚌 Nordeste Foz 16:30 → Florianópolis 08:10 (R$276.99) | Nordeste Foz 08:00 → Asunción |
-| 22 → 24 Dec | **[Florianópolis](guides/florianopolis.md)**, Pequi Hostel $31 | Asunción, then Encarnación |
-| 24 → 26 Dec | 🎄 **[Porto Alegre](guides/porto-alegre.md)** | 🎄 Encarnación (whole flat $76; hostels full) |
-| Sat 26 → Sun 27 | 🚌 Planalto Porto Alegre 23:30 → Chuí 09:00 (R$267.95) | EGA Encarnación 13:30 → Montevideo 07:15 ($124) |
-| 27 → 28 Dec | **[Punta del Diablo](guides/punta-del-diablo.md)**, Mar de Fondo $26, Santa Teresa park | Montevideo |
+| Day 14 | 🚌 Nordeste Foz 16:30 → Florianópolis 08:10 (R$276.99) | Nordeste Foz 08:00 → Asunción |
+| Day 15 → 17 | **[Florianópolis](guides/florianopolis.md)**, Pequi Hostel $31 | Asunción, then Encarnación |
+| Day 17 → 19 | 🎄 **[Porto Alegre](guides/porto-alegre.md)** | 🎄 Encarnación (whole flat $76; hostels full) |
+| Day 19 → 20 | 🚌 Planalto Porto Alegre 23:30 → Chuí 09:00 (R$267.95) | EGA Encarnación 13:30 → Montevideo 07:15 ($124) |
+| Day 20 → 21 | **[Punta del Diablo](guides/punta-del-diablo.md)**, Mar de Fondo $26, Santa Teresa park | Montevideo |
 | From 28 Dec | Cabo Polonio, then New Year in Montevideo (unchanged) | same |
 
 - **What it costs:** Paraguay as a new country. **What it gains:** the classic coast route, a city the user wanted to see, Punta del Diablo and Santa Teresa park at no extra day, and no twice-weekly bus to depend on.
@@ -40,17 +40,17 @@ The user chose the coastal route over Paraguay, after the Broke Backpacker's Uru
   - 4 nights in Florianópolis + EGA/TTL straight to Montevideo (Saturdays only, ≈ $146). See the [Florianópolis guide](guides/florianopolis.md).
   - Porto Alegre + **Cambará do Sul** for the Itaimbezinho and Fortaleza canyons. It works only via Caxias (Citral runs Porto Alegre ↔ Cambará on Mondays and Fridays only): Hostel Cape Town $36, park R$112. See add-on 10 below.
 
-## 2. Arequipa → Panama City, leaving 5–6 Feb · decide by ≈ mid-January
+## 2. Arequipa → Panama City, leaving Days 60–61 · decide by ≈ mid-January
 Three options, already in the [itinerary](itinerary.md) and the [Panama City guide](guides/panama-city.md):
 - **A:** Sky 06:50 Arequipa → Lima + Copa CM760 13:20 → Panama, **$326 cash** (two tickets, 4 h 45 connection).
 - **B:** a Lima night, then Copa 10:30 on **17,500 United miles**.
-- **C:** overland via [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days), award from Lima on 6 Feb.
+- **C:** overland via [Huacachina + Paracas](guides/huacachina-paracas.md) (+3 days), award from Lima on Day 61.
   - **New from LP (26 Nov): add the Nazca Lines to C** (+0–1 day). Either the bus Arequipa → Nazca (10–12 h), an early overflight, then ≈ 2½ h on to Huacachina; or an overflight from Pisco or Ica (≈ US$90 + S/30 airport tax, LP). The coast is in season in February.
 
 ## 3. Optional add-ons (5 spare days before 15 Mar)
 **Spring breaks:** the busiest 2027 US college weeks are 8–12 and 15–19 Mar, Ontario's March break is 15–19 Mar, and Semana Santa is 21–28 Mar (checked 27 Nov). The plan now ends **Wed 10 Mar** by choice (more hub days), with the last nights in Estelí, which spring-breakers rarely visit. Each add-on day below pushes everything after it later. Costa Rica's and Panama's 2027 school years start on 1 Mar, so local families travel through February.
 
-**Transport and beds were verified on 27 Nov** (✅ works car-free · ⚠️ works with a catch · ❌ doesn't). Dates before 10 Jan didn't move. Rows marked "old dates" were checked for the pre-shift dates, so re-check them if you pick one.
+**Transport and beds were verified on 27 Nov** (✅ works car-free · ⚠️ works with a catch · ❌ doesn't). Dates before Day 34 didn't move. Rows marked "old dates" were checked for the pre-shift dates, so re-check them if you pick one.
 
 ⭐ = my pick. Costs marked "not priced" haven't been checked yet. "New" = first raised by the Lonely Planet *South America on a Shoestring* review on 26 Nov; the rest came from the earlier article sweep or already have guides.
 
@@ -58,27 +58,27 @@ Three options, already in the [itinerary](itinerary.md) and the [Panama City gui
 |---|---|---:|---:|---|---|
 | ⭐ **Nazca Lines** | with option C above | +0–1 | ≈ $100–120 flight | — | Only if C is chosen. The coast is dry in February |
 | [Teresópolis / Serra dos Órgãos](guides/teresopolis.md) | before Rio | +2 | see guide | ✅ guide: Viação Teresópolis from Rio, Estúdio 325 $79 | Wet in Dec (LP: best Apr–Oct) |
-| **Cachi + Calchaquí valleys** | from Salta (now 12 → 14 Jan) | +2 | bus ARS 27,907 + bed | ⚠️ The official fare is set, but no timetable is online. Paving works on the Cuesta del Obispo road run through 2027. Viracocha Art Hostel $25 for 2 nights (old dates) | Salta's fare table also lists a Cachi → Molinos → Angastaco line, so LP's "42 km with no bus" may be out of date; days unknown. January storms |
-| **Coroico / Yungas, +1 night** | La Paz, after the Death Road (now 28 → 31 Jan) | +1 | minivan ≈ Bs 45–50 + bed | ⚠️ No Death Road operator advertises leaving you in Coroico (Gravity's ride ends at Senda Verde). Minivan back to La Paz ≈ Bs 45–50 (Facebook posts only). El Cafetal $13 (old dates) | Senda Verde refuge Bs 220, reserve by WhatsApp. Wet in January |
+| **Cachi + Calchaquí valleys** | from Salta (now Day 36 → 38) | +2 | bus ARS 27,907 + bed | ⚠️ The official fare is set, but no timetable is online. Paving works on the Cuesta del Obispo road run through 2027. Viracocha Art Hostel $25 for 2 nights (old dates) | Salta's fare table also lists a Cachi → Molinos → Angastaco line, so LP's "42 km with no bus" may be out of date; days unknown. January storms |
+| **Coroico / Yungas, +1 night** | La Paz, after the Death Road (now Day 52 → 55) | +1 | minivan ≈ Bs 45–50 + bed | ⚠️ No Death Road operator advertises leaving you in Coroico (Gravity's ride ends at Senda Verde). Minivan back to La Paz ≈ Bs 45–50 (Facebook posts only). El Cafetal $13 (old dates) | Senda Verde refuge Bs 220, reserve by WhatsApp. Wet in January |
 | **Valle del Lunarejo, Uruguay** | after New Year, 1 → 3 Jan | +2 | bus UYU 2,039 + ≈ $43 bed | ⚠️ The noon CUT bus is listed daily (to Artigas). **1 Jan is Uruguay's transport workers' day**, so service is unconfirmed. Walks are guided only (private land). El Gavilán hostel UYU 890 a night, own site; availability not checked | Would push Colonia and Córdoba back two days |
-| **Ilha do Mel** | after Morretes, 18 → 19 Dec | +1 | ≈ $45 bed + R$80 boat | ⚠️ Graciosa Morretes 13:30 → Paranaguá, then the Abaline boat 15:30 (**Mon/Wed/Fri only**, sold at the window). The island's only hostel (Encantadas Ecologic) is **full**; Recanto da Kaká private $45, location 9.6. Out Sat 19 via Pontal → Paranaguá → Curitiba, then the 21:00 to Foz | A second island beach right after Ilha Grande (look-alike) |
+| **Ilha do Mel** | after Morretes, Day 11 → 12 | +1 | ≈ $45 bed + R$80 boat | ⚠️ Graciosa Morretes 13:30 → Paranaguá, then the Abaline boat 15:30 (**Mon/Wed/Fri only**, sold at the window). The island's only hostel (Encantadas Ecologic) is **full**; Recanto da Kaká private $45, location 9.6. Out Day 12 via Pontal → Paranaguá → Curitiba, then the 21:00 to Foz | A second island beach right after Ilha Grande (look-alike) |
 | **Esteros del Iberá** | only with Plan A (dropped), from Encarnación 26 Dec | +2–3 | ≈ $84 bed + 4×4 | ⚠️ The Mercedes → Colonia Pellegrini shared minibus runs **Mon/Wed/Fri only**, so a Saturday arrival needs a private 4×4 (≈ ARS 350k return per vehicle). Hospedaje Iberá $84 for 2 nights; 11 places left for Christmas week | Fits only by dropping Cabo Polonio (New Year in Montevideo is fixed) |
-| **Salto del Monday + Itaipú** | only with Plan A (dropped), a night in Ciudad del Este 21 → 22 Dec | +1 | ≈ $13 bed + $21–26 bus | ⚠️ Itaipú visits are free, daily 08:00–16:00, passport needed. NSA buses Ciudad del Este → Asunción Tue 22 at 07:30, 09:40 and 14:00 (Gs 135–165k). Hummingbird Hostel $13; the area's safety at night isn't checked | LP calls Ciudad del Este the one unsafe city at night |
+| **Salto del Monday + Itaipú** | only with Plan A (dropped), a night in Ciudad del Este Day 14 → 15 | +1 | ≈ $13 bed + $21–26 bus | ⚠️ Itaipú visits are free, daily 08:00–16:00, passport needed. NSA buses Ciudad del Este → Asunción Day 15 at 07:30, 09:40 and 14:00 (Gs 135–165k). Hummingbird Hostel $13; the area's safety at night isn't checked | LP calls Ciudad del Este the one unsafe city at night |
 | **Aparados da Serra canyons** | from Porto Alegre (now on the route) | +2 | park R$112 + guide | ⚠️ Porto Alegre → Caxias → São Marcos 17:00 → Cambará (Citral direct runs Mon/Fri only); Hostel Cape Town $36 for 3 nights, location 9.9. Christmas falls in the middle, so it would replace the Porto Alegre nights rather than add to them | Fog risk |
 | San Blas islands | Panama City (now 6 → 8 Feb) | +1 | $150–285 | not rechecked | The budget-buster; Panama's Carnaval is 6–9 Feb |
 | **El Valle de Antón** (new, from G Adventures' routes) | between Panama City and Boquete | +1 | ≈ $16–23 bed | ⚠️ Bodhi dorm $16 on 4 Feb but $23 on Carnaval Friday, with several places sold out; buses west on that day are unreliable (old dates) | Crater town with free hikes (La India Dormida). With the shift it falls on Carnaval weekend: skip unless the dates move |
-| **Manuel Antonio** (new, from G Adventures' routes) | between Uvita and Monteverde (now 17 Feb) | +1 | park ≈ $18 + ≈ $14 bed | ✅ Tracopa Uvita → Quepos 07:21 and 14:05; the park calendar showed 2,500 places free; Senda Adults Only Hostel $14 (old dates: 13 Feb) | The classic wildlife park (sloths, monkeys); SINAC online tickets, so check its closed day when booking |
-| **Caño Negro wetlands** (new) | from La Fortuna (now 19 → 22 Feb) | +1, or +0 as a tour | $96 tour, or bus + $126 boat | ⚠️ By bus ≈ 5–6 h each way via Ciudad Quesada and Los Chiles, then a $126 solo boat; Poponjoche Lodge $41. The $96 Río Frío tour from La Fortuna is the +0 version | Birds, caimans |
-| Granada extras (new) | Granada, 1 → 2 Mar | +0 | ≈ C$1,400 per boat | ⚠️ Las Isletas boats from Puerto Asese ≈ C$1,400 per boat (up to 8), so share one. Mombacho publishes no entry or truck fares | |
+| **Manuel Antonio** (new, from G Adventures' routes) | between Uvita and Monteverde (now Day 72) | +1 | park ≈ $18 + ≈ $14 bed | ✅ Tracopa Uvita → Quepos 07:21 and 14:05; the park calendar showed 2,500 places free; Senda Adults Only Hostel $14 (old dates: Day 68) | The classic wildlife park (sloths, monkeys); SINAC online tickets, so check its closed day when booking |
+| **Caño Negro wetlands** (new) | from La Fortuna (now Day 74 → 77) | +1, or +0 as a tour | $96 tour, or bus + $126 boat | ⚠️ By bus ≈ 5–6 h each way via Ciudad Quesada and Los Chiles, then a $126 solo boat; Poponjoche Lodge $41. The $96 Río Frío tour from La Fortuna is the +0 version | Birds, caimans |
+| Granada extras (new) | Granada, Day 84 → 85 | +0 | ≈ C$1,400 per boat | ⚠️ Las Isletas boats from Puerto Asese ≈ C$1,400 per boat (up to 8), so share one. Mombacho publishes no entry or truck fares | |
 | ~~Monteverde → La Fortuna on foot~~ | instead of the jeep-boat-jeep | — | — | ❌ Nothing bookable: the only 2-day trek (Red Lava, $160) runs La Fortuna → Monteverde and shows "unavailable" | Closest: a night at the San Gerardo Station in the Children's Eternal Rainforest ($94.80 with meals, prepaid 15 days ahead) |
 
-Now in the plan (27 Nov): **[Cerro Champaquí](guides/cordoba.md)**, **[Somoto Canyon](guides/somoto.md)**, the Quebrada de las Conchas hike, and **Santa Teresa park** (Punta del Diablo, 27 Dec).
+Now in the plan (27 Nov): **[Cerro Champaquí](guides/cordoba.md)**, **[Somoto Canyon](guides/somoto.md)**, the Quebrada de las Conchas hike, and **Santa Teresa park** (Punta del Diablo, Day 20).
 
 **Not this season** (LP picks that are wet or out of season in our dates): the Pantanal and Bonito, the Amazon, Lençóis Maranhenses (lagoons mostly dry until ≈ May), Kuélap/Chachapoyas, the Cotahuasi canyon, Samaipata, and trekking in the Cordillera Real (best May–September).
 
 ## 4. Things to recheck before each stop
-- **Iguazú, by 15 Dec:** the Argentine **Garganta del Diablo walkway has been closed since 3 Aug 2026** (park's own news page, no reopening as of 25 Nov). The rest of both sides is open; the fallback order is in the [Foz guide](guides/foz-do-iguacu.md).
-- **Iruya road, 12 Jan:** January rain can close the gravel road; ask at the Humahuaca terminal the day before ([Quebrada guide](guides/quebrada-de-humahuaca.md)).
-- **Bolivian road blockades, the week before 18 Jan:** the Oruro–Potosí–Sucre road was blocked on 24 Nov.
+- **Iguazú, by Day 8:** the Argentine **Garganta del Diablo walkway has been closed since 3 Aug 2026** (park's own news page, no reopening as of 25 Nov). The rest of both sides is open; the fallback order is in the [Foz guide](guides/foz-do-iguacu.md).
+- **Iruya road, Day 36:** January rain can close the gravel road; ask at the Humahuaca terminal the day before ([Quebrada guide](guides/quebrada-de-humahuaca.md)).
+- **Bolivian road blockades, the week before Day 42:** the Oruro–Potosí–Sucre road was blocked on 24 Nov.
 - **Isla del Sol north, late January:** LP says closed; 2026 sources say probably open ([Copacabana guide](guides/copacabana-isla-del-sol.md)).
 - **Volcán Barú road (Boquete) and Telica (León):** both closed in Nov 2026.

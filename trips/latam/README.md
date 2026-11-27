@@ -3,15 +3,15 @@
 **Status:** planning. Window: **December → mid-March**.
 
 **Route v5 (24 Nov 2026), now the working plan:** [skeleton with dates, legs and costs](route-v5-brainstorm.md#15-route-v5-locked-skeleton-user-24-nov-santiago-dropped-panama-kept) · [route map](latam-route-draft.svg) · [how it was chosen](route-v5-brainstorm.md).
-- ✈ Seattle → Rio, Mon 7 Dec (Alaska business award).
-- Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Iguaçu.
-- Asunción → Encarnación → Montevideo → Cabo Polonio → Colonia → Buenos Aires.
-- Córdoba → Cafayate → Salta → Purmamarca → San Pedro de Atacama → jeep tour to Uyuni.
+- ✈ Seattle → Rio on Day 0 (Alaska business award); **Day 1 = Tue 8 Dec 2026**. The plan counts trip days from there (see the [itinerary](itinerary.md)).
+- Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Iguaçu → Florianópolis → Porto Alegre.
+- Punta del Diablo → Cabo Polonio → Montevideo (New Year) → Colonia → Buenos Aires. (Paraguay was dropped on 27 Nov.)
+- Córdoba (+ Los Gigantes, Champaquí) → Cafayate → Salta → Quebrada de Humahuaca → San Pedro de Atacama → jeep tour to Uyuni.
 - Potosí → Sucre → ✈ La Paz → Titicaca → Colca → Arequipa.
-- ✈ Panama City → Boquete → Chirripó → Uvita → Monteverde → Arenal → Rincón → San Juan del Sur → Ometepe → Granada → León.
-- ✈ home from Managua ≈ 3 Mar, with 12 spare days.
+- ✈ Panama City → Boquete → Chirripó → Uvita → Monteverde → Arenal → Rincón → San Juan del Sur → Ometepe → Granada → León → Estelí (+ Somoto).
+- ✈ home from Managua on Day 93, with 5 spare days before mid-March.
 
-**[Day-by-day itinerary for v5](itinerary.md)** (the index) with one guide per stop in [`guides/`](guides/): beds, buses and flights checked live on 24 Nov 2026. Nothing is booked. [Budget forecast](budget-forecast.md): ≈ $6.2–6.8k expected, carry ≈ $7.5k.
+**[Day-by-day itinerary for v5](itinerary.md)** (the index) with one guide per stop in [`guides/`](guides/): beds, buses and flights checked live on 24 Nov 2026. Nothing is booked. [Budget forecast](budget-forecast.md): ≈ $6.8–7.4k expected, carry ≈ $8.2k.
 
 This page will become the trip's single source of truth, like [Europe 2026](../europe-2026/README.md): a route table, links to one guide per place in `guides/`, how the trip was planned, and the lessons.
 

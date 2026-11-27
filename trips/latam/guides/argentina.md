@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes](cordoba.md) · [Cafayate](cafayate.md) · [Salta](salta.md) · [Quebrada de Humahuaca (Tilcara + Iruya + Purmamarca)](quebrada-de-humahuaca.md)
 
-**3. Argentina: Córdoba + Sierras → Cafayate → Salta → Quebrada de Humahuaca (stops 12–15, Sat 2 → Fri 15 Jan)**
+**3. Argentina: Córdoba + Sierras → Cafayate → Salta → Quebrada de Humahuaca (stops 12–15, Day 26 → 39)**
 
 **Exchange rate used:** USD at **ARS 1,650 = US$1**, between the official rate (1,615) and MEP (1,695) on 24 Nov (dolarapi.com). A foreign Visa/Mastercard is charged near the MEP rate, so card prices land a little under these USD figures. Plataforma10 shows its own USD at ≈1,592.
 
@@ -18,17 +18,17 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes]
 
 | Date | Leg | Operator | Dep → arr | Price | Source |
 |---|---|---|---|---|---|
-| Sun 3 Jan | Córdoba → La Pampilla (Condorito) and back | COATA (ERSA doesn't run at weekends) | 09:30 → 11:30; back 19:40 → 21:45 | ARS 16,900 ≈ $10 each way | ✅ flechabus.com.ar (COATA's sales channel), 3 Jan on sale |
-| Mon 4 Jan | Córdoba → Los Gigantes | Sarmiento ("Córdoba–Los Gigantes–Villa Dolores") | 06:15 → 08:40 (Tanti 07:45) | ARS 20,100 ≈ $12 | ✅ Plataforma10 sells it on Mon 30 Nov and Wed 2 Dec; nothing on Fri 4 Dec (leads say Mon/Wed/Fri) *(Dec timetable)* |
-| Wed 6 Jan | Los Gigantes → Córdoba | Sarmiento | 12:04 → 13:59 (Tanti 12:49) | ARS 20,100 ≈ $12 | ✅ Plataforma10, Mon and Wed *(Dec timetable)* |
-| Thu 7 → Fri 8 Jan | Córdoba → Tucumán, overnight | Andesmar (semicama) or Flecha Bus (cama); later: El Práctico | Andesmar 20:15 → 04:30; Flecha 20:30 → 04:30; El Práctico 23:45 → 07:10 | Andesmar ARS 50,000 ≈ $30; Flecha cama ARS 90,000 ≈ $55; El Práctico ARS 45,000 ≈ $27 | ✅ Plataforma10, 7 Jan on sale, 20 departures |
-| Fri 8 Jan | Tucumán → Cafayate via Tafí del Valle and the Infiernillo pass | Aconquija | 06:00 → 12:31 (Tafí 08:35), or 10:00 → 16:20, or 14:00 → 20:30 | ARS 44,000 ≈ $27 | ✅ Plataforma10, daily in December *(Dec timetable; January not on sale yet)* |
-| Sun 10 Jan | Cafayate → Salta through the Quebrada de las Conchas | Flecha Bus | From the Cafayate terminal: 08:30 → 12:20, **11:30 → 15:20**, 16:00 → 19:50, 19:45 → 23:30 | ARS 29,000 ≈ $18 | ✅ **flechabus.com.ar**, 10 Jan on sale (not on Plataforma10) |
-| Tue 12 Jan | Salta → San Salvador de Jujuy | 20 de Junio or Balut | 20 de Junio 08:05 → 10:00; Balut 09:30 → 11:45 | 20 de Junio ARS 20,000 ≈ $12; Balut ARS 18,000 ≈ $11 | ✅ Plataforma10, 12 Jan on sale, 17 departures |
-| Tue 12 Jan | Jujuy → Tilcara | Evelia / Balut, about every 30–60 min | e.g. 12:00 → 13:15, 12:50 → 14:15 | ARS 9,000–9,500 ≈ $6 | ✅ Plataforma10 *(Dec timetable)* |
-| Wed 13 Jan | Tilcara → Humahuaca → **Iruya** (new 26 Nov) | Evelia / Balut, then Transporte Iruya | Tilcara → Humahuaca 45 min, ~20 a day; Humahuaca → Iruya 08:20 (also 10:30, 16:00), ≈ 3 h on a gravel road | Humahuaca ARS 4,500 ≈ $3 ✅ Plataforma10 *(Dec timetable)*; Iruya ≈ ARS 9,500–12,000 ≈ $6–8 | Iruya times and fares are leads; confirm at the Humahuaca terminal |
-| Thu 14 Jan | Iruya → Humahuaca (Hornocal) → Purmamarca | Transporte Iruya, then Evelia / Balut | Iruya 06:00 → Humahuaca ≈ 09:00; Humahuaca → Purmamarca ≈ 1 h 15 | ≈ $6–8 + ≈ $3 | Book the Iruya return seat on arrival |
-| **Fri 15 Jan** (moved from Thu 14 on 26 Nov) | **Purmamarca → San Pedro de Atacama** over Paso de Jama | **Andesmar** | **03:40 → 11:30** (7 h 50). From Jujuy 02:45; from Salta 01:00 | **ARS 120,000** (semicama promo) to 145,000 (cama individual) ≈ **$73–88** | ✅ **Andesmar's own shop** (shop.andesmar.com), 24 Nov. Runs Mon–Fri and Sun in that week; **no bus Sat 16 Jan**. Stop is listed as "Parador Purmamarca". Cross-check: ✅ Plataforma10 sells the same bus **from Jujuy** (02:45, ARS 120,000, 36 seats left on 24 Nov) but doesn't list Purmamarca as a boarding point, so buy on Andesmar's shop |
+| Day 27 | Córdoba → La Pampilla (Condorito) and back | COATA (ERSA doesn't run at weekends) | 09:30 → 11:30; back 19:40 → 21:45 | ARS 16,900 ≈ $10 each way | ✅ flechabus.com.ar (COATA's sales channel), Day 27 on sale |
+| Day 28 | Córdoba → Los Gigantes | Sarmiento ("Córdoba–Los Gigantes–Villa Dolores") | 06:15 → 08:40 (Tanti 07:45) | ARS 20,100 ≈ $12 | ✅ Plataforma10 sells it on Mon 30 Nov and Wed 2 Dec; nothing on Fri 4 Dec (leads say Mon/Wed/Fri) *(Dec timetable)* |
+| Day 30 | Los Gigantes → Córdoba | Sarmiento | 12:04 → 13:59 (Tanti 12:49) | ARS 20,100 ≈ $12 | ✅ Plataforma10, Mon and Wed *(Dec timetable)* |
+| Day 31 → 32 | Córdoba → Tucumán, overnight | Andesmar (semicama) or Flecha Bus (cama); later: El Práctico | Andesmar 20:15 → 04:30; Flecha 20:30 → 04:30; El Práctico 23:45 → 07:10 | Andesmar ARS 50,000 ≈ $30; Flecha cama ARS 90,000 ≈ $55; El Práctico ARS 45,000 ≈ $27 | ✅ Plataforma10, Day 31 on sale, 20 departures |
+| Day 32 | Tucumán → Cafayate via Tafí del Valle and the Infiernillo pass | Aconquija | 06:00 → 12:31 (Tafí 08:35), or 10:00 → 16:20, or 14:00 → 20:30 | ARS 44,000 ≈ $27 | ✅ Plataforma10, daily in December *(Dec timetable; January not on sale yet)* |
+| Day 34 | Cafayate → Salta through the Quebrada de las Conchas | Flecha Bus | From the Cafayate terminal: 08:30 → 12:20, **11:30 → 15:20**, 16:00 → 19:50, 19:45 → 23:30 | ARS 29,000 ≈ $18 | ✅ **flechabus.com.ar**, Day 34 on sale (not on Plataforma10) |
+| Day 36 | Salta → San Salvador de Jujuy | 20 de Junio or Balut | 20 de Junio 08:05 → 10:00; Balut 09:30 → 11:45 | 20 de Junio ARS 20,000 ≈ $12; Balut ARS 18,000 ≈ $11 | ✅ Plataforma10, Day 36 on sale, 17 departures |
+| Day 36 | Jujuy → Tilcara | Evelia / Balut, about every 30–60 min | e.g. 12:00 → 13:15, 12:50 → 14:15 | ARS 9,000–9,500 ≈ $6 | ✅ Plataforma10 *(Dec timetable)* |
+| Day 37 | Tilcara → Humahuaca → **Iruya** (new 26 Nov) | Evelia / Balut, then Transporte Iruya | Tilcara → Humahuaca 45 min, ~20 a day; Humahuaca → Iruya 08:20 (also 10:30, 16:00), ≈ 3 h on a gravel road | Humahuaca ARS 4,500 ≈ $3 ✅ Plataforma10 *(Dec timetable)*; Iruya ≈ ARS 9,500–12,000 ≈ $6–8 | Iruya times and fares are leads; confirm at the Humahuaca terminal |
+| Day 38 | Iruya → Humahuaca (Hornocal) → Purmamarca | Transporte Iruya, then Evelia / Balut | Iruya 06:00 → Humahuaca ≈ 09:00; Humahuaca → Purmamarca ≈ 1 h 15 | ≈ $6–8 + ≈ $3 | Book the Iruya return seat on arrival |
+| **Day 39** (moved from Day 38 on 26 Nov) | **Purmamarca → San Pedro de Atacama** over Paso de Jama | **Andesmar** | **03:40 → 11:30** (7 h 50). From Jujuy 02:45; from Salta 01:00 | **ARS 120,000** (semicama promo) to 145,000 (cama individual) ≈ **$73–88** | ✅ **Andesmar's own shop** (shop.andesmar.com), 24 Nov. Runs Mon–Fri and Sun in that week; **no bus Day 40**. Stop is listed as "Parador Purmamarca". Cross-check: ✅ Plataforma10 sells the same bus **from Jujuy** (02:45, ARS 120,000, 36 seats left on 24 Nov) but doesn't list Purmamarca as a boarding point, so buy on Andesmar's shop |
 
 ## Region totals (dorm picks, semicama buses, USD at ARS 1,650)
 
@@ -59,7 +59,7 @@ Part of the [LatAm itinerary](../itinerary.md). Stops: [Córdoba + Los Gigantes]
 - **Hostels:** lock your valuables; LP says thefts are sometimes by fellow travellers.
 - **Traffic** is the main danger: drivers don't give pedestrians the right of way (LP).
 
-## Buenos Aires transit, Fri 1 Jan (LP)
+## Buenos Aires transit, Day 25 (LP)
 The ferry-to-night-bus transfer is in the [Colonia guide](colonia.md). LP adds:
 - **Dársena Sur** (Colonia Express) is in an industrial area at the edge of La Boca; take a taxi or app car, don't walk. LP advises care in La Boca away from its tourist streets, even by day.
 - **Street taxis:** check that the meter runs, and watch for drivers swapping your large note for a smaller or fake one. A remís or app car avoids both (LP).
@@ -68,7 +68,7 @@ The ferry-to-night-bus transfer is in the [Colonia guide](colonia.md). LP adds:
 
 ## Open issues: Argentina
 
-1. **Refugio Aurelio Castelli (Los Gigantes, Mon 4 → Wed 6): price and access not confirmed.**
+1. **Refugio Aurelio Castelli (Los Gigantes, Day 28 → 30): price and access not confirmed.**
    - Club Andino Córdoba publishes no rates; contact them by WhatsApp or phone. **This needs the user.**
    - It also needs a sleeping bag. Fallback: the parador bunks at La Rotonda or Casas Nuevas, or the Córdoba-only day plan.
 2. **Bus timetables not yet on sale for January:**
@@ -76,18 +76,18 @@ The ferry-to-night-bus transfer is in the [Colonia guide](colonia.md). LP adds:
    - Aconquija Tucumán → Cafayate: 06:00 / 10:00 / 14:00.
    - Evelia and Balut in the Quebrada.
    - All come from the December timetable on Plataforma10; re-check about 2–3 weeks before.
-   - ✅ Already on sale and verified: COATA (3 and 7 Jan), Flecha Cafayate → Salta (10 Jan), Córdoba → Tucumán (7 Jan), Salta → Jujuy (12 Jan), **Andesmar Purmamarca/Jujuy → San Pedro (now Fri 15 Jan, ARS 120,000 on Plataforma10 on 26 Nov; it runs Mon–Fri and Sun that week, no Saturday bus)**.
+   - ✅ Already on sale and verified: COATA (3 and Day 31), Flecha Cafayate → Salta (Day 34), Córdoba → Tucumán (Day 31), Salta → Jujuy (Day 36), **Andesmar Purmamarca/Jujuy → San Pedro (now Day 39, ARS 120,000 on Plataforma10 on 26 Nov; it runs Mon–Fri and Sun that week, no Saturday bus)**.
 3. **Andesmar's boarding point in Purmamarca ("Parador Purmamarca") is not pinned down.** Leads say the RN52 roadside at the village entrance; confirm with Andesmar.
    - Andesmar's shop began serving a **captcha** after several checks on 24 Nov, so I stopped querying it. The user's own browser will be fine for buying.
-   - If Thu 14 sells out, the nearest buses are Wed 13 and Fri 15 (same times):
+   - If Day 38 sells out, the nearest buses are Day 37 and Day 39 (same times):
      - **Wed 13:** the Quebrada becomes 1 night (Purmamarca only, from Salta on the 12th); San Pedro becomes 13 → 18 (5 nights).
-     - **Fri 15:** add a second Purmamarca night; San Pedro becomes 15 → 18 (3 nights, still enough to acclimatise before the 18 Jan jeep tour).
+     - **Fri 15:** add a second Purmamarca night; San Pedro becomes 15 → 18 (3 nights, still enough to acclimatise before the Day 42 jeep tour).
 4. **Privacy curtains not confirmed** at Cielito Lindo, Clivias or Tilcara Mística (confirmed at Aldea, Faz and Casa Puka).
 5. **Giramundo Purmamarca:** 15% of reviews are below 7, and there's late live music next door. It's the only hostel in Purmamarca; Nido de Cóndores ($65) is the quiet alternative before the 03:40 alarm.
 6. **The price cross-check covers Booking, Hostelworld and Agoda (signed in) only.**
    - The Google Maps seller lookup returned **no prices** for any of the 14 properties on these January dates, so no index check.
    - The properties' own engines were not checked: Clivias, Casa Puka, Cielito Lindo and Tilcara Mística may sell direct.
 7. **Leads, not verified:** fees (Río Colorado guides, Garganta del Diablo, Hornocal 4x4 and community fee, Los Gigantes land, Paseo de los Colorados), Córdoba's risk-zone declaration form, and all restaurant and bar names and prices (AI Mode).
-8. **Alto Paraná** (the Córdoba private alt) has no availability for 6 → 7 Jan; Hostel Alvear's single room ($25.12, Hostelworld) covers that night.
+8. **Alto Paraná** (the Córdoba private alt) has no availability for Day 30 → 31; Hostel Alvear's single room ($25.12, Hostelworld) covers that night.
 9. **Jujuy's bus terminal** is in Alto Comedero, ≈ 5–6 km south-east of the centre (LP; OpenStreetMap). The Jujuy backup bed (El Balcón de la Tata) was routed as a 10-min walk from a point in the centre, so it needs a remís to the 02:45 Andesmar bus. Flagged in the [Quebrada guide](quebrada-de-humahuaca.md); confirm the boarding point with Andesmar.
 10. **Peak season:** 2–7 Jan is the Argentine summer holiday. COATA showed only 10–15 seats left per bus on 24 Nov, so buy the Sierras tickets as soon as plans are firm. **Nothing was booked.**

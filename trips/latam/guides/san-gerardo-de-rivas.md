@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Boquete](boquete.md) · [Uvita](uvita.md) →
 
-> **Stop 27 · Thu 11 → Mon 15 Feb 2027 · 4 nights (+1 on 27 Nov), one of them at Base Crestones** · ⚠️ SINAC showed no Chirripó permits on sale for February (27 Nov)<br>
+> **Stop 27 · Day 66 → 70 · 4 nights (+1 on 27 Nov), one of them at Base Crestones** · ⚠️ SINAC showed no Chirripó permits on sale for February (27 Nov)<br>
 > 🏞️ Mountain village at the Chirripó trailhead: 14.5 km and ~2,100 m up to the Crestones hut, then the 3,820 m summit<br>
 > 🛏️ **Casa Colibri Chirripó**, single bed in a mixed dorm, $121 for 3 nights (11 → 13 and 14 → 15), around a bunk at **Base Crestones** on 13 → 14 ($46.68)<br>
 > 🚌 **In:** Boquete → David → Paso Canoas border → Tracopa → San Isidro → San Gerardo, Thu (10–11 h) · **Out:** 06:30 bus to San Isidro, then on to Uvita, Mon
@@ -27,26 +27,26 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 📅 Day by day
 
-The plan: climb **Sat 13 → Sun 14 Feb** if a permit turns up (see the permit note under Getting here).
+The plan: climb **Day 68 → 69** if a permit turns up (see the permit note under Getting here).
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 11 Feb | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
-| **Day 2** · Fri 12 Feb | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
-| **Day 3** · Sat 13 Feb | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
-| **Day 4** · Sun 14 Feb | ⛰️ **Summit (3,820 m)** at dawn, 5.5 km beyond Crestones, then down to San Gerardo by **~12:00**. ♨️ Afternoon at the **Gevi hot springs** (≈ $7) for the legs; night in the village. |
-| **Day 5** · Mon 15 Feb | 🚌 **06:30 Hernández Solís** → San Isidro, then **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi needed now). |
+| **Day 66** | 🚌 **05:30** Boquete → David → Paso Canoas, border on foot, **08:00 Tracopa** → San Isidro, Hernández Solís bus → San Gerardo. Costa Rica is 1 h behind Panama. |
+| **Day 67** | 📝 Register at the **SINAC office, then the Consorcio office, by 16:00** (passport; bag drop for portage). 🥾 Warm-up hike: **Cloudbridge Nature Reserve**. |
+| **Day 68** | 🥾 Start walking **~04:00**: 14.5 km and ~2,100 m up to **Base Crestones** (3,400 m), café at km 7 (Llano Bonito). Night at Crestones; power off at 20:00. |
+| **Day 69** | ⛰️ **Summit (3,820 m)** at dawn, 5.5 km beyond Crestones, then down to San Gerardo by **~12:00**. ♨️ Afternoon at the **Gevi hot springs** (≈ $7) for the legs; night in the village. |
+| **Day 70** | 🚌 **06:30 Hernández Solís** → San Isidro, then **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi needed now). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (village 11 → 13 and 14 → 15 Feb, 3 nights; Crestones 13 → 14 Feb)
+**Beds** (village 11 → 13 and Day 69 → 70, 3 nights; Crestones Day 68 → 69)
 
 | | Where | Total | Location | From the village bus stop | Book |
 |---|---|---:|:---:|---|---|
 | ⭐ **Pick** | **Casa Colibri Chirripó** · single bed in a mixed dorm | **$121** (11 → 13 $82 + 14 → 15 $39; ✅ 27 Nov; all 4 nights $163 if there is no permit) | 9.8 | 🚶 21 min (1.2 km) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.467468,-83.5923371&travelmode=walking) | [Booking 11 → 13](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Booking 14 → 15](https://www.booking.com/hotel/cr/casa-colibri-chirripo-san-gerardo.html?checkin=2027-02-14&checkout=2027-02-15&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| ⛰️ Mountain night | **Base Crestones** · 4-bed bunk room, 13 → 14 Feb | **$46.68** bed + $49.63 meals | — | 🥾 14.5 km and ~2,100 m up from the trailhead | [Consorcio info](https://chirripo.org/info-util/), after the SINAC permit below |
+| ⛰️ Mountain night | **Base Crestones** · 4-bed bunk room, Day 68 → 69 | **$46.68** bed + $49.63 meals | — | 🥾 14.5 km and ~2,100 m up from the trailhead | [Consorcio info](https://chirripo.org/info-util/), after the SINAC permit below |
 | Backup | **Casa Mariposa Nature Lodge** · ask for a bed in a shared room | no online price | — | 50 m from the Chirripó trailhead (not routed) | [casamariposachirripo.net](https://casamariposachirripo.net/) (email booking) |
 | Private alt | **Hotel de Montaña El Pelícano** · double room | ❌ sold out for 3–4 nights (27 Nov); 11 → 13 only a $264 suite | not returned | 🚶 9 min (500 m) · [route](https://www.google.com/maps/dir/?api=1&origin=9.464616,-83.60187499999999&destination=9.460934,-83.604143&travelmode=walking) | [Booking (search)](https://www.booking.com/searchresults.html?ss=Hotel+de+Monta%C3%B1a+El+Pel%C3%ADcano+San+Gerardo+de+Rivas&checkin=2027-02-11&checkout=2027-02-13&group_adults=1&no_rooms=1&selected_currency=USD) |
 
@@ -54,12 +54,12 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ Permit | **Chirripó admission, SINAC** (reCAPTCHA + SICORE account) | buy before; for Sat 13 → Sun 14 Feb. ⚠️ **0 places** on every February night (SINAC calendar, 27 Nov): watch for cancellations | $21/day, ≈ **$42** | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
+| ⚠️ Permit | **Chirripó admission, SINAC** (reCAPTCHA + SICORE account) | buy before; for Day 68 → 69. ⚠️ **0 places** on every February night (SINAC calendar, 27 Nov): watch for cancellations | $21/day, ≈ **$42** | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
 | ⚠️ Permit | **Base Crestones** lodging and meals (Consorcio) | emailed after the SINAC admission | $46.68 + $49.63 | [chirripo.org](https://chirripo.org/info-util/) |
-| ⚠️ Entry | Bus ticket out of Costa Rica (proof of onward travel), e.g. **Tica Bus San José → Managua** | buy before 11 Feb | $33 online | Tica Bus |
-| In | **Tracopa** · Paso Canoas → San Isidro | **Thu 11 Feb 08:00** (also 04:20, 11:00, 16:30) | ≈ ₡6,000–6,500 | [Tracopa](https://www.tracopacr.com/) |
+| ⚠️ Entry | Bus ticket out of Costa Rica (proof of onward travel), e.g. **Tica Bus San José → Managua** | buy before Day 66 | $33 online | Tica Bus |
+| In | **Tracopa** · Paso Canoas → San Isidro | **Day 66 08:00** (also 04:20, 11:00, 16:30) | ≈ ₡6,000–6,500 | [Tracopa](https://www.tracopacr.com/) |
 | In | **Hernández Solís** · San Isidro → San Gerardo | **14:30** (also 09:30, 18:15) | ≈ ₡1,000–1,500 | [timetable](https://perezzeledon.com/bus-routes-schedules-perez-zeledon) |
-| Out | **Hernández Solís** San Gerardo → San Isidro, then **Grupo Blanco** → Uvita | **Mon 15 Feb 06:30** → San Isidro ≈ 07:20; **09:00** → Uvita ≈ 11:00 | ≈ ₡1,000 + ₡2,500 | details in the [Uvita guide](uvita.md) |
+| Out | **Hernández Solís** San Gerardo → San Isidro, then **Grupo Blanco** → Uvita | **Day 70 06:30** → San Isidro ≈ 07:20; **09:00** → Uvita ≈ 11:00 | ≈ ₡1,000 + ₡2,500 | details in the [Uvita guide](uvita.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -69,14 +69,14 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Boquete → David → Paso Canoas → San Isidro → San Gerardo de Rivas, Thu 11 Feb
+## 🚌 Getting here: Boquete → David → Paso Canoas → San Isidro → San Gerardo de Rivas, Day 66
 
 | Step | How | Time (local) | Cost | Source |
 |---|---|---|---|---|
 | Boquete → David terminal | Coopsemautranchiri bus from the park, every 20–30 min from ≈ 05:00 | **05:30 → 06:20** (PA) | $1.75–2.00 | ≈ |
 | David → Paso Canoas | "Frontera" buses from the David terminal, every ≈ 10–20 min | 06:30 → ≈ 07:45 (PA) = **06:45 CR** | ≈ $2–3 | ≈ |
 | Panama exit stamp → walk across → **Costa Rica entry** | DGME Paso Canoas, open 06:00–22:00 on normal days (≈, DGME Facebook) | ≈ 45–60 min | Panama exit ≈ free (≈ unverified); CR entry free | |
-| **Paso Canoas → San Isidro de El General** | **Tracopa**, "Cerro de la Muerte" route (the Paso Canoas → San José run via San Isidro) | **08:00** (also 04:20, 11:00, 16:30) → **≈ 13:00** (Tracopa's estimated stop time) | ≈ ₡6,000–6,500 (≈ $13–15) | ✅ times: tracopacr.com timetable for **Mon 8 Feb 2027** (rechecked 26 Nov); fare ≈ (the site lists San Isidro → Río Claro ₡5,540, one stop short) |
+| **Paso Canoas → San Isidro de El General** | **Tracopa**, "Cerro de la Muerte" route (the Paso Canoas → San José run via San Isidro) | **08:00** (also 04:20, 11:00, 16:30) → **≈ 13:00** (Tracopa's estimated stop time) | ≈ ₡6,000–6,500 (≈ $13–15) | ✅ times: tracopacr.com timetable for **Day 63** (rechecked 26 Nov); fare ≈ (the site lists San Isidro → Río Claro ₡5,540, one stop short) |
 | **San Isidro → San Gerardo de Rivas** | **Hernández Solís** bus | **14:30** (Mon–Sat; also 09:30, 18:15) → ≈ 15:15–15:30 (40–50 min) | ≈ ₡1,000–1,500 (≈ $2–3) | ✅ hernandezsolis.com (read 26 Nov) (Sun/holidays only 07:30 and 13:30) |
 
 - **Fallback:** if you miss the 08:00 Tracopa, take the **11:00 → San Isidro ≈ 16:00, then the 18:15 Hernández Solís** (San Gerardo ≈ 19:00). Or a taxi from San Isidro, ≈ ₡15,000–20,000 ($34–45; perezzeledon.com).
@@ -85,21 +85,21 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - 8 Feb is Carnaval Monday in Panama, so expect a busier border than usual. Costa Rica has no holiday that day.
 
 **Costa Rica entry requirements** (✅ visitcostarica.com "Entry requirements"; Tica Bus migration page):
-- **Return or onward ticket out of Costa Rica.** By law it must be a pre-purchased bus ticket out of the country, a flight out, or cruise passage. Your MGA → SEA flight leaves from Nicaragua, so it doesn't prove you'll leave Costa Rica. Buy a **Tica Bus San José → Managua ticket ($33 online, daily 06:00 / 07:30)**, or another cheap bus ticket out of CR, before 8 Feb.
+- **Return or onward ticket out of Costa Rica.** By law it must be a pre-purchased bus ticket out of the country, a flight out, or cruise passage. Your MGA → SEA flight leaves from Nicaragua, so it doesn't prove you'll leave Costa Rica. Buy a **Tica Bus San José → Managua ticket ($33 online, daily 06:00 / 07:30)**, or another cheap bus ticket out of CR, before Day 63.
 - **Proof of funds:** US$100 per month of stay (a card is fine).
-- **Yellow-fever certificate:** required from people arriving from Peru, Bolivia, Brazil, etc. (CDC; Tica Bus). You left Peru on 3 Feb, so carry the card.
+- **Yellow-fever certificate:** required from people arriving from Peru, Bolivia, Brazil, etc. (CDC; Tica Bus). You left Peru on Day 58, so carry the card.
 - **Stay:** up to 180 days for US passports (CR "first group").
 
 ### ⚠️ Timing vs the 16:00 check-in
-- To climb on Fri 12 Feb you must register in San Gerardo **before 16:00 on Thu 11 Feb**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ≈ 13:00 by Tracopa's estimate, then the 14:30 Hernández Solís, San Gerardo ≈ 15:15), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
-- **The plan since 27 Nov: climb Sat 13 → Sun 14 Feb.** Arrive Thu 11, register on Fri 12 with Cloudbridge as the warm-up, descend by noon on Sun 14, and take Monday's 06:30 bus to Uvita.
-- ⚠️ **Permits:** SINAC's availability calendar showed **0 overnight places** for every night from 28 Nov to mid-May (1 Jun and 1 Jul showed 20), so the dry season looks sold out. Places return when someone cancels ≥ 15 days ahead (permits can't be moved, only cancelled). Check the calendar often; a permit for Fri 12 → Sat 13 also works if you register on arrival day.
+- To climb on Day 67 you must register in San Gerardo **before 16:00 on Day 66**. That only works with the **08:00 Tracopa from Paso Canoas** (San Isidro ≈ 13:00 by Tracopa's estimate, then the 14:30 Hernández Solís, San Gerardo ≈ 15:15), i.e. leaving Boquete ~05:00 and clearing both borders by ~07:45. The 11:00 bus arrives too late.
+- **The plan since 27 Nov: climb Day 68 → 69.** Arrive Day 66, register on Day 67 with Cloudbridge as the warm-up, descend by noon on Day 69, and take Monday's 06:30 bus to Uvita.
+- ⚠️ **Permits:** SINAC's availability calendar showed **0 overnight places** for every night from 28 Nov to mid-May (1 Jun and 1 Jul showed 20), so the dry season looks sold out. Places return when someone cancels ≥ 15 days ahead (permits can't be moved, only cancelled). Check the calendar often; a permit for Day 67 → 68 also works if you register on arrival day.
 - **No permit:** the days become Cloudbridge ($12), Sendero Los Gigantes (₡2,000) and the hot springs, or the one-day **"Diario"** summit permit (≈ 40 km, ~2,500 m up) if SINAC sells one. Then 2 nights here are enough, and the spare days can move north.
 
 <details><summary>The same leg in the stop notes (other timetable sources)</summary>
 
 - Boquete → David local bus (~1 h, ≈ $2) → David → Paso Canoas bus (~1¼ h, ≈ $3) → walk the border (Panama exit, Costa Rica entry; CR asks for proof of onward travel).
-- **Tracopa Paso Canoas → San Isidro de El General** (Cerro de la Muerte line, continues to San José): dep **04:20 / 08:00 / 11:00 / 16:30** → San Isidro **~09:00 / ~13:00 / ~16:00 / ~20:30** (≈ 4½–5 h). Fare ≈ ₡6,500 (≈ $15; Tracopa lists San Isidro → Río Claro at ₡5,540, Paso Canoas is one stop further). ✅ Times on tracopacr.com (the 8 Feb 2027 timetable is loaded; stop times are Tracopa's estimates). Buy at the window or on tracopacr.com.
+- **Tracopa Paso Canoas → San Isidro de El General** (Cerro de la Muerte line, continues to San José): dep **04:20 / 08:00 / 11:00 / 16:30** → San Isidro **~09:00 / ~13:00 / ~16:00 / ~20:30** (≈ 4½–5 h). Fare ≈ ₡6,500 (≈ $15; Tracopa lists San Isidro → Río Claro at ₡5,540, Paso Canoas is one stop further). ✅ Times on tracopacr.com (the Day 63 timetable is loaded; stop times are Tracopa's estimates). Buy at the window or on tracopacr.com.
 - **San Isidro → San Gerardo:** Hernández Solís local bus from the Terminal Municipal (40–50 min, ≈ ₡1,000 / $2.25). Operator timetable ✅ hernandezsolis.com (read 26 Nov): **Mon–Sat** San Isidro → San Gerardo **09:30, 14:30, 18:15**; San Gerardo → San Isidro **06:30, 11:00, 16:00**. **Sundays and holidays:** up 07:30, 13:30; down 09:00, 15:00. (perezzeledon.com lists six different runs from San Gerardo, 05:15–18:45; the operator's own page wins.)
 - Taxi San Isidro → San Gerardo ≈ ₡15,000–20,000 ($34–45).
 
@@ -107,7 +107,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ## 🛏️ Where to sleep
 
-Live-checked on 24 Nov: 2 village nights, 8 → 10 Feb, with the recommended 10 → 11 climb. Hostelworld lists nothing here, and Booking files the village under "Herradura".
+Live-checked on 24 Nov: 2 village nights, Day 63 → 65, with the recommended 10 → 11 climb. Hostelworld lists nothing here, and Booking files the village under "Herradura".
 
 ### ⭐ Pick: Casa Colibri Chirripó
 - **Room:** single bed in a mixed dorm.
@@ -139,7 +139,7 @@ Live-checked on 24 Nov: 2 village nights, 8 → 10 Feb, with the recommended 10 
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBO-Xa6Ym6u4d8FvTWSLsPWlcYMueA4_jCSzIRJH21_evSACwNkwBcSVScmkS8C3jg0RRyxENAY6TYkTsScYUnyri3gqToZashIBxG2NAKoW77jNw5HwXqJHlWfhYXMUFZ8tAiX3inxZk=w640-h400-p-k-no" width="100%" alt="The Base Crestones hut in the páramo"><br><b><a href="https://www.google.com/maps?ftid=0x8fa6b70072b7c863:0x411f793d5bee2237">Base Crestones</a></b> (3,400 m) · $46.68 a night<br>The hut at km 14.5: 4-bed bunk rooms, cold showers, lights out at 20:00.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVMVAsuPcQmNQnQTB2ZvsKRTia3myvtGMj0ivt0UtRohwUsByontR80m8KcJUJ4UxgIklOozYVNpp0czfh0qfB4mE9n_AXdJ1Z4uVPHIs4Se3AT2mjYtZar6g-H2O556SUfDw1=w640-h400-p-k-no" width="100%" alt="A waterfall in Cloudbridge Nature Reserve"><br><b><a href="https://www.google.com/maps?ftid=0x8fa6b545dd89b5cf:0x304767c03c3cdf90">Cloudbridge Nature Reserve</a></b> · $12 · a morning · <a href="https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4721509,-83.5776278&travelmode=driving">🚕 ≈ 8 min</a><br>Self-guided cloud-forest trails to waterfalls, next to the Chirripó trailhead. The warm-up on Fri 12 Feb.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RVMVAsuPcQmNQnQTB2ZvsKRTia3myvtGMj0ivt0UtRohwUsByontR80m8KcJUJ4UxgIklOozYVNpp0czfh0qfB4mE9n_AXdJ1Z4uVPHIs4Se3AT2mjYtZar6g-H2O556SUfDw1=w640-h400-p-k-no" width="100%" alt="A waterfall in Cloudbridge Nature Reserve"><br><b><a href="https://www.google.com/maps?ftid=0x8fa6b545dd89b5cf:0x304767c03c3cdf90">Cloudbridge Nature Reserve</a></b> · $12 · a morning · <a href="https://www.google.com/maps/dir/?api=1&origin=9.467468,-83.5923371&destination=9.4721509,-83.5776278&travelmode=driving">🚕 ≈ 8 min</a><br>Self-guided cloud-forest trails to waterfalls, next to the Chirripó trailhead. The warm-up on Day 67.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2v-IvE47jIr6jlaPdmYdP2uTkS5pzh8_pTcMViLDn-czfiKUG10cwXFOLw-COV55GuADpvx8t_9d4L6_kxgaAPinJM0tyq8v0K07vp5NtP2MHivfoorFtIQay3tb5BTQ62cMXio61_R6w=w640-h400-p-k-no" width="100%" alt="A river through moss forest on Sendero Los Gigantes"><br><b><a href="https://www.google.com/maps?ftid=0x8fa14bdeab9250f5:0xd49b929146c0331a">Sendero Los Gigantes</a></b> · ₡2,000 ($4.50) · 6 km loop<br>Up a river through moss forest to a lookout over the Valle de El General.</td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ Live-checked on 24 Nov: 2 village nights, 8 → 10 Feb, with the recommended 10 
 ### ⛰️ Chirripó: availability and rules
 - **Availability (SINAC portal): NOT verified.** SINAC's public calendar (serviciosenlinea.sinac.go.cr → "Disponibilidad de Parques Nacionales" → Parque Nacional Chirripó) sits behind a Google reCAPTCHA tick, and buying needs a SICORE account. I didn't tick the captcha or create an account (see Open issues).
 - Base Crestones (Consorcio CRC Chirripó, chirripo.org) publishes no calendar: you buy the SINAC admission first, then the Consorcio emails lodging/meal payment instructions ✅ chirripo.org "Info útil" + casamariposachirripo.net "How to get tickets".
-- **How tight it is:** 52 overnight permits a day (Lonely Planet); weekends Jan–Apr sell out months ahead; weekdays are easier (LP; AI lead says Feb weekday beds go "moderately" fast). 9/10 Feb 2027 are Tue/Wed. Tickets are released on a rolling basis up to ~6 months ahead, so Feb 2027 dates should already be on sale.
+- **How tight it is:** 52 overnight permits a day (Lonely Planet); weekends Jan–Apr sell out months ahead; weekdays are easier (LP; AI lead says Feb weekday beds go "moderately" fast). 9/Day 65 are Tue/Wed. Tickets are released on a rolling basis up to ~6 months ahead, so Feb 2027 dates should already be on sale.
 - **Two permit types** ✅ casamariposachirripo.net:
   - an **overnight** permit (entry and exit dates differ, tied to a Crestones bed);
   - a **"Diario" day permit** (same entry/exit date, no bed): the ultra-fit option of summit-and-back in one day (≈ 40 km, ~2,500 m up). It is the fallback if Crestones is full.
@@ -196,7 +196,7 @@ Live-checked on 24 Nov: 2 village nights, 8 → 10 Feb, with the recommended 10 
 - **Night temperatures at Crestones go near 0 °C** in the dry season; bring a warm layer, gloves, hat and headlamp.
 - **Leave your big bag** at the lodge while you sleep at Crestones (ask when booking).
 
-## 🚌 Leaving: San Gerardo → San Isidro → Uvita, Mon 15 Feb
+## 🚌 Leaving: San Gerardo → San Isidro → Uvita, Day 70
 
 - With the extra night (27 Nov) you leave the morning after the descent, so no taxi is needed. **Hernández Solís 06:30** (also 11:00 and 16:00; Mon–Sat, ✅ hernandezsolis.com, read 26 Nov) → San Isidro ≈ 07:20.
 - Then **Grupo Blanco 09:00** direct → Uvita ≈ 11:00 (≈ ₡2,500), or the 13:30 Dominical bus + the local bus to Uvita (20 min). Details in the [Uvita guide](uvita.md).

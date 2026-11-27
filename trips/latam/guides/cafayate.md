@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Córdoba + Los Gigantes](cordoba.md) · [Salta](salta.md) →
 
-> **Stop 13 · Sun 10 → Tue 12 Jan 2027 · 2 nights · January peak season**<br>
+> **Stop 13 · Day 34 → 36 · 2 nights · January peak season**<br>
 > 🏞️ A small valley town: the Río Colorado falls on foot, then a hike in the red Quebrada de las Conchas<br>
 > 🛏️ **Cielito Lindo Hostel**, a bed in a 10-bed dorm, $28.80 for 2 nights<br>
 > 🚌 **In:** night bus Córdoba → Tucumán, then Aconquija 06:00 → 12:31, Sun · **Out:** bus to Salta through the Quebrada, Tue
@@ -29,16 +29,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Sat 9 Jan** (night) | 🚌 Night bus Córdoba → Tucumán: **Flecha Bus cama 20:30 → 04:30** (or Andesmar 20:15). Wait 1½ h in Tucumán's 24-h terminal. |
-| **Day 1** · Sun 10 Jan | 🚌 **Aconquija 06:00 → Cafayate 12:31**, over the Infiernillo pass through Tafí del Valle (08:35). Walk 17 min to the hostel. Afternoon: 💧 **Río Colorado falls** (3–4 h, local guide mandatory). |
-| **Day 2** · Mon 11 Jan | 🥾 **Quebrada de las Conchas hike + bus:** the **08:30 Flecha Bus** towards Salta drops you at the trailhead (≈ 30 km up RN68), then the **Quebrada de las Conchas Loop** (10.9 km, +214 m) past **Los Estratos / La Yesera**. Flag the Cafayate-bound bus back at ≈ 14:20 (or ≈ 18:20). |
-| **Day 3** · Tue 12 Jan | 🚌 Bus to [Salta](salta.md) through the whole canyon (sit on the left). |
+| **Day 33** (night) | 🚌 Night bus Córdoba → Tucumán: **Flecha Bus cama 20:30 → 04:30** (or Andesmar 20:15). Wait 1½ h in Tucumán's 24-h terminal. |
+| **Day 34** | 🚌 **Aconquija 06:00 → Cafayate 12:31**, over the Infiernillo pass through Tafí del Valle (08:35). Walk 17 min to the hostel. Afternoon: 💧 **Río Colorado falls** (3–4 h, local guide mandatory). |
+| **Day 35** | 🥾 **Quebrada de las Conchas hike + bus:** the **08:30 Flecha Bus** towards Salta drops you at the trailhead (≈ 30 km up RN68), then the **Quebrada de las Conchas Loop** (10.9 km, +214 m) past **Los Estratos / La Yesera**. Flag the Cafayate-bound bus back at ≈ 14:20 (or ≈ 18:20). |
+| **Day 36** | 🚌 Bus to [Salta](salta.md) through the whole canyon (sit on the left). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (10 → 12 Jan, 2 nights)
+**Beds** (Day 34 → 36, 2 nights)
 
 | | Where | Total | Location | From the bus stop | Book |
 |---|---|---:|:---:|---|---|
@@ -49,12 +49,12 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Flecha Bus cama** · Córdoba → Tucumán | **Sat 9 Jan 20:30 → 04:30** | ARS 90,000 ≈ $55 | [Plataforma10](https://www.plataforma10.com.ar/) or Flecha Bus ✅ |
-| In, alt | **Andesmar semicama** · Córdoba → Tucumán | Sat 9 Jan 20:15 → 04:30 | ARS 50,000 ≈ $30 | [Plataforma10](https://www.plataforma10.com.ar/) or Andesmar ✅ |
-| ⚠️ In | **Aconquija** · Tucumán → Cafayate (Tafí 08:35) | **Sun 10 Jan 06:00 → 12:31** | ARS 44,000 ≈ $27 | Aconquija (January not on sale yet) |
-| In, more sleep | **El Práctico** 23:45 → 07:10, then **Aconquija** 10:00 → 16:20 | Sat 9 → Sun 10 Jan | ARS 40,000 ≈ $25 + ARS 44,000 | [Plataforma10](https://www.plataforma10.com.ar/) |
-| Hike day | **Flecha Bus** towards Salta, off at the Quebrada de las Conchas Loop trailhead (≈ 30 km); back on a Cafayate-bound bus | ✅ **Mon 11 Jan 08:30**; back ≈ 14:20 or ≈ 18:20 (the 11:00 and 15:00 from Salta) | ask for a ticket to the trailhead (Salta is ARS 33,500) | Cafayate terminal; flag the bus back on RN68 |
-| ⚠️ Out | **Bus to Salta** (Flecha Bus 08:30 or 11:30) | **Tue 12 Jan** | ARS 33,500 ≈ $21 | Flecha Bus; book ahead |
+| In | **Flecha Bus cama** · Córdoba → Tucumán | **Day 33 20:30 → 04:30** | ARS 90,000 ≈ $55 | [Plataforma10](https://www.plataforma10.com.ar/) or Flecha Bus ✅ |
+| In, alt | **Andesmar semicama** · Córdoba → Tucumán | Day 33 20:15 → 04:30 | ARS 50,000 ≈ $30 | [Plataforma10](https://www.plataforma10.com.ar/) or Andesmar ✅ |
+| ⚠️ In | **Aconquija** · Tucumán → Cafayate (Tafí 08:35) | **Day 34 06:00 → 12:31** | ARS 44,000 ≈ $27 | Aconquija (January not on sale yet) |
+| In, more sleep | **El Práctico** 23:45 → 07:10, then **Aconquija** 10:00 → 16:20 | Day 33 → 34 | ARS 40,000 ≈ $25 + ARS 44,000 | [Plataforma10](https://www.plataforma10.com.ar/) |
+| Hike day | **Flecha Bus** towards Salta, off at the Quebrada de las Conchas Loop trailhead (≈ 30 km); back on a Cafayate-bound bus | ✅ **Day 35 08:30**; back ≈ 14:20 or ≈ 18:20 (the 11:00 and 15:00 from Salta) | ask for a ticket to the trailhead (Salta is ARS 33,500) | Cafayate terminal; flag the bus back on RN68 |
+| ⚠️ Out | **Bus to Salta** (Flecha Bus 08:30 or 11:30) | **Day 36** | ARS 33,500 ≈ $21 | Flecha Bus; book ahead |
 
 <details><summary>How to read these tables</summary>
 
@@ -64,7 +64,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Córdoba → Tucumán → Cafayate, Sat 9 → Sun 10 Jan
+## 🚌 Getting here: Córdoba → Tucumán → Cafayate, Day 33 → 34
 
 The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del Valle is ridden through, not stayed in** (rain/fog season).
 
@@ -74,7 +74,7 @@ The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del
   - **From the window:** the road climbs the Río Los Sosa gorge, then passes the La Angostura reservoir and **El Mollar**, whose plaza holds the Parque de los Menhires, carved standing stones about 2,000 years old (LP).
 - **More sleep:** El Práctico 23:45 → 07:10 (ARS 40,000 ≈ $25), then Aconquija 10:00 → 16:20. You lose the afternoon hike.
 - **Where to buy:** Plataforma10 or each operator's own site.
-  - ✅ The Córdoba → Tucumán times are on sale for Sat 9 Jan (Plataforma10, rechecked 27 Nov: Flecha cama 20:30 ARS 90,000, Andesmar 20:15 ARS 50,000, El Práctico 23:45 ARS 40,000).
+  - ✅ The Córdoba → Tucumán times are on sale for Day 33 (Plataforma10, rechecked 27 Nov: Flecha cama 20:30 ARS 90,000, Andesmar 20:15 ARS 50,000, El Práctico 23:45 ARS 40,000).
   - ✅ Aconquija's times are the December timetable (daily 06:00 / 10:00 / 14:00); its January dates aren't on sale yet, so re-check in mid-December.
 
 ## 🛏️ Where to sleep
@@ -105,11 +105,11 @@ The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYw_vlslDBl9G3urmd1ikSw2Mg7MAgbf0kuiaYWKuI3IRk6RVoMmy04QM3C6gAuo7wiZAYv_aEqa13rSZ2c8Mz-AB4Vua2-DJZPy4KIfkjmGYEEHZsWcEHIvNKgJrDZZroEnmm=w640-h400-p-k-no" width="100%" alt="A waterfall dropping into a rock pool on the Río Colorado"><br><b><a href="https://www.google.com/maps?ftid=0x941f30bf534208c9:0xfc7801a1400df902">Río Colorado falls</a></b> (7 Cascadas) · guide ≈ ARS 20,000–30,000 · Sun 10 · <a href="https://www.google.com/maps/dir/?api=1&origin=-26.0733782,-65.9775045&destination=-26.0934507,-66.0122511&travelmode=driving">🚕 ≈ 13 min</a><br>5.5–6 km return, +240 m, 3–4 h, with boulder scrambling. A local Diaguita guide is mandatory.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYw_vlslDBl9G3urmd1ikSw2Mg7MAgbf0kuiaYWKuI3IRk6RVoMmy04QM3C6gAuo7wiZAYv_aEqa13rSZ2c8Mz-AB4Vua2-DJZPy4KIfkjmGYEEHZsWcEHIvNKgJrDZZroEnmm=w640-h400-p-k-no" width="100%" alt="A waterfall dropping into a rock pool on the Río Colorado"><br><b><a href="https://www.google.com/maps?ftid=0x941f30bf534208c9:0xfc7801a1400df902">Río Colorado falls</a></b> (7 Cascadas) · guide ≈ ARS 20,000–30,000 · Day 34 · <a href="https://www.google.com/maps/dir/?api=1&origin=-26.0733782,-65.9775045&destination=-26.0934507,-66.0122511&travelmode=driving">🚕 ≈ 13 min</a><br>5.5–6 km return, +240 m, 3–4 h, with boulder scrambling. A local Diaguita guide is mandatory.</td>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Garganta_del_Diablo_-_Quebrada_de_las_Conchas.JPG/500px-Garganta_del_Diablo_-_Quebrada_de_las_Conchas.JPG" width="100%" alt="The narrow red rock walls of the Garganta del Diablo"><br><b>Garganta del Diablo</b> · free · from the bus<br>The narrow side gorge ≈ 50 km from town, beyond the hike: Tuesday's bus to Salta passes it, and the bike alternative starts here.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SQiJsg5KaLzHjeWVcWkRPBe4ZYfVdqXOtdzauk_4tqNGgY5U31UsVB9dfv7W4k_UPbPw3M0neGKTugbq3jcQntcw6LIk20G8UIbaBE6uOD_st9epMVWJg19Ktl75-5eVOvigLLqw=w640-h400-p-k-no" width="100%" alt="Striped red and cream rock layers at Los Estratos"><br><b><a href="https://www.google.com/maps?ftid=0x9418ce0da7e30641:0x2baf2c01d8d8b520">Los Estratos / La Yesera</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-26.0733782,-65.9775045&destination=-25.9886308,-65.7519317&travelmode=driving">🚕 ≈ 31 min</a><br>On the Quebrada de las Conchas Loop hike (Mon 11).</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SQiJsg5KaLzHjeWVcWkRPBe4ZYfVdqXOtdzauk_4tqNGgY5U31UsVB9dfv7W4k_UPbPw3M0neGKTugbq3jcQntcw6LIk20G8UIbaBE6uOD_st9epMVWJg19Ktl75-5eVOvigLLqw=w640-h400-p-k-no" width="100%" alt="Striped red and cream rock layers at Los Estratos"><br><b><a href="https://www.google.com/maps?ftid=0x9418ce0da7e30641:0x2baf2c01d8d8b520">Los Estratos / La Yesera</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-26.0733782,-65.9775045&destination=-25.9886308,-65.7519317&travelmode=driving">🚕 ≈ 31 min</a><br>On the Quebrada de las Conchas Loop hike (Day 35).</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S56zWUB2jY8nQTNuIOW2lzX_oSevAk2QpQmxKLpgwM0grA_VpOlMzjNe8p-Hw0DkDYjdNZovB8--RZGugmrCPTsGJMtXPrmGVdGogS04LMHuBprjxIw09_y_OStrp2NZgchXP2=w640-h400-p-k-no" width="100%" alt="The red rock towers of Los Castillos"><br><b><a href="https://www.google.com/maps?ftid=0x9418cd755e28f4ef:0xa7823aab4016a08a">Los Castillos</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-26.0733782,-65.9775045&destination=-26.0012952,-65.8087308&travelmode=driving">🚕 ≈ 22 min</a><br>One of the RN68 viewpoints; there are no gates on the road.</td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del
 </tr>
 </table>
 
-### 💧 Río Colorado falls, Sun 10 afternoon
+### 💧 Río Colorado falls, Day 34 afternoon
 - **Where:** 7 Cascadas, 5–6 km south-west of town.
 - **Getting there:** walk 1 h 15, or take a 10-min remís.
 - **Guide and fee:** a **local Diaguita community guide is mandatory**, ≈ ARS 20,000 (≈ $12) for the first 3 falls or ≈ ARS 30,000 (≈ $18) for all 7, cash *(mid-2026 leads)*.
@@ -126,12 +126,12 @@ The night bus to Tucumán, then Aconquija over the Infiernillo pass. **Tafí del
 - **Swim and rock art:** a ≈ 10 m fall about 2 h upstream has a pool you can swim in, and there are rock paintings along the way (LP).
 - **Weather:** skip it if a storm is building (the gorge flash-floods).
 
-### 🥾 Quebrada de las Conchas hike + bus, Mon 11 (free)
+### 🥾 Quebrada de las Conchas hike + bus, Day 35 (free)
 - **Trail:** the **Quebrada de las Conchas Loop** (AllTrails: 10.9 km, +214 m, 4.7★ from 94 reviews), past **Los Estratos / La Yesera**. The trailhead is on RN68, ≈ 29.7 km from Cafayate.
   - **Shorter or as well:** **El Paso**, ≈ 4 km before it on RN68 (AllTrails: 6.8 km, 4.8★ from 163 reviews).
-- **Bus out:** the **08:30 Flecha Bus towards Salta** (✅ Flecha's own site, rechecked 27 Nov for Mon 11 Jan: 04:10, 08:30, 11:30, 14:45, 16:00, 19:45).
+- **Bus out:** the **08:30 Flecha Bus towards Salta** (✅ Flecha's own site, rechecked 27 Nov for Day 35: 04:10, 08:30, 11:30, 14:45, 16:00, 19:45).
   - Ask the driver to let you off at the trailhead, and pay only as far as there (Cafayate → Salta is ARS 33,500).
-- **Back:** flag down a Cafayate-bound bus on RN68. It passes the trailhead ≈ **14:20** (the 11:00 from Salta) or ≈ **18:20** (the 15:00 from Salta); ✅ both run on Mon 11 Jan (Flecha's site), the passing times are ≈. Wave early so the driver sees you.
+- **Back:** flag down a Cafayate-bound bus on RN68. It passes the trailhead ≈ **14:20** (the 11:00 from Salta) or ≈ **18:20** (the 15:00 from Salta); ✅ both run on Day 35 (Flecha's site), the passing times are ≈. Wave early so the driver sees you.
 - **Cost:** the trails and viewpoints are free; there are no gates on RN68.
 - **Conditions:** there's **no shade**: carry 3 L of water, a hat and sunscreen, and start walking as soon as you're off the bus, before the afternoon wind and heat.
 - **Bike alternative:** rent an MTB (Cafayate Bike & Travel, Güemes Norte 158, ARS 44,000/day ≈ $27, delivered to your bed; or RuralBikeCafayate, Mitre 258), put it in the hold of the same 08:30 bus to the **Garganta del Diablo** (≈ 50 km) and ride back down RN68, mostly downhill, ≈ 4 h (LP).
@@ -159,17 +159,17 @@ Paid wine tastings are optional; skip them unless you want one.
 
 AI Mode leads; prices ≈.
 
-- **La Casa de las Empanadas** opens Tue–Sun, 11–15 h and 20–24 h, so it's **shut on Mon 11**: eat there on Sun 10 or Tue 12 before the bus, or use its second branch at Nuestra Señora del Rosario 156 (LP).
+- **La Casa de las Empanadas** opens Tue–Sun, 11–15 h and 20–24 h, so it's **shut on Day 35**: eat there on Day 34 or Day 36 before the bus, or use its second branch at Nuestra Señora del Rosario 156 (LP).
 - **Cheaper sit-down dinners:** the no-frills grills on Rivadavia between San Lorenzo and 12 de Octubre (LP).
 
 ## ℹ️ Good to know
 - **Sun:** January sun in the valley is fierce: carry a hat and sunscreen, and start early.
 - **Cash:** Cafayate's ATMs are around the plaza; bring cash for the falls guide.
-- ⚠️ **Book the Tue 12 bus to Salta in advance:** January is peak season.
+- ⚠️ **Book the Day 36 bus to Salta in advance:** January is peak season.
 
-## 🚌 Leaving: Cafayate → Salta, Tue 12 Jan
+## 🚌 Leaving: Cafayate → Salta, Day 36
 
-- **Flecha Bus at 08:30 or 11:30** from the Cafayate terminal (✅ Flecha's own site, rechecked 27 Nov for Tue 12 Jan: also 04:10, 16:00 and 19:45). The fare to Salta is now **ARS 33,500** (ARS 29,000 on 24 Nov).
+- **Flecha Bus at 08:30 or 11:30** from the Cafayate terminal (✅ Flecha's own site, rechecked 27 Nov for Day 36: also 04:10, 16:00 and 19:45). The fare to Salta is now **ARS 33,500** (ARS 29,000 on 24 Nov).
 - The road runs through the whole Quebrada de las Conchas: **sit on the left**.
 - ⚠️ Book it in advance: January is peak season.
 

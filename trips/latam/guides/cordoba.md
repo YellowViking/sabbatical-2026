@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Colonia stopover → Buenos Aires → Córdoba](colonia.md) · [Cafayate](cafayate.md) →
 
-> **Stop 12 · Sat 2 → Sat 9 Jan 2027 · 7 nights (3 in the city, 2 in the Los Gigantes refugio, 2 for Champaquí) · Argentine summer holidays (peak)**<br>
+> **Stop 12 · Day 26 → 33 · 7 nights (3 in the city, 2 in the Los Gigantes refugio, 2 for Champaquí) · Argentine summer holidays (peak)**<br>
 > 🏞️ A city hub for three Sierras hikes: the condor gorge of Quebrada del Condorito, the granite massif of Los Gigantes, and Cerro Champaquí (2,790 m), the range's highest summit<br>
 > 🛏️ **Aldea Hostel Córdoba**, dorm, $41 for 3 nights · **Refugio Aurelio Castelli** (Club Andino), 2 nights, price on request · Champaquí: a Valle del Tabaquillo refuge (WhatsApp) + **Hostel La Resolana**, Villa Alpina, $22<br>
-> 🚌 **In:** night bus from Buenos Aires, early Sat 2 Jan · **Out:** night bus to Tucumán, Sat 9 Jan 20:15/20:30 (or 23:45)
+> 🚌 **In:** night bus from Buenos Aires, early Day 26 · **Out:** night bus to Tucumán, Day 33 20:15/20:30 (or 23:45)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxBMidx7W97Q9Qzeuki_DWsXPBGcG8F3by8EcFHedF94-pxVWpTv8miUuOimtkOZZ0jeKsgpVACuKLa-O3ydwE-sNm17mncHS2ZpWd-VlceiS0NhkKvW65fY6Z60AfjzQSv4Rk=w1200-h360-p-k-no" alt="The jagged granite of Los Gigantes above a valley" width="100%">
 
@@ -33,44 +33,44 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 2 Jan | 🚌 Arrive early on the night bus; rest. 🎟️ Buy the **Sarmiento** ticket for Mon 06:15 (terminal window or Plataforma10) and the **COATA** ticket for Sunday. 📝 Do the **Condorito online registration** and **WhatsApp the Club Andino**. |
-| **Day 2** · Sun 3 Jan | 🦅 **Quebrada del Condorito** day trip: COATA 09:30 → La Pampilla 11:30; back 19:40 → 21:45. |
-| **Day 3** · Mon 4 Jan | 🚌 **06:15 Sarmiento** to Los Gigantes (off at 08:40), 🥾 walk up to the refugio (2–3 h). Afternoon: Cerro de la Cruz and the Cueva de la Salamanca. |
-| **Day 4** · Tue 5 Jan | ⛰️ **Cerro Mogote** at dawn, then the **Los Cajones** granite canyons. |
-| **Day 5** · Wed 6 Jan | 🥾 Down by ≈ 11:30 for the **12:04 bus**, back in Córdoba 13:59. 🏛️ Wednesday is **free entry at the provincial museums** ✅: the Museo Caraffa by Parque Sarmiento is open until 17:30. |
-| **Day 6** · Thu 7 Jan | 📝 File the free **Champaquí declaration** online. 🚌 **Lep 07:00 → Villa General Belgrano 08:45** (or Sierras de Calamuchita 05:30 → 07:45), then a pre-booked 🚕 **remís to Villa Alpina** (≈ 1 h, the last 13 km dirt). 🥾 **15 km, +800 m (6–8 h)** up to a refuge in the **Valle del Tabaquillo**. |
-| **Day 7** · Fri 8 Jan | ⛰️ **Summit of Champaquí (2,790 m)** at dawn: 6 km, +690 m, ≈ 3 h via the Cueva de los 40. Then all the way back down to **Villa Alpina** (≈ 27 km and 10–12 h for the day). Bed: **Hostel La Resolana**. |
-| **Day 8** · Sat 9 Jan | 🚕 Remís to Villa General Belgrano, then a bus to Córdoba (≈ 2 h; buses every 30–60 min), back by midday. 📝 Close the declaration. Laundry and the city. 🚌 Night bus to Tucumán 19:50–20:30. |
+| **Day 26** | 🚌 Arrive early on the night bus; rest. 🎟️ Buy the **Sarmiento** ticket for Mon 06:15 (terminal window or Plataforma10) and the **COATA** ticket for Sunday. 📝 Do the **Condorito online registration** and **WhatsApp the Club Andino**. |
+| **Day 27** | 🦅 **Quebrada del Condorito** day trip: COATA 09:30 → La Pampilla 11:30; back 19:40 → 21:45. |
+| **Day 28** | 🚌 **06:15 Sarmiento** to Los Gigantes (off at 08:40), 🥾 walk up to the refugio (2–3 h). Afternoon: Cerro de la Cruz and the Cueva de la Salamanca. |
+| **Day 29** | ⛰️ **Cerro Mogote** at dawn, then the **Los Cajones** granite canyons. |
+| **Day 30** | 🥾 Down by ≈ 11:30 for the **12:04 bus**, back in Córdoba 13:59. 🏛️ Wednesday is **free entry at the provincial museums** ✅: the Museo Caraffa by Parque Sarmiento is open until 17:30. |
+| **Day 31** | 📝 File the free **Champaquí declaration** online. 🚌 **Lep 07:00 → Villa General Belgrano 08:45** (or Sierras de Calamuchita 05:30 → 07:45), then a pre-booked 🚕 **remís to Villa Alpina** (≈ 1 h, the last 13 km dirt). 🥾 **15 km, +800 m (6–8 h)** up to a refuge in the **Valle del Tabaquillo**. |
+| **Day 32** | ⛰️ **Summit of Champaquí (2,790 m)** at dawn: 6 km, +690 m, ≈ 3 h via the Cueva de los 40. Then all the way back down to **Villa Alpina** (≈ 27 km and 10–12 h for the day). Bed: **Hostel La Resolana**. |
+| **Day 33** | 🚕 Remís to Villa General Belgrano, then a bus to Córdoba (≈ 2 h; buses every 30–60 min), back by midday. 📝 Close the declaration. Laundry and the city. 🚌 Night bus to Tucumán 19:50–20:30. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (city 2 → 4 Jan and 6 → 7 Jan; refugio 4 → 6 Jan; Champaquí 7 → 9 Jan)
+**Beds** (city Day 26 → 28 and Day 30 → 31; refugio Day 28 → 30; Champaquí Day 31 → 33)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| ⭐ **Pick**, 2 → 4 Jan | **Aldea Hostel Córdoba** · bed in a 6-bed mixed dorm | **$28** | 9.1 | 🚌 14 min: bus 29 → walk 6 min; walk 32 min; centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.4111141,-64.1887784&travelmode=transit) | [Booking](https://www.booking.com/hotel/ar/aldea-hostel.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/30515/aldea-hostel-cordoba/?from=2027-01-02&to=2027-01-04&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=349156&checkin=2027-01-02&checkout=2027-01-04&NumberofAdults=1&Rooms=1) |
-| ⭐ **Sierras**, 4 → 6 Jan | **Refugio Aurelio Castelli** (Club Andino Córdoba), Los Gigantes · covered mattress | on request | — | 🥾 ≈ 6–6.5 km (+450 m, 2–3 h) from the Casas Nuevas or La Rotonda bus stop | WhatsApp/phone the club (+54 351 480-5126, *lead*) |
-| ⭐ **Pick**, 6 → 7 Jan | **Aldea Hostel Córdoba** · the same dorm | **$13** | 9.1 | 🚌 18 min: bus Cordoba - Miramar → trolleybus B1; walk 32 min; centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.4111141,-64.1887784&travelmode=transit) | [Booking](https://www.booking.com/hotel/ar/aldea-hostel.html?checkin=2027-01-06&checkout=2027-01-07&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/30515/aldea-hostel-cordoba/?from=2027-01-06&to=2027-01-09&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=349156&checkin=2027-01-06&checkout=2027-01-09&NumberofAdults=1&Rooms=1) |
-| ⭐ **Champaquí**, 7 → 8 Jan | **A Valle del Tabaquillo refuge**: Puesto Doña Nena (Domínguez), Puesto de Irene or Refugio de Tary · bunk, dinner and breakfast; bring a sleeping bag | on WhatsApp (not published) | — | 🥾 15 km, +800 m from Villa Alpina | Doña Nena WhatsApp +54 351 680-4456 · [Irene (Instagram)](https://www.instagram.com/puestoirene/) |
-| ⭐ **Champaquí**, 8 → 9 Jan | **Hostel La Resolana**, Villa Alpina · mixed dorm, 0.4 mi from the trailhead | **$22** | 9.5 | 🥾 at the trailhead (Villa Alpina has no bus) | [Booking](https://www.booking.com/hotel/ar/la-resolana-calamuchita.html?checkin=2027-01-08&checkout=2027-01-09&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Backup | **Lacandona Hostel** · bed in a 6-bed mixed dorm, 2 → 4 Jan | $21 | 9.6 | 🚌 18 min: bus 29 → walk 8 min (or walk 18 min, 1.2 km); centre 11 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422778,-64.175278&destination=-31.423062,-64.183508&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/lacandona-hostel.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| ⭐ **Pick**, Day 26 → 28 | **Aldea Hostel Córdoba** · bed in a 6-bed mixed dorm | **$28** | 9.1 | 🚌 14 min: bus 29 → walk 6 min; walk 32 min; centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.4111141,-64.1887784&travelmode=transit) | [Booking](https://www.booking.com/hotel/ar/aldea-hostel.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/30515/aldea-hostel-cordoba/?from=2027-01-02&to=2027-01-04&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=349156&checkin=2027-01-02&checkout=2027-01-04&NumberofAdults=1&Rooms=1) |
+| ⭐ **Sierras**, Day 28 → 30 | **Refugio Aurelio Castelli** (Club Andino Córdoba), Los Gigantes · covered mattress | on request | — | 🥾 ≈ 6–6.5 km (+450 m, 2–3 h) from the Casas Nuevas or La Rotonda bus stop | WhatsApp/phone the club (+54 351 480-5126, *lead*) |
+| ⭐ **Pick**, Day 30 → 31 | **Aldea Hostel Córdoba** · the same dorm | **$13** | 9.1 | 🚌 18 min: bus Cordoba - Miramar → trolleybus B1; walk 32 min; centre 16 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.4111141,-64.1887784&travelmode=transit) | [Booking](https://www.booking.com/hotel/ar/aldea-hostel.html?checkin=2027-01-06&checkout=2027-01-07&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) · [Hostelworld](https://www.hostelworld.com/hostels/p/30515/aldea-hostel-cordoba/?from=2027-01-06&to=2027-01-09&guests=1) · [Agoda](https://www.agoda.com/partners/partnersearch.aspx?hid=349156&checkin=2027-01-06&checkout=2027-01-09&NumberofAdults=1&Rooms=1) |
+| ⭐ **Champaquí**, Day 31 → 32 | **A Valle del Tabaquillo refuge**: Puesto Doña Nena (Domínguez), Puesto de Irene or Refugio de Tary · bunk, dinner and breakfast; bring a sleeping bag | on WhatsApp (not published) | — | 🥾 15 km, +800 m from Villa Alpina | Doña Nena WhatsApp +54 351 680-4456 · [Irene (Instagram)](https://www.instagram.com/puestoirene/) |
+| ⭐ **Champaquí**, Day 32 → 33 | **Hostel La Resolana**, Villa Alpina · mixed dorm, 0.4 mi from the trailhead | **$22** | 9.5 | 🥾 at the trailhead (Villa Alpina has no bus) | [Booking](https://www.booking.com/hotel/ar/la-resolana-calamuchita.html?checkin=2027-01-08&checkout=2027-01-09&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Backup | **Lacandona Hostel** · bed in a 6-bed mixed dorm, Day 26 → 28 | $21 | 9.6 | 🚌 18 min: bus 29 → walk 8 min (or walk 18 min, 1.2 km); centre 11 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422778,-64.175278&destination=-31.423062,-64.183508&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/lacandona-hostel.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 | Backup 2 | **Faz Hostel** · bed in an 8-bed mixed dorm, 3 nights | $50.40 | ⚠️ 8.8 | 🚌 16 min: bus Cordoba - Villa Maria Rio Seco → walk 7 min; walk 43 min; ℹ️ outside the centre (31 min on foot, buses run) · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.399509899999998,-64.1799199&travelmode=transit) | [Hostelworld](https://www.hostelworld.com/hostels/p/315620/faz-hostel/?from=2027-01-02&to=2027-01-04&guests=1) · [Booking](https://www.booking.com/hotel/ar/faz-cordoba.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
-| Private alt | **Alto Paraná Depto en Nueva Córdoba** · whole 1-bed apartment with kitchen, 2 → 4 Jan | $82 | 9.9 | 🚶 11 min (700 m); centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.4228659,-64.1793357&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/alto-parana-depto-en-nueva-cordoba.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
+| Private alt | **Alto Paraná Depto en Nueva Córdoba** · whole 1-bed apartment with kitchen, Day 26 → 28 | $82 | 9.9 | 🚶 11 min (700 m); centre 15 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-31.422777999999997,-64.17527799999999&destination=-31.4228659,-64.1793357&travelmode=walking) | [Booking](https://www.booking.com/hotel/ar/alto-parana-depto-en-nueva-cordoba.html?checkin=2027-01-02&checkout=2027-01-04&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Night bus** Retiro → Córdoba (see the [Colonia guide](colonia.md)) | Fri 1 → **Sat 2 Jan** (El Práctico 22:20 → 07:10 or Betel 21:00 → 06:00) | ≈ $44–48 | [Plataforma10](https://www.plataforma10.com.ar/) |
-| ⚠️ Condorito | **COATA** · Córdoba terminal → La Pampilla | **Sun 3 Jan 09:30 → 11:30**; back **19:40 → 21:45** (10–15 seats left) | ARS 16,900 ≈ $10 each way | flechabus.com.ar ✅ |
-| ⚠️ Los Gigantes | **Sarmiento** · Córdoba → Casas Nuevas / La Rotonda (Mon and Wed only) | **Mon 4 Jan 06:15** → off at 08:40 | — | terminal window or Plataforma10 |
-| Los Gigantes | **Sarmiento** · Los Gigantes → Córdoba | **Wed 6 Jan 12:04 → 13:59** | — | terminal window or Plataforma10 |
-| Champaquí | **Lep** (or Sierras de Calamuchita / Pájaro Blanco) · Córdoba → Villa General Belgrano | **Thu 7 Jan 07:00 → 08:45** (≈ 33 a day; also 05:30 → 07:45) | ARS 20,200 ≈ $12.60 | [Plataforma10](https://www.plataforma10.com.ar/) (January goes on sale ≈ 7 Dec) |
-| ⚠️ Champaquí | **Remís** Villa General Belgrano ↔ Villa Alpina (37.8 km, ≈ 1 h; no bus) | Thu 7 Jan in; **book the Sat 9 pickup ahead**, as the valley has no signal | ≈ ARS 40,000 per seat as a tour add-on (*lead*); ask for a solo fare | [VGB remís list](https://www.elsitiodelavilla.com/rubro/remises/index.php) |
-| ⚠️ Champaquí | **Sworn declaration** (Ley 9856): free, compulsory, before going up and after coming down | Thu 7 and Sat 9 Jan | free | [registrozonaderiesgo.cba.gov.ar](https://registrozonaderiesgo.cba.gov.ar/) |
-| Out | **Night bus** Córdoba → Tucumán (see the [Cafayate guide](cafayate.md)) | **Sat 9 Jan**: El Práctico 19:50, Andesmar 20:15, Flecha cama 20:30 (all → ≈ 04:00–04:30); El Práctico 23:45 | ARS 40,000–90,000 ≈ $25–56 (✅ Plataforma10, 27 Nov) | [Plataforma10](https://www.plataforma10.com.ar/) |
+| In | **Night bus** Retiro → Córdoba (see the [Colonia guide](colonia.md)) | Day 25 → **Day 26** (El Práctico 22:20 → 07:10 or Betel 21:00 → 06:00) | ≈ $44–48 | [Plataforma10](https://www.plataforma10.com.ar/) |
+| ⚠️ Condorito | **COATA** · Córdoba terminal → La Pampilla | **Day 27 09:30 → 11:30**; back **19:40 → 21:45** (10–15 seats left) | ARS 16,900 ≈ $10 each way | flechabus.com.ar ✅ |
+| ⚠️ Los Gigantes | **Sarmiento** · Córdoba → Casas Nuevas / La Rotonda (Mon and Wed only) | **Day 28 06:15** → off at 08:40 | — | terminal window or Plataforma10 |
+| Los Gigantes | **Sarmiento** · Los Gigantes → Córdoba | **Day 30 12:04 → 13:59** | — | terminal window or Plataforma10 |
+| Champaquí | **Lep** (or Sierras de Calamuchita / Pájaro Blanco) · Córdoba → Villa General Belgrano | **Day 31 07:00 → 08:45** (≈ 33 a day; also 05:30 → 07:45) | ARS 20,200 ≈ $12.60 | [Plataforma10](https://www.plataforma10.com.ar/) (January goes on sale ≈ Day 0) |
+| ⚠️ Champaquí | **Remís** Villa General Belgrano ↔ Villa Alpina (37.8 km, ≈ 1 h; no bus) | Day 31 in; **book the Day 33 pickup ahead**, as the valley has no signal | ≈ ARS 40,000 per seat as a tour add-on (*lead*); ask for a solo fare | [VGB remís list](https://www.elsitiodelavilla.com/rubro/remises/index.php) |
+| ⚠️ Champaquí | **Sworn declaration** (Ley 9856): free, compulsory, before going up and after coming down | Day 31 and Day 33 | free | [registrozonaderiesgo.cba.gov.ar](https://registrozonaderiesgo.cba.gov.ar/) |
+| Out | **Night bus** Córdoba → Tucumán (see the [Cafayate guide](cafayate.md)) | **Day 33**: El Práctico 19:50, Andesmar 20:15, Flecha cama 20:30 (all → ≈ 04:00–04:30); El Práctico 23:45 | ARS 40,000–90,000 ≈ $25–56 (✅ Plataforma10, 27 Nov) | [Plataforma10](https://www.plataforma10.com.ar/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -80,22 +80,22 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Buenos Aires → Córdoba, Fri 1 → Sat 2 Jan
+## 🚌 Getting here: Buenos Aires → Córdoba, Day 25 → 26
 
-- The night bus from Buenos Aires (see the [Colonia guide](colonia.md)) arrives at Córdoba's **Terminal de Ómnibus (Bv. Perón 380)** early on Sat 2 Jan.
+- The night bus from Buenos Aires (see the [Colonia guide](colonia.md)) arrives at Córdoba's **Terminal de Ómnibus (Bv. Perón 380)** early on Day 26.
 - Aldea is 2.0 km from the terminal: bus 29 (14 min) or a 32-min walk.
 
 ## 🛏️ Where to sleep
 
 **The split (recommended):**
-- **Córdoba city**, Sat 2 → Mon 4 (2 nights).
-- **Los Gigantes**, Club Andino Córdoba's Refugio Aurelio Castelli, Mon 4 → Wed 6 (2 nights): this is the Sierras base.
-- **Córdoba city**, Wed 6 → Thu 7 (1 night), then the night bus to Tucumán on Thu 7.
-- **Condorito** is a day trip from the city on Sun 3, with Thu 7 as the weather backup.
+- **Córdoba city**, Day 26 → 28 (2 nights).
+- **Los Gigantes**, Club Andino Córdoba's Refugio Aurelio Castelli, Day 28 → 30 (2 nights): this is the Sierras base.
+- **Córdoba city**, Day 30 → 31 (1 night), then the night bus to Tucumán on Day 31.
+- **Condorito** is a day trip from the city on Day 27, with Day 31 as the weather backup.
 
-<details><summary><b>Why this base: the "hostels signal transit" check</b> (Booking hostel filter + Hostelworld, 3 → 7 Jan, checked 24 Nov)</summary>
+<details><summary><b>Why this base: the "hostels signal transit" check</b> (Booking hostel filter + Hostelworld, Day 27 → 31, checked 24 Nov)</summary>
 
-| Candidate | Hostels with beds 3 → 9 Jan | Car-free hiking from there | Verdict |
+| Candidate | Hostels with beds Day 27 → 33 | Car-free hiking from there | Verdict |
 |---|---|---|---|
 | **Tanti** (for Los Gigantes) | **None.** Booking's hostel filter and Hostelworld both show 0; only cabins and a family-room hostal at $41–46 a night | Los Gigantes is 55 min away on the same Sarmiento bus that starts in Córdoba (Mon and Wed only) | Fails the hostel test. Ride to Los Gigantes straight from Córdoba and sleep in the refugio |
 | Capilla del Monte | 4–6 (Falucho 9.6, Puerta Azul 8.6, Los 3 Gómez 8.6, Waysanú; Hostelworld's El Patio Valiente has a male dorm and a pool) | Uritorco costs ARS 42–50k (≈ $25–30) to enter, Los Terrones and Ongamira are also paid; little that is free | Passes the hostel test but fails "free outdoors" |
@@ -110,13 +110,13 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Unit:** a bed in a 6-bed mixed dorm, shared bathroom. Santa Rosa 447.
 - **Live-checked 24 Nov.**
 - **Ratings:** Booking 9.0 (864 reviews; **4% below 7**); Hostelworld 95 (1,137; 5% below 70 in the newest 60). Location 9.1.
-- **Total for 3 nights: $41 on Booking** (Genius room table: $28 for 2 → 4 Jan + $13 for 6 → 7 Jan; the flexible rate is $35 + $17).
+- **Total for 3 nights: $41 on Booking** (Genius room table: $28 for Day 26 → 28 + $13 for Day 30 → 31; the flexible rate is $35 + $17).
 - **Others:** Hostelworld $46.20 ($15.75 and $14.70 a night); Agoda signed-in $34.50 for 2 → 4 alone (Booking $28).
 - **Distance:** 0.8 km from Plaza San Martín, 2.0 km from the bus terminal. Take an Uber/taxi for the 06:15 bus.
 - ✅ Privacy curtains and AC in the dorms (several reviews). ✅ "Spacious" equipped kitchen.
 - Not a party hostel: reviews say "social but not too much of a party hostel" and there's a midnight noise curfew; there is a café-bar. No pool.
 
-### ⭐ Sierras nights, Mon 4 → Wed 6: Refugio Aurelio Castelli
+### ⭐ Sierras nights, Day 28 → 30: Refugio Aurelio Castelli
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T0JAST6xWAkGA6dc8fikbAtJlBRPMkbdfXiH3Xbqt3yT4wTe7u6esyQzC1OleANTDRfgOx0dVImkE92OdQimSW-Vspb9L3vXEoBxukXIoHUmOnEef3hcqKt4iDX3j8M55Kn63w=w640-h400-p-k-no" width="50%" alt="The stone refugio of Club Andino Córdoba at Los Gigantes">
 
@@ -130,14 +130,14 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ### Backup: Lacandona Hostel
 - **Location 9.6** (added 25 Nov). Nueva Córdoba, 850 m from Plaza San Martín.
-- Bed in a 6-bed mixed dorm. **$21 for 2 → 4 Jan on Booking** (free cancellation; the 4-bed mixed dorm is $24).
+- Bed in a 6-bed mixed dorm. **$21 for Day 26 → 28 on Booking** (free cancellation; the 4-bed mixed dorm is $24).
 - Booking 8.5 (216; 4% below 7).
 - ✅ Kitchen (worn but usable).
 - No bed curtains; the street can be noisy at night; AC only at night; bring cash and a plug adapter.
 
 ### Backup 2: Faz Hostel
 - ⚠️ **Location 8.8.** Av. General Paz 1539. Bed in an 8-bed mixed dorm.
-- **Total: $50.40 on Hostelworld** ($16.80 a night). Booking only has its family apartment left for 2 → 4 Jan ($162).
+- **Total: $50.40 on Hostelworld** ($16.80 a night). Booking only has its family apartment left for Day 26 → 28 ($162).
 - Hostelworld 96 (168; 2% below 70); Booking 9.4 (716; 2% below 7).
 - 1.9 km from the plaza, 2.8 km from the terminal.
 - ✅ Curtains with a light and socket at each bed, and a well-equipped kitchen (staff sometimes use it).
@@ -146,20 +146,20 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ### Private alt (location first): Alto Paraná Depto en Nueva Córdoba
 - Whole 1-bedroom apartment with kitchen. Booking **location 9.9** (51 reviews, 0% below 7).
-- **$82 for 2 → 4 Jan on Booking** (room table).
+- **$82 for Day 26 → 28 on Booking** (room table).
 - It is **0.4 km from the bus terminal**, ideal for the 06:15 bus.
-- It has **no availability for 6 → 7 Jan**. For that night, take **Hostel Alvear**'s single private room with shared bathroom, **$25.12 on Hostelworld** (0.3 km from the plaza, 1.1 km from the terminal).
+- It has **no availability for Day 30 → 31**. For that night, take **Hostel Alvear**'s single private room with shared bathroom, **$25.12 on Hostelworld** (0.3 km from the plaza, 1.1 km from the terminal).
 - Private total ≈ **$107**.
 
 ## 🌳 Things to do (free and outdoors first)
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QkiehX9SA-f_mzXvNlrf_MZTYdWwS17gzMp7nHuudHvnh33dq8U84YIP-FQQkmM8SQhsLLgILWEpzp98pqOtaZDtUtPjMherJHNQaN9ZgrOF6RPuGIcTN0yEVOJK3B9Kc6MRoH=w640-h400-p-k-no" width="100%" alt="The deep green gorge of Quebrada del Condorito"><br><b><a href="https://www.google.com/maps?ftid=0x942d47957399fb5d:0xd16bd8f0f2ffb4f4">Quebrada del Condorito NP</a></b> · free · Sun 3<br>10 km / ≈ 5 h return to the <a href="https://www.google.com/maps?ftid=0x942d47c38805da15:0xe05fed7ec822c748">Balcón Norte</a> condor viewpoint over an 800 m-deep gorge. Online registration is mandatory.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SsbFYSoj3lSIlxlhlXM58NC8RrIwJOoSnF1egy3DTusQCCUVoiwlHAaad71L5SjFbc4rzGktjJdlBJ_A4fO-E8CpNmV3Gr8v1ew56F4ATUnLzyzVAOPgVBvWo7aa4dmg9iPuMcH0eZfIE=w640-h400-p-k-no" width="100%" alt="Weathered granite slabs on the Los Gigantes massif"><br><b>Los Gigantes</b> · ranch fees ≈ ARS 2,500–5,500 (lead) · Mon 4 → Wed 6<br>A granite massif up to 2,374 m (Cerro Mogote), with trails marked by cairns. Two nights in the refugio.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QkiehX9SA-f_mzXvNlrf_MZTYdWwS17gzMp7nHuudHvnh33dq8U84YIP-FQQkmM8SQhsLLgILWEpzp98pqOtaZDtUtPjMherJHNQaN9ZgrOF6RPuGIcTN0yEVOJK3B9Kc6MRoH=w640-h400-p-k-no" width="100%" alt="The deep green gorge of Quebrada del Condorito"><br><b><a href="https://www.google.com/maps?ftid=0x942d47957399fb5d:0xd16bd8f0f2ffb4f4">Quebrada del Condorito NP</a></b> · free · Day 27<br>10 km / ≈ 5 h return to the <a href="https://www.google.com/maps?ftid=0x942d47c38805da15:0xe05fed7ec822c748">Balcón Norte</a> condor viewpoint over an 800 m-deep gorge. Online registration is mandatory.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SsbFYSoj3lSIlxlhlXM58NC8RrIwJOoSnF1egy3DTusQCCUVoiwlHAaad71L5SjFbc4rzGktjJdlBJ_A4fO-E8CpNmV3Gr8v1ew56F4ATUnLzyzVAOPgVBvWo7aa4dmg9iPuMcH0eZfIE=w640-h400-p-k-no" width="100%" alt="Weathered granite slabs on the Los Gigantes massif"><br><b>Los Gigantes</b> · ranch fees ≈ ARS 2,500–5,500 (lead) · Day 28 → 30<br>A granite massif up to 2,374 m (Cerro Mogote), with trails marked by cairns. Two nights in the refugio.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TePglwygdHRncqLt2PaT6aVi3v1pulpz3UvkmBDun5Sw3wOUon_M11eXFdTXnkIDdwJ1bCeWgEbY2wYOHZmadPustujx11pS2CTLkQaDm3Av6sII0w5-uSUd78qKIfhiaZ-fh2zRYkU_C0=w640-h400-p-k-no" width="100%" alt="A hiker in a narrow mossy granite slot at Los Cajones"><br><b><a href="https://www.google.com/maps?ftid=0x942d1300366ea105:0x9eba5e54bc3d23a9">Los Cajones</a></b> · Tue 5<br>The granite canyons of Los Gigantes, 6–8 km return from the refugio, after Mogote at dawn.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TePglwygdHRncqLt2PaT6aVi3v1pulpz3UvkmBDun5Sw3wOUon_M11eXFdTXnkIDdwJ1bCeWgEbY2wYOHZmadPustujx11pS2CTLkQaDm3Av6sII0w5-uSUd78qKIfhiaZ-fh2zRYkU_C0=w640-h400-p-k-no" width="100%" alt="A hiker in a narrow mossy granite slot at Los Cajones"><br><b><a href="https://www.google.com/maps?ftid=0x942d1300366ea105:0x9eba5e54bc3d23a9">Los Cajones</a></b> · Day 29<br>The granite canyons of Los Gigantes, 6–8 km return from the refugio, after Mogote at dawn.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPAKY1hSak31UedtAlFgQ7pl7Es8uAUMFrVfNf6Dv-7u9KJ8p_LGV3S-p_ZBWwR_dVzkpZA6vRFWMKCoZjNnCgapZV7VtUmMWMB1vsuyPKR-E1dvXMKIh4RKs4jhyPbJOFVJLD=w640-h400-p-k-no" width="100%" alt="The arcaded Cabildo of Córdoba lit up at night"><br><b><a href="https://www.google.com/maps?ftid=0x9432a28340e9d9f5:0x10d5791e61043311">Cabildo</a></b> and <b><a href="https://www.google.com/maps?ftid=0x94329902eb0b2faf:0x4382bb478dc6e982">Plaza San Martín</a></b> · free<br>The old centre, 0.8 km from the hostel.</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-### 🦅 Quebrada del Condorito NP, Sun 3 (free)
+### 🦅 Quebrada del Condorito NP, Day 27 (free)
 - ✅ **Rules** (APN's official pages):
   - Entry is free. The summer gate is open 08:00–20:00, and you should **start the Balcón Norte trail before 15:00**.
   - Without a guide, **online registration is mandatory**; on a bus, one person registers for up to 6. Show the confirmation email at the park.
@@ -176,14 +176,14 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Getting there:** only COATA and ERSA stop at **Paraje La Pampilla, km 59.5 of RP34**; buy the ticket "to La Pampilla". ✅ ERSA doesn't run at weekends, so Sunday means COATA. From the stop it's 2.5 km of gravel to the visitor centre.
 - **Bring:** 2 L of water and closed shoes (both required). There's no food or drinkable water in the park.
 - **Weather:** ✅ APN warns that RP34 closes in summer fog. Check "PROVINCIAL.ALTAS CUMBRES E-34" on the road-status page that morning.
-- **Bus times:** ✅ **COATA tickets are sold on flechabus.com.ar** (checked 24 Nov for Sun 3 and Thu 7 Jan, both on sale).
+- **Bus times:** ✅ **COATA tickets are sold on flechabus.com.ar** (checked 24 Nov for Day 27 and Day 31, both on sale).
   - **Out:** Córdoba terminal **09:30 → La Pampilla 11:30** (the 12:30 → 14:30 is too late for the trail).
   - **Back:** La Pampilla **19:40 → Córdoba 21:45**, the only afternoon service (the other is 10:40).
   - ARS 16,900 ≈ $10 each way; 10–15 seats left.
   - That gives 8 h at the park: plenty for Balcón Norte plus the river, with time to wait out a storm.
-- **Thu 7 backup:** the same 09:30 / 19:40 buses run. Coming back at 21:45 means **taking the 23:45 El Práctico night bus** to Tucumán (then Aconquija 10:00 → 16:20), not the 20:15/20:30 ones.
+- **Day 31 backup:** the same 09:30 / 19:40 buses run. Coming back at 21:45 means **taking the 23:45 El Práctico night bus** to Tucumán (then Aconquija 10:00 → 16:20), not the 20:15/20:30 ones.
 
-### ⛰️ Los Gigantes, Mon 4 → Wed 6
+### ⛰️ Los Gigantes, Day 28 → 30
 - **The massif:** granite, up to 2,374 m. Trails are marked by cairns, so carry the Wikiloc track offline; there is no phone signal on the massif.
 - **Mon:** get off the 08:40 bus at **Casas Nuevas** or **La Rotonda** on RP28 and walk ≈ 6–6.5 km (+450 m, 2–3 h) up to the refugio. In the afternoon, do Cerro de la Cruz and the Cueva de la Salamanca (≈ 4–5 km).
 - **Tue:** go up **Cerro Mogote (2,374 m)** at dawn (≈ 2 km from the refugio, light scrambling at the top), then the **Los Cajones** granite canyons (6–8 km return).
@@ -194,27 +194,27 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Córdoba's risk-zone **sworn declaration** (Declaración Jurada, free; online or by QR at the trailhead) is required going up and coming down *(≈ lead, check the form on cba.gov.ar)*.
 - **Weather:** afternoon storms and fog are common in January, so be off the summits by noon.
 
-### ⛰️ Cerro Champaquí (2,790 m), Thu 7 → Sat 9 Jan
+### ⛰️ Cerro Champaquí (2,790 m), Day 31 → 33
 The highest summit in the Sierras de Córdoba, as a 2-day out-and-back from Villa Alpina (added 27 Nov).
 - **Rules:** a free sworn declaration is compulsory before going up and again after coming down (Ley 9856, Decreto 1525/12), at [registrozonaderiesgo.cba.gov.ar](https://registrozonaderiesgo.cba.gov.ar/) or by the QR code at the access post. The province **recommends** a licensed guide but doesn't require one ✅ [Secretaría de Ambiente](https://ambiente.cba.gov.ar/champaqui-uritorco-y-los-gigantes-como-registrarse-para-visitar-zonas-de-riesgo/).
-- **Day 1:** Villa Alpina (1,230 m) → Valle del Tabaquillo refuges, **15 km, +800 m, 6–8 h**, past the pine forest, Moisés López, Arroyo Socavón and the Desierto de la Virgen (*lead*: MONS, champaqui.com.ar).
-- **Day 2:** refuge → summit **6 km, +690 m, ≈ 3 h** via the Cueva de los 40, then back down to Villa Alpina: ≈ 27 km and 10–12 h in all.
+- **Day 31:** Villa Alpina (1,230 m) → Valle del Tabaquillo refuges, **15 km, +800 m, 6–8 h**, past the pine forest, Moisés López, Arroyo Socavón and the Desierto de la Virgen (*lead*: MONS, champaqui.com.ar).
+- **Day 32:** refuge → summit **6 km, +690 m, ≈ 3 h** via the Cueva de los 40, then back down to Villa Alpina: ≈ 27 km and 10–12 h in all.
 - **Refuges** (Valle del Tabaquillo): Puesto Doña Nena / Domínguez (100+ years old; WhatsApp +54 351 680-4456), Puesto de Irene (≈ 80 beds), Refugio de Tary (the largest, cash only, solar showers), Puesto de los Soles. Shared bunk rooms, dinner and breakfast, a few groceries; bring a sleeping bag. None publishes a solo price; book by WhatsApp. A mule for the pack ≈ ARS 19,000–40,000.
 - **Risks:** fog over a web of crossing paths, and afternoon storms in January. Carry an offline track and a spare battery, and be off the summit by late morning.
 - **West traverse (not planned):** down the Cuesta de las Cabras to San Javier (4–5 h), then buses to Mina Clavero. Its path starts inside Estancia La Constancia, a private ranch, so ask about access first; on Saturdays Mina Clavero → Córdoba runs only at 09:40 and 18:40.
 
-### 🏙️ Córdoba city (Sat 2, Wed 6 afternoon, Sat 9 afternoon; free first)
+### 🏙️ Córdoba city (Day 26, Day 30 afternoon, Day 33 afternoon; free first)
 - The **Güemes** neighbourhood and its **Paseo de las Artes** craft fair (weekend afternoons).
 - **Parque Sarmiento** and **Nueva Córdoba**.
 - The **La Cañada** stream walk.
 - The old centre around **Plaza San Martín and the Cabildo**.
-- **Free museums on Wednesdays** ✅ (museocaraffa.org.ar, 26 Nov): entry is free at all of Córdoba's provincial museums on Wednesdays. That fits Wed 6 after the 13:59 bus.
+- **Free museums on Wednesdays** ✅ (museocaraffa.org.ar, 26 Nov): entry is free at all of Córdoba's provincial museums on Wednesdays. That fits Day 30 after the 13:59 bus.
   - **Museo Caraffa** (Av. Poeta Lugones 411, by Parque Sarmiento): Tue–Sun 10:00–17:30; ARS 5,000 on other days.
   - **Palacio Ferreyra** (Museo Evita, Av. H. Yrigoyen 551): fine art in a mansion on the same "Milla Cultural" (LP).
 - **Paseo del Buen Pastor** (Av. H. Yrigoyen 325): a free gallery of young local artists, also on the Milla Cultural (LP).
 - **Museo de la Memoria** (Pasaje Santa Catalina 1, beside Plaza San Martín): free. It occupies the dictatorship's former D2 detention and torture centre. Afternoons only; closed Mondays (LP).
-- **Manzana Jesuítica** (UNESCO, paid): the Museo Histórico UNC shows the Jesuit library and the old university rooms. ✅ January hours are Mon–Sat 9:30–14:30, entry by contribution, with Spanish tours at 11:00 (English at 10:00 if booked 24 h ahead) (museohistorico.unc.edu.ar). Sat 2 or Thu 7 morning.
-- **Thu 7 alternative, if Condorito doesn't need a redo:** a UNESCO Jesuit estancia, ≈ 1 h by minibus (LP).
+- **Manzana Jesuítica** (UNESCO, paid): the Museo Histórico UNC shows the Jesuit library and the old university rooms. ✅ January hours are Mon–Sat 9:30–14:30, entry by contribution, with Spanish tours at 11:00 (English at 10:00 if booked 24 h ahead) (museohistorico.unc.edu.ar). Day 26 or Day 31 morning.
+- **Day 31 alternative, if Condorito doesn't need a redo:** a UNESCO Jesuit estancia, ≈ 1 h by minibus (LP).
   - **Alta Gracia** (35 km): the estancia's Museo Virrey Liniers (free per LP) and Che Guevara's boyhood home, now a paid museum.
   - **Jesús María** (51 km): LP's pick if you see only one Jesuit estancia; museum free per LP, Tue–Sun.
 
@@ -238,7 +238,7 @@ The highest summit in the Sierras de Córdoba, as a 2-day out-and-back from Vill
 - **Craft beer:** [Cervecearte](https://www.google.com/maps?ftid=0x9432a30078c434e1:0xf5d7e7bcf27d089c) (Achával Rodríguez 371, Güemes) or Craft Beer Community House (Independencia 572). A pint is ≈ ARS 3,500–6,000 (≈ $2–4), with happy hour 18–20 h.
 
 **Lonely Planet picks (LP; prices in the book are long out of date):**
-- **Mercado Norte** (Oncativo 50): the indoor market's stalls sell cheap empanadas, pizza and seafood. Mon–Fri 7:00–19:30, Sat to 14:30, so it works for breakfast or lunch after the Sat 2 night bus.
+- **Mercado Norte** (Oncativo 50): the indoor market's stalls sell cheap empanadas, pizza and seafood. Mon–Fri 7:00–19:30, Sat to 14:30, so it works for breakfast or lunch after the Day 26 night bus.
 - **La Candela** (Duarte Quirós 67): no-frills locro and empanadas in an old house.
 - **Quadrata** (9 de Julio 458): cheap pizza by the slice, pasta and panini.
 - **Beer Joint** (Achával Rodríguez 183, Güemes): craft beer with LP's best Güemes happy hour (18–21 h).
@@ -260,15 +260,15 @@ The highest summit in the Sierras de Córdoba, as a 2-day out-and-back from Vill
 **Or switch the Sierras base to Mina Clavero.** It is 1 h past La Pampilla on COATA, but drops Los Gigantes.
 - **Andamundos Hostel:** Booking 9.1, 143 reviews, 7% below 7, 8-bed dorm $60 for 3 nights.
 - **El Viaje Hostel:** 9.1, 35 reviews, 3% below 7, 6-bed dorm $57 for 3 nights.
-- Both live 3 → 6 Jan.
+- Both live Day 27 → 30.
 - ✅ COATA Córdoba 09:30 → Mina Clavero 12:35 (or 12:30 → 15:35), ARS 22,700 ≈ $14.
-- ✅ Back: 09:40, 13:30 or 18:40 → Córdoba in 3 h 05 (flechabus.com.ar, Sun 3 Jan).
+- ✅ Back: 09:40, 13:30 or 18:40 → Córdoba in 3 h 05 (flechabus.com.ar, Day 27).
 
 </details>
 
-## 🚌 Leaving: Córdoba → Tucumán → Cafayate, Sat 9 → Sun 10 Jan
+## 🚌 Leaving: Córdoba → Tucumán → Cafayate, Day 33 → 34
 
-- **Night bus Sat 9 Jan**: El Práctico 19:50 (ARS 40,000), Andesmar 20:15 ($31) or Flecha Bus cama 20:30 ($56), all reaching Tucumán ≈ 04:00–04:30; or El Práctico 23:45 → 07:10.
+- **Night bus Day 33**: El Práctico 19:50 (ARS 40,000), Andesmar 20:15 ($31) or Flecha Bus cama 20:30 ($56), all reaching Tucumán ≈ 04:00–04:30; or El Práctico 23:45 → 07:10.
 - Then the Aconquija bus over the Infiernillo pass to Cafayate. Times, fares and where to buy are in the [Cafayate guide](cafayate.md).
 
 ---

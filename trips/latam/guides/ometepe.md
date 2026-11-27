@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) · [Granada + Laguna de Apoyo](granada.md) →
 
-> **Stop 33 · Fri 26 Feb → Mon 1 Mar 2027 · 3 nights**<br>
+> **Stop 33 · Day 81 → 84 · 3 nights**<br>
 > 🏞️ Twin-volcano island in Lake Nicaragua; climb Volcán Concepción from Moyogalpa<br>
 > 🛏️ **Guest House Nena**, a private double 0.3 km from the port, $36 for 3 nights<br>
-> 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Fri · **Out:** morning ferry to San Jorge, then the bus to Granada, Mon 1 Mar
+> 🚌 **In:** bus to Rivas + ferry San Jorge → Moyogalpa, Fri · **Out:** morning ferry to San Jorge, then the bus to Granada, Day 84
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNqfuifD5gmjptUngsU_O0ULeSapCuKEa9JWQJFMe7HDfOXGj8PLM-EYeEqna80k5uetV3T8iBHGn98aYuDsTwjJGUIHyzUjOmXqbCKs8ygbT5OO3rGppz4BivqFArx8g02aPF=w1200-h360-p-k-no" alt="Volcán Concepción rising from Lake Nicaragua" width="100%">
 
@@ -29,16 +29,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Fri 26 Feb | 🚌 San Juan del Sur → Rivas → San Jorge → ⛴️ ferry to **Moyogalpa** (≈ 3 h). Walk 7 min to the guest house. **Book the Concepción guide today** for Tuesday. 🌅 Sunset at **Punta Jesús María** (free). |
-| **Day 2** · Sat 27 Feb | 🌋 **Volcán Concepción** with a guide: meet ~04:00–05:00, 8–10 h return. Take 3 L of water. |
-| **Day 3** · Sun 28 Feb | 🛵 Scooter day: **Ojo de Agua** spring pool (small fee) and **Playa Santo Domingo** (free). |
-| **Day 4** · Mon 1 Mar | ⛴️ Morning ferry (≤ 09:00) to San Jorge → 🚌 Rivas → **Granada**. |
+| **Day 81** | 🚌 San Juan del Sur → Rivas → San Jorge → ⛴️ ferry to **Moyogalpa** (≈ 3 h). Walk 7 min to the guest house. **Book the Concepción guide today** for Tuesday. 🌅 Sunset at **Punta Jesús María** (free). |
+| **Day 82** | 🌋 **Volcán Concepción** with a guide: meet ~04:00–05:00, 8–10 h return. Take 3 L of water. |
+| **Day 83** | 🛵 Scooter day: **Ojo de Agua** spring pool (small fee) and **Playa Santo Domingo** (free). |
+| **Day 84** | ⛴️ Morning ferry (≤ 09:00) to San Jorge → 🚌 Rivas → **Granada**. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov (the beds were live-checked again on 25 Nov). ⚠️ = time-sensitive.
 
-**Beds** (26 Feb → 1 Mar, 3 nights)
+**Beds** (Day 81 → 84, 3 nights)
 
 | | Where | Total | Location | From the ferry port | Book |
 |---|---|---:|:---:|---|---|
@@ -51,9 +51,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Bus San Juan del Sur → Rivas, taxi to San Jorge, **ferry San Jorge → Moyogalpa** | **Fri 26 Feb**, ferries 07:00–17:45 (~70 min) | ≈ $4–5 | [ferry timetable](https://www.ometepeislandinfo.com/) |
-| ⚠️ Tour | **Volcán Concepción**, guide mandatory | **Sat 27 Feb**, meet ~04:00–05:00 | ≈ $25–35 + ≈ $3 | hostels / local guides in Moyogalpa (book on arrival) |
-| Out | **Ferry Moyogalpa → San Jorge**, then Rivas → Granada | **Mon 1 Mar**, a morning ferry (≤ 09:00) | ≈ $4–6 | [ferry timetable](https://www.ometepeislandinfo.com/) |
+| In | Bus San Juan del Sur → Rivas, taxi to San Jorge, **ferry San Jorge → Moyogalpa** | **Day 81**, ferries 07:00–17:45 (~70 min) | ≈ $4–5 | [ferry timetable](https://www.ometepeislandinfo.com/) |
+| ⚠️ Tour | **Volcán Concepción**, guide mandatory | **Day 82**, meet ~04:00–05:00 | ≈ $25–35 + ≈ $3 | hostels / local guides in Moyogalpa (book on arrival) |
+| Out | **Ferry Moyogalpa → San Jorge**, then Rivas → Granada | **Day 84**, a morning ferry (≤ 09:00) | ≈ $4–6 | [ferry timetable](https://www.ometepeislandinfo.com/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: San Juan del Sur → Rivas → San Jorge → Moyogalpa, Fri 26 Feb
+## 🚌 Getting here: San Juan del Sur → Rivas → San Jorge → Moyogalpa, Day 81
 
 - **San Juan del Sur → Rivas** bus: frequent, ~45 min, ≈ C$30–40.
 - **Rivas → San Jorge port:** taxi or colectivo, 5 km (≈ C$20–30 shared).
@@ -85,7 +85,7 @@ Beds live-checked 25 Nov, chosen for location.
 
 ### ⭐ Pick: Guest House Nena (Moyogalpa)
 - **Unit:** private double room.
-- **Price:** **$36 for 3 nights** (room table) on Booking.com; free cancellation to 21 Feb; breakfast $3.50.
+- **Price:** **$36 for 3 nights** (room table) on Booking.com; free cancellation to Day 76; breakfast $3.50.
 - **Reviews:** Booking 8.6 (151 reviews; 4% below 7), location **9.4**.
 - **Where:** 0.3 km from the port, 5 min on foot to the centre.
 - **Why it fits:** family-run, very clean, free Wi-Fi 10, bike rental. The private costs only $5–6 more than the dorms below.
@@ -121,7 +121,7 @@ Beds live-checked 25 Nov, chosen for location.
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QmXCuOIk846qQbef40YeTrVaRU3fKSWHNm9r2bnoErWH9eR8UcP-N-6QsaWpRRO1bRrv2aSEQxj5w0bf25-uEGJlgrkGP0j_6xK5mztoHWCzKAnhNDlEmzrKNCPudZYWNA5uNuIg=w640-h400-p-k-no" width="100%" alt="The Ojo de Agua spring pool in the forest"><br><b><a href="https://www.google.com/maps?ftid=0x8f74f7a3fa87ea09:0xdd8c18a1d8301286">Ojo de Agua</a></b> · small fee · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5190588,-85.5669624&travelmode=driving">🚕 ≈ 37 min</a><br>A spring pool, on a scooter day.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ts1iPPwdz8FBGMdimd97oqdh1t8IQcYl3shZ3l3bkPZVIzTj8pKOVnmlj4ThFEUjzlzH2Np_w_Tc1JcNgvI_URk857ghV7pUvGf8hnvXdhHgmunj0zi8PuIf5kWKv3_uzKYN70-sePSdd5=w640-h400-p-k-no" width="100%" alt="The upper cone of Volcán Concepción"><br><b><a href="https://www.google.com/maps?ftid=0x8f74588ae68a7515:0xd80db4aa733c53e7">Volcán Concepción</a></b> (1,610 m) · ≈ $25–35 + ≈ $3 fee · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5397222,-85.6213889&travelmode=driving">🚕 ≈ 43 min</a><br>Guide mandatory. 8–10 h return, steep loose scree at the top. <b>Sat 27 Feb.</b></td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ts1iPPwdz8FBGMdimd97oqdh1t8IQcYl3shZ3l3bkPZVIzTj8pKOVnmlj4ThFEUjzlzH2Np_w_Tc1JcNgvI_URk857ghV7pUvGf8hnvXdhHgmunj0zi8PuIf5kWKv3_uzKYN70-sePSdd5=w640-h400-p-k-no" width="100%" alt="The upper cone of Volcán Concepción"><br><b><a href="https://www.google.com/maps?ftid=0x8f74588ae68a7515:0xd80db4aa733c53e7">Volcán Concepción</a></b> (1,610 m) · ≈ $25–35 + ≈ $3 fee · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.5397222,-85.6213889&travelmode=driving">🚕 ≈ 43 min</a><br>Guide mandatory. 8–10 h return, steep loose scree at the top. <b>Day 82.</b></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Laguna_de_Maderas_by_ET.jpg/500px-Laguna_de_Maderas_by_ET.jpg" width="100%" alt="The crater lagoon of Volcán Maderas"><br><b><a href="https://www.google.com/maps?ftid=0x8f74fa2b58570c7b:0x2781ee7b008cacae">Volcán Maderas</a></b> (1,394 m) · ≈ $20–30 + C$100 · <a href="https://www.google.com/maps/dir/?api=1&origin=11.541681,-85.6979299&destination=11.446,-85.515&travelmode=driving">🚕 ≈ 1 h 18 min</a><br>The alternative: cloud forest and a crater lagoon (in the photo), muddy. 6–8 h.</td>
@@ -133,7 +133,7 @@ Beds live-checked 25 Nov, chosen for location.
 - **Price:** ≈ **$25–35 per person** in a small group from Moyogalpa (hostels/local guides; AI lead) + a small reserve fee (≈ $3).
 - **Time:** **meet ~04:00–05:00**, 8–10 h return. Steep loose scree at the top.
 - Guides check volcanic activity before leaving (Epic Hikes).
-- **Book the day you arrive** for Sat 27 Feb. Take 3 L of water.
+- **Book the day you arrive** for Day 82. Take 3 L of water.
 
 **Volcán Maderas (1,394 m), the alternative:**
 - Cloud forest and a crater lagoon, muddy. 6–8 h.
@@ -161,7 +161,7 @@ Craft beer: none known.
 - **Take 3 L of water** up Concepción.
 - **Windy lake:** prefer the big ferries to the lanchas on February afternoons.
 
-## 🚌 Leaving: Moyogalpa → San Jorge → Rivas → Granada, Mon 1 Mar
+## 🚌 Leaving: Moyogalpa → San Jorge → Rivas → Granada, Day 84
 
 - **Ferry Moyogalpa → San Jorge:** 05:30, 06:00, 06:30 (lancha), 06:45, 07:00 (lancha), 09:00, 10:00, 11:00, 11:30, 12:30, 13:00 (lancha), 14:00, 15:00 (lancha), 16:00, 17:30 (≈ ometepeislandinfo.com).
 - Take a **morning ferry (≤ 09:00)** for the better bus connections. Bus details are in the [Granada](granada.md) guide.

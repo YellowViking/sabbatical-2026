@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Rio de Janeiro](rio-de-janeiro.md) · [Paraty](paraty.md) →
 
-> **Stop 2 · Sat 12 → Mon 14 Dec 2026 · 2 nights · weekend ferry timetable**<br>
+> **Stop 2 · Day 5 → 7 · 2 nights · weekend ferry timetable**<br>
 > 🏞️ A car-free island of beaches and forest; every trail starts in Vila do Abraão<br>
 > 🛏️ **Lila Limão Hostel**, a bed in a 6-bed mixed ensuite dorm, $45 for 2 nights<br>
-> 🚌 **In:** Costa Verde 07:00 to Conceição de Jacareí + Porto Real flex boat 09:30, Sat 12 · **Out:** Barcas ferry Abraão → Angra 10:00, then Colitur to Paraty, Mon 14
+> 🚌 **In:** Costa Verde 07:00 to Conceição de Jacareí + Porto Real flex boat 09:30, Day 5 · **Out:** Barcas ferry Abraão → Angra 10:00, then Colitur to Paraty, Day 7
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXD7rjE0KvzYeZBi57Dl1dLxzE4WZEUcY2byXKqzD-wVefQZBBDNHK0HPimftt7O6YIzu2ocIisQ3Kwx03bgJBG99BmQQrAy33YcVDW9D4ew8f0GPZfRsU90tRjZ0cbuODXTdA=w1200-h360-p-k-no" alt="Praia do Abraão: rocks, boats and the forested hills of Ilha Grande" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 12 Dec | 🚇 Metro + VLT to Novo Rio by ~06:40, **Costa Verde 07:00** (Rio–Paraty bus) → off at **Conceição de Jacareí** ≈ 09:00, 🚤 **Porto Real flex boat 09:30** → Abraão ~09:50 (next boat 12:30). 🥾 **Lopes Mendes trail** (≈ 6 km, 2½–3 h each way, via Palmas and Pouso; boat back from Pouso ≈ R$ 30–40). Arriving late? Praia Preta, the Lazareto ruins and the Aqueduto, then sunset on the beach. |
-| **Day 2** · Sun 13 Dec | 🥾 **Pico do Papagaio** (982 m) at sunrise: groups leave ~02:00 and are back ~09:30; decide the night before. Afternoon: the 6 km dirt road to **Dois Rios** beach and the old prison (Museu do Cárcere, Tue–Sun 10–16 ≈). |
-| **Day 3** · Mon 14 Dec | 🌅 07:00 shore walk to Abraãozinho, then the ⛴️ **10:00 ferry** to Angra and the bus to Paraty. |
+| **Day 5** | 🚇 Metro + VLT to Novo Rio by ~06:40, **Costa Verde 07:00** (Rio–Paraty bus) → off at **Conceição de Jacareí** ≈ 09:00, 🚤 **Porto Real flex boat 09:30** → Abraão ~09:50 (next boat 12:30). 🥾 **Lopes Mendes trail** (≈ 6 km, 2½–3 h each way, via Palmas and Pouso; boat back from Pouso ≈ R$ 30–40). Arriving late? Praia Preta, the Lazareto ruins and the Aqueduto, then sunset on the beach. |
+| **Day 6** | 🥾 **Pico do Papagaio** (982 m) at sunrise: groups leave ~02:00 and are back ~09:30; decide the night before. Afternoon: the 6 km dirt road to **Dois Rios** beach and the old prison (Museu do Cárcere, Tue–Sun 10–16 ≈). |
+| **Day 7** | 🌅 07:00 shore walk to Abraãozinho, then the ⛴️ **10:00 ferry** to Angra and the bus to Paraty. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (12 → 14 Dec, 2 nights)
+**Beds** (Day 5 → 7, 2 nights)
 
 | | Where | Total | Location | From the ferry pier | Book |
 |---|---|---:|:---:|---|---|
@@ -50,10 +50,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Costa Verde** Rio–Paraty bus, Novo Rio → Conceição de Jacareí (ask to get off) | **Sat 12 Dec 07:00** → ≈ 09:00 (also 08:00, 09:00) | ≈ R$ 60 (fare to Jacareí not published) | [Costa Verde timetable](https://www.costaverdetransportes.com.br/linhas-horarios) · buy at Novo Rio |
+| In | **Costa Verde** Rio–Paraty bus, Novo Rio → Conceição de Jacareí (ask to get off) | **Day 5 07:00** → ≈ 09:00 (also 08:00, 09:00) | ≈ R$ 60 (fare to Jacareí not published) | [Costa Verde timetable](https://www.costaverdetransportes.com.br/linhas-horarios) · buy at Novo Rio |
 | ⚠️ In | **Porto Real** flex boat, Cais Porto Real (Conceição de Jacareí) → Abraão | **09:30** → 09:50 (also 12:30, 14:00, 17:00) | R$ 65 one way (+ ≈ R$ 10.30 boarding fee) | [Porto Real](https://portorealilhagrande.com.br/travessias-flex-boat) · WhatsApp +55 24 99225 4922 |
-| Cheapest | Costa Verde 05:00 → Mangaratiba + **Barcas Rio** ferry 08:00 → Abraão 09:50 | Sat 12 Dec | R$ 78.49 ($13) | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
-| Out | **Barcas Rio** ferry Abraão → Angra | **Mon 14 Dec 10:00** → ~11:45 | R$ 20.50 | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
+| Cheapest | Costa Verde 05:00 → Mangaratiba + **Barcas Rio** ferry 08:00 → Abraão 09:50 | Day 5 | R$ 78.49 ($13) | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
+| Out | **Barcas Rio** ferry Abraão → Angra | **Day 7 10:00** → ~11:45 | R$ 20.50 | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,14 +63,14 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Rio → Ilha Grande, Sat 12 Dec
+## 🚌 Getting here: Rio → Ilha Grande, Day 5
 
 Web sweep and operator pages, 27 Nov. The cheap state ferry from Mangaratiba runs **once a day at 08:00**, which is why the cheapest option means a 04:00 alarm. The private boats from Conceição de Jacareí, 20 minutes across, let you sleep two hours longer and still land at 09:50.
 
 | Option | Route | Leave Copacabana | Arrive Abraão | Cost |
 |---|---|---|---|---|
 | ⭐ **A. Recommended** | Metro + VLT to Novo Rio, **Costa Verde 07:00** (the Rio–Paraty bus; ask for Conceição de Jacareí, *lead*) → **Porto Real flex boat 09:30** (✅ times on travessiailhagrande.com; R$ 65 ✅ portorealilhagrande.com.br) | ≈ 06:00 | **09:50** (next boat 12:30 → 12:50) | ≈ R$ 135 ($23) + metro |
-| B. Door-to-door | **Top Transfer** shared van + speedboat from the hostel (GetYourGuide, 4.0 from 903 reviews): pickups 05:45–07:15 or 08:45–10:15; free cancellation to 24 h | hostel pickup | ≈ 10:00 or ≈ 13:00 | **$44** (✅ GetYourGuide for 12 Dec) |
+| B. Door-to-door | **Top Transfer** shared van + speedboat from the hostel (GetYourGuide, 4.0 from 903 reviews): pickups 05:45–07:15 or 08:45–10:15; free cancellation to 24 h | hostel pickup | ≈ 10:00 or ≈ 13:00 | **$44** (✅ GetYourGuide for Day 5) |
 | C. Cheapest | Uber to Novo Rio ~04:15, **Costa Verde 05:00 → Mangaratiba 07:10**, **Barcas Rio ferry 08:00** (R$ 20.50 ✅ barcasrio.com.br) | 04:15 | 09:50 | **R$ 78.49 ($13)** + Uber |
 | D. Via Angra | **Costa Verde 07:00 → Angra 11:02**, walk ≈ 1.5 km to Cais de Santa Luzia, private boat **12:30** (also 13:30, 15:00; 35 min) or the state ferry 13:30 | ≈ 06:00 | 13:05–15:20 | ≈ R$ 160 ($28), or R$ 101 with the ferry |
 
@@ -125,26 +125,26 @@ No cars on the island; every trail starts in Abraão.
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZYl59EIL5wzh8HBtkGoiMlwE3JLXahFO9tOtDfyXM1quakGGgoYc8TwBbHWepuVSQPDi1KwrNqxDU-TZOx9lUQZTRJp9fan_slo9sevjGWbUST1-qLLDYNsI23pUIWwT1q-uPBMidenLH=w640-h400-p-k-no" width="100%" alt="Lopes Mendes beach from the air"><br><b><a href="https://www.google.com/maps?ftid=0x9c5e806c6639db:0x33b22acf6bf930f6">Lopes Mendes trail</a></b> · free · Sat 12 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1669785,-44.1392836&travelmode=driving">🚕 ≈ 50 min</a><br>About 6 km and 2½–3 h each way from Abraão, via Palmas and Pouso.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZYl59EIL5wzh8HBtkGoiMlwE3JLXahFO9tOtDfyXM1quakGGgoYc8TwBbHWepuVSQPDi1KwrNqxDU-TZOx9lUQZTRJp9fan_slo9sevjGWbUST1-qLLDYNsI23pUIWwT1q-uPBMidenLH=w640-h400-p-k-no" width="100%" alt="Lopes Mendes beach from the air"><br><b><a href="https://www.google.com/maps?ftid=0x9c5e806c6639db:0x33b22acf6bf930f6">Lopes Mendes trail</a></b> · free · Day 5 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1669785,-44.1392836&travelmode=driving">🚕 ≈ 50 min</a><br>About 6 km and 2½–3 h each way from Abraão, via Palmas and Pouso.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StnXx4_J7mybUKOBMJwAL3hDyit5U5Ct7H0DE4swDwVNHeKvsRJ4FwqX5-ipsInqpyPEDS2IZZaXK_1gvuFZyMkcPRp6E1jZhKibjsvKsXqzdEzefDkb7cUiUUj9tSGr4iuo4o=w640-h400-p-k-no" width="100%" alt="Pouso beach on the Lopes Mendes trail"><br><b><a href="https://www.google.com/maps?ftid=0x9c5c2ea4451049:0x7443d71c75bd9e98">Pouso</a></b> · boat back ≈ R$ 30–40 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1590695,-44.1391644&travelmode=driving">🚕 ≈ 33 min</a><br>On the way to Lopes Mendes; boats run back to Abraão from here.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pico_do_Papagaio_-_Ilha_Grande_-_RJ.jpg/500px-Pico_do_Papagaio_-_Ilha_Grande_-_RJ.jpg" width="100%" alt="The beak-shaped summit rock of Pico do Papagaio"><br><b><a href="https://www.google.com/maps?ftid=0x9c596f6a76a38f:0x8a3c8d9d854a3009">Pico do Papagaio</a></b> (982 m) · guide ≈ $20–40 · Sun 13 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1548768,-44.1969513&travelmode=driving">🚕 ≈ 34 min</a><br>Steep 6 km, at sunrise. Solo in daylight is free; don't climb in the dark alone.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Twa6XGx24XPrnfDifbWhHxaz4qQQQbA0bwyYNDmCDQdrSwLT9HHelJatwAk48-gxHh3MiqAYAR0MLgvx7F9bFCSLSCNjXnqHPAH4Gx6yVSJ0SJM9SysLjU6TLutNI6dKOU1Q=w640-h400-p-k-no" width="100%" alt="Dois Rios beach and the forested hills behind it"><br><b><a href="https://www.google.com/maps?ftid=0x9c592069427a2b:0x7f0799ba5f249dae">Dois Rios</a></b> · free · Sun 13 afternoon · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.181336,-44.1873002&travelmode=driving">🚕 ≈ 52 min</a><br>A 6 km dirt road to the beach and the old prison; the <a href="https://www.google.com/maps?ftid=0x9c591f96388be5:0x405198f98df747e4">Museu do Cárcere</a> opens Tue–Sun 10–16 ≈.</td>
+<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pico_do_Papagaio_-_Ilha_Grande_-_RJ.jpg/500px-Pico_do_Papagaio_-_Ilha_Grande_-_RJ.jpg" width="100%" alt="The beak-shaped summit rock of Pico do Papagaio"><br><b><a href="https://www.google.com/maps?ftid=0x9c596f6a76a38f:0x8a3c8d9d854a3009">Pico do Papagaio</a></b> (982 m) · guide ≈ $20–40 · Day 6 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1548768,-44.1969513&travelmode=driving">🚕 ≈ 34 min</a><br>Steep 6 km, at sunrise. Solo in daylight is free; don't climb in the dark alone.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Twa6XGx24XPrnfDifbWhHxaz4qQQQbA0bwyYNDmCDQdrSwLT9HHelJatwAk48-gxHh3MiqAYAR0MLgvx7F9bFCSLSCNjXnqHPAH4Gx6yVSJ0SJM9SysLjU6TLutNI6dKOU1Q=w640-h400-p-k-no" width="100%" alt="Dois Rios beach and the forested hills behind it"><br><b><a href="https://www.google.com/maps?ftid=0x9c592069427a2b:0x7f0799ba5f249dae">Dois Rios</a></b> · free · Day 6 afternoon · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.181336,-44.1873002&travelmode=driving">🚕 ≈ 52 min</a><br>A 6 km dirt road to the beach and the old prison; the <a href="https://www.google.com/maps?ftid=0x9c591f96388be5:0x405198f98df747e4">Museu do Cárcere</a> opens Tue–Sun 10–16 ≈.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOaqUWptXseyglJTNa9IJN3R1CybqCLm2mngRyss1UDxzOZvgX2dhxJ_MnmXhRYLbkw5QWJjO7u688NwZD__5_bUhFfi3B3P1PBp8LtEQAKriAS4T0xpFWiUzfGYQSutS4krA=w640-h400-p-k-no" width="100%" alt="Arches of the old aqueduct in the forest near Abraão"><br><b><a href="https://www.google.com/maps?ftid=0x9c5b8ab59aa0ef:0x570f93e622e70a7c">Aqueduto</a>, <a href="https://www.google.com/maps?ftid=0x9c5c75968af57f:0x5d120ef72ee08fc5">Lazareto ruins</a> and <a href="https://www.google.com/maps?ftid=0x9c5c74fb5e3ebd:0x23b96ae92ab95cb1">Praia Preta</a></b> · free<br>A 20-min walk from the village. The plan if you arrive late on Saturday.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJ6PChmGep2olvCceF6uZyqOstDjyRo7VY3ZdmCCm6DHd3BfqQ2BxUROCesqfIM61EuBc65HsmU88-lEFnYLW1OpoSrUzFRlHCgRzhP1j5RS-uheXQN43M9jhXsD93IfQo1ri-=w640-h400-p-k-no" width="100%" alt="Abraãozinho beach"><br><b><a href="https://www.google.com/maps?ftid=0x9c5c425a11912b:0xfa7d86230c26ee0c">Abraãozinho</a></b> · free · Mon 14, 07:00 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1353734,-44.1523343&travelmode=walking">🚶 13 min</a><br>A short shore walk before the 10:00 ferry.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJ6PChmGep2olvCceF6uZyqOstDjyRo7VY3ZdmCCm6DHd3BfqQ2BxUROCesqfIM61EuBc65HsmU88-lEFnYLW1OpoSrUzFRlHCgRzhP1j5RS-uheXQN43M9jhXsD93IfQo1ri-=w640-h400-p-k-no" width="100%" alt="Abraãozinho beach"><br><b><a href="https://www.google.com/maps?ftid=0x9c5c425a11912b:0xfa7d86230c26ee0c">Abraãozinho</a></b> · free · Day 7, 07:00 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.1412827,-44.1702562&destination=-23.1353734,-44.1523343&travelmode=walking">🚶 13 min</a><br>A short shore walk before the 10:00 ferry.</td>
 </tr>
 </table>
 
-- **Sat 12 (with option A): the Lopes Mendes trail.** About 6 km and 2½–3 h each way, via Palmas and Pouso. Free. A boat back from Pouso is ≈ R$ 30–40. If you arrive late, walk to Praia Preta, the Lazareto ruins and the Aqueduto (20 min, free) and watch sunset from the beach.
-- **Day 2 (Sun 13 Dec): Pico do Papagaio (982 m) at sunrise (backlog).**
+- **Day 5 (with option A): the Lopes Mendes trail.** About 6 km and 2½–3 h each way, via Palmas and Pouso. Free. A boat back from Pouso is ≈ R$ 30–40. If you arrive late, walk to Praia Preta, the Lazareto ruins and the Aqueduto (20 min, free) and watch sunset from the beach.
+- **Day 6: Pico do Papagaio (982 m) at sunrise (backlog).**
   - Steep 6 km. Groups leave ~02:00 and are back ~09:30.
   - A guide is ≈ $20–40. Going solo in daylight is free, but don't climb in the dark alone.
   - Decide the night before from the forecast; the summit is often clouded in December.
-- **Sun 13 afternoon:** the 6 km dirt road to **Dois Rios** beach and the old prison. The **Museu do Cárcere is open Tue–Sun 10–16** (LP ≈), so Sunday works.
-- **Day 3 (Mon 14 Dec):** a 07:00 shore walk only (Abraãozinho), before the 10:00 ferry.
+- **Day 6 afternoon:** the 6 km dirt road to **Dois Rios** beach and the old prison. The **Museu do Cárcere is open Tue–Sun 10–16** (LP ≈), so Sunday works.
+- **Day 7:** a 07:00 shore walk only (Abraãozinho), before the 10:00 ferry.
 - **Backlog:** the Ilha Grande circuit (about 90 km, 4–6 days) does not fit.
 
 **From Lonely Planet** (*South America on a Shoestring*):
@@ -171,7 +171,7 @@ No cars on the island; every trail starts in Abraão.
 - **Food:** restaurants cluster on Rua da Praia, Rua Getúlio Vargas and the Travessa Buganville (LP). LP rates Café do Mar's *pratos do dia* as reasonable by island standards.
 - **Health:** a 24-h first-aid post (Serviço de Pronto Atendimento) is on Rua Getúlio Vargas (LP).
 
-## 🚌 Leaving: Abraão → Paraty, Mon 14 Dec
+## 🚌 Leaving: Abraão → Paraty, Day 7
 
 - **Barcas Rio ferry Abraão → Angra at 10:00** (daily), R$ 20.50 ✅ barcasrio. It arrives ~11:45; then walk or taxi 1.5 km to the rodoviária.
 - **Colitur L101 Angra → Paraty, 12:40 → ~14:40**, R$ 27.50 ([Colitur timetable](https://site.colitur.com.br/)).

@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md)
 
-> **In the plan since 27 Nov · a day trip from Estelí · Mon 8 Mar 2027 · no extra night (you sleep in [Estelí](esteli.md))**<br>
+> **In the plan since 27 Nov · a day trip from Estelí · Day 91 · no extra night (you sleep in [Estelí](esteli.md))**<br>
 > 🏞️ A narrow granite canyon of the Río Coco by the Honduran border: hike in, then float, swim and jump<br>
 > 🛏️ Sleep in Estelí (Melody 78); the tour company also rents $8 cabin beds near the canyon (WhatsApp only)<br>
-> 🚌 **In:** 05:30 *ruteado* COTRAN Norte, Estelí → Somoto, Mon 8 Mar · **Out:** back to Estelí 13:40–17:00; Managua on Tue 9, ✈ Wed 10 Mar
+> 🚌 **In:** 05:30 *ruteado* COTRAN Norte, Estelí → Somoto, Day 91 · **Out:** back to Estelí 13:40–17:00; Managua on Day 92, ✈ Day 93
 
 <table>
 <tr>
@@ -26,23 +26,23 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 ## 📅 Day by day
 
-Since 27 Nov this is **Day 3 of the Estelí stay**, a day trip with no extra night (✅ times and prices checked 27 Nov).
+Since 27 Nov this is **Day 91**, during the [Estelí](esteli.md) stay, a day trip with no extra night (✅ times and prices checked 27 Nov).
 
 | Day | Plan |
 |---|---|
-| **Mon 8 Mar** | 🚌 **05:30** *ruteado* from **COTRAN Norte**, Estelí (or 06:30, 07:30; listed 2 h 50, C$46) → Somoto terminal ≈ 08:15. 🛶 **Somoto Canyon Tours** 4-h standard tour from the terminal ≈ 08:30–12:30 (**$30**: lunch, entry, boat fee, life jacket, dry bag, river shoes, ride to the trailhead). 🚌 Back on the 13:40, 14:45, 16:00 or **17:00 (last)** *ruteado* to COTRAN Norte (C$50–60, ≈ 1 h 30). |
+| **Day 91** | 🚌 **05:30** *ruteado* from **COTRAN Norte**, Estelí (or 06:30, 07:30; listed 2 h 50, C$46) → Somoto terminal ≈ 08:15. 🛶 **Somoto Canyon Tours** 4-h standard tour from the terminal ≈ 08:30–12:30 (**$30**: lunch, entry, boat fee, life jacket, dry bag, river shoes, ride to the trailhead). 🚌 Back on the 13:40, 14:45, 16:00 or **17:00 (last)** *ruteado* to COTRAN Norte (C$50–60, ≈ 1 h 30). |
 
-- **Why Monday:** the buses run daily, but the guides' site doesn't say whether they work Sundays. Confirm on WhatsApp (+505 5791 9556, English) and keep **Sun 7** as the backup.
+- **Why Monday:** the buses run daily, but the guides' site doesn't say whether they work Sundays. Confirm on WhatsApp (+505 5791 9556, English) and keep **Day 90** as the backup.
 - **Sleeping by the canyon instead:** Somoto Canyon Tours' cabins are $8 per person per night (dorm cabins or private doubles, kitchen use; WhatsApp only). Keep one Estelí night if you do it.
 
 ## 🔖 Book (one click)
 
 | | Leg | When | Price | Book |
 |---|---|---|---|---|
-| In | **Estelí → Somoto** *ruteado*, COTRAN Norte | **Mon 8 Mar 05:30** (17 a day, 05:30–18:10) | C$46 | [NicaBuses](https://nicabuses.com/rutas/esteli-somoto-ruteado) |
-| Tour | **Somoto Canyon Tours**, 4-h standard (3-h $25, 6-h $35, rim walk from $15) | Mon 8 Mar ≈ 08:30–12:30 | **$30** | [somotocanyontours.org](https://www.somotocanyontours.org/tours) · WhatsApp +505 5791 9556 |
+| In | **Estelí → Somoto** *ruteado*, COTRAN Norte | **Day 91 05:30** (17 a day, 05:30–18:10) | C$46 | [NicaBuses](https://nicabuses.com/rutas/esteli-somoto-ruteado) |
+| Tour | **Somoto Canyon Tours**, 4-h standard (3-h $25, 6-h $35, rim walk from $15) | Day 91 ≈ 08:30–12:30 | **$30** | [somotocanyontours.org](https://www.somotocanyontours.org/tours) · WhatsApp +505 5791 9556 |
 | Out | **Somoto → Estelí** *ruteado* | 13:40, 14:45, 16:00, 17:00 (last) | C$50–60 | [NicaBuses](https://nicabuses.com/rutas/somoto-esteli-ruteado) |
-| ✈ | Flight home | **Wed 10 Mar** | 25k + $94.42 | see [Flight home](flight-home.md) |
+| ✈ | Flight home | **Day 93** | 25k + $94.42 | see [Flight home](flight-home.md) |
 
 ## 🛶 The canyon
 

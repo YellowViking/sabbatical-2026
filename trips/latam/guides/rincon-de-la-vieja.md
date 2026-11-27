@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [La Fortuna / Arenal](la-fortuna.md) · [San Juan del Sur / Playa Maderas](san-juan-del-sur.md) →
 
-> **Stop 31 · Mon 22 → Wed 24 Feb 2027 · 2 nights**<br>
+> **Stop 31 · Day 77 → 79 · 2 nights**<br>
 > 🏞️ Hot, dry Guanacaste town; the base for the mud pots, fumaroles and waterfalls of Rincón de la Vieja<br>
 > 🛏️ **Hostel Pura Vida en Liberia**, 10-bed mixed dorm, $28 for 2 nights<br>
 > 🚌 **In:** La Fortuna → Tilarán → Cañas → Liberia, Mon · **Out:** bus to the Nicaraguan border, Wed
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 22 Feb | 🚌 La Fortuna → Tilarán → Cañas → Liberia (≈ 4½–5½ h). Buy the park ticket online and book a shuttle. |
-| **Day 2** · Tue 23 Feb | 🌋 **Rincón de la Vieja, Sector Las Pailas.** Leave by **07:00** to be at the gate at opening. The **Las Pailas loop**, then the **La Cangreja waterfall** or the Cataratas Escondidas. Carry 3 L of water. |
-| **Day 3** · Wed 24 Feb | 🚌 Bus to the Nicaraguan border; pay the **$8 exit tax online** first. |
+| **Day 77** | 🚌 La Fortuna → Tilarán → Cañas → Liberia (≈ 4½–5½ h). Buy the park ticket online and book a shuttle. |
+| **Day 78** | 🌋 **Rincón de la Vieja, Sector Las Pailas.** Leave by **07:00** to be at the gate at opening. The **Las Pailas loop**, then the **La Cangreja waterfall** or the Cataratas Escondidas. Carry 3 L of water. |
+| **Day 79** | 🚌 Bus to the Nicaraguan border; pay the **$8 exit tax online** first. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (22 → 24 Feb, 2 nights)
+**Beds** (Day 77 → 79, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -49,9 +49,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | La Fortuna → Tilarán → Cañas → Liberia (no direct bus) | **Mon 22 Feb**, 08:00 (also 12:15, 17:30) | ≈ $12–14 | at the La Fortuna terminal (check the day before) |
-| ⚠️ Ticket | **Rincón de la Vieja, Las Pailas** (SINAC, online only; no cash or card at the gate) | **Tue 23 Feb** (closed Mondays) | ≈ $16.95 | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
-| Park | Round-trip shuttle Liberia → the park gate | Tue 23 Feb, leave by 07:00 | ≈ $25–40 | Liberia hostels/agencies |
+| In | La Fortuna → Tilarán → Cañas → Liberia (no direct bus) | **Day 77**, 08:00 (also 12:15, 17:30) | ≈ $12–14 | at the La Fortuna terminal (check the day before) |
+| ⚠️ Ticket | **Rincón de la Vieja, Las Pailas** (SINAC, online only; no cash or card at the gate) | **Day 78** (closed Mondays) | ≈ $16.95 | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
+| Park | Round-trip shuttle Liberia → the park gate | Day 78, leave by 07:00 | ≈ $25–40 | Liberia hostels/agencies |
 | ⚠️ Out | **Costa Rica land exit tax** | online, before leaving Liberia | $8 | see the [San Juan del Sur guide](san-juan-del-sur.md) |
 
 <details><summary>How to read these tables</summary>
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: La Fortuna → Tilarán → Cañas → Liberia, Mon 22 Feb
+## 🚌 Getting here: La Fortuna → Tilarán → Cañas → Liberia, Day 77
 
 No direct bus.
 - **La Fortuna → Tilarán (Transpisa):** weekdays **08:00**, 12:15, 17:30; ≈ 2–2¾ h, ≈ ₡3,500 / $7.80 (times ≈ yoviajocr.com, read 27 Nov for a weekday).
@@ -75,7 +75,7 @@ No direct bus.
 
 ## 🛏️ Where to sleep
 
-**Base: Liberia, not the park.** Liberia has the hostels, the cheap bus to the Nicaraguan border (Wed 24 Feb) and supermarkets. The lodges near the park (Curubandé, Hacienda Guachipelín, Rinconcito) still need a car or shuttle to the gate and cost more. With one park day, stay in Liberia and buy a shuttle.
+**Base: Liberia, not the park.** Liberia has the hostels, the cheap bus to the Nicaraguan border (Day 79) and supermarkets. The lodges near the park (Curubandé, Hacienda Guachipelín, Rinconcito) still need a car or shuttle to the gate and cost more. With one park day, stay in Liberia and buy a shuttle.
 
 All live-checked on 24 Nov.
 
@@ -107,7 +107,7 @@ All live-checked on 24 Nov.
 </tr>
 </table>
 
-- **Parque Nacional Rincón de la Vieja, Sector Las Pailas** (Tue 23 Feb): **$15 + IVA ≈ $16.95**, Tue–Sun 08:00–15:00, **closed Mondays** ✅ sinac.go.cr park page. **Tickets online only** on SINAC's SICORE (no cash or card at the gate; LP).
+- **Parque Nacional Rincón de la Vieja, Sector Las Pailas** (Day 78): **$15 + IVA ≈ $16.95**, Tue–Sun 08:00–15:00, **closed Mondays** ✅ sinac.go.cr park page. **Tickets online only** on SINAC's SICORE (no cash or card at the gate; LP).
   - The **Las Pailas loop (~3.5–4 km)**: mud pots, fumaroles, the Volcancito.
   - Then the **La Cangreja waterfall** trail (≈ 10 km return) or the Cataratas Escondidas.
   - The crater trail is closed (active volcano; hike backlog + LP).
@@ -133,7 +133,7 @@ All live-checked on 24 Nov.
 - **Guanacaste in February is hot and dry** (low 30s °C): start early, carry 3 L of water.
 - ⚠️ Pay the **CR land exit tax ($8) online** before leaving Liberia (stop 32).
 
-## 🚌 Leaving: Liberia → the Nicaraguan border, Wed 24 Feb
+## 🚌 Leaving: Liberia → the Nicaraguan border, Day 79
 
 - The cheap bus to the border leaves from Liberia. Times, the border crossing and the onward leg are in the [San Juan del Sur guide](san-juan-del-sur.md).
 - Pay the **$8 land exit tax online** first.

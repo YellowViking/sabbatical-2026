@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [San Gerardo de Rivas (Chirripó)](san-gerardo-de-rivas.md) · [Monteverde](monteverde.md) →
 
-> **Stop 28 · Mon 15 → Wed 17 Feb 2027 · 2 nights**<br>
+> **Stop 28 · Day 70 → 72 · 2 nights**<br>
 > 🏞️ Pacific beach town by the "whale's tail" sandbar of Marino Ballena, with jungle waterfalls in the hills behind<br>
 > 🛏️ **Hostel Cascada Verde**, 8-bed mixed dorm, $23 for 2 nights<br>
 > 🚌 **In:** from San Gerardo via San Isidro (Grupo Blanco), Mon · **Out:** 05:15 Grupo Blanco to Quepos, on to Monteverde, Wed
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 15 Feb | 🚌 **06:30** Hernández Solís San Gerardo → San Isidro (≈ 07:20) → **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi now). 🐋 Afternoon: **Marino Ballena** and the whale's tail at low tide, ≈ **15:35** (± 1 h; the park closes at 16:00). |
-| **Day 2** · Tue 16 Feb | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). **Catarata Uvita** is by the hostel. Today's low tide (≈ 16:25) comes after the park closes, so the whale's tail is a Day 1 job. |
-| **Day 3** · Wed 17 Feb | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
+| **Day 70** | 🚌 **06:30** Hernández Solís San Gerardo → San Isidro (≈ 07:20) → **Grupo Blanco 09:00** → Uvita ≈ 11:00 (no taxi now). 🐋 Afternoon: **Marino Ballena** and the whale's tail at low tide, ≈ **15:35** (± 1 h; the park closes at 16:00). |
+| **Day 71** | 🥾 **Nauyaca Waterfalls** (half day; 06:00 bus, entry until 14:00). **Catarata Uvita** is by the hostel. Today's low tide (≈ 16:25) comes after the park closes, so the whale's tail is a Day 1 job. |
+| **Day 72** | 🚌 **05:15** Grupo Blanco to Quepos, then on to Monteverde (a long day). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (15 → 17 Feb, 2 nights)
+**Beds** (Day 70 → 72, 2 nights)
 
 | | Where | Total | Location | From the Costanera bus stop | Book |
 |---|---|---:|:---:|---|---|
@@ -49,9 +49,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Hernández Solís** · San Gerardo → San Isidro | **Mon 15 Feb 06:30** → ≈ 07:20 (Mon–Sat; also 11:00, 16:00) | ≈ ₡1,000 ($2.25) | cash on board |
+| In | **Hernández Solís** · San Gerardo → San Isidro | **Day 70 06:30** → ≈ 07:20 (Mon–Sat; also 11:00, 16:00) | ≈ ₡1,000 ($2.25) | cash on board |
 | In | **Grupo Blanco** · San Isidro → Uvita, direct | **09:00** → ≈ 11:00 (or 16:00 → ~18:00) | ≈ ₡2,500 ($5.60) | cash on board |
-| Out | **Grupo Blanco** · Uvita → Quepos | **Wed 17 Feb 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | the full leg is in the [Monteverde guide](monteverde.md) |
+| Out | **Grupo Blanco** · Uvita → Quepos | **Day 72 05:15** → ~07:15 | ≈ ₡1,745 ($3.90) | the full leg is in the [Monteverde guide](monteverde.md) |
 | Tides | Uvita tide table (the whale's tail needs low tide) | check a week before | free | [tablademareas.com](https://tablademareas.com/cr/costa-oceano-pacifico/uvita) |
 
 <details><summary>How to read these tables</summary>
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: San Gerardo → San Isidro → Uvita, Mon 15 Feb
+## 🚌 Getting here: San Gerardo → San Isidro → Uvita, Day 70
 
 - **San Gerardo → San Isidro:** Hernández Solís **06:30** (also 11:00 and 16:00; Mon–Sat ✅ hernandezsolis.com, read 27 Nov) → San Isidro ≈ 07:20 (40–50 min, ≈ ₡1,000). San Gerardo got an extra night on 27 Nov, so you leave the morning after the descent and no taxi is needed.
 - **Grupo Blanco direct San Isidro → Uvita, 09:00** (or 16:00; ~2 h, ≈ ₡2,500 / $5.60) → Uvita ≈ 11:00. It leaves from the Grupo Blanco terminal on Calle 5, 2 min on foot from Tracopa.
@@ -115,7 +115,7 @@ All live-checked on 24 Nov.
 - **Parque Nacional Marino Ballena:** **$6 + 13 % IVA (≈ $6.78)**, daily 07:00–16:00 ✅ sinac.go.cr park page (entrances Uvita, Colonia, Ballena, Piñuela). Walk the **Punta Uvita "whale's tail" tombolo only at low tide**: it is sand and rock exposed by the tide (tides below).
 - **Tides for the whale's tail (≈, not a published table):**
   - No free tide table for Feb 2027 loaded from here. Estimate from tablademareas.com's Uvita reading (full moon 24 Nov 2026: low tides 07:55 and 20:05) shifted by moon age.
-  - Low tide ≈ **15:35 on Mon 15 Feb, 16:25 on Tue 16 Feb, 17:15 on Wed 17 Feb** (± 1 h; re-estimated 27 Nov for the new dates). Only **Monday's** falls inside park hours (07:00–16:00), so go out ≈ 14:00–16:00 on arrival day. The morning lows (≈ 03:10–04:55) are before the park opens.
+  - Low tide ≈ **15:35 on Day 70, 16:25 on Day 71, 17:15 on Day 72** (± 1 h; re-estimated 27 Nov for the new dates). Only **Monday's** falls inside park hours (07:00–16:00), so go out ≈ 14:00–16:00 on arrival day. The morning lows (≈ 03:10–04:55) are before the park opens.
   - These are **near neap tides** (first quarter is 14 Feb, full moon 20 Feb), so the lows are shallower and the tombolo is less exposed than at springs: walk out within an hour of low tide and turn back as it rises.
   - Check tablademareas.com/cr/costa-oceano-pacifico/uvita a week before.
 - **Catarata Uvita** (Uvita waterfall, natural slide and pool, 15 min walk above town; small community fee ≈ ₡2,000–3,000).
@@ -141,7 +141,7 @@ All live-checked on 24 Nov.
 - **Uvita is spread out** (LP: "not a walkable town"): the beach is ~3 km from the highway.
 - **Buy colones in San Isidro.**
 
-## 🚌 Leaving: Uvita → Quepos → Puntarenas → Monteverde, Wed 17 Feb
+## 🚌 Leaving: Uvita → Quepos → Puntarenas → Monteverde, Day 72
 
 - **Uvita 05:15 → Quepos ~07:15** (Grupo Blanco), then Quepos → Puntarenas and the Transmonteverde bus up to Santa Elena; ~11–12 h door to door, ≈ $15.
 - The full timetable and the shuttle alternative are in the [Monteverde guide](monteverde.md).

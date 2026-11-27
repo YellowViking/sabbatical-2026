@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Ometepe](ometepe.md) · [León](leon.md) →
 
-> **Stop 34 · Mon 1 → Wed 3 Mar 2027 · 2 nights: 1 in Granada, 1 at Laguna de Apoyo**<br>
+> **Stop 34 · Day 84 → 86 · 2 nights: 1 in Granada, 1 at Laguna de Apoyo**<br>
 > 🏞️ Colonial lake town, Masaya's crater at night, then a night on a warm crater lake<br>
 > 🛏️ **De Boca en Boca** (Granada) $14 + **Coco Bay** (Laguna de Apoyo, on the shore) $14<br>
-> 🚌 **In:** morning ferry from Ometepe + bus via Rivas, Mon · **Out:** microbus via Managua to León, Wed 3 Mar
+> 🚌 **In:** morning ferry from Ometepe + bus via Rivas, Mon · **Out:** microbus via Managua to León, Day 86
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDU7JG00K_QMAfW6cBaJUHGSXG1SDESL0CV3FNef88WDQphk18HAvqK1ugIdfIYA9jeH27PosJwqhhY838MqPyQRX8YuGQ74RBj4KoPqqG90MMukSgpZ3bXMmDY5oCpoTbONTsfw=w1200-h360-p-k-no" alt="Laguna de Apoyo from the crater rim" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 1 Mar | ⛴️ Morning ferry Moyogalpa → San Jorge (≤ 09:00) → Rivas → 🚌 **Granada** (≈ 3½–4½ h). 🌋 Evening: **Volcán Masaya at night** (night entry ≈ 16:30–20:00); any Managua-bound bus to the *Entrada Volcán Masaya*. |
-| **Day 2** · Tue 2 Mar | 🚶 Early walk: the colonial grid, **La Pólvora** and the **Lake Nicaragua malecón** (best at sunset, but Monday evening is Masaya). Then 🚕 shuttle or taxi to **Coco Bay, Laguna de Apoyo**: swim at sunset. |
-| **Day 3** · Wed 3 Mar | 🏊 Sunrise swim, then 🚌 via Managua to **León**. |
+| **Day 84** | ⛴️ Morning ferry Moyogalpa → San Jorge (≤ 09:00) → Rivas → 🚌 **Granada** (≈ 3½–4½ h). 🌋 Evening: **Volcán Masaya at night** (night entry ≈ 16:30–20:00); any Managua-bound bus to the *Entrada Volcán Masaya*. |
+| **Day 85** | 🚶 Early walk: the colonial grid, **La Pólvora** and the **Lake Nicaragua malecón** (best at sunset, but Monday evening is Masaya). Then 🚕 shuttle or taxi to **Coco Bay, Laguna de Apoyo**: swim at sunset. |
+| **Day 86** | 🏊 Sunrise swim, then 🚌 via Managua to **León**. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov (De Boca en Boca and Coco Bay rechecked on 26 Nov). ⚠️ = time-sensitive.
 
-**Beds** (Granada 1 → 2 Mar, 1 night; Laguna de Apoyo 2 → 3 Mar, 1 night)
+**Beds** (Granada Day 84 → 85, 1 night; Laguna de Apoyo Day 85 → 86, 1 night)
 
 | | Where | Total | Location | From Parque Central | Book |
 |---|---|---:|:---:|---|---|
@@ -50,10 +50,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Ferry Moyogalpa → San Jorge, taxi to Rivas, bus Rivas → Granada | **Mon 1 Mar**, a morning ferry (≤ 09:00); ≈ 3½–4½ h | ≈ $4–6 | [ferry timetable](https://www.ometepeislandinfo.com/) |
-| Evening | Managua-bound bus → *Entrada Volcán Masaya*; park entry + compulsory ride up | **Mon 1 Mar**, night entry ≈ 16:30–20:00 | ≈ C$30 bus + **$10** + ≈ $5 | at the gate |
-| Apoyo | Hostel shuttle or taxi Granada → Coco Bay (or a Masaya-bound bus + taxi) | Tue 2 Mar | shuttle + day pass ≈ $10–20 return (≈) | ask the hostel |
-| Out | Microbus Granada → Managua (UCA), then a León microbus or bus | **Wed 3 Mar**, ≈ 3 h | ≈ $3–4 | see [León](leon.md) |
+| In | Ferry Moyogalpa → San Jorge, taxi to Rivas, bus Rivas → Granada | **Day 84**, a morning ferry (≤ 09:00); ≈ 3½–4½ h | ≈ $4–6 | [ferry timetable](https://www.ometepeislandinfo.com/) |
+| Evening | Managua-bound bus → *Entrada Volcán Masaya*; park entry + compulsory ride up | **Day 84**, night entry ≈ 16:30–20:00 | ≈ C$30 bus + **$10** + ≈ $5 | at the gate |
+| Apoyo | Hostel shuttle or taxi Granada → Coco Bay (or a Masaya-bound bus + taxi) | Day 85 | shuttle + day pass ≈ $10–20 return (≈) | ask the hostel |
+| Out | Microbus Granada → Managua (UCA), then a León microbus or bus | **Day 86**, ≈ 3 h | ≈ $3–4 | see [León](leon.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Moyogalpa → San Jorge → Rivas → Granada, Mon 1 Mar
+## 🚌 Getting here: Moyogalpa → San Jorge → Rivas → Granada, Day 84
 
 - **Ferry Moyogalpa → San Jorge:** 05:30, 06:00, 06:30 (lancha), 06:45, 07:00 (lancha), 09:00, 10:00, 11:00, 11:30, 12:30, 13:00 (lancha), 14:00, 15:00 (lancha), 16:00, 17:30 (≈ ometepeislandinfo.com).
 - **Taxi or colectivo** to the Rivas terminal (≈ C$20–40).
@@ -72,16 +72,16 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ## 🛏️ Where to sleep
 
-### ⭐ Pick (Granada, Mon 1 → Tue 2 Mar): De Boca en Boca
+### ⭐ Pick (Granada, Day 84 → 85): De Boca en Boca
 - **Unit:** standard 5- or 8-bed mixed dorm.
-- **Price:** **$14 for 1 night on Booking** (rechecked 26 Nov for 25 → 26 Feb; 9.1/748, breakfast included) vs $27.60 on Hostelworld ($24 + 15 % tax).
+- **Price:** **$14 for 1 night on Booking** (rechecked 26 Nov for Day 80 → 81; 9.1/748, breakfast included) vs $27.60 on Hostelworld ($24 + 15 % tax).
 - **Reviews:** HW **9.6 (2,090; 2.0 % < 7)**, newest 91–100 (Nov 2026). Live-checked 24 Nov.
 - **Where:** ~0.3 km from Parque Central.
 - **Why it fits:** **dorm beds with curtains, reading lights and a fan each** (reviews), open kitchen with cooker, bar, small plunge pool.
 - "Not a party hostel… still social": the Treehouse-party shuttle stops here, it isn't hosted here.
 
 ### Backup: Casa Gallo Pinto
-- Standard 8-bed mixed dorm. **$11 for 1 night on Booking** (rechecked 26 Nov for 25 → 26 Feb; 100 reviews, 3 % below 7). It was $22.60 for 2 nights on Hostelworld when Granada was a 2-night stop.
+- Standard 8-bed mixed dorm. **$11 for 1 night on Booking** (rechecked 26 Nov for Day 80 → 81; 100 reviews, 3 % below 7). It was $22.60 for 2 nights on Hostelworld when Granada was a 2-night stop.
 - HW **9.5 (59; 14 % < 7)**. ~0.3 km from the centre.
 - Full kitchen, "really comfy beds with curtains" (mixed reports), quiet, no pool.
 - **Alternative:** Hostal Azul (9.7/1,158, kitchen, curtains, but pool-side night noise reported; $14 for 1 night on Booking, 26 Nov).
@@ -91,7 +91,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - Booking location **9.6** (score 9.0, 853 reviews, 2 % bad). 0.2 km from Parque Central (pool, kitchen).
 - **Upgrade:** Hotel Casa del Consulado, queen room with breakfast, location 9.7 (280 reviews, 1 % bad), $51 for 1 night (26 Nov), on the square.
 
-### ⭐ Laguna de Apoyo, Tue 2 → Wed 3 Mar (new 26 Nov): Coco Bay - Laguna de Apoyo
+### ⭐ Laguna de Apoyo, Day 85 → 86 (new 26 Nov): Coco Bay - Laguna de Apoyo
 - **Unit:** bed in a 10-bed mixed dorm. **$14 on Booking** (26 Nov).
 - **Reviews:** Booking 8.9 (298 reviews; 2% below 7), **location 9.6**.
 - **Where:** right on the lake shore.
@@ -110,20 +110,20 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SFfZxuEptRGYTMPDzXaeYYYoFdo_Axl0J7MEdOx1AlA1DarOb7Ugs_fVVz3dGKBKUr5yGZH2dmF2mk2N_ZOIGVHhIQDEC14SiHYofjvWluZ4Y62nyI1gowxJpjKC8lVHQeJgA=w640-h400-p-k-no" width="100%" alt="Swimmers and kayaks on Laguna de Apoyo"><br><b><a href="https://www.google.com/maps?ftid=0x8f740eedf46bb767:0x4bc7d2854d5b58f4">Laguna de Apoyo</a></b> · overnight at Coco Bay · <a href="https://www.google.com/maps/dir/?api=1&origin=11.9314076,-86.0551712&destination=11.918747,-86.036613&travelmode=driving">🚕 ≈ 9 min</a><br>A crater lake, thermally warm (~28 °C) and very clear (LP). Swim at sunset and sunrise.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-h34nRB4vMJEc7aoeAO4LdpC_Y85xQw4j9Mem-VYdg33RU0jf2-NK1vzbIRkda-ORw50s3cd6Eiv3WhCDjiMv3EB9_LuXw051uoD1xUFR1P176j8R0g35kD2k5XcU218yXXNc=w640-h400-p-k-no" width="100%" alt="Smoke and a red glow in Masaya's Santiago crater"><br><b><a href="https://www.google.com/maps?ftid=0x8f7406c4641a9451:0xea7c8827d6d2c08">Volcán Masaya at night</a></b> · <b>$10</b> + ≈ $5 ride up · <a href="https://www.google.com/maps/dir/?api=1&origin=11.9314076,-86.0551712&destination=11.9852778,-86.1608333&travelmode=driving">🚕 ≈ 44 min</a><br>A red glow deep in the Santiago crater. <b>Mon 1 Mar</b> evening.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-h34nRB4vMJEc7aoeAO4LdpC_Y85xQw4j9Mem-VYdg33RU0jf2-NK1vzbIRkda-ORw50s3cd6Eiv3WhCDjiMv3EB9_LuXw051uoD1xUFR1P176j8R0g35kD2k5XcU218yXXNc=w640-h400-p-k-no" width="100%" alt="Smoke and a red glow in Masaya's Santiago crater"><br><b><a href="https://www.google.com/maps?ftid=0x8f7406c4641a9451:0xea7c8827d6d2c08">Volcán Masaya at night</a></b> · <b>$10</b> + ≈ $5 ride up · <a href="https://www.google.com/maps/dir/?api=1&origin=11.9314076,-86.0551712&destination=11.9852778,-86.1608333&travelmode=driving">🚕 ≈ 44 min</a><br>A red glow deep in the Santiago crater. <b>Day 84</b> evening.</td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
 
 **Free:** walk the colonial grid to the **Lake Nicaragua malecón** at sunset; the La Pólvora fortress area.
 
-**Laguna de Apoyo (Tue 2 → Wed 3 Mar, an overnight):**
+**Laguna de Apoyo (Day 85 → 86, an overnight):**
 - A crater lake, thermally warm (~28 °C) and very clear (LP).
 - Hostel shuttles Granada ↔ Apoyo with a day pass at a lakeside hostel (e.g. Paradiso, Coco Bay) ≈ $10–20 return (≈).
 - By bus: Granada → a Masaya-bound bus to the Apoyo turn-off + a taxi down.
 - **Free alternative:** the **Catarina mirador** on the crater rim (LP).
 
-**Volcán Masaya at night (Mon 1 Mar evening, new 26 Nov):**
+**Volcán Masaya at night (Day 84 evening, new 26 Nov):**
 - Open daily, **night entry ≈ 16:30–20:00**.
 - **$10 for foreigners** plus ≈ $5 for the compulsory ride up from the gate (walking the road is banned).
 - **Getting there:** any Managua-bound bus from Granada to the *Entrada Volcán Masaya* (≈ C$30, 30–40 min).
@@ -149,7 +149,7 @@ Craft beer: check nearer the time.
 - **Very hot in the afternoon:** walk early and late.
 - **Masaya can close at short notice:** rangers close the road when gas levels rise.
 
-## 🚌 Leaving: Laguna de Apoyo / Granada → Managua → León, Wed 3 Mar
+## 🚌 Leaving: Laguna de Apoyo / Granada → Managua → León, Day 86
 
 - **Microbus Granada → Managua (UCA),** ~1 h, ≈ C$40–60.
 - **León microbus or bus from Managua** (UCA or Mercado Israel Lewites), ~1½–2¼ h, ≈ C$55–80.

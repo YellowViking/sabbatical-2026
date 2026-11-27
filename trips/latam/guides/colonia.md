@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Cabo Polonio](cabo-polonio.md) · [Córdoba + Los Gigantes](cordoba.md) →
 
-> **Day 25 · Fri 1 Jan 2027 · no night in Colonia · New Year's Day**<br>
+> **Day 25 · no night in Colonia · New Year's Day**<br>
 > 🏞️ A 4½-hour stopover in Colonia's UNESCO old town, then the ferry across the Río de la Plata and a night bus to Córdoba<br>
 > 🛏️ No bed: you sleep on the night bus (cama, ≈ $44–48)<br>
 > 🚌 **In:** COT from Montevideo, 09:30 → 12:20 · **Out:** Colonia Express 18:00 → Buenos Aires 19:15, then Retiro → Córdoba 21:00 or 22:20
@@ -27,7 +27,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Time | Plan |
 |---|---|
-| **Before 09:30** | 🚶 Walk the 2.5 km (30 min) from MedioMundo to Tres Cruces: there are no city buses on 1 Jan. |
+| **Before 09:30** | 🚶 Walk the 2.5 km (30 min) from MedioMundo to Tres Cruces: there are no city buses on Day 25. |
 | **09:30 → 12:20** | 🚌 **COT** Tres Cruces → Colonia. |
 | **12:20 → 17:00** | 🏛️ **Barrio Histórico** walk (all free), a picnic on the Rambla, the lighthouse if you like. ⚠ Sort out the bag first (see Good to know). |
 | **≈ 17:00** | ⛴️ Check in and clear joint immigration ≈ 1 h before the ferry. |
@@ -38,24 +38,24 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Transport** (all times verified; ✅ = seen on sale for 1 Jan)
+**Transport** (all times verified; ✅ = seen on sale for Day 25)
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **COT** · Tres Cruces → Colonia | **Fri 1 Jan 09:30 → 12:20** (or 11:30 → 14:20) | UYU 579 ≈ **$14** | [COT](https://www.cot.com.uy/) |
+| In | **COT** · Tres Cruces → Colonia | **Day 25 09:30 → 12:20** (or 11:30 → 14:20) | UYU 579 ≈ **$14** | [COT](https://www.cot.com.uy/) |
 | ⛴️ Ferry | **Colonia Express** · Colonia → Buenos Aires (Dársena Sur), "Super Económica" | **18:00 → 19:15** (or 20:15 if you take the later COT) | UYU 1,943 ≈ **$48** ✅ | [Colonia Express](https://book.coloniaexpress.com/) |
 | ⛴️ Ferry, alt | **Buquebus** · Colonia → Buenos Aires (Dársena Norte) | 17:01 → 18:16 | UYU 2,198 ≈ $54 ✅ | [Buquebus](https://www.buquebus.com/uy) |
 | ⚠️ Fallback | **Colonia Express through-ticket** (bus + ferry) · Montevideo → Buenos Aires, no Colonia stopover | 12:45 → 17:30 | UYU 2,143 ≈ $53 ✅ | [Colonia Express](https://book.coloniaexpress.com/) |
 | 🚌 Night bus | **Betel** · Retiro → Córdoba, Cama Ejecutivo | 21:00 → 06:00 | ARS 75,000 ≈ **$48** ✅ | [Plataforma10](https://www.plataforma10.com.ar/) |
 | 🚌 Night bus | **El Práctico** · Retiro → Córdoba, Cama Low Cost (the cheapest cama) | 22:20 → 07:10 | ARS 70,000 ≈ **$44** ✅ | [Plataforma10](https://www.plataforma10.com.ar/) |
 | 🚌 Night bus | **General Urquiza** · Retiro → Córdoba, full Cama | 21:31 → 06:30 | ARS 116,400 ≈ $74 ✅ | [Plataforma10](https://www.plataforma10.com.ar/) |
-| 🎆 Shift | Night bus Buenos Aires → Córdoba **Sat 2 Jan** (38 departures on Plataforma10 on 25 Nov; 30 on 1 Jan) | 21:00–23:05 | same fares | [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Retiro/Cordoba/10/19/02-01-2027/_/1/0/0) |
+| 🎆 Shift | Night bus Buenos Aires → Córdoba **Day 26** (38 departures on Plataforma10 on 25 Nov; 30 on Day 25) | 21:00–23:05 | same fares | [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Retiro/Cordoba/10/19/02-01-2027/_/1/0/0) |
 
 **Beds** (only if the day slips)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
-| 🎆 If 1 Jan doesn't work | **MedioMundo Hostel**, Montevideo · 1 → 2 Jan, then this plan on Sat 2 Jan | $25.24 (HW) ✅ | 9.4 | see the [Montevideo guide](montevideo.md) | Hostelworld |
+| 🎆 If Day 25 doesn't work | **MedioMundo Hostel**, Montevideo · Day 25 → 26, then this plan on Day 26 | $25.24 (HW) ✅ | 9.4 | see the [Montevideo guide](montevideo.md) | Hostelworld |
 | 🎆 New Year in Colonia instead | **Casarão Sacramento Hostel**, Colonia · bed in an 8-bed mixed dorm, 30 Dec → 1 Jan (replaces Montevideo's New Year and this morning's bus) | $40 | 9.8 | 🚶 7 min (450 m) from Colonia's bus terminal; old town 5 min on foot · [route](https://www.google.com/maps/dir/?api=1&origin=-34.4726414,-57.8425142&destination=-34.472580,-57.847469&travelmode=walking) | [Booking](https://www.booking.com/hotel/uy/casarao-sacramento-hostel-amp-suites.html?checkin=2026-12-30&checkout=2027-01-01&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) |
 
 <details><summary>How to read these tables</summary>
@@ -67,12 +67,12 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
 
 </details>
 
-## 🚌 Getting here: Montevideo → Colonia, Fri 1 Jan
+## 🚌 Getting here: Montevideo → Colonia, Day 25
 
 - **COT 09:30 Tres Cruces → Colonia 12:20** · UYU 579 ≈ **$14**.
-- **Walk the 2.5 km to Tres Cruces,** because there are no city buses on 1 Jan.
+- **Walk the 2.5 km to Tres Cruces,** because there are no city buses on Day 25.
 - **If holiday service has cut the morning buses,** take the 11:30 → 14:20 and the 20:15 ferry.
-- **If COT isn't running at all,** use the **Colonia Express through-ticket** (Montevideo 12:45 → Buenos Aires 17:30, UYU 2,143 ≈ $53, ✅ on sale for 1 Jan). That loses the stopover but keeps the night bus.
+- **If COT isn't running at all,** use the **Colonia Express through-ticket** (Montevideo 12:45 → Buenos Aires 17:30, UYU 2,143 ≈ $53, ✅ on sale for Day 25). That loses the stopover but keeps the night bus.
 
 ## 🛏️ Where to sleep
 
@@ -80,8 +80,8 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
 
 ### 🎆 Holiday backups
 - **Shift the whole day to Sat 2 Jan** if 1 Jan doesn't work (e.g. the holiday bus doesn't run).
-  - It costs **one more Montevideo night**: MedioMundo has beds on 1 Jan at **$25.24 on HW** ✅.
-  - You arrive in Córdoba on 3 Jan, eating a day of the 12 spare.
+  - It costs **one more Montevideo night**: MedioMundo has beds on Day 25 at **$25.24 on HW** ✅.
+  - You arrive in Córdoba on Day 27, eating a day of the 12 spare.
 - **New Year in Colonia** instead of Montevideo: Casarão Sacramento, dorm, location 9.8, $40. It removes the 1 Jan bus (see the [Montevideo guide](montevideo.md)).
 
 ## 🌳 Things to do (free and outdoors first)
@@ -113,13 +113,13 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
   - Faster: **rent a bike** (LP: Thrifty, Av General Flores 172, by the hour), or take a local **COTUC bus** from Av General Flores to Real de San Carlos' beaches and bullring (LP).
 
 **From Lonely Planet (not live-checked; New Year's Day hours may differ):**
-- **Museums:** one cheap combined ticket, sold at the Museo Municipal, covers the town's eight small historical museums, ≈ 11:15–16:30. Each closes one weekday: the **Museo Portugués is shut on Fridays**, so on Fri 1 Jan; the Museo Municipal (whale skeleton, a 1762 scale model of the town) is open on Fridays (LP).
+- **Museums:** one cheap combined ticket, sold at the Museo Municipal, covers the town's eight small historical museums, ≈ 11:15–16:30. Each closes one weekday: the **Museo Portugués is shut on Fridays**, so on Day 25; the Museo Municipal (whale skeleton, a 1762 scale model of the town) is open on Fridays (LP).
 - **Walking tours** leave from the municipal tourist office (Manuel Lobo 224) with local guides; paid, cheaper in Spanish (LP).
 
 ## 🍽️ Eat and drink
 
 - **Eating is dear here,** so picnic on the Rambla.
-- **If you do sit down (LP; all may close on 1 Jan ≈):**
+- **If you do sit down (LP; all may close on Day 25 ≈):**
   - **Lentas Maravillas** (Santa Rita 61; ≈ Wed–Mon 12:30–19:30): a cosy café with river views; soups, sandwiches and homemade lemonade (LP).
   - **Buen Suspiro** (Calle de los Suspiros 92; ≈ Wed–Mon from 11:00): *picadas*, boards of local cheese and cold cuts, with Uruguayan wine by the glass (LP).
   - **Barbot** (Washington Barbot 160; ≈ from noon Fri–Sun): a brewpub with ≈ 15 house beers and a four-beer tasting set (LP).
@@ -138,21 +138,21 @@ Prices move, so compare the channels shown (first = cheapest when checked on 24 
   - Colonia Express lands at **Dársena Sur** (Av. Pedro de Mendoza, La Boca edge), ≈ 20 min by taxi or Uber to Retiro (≈ ARS 9–12k, $6–8 ≈).
   - The two cost about the same once you add the taxi, so pick Colonia Express for the extra hour in Colonia, or Buquebus for less hassle.
 
-## 🚌 Leaving: Buenos Aires → Córdoba, Fri 1 → Sat 2 Jan
+## 🚌 Leaving: Buenos Aires → Córdoba, Day 25 → 26
 
 - **Betel Ejecutivo 21:00 → 06:00**, Cama Ejecutivo ARS 75,000 ≈ **$48**.
 - Or **El Práctico 22:20 → 07:10**, Cama Low Cost ARS 70,000 ≈ **$44** (the cheapest cama).
 - Or General Urquiza 21:31 → 06:30, full Cama ARS 116,400 ≈ $74.
-- All ✅ on Plataforma10 for 1 Jan, with seats free. Buy on Plataforma10 or the operator's site.
+- All ✅ on Plataforma10 for Day 25, with seats free. Buy on Plataforma10 or the operator's site.
 
 **Day total ≈ $14 + $48 + $7 + $44–48 ≈ $115.** That compares with Buquebus' direct Montevideo → Buenos Aires ferry ("Francisco", 11:00 → 13:45, UYU 3,371 ≈ $83) plus the same night bus, which skips Colonia.
 
-<details><summary><b>If 1 Jan doesn't work: the same plan on Sat 2 Jan</b> (+1 Montevideo night, Córdoba on 3 Jan)</summary>
+<details><summary><b>If Day 25 doesn't work: the same plan on Day 26</b> (+1 Montevideo night, Córdoba on Day 27)</summary>
 
 - **When:** e.g. the holiday bus doesn't run.
-- **Ferries on 2 Jan:** Colonia Express sails at 10:00, 12:55, 15:30, 18:00, 19:30, 22:00 and 23:30 (UYU 1,943–2,508); Buquebus at 11:20, 13:30, 17:01 and 22:40.
-- **Night buses on 2 Jan:** Plataforma10 shows Retiro → Córdoba buses at 21:00–23:05 at the same fares ([Plataforma10, 2 Jan](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Retiro/Cordoba/10/19/02-01-2027/_/1/0/0)).
-- **Cost:** one more Montevideo night (MedioMundo has beds on 1 Jan at $25.24 on HW ✅), and you arrive in Córdoba on 3 Jan, eating a day of the 12 spare.
+- **Ferries on Day 26:** Colonia Express sails at 10:00, 12:55, 15:30, 18:00, 19:30, 22:00 and 23:30 (UYU 1,943–2,508); Buquebus at 11:20, 13:30, 17:01 and 22:40.
+- **Night buses on Day 26:** Plataforma10 shows Retiro → Córdoba buses at 21:00–23:05 at the same fares ([Plataforma10, Day 26](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Retiro/Cordoba/10/19/02-01-2027/_/1/0/0)).
+- **Cost:** one more Montevideo night (MedioMundo has beds on Day 25 at $25.24 on HW ✅), and you arrive in Córdoba on Day 27, eating a day of the 12 spare.
 
 </details>
 

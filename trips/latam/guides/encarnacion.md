@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 > ⏸️ **Plan A, dropped 27 Nov.** Christmas week now goes down Brazil's coast instead: [Florianópolis](florianopolis.md) → [Porto Alegre](porto-alegre.md) → [Punta del Diablo](punta-del-diablo.md). This guide is kept in case Paraguay comes back; its dates, prices and bookings were checked 24–26 Nov and haven't been rechecked.
 
 
-> **Plan A (dropped) · Wed 23 → Sat 26 Dec 2026 · 3 nights · Christmas**<br>
+> **Plan A (dropped) · Day 16 → 19 · 3 nights · Christmas**<br>
 > 🏞️ River town and beach on the Paraná, with Jesuit ruins nearby<br>
 > 🛏️ **Departamentos De La Costa**, a whole flat with a kitchen, $76 for 3 nights<br>
 > 🚌 **In:** La Encarnacena from Asunción, Wed 08:30 · **Out:** EGA overnight to Montevideo, Sat 13:30
@@ -32,16 +32,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Wed 23 Dec | 🚌 08:30 La Encarnacena from Asunción, arriving ≈ 14:00. Walk 24 min to the flat, or take a taxi (≈ 8 min). Sunset on the **Costanera**. |
-| **Day 2** · Thu 24 Dec · 🎄 Christmas Eve | 🏛️ **Jesuit missions of Trinidad and Jesús** (5–6 h, bus + moto-taxi). 🛒 Shop for the 25th before the shops close in the afternoon. 🎆 Nochebuena fireworks over the river at midnight. |
-| **Day 3** · Fri 25 Dec · 🎄 Christmas Day | Most restaurants are shut, so cook at the flat. 🏖️ **Playa San José** and the Costanera. |
-| **Day 4** · Sat 26 Dec | A last Costanera walk, then the 🚌 **13:30 EGA** overnight to Montevideo. |
+| **Day 16** | 🚌 08:30 La Encarnacena from Asunción, arriving ≈ 14:00. Walk 24 min to the flat, or take a taxi (≈ 8 min). Sunset on the **Costanera**. |
+| **Day 17** · 🎄 Christmas Eve | 🏛️ **Jesuit missions of Trinidad and Jesús** (5–6 h, bus + moto-taxi). 🛒 Shop for the 25th before the shops close in the afternoon. 🎆 Nochebuena fireworks over the river at midnight. |
+| **Day 18** · 🎄 Christmas Day | Most restaurants are shut, so cook at the flat. 🏖️ **Playa San José** and the Costanera. |
+| **Day 19** | A last Costanera walk, then the 🚌 **13:30 EGA** overnight to Montevideo. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (23 → 26 Dec, 3 nights)
+**Beds** (Day 16 → 19, 3 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -54,10 +54,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | La Encarnacena · Asunción → Encarnación | **Wed 23 Dec 08:30** (or 12:00) → ≈ 14:00 | ≈ $19 | [La Encarnacena](https://compraonline.sittnet.net/py/5596/) |
-| ⚠️ Out | **EGA** · Encarnación → Montevideo Tres Cruces | **Sat 26 Dec 13:30 → Sun 07:15** | **$124** semi-cama | [EGA Paraguay shop](https://reservadirecta.sittnet.net/Commerce/egapy) · [timetable](https://ega.com.uy/destino/asuncion/) |
+| In | La Encarnacena · Asunción → Encarnación | **Day 16 08:30** (or 12:00) → ≈ 14:00 | ≈ $19 | [La Encarnacena](https://compraonline.sittnet.net/py/5596/) |
+| ⚠️ Out | **EGA** · Encarnación → Montevideo Tres Cruces | **Day 19 13:30 → Sun 07:15** | **$124** semi-cama | [EGA Paraguay shop](https://reservadirecta.sittnet.net/Commerce/egapy) · [timetable](https://ega.com.uy/destino/asuncion/) |
 | 🎄 Shift | EGA a few days earlier, Christmas in Montevideo | Wed 23 Dec 13:30 → Thu 24 Dec 07:15 (32 semi-cama + 11 cama free on 25 Nov) | $124 | [EGA Paraguay shop](https://reservadirecta.sittnet.net/Commerce/egapy) |
-| 🎄 Other route | Crucero del Norte · Posadas → Concordia, then Concordia → Salto → Montevideo | Sat 26 Dec 17:00 → 01:30 (34 seats free) | $53 + $7 + $40 | [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Posadas/Concordia/1471/3030/26-12-2026/_/1/0/0) |
+| 🎄 Other route | Crucero del Norte · Posadas → Concordia, then Concordia → Salto → Montevideo | Day 19 17:00 → 01:30 (34 seats free) | $53 + $7 + $40 | [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Posadas/Concordia/1471/3030/26-12-2026/_/1/0/0) |
 
 <details><summary>How to read these tables</summary>
 
@@ -67,7 +67,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Asunción → Encarnación, Wed 23 Dec
+## 🚌 Getting here: Asunción → Encarnación, Day 16
 
 - **La Encarnacena direct bus at 08:30** (or 12:00) from the Asunción terminal, arriving ≈ 14:00 (≈ 5½ h).
 - **PYG 120,000 ≈ $19.** Buy at terminal windows 95–100 or online at `compraonline.sittnet.net/py/5596/`. ✅ The timetable and fare are on the operator's site; the seat map wasn't checked.
@@ -87,7 +87,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Price:** **$76 for 3 nights** on Booking (room table); Agoda $95.37.
 - **Reviews:** Booking 8.9 (29 reviews; 3% below 7), **location 9.2**.
 - **Where:** Antequera 1615, 0.5 km from the plaza, a few blocks from the Costanera.
-- **Why it fits:** the kitchen matters on 25 Dec, when most restaurants close.
+- **Why it fits:** the kitchen matters on Day 18, when most restaurants close.
 
 ### Backup: Terwindt Hotel
 - Basic single room, breakfast included. **$127 for 3 nights** on Booking (Agoda $155.10).
@@ -108,7 +108,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <table>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlFRzgh-NH2nJWFJAHCv4HYv12K7eovQ1vlyMMi1rveId_C8m5YT_ybjosrZhqQAnC3xN1j3iqRg8b0wXh5ha6hCqLGbWBf9dMdyUbpHl4gNAltsgBf72kjEvLVweVDQZ-ZUYifw=w640-h400-p-k-no" width="100%" alt="Costanera de Encarnación promenade"><br><b><a href="https://www.google.com/maps?ftid=0x9457956eb8eda16f:0xb2a18ead954b59aa">Costanera de Encarnación</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-27.3290699,-55.8712289&destination=-27.3374898,-55.872457&travelmode=walking">🚶 19 min</a><br>A riverside promenade of 6 km and more, facing Posadas, with sunsets over Argentina. The place to be on Christmas Eve and Christmas Day.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TX9Ksc2LtODzgK837xVpcLfQQ6WltT-h_5lTgpnhsfjvrqnVk_Kjf3w0WDZJocs6qzASrAhBZeZ_UF1RvfkpTmvzdypkyJ2a0TiEuQoIdlh11L_qOcGV5l0LOIJcdBTOUBzaiAqg=w640-h400-p-k-no" width="100%" alt="Playa San José on the Paraná"><br><b><a href="https://www.google.com/maps?ftid=0x9457956f1e6afc0b:0x368e81fee5b5ec22">Playa San José</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-27.3290699,-55.8712289&destination=-27.3364953,-55.8730598&travelmode=walking">🚶 21 min</a><br>The town's Paraná river beach, free year-round. Lifeguards 08:00–20:00 in the high season, late October to Easter (Municipalidad de Encarnación). Expect crowds from 25 Dec.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TX9Ksc2LtODzgK837xVpcLfQQ6WltT-h_5lTgpnhsfjvrqnVk_Kjf3w0WDZJocs6qzASrAhBZeZ_UF1RvfkpTmvzdypkyJ2a0TiEuQoIdlh11L_qOcGV5l0LOIJcdBTOUBzaiAqg=w640-h400-p-k-no" width="100%" alt="Playa San José on the Paraná"><br><b><a href="https://www.google.com/maps?ftid=0x9457956f1e6afc0b:0x368e81fee5b5ec22">Playa San José</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-27.3290699,-55.8712289&destination=-27.3364953,-55.8730598&travelmode=walking">🚶 21 min</a><br>The town's Paraná river beach, free year-round. Lifeguards 08:00–20:00 in the high season, late October to Easter (Municipalidad de Encarnación). Expect crowds from Day 18.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_-_Church_ruins.jpg/500px-La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_-_Church_ruins.jpg" width="100%" alt="Ruins of the Jesuit mission of La Santísima Trinidad de Paraná"><br><b>Jesuit mission of Trinidad</b> (UNESCO) · PYG 40,000 ≈ $6.30<br>Often called the best-preserved of the Jesuit missions. One 72-hour ticket covers Trinidad and Jesús.</td>
@@ -116,16 +116,16 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-**Missions day (Thu 24 Dec):**
+**Missions day (Day 17):**
 - **Getting there:** any bus heading north-east from the terminal (towards Hohenau, Bella Vista or Ciudad del Este) drops you at the Trinidad crossroads in ≈ 45 min (≈ PYG 15k, $2.40). The ruins are 500 m up the side road. LP's landmark for the stop: get off when the power station appears on your right (LP).
 - **Jesús** is 10–12 km further north. Take a moto-taxi (≈ PYG 30k, $5) or walk 2 h. LP adds two options: shared taxis that sometimes wait at the junction, or the Jesús–Obligado bus from the crossroads 100 m along the highway, nominally hourly (LP).
 - **Guides:** Spanish-speaking guides wait at both gates; tip them well (LP).
 - **Light show:** both sites have run an evening sound-and-light show projected onto the ruins (LP). It's unlikely on Christmas Eve, so ask at the gate ≈.
 - **Ticket:** foreigners pay **PYG 40,000 ≈ $6.30** (Paraguayans 25,000) for one ticket valid 72 h at both sites. SENATUR updated the fees in July 2024. The PYG 40,000 figure comes from several 2026 guides, because SENATUR's own page timed out.
-- **Hours:** 07:00–19:00 every day of the year. SENATUR has run special hours on 25 Dec before (2021: opening at 09:00, plus a 21:00 night show), so check SENATUR's or Ruta Jesuítica's Facebook the week before.
+- **Hours:** 07:00–19:00 every day of the year. SENATUR has run special hours on Day 18 before (2021: opening at 09:00, plus a 21:00 night show), so check SENATUR's or Ruta Jesuítica's Facebook the week before.
 - **Time:** allow 5–6 h for both sites.
 
-**More, from Lonely Planet (not live-checked; good for Fri 25 or Sat 26 morning):**
+**More, from Lonely Planet (not live-checked; good for Day 18 or Day 19 morning):**
 - 🌳 **Escalinata San Pedro**: a Gaudí-style decorated stairway in a residential street at the far end of the Costanera. Free (LP).
 - 🏖️ **A quieter beach:** if Playa San José is packed from the 25th, LP suggests the beach at **Quiteria**, a short taxi ride away (LP).
 - 🌳 **Hotel Tirol** (Capitán Miranda, Ruta 6 km 20): 20 ha of humid forest with trails and 300+ bird species recorded; non-guests can use its pools for a small fee. Local bus 1y2 ("Capitán Miranda") from Av Artigas ends at the gate, and Trinidad-bound buses pass it, so it can be a stop on the missions day (LP).
@@ -169,12 +169,12 @@ Prices are ≈.
   - The quicker **air-conditioned train** leaves from Av Von Winkel near the bridge; both countries' formalities happen in one office on the Argentine side (LP; check it's running).
   - **Ferries** also cross from the eastern end of the Costanera to Posadas' riverfront (LP).
   - A taxi over the bridge can get stuck in long queues; the bus skips them (LP).
-- ⚠️ **Buy the EGA ticket online early.** Cama is already sold out for 26 Dec, and 17 semi-cama seats were left on 24 Nov.
+- ⚠️ **Buy the EGA ticket online early.** Cama is already sold out for Day 19, and 17 semi-cama seats were left on 24 Nov.
 
-## 🚌 Leaving: EGA overnight to Montevideo, Sat 26 → Sun 27 Dec
+## 🚌 Leaving: EGA overnight to Montevideo, Day 19 → 20
 
 - **EGA Encarnación 13:30 → Montevideo Tres Cruces 07:15** (17 h 45, via Posadas, Salto and Paysandú).
-- **Semi-cama PYG 790,000 ≈ $124**, cheapest on the Paraguayan shop (`reservadirecta.sittnet.net/Commerce/egapy`). EGA Uruguay charges UYU 6,165 ≈ $152. ✅ Seen on sale on EGA's own shop for 26 Dec.
+- **Semi-cama PYG 790,000 ≈ $124**, cheapest on the Paraguayan shop (`reservadirecta.sittnet.net/Commerce/egapy`). EGA Uruguay charges UYU 6,165 ≈ $152. ✅ Seen on sale on EGA's own shop for Day 19.
 - EGA runs **only on Wed and Sat** (ega.com.uy timetable: Asunción 08:00, Encarnación 13:30).
 - There are border controls at Encarnación/Posadas and at Concordia/Salto, so keep your passport handy overnight.
 - If this bus fails, see the 🎄 rows in the transport table above.
@@ -184,9 +184,9 @@ Prices are ≈.
 Ride the same EGA bus only as far as **Salto (00:45, 11 h 15)**:
 - **Ticket:** Encarnación → Salto is semi-cama PYG 740,000 ≈ $116 on the same shop. If you already hold the Montevideo ticket, ask EGA whether you can simply get off at Salto. Mark your bag for Salto.
 - **Bed:** Hotel Los Cedros, Booking location 9.5 (345 reviews, 1% below 7), 24-hour desk, **$65** ([Booking](https://www.booking.com/hotel/uy/los-cedros.html?checkin=2026-12-26&checkout=2026-12-27&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD)). It's ≈ 1.5 km from the terminal, so take a taxi. Cheaper but out at the hot springs: Hotel Village Termas de Daymán, $38, location 8.9.
-- **Day 5 (Sun 27 Dec), morning:** the Daymán municipal hot springs, 08:00–22:00, ≈ UYU 200. City bus from Julio Delgado y Brasil at 09:10 (≈ 30 min, UYU 54). *(AI-summary leads; check them on the day.)*
-- **Day 5 (Sun 27 Dec), afternoon:** ✅ Agencia Central **13:00 → Tres Cruces 20:00**, or Núñez 12:30 → 19:50, both daily (Tres Cruces timetable). Fares from ≈ UYU 1,672 ≈ $40.
-- **What stays the same:** the MedioMundo night and the 28 Dec Cabo Polonio bus.
+- **Day 20, morning:** the Daymán municipal hot springs, 08:00–22:00, ≈ UYU 200. City bus from Julio Delgado y Brasil at 09:10 (≈ 30 min, UYU 54). *(AI-summary leads; check them on the day.)*
+- **Day 20, afternoon:** ✅ Agencia Central **13:00 → Tres Cruces 20:00**, or Núñez 12:30 → 19:50, both daily (Tres Cruces timetable). Fares from ≈ UYU 1,672 ≈ $40.
+- **What stays the same:** the MedioMundo night and the Day 21 Cabo Polonio bus.
 
 </details>
 

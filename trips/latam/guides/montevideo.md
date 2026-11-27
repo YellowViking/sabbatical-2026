@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Cabo Polonio](cabo-polonio.md) · [Colonia](colonia.md) →
 
-> **Stop 11 · Wed 30 Dec 2026 → Fri 1 Jan 2027 · 2 nights · New Year's Eve**<br>
+> **Stop 11 · Day 23 → 25 · 2 nights · New Year's Eve**<br>
 > 🏞️ A laid-back capital on a long waterfront Rambla, with city beaches and a paper-throwing New Year's Eve<br>
 > 🛏️ **MedioMundo Hostel**, a bed in a 6-bed dorm, $50 for 2 nights (no New Year premium)<br>
-> 🚌 **In:** Rutas del Sol from Cabo Polonio, Wed 30, Tres Cruces 20:10 · **Out:** COT to Colonia, Fri 1 Jan 09:30
+> 🚌 **In:** Rutas del Sol from Cabo Polonio, Day 23, Tres Cruces 20:10 · **Out:** COT to Colonia, Day 25 09:30
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rf34w9NDdofo3Kw5g2LglTB80IUcoXJjKWkq5aU8hfACUUlwYryqat_Ko-T4r64sOnCf-3rQivb6Oe7CBeXwYkatmQy7LfUlsGD7XH3HOyHFO74gSKa0zJtBcpUChV2nRUxTBs4w=w1200-h360-p-k-no" alt="Pocitos beach and the Rambla curving along the bay in Montevideo" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **New Year · Day 1** · Wed 30 Dec | 🚌 Back from Cabo Polonio, Tres Cruces 20:10. Shop for New Year's Eve tonight or tomorrow morning. |
-| **New Year · Day 2** · Thu 31 Dec · 🎆 New Year's Eve | Morning: ⛰️ **Cerro de Montevideo** (or shopping, before supermarkets close early). From late morning: 📄 **paper and water wars** in Ciudad Vieja and Centro, and the 🍺 **cider and beer fight** at the Mercado del Puerto. City buses stop at ≈ 18:30. Evening: hostel asado or shared dinner. 🎆 **Midnight:** fireworks along the Rambla, from Playa Ramírez or Pocitos. |
-| **New Year · Day 3** · Fri 1 Jan · 🎆 New Year's Day | No city buses. 🚶 Walk 2.5 km (30 min) to Tres Cruces for the **09:30 COT** to [Colonia](colonia.md). |
+| **Day 23** | 🚌 Back from Cabo Polonio, Tres Cruces 20:10. Shop for New Year's Eve tonight or tomorrow morning. |
+| **Day 24** · 🎆 New Year's Eve | Morning: ⛰️ **Cerro de Montevideo** (or shopping, before supermarkets close early). From late morning: 📄 **paper and water wars** in Ciudad Vieja and Centro, and the 🍺 **cider and beer fight** at the Mercado del Puerto. City buses stop at ≈ 18:30. Evening: hostel asado or shared dinner. 🎆 **Midnight:** fireworks along the Rambla, from Playa Ramírez or Pocitos. |
+| **Day 25** · 🎆 New Year's Day | No city buses. 🚶 Walk 2.5 km (30 min) to Tres Cruces for the **09:30 COT** to [Colonia](colonia.md). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (30 Dec → 1 Jan, 2 nights)
+**Beds** (Day 23 → 25, 2 nights)
 
 | | Where | Total | Location | From Tres Cruces | Book |
 |---|---|---:|:---:|---|---|
@@ -51,9 +51,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Rutas del Sol** · Cabo Polonio gate → Tres Cruces (see the [Cabo Polonio guide](cabo-polonio.md)) | **Wed 30 Dec**, arriving 20:10 | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
-| In | **Rutas del Sol** · Cabo Polonio → Tres Cruces | Wed 30 Dec 15:10 → **20:10** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
-| ⚠️ Out | **COT** · Tres Cruces → Colonia (see the [Colonia guide](colonia.md)) | **Fri 1 Jan 09:30 → 12:20** | UYU 579 ≈ $14 | [COT](https://www.cot.com.uy/) |
+| In | **Rutas del Sol** · Cabo Polonio gate → Tres Cruces (see the [Cabo Polonio guide](cabo-polonio.md)) | **Day 23**, arriving 20:10 | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
+| In | **Rutas del Sol** · Cabo Polonio → Tres Cruces | Day 23 15:10 → **20:10** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
+| ⚠️ Out | **COT** · Tres Cruces → Colonia (see the [Colonia guide](colonia.md)) | **Day 25 09:30 → 12:20** | UYU 579 ≈ $14 | [COT](https://www.cot.com.uy/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -64,7 +64,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Cabo Polonio → Montevideo, Wed 30 Dec
+## 🚌 Getting here: Cabo Polonio → Montevideo, Day 23
 
 - **Rutas del Sol** from the Cabo Polonio gate to **Tres Cruces, arriving 20:10** (UYU 1,003 ≈ $25; the trip is in the [Cabo Polonio guide](cabo-polonio.md)).
 - MedioMundo is 2.5 km from Tres Cruces: bus 407 (13 min) or a 30-min walk. It has 24 h reception.
@@ -94,11 +94,11 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 ### Private alt (location first): Apartamento céntrico
 - Guayabos 1790, Cordón. A one-bedroom flat with a kitchen.
 - Booking **location 9.8** (9.7; 83 reviews; 0% below 7).
-- **30 Dec → 1 Jan: $140 for 2 nights** (room table; $70 a night). Booking.
+- **Day 23 → 25: $140 for 2 nights** (room table; $70 a night). Booking.
 - **New Year alternative:** [Hotel London Palace](https://www.google.com/maps?ftid=0x959f81d2bbe5b89d:0xf0bdbe882d25eec9) (Centro, location 9.2; 8.6 from 1,823 reviews; 1% below 7), single room with breakfast, $126 for 2 nights.
 
 ### 🎆 Holiday backups (New Year's Eve)
-- Only **5 hostels** rated ≥ 8 were left for 30 Dec → 1 Jan (itinerary check); MedioMundo was still $50.
+- Only **5 hostels** rated ≥ 8 were left for Day 23 → 25 (itinerary check); MedioMundo was still $50.
 - **Same city:** **Circus Hotel Montevideo**, a bed in a 6-bed mixed dorm, location 9.2 (2,865 reviews), **$32**. Plaza Independencia is 8 min on foot.
 - **Another town:** New Year in **Colonia**: **Casarão Sacramento Hostel**, a bed in an 8-bed mixed dorm, location 9.8, **$40** (Colonia was 86% unavailable). It also removes the 1 Jan Montevideo → Colonia bus, which runs no published holiday timetable.
 
@@ -123,7 +123,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-**Any time (Wed 30 evening, Thu 31 morning):**
+**Any time (Day 23 evening, Day 24 morning):**
 - **Rambla walk:** Parque Rodó → Punta Carretas lighthouse → Pocitos beach, ≈ 6 km of waterfront. Free. LP's tip: the whole Rambla is a ≈ 20 km walking and cycling path, from Ciudad Vieja past Parque Rodó, Punta Carretas, Pocitos, Buceo and Malvín to Carrasco; Orange Bike (Pérez Castellano 1417, Ciudad Vieja) rented bikes by the half or whole day (LP).
 - **Or the other way, to Ciudad Vieja:** [Plaza Independencia](https://www.google.com/maps?ftid=0x959f802b0e1d1f07:0x7d9cac3abf570af3), [Puerta de la Ciudadela](https://www.google.com/maps?ftid=0x959f802afe10cee1:0xb95846203de847c5), [Peatonal Sarandí](https://www.google.com/maps?ftid=0x959f7f80806f152b:0x6e2990084a9e2348), the Mercado del Puerto to look at. Also free. LP calls the Mercado del Puerto unmissable and says it's liveliest on weekend afternoons, with artists, craftspeople and street musicians (LP).
 - **Swim out to the island off Playa Malvín** (≈ 700 m offshore, palm-covered; the Broke Backpacker's tip) or join the beach-volleyball games at **Pocitos**. Free.
@@ -136,16 +136,16 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
   - Sierra de las Ánimas (weekends only, see below).
 
 **New Year's Eve:**
-- **31 Dec, from late morning: paper and water wars in Ciudad Vieja and Centro.** Office workers rip up their diaries and throw them out of the windows, and soak passers-by with buckets.
-- Next door, the **cider and beer fight at the Mercado del Puerto** (24 and 31 Dec) is a huge wet street party.
+- **Day 24, from late morning: paper and water wars in Ciudad Vieja and Centro.** Office workers rip up their diaries and throw them out of the windows, and soak passers-by with buckets.
+- Next door, the **cider and beer fight at the Mercado del Puerto** (24 and Day 24) is a huge wet street party.
 - Both are free; wear clothes you don't mind soaking. (Guru'Guay, updated Sep 2025.)
-- **Midnight on 31 Dec: fireworks near the Rambla.** Locals let them off all along the waterfront, so walk to Playa Ramírez or Pocitos beach (10–30 min from the hostel).
+- **Midnight on Day 24: fireworks near the Rambla.** Locals let them off all along the waterfront, so walk to Playa Ramírez or Pocitos beach (10–30 min from the hostel).
   - There is **no official city display**: none was announced as of Oct 2026, and private fireworks are thinning out year by year. Free; nothing to book.
-- **31 Dec morning: Cerro de Montevideo** (you're only back from Cabo Polonio at 20:10 on 30 Dec), a short climb to the Fortaleza General Artigas for the classic view back across the bay (bus ≈ 40 min; the climb is free, the fort museum ≈ small fee).
+- **Day 24 morning: Cerro de Montevideo** (you're only back from Cabo Polonio at 20:10 on Day 23), a short climb to the Fortaleza General Artigas for the classic view back across the bay (bus ≈ 40 min; the climb is free, the fort museum ≈ small fee).
 - Rambla by bike or on foot; a dip at Playa Ramírez or Pocitos.
 
 **More, from Lonely Planet (not live-checked; holiday hours may differ):**
-- **Free, weekdays (so Thu 31 Dec morning):**
+- **Free, weekdays (so Day 24 morning):**
   - **Museo del Gaucho** (Av 18 de Julio 998, in the ornate Palacio Heber): gaucho horse gear, silverwork and maté gourds. LP rates it a top sight. Free, ≈ Mon–Fri 10:00–16:00 (LP).
   - **Museo Figari** (Juan Carlos Gómez 1427, Ciudad Vieja): free, ≈ Tue–Fri 13:00–18:00 (LP).
   - **Museo Blanes** in the Prado: free, ≈ Tue–Sun 12:00–18:00 (LP).
@@ -163,7 +163,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 <sub>[Cerro de las Ánimas](https://www.google.com/maps?ftid=0x95755acb0cc1dcf5:0x58b1134b33b776ea) summit. Photo: Google Maps.</sub>
 
 - It is a private reserve on the Interbalnearia at **km 86** ("Parada Los Cardos", opposite Parador Los Cardos). Any Punta del Este or Rocha bus stops there, but not the Piriápolis buses.
-- It is open **Saturdays and Sundays only ("not all of them")**, plus Carnival week and Easter week. **Wed 30 Dec is closed**, and there's no weekend day in Montevideo now.
+- It is open **Saturdays and Sundays only ("not all of them")**, plus Carnival week and Easter week. **Day 23 is a weekday, so it's closed**, and there's no weekend day in Montevideo now.
 - Booking ahead is **mandatory, by WhatsApp text only** (094 419 891). They confirm whether that weekend is open and what kit is compulsory.
 - Entry is **UYU 250 ≈ $6**. Walks: Cerro de las Ánimas summit (501 m) ≈ 4 h return; Cañadón de los Espejos ≈ 4 h; both together 7–8 h.
 - **Foreigners who aren't fluent in Spanish must come with a Spanish speaker.**
@@ -177,7 +177,7 @@ So it doesn't fit this route (since 27 Nov there's no weekend in Montevideo).
 - The trail is ≈ 2½ h return from the car park of the Reserva de Fauna Autóctona: a dirt track, then a steep path marked with red arrows (LP).
 - **Castillo de Piria**, the town founder's extravagant mansion, is across the road and free, ≈ 09:00–18:00 (LP).
 - Montevideo → Piriápolis is ≈ 1½ h by COT or Copsa (LP). The local leg to the trailhead isn't checked ≈.
-- It could fill the morning of Thu 31 Dec, but that isn't a rest day, so treat it as optional.
+- It could fill the morning of Day 24, but that isn't a rest day, so treat it as optional.
 
 </details>
 
@@ -203,7 +203,7 @@ So it doesn't fit this route (since 27 Nov there's no weekend in Montevideo).
   - **La Pulpería** (Lagunillas × Nuñez, Punta Carretas): a small neighbourhood parrilla with no sign, open for Sunday lunch ≈ 12:00–16:00, so it doesn't fit this route any more (LP).
 - **Near the hostel (LP):** **El Club del Pan** bakery (Pablo de María × Muller, Tue–Sat, lunchtime sandwiches) and **Escaramuza**, a bookshop-café (Pablo de María 1185, Mon–Sat). The Parque Rodó–Cordón bars cluster around **Canelones × Juan Jackson**, a few blocks away; Baker's Bar (Pablo de María 1198) is one (LP).
 - **Craft beer (LP):** **Mastra**, Uruguay's best-known microbrewery, has its main pub in the Mercado Agrícola (four-beer tasting board on weekdays) and another in Pocitos (26 de Marzo × Pérez). The **Shannon Irish Pub** (Bartolomé Mitre 1318, Ciudad Vieja) pours Uruguayan microbrews with live music every night (LP).
-- **Tango:** **Fun Fun** (Tue–Sat from 20:00), a tango bar since 1895 known for its *uvita* wine drink. LP had it at Soriano 922 but expected it to move back to the Mercado Central, so check the address (LP). Wed 30 is the only night that fits.
+- **Tango:** **Fun Fun** (Tue–Sat from 20:00), a tango bar since 1895 known for its *uvita* wine drink. LP had it at Soriano 922 but expected it to move back to the Mercado Central, so check the address (LP). Day 23 is the only night that fits.
 - **New Year:** shop on **30 Dec or the morning of 31 Dec**. Supermarkets close early on the 31st, and almost everything is shut on 1 Jan.
 - A **hostel asado or shared dinner on the 31st** is the cheap way to do the night.
 
@@ -217,7 +217,7 @@ So it doesn't fit this route (since 27 Nov there's no weekend in Montevideo).
 - ⚠️ **City buses run until ≈ 18:30 on 31 Dec and not at all on 1 Jan** (Día del Transportista).
 - Taxis get scarce from ≈ 16:00 on the 31st, and Uber is slow.
 - Inter-city departures thin out after 18:00 on the 31st.
-- Very few restaurants open on 24/25 and 31 Dec/1 Jan.
+- Very few restaurants open on 24/25 and Day 24/Day 25.
 
 ## 🚌 Leaving
 

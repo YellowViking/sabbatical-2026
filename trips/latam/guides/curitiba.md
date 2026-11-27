@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [São Paulo](sao-paulo.md) · [Foz do Iguaçu](foz-do-iguacu.md) →
 
-> **Stop 5 · Thu 17 → Fri 18 Dec 2026 · 1 night · then the Serra Verde train and a night bus**<br>
+> **Stop 5 · Day 10 → 11 · 1 night · then the Serra Verde train and a night bus**<br>
 > 🏞️ Brazil's craft-beer capital, then the train down the Serra do Mar's Atlantic forest to colonial Morretes<br>
 > 🛏️ **Hostel Residencial Botânico**, a bunk in a mixed dorm, $13 for 1 night<br>
-> 🚌 **In:** Penha 07:30 Tietê → Curitiba 14:00, Thu 17 · 🚆 **Day 2 (Fri 18 Dec):** Serra Verde Express 08:30 to Morretes, Graciosa bus back 16:10 · 🌙 **Out:** Catarinense night bus 21:00 to Foz, Fri 18
+> 🚌 **In:** Penha 07:30 Tietê → Curitiba 14:00, Day 10 · 🚆 **Day 11:** Serra Verde Express 08:30 to Morretes, Graciosa bus back 16:10 · 🌙 **Out:** Catarinense night bus 21:00 to Foz, Day 11
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QboXr01sgcu37O2-5fvpMFAZLvGx8mzPT5PPo9vj4GzsfCD0C9XvMkyKvCNAT4QKaO-mUWtw3gPZvgS2j-4EtD8vxxmtAjl1B0xMdV0WxdjhyqtVXRegpIpugwo3vFwpY-twChBZY1WZEO=w1200-h360-p-k-no" alt="The Serra Verde Express train on a ledge above the forested Serra do Mar" width="100%">
 
@@ -29,14 +29,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 17 Dec | 🚌 **Penha 07:30** Tietê → **14:00** Curitiba Rodoferroviária. Afternoon (free): the **Jardim Botânico**, then the **Largo da Ordem** at dusk; Parque Tanguá or Barigui if there's time. 🍺 Hop'n Roll or We Are Bastards. |
-| **Day 2** · Fri 18 Dec | 🚆 **08:30 Serra Verde Express** to Morretes (about 4 h 30; arrive ≈ 12:30–13:00). 🍲 Barreado lunch, then the **Rio Nhundiaquara** riverbank and the Ponte Velha. 🚌 **16:10 Graciosa bus** via the Estrada da Graciosa → 17:47. Collect your pack, then the 🌙 **21:00 Catarinense** night bus to Foz (→ Sat 07:00). |
+| **Day 10** | 🚌 **Penha 07:30** Tietê → **14:00** Curitiba Rodoferroviária. Afternoon (free): the **Jardim Botânico**, then the **Largo da Ordem** at dusk; Parque Tanguá or Barigui if there's time. 🍺 Hop'n Roll or We Are Bastards. |
+| **Day 11** | 🚆 **08:30 Serra Verde Express** to Morretes (about 4 h 30; arrive ≈ 12:30–13:00). 🍲 Barreado lunch, then the **Rio Nhundiaquara** riverbank and the Ponte Velha. 🚌 **16:10 Graciosa bus** via the Estrada da Graciosa → 17:47. Collect your pack, then the 🌙 **21:00 Catarinense** night bus to Foz (→ Sat 07:00). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (17 → 18 Dec, 1 night)
+**Beds** (Day 10 → 11, 1 night)
 
 | | Where | Total | Location | From the Rodoferroviária | Book |
 |---|---|---:|:---:|---|---|
@@ -48,10 +48,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Expresso NS Penha** · São Paulo Tietê → Curitiba Rodoferroviária | **Thu 17 Dec 07:30 → 14:00** | R$ 116.99 ($19.60) | [ClickBus](https://www.clickbus.com.br/onibus/sao-paulo-tiete-sp/curitiba-pr?departureDate=2026-12-17) |
-| ⚠️ Train | **Serra Verde Express** · Curitiba → Morretes, Econômico | **Fri 18 Dec 08:30** → ≈ 12:30–13:00 | **R$ 70** ($11.75) | [Serra Verde Express](https://www.serraverdeexpress.com.br/) |
-| ⚠️ Bus | **Viação Graciosa** · Morretes → Curitiba "via Estrada da Graciosa" | **Fri 18 Dec 16:10 → 17:47** | R$ 34.70 ($5.80) | [ClickBus](https://www.clickbus.com.br/onibus/morretes-pr/curitiba-pr?departureDate=2026-12-18) |
-| Out | **Catarinense** · Curitiba → Foz do Iguaçu, convencional (double-decker) | **Fri 18 Dec 21:00 → Sat 07:00** | **R$ 289.99** ($48.70) | [ClickBus](https://www.clickbus.com.br/onibus/curitiba-pr/foz-do-iguacu-pr?departureDate=2026-12-18) |
+| In | **Expresso NS Penha** · São Paulo Tietê → Curitiba Rodoferroviária | **Day 10 07:30 → 14:00** | R$ 116.99 ($19.60) | [ClickBus](https://www.clickbus.com.br/onibus/sao-paulo-tiete-sp/curitiba-pr?departureDate=2026-12-17) |
+| ⚠️ Train | **Serra Verde Express** · Curitiba → Morretes, Econômico | **Day 11 08:30** → ≈ 12:30–13:00 | **R$ 70** ($11.75) | [Serra Verde Express](https://www.serraverdeexpress.com.br/) |
+| ⚠️ Bus | **Viação Graciosa** · Morretes → Curitiba "via Estrada da Graciosa" | **Day 11 16:10 → 17:47** | R$ 34.70 ($5.80) | [ClickBus](https://www.clickbus.com.br/onibus/morretes-pr/curitiba-pr?departureDate=2026-12-18) |
+| Out | **Catarinense** · Curitiba → Foz do Iguaçu, convencional (double-decker) | **Day 11 21:00 → Sat 07:00** | **R$ 289.99** ($48.70) | [ClickBus](https://www.clickbus.com.br/onibus/curitiba-pr/foz-do-iguacu-pr?departureDate=2026-12-18) |
 
 <details><summary>How to read these tables</summary>
 
@@ -61,7 +61,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: São Paulo → Curitiba, Thu 17 Dec
+## 🚌 Getting here: São Paulo → Curitiba, Day 10
 
 ✅ Live fares on ClickBus; 102 departures that day, so no sell-out risk.
 
@@ -113,27 +113,27 @@ All live-checked on 24 Nov.
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHEJbNSLCLriemUiD8LCJLGvz4GNhOUBA8_TRa3IzcDvoHiywglNdDYGI3pYlhmRgHDERCvjnDTmw1vXCtLGnXRR7wkMNxBvF6cnwVhjKW9GgUwa5bnWyqRgeiqEYqhTybskKzOWWfViRt=w640-h400-p-k-no" width="100%" alt="The glass greenhouse and French gardens of the Jardim Botânico"><br><b><a href="https://www.google.com/maps?ftid=0x94dce500d5e96635:0x1a2d5ec5fddc5654">Jardim Botânico</a></b> · free · Thu 17 · <a href="https://www.google.com/maps/dir/?api=1&origin=-25.44275,-49.249636&destination=-25.4421565,-49.2413194&travelmode=walking">🚶 16 min</a><br>The glass greenhouse and French gardens; daily 06:00–19:30. ~1 km from the hostel.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7izYwUJklaGMHM7ARJXTbnyeBvVhCifpYcU2nxryODKnmI_jxFNIycupmurPfxrfZra0578ukfWizMvn_6JLxFa7oJCQDZMvBM7IfLmnt8v04rlx4i1aCt7G_O3oHmiTgDc4tGA=w640-h400-p-k-no" width="100%" alt="The riverside walk along the Rio Nhundiaquara in Morretes"><br><b><a href="https://www.google.com/maps?ftid=0x94dc7f92adde203b:0x461c3381f1a20f5f">Rio Nhundiaquara</a>, Morretes</b> · free · Fri 18<br>The riverbank, the Ponte Velha and the colonial centre, ≈ 13:00–16:10.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHEJbNSLCLriemUiD8LCJLGvz4GNhOUBA8_TRa3IzcDvoHiywglNdDYGI3pYlhmRgHDERCvjnDTmw1vXCtLGnXRR7wkMNxBvF6cnwVhjKW9GgUwa5bnWyqRgeiqEYqhTybskKzOWWfViRt=w640-h400-p-k-no" width="100%" alt="The glass greenhouse and French gardens of the Jardim Botânico"><br><b><a href="https://www.google.com/maps?ftid=0x94dce500d5e96635:0x1a2d5ec5fddc5654">Jardim Botânico</a></b> · free · Day 10 · <a href="https://www.google.com/maps/dir/?api=1&origin=-25.44275,-49.249636&destination=-25.4421565,-49.2413194&travelmode=walking">🚶 16 min</a><br>The glass greenhouse and French gardens; daily 06:00–19:30. ~1 km from the hostel.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7izYwUJklaGMHM7ARJXTbnyeBvVhCifpYcU2nxryODKnmI_jxFNIycupmurPfxrfZra0578ukfWizMvn_6JLxFa7oJCQDZMvBM7IfLmnt8v04rlx4i1aCt7G_O3oHmiTgDc4tGA=w640-h400-p-k-no" width="100%" alt="The riverside walk along the Rio Nhundiaquara in Morretes"><br><b><a href="https://www.google.com/maps?ftid=0x94dc7f92adde203b:0x461c3381f1a20f5f">Rio Nhundiaquara</a>, Morretes</b> · free · Day 11<br>The riverbank, the Ponte Velha and the colonial centre, ≈ 13:00–16:10.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RI6yDl638145o_dh34ETI68UusZTIriQnxrOnUOmk-QbHKzAYumo53wZFf9yCboG_xA7DKkcP0hgoiOuRHkkqzKBDu7le2vMRqg_XGBIqGWFVca-5Q39xQMK2acVvWunNd0n7j=w640-h400-p-k-no" width="100%" alt="The long pool and towers at Parque Tanguá"><br><b><a href="https://www.google.com/maps?ftid=0x94dce6d445082041:0x69949666c14b40dc">Parque Tanguá</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-25.44275,-49.249636&destination=-25.3790661,-49.2824233&travelmode=transit">🚌 47 min (bus 466 + bus 182)</a><br>If there's time on Thursday afternoon.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T6HA-RV073cWHJH-d8RMyo8OoExY-nBrwKcuY57yPCyRFGJln2kmqc1RbbYE84HjeV0jhC1oqOsJ37ozB-KBuW-0NRG64kbB_pS1Y5zgrY3MJy9l3xlvXVSq16x0b6y9N1V3tAAQ=w640-h400-p-k-no" width="100%" alt="Capybaras grazing by the lake in Parque Barigui, with tower blocks behind"><br><b><a href="https://www.google.com/maps?ftid=0x94dce3d8762c9e71:0x5628b5d28d45bd5b">Parque Barigui</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-25.44275,-49.249636&destination=-25.4262654,-49.30723&travelmode=transit">🚌 1 h 1 min (bus E03 + bus J62 + bus 876)</a><br>The other big park, west of the centre.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRIAAwsYnIabTe41Ddg71wBYjA_T9jBRSMIBpPykSv2jFYj5OCy5DWELR1jjaDM259joLWr-1MplHtO34RWC5JqGMXY6ohXaz32DkPGv3HvtUKrky7UJ8fJzmRKWhZHIL0dFaC=w640-h400-p-k-no" width="100%" alt="The railway track curving along a forested mountainside on the Serra Verde Express"><br><b><a href="https://www.google.com/maps?ftid=0x94dce45addce8813:0x4dbd62c7e5c46e97">Serra Verde Express</a></b> · Econômico R$ 70 · Fri 18, 08:30<br>Curitiba → Morretes, about 4 h 30. ⚠️ Only 67 Econômico seats left.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RsKxhodmywIxPZm2U4s8-T3ne_m5Ft3TfwYw7yWG1YUEFOFZ0xtpMFRkZMTugzkG9B0m1HLOsBvEPoNlX8HjkoN34FP5YF4pYxr6bOF7c2Jt6dt-h-Q1UwA9JXoYtmGwI29V2e=w640-h400-p-k-no" width="100%" alt="A stone gateway on the Estrada da Graciosa"><br><b><a href="https://www.google.com/maps?ftid=0x94dc9044738c4017:0x953e93e418b029bc">Estrada da Graciosa</a></b> · bus R$ 34.70 · Fri 18, 16:10 · <a href="https://www.google.com/maps/dir/?api=1&origin=-25.44275,-49.249636&destination=-25.3753323,-48.8692885&travelmode=driving">🚗 ≈ 1 h 6 min by road</a><br>The old cobbled road through the Atlantic forest, a different line from the train. ⚠️ Only 10 seats were listed.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRIAAwsYnIabTe41Ddg71wBYjA_T9jBRSMIBpPykSv2jFYj5OCy5DWELR1jjaDM259joLWr-1MplHtO34RWC5JqGMXY6ohXaz32DkPGv3HvtUKrky7UJ8fJzmRKWhZHIL0dFaC=w640-h400-p-k-no" width="100%" alt="The railway track curving along a forested mountainside on the Serra Verde Express"><br><b><a href="https://www.google.com/maps?ftid=0x94dce45addce8813:0x4dbd62c7e5c46e97">Serra Verde Express</a></b> · Econômico R$ 70 · Day 11, 08:30<br>Curitiba → Morretes, about 4 h 30. ⚠️ Only 67 Econômico seats left.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RsKxhodmywIxPZm2U4s8-T3ne_m5Ft3TfwYw7yWG1YUEFOFZ0xtpMFRkZMTugzkG9B0m1HLOsBvEPoNlX8HjkoN34FP5YF4pYxr6bOF7c2Jt6dt-h-Q1UwA9JXoYtmGwI29V2e=w640-h400-p-k-no" width="100%" alt="A stone gateway on the Estrada da Graciosa"><br><b><a href="https://www.google.com/maps?ftid=0x94dc9044738c4017:0x953e93e418b029bc">Estrada da Graciosa</a></b> · bus R$ 34.70 · Day 11, 16:10 · <a href="https://www.google.com/maps/dir/?api=1&origin=-25.44275,-49.249636&destination=-25.3753323,-48.8692885&travelmode=driving">🚗 ≈ 1 h 6 min by road</a><br>The old cobbled road through the Atlantic forest, a different line from the train. ⚠️ Only 10 seats were listed.</td>
 </tr>
 </table>
 
-**Thu 17 afternoon in Curitiba (free first):**
+**Day 10 afternoon in Curitiba (free first):**
 - **Jardim Botânico** (the glass greenhouse and French gardens): free, daily 06:00–19:30. "Free" ✅ curitiba.pr.gov.br; hours ≈ from a city-page snippet. It's ~1 km from the hostel.
 - **Largo da Ordem** and the historic centre at dusk: free.
 - **Parque Tanguá / Barigui:** free. Ópera de Arame is ≈ R$ 30, Tue–Sun 10:00–18:00 (local guide only), so skip it unless you have spare time.
 
 **From Lonely Planet** (*South America on a Shoestring*):
 - **Museu Oscar Niemeyer (MON)** (R. Marechal Hermes 999): LP's top Curitiba sight. The eye-shaped tower is free to see from outside.
-  - Entry is ≈ R$ 20 (LP), **free on Wednesdays only** (LP), so **Thu 17 is a paid day**. Tue–Sun 10:00–18:00.
+  - Entry is ≈ R$ 20 (LP), **free on Wednesdays only** (LP), so **Day 10 is a paid day**. Tue–Sun 10:00–18:00.
   - Inside are rotating 20th–21st-century art shows and a good exhibit on Niemeyer himself.
   - Bus 505 from Passeio Público stops at the door (LP).
 - **Curitiba Free Walking Tour** (LP; tips only): **Saturdays only**, 11:00 from the steps of the old UFPR building on Praça Santos Andrade, and only if it isn't raining ≈ (Google summary, 2026). It **doesn't fit** Thu–Fri.
@@ -141,8 +141,8 @@ All live-checked on 24 Nov.
 - **Evening (LP):** on warm nights the bars around **Praça Garibaldi and the Largo da Ordem** spill onto the street. Batel's Av. Vicente Machado is the late-night strip.
 - **Backlog (LP):** **Ilha do Mel**, a car-free island of wild beaches and coastal walks, which LP calls southern Brazil's most picturesque beach spot. From Morretes, a bus runs to Paranaguá (≈ 1 h, LP), then a boat to the island (1½–2 h). It doesn't fit the Friday night bus.
 
-**Day 2 (Fri 18 Dec): Serra Verde Express Curitiba → Morretes, 08:30**
-- ✅ **It runs on Fri 18 Dec**, per serraverdeexpress.com.br's own booking API. It leaves from the Rodoferroviária. The operator gives "about 4 h 30" for the trip, so you arrive ≈ 12:30–13:00.
+**Day 11: Serra Verde Express Curitiba → Morretes, 08:30**
+- ✅ **It runs on Day 11**, per serraverdeexpress.com.br's own booking API. It leaves from the Rodoferroviária. The operator gives "about 4 h 30" for the trip, so you arrive ≈ 12:30–13:00.
 - **One-way fares** ✅ (495 of 1,118 seats already sold):
 
 | Class | Fare | Notes |
@@ -156,11 +156,11 @@ All live-checked on 24 Nov.
 - **Rules:** be there 1 h early. Online tickets can be cancelled free within 7 days of buying; after that the fee is 20% ✅.
 - **Backpack:** leave it at the hostel (ask at check-out), or use the Malex automatic lockers in the Rodoferroviária. The lockers are ✅ listed on the URBS station page; the price, ≈ R$ 35 a day, comes from an old snippet.
 
-**Day 2 (Fri 18 Dec), Morretes (≈ 13:00–16:10):**
+**Day 11, Morretes (≈ 13:00–16:10):**
 - Walk the **Rio Nhundiaquara** riverbank, the Ponte Velha and the colonial centre: free.
 - Porto de Cima (≈ 6 km) doesn't fit before the 16:10 bus.
 
-**Bus back with Viação Graciosa, Morretes rodoviária → Curitiba Rodoferroviária, Fri 18** ✅ ClickBus departures for 18 Dec:
+**Bus back with Viação Graciosa, Morretes rodoviária → Curitiba Rodoferroviária, Day 11** ✅ ClickBus departures for Day 11:
 - 14:00 → 15:10.
 - 15:40 → 16:55.
 - **16:10 → 17:47 "via Estrada da Graciosa", R$ 34.70 ($5.80).** This is the pick: the old cobbled road through the Atlantic forest, a different line from the train. **Only 10 seats were listed.**
@@ -199,7 +199,7 @@ All live-checked on 24 Nov.
   - There's a tourist-info desk, open 09:00–18:00 (LP).
 - **City buses (LP):** the "tube" stations (*tubos*) are paid on entry. LP's fare of R$ 4.25 is out of date, so check it.
 
-## 🌙 Leaving: night bus Curitiba → Foz do Iguaçu, Fri 18 → Sat 19 Dec
+## 🌙 Leaving: night bus Curitiba → Foz do Iguaçu, Day 11 → 12
 
 Catarinense is the only direct operator ✅ ClickBus (Embarca agrees):
 

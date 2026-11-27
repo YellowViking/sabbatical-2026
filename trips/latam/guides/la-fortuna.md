@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Nicaragua](costa-rica-nicaragua.md) · ← [Monteverde](monteverde.md) · [Liberia / Rincón de la Vieja](rincon-de-la-vieja.md) →
 
-> **Stop 30 · Fri 19 → Mon 22 Feb 2027 · 3 nights**<br>
+> **Stop 30 · Day 74 → 77 · 3 nights**<br>
 > 🏞️ Town under the Arenal volcano: a free hot river, lava-flow trails and a day trip to Río Celeste<br>
 > 🛏️ **Ceiba Hostel**, capsule in an 8-bed dorm, $43 for 3 nights ✅ 27 Nov<br>
 > 🚐 **In:** jeep-boat-jeep from Monteverde, Fri 08:00 · **Out:** buses via Tilarán and Cañas to Liberia, Mon morning
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Costa Rica + Ni
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Fri 19 Feb | 🚐 **08:00 jeep-boat-jeep** from Santa Elena (~3½–4 h), for a full afternoon in La Fortuna: ♨️ **El Chollín** in daylight. |
-| **Sat 20 – Sun 21 Feb** | Two full days: 🌋 a **volcano hike** (Arenal NP, El Silencio or Arenal 1968; viewpoints are clearest at dawn) and 💧 **Río Celeste** by tour (no public transport). The **hot river** again if you like. |
-| **Day 4** · Mon 22 Feb | 🚌 Leave early for **Liberia** via Tilarán and Cañas. Or see Río Celeste on the way north via Bijagua (a long day). |
+| **Day 74** | 🚐 **08:00 jeep-boat-jeep** from Santa Elena (~3½–4 h), for a full afternoon in La Fortuna: ♨️ **El Chollín** in daylight. |
+| **Days 75–76** | Two full days: 🌋 a **volcano hike** (Arenal NP, El Silencio or Arenal 1968; viewpoints are clearest at dawn) and 💧 **Río Celeste** by tour (no public transport). The **hot river** again if you like. |
+| **Day 77** | 🚌 Leave early for **Liberia** via Tilarán and Cañas. Or see Río Celeste on the way north via Bijagua (a long day). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (19 → 22 Feb, 3 nights)
+**Beds** (Day 74 → 77, 3 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -50,9 +50,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Green Road** shared jeep-boat-jeep · Santa Elena → La Fortuna | **Fri 19 Feb 08:00** (or 14:00, $50) | **$45** | greenroadcr.com (or ask Monteverde Backpackers: $29–35 ≈) |
+| In | **Green Road** shared jeep-boat-jeep · Santa Elena → La Fortuna | **Day 74 08:00** (or 14:00, $50) | **$45** | greenroadcr.com (or ask Monteverde Backpackers: $29–35 ≈) |
 | ⚠️ Tickets | Río Celeste and Arenal NP (SINAC, online only) | before the day | $13.56 / $16.95 | [SINAC](https://serviciosenlinea.sinac.go.cr/) |
-| Out | La Fortuna → Tilarán → Cañas → Liberia | **Mon 22 Feb**, from ≈ 07:30–08:00 | ≈ $12–14 | details in the [Liberia guide](rincon-de-la-vieja.md) |
+| Out | La Fortuna → Tilarán → Cañas → Liberia | **Day 77**, from ≈ 07:30–08:00 | ≈ $12–14 | details in the [Liberia guide](rincon-de-la-vieja.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚐 Getting here: jeep-boat-jeep from Monteverde, Fri 19 Feb
+## 🚐 Getting here: jeep-boat-jeep from Monteverde, Day 74
 
 - **Route:** hotel pickup in Santa Elena → jeep to Lake Arenal → boat across → jeep to La Fortuna, ~3½–4 h.
 - **Green Road shared: dep 08:00 $45, 14:00 $50** (all fees included) ✅ greenroadcr.com.
@@ -86,7 +86,7 @@ All live-checked on 24 Nov.
 - **Reviews:** Booking 8.4 (578; 12 % below 7), location **9.1**; HW 8.9 (251).
 - **Where:** on the west edge of town, next door to Alpha Arenal: 16 min (1.1 km) on foot from the bus terminal.
 - **Checks:** "Cocina 100% equipada" / "große Küche" (full kitchen); **curtains on the beds**; quiet ("super calmo", "ruhiges Hostel", "quiet at night"); free yoga twice a day; no happy-hour flag on Booking. A/C runs only at night, and the lockers are outside the dorms.
-- ~~**Alpha Arenal**~~ (the backup until 27 Nov): **not bookable**. Booking has no rooms for 19 → 22 Feb or a 1 → 4 Mar control, and it's gone from Hostelworld ✅ 27 Nov. It may have closed.
+- ~~**Alpha Arenal**~~ (the backup until 27 Nov): **not bookable**. Booking has no rooms for Day 74 → 77 or a Day 84 → 87 control, and it's gone from Hostelworld ✅ 27 Nov. It may have closed.
 - **Also checked:** Argdivan Hostel (location 9.3, 812 reviews, $43): a bar upstairs, group activities, daytime music and a Booking happy-hour flag, so it's livelier.
 - **Avoid:** Arenal Backpackers Resort (pool resort; 29 % of recent reviews < 7), Poshtel (pool, many noise mentions), Blackout Party Hostel.
 
@@ -120,7 +120,7 @@ All live-checked on 24 Nov.
   - Pick **the national park** unless the cheaper El Silencio is the better view on the day: all three show the same volcano.
 - **Río Celeste (Parque Nacional Volcán Tenorio)** day trip: SINAC **$12 + IVA ≈ $13.56**, entry 08:00–14:00, stay until 16:00 ✅ sinac.go.cr (tickets online on SICORE; same account as Chirripó).
   - **No public transport to the park** (LP), so it's either a tour from La Fortuna (≈ $80–100 incl. entry and lunch, AI lead) or, cheaper, a stop on the way north.
-  - **On the way north:** Mon 22 Feb La Fortuna → Tilarán → Cañas → **bus Cañas → Bijagua** → taxi ~9 km to the park → back to Cañas → Liberia the same evening (long; check the Cañas–Upala bus times locally).
+  - **On the way north:** Day 77 La Fortuna → Tilarán → Cañas → **bus Cañas → Bijagua** → taxi ~9 km to the park → back to Cañas → Liberia the same evening (long; check the Cañas–Upala bus times locally).
   - The bluest water is in the dry season, i.e. February.
 - **La Fortuna Waterfall** ≈ $20 (LP); only if the hot river and the volcano trails aren't enough.
 
@@ -137,10 +137,10 @@ All live-checked on 24 Nov.
 - **Craft beer:** **La Fortuna Pub** (Tico craft beers incl. their own brews; LP).
 
 ## ℹ️ Good to know
-- **Monday 22 Feb leaves early** for Liberia.
+- **Monday Day 77 leaves early** for Liberia.
 - **Most volcano viewpoints are clearest at dawn.**
 
-## 🚌 Leaving: La Fortuna → Tilarán → Cañas → Liberia, Mon 22 Feb
+## 🚌 Leaving: La Fortuna → Tilarán → Cañas → Liberia, Day 77
 
 - No direct bus: La Fortuna → Tilarán (weekdays 08:00, 12:15, 17:30; Transpisa) → Cañas → Liberia, ≈ 4½–5½ h and $12–14.
 - Times, the shuttle alternative and the Río Celeste detour are in the [Liberia guide](rincon-de-la-vieja.md) and above.

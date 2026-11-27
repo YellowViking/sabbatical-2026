@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Potosí](potosi.md) · [La Paz](la-paz.md) →
 
-> **Stop 19 · Mon 25 → Thu 28 Jan 2027 (days 49–52) · 3 nights**<br>
+> **Stop 19 · Day 49 → 52 · 3 nights**<br>
 > 🏞️ The white colonial city, the warmest stop of the section, and the base for a 2-day Inca-trail hike into the Maragua crater<br>
 > 🛏️ **Villa Oropeza Hostel**, a bed in a 6-bed mixed dorm with curtains, US$16.95 for 3 nights<br>
 > 🚌 **In:** bus from Potosí, Mon 13:00 or 14:00 · **Out:** ✈ BoA to La Paz, Thu 09:05 (see the [La Paz guide](la-paz.md))
@@ -29,10 +29,10 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 25 Jan | 🚌 Potosí **14:00** (after the Cerro Rico mine tour; 13:00 without it) → Sucre ≈ 17:00–18:00. Micro or taxi to the hostel (≈ Bs 10–15). 🌇 The **Recoleta** viewpoint at sunset if there's light. |
-| **Day 2** · Tue 26 Jan | 🥾 **Maragua, day 1:** trufi to **Chataquila** (≈ 1.5 h), the Inca trail 6.5 km down to **Chaunaca**, then 10 km up the Río Ravelo canyon into the **crater**. Sleep in Maragua (Nativus Hostel, Bs 50 with dinner and breakfast). |
-| **Day 3** · Wed 27 Jan | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00 on weekdays, and this is a Wednesday; ⚠️ it leaves when full, so reach Potolo by ≈ 13:00; ask in Maragua the evening before, fallback a shared camioneta or taxi). Waning moon (full on 22 Jan). |
-| **Day 4** · Thu 28 Jan | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
+| **Day 49** | 🚌 Potosí **14:00** (after the Cerro Rico mine tour; 13:00 without it) → Sucre ≈ 17:00–18:00. Micro or taxi to the hostel (≈ Bs 10–15). 🌇 The **Recoleta** viewpoint at sunset if there's light. |
+| **Day 50** | 🥾 **Maragua, day 1:** trufi to **Chataquila** (≈ 1.5 h), the Inca trail 6.5 km down to **Chaunaca**, then 10 km up the Río Ravelo canyon into the **crater**. Sleep in Maragua (Nativus Hostel, Bs 50 with dinner and breakfast). |
+| **Day 51** | 🥾 **Maragua, day 2:** 16.5 km over the crater wall, past the **Niñu Mayu** dinosaur tracks, to **Potolo**. 🚐 Minibus back to Sucre (hourly until ≈ 16:00 on weekdays, and this is a Wednesday; ⚠️ it leaves when full, so reach Potolo by ≈ 13:00; ask in Maragua the evening before, fallback a shared camioneta or taxi). Waning moon (full on 22 Jan). |
+| **Day 52** | ✈ **BoA 09:05** Sucre → La Paz via Cochabamba (see the [La Paz guide](la-paz.md)). |
 
 Not hiking? Swap Tue–Wed for **Siete Cascadas**, **Parque Cretácico**, the **Mercado Central** and **Cerro Churuquella**, plus LP's town picks (Mercado Campesino, the Casa de la Libertad, the ASUR textile museum; all open on weekdays).
 
@@ -40,7 +40,7 @@ Not hiking? Swap Tue–Wed for **Siete Cascadas**, **Parque Cretácico**, the **
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Beds** (25 → 28 Jan, 3 nights)
+**Beds** (Day 49 → 52, 3 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -52,11 +52,11 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ In | Bus **Potosí → Sucre**, ≈ 3–4 h | **Mon 25 Jan 14:00** (Trans Emperador), after the mine tour; or **13:00** (Transtin Dil Rey) | US$8 / US$7 | Potosí's Nueva Terminal (listed on Tickets Bolivia) |
-| Hike | Trufi **Sucre → Chataquila**, ≈ 1.5 h | Tue 26 Jan, morning | ≈ Bs 25 | Calle Tomás Frías, near Plaza San Juanillo |
-| Hike | **Nativus Hostel**, Maragua | Tue 26 Jan night | Bs 50 with dinner and breakfast | WhatsApp, no booking needed |
-| Hike | Minibus **Potolo → Sucre**, 2–2.5 h | Wed 27 Jan, ≈ hourly until ≈ 16:00, ⚠️ when full | Bs 30 | on the spot |
-| Out | ✈ **BoA** Sucre → La Paz via Cochabamba | **Thu 28 Jan 09:05 → 11:25** | $49 | see the [La Paz guide](la-paz.md) |
+| ⚠️ In | Bus **Potosí → Sucre**, ≈ 3–4 h | **Day 49 14:00** (Trans Emperador), after the mine tour; or **13:00** (Transtin Dil Rey) | US$8 / US$7 | Potosí's Nueva Terminal (listed on Tickets Bolivia) |
+| Hike | Trufi **Sucre → Chataquila**, ≈ 1.5 h | Day 50, morning | ≈ Bs 25 | Calle Tomás Frías, near Plaza San Juanillo |
+| Hike | **Nativus Hostel**, Maragua | Day 50 night | Bs 50 with dinner and breakfast | WhatsApp, no booking needed |
+| Hike | Minibus **Potolo → Sucre**, 2–2.5 h | Day 51, ≈ hourly until ≈ 16:00, ⚠️ when full | Bs 30 | on the spot |
+| Out | ✈ **BoA** Sucre → La Paz via Cochabamba | **Day 52 09:05 → 11:25** | $49 | see the [La Paz guide](la-paz.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -67,7 +67,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 </details>
 
-## 🚌 Getting here: Potosí → Sucre, Mon 25 Jan
+## 🚌 Getting here: Potosí → Sucre, Day 49
 
 - **Bus, ≈ 3–4 h**, from Potosí's Nueva Terminal to Sucre's terminal (Av. Ostria Gutiérrez).
 - Tickets Bolivia lists **13 daily departures, 06:00–19:00**: Trans Emperador 10:00, 12:30, 14:00 (US$7) and Transtin Dil Rey 09:45, 13:00 (US$8), all regular buses.
@@ -125,14 +125,14 @@ Live-checked 24 Nov.
 </tr>
 </table>
 
-**Maragua crater via the Chataquila Inca trail, unguided, 2 days (hike backlog), Tue 26 → Wed 27 Jan.** Logistics from una-noche-mas.com, updated Feb 2026:
+**Maragua crater via the Chataquila Inca trail, unguided, 2 days (hike backlog), Day 50 → 51.** Logistics from una-noche-mas.com, updated Feb 2026:
 - **Getting out:** trufi from Calle Tomás Frías near Plaza San Juanillo to **Chataquila**, ≈ 1.5 h, ≈ Bs 25 for foreigners (hikers' updates on the same page, Feb–Mar 2026; it was Bs 15).
-- **Day 1:** pre-Hispanic paved trail **6.5 km, −800 m** down to Chaunaca (community fee **Bs 25**), then 10 km up the Río Ravelo canyon into the crater. Sleep in Maragua: Nativus Hostel **Bs 50 with dinner and breakfast** (WhatsApp, no booking needed), or Samary Wasi.
-- **Day 2:** 16.5 km over the crater wall, past the **Niñu Mayu dinosaur tracks (Bs 20)**, to **Potolo**. Minibus back to Sucre hourly until ≈ 16:00, **Bs 30**, 2–2.5 h.
+- **Day 50:** pre-Hispanic paved trail **6.5 km, −800 m** down to Chaunaca (community fee **Bs 25**), then 10 km up the Río Ravelo canyon into the crater. Sleep in Maragua: Nativus Hostel **Bs 50 with dinner and breakfast** (WhatsApp, no booking needed), or Samary Wasi.
+- **Day 51:** 16.5 km over the crater wall, past the **Niñu Mayu dinosaur tracks (Bs 20)**, to **Potolo**. Minibus back to Sucre hourly until ≈ 16:00, **Bs 30**, 2–2.5 h.
   - ⚠️ **It leaves when full**, and no source gives different weekday times. A hiker who reached Potolo at 12:10 got a 13:00 colectivo (Nov 2025); one who arrived at 14:00 was told at 18:30 that the bus wouldn't fill, and her group paid for the empty seats (Bs 100 each; Sep 2026, comments on una-noche-mas.com). Start early from Maragua and aim for Potolo by ≈ 13:00.
 - **Totals:** 33 km, top ≈ 3,650 m, ≈ Bs 140 ≈ US$12 plus food and water.
 - **In January:** it's the rainy season (148 mm), so start early and expect afternoon storms. River crossings below Chaunaca and Maragua rise after rain; don't ford a brown, fast river. Download Mapy.cz/Maps.me offline. Spanish helps.
-- **The bed:** keep the Villa Oropeza bed for 26 Jan with the big bag in it (US$5.64), or book 25→26 and 27→28 only.
+- **The bed:** keep the Villa Oropeza bed for Day 50 with the big bag in it (US$5.64), or book 25→26 and 27→28 only.
 - **Guided option:** Sucre agencies such as Condor Trekkers sell 1–2-day Maragua trips with transport (price not verified; ask in town).
   - ⚠️ **LP strongly advises a guide** in the Cordillera de los Frailes: the villages speak Quechua, and a good guide smooths relations with the Jal'qa communities and helps avoid local hostility. LP's prices were ≈ B$650 for 3 days and B$800 for 4 per person, and it rates Condor Trekkers (Calvo and Bolívar; part of its earnings go to social projects) highly; add your name to its whiteboard to share the cost (LP).
   - Our 2026 sources walk it unguided without trouble, so it's a judgement call. If you go alone, pay every community fee, ask before taking photos, and ask at Condor Trekkers about the current mood on the trail.
@@ -144,7 +144,7 @@ Live-checked 24 Nov.
 - **Free in town:** the Recoleta viewpoint plaza (arcaded mirador over the white city) at sunset, and a walk up Cerro Churuquella behind it. The Mercado Central is for eating.
 - **Parque Cretácico (paid, optional):** the Cal Orck'o wall with thousands of dinosaur tracks, **Bs 30** for foreigners (Parque Cretácico's Facebook, 2026). If you do Maragua you see tracks at Niñu Mayu anyway; the wall is bigger.
 
-**If you don't hike (or on Wed 27 if you get back early), from LP's picks:**
+**If you don't hike (or on Day 51 if you get back early), from LP's picks:**
 - **Mercado Campesino (free):** a huge maze of a local market (food, housewares, everything), 06:00–19:00; micro 7 or G northbound from the centre (LP).
 - **Cementerio Municipal (free):** colonial families' mausoleums among clipped poplar arches and palms, 8 blocks south of the plaza along Junín. Mon–Fri 08:00–11:30 and 14:00–17:30, Sat 08:00–17:30 (LP).
 - **The best view in town:** ask the police office inside the Prefectura de Chuquisaca (next to the cathedral) about climbing its cupola; independence murals line the stairs (LP).
@@ -184,7 +184,7 @@ Live-checked 24 Nov.
 - **Moon:** full on 22 Jan; on the Maragua night (26 Jan) it's waning and rises late in the evening (≈).
 - ⚠ **Blockades:** the Potosí → Sucre road was blockaded by the Chuquisaca drivers in Nov 2026.
 
-## ✈ Leaving: Sucre → La Paz, Thu 28 Jan
+## ✈ Leaving: Sucre → La Paz, Day 52
 
 - **BoA 09:05** Sucre → Cochabamba → La Paz (El Alto) **11:25**, **$49** (✅ Google Flights, 27 Nov; no nonstop that day).
 - Flight options, the EcoJet check and the overnight-bus alternative are in the [La Paz guide](la-paz.md).

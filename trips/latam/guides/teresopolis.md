@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md)
 
-> **Optional +2 (Stop 0) · Tue 8 → Thu 10 Dec 2026 · 2 nights · straight from GIG**<br>
+> **Optional +2 (Stop 0) · Day 1 → 3 · 2 nights · straight from GIG**<br>
 > 🏞️ Granite spires and Atlantic-forest trails in the Serra dos Órgãos national park (PARNASO)<br>
 > 🛏️ **Estúdio 325 Teresópolis**, a studio flat with a kitchen, $79 for 2 nights<br>
-> 🚌 **In:** GIG → Novo Rio, then Viação Teresópolis 11:30 or 13:00, Tue 8 · **Out:** Viação Teresópolis back to Novo Rio (e.g. 12:00), Thu 10
+> 🚌 **In:** GIG → Novo Rio, then Viação Teresópolis 11:30 or 13:00, Day 1 · **Out:** Viação Teresópolis back to Novo Rio (e.g. 12:00), Day 3
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SbRAMCS8v1nUKy9D2dZmpqMFE0OB9kInKzezVRmIX9N1LghNgKf5VBAeaOyznLIFE_a-HMwDUSP9wLov7IO5iRrR1cjD-FnzENEHeXLdnoBaR8D0jK1dk9iKAPmOufs4I622Q4jQ=w1200-h360-p-k-no" alt="The Serra dos Órgãos spires, with Dedo de Deus, from Mirante do Soberbo" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Tue 8 Dec** | ✈️ Land at GIG 09:25. 🚌 Mobi-Rio bus to Terminal Gentileza (by Novo Rio), then **Viação Teresópolis 11:30 → 13:30** (or 13:00 → 15:00). Afternoon: the park's **lower section** (entry 07:00–16:00, out by 17:00): Mozart Catão, Cartão Postal, and the Mirante do Soberbo. |
-| **Wed 9 Dec** | 🥾 **Pedra do Sino** (2,263 m), 8–10 h return ≈. Be at the gate at **07:00** (upper-section entry only 07:00–10:00; turn round by 14:00). |
-| **Thu 10 Dec** | An early viewpoint walk, then the 🚌 **12:00** bus → Novo Rio 14:00, and metro or VLT to Copacabana. |
+| **Day 1** | ✈️ Land at GIG 09:25. 🚌 Mobi-Rio bus to Terminal Gentileza (by Novo Rio), then **Viação Teresópolis 11:30 → 13:30** (or 13:00 → 15:00). Afternoon: the park's **lower section** (entry 07:00–16:00, out by 17:00): Mozart Catão, Cartão Postal, and the Mirante do Soberbo. |
+| **Day 2** | 🥾 **Pedra do Sino** (2,263 m), 8–10 h return ≈. Be at the gate at **07:00** (upper-section entry only 07:00–10:00; turn round by 14:00). |
+| **Day 3** | An early viewpoint walk, then the 🚌 **12:00** bus → Novo Rio 14:00, and metro or VLT to Copacabana. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (8 → 10 Dec, 2 nights)
+**Beds** (Day 1 → 3, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -47,9 +47,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Mobi-Rio "Galeão x Terminal Gentileza" · GIG T2 → Terminal Gentileza (by Novo Rio) | Tue 8 Dec, after landing | R$ 15 ($2.52) | at the stop |
-| In | **Viação Teresópolis** · Novo Rio → Teresópolis rodoviária (Várzea) | **Tue 8 Dec 11:30 → 13:30** or 13:00 → 15:00 | **R$ 53.08** ($8.91) | [Viação Teresópolis shop (ClickBus)](https://teresopolis.clickbus.com.br/) |
-| Out | **Viação Teresópolis** · Teresópolis → Novo Rio | **Thu 10 Dec**, e.g. 12:00 → 14:00 | R$ 46.01 ($7.72) | [Viação Teresópolis shop (ClickBus)](https://teresopolis.clickbus.com.br/) |
+| In | Mobi-Rio "Galeão x Terminal Gentileza" · GIG T2 → Terminal Gentileza (by Novo Rio) | Day 1, after landing | R$ 15 ($2.52) | at the stop |
+| In | **Viação Teresópolis** · Novo Rio → Teresópolis rodoviária (Várzea) | **Day 1 11:30 → 13:30** or 13:00 → 15:00 | **R$ 53.08** ($8.91) | [Viação Teresópolis shop (ClickBus)](https://teresopolis.clickbus.com.br/) |
+| Out | **Viação Teresópolis** · Teresópolis → Novo Rio | **Day 3**, e.g. 12:00 → 14:00 | R$ 46.01 ($7.72) | [Viação Teresópolis shop (ClickBus)](https://teresopolis.clickbus.com.br/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -59,12 +59,12 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: GIG → Teresópolis, Tue 8 Dec
+## 🚌 Getting here: GIG → Teresópolis, Day 1
 
 - **No bus runs from GIG to Teresópolis.** riogaleao.com lists only Búzios, Macaé, Charitas and Gentileza ✅.
 - **GIG → Rodoviária Novo Rio:** take the Mobi-Rio "Galeão x Terminal Gentileza" bus from T2 arrivals for **R$ 15 ($2.52)** ✅ riogaleao.com. Terminal Gentileza is a short walk from Novo Rio ≈. An Uber is ≈ R$ 40–60 and about 25 min.
 - **Viação Teresópolis, Novo Rio → Teresópolis rodoviária (Várzea):**
-  - 16 departures on 8 Dec, 06:00–22:00.
+  - 16 departures on Day 1, 06:00–22:00.
   - Realistic after landing at 09:25: the **11:30 → 13:30** or the **13:00 → 15:00**.
   - **2 h, R$ 53.08 ($8.91)**, convencional ✅ teresopolis.clickbus.com.br (the operator's own shop).
 
@@ -87,7 +87,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - Double room for single use. Booking 8.7 (1,507; 8% below 7).
 - **$73** non-refundable, breakfast included. ~1 km from the gate. No AC.
 
-### If you take this option: Rio's bed for 10 → 14 Dec
+### If you take this option: Rio's bed for Day 3 → 7
 - Copacabana Central Hostel on Hostelworld is $15.09 a night ($60.36), about the same price.
 - Beds for the later stops were not re-checked for the shifted +2-day dates.
 
@@ -95,11 +95,11 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZCzvqlk1luU0RtiGZjDEy6t3Uj7HQTJcTsCSG_HqYTjiYWbZVOyMDAg6caSr3l8nfse7NpqgJJ1Hlc73BiA-Exyaovx0KdPFq3JQ-j_hSQBcv5pFd7wYvf_rxnKXi2fCI4KE=w640-h400-p-k-no" width="100%" alt="View over the range from the summit of Pedra do Sino"><br><b><a href="https://www.google.com/maps?ftid=0x99ae7ee09be239:0xc680333e9f5d646a">Pedra do Sino</a></b> (2,263 m) · free, 100 people a day · Wed 9 · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.472222,-43.054722&travelmode=driving">🚕 ≈ 1 h 33 min</a><br>The highest point of the range. About 11 km each way, 8–10 h return ≈.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R4FsBmK6MnRg_Bw8WPfjEhEowed-6Tt_tLvmHEoueVWN5qiqAOJt27jCMFZnztiCABjfsYviMfZxUXetXnAE4GF0encvE2oLfFNIfZgGjZSPoLYc_8zw27Pm4pwodrHswsHSpNYQ=w640-h400-p-k-no" width="100%" alt="Dedo de Deus from the Trilha Cartão Postal viewpoint"><br><b><a href="https://www.google.com/maps?ftid=0x99b355903ab05b:0x1351408e06b75ae2">Trilha Cartão Postal</a></b> · free · Tue 8 · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.4569926,-42.9907502&travelmode=transit">🚌 46 min (bus 1600)</a><br>1.2 km to a Dedo de Deus viewpoint at 1,320 m.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZCzvqlk1luU0RtiGZjDEy6t3Uj7HQTJcTsCSG_HqYTjiYWbZVOyMDAg6caSr3l8nfse7NpqgJJ1Hlc73BiA-Exyaovx0KdPFq3JQ-j_hSQBcv5pFd7wYvf_rxnKXi2fCI4KE=w640-h400-p-k-no" width="100%" alt="View over the range from the summit of Pedra do Sino"><br><b><a href="https://www.google.com/maps?ftid=0x99ae7ee09be239:0xc680333e9f5d646a">Pedra do Sino</a></b> (2,263 m) · free, 100 people a day · Day 2 · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.472222,-43.054722&travelmode=driving">🚕 ≈ 1 h 33 min</a><br>The highest point of the range. About 11 km each way, 8–10 h return ≈.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R4FsBmK6MnRg_Bw8WPfjEhEowed-6Tt_tLvmHEoueVWN5qiqAOJt27jCMFZnztiCABjfsYviMfZxUXetXnAE4GF0encvE2oLfFNIfZgGjZSPoLYc_8zw27Pm4pwodrHswsHSpNYQ=w640-h400-p-k-no" width="100%" alt="Dedo de Deus from the Trilha Cartão Postal viewpoint"><br><b><a href="https://www.google.com/maps?ftid=0x99b355903ab05b:0x1351408e06b75ae2">Trilha Cartão Postal</a></b> · free · Day 1 · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.4569926,-42.9907502&travelmode=transit">🚌 46 min (bus 1600)</a><br>1.2 km to a Dedo de Deus viewpoint at 1,320 m.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SIfAaUJT-tQm0pAxE8mzXo82l64uO9qewj862gCHJoJRqmDeMmBrjE80zy5BFUyZqx64YqprDkhpCgmvbDgjOq9fUMHsbeZRcchpJixkCwTzFdUgS3yRtQe6ouYAb87XR7XlmLIgwYWrIi=w640-h400-p-k-no" width="100%" alt="Teresópolis from the Mozart Catão viewpoint"><br><b><a href="https://www.google.com/maps?ftid=0x99b2f8eeb99207:0x863dba74e6d630a0">Trilha Mozart Catão</a></b> · free · Tue 8 · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.4521324,-42.9870335&travelmode=transit">🚌 32 min (bus 1600)</a><br>800 m, about 1 h return, to a viewpoint at 1,100 m.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SIfAaUJT-tQm0pAxE8mzXo82l64uO9qewj862gCHJoJRqmDeMmBrjE80zy5BFUyZqx64YqprDkhpCgmvbDgjOq9fUMHsbeZRcchpJixkCwTzFdUgS3yRtQe6ouYAb87XR7XlmLIgwYWrIi=w640-h400-p-k-no" width="100%" alt="Teresópolis from the Mozart Catão viewpoint"><br><b><a href="https://www.google.com/maps?ftid=0x99b2f8eeb99207:0x863dba74e6d630a0">Trilha Mozart Catão</a></b> · free · Day 1 · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.4521324,-42.9870335&travelmode=transit">🚌 32 min (bus 1600)</a><br>800 m, about 1 h return, to a viewpoint at 1,100 m.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rl65Yi30EMjSsJvvsh2QGwpcge-D9vfqT2Hr7_inejKSce6cKnBLVQ6DyOZYXILHrde74HSnaWoSHJKDlUpRAxwVK1t_cz_K5_6912CBEk2K1odDyHLrTpI_M6wWcCQwe8_V9g=w640-h400-p-k-no" width="100%" alt="The raised boardwalk of the Trilha Suspensa"><br><b><a href="https://www.google.com/maps?ftid=0x99b39eaf18d56d:0x634a788a75a54c38">Trilha Suspensa</a></b> · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-22.4385109,-42.978981&destination=-22.4516315,-43.0011126&travelmode=transit">🚌 1 h 16 min (bus 1600)</a><br>One of the short lower-section trails, with 360 and the Circuito Juçara.</td>
 </tr>
 <tr>
@@ -112,10 +112,10 @@ Source for the park rules and trails: ✅ gov.br/icmbio PARNASO pages, updated 1
 
 **Park entry:**
 - **Free.** First come, first served up to a daily cap.
-- **Closed Mondays.** Tue 8 → Thu 10 is fine.
+- **Closed Mondays.** Day 1 → 3 is fine.
 - Bring your passport. The page asks for a CPF and photo ID; whether a passport alone is enough for a foreigner is ≈.
 
-**Tue 8 afternoon, lower section** (entry 07:00–16:00, out by 17:00):
+**Day 1 afternoon, lower section** (entry 07:00–16:00, out by 17:00):
 - **Trilha Mozart Catão** (800 m, about 1 h return, viewpoint at 1,100 m).
 - **Trilha Cartão Postal** (1.2 km, Dedo de Deus viewpoint at 1,320 m); lengths ≈ LP.
 - Also Trilha Suspensa, 360 and the Circuito Juçara.
@@ -138,8 +138,8 @@ Source for the park rules and trails: ✅ gov.br/icmbio PARNASO pages, updated 1
 No restaurants were checked for Teresópolis. The pick has its own kitchen, with a supermarket opposite.
 
 ## ℹ️ Good to know
-- **What this option changes:** if chosen, **Rio moves to Thu 10 → Mon 14 Dec** (4 nights), and every later stop shifts +2 days.
-  - That gains Rio's Sunday (13 Dec) car-free Av. Atlântica / Aterro do Flamengo.
+- **What this option changes:** if chosen, **Rio moves to Day 3 → 7** (4 nights), and every later stop shifts +2 days.
+  - That gains Rio's Sunday (Day 6) car-free Av. Atlântica / Aterro do Flamengo.
   - You would still miss the Monday Pedra do Sal samba, because you leave Rio on Monday morning.
   - Beds for the later stops were not re-checked for the shifted dates.
 - **Weather:** December storms come after about 13:00, so start hikes early.
@@ -147,11 +147,11 @@ No restaurants were checked for Teresópolis. The pick has its own kitchen, with
 - **What LP says** (*South America on a Shoestring*): it covers the park in two lines only. It names Serra dos Órgãos among Brazil's best hiking parks and says it draws climbers and mountaineers. It puts the best hiking season in the cooler months, **April–October (LP)**, so December means heat and afternoon storms. There is no Teresópolis write-up and no hostel listing; LP's Rio bus table lists only Petrópolis (1½ h, Única-Fácil).
 - **Health (LP):** dengue occurs in Rio state, so use repellent in the forest. A **yellow-fever jab** isn't required to enter Brazil but LP strongly recommends it. Clinics at major airports and borders give it free.
 
-## 🚌 Leaving: Teresópolis → Rio, Thu 10 Dec
+## 🚌 Leaving: Teresópolis → Rio, Day 3
 
 - **Viação Teresópolis, Teresópolis → Novo Rio:** 17 departures 04:00–20:00, 2 h, **R$ 46.01 ($7.72)** ✅.
 - For example, the **12:00 arrives 14:00**; then metro or VLT to Copacabana.
-- Continue with the [Rio de Janeiro guide](rio-de-janeiro.md) (Thu 10 → Mon 14 Dec in this option).
+- Continue with the [Rio de Janeiro guide](rio-de-janeiro.md) (Day 3 → 7 in this option).
 
 ---
 <sub>Photos: Google Maps contributors (Mirante do Soberbo, Pedra do Sino, Trilha Cartão Postal, Mirante Mozart Catão, Trilha Suspensa, PARNASO Sede Teresópolis).</sub>

@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) · [Sucre](sucre.md) →
 
-> **Stop 18 · Sat 23 → Mon 25 Jan 2027 (days 47–49) · 2 nights (2nd night added 26 Nov, LP pick)**<br>
+> **Stop 18 · Day 47 → 49 · 2 nights (2nd night added 26 Nov, LP pick)**<br>
 > 🏞️ Colonial mining city at 4,070 m under the Cerro Rico: a UNESCO centre and a live mine<br>
 > 🛏️ **Los Faroles Hostal**, a private family room with shared bathroom, US$57 for 2 nights with breakfast (no well-rated dorm in town)<br>
 > 🚌 **In:** bus from Uyuni after the tour, Sat 15:00–19:00 · **Out:** bus to Sucre after lunch, Mon
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 23 Jan | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
-| **Day 2** · Sun 24 Jan · Alasitas fair opens (La Paz) | 🏛️ **Casa Nacional de Moneda**, the **09:15** English tour (✅ Bs 70; at weekends English tours run only at 09:15 and 11:00). 🍲 Calapurca for lunch. 🌊 Afternoon swim in the **Ojo del Inca** crater lake (camión from Mercado Chuquimia; last ride back ≈ 17:00). 🌆 The centre at dusk. ⚠️ The mine tour moved to Monday: the miners don't work on Sundays. |
-| **Day 3** · Mon 25 Jan | ⛏️ **Cerro Rico mine tour** at 08:45–09:00, 3–4 h, on a working day. 🚌 **Potosí → Sucre** at **14:00** (13:00 if you skip the mine). |
+| **Day 47** | 🚙 The jeep tour ends in Uyuni ≈ 13:00–15:00. 🚌 **Uyuni → Potosí**, ≈ 4 h (e.g. 15:00 → 19:00). 🚕 Taxi from the Nueva Terminal (≈ Bs 15–20). 🌆 Walk the centre at dusk. |
+| **Day 48** · Alasitas fair opens (La Paz) | 🏛️ **Casa Nacional de Moneda**, the **09:15** English tour (✅ Bs 70; at weekends English tours run only at 09:15 and 11:00). 🍲 Calapurca for lunch. 🌊 Afternoon swim in the **Ojo del Inca** crater lake (camión from Mercado Chuquimia; last ride back ≈ 17:00). 🌆 The centre at dusk. ⚠️ The mine tour moved to Monday: the miners don't work on Sundays. |
+| **Day 49** | ⛏️ **Cerro Rico mine tour** at 08:45–09:00, 3–4 h, on a working day. 🚌 **Potosí → Sucre** at **14:00** (13:00 if you skip the mine). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Beds** (23 → 25 Jan, 2 nights)
+**Beds** (Day 47 → 49, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -49,10 +49,10 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | Bus **Uyuni → Potosí**, semi-cama, ≈ 4 h | **Sat 23 Jan**, 15:00 → 19:00 (Trans ATL Grevalug) up to 19:00 → 23:00; later 19:30, 20:30, 21:00 | US$11–15 on Tickets Bolivia (the counter is cheaper) | at the Uyuni terminal |
+| In | Bus **Uyuni → Potosí**, semi-cama, ≈ 4 h | **Day 47**, 15:00 → 19:00 (Trans ATL Grevalug) up to 19:00 → 23:00; later 19:30, 20:30, 21:00 | US$11–15 on Tickets Bolivia (the counter is cheaper) | at the Uyuni terminal |
 | Soft day | Night bus **Uyuni → Sucre** (Emperador / 6 de Octubre) | 21:30 → 05:30 | ≈ US$25 on Tickets Bolivia | if the tour runs a day late |
-| Tour | **Cerro Rico mine tour** | **Mon 25 Jan 08:45–09:00**, 3–4 h (not Sunday: no miners at work) | ≈ Bs 100–150 (US$8.50–13) in person + Bs 20–40 of gifts | in person (GetYourGuide/Viator Bs 200–350) |
-| Out | Bus **Potosí → Sucre**, ≈ 3–4 h | **Mon 25 Jan 14:00** (13:00 without the mine tour) | US$7–8 | Nueva Terminal; see the [Sucre guide](sucre.md) |
+| Tour | **Cerro Rico mine tour** | **Day 49 08:45–09:00**, 3–4 h (not Sunday: no miners at work) | ≈ Bs 100–150 (US$8.50–13) in person + Bs 20–40 of gifts | in person (GetYourGuide/Viator Bs 200–350) |
+| Out | Bus **Potosí → Sucre**, ≈ 3–4 h | **Day 49 14:00** (13:00 without the mine tour) | US$7–8 | Nueva Terminal; see the [Sucre guide](sucre.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 </details>
 
-## 🚌 Getting here: Uyuni → Potosí, Sat 23 Jan
+## 🚌 Getting here: Uyuni → Potosí, Day 47
 
 Bus Uyuni → Potosí, ≈ 4 h, semi-cama, from Uyuni's bus terminal. The schedule below is from Tickets Bolivia's route page (24 Nov), a reseller; its fares run above the terminal counter price. Departures after a 13:00–14:00 tour finish:
 
@@ -122,7 +122,7 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
 </table>
 
 - **Free:** walk the UNESCO centre at dusk and at 08:00: Plaza 10 de Noviembre, the balconied Calle Quijarro, and the view of Cerro Rico from the centre. At 4,070 m it's higher than anything since the tour, so walk slowly.
-- **Cerro Rico mine tour (paid, unique), Mon 25 Jan 08:45–09:00, 3–4 h**, back ≈ 12:30 for the 14:00 bus to Sucre.
+- **Cerro Rico mine tour (paid, unique), Day 49 08:45–09:00, 3–4 h**, back ≈ 12:30 for the 14:00 bus to Sucre.
   - ⚠️ **Not on Sunday 24:** "On Sundays the mine workers are not at work" (Kaleidoscope Travel's tour page, 27 Nov; lead), so you'd walk empty tunnels. LP has Koala Tours running Mon–Fri only. The mint and the Ojo del Inca take the Sunday instead.
   - **Price:** ≈ **Bs 100–150 (US$8.50–13)** booked in person, against Bs 200–350 on GetYourGuide/Viator; plus **Bs 20–40 of gifts** at the miners' market (coca leaves, juice or soda, work gloves).
   - Skip the dynamite: ethical guides discourage it.
@@ -135,7 +135,7 @@ Live-checked 24 Nov. **No dorm:** Potosí has no well-rated dorm (Hostelworld li
   - **Bs 70 for foreigners**, guided tours only, ≈ 1 h 30, up to 25 people, **daily**. The site lists QR payment, which foreign apps can't use, so bring cash and ask.
   - **English tours Mon–Fri 09:00, 11:00 and 14:30** (Sat–Sun 09:15, 11:00); Spanish tours run about every half-hour 09:00–15:00 on weekdays.
   - LP's older figures were B$40 + B$20 for photos, Tue–Sun; LP calls it one of South America's finest museums.
-  - **Day 2 (Sun 24 Jan):** take the **09:15** English tour (✅ casanacionaldemoneda.bo, 27 Nov: at weekends English tours run only at 09:15 and 11:00, and the box office closes at 11:45). The weekday 14:30 tour doesn't run on Sundays.
+  - **Day 48:** take the **09:15** English tour (✅ casanacionaldemoneda.bo, 27 Nov: at weekends English tours run only at 09:15 and 11:00, and the box office closes at 11:45). The weekday 14:30 tour doesn't run on Sundays.
 - **Ojo del Inca, Tarapaya (outdoors, cheap; Sunday afternoon):** a perfectly round, 30 °C green crater lake you can swim in, 21 km north-west of town (LP).
   - Camiones from Mercado Chuquimia on Av. Antofagasta (near the old terminal) every ≈ 30 min, 06:00–19:00, B$4, 30 min; taxi ≈ B$70 one way. The last ride back leaves Tarapaya around 17:00–18:00 (LP).
   - After the 09:15 mint tour (≈ 1 h 30) there's the whole afternoon; be on a ride back by ≈ 17:00.
@@ -167,7 +167,7 @@ These are ≈ AI-summary leads, Nov 2026.
 - **Money:** ATMs are common in the centre. Businesses on Bolívar, Sucre and in the market change US dollars; stalls on Héroes del Chaco also take euros and Chilean and Argentine pesos (LP).
 - **Tourist police:** ground floor of the Gobernación on Plaza 10 de Noviembre, with a branch at the new bus terminal (LP).
 
-## 🚌 Leaving: Potosí → Sucre, Mon 25 Jan
+## 🚌 Leaving: Potosí → Sucre, Day 49
 
 - Potosí's buses to Sucre also leave from the **Nueva Terminal**.
 - After the Monday-morning mine tour, take the **14:00** (Trans Emperador). Times, fares and the blockade warning are in the [Sucre guide](sucre.md).

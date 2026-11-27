@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md). Stops: [Teresópolis / Serra dos Órgãos (optional)](teresopolis.md) · [Rio de Janeiro](rio-de-janeiro.md) · [Ilha Grande](ilha-grande.md) · [Paraty](paraty.md) · [São Paulo](sao-paulo.md) · [Curitiba + Serra Verde](curitiba.md) · [Foz do Iguaçu](foz-do-iguacu.md) · [Florianópolis](florianopolis.md) · [Porto Alegre](porto-alegre.md) (since 27 Nov)
 
-**1. Brazil: Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Foz do Iguaçu (Tue 8 – Mon 21 Dec 2026)**
+**1. Brazil: Rio → Ilha Grande → Paraty → São Paulo → Curitiba → Foz do Iguaçu (Days 1–14)**
 
 Prices are in USD at R$ 5.958 = $1 (open.er-api.com, 24 Nov 2026). Beds were live-checked on 24 Nov 2026 for 1 adult on:
 - **Hostelworld (HW):** listings API and review download.
@@ -22,7 +22,7 @@ Prices are in USD at R$ 5.958 = $1 (open.er-api.com, 24 Nov 2026). Beds were liv
    - The **16:10 Graciosa-road bus** (10 seats listed).
    - The **Catarinense cama** (2 left; the convencional is fine).
 2. **Unverified prices and times:**
-   - The exact Brazilian-side park price for 19 Dec ("from R$ 131").
+   - The exact Brazilian-side park price for Day 12 ("from R$ 131").
    - Foz ↔ Puerto Iguazú and Puerto Iguazú → falls bus fares (≈ AR$ 10–12k each).
    - The Bondinho hiker tickets (R$ 140 / R$ 65), the Paineiras van, and the Iguazú boat ride.
    - Costa Verde's Saturday times and fare to Conceição de Jacareí.
@@ -35,9 +35,9 @@ Prices are in USD at R$ 5.958 = $1 (open.er-api.com, 24 Nov 2026). Beds were liv
    - Hostelworld adds a booking fee at checkout that its API doesn't show.
    - Booking totals are shown with the signed-in Genius discount.
 6. **Curtains:** confirmed only at **Lamparina (São Paulo), Cocos (Rio backup), Bambu (Foz)** and The Lodge's capsules. The Rio, Ilha Grande, Paraty and Curitiba picks have none or don't mention them.
-7. **Teresópolis option:** if chosen, every stop after Rio moves +2 days. Only Rio's bed was re-checked for the shifted dates; Ilha Grande, Paraty, São Paulo, Curitiba and Foz would need re-checking, along with the Serra Verde date (it would become Sun 20 Dec).
+7. **Teresópolis option:** if chosen, every stop after Rio moves +2 days. Only Rio's bed was re-checked for the shifted dates; Ilha Grande, Paraty, São Paulo, Curitiba and Foz would need re-checking, along with the Serra Verde date (it would become Day 13).
 8. **Stamps:** whether the direct Foz → Asunción buses stop for both border stamps is unverified. Ask the driver, or take the do-it-yourself route over the bridge.
-9. **Iguaçu high water (found 26 Nov):** recheck both before 19 Dec.
+9. **Iguaçu high water (found 26 Nov):** recheck both before Day 12.
    - The **Argentine Garganta del Diablo circuit has been closed since 3 Aug 2026**, with no reopening news by 25 Nov ✅ iguazuargentina.com.
    - The **Brazilian Garganta do Diabo walkway closed again on 26 Nov** ≈ (local news).
    - The other trails on both sides are open. Details are in the [Foz guide](foz-do-iguacu.md).

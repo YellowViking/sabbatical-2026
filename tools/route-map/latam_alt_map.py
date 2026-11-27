@@ -8,7 +8,7 @@ exec(SRC[:SRC.index("o=[f'<svg")])          # defines W, H, P, S, L, CAL, MODES,
 FLN, PDD, NAZ_, HUA, PAR = (-27.6,-48.5), (-34.04,-53.54), (-14.83,-74.94), (-14.09,-75.76), (-13.83,-76.25)
 ALT = {  # key: (colour, dash, width, legend label)
  'A':  ('#c2185b', '9 5', 3.4, 'Plan A, dropped 27 Nov: Foz → Asunción → Encarnación (Christmas) → EGA bus to Montevideo'),
- 'C':  ('#2e7d32', '9 5', 3.4, 'Option C: Arequipa → Nazca → Huacachina → Paracas → Lima, award flight from Lima on 6 Feb'),
+ 'C':  ('#2e7d32', '9 5', 3.4, 'Option C: Arequipa → Nazca → Huacachina → Paracas → Lima, award flight from Lima (Day 64)'),
 }
 ASU, ENC = (-25.28,-57.63), (-27.33,-55.87)
 ALT_LEGS = [('A',['Foz do Iguaçu',CDE,ASU,ENC,POS,CONC,'Montevideo']), ('C',['Arequipa',NAZ_,HUA,PAR,LIMA])]
@@ -144,6 +144,6 @@ o.append(f'<text x="{lx}" y="{ty}" class="ink t-stop">Add-ons (yellow pins; ⭐ 
 for i,a in enumerate(ADD):
     col,row=divmod(i,7); x0=lx+col*480; y0=ty+20+row*17
     o.append(alink(addlink(a[0]), f'<text x="{x0}" y="{y0}" class="ink t-list"><tspan font-weight="700">{a[0]}.</tspan> {a[2]}</text>'))
-o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Decided 27 Nov: Christmas week down Brazil’s coast into Uruguay (Paraguay dropped); +6 days at the adventure hubs (Champaquí, Cerro Toco, Chirripó, Somoto); home Wed 10 Mar.</text>')
+o.append(f'<text x="{lx}" y="{ty+20+7*17+12}" class="ink2 t-note">Decided 27 Nov: Christmas week down Brazil’s coast into Uruguay (Paraguay dropped); +6 days at the adventure hubs (Champaquí, Cerro Toco, Chirripó, Somoto); home on Day 93.</text>')
 o.append('</svg>')
 OUT=sys.argv[2]; open(OUT,'w').write('\n'.join(o)); print(OUT, W, HH)

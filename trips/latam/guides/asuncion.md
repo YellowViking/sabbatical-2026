@@ -5,7 +5,7 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 > ⏸️ **Plan A, dropped 27 Nov.** Christmas week now goes down Brazil's coast instead: [Florianópolis](florianopolis.md) → [Porto Alegre](porto-alegre.md) → [Punta del Diablo](punta-del-diablo.md). This guide is kept in case Paraguay comes back; its dates, prices and bookings were checked 24–26 Nov and haven't been rechecked.
 
 
-> **Plan A (dropped) · Mon 21 → Wed 23 Dec 2026 · 2 nights**<br>
+> **Plan A (dropped) · Day 14 → 16 · 2 nights**<br>
 > 🏞️ Paraguay's capital on its river bay: a waterfront promenade, a compact old centre and a mural-covered hillside barrio<br>
 > 🛏️ **Hostel Chaton**, a bunk in a mixed dorm, $18 for 2 nights<br>
 > 🚌 **In:** Expresso Nordeste from Foz do Iguaçu, Mon 08:00 · **Out:** La Encarnacena to Encarnación, Wed 08:30
@@ -32,15 +32,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 21 Dec | 🚌 08:00 Expresso Nordeste from Foz, arriving ≈ 15:00. Bus 88 to the hostel (18 min). Sunset on the **Costanera**. |
-| **Day 2** · Tue 22 Dec | A normal working day, ≈ 34 °C, so walk early and late. 🏛️ **Historic-centre walk** and **Loma San Jerónimo** in the morning. Midday: lunch at **Lido Bar**. From 14:00: the **Museo del Barro** (✅ opens Tue 14:00–20:00, PYG 50,000). Late afternoon: **Cerro Lambaré** viewpoint, back before dark. |
-| **Day 3** · Wed 23 Dec | 🚌 **08:30 La Encarnacena** to Encarnación (see the [Encarnación guide](encarnacion.md)). |
+| **Day 14** | 🚌 08:00 Expresso Nordeste from Foz, arriving ≈ 15:00. Bus 88 to the hostel (18 min). Sunset on the **Costanera**. |
+| **Day 15** | A normal working day, ≈ 34 °C, so walk early and late. 🏛️ **Historic-centre walk** and **Loma San Jerónimo** in the morning. Midday: lunch at **Lido Bar**. From 14:00: the **Museo del Barro** (✅ opens Tue 14:00–20:00, PYG 50,000). Late afternoon: **Cerro Lambaré** viewpoint, back before dark. |
+| **Day 16** | 🚌 **08:30 La Encarnacena** to Encarnación (see the [Encarnación guide](encarnacion.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (21 → 23 Dec, 2 nights)
+**Beds** (Day 14 → 16, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -53,9 +53,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Expresso Nordeste** · Foz Rodoviária Internacional → Asunción terminal, semi-leito | **Mon 21 Dec 08:00 → 15:00** (28 seats left) | **R$ 114.99 ($19.30)** | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/assuncao-py?departureDate=2026-12-21) |
-| In, alt | **NSA** · Foz → Asunción | Mon 21 Dec 10:00 → 17:00 | Gs 200,000 ($31.50) | nsa.com.py |
-| Out | **La Encarnacena** · Asunción → Encarnación | **Wed 23 Dec 08:30** (or 12:00) → ≈ 14:00 | ≈ $19 | [La Encarnacena](https://compraonline.sittnet.net/py/5596/) |
+| In | **Expresso Nordeste** · Foz Rodoviária Internacional → Asunción terminal, semi-leito | **Day 14 08:00 → 15:00** (28 seats left) | **R$ 114.99 ($19.30)** | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/assuncao-py?departureDate=2026-12-21) |
+| In, alt | **NSA** · Foz → Asunción | Day 14 10:00 → 17:00 | Gs 200,000 ($31.50) | nsa.com.py |
+| Out | **La Encarnacena** · Asunción → Encarnación | **Day 16 08:30** (or 12:00) → ≈ 14:00 | ≈ $19 | [La Encarnacena](https://compraonline.sittnet.net/py/5596/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -65,7 +65,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Foz do Iguaçu → (Ciudad del Este) → Asunción, Mon 21 Dec
+## 🚌 Getting here: Foz do Iguaçu → (Ciudad del Este) → Asunción, Day 14
 
 **(a) Direct bus, the simplest:**
 - **Pick: Expresso Nordeste 08:00 Foz Rodoviária Internacional → Asunción terminal 15:00**, semi-leito, **R$ 114.99 ($19.30)**, 28 seats left. ✅ ClickBus (Nordeste's own web shop runs on ClickBus).
@@ -93,7 +93,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ### ⭐ Pick: Hostel Chaton
 - **Unit:** a bunk in a mixed dorm.
-- **Price:** **$18 for 2 nights on Booking** (free cancellation to 21 Dec, pay at the property). Not on Hostelworld.
+- **Price:** **$18 for 2 nights on Booking** (free cancellation to Day 14, pay at the property). Not on Hostelworld.
 - **Reviews:** Booking **9.2 (53 reviews; 2% below 7)**, **location 9.5**.
 - **Where:** ≈ 2 km south-east of Plaza Uruguaya (28 min on foot, or a short bus or ride).
 - ✅ "Great kitchen", big dorm, garden and terrace, AC.
@@ -176,12 +176,12 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Bellini** (Palma near 15 de Agosto): pick your ingredients and watch your fresh pasta cooked; ≈ PYG 35–45k in LP (LP).
 - **Confitería Bolsi** (Estrella 399): open 24 h, running since 1960; LP suggests the surubí river fish (LP).
 - **Bar San Roque:** ≈ Mon–Sat 08:00–15:00 and 18:00–24:00, Sun lunch only (LP).
-- ⚠️ Many restaurants close on **Mondays** (LP), so check before walking out on Mon 21.
+- ⚠️ Many restaurants close on **Mondays** (LP), so check before walking out on Day 14.
 
-**Craft beer:** the **Sajonia Brewing Company** taproom ≈ (lead, not checked). LP's picks are **Palo Santo Brewing Co.** (Del Maestro, Tue–Sun ≈ 17:00–01:00) and **Sacramento Brewing Co.** (Av Santísimo Sacramento 655, draught only, Tue–Sun ≈ 18:00–01:00), both in the eastern suburbs, so Tue 22 evening, not Mon 21 (LP; check they're still open). Bars and clubs often charge men at the door after 22:00 (LP).
+**Craft beer:** the **Sajonia Brewing Company** taproom ≈ (lead, not checked). LP's picks are **Palo Santo Brewing Co.** (Del Maestro, Tue–Sun ≈ 17:00–01:00) and **Sacramento Brewing Co.** (Av Santísimo Sacramento 655, draught only, Tue–Sun ≈ 18:00–01:00), both in the eastern suburbs, so Day 15 evening, not Day 14 (LP; check they're still open). Bars and clubs often charge men at the door after 22:00 (LP).
 
 ## ℹ️ Good to know
-- **21–22 Dec are normal working days.**
+- **Days 14–15 are normal working days.**
 - **It's hot:** expect about 34 °C, so walk early and late.
 - **Safety:** the centre empties after dark, and the riverside **Chacarita** slum is off limits.
   - LP rates Paraguay among the continent's safest countries, but names the **Costanera** as the exception in Asunción (occasional robberies): enjoy the sunset, then leave as it gets dark (LP).
@@ -195,7 +195,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Health:** tap water is fine in the cities; dengue has occasional outbreaks, but there's no malaria (LP).
 - No parkrun in Paraguay or Uruguay.
 
-## 🚌 Leaving: Asunción → Encarnación, Wed 23 Dec
+## 🚌 Leaving: Asunción → Encarnación, Day 16
 
 - **La Encarnacena direct bus at 08:30** (or 12:00) from the Asunción terminal, arriving ≈ 14:00, ≈ $19.
 - Full details (windows, online shop, NSA's night bus) are in the [Encarnación guide](encarnacion.md).

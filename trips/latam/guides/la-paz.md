@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Sucre](sucre.md) · [Copacabana + Isla del Sol](copacabana-isla-del-sol.md) →
 
-> **Stop 20 · Thu 28 → Sun 31 Jan 2027 (days 52–55) · 3 nights · Alasitas fair (from the 24th) is on**<br>
+> **Stop 20 · Day 52 → 55 · 3 nights · Alasitas fair (from the 24th) is on**<br>
 > 🏞️ A canyon city at 3,640 m under Illimani: cable cars, markets, and big days out to Tiwanaku, Pico Austria or the Death Road<br>
 > 🛏️ **La Casa Bonita**, a bed in a 4-bed mixed dorm, $36 for 3 nights (✅ 27 Nov, Hostelworld = Agoda = Booking), 90 m from the bus terminal<br>
 > ✈ **In:** BoA Sucre → La Paz via Cochabamba, Thu 09:05 → 11:25 · 🚌 **Out:** bus to Copacabana, Sun 07:30
@@ -29,16 +29,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 28 Jan | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: it's Thursday, so 🚡 **Mi Teleférico** Roja up to El Alto's **Feria 16 de Julio** (Thu + Sun only; winds down mid-afternoon), then the Thursday **cholitas wrestling** show in El Alto *(lead)*. **Alasitas** (the miniatures fair, on since the 24th) moves to Fri or Sat. |
-| **Day 2** · Fri 29 Jan | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
-| **Day 3** · Sat 30 Jan | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone). Alasitas is still on. Withdraw ≈ Bs 600 for Isla del Sol. |
-| **Day 4** · Sun 31 Jan | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
+| **Day 52** | ✈ **BoA 09:05** Sucre → Cochabamba → El Alto **11:25**. Taxi Bs 80–150 to the hostel (≈ 40 min). Afternoon: it's Thursday, so 🚡 **Mi Teleférico** Roja up to El Alto's **Feria 16 de Julio** (Thu + Sun only; winds down mid-afternoon), then the Thursday **cholitas wrestling** show in El Alto *(lead)*. **Alasitas** (the miniatures fair, on since the 24th) moves to Fri or Sat. |
+| **Day 53** | 🏔️ One big day, chosen by the 48-h mountain forecast: **Pico Austria** (1-day) if it looks clear, or 🚵 **Death Road** if it's the wetter day. Or 🏛️ **Tiwanaku**. |
+| **Day 54** | The other big day, or ⛰️ **Muela del Diablo** in the morning (not alone). Alasitas is still on. Withdraw ≈ Bs 600 for Isla del Sol. |
+| **Day 55** | 🚌 **07:30 Vicuña Travel** to Copacabana from the main terminal, 90 m from the hostel ([next guide](copacabana-isla-del-sol.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (28 → 31 Jan, 3 nights)
+**Beds** (Day 52 → 55, 3 nights)
 
 | | Where | Total | Location | From El Alto airport | Book |
 |---|---|---:|:---:|---|---|
@@ -50,9 +50,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | ✈ **BoA** · Sucre → La Paz via Cochabamba | **Thu 28 Jan 09:05 → 11:25** (2 h 20; also 20:45) | **$49** ✅ 27 Nov (Google Flights; no nonstop that day) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjhqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) · [BoA](https://www.boa.bo/) |
+| In | ✈ **BoA** · Sucre → La Paz via Cochabamba | **Day 52 09:05 → 11:25** (2 h 20; also 20:45) | **$49** ✅ 27 Nov (Google Flights; no nonstop that day) | [Google Flights](https://www.google.com/travel/flights/search?tfs=GhoSCjIwMjctMDEtMjhqBRIDU1JFcgUSA0xQQkABSAGYAQI&curr=USD&hl=en) · [BoA](https://www.boa.bo/) |
 | Check first | ✈ **EcoJet** · Sucre → La Paz nonstop | "new route from 4 December", no schedule shown | — | flyecojet.aero |
-| Out | 🚌 **Vicuña Travel** · La Paz → Copacabana (semi-cama) | **Sun 31 Jan 07:30 → ≈ 11:30** | ≈ $7 on Tickets Bolivia (the counter is cheaper) | at the terminal; see the [Copacabana guide](copacabana-isla-del-sol.md) |
+| Out | 🚌 **Vicuña Travel** · La Paz → Copacabana (semi-cama) | **Day 55 07:30 → ≈ 11:30** | ≈ $7 on Tickets Bolivia (the counter is cheaper) | at the terminal; see the [Copacabana guide](copacabana-isla-del-sol.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,17 +63,17 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## ✈ Getting here: Sucre → La Paz, Thu 28 Jan (Day 52)
+## ✈ Getting here: Sucre → La Paz, Day 52
 
-- ✅ **Google Flights, rechecked 27 Nov for Thu 28 Jan** (no nonstop). **BoA via Cochabamba:**
+- ✅ **Google Flights, rechecked 27 Nov for Day 52** (no nonstop). **BoA via Cochabamba:**
   - **09:05 → 11:25 (2 h 20; OB 573 + OB 610), US$49**, the pick;
   - 20:45 → 23:05, US$49;
   - via Santa Cruz, 18:30 → 21:05, US$74.
 - **Buy** on boa.bo or Google Flights' BoA link (cash fare; a checked bag is normally included on BoA domestic, ≈).
 - **Nonstop options:** BoA's restored SRE–LPB nonstop started 17 Nov 2026 and runs **3× a week**: ≈ OB 561 07:35 on Wed/Thu and OB 567 21:30 on Tue/Wed (FlightsFrom/AI-summary lead), never Sunday.
-  - ⚠️ **Not confirmed for Thu 28 Jan:** Google Flights (27 Nov) shows no SRE–LPB nonstop on Thu 28 or Wed 27 Jan, nor on Thu 3 or Wed 9 Dec, only the connections above. boa.bo sits behind a bot check, so ask BoA (app or office) before relying on a 07:35.
+  - ⚠️ **Not confirmed for Day 52:** Google Flights (27 Nov) shows no SRE–LPB nonstop on Day 52 or Day 51, nor on the control dates 3 and 9 Dec, only the connections above. boa.bo sits behind a bot check, so ask BoA (app or office) before relying on a 07:35.
 - ✅ **EcoJet** announces a "new route Sucre–La Paz from 4 December" on flyecojet.aero, but no schedule is shown. **Check EcoJet for a nonstop on your flight day before buying the BoA connection.**
-- **Ground option:** overnight bus Wed 27 Jan 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$49 flight is better.
+- **Ground option:** overnight bus Day 51 19:30–20:00 → La Paz 06:30–07:00, ≈ Bs 150–250 (US$13–21, cama with El Dorado or Trans Copacabana; AI-summary lead). It costs the last Sucre night, so the US$49 flight is better.
 - **Sucre's Alcantarí airport** is ≈ 30 km out (taxi ≈ Bs 80–100, ≈; leave town by 07:30).
 - **At El Alto:** official taxi **Bs 80–150** to the centre (Bolivian Life, Nov 2026), ≈ 40 min to the hostel, or minibus 212 for ≈ Bs 3.
   - LP: the minibus has a "Minibus Cotranstur" sign just outside arrivals, runs ≈ 07:00–20:00 to Plaza Isabel la Católica (B$3.80 in LP) and drops anywhere along El Prado. LP's radio-taxi fare was ≈ B$70 (LP).
@@ -116,7 +116,7 @@ All live-checked on 24 Nov.
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKeAMkxwy8CDATC4kjdg4dcJCjwa7gGtVhdq0sWguEIG7POm3EcruikWEfYGKCVmvDxfskPXAabAUs2lVJcKGcQ2-7uQhbd4UiGj997ex_RR5xU7ydPyV1l1nBfw6oMqBVHqckiA=w640-h400-p-k-no" width="100%" alt="The rock tower of Muela del Diablo"><br><b><a href="https://www.google.com/maps?ftid=0x915f26a50b0fd8b7:0xff835f20cdfe0cfb">Muela del Diablo</a></b> · free hike, a morning · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5622868,-68.0569339&travelmode=driving">🚕 ≈ 52 min</a><br>1.5–2 h up from Pedregal to the "devil's molar" (≈ 3,800 m) with Illimani views. ⚠️ Don't go alone.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feria_16_de_julio_El_Alto_%281%29_13.jpg/500px-Feria_16_de_julio_El_Alto_%281%29_13.jpg" width="100%" alt="Stalls of the Feria 16 de Julio in El Alto, seen from the cable car"><br><b><a href="https://www.google.com/maps?ftid=0x915edfb8a9cc93a1:0xfede2c30b92be122">Feria 16 de Julio</a></b>, El Alto · free · Thu + Sun · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4967763,-68.1714609&travelmode=transit">🚌 33 min (gondola lift Roja)</a><br>A huge flea market on the rim at 4,000 m. Thu 28 is your only chance.</td>
+<td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feria_16_de_julio_El_Alto_%281%29_13.jpg/500px-Feria_16_de_julio_El_Alto_%281%29_13.jpg" width="100%" alt="Stalls of the Feria 16 de Julio in El Alto, seen from the cable car"><br><b><a href="https://www.google.com/maps?ftid=0x915edfb8a9cc93a1:0xfede2c30b92be122">Feria 16 de Julio</a></b>, El Alto · free · Thu + Sun · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.4967763,-68.1714609&travelmode=transit">🚌 33 min (gondola lift Roja)</a><br>A huge flea market on the rim at 4,000 m. Day 52 is your only chance.</td>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Miniaturas_de_la_alasita.jpg" width="100%" alt="Miniature houses, tools and goods sold at the Alasitas fair"><br><b><a href="https://www.google.com/maps?ftid=0x915f206f8a7e909b:0x2e293bc33c6fb345">Alasitas fair</a></b> · free · from Sun 24 Jan, noon · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5020736,-68.1291681&travelmode=driving">🚕 ≈ 14 min</a><br>La Paz's miniatures-and-Ekeko fair, ≈ a month long, at the Campo Ferial Bicentenario.</td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ All live-checked on 24 Nov.
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RM0vYbZaxLY93Q0cpl20m-K-JqHR3gqsximNtenpeSwjYqLF0iCDGJ-0nZBbn9GkHwzKgZg7CJKMH0rF5sKwZpJMLFEQ4PoF-yBDJztxAg-R-IXzLg_52YkPtNbU3tWmDaoMLp=w640-h400-p-k-no" width="100%" alt="The Death Road clinging to a green cloud-forest slope"><br><b><a href="https://www.google.com/maps?ftid=0x915f72c790f54159:0xd84b2c3f8def4d38">Death Road</a></b> by mountain bike · ✅ US$85–154 · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.2458467,-67.7850861&travelmode=driving">🚗 ≈ 2 h 20 min by road</a><br>64 km, 4,700 → 1,100 m. Runs daily in the rain: muddier, not cancelled.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5GjOR3w9cH-bT1U3wkFV9a_4JEE-w2AWQqp8lVa3KKZsTgt1o4OAhskjRjzxxcNgpdNQBBbdnY6jcpMUaOw0iR8wwFpMImDc7viU-jEI3O3w2SgBsXZ2ut4Nys-dZ_miKvVGWH6uGIaN-=w640-h400-p-k-no" width="100%" alt="Cholitas wrestling in the ring in El Alto"><br><b><a href="https://www.google.com/maps?ftid=0x915edf9ef816aa07:0xa37771021bcd72c5">Cholitas wrestling</a></b>, El Alto · Thu + Sun afternoons · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5140651,-68.1632602&travelmode=transit">🚌 49 min (gondola lift Roja)</a><br>The Thursday show fits arrival day, Thu 28 <i>(lead)</i>.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S5GjOR3w9cH-bT1U3wkFV9a_4JEE-w2AWQqp8lVa3KKZsTgt1o4OAhskjRjzxxcNgpdNQBBbdnY6jcpMUaOw0iR8wwFpMImDc7viU-jEI3O3w2SgBsXZ2ut4Nys-dZ_miKvVGWH6uGIaN-=w640-h400-p-k-no" width="100%" alt="Cholitas wrestling in the ring in El Alto"><br><b><a href="https://www.google.com/maps?ftid=0x915edf9ef816aa07:0xa37771021bcd72c5">Cholitas wrestling</a></b>, El Alto · Thu + Sun afternoons · <a href="https://www.google.com/maps/dir/?api=1&origin=-16.4869368,-68.1425539&destination=-16.5140651,-68.1632602&travelmode=transit">🚌 49 min (gondola lift Roja)</a><br>The Thursday show fits arrival day, Day 52 <i>(lead)</i>.</td>
 </tr>
 </table>
 
@@ -150,7 +150,7 @@ All live-checked on 24 Nov.
 
 **Other DIY day hikes LP names:** the **Valle de la Luna** eroded badlands in the Zona Sur (≈ B$25, dawn to dusk; a short walk, not the Chilean one) and the **Valle de las Ánimas** rock spires on the south-eastern edge (LP). Same caution as the Muela: go in company.
 
-**Day 1 (Thu 28 Jan), arrival day: Thursday is one of El Alto's two big days:**
+**Day 52, arrival day: Thursday is one of El Alto's two big days:**
 - The plane lands at El Alto, which holds its huge **16 de Julio street market on Thursdays and Sundays**, and **cholitas wrestling** runs on Thursday and Sunday afternoons in El Alto (Terra Alta: Thu + Sun, pickup in La Paz 15:00–16:00, back 19:30–20:00, from US$16; Altitude Alliance: "every Sunday and Thursday afternoon"; Bolivian Life: "mainly on Sunday" *(leads, 27 Nov)*). Both fit today, and Sunday is your bus day, so it's today or never.
 - **El Alto's Feria 16 de Julio** (Thursdays and Sundays, so this is your only chance): a huge flea market on the rim at 4,000 m. Take Mi Teleférico's red line up to 16 de Julio station; carry little and watch pockets.
   - ⚠️ LP gives its hours as **≈ 06:00–15:00**. Landing at 11:25, go straight from the airport (it's in El Alto) and drop the bag later, or it will be winding down.
@@ -172,7 +172,7 @@ All live-checked on 24 Nov.
 - **2-day** with a night at Laguna Chiar Khota (4,600 m) **≈ US$190–270** shared, US$270–350 private solo (≈ AI-summary lead; agencies on Sagárnaga/Illampu and Altitud 6000, Latina Bolivia, Jiwaki). Park fee ≈ Bs 20.
 - **January:** agencies still run it (non-technical), but the clear window is ≈ 06:00–10:00. After that come fog, sleet and wet snow above 5,000 m; microspikes are sometimes needed, and a "with view" summit is maybe 40–50% (≈).
 - By the 29th you'll have spent over a week above 3,600 m, which is ideal.
-- **Do the 1-day version on Fri 29 or Sat 30 Jan**, choosing the day by the 48-h mountain forecast; a 2-day would eat the whole stop.
+- **Do the 1-day version on Day 53 or Day 54**, choosing the day by the 48-h mountain forecast; a 2-day would eat the whole stop.
 - **Cheaper high-summit alternative:** agencies run daily "hiking" trips to **Chacaltaya** (≈ 5,400 m, 30 km north), which LP calls an easy way to stand on a high peak without hard climbing (LP; price not given, ask on Sagárnaga). LP's best climbing season in the Cordillera Real is May–September, so January is a gamble either way (LP).
 
 **Optional big day 2: Death Road by mountain bike** (64 km, 4,700 → 1,100 m):
@@ -224,7 +224,7 @@ All live-checked on 24 Nov.
 - **Laundry:** the laundries along Illampu, at the top of Sagárnaga, charge ≈ B$10–15 per kg for same-day service (LP).
 - **Cash:** ATMs are plentiful. **Withdraw enough bolivianos here for Copacabana and Isla del Sol** (≈ Bs 600).
 
-## 🚌 Leaving: bus to Copacabana, Sun 31 Jan
+## 🚌 Leaving: bus to Copacabana, Day 55
 
 - From the main bus terminal, 90 m from La Casa Bonita. **07:30 Vicuña Travel** (semi-cama, arr ≈ 11:30) is the pick; ≈ 4 h.
 - LP: tourist buses from the main terminal cost ≈ B$30 and are worth it; cheaper minibuses (≈ B$20–25) leave when full from the Cementerio area, which LP warns about after dark; watch your bags there (LP).

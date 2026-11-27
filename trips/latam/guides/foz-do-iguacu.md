@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Curitiba + Serra Verde](curitiba.md) · [Florianópolis](florianopolis.md) →
 
-> **Stop 6 · Sat 19 → Mon 21 Dec 2026 · 2 nights · pre-Christmas weekend**<br>
+> **Stop 6 · Day 12 → 14 · 2 nights · pre-Christmas weekend**<br>
 > 🏞️ The Iguaçu falls from both sides: the Brazilian panorama on Saturday, the Argentine walkways on Sunday<br>
 > 🛏️ **Hostel Bambu**, a bed in a 10-bed mixed ensuite dorm with privacy curtains, $33.60 + fee for 2 nights<br>
-> 🚌 **In:** Catarinense night bus from Curitiba, arriving ~07:00 Sat 19 · **Out:** Nordeste night bus 16:30 to Florianópolis, Mon 21
+> 🚌 **In:** Catarinense night bus from Curitiba, arriving ~07:00 Day 12 · **Out:** Nordeste night bus 16:30 to Florianópolis, Day 14
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R9ISDvIozMTtOgSuSEQmzPoPYDa3HcCB6u8gC2SQRiMU9cOKiBvmKm1SWNlqET2avsRhWSKYhDLadPTO4Lg-kFKtfAqD__rXZEQYVEYDZtH3PEfqMH1I5CUOTbPGnMm9AphOg=w1200-h360-p-k-no" alt="The Garganta do Diabo walkway on the Brazilian side, with the falls behind" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sat 19 Dec | 🌙 Night bus arrives ~07:00 at the Rodoviária Internacional; city bus or Uber (≈ R$ 20–25) to the hostel to drop your pack. 🇧🇷 **Brazilian side**: bus 120 from the TTU (≈ 40 min, R$ 6), the **08:30 slot**, the falls trail first, then Ytepopo. 🎟️ Buy tomorrow's Argentine park ticket online. 🍺 277 Craft Beer in the evening (closed Sunday). |
-| **Day 2** · Sun 20 Dec | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). ⚠️ **The Garganta del Diablo circuit has been closed since 3 Aug 2026** (high water) ✅ park news, so check before going. Last bus back to Brazil 20:30. |
-| **Day 3** · Mon 21 Dec | A free morning: the **Marco das Três Fronteiras** or Parque das Aves (paid), or rest. Check out and leave the bag at the hostel. 🚌 Uber to the rodoviária ~15:45 for the **16:30 Nordeste** night bus to Florianópolis. |
+| **Day 12** | 🌙 Night bus arrives ~07:00 at the Rodoviária Internacional; city bus or Uber (≈ R$ 20–25) to the hostel to drop your pack. 🇧🇷 **Brazilian side**: bus 120 from the TTU (≈ 40 min, R$ 6), the **08:30 slot**, the falls trail first, then Ytepopo. 🎟️ Buy tomorrow's Argentine park ticket online. 🍺 277 Craft Beer in the evening (closed Sunday). |
+| **Day 13** | 🇦🇷 **Argentine side**, all day: Río Uruguay bus from the TTU to Puerto Iguazú, then the park bus; **at the gate by 08:00**. Train to the **Garganta del Diablo**, then the Circuito Superior and Inferior, and the **Sendero Macuco** (closes 15:00). ⚠️ **The Garganta del Diablo circuit has been closed since 3 Aug 2026** (high water) ✅ park news, so check before going. Last bus back to Brazil 20:30. |
+| **Day 14** | A free morning: the **Marco das Três Fronteiras** or Parque das Aves (paid), or rest. Check out and leave the bag at the hostel. 🚌 Uber to the rodoviária ~15:45 for the **16:30 Nordeste** night bus to Florianópolis. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (19 → 21 Dec, 2 nights)
+**Beds** (Day 12 → 14, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -48,16 +48,16 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Park | When | Price | Book |
 |---|---|---|---:|---|
-| ⚠️ 🇧🇷 | **Iguaçu falls, Brazilian side** (timed online ticket) | **Sat 19 Dec**, 08:30 slot | foreigners from **R$ 131** ($22) | [tickets.cataratasdoiguacu.com.br](https://tickets.cataratasdoiguacu.com.br/) |
-| 🇦🇷 | **Iguazú falls, Argentine side** | **Sun 20 Dec**, 08:00–18:00 (last entry 16:00) | **AR$ 60,000** (≈ $38) | [iguazuargentina.com](https://iguazuargentina.com/) |
+| ⚠️ 🇧🇷 | **Iguaçu falls, Brazilian side** (timed online ticket) | **Day 12**, 08:30 slot | foreigners from **R$ 131** ($22) | [tickets.cataratasdoiguacu.com.br](https://tickets.cataratasdoiguacu.com.br/) |
+| 🇦🇷 | **Iguazú falls, Argentine side** | **Day 13**, 08:00–18:00 (last entry 16:00) | **AR$ 60,000** (≈ $38) | [iguazuargentina.com](https://iguazuargentina.com/) |
 
 **Transport**
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Catarinense** night bus · Curitiba → Foz Rodoviária Internacional | **Fri 18 Dec 21:00 → Sat 19 07:00** | R$ 289.99 ($48.70) | [ClickBus](https://www.clickbus.com.br/onibus/curitiba-pr/foz-do-iguacu-pr?departureDate=2026-12-18) |
-| Day trip | **Río Uruguay** bus · Foz TTU → Puerto Iguazú | **Sun 20 Dec**, hourly 07:30–21:30 | ≈ AR$ 10–12k ($7–9) | [Río Uruguay](https://riouruguaybus.com.ar/) |
-| Out | **Nordeste** semi-leito · Foz → Florianópolis (Rita Maria) | **Mon 21 Dec 16:30 → Tue 22 08:10** (15 h 40; also 17:30, 18:40) | **R$ 276.99** (≈ $46.50) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/florianopolis-sc?departureDate=2026-12-21) |
+| In | **Catarinense** night bus · Curitiba → Foz Rodoviária Internacional | **Day 11 21:00 → Day 12 07:00** | R$ 289.99 ($48.70) | [ClickBus](https://www.clickbus.com.br/onibus/curitiba-pr/foz-do-iguacu-pr?departureDate=2026-12-18) |
+| Day trip | **Río Uruguay** bus · Foz TTU → Puerto Iguazú | **Day 13**, hourly 07:30–21:30 | ≈ AR$ 10–12k ($7–9) | [Río Uruguay](https://riouruguaybus.com.ar/) |
+| Out | **Nordeste** semi-leito · Foz → Florianópolis (Rita Maria) | **Day 14 16:30 → Day 15 08:10** (15 h 40; also 17:30, 18:40) | **R$ 276.99** (≈ $46.50) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/florianopolis-sc?departureDate=2026-12-21) |
 
 <details><summary>How to read these tables</summary>
 
@@ -67,7 +67,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🌙 Getting here: Curitiba → Foz do Iguaçu, Fri 18 → Sat 19 Dec
+## 🌙 Getting here: Curitiba → Foz do Iguaçu, Day 11 → 12
 
 - The **Catarinense night bus** (21:00 from Curitiba; see the [Curitiba guide](curitiba.md)) reaches the **Rodoviária Internacional at ~07:00**.
 - It is ≈ 6 km out; take a city bus or an Uber (≈ R$ 20–25) to the hostel, drop your pack and go straight to the falls.
@@ -101,14 +101,14 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 ### Also: The Lodge Iguassu
 - A capsule hostel; each capsule is a private pod. [On Google Maps](https://www.google.com/maps?ftid=0x94f6912fae7489a5:0x991714f28a48ef62).
 - Booking 8.8 (1,042; **9% below 7**), location 9.7.
-- **Booking $35** (breakfast included, free cancellation to 14 Dec). Agoda $33.25.
+- **Booking $35** (breakfast included, free cancellation to Day 7). Agoda $33.25.
 - Central. Recent reviews: thin breakfast and weak capsule AC. No stove.
 
 ### Private alt (location first): "Conforto e estilo na melhor localização de Foz"
 - A whole 1-bedroom flat in the centre, ~300 m from Bambu.
 - Booking 9.8 (49; **0% below 7**), location 9.8.
 - **$129 for 2 nights** from the room table (non-refundable; $141 with free cancellation to 5 Dec), Booking.
-- **Cheaper:** Residencial Marco Zero apartment. Booking 9.2 (113; 4% below 7), location 9.7. **$108** (free cancellation to 18 Dec). ~1 km north of the centre.
+- **Cheaper:** Residencial Marco Zero apartment. Booking 9.2 (113; 4% below 7), location 9.7. **$108** (free cancellation to Day 11). ~1 km north of the centre.
 
 **Not chosen:** Tetris (Hostelworld 94 overall, but 7 of its last 16 reviews are below 60: "abandoned", loud music), Concept Design ($51, 8% below 7, pool), Hostel Poesia (46%).
 
@@ -116,11 +116,11 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZN7A_E-5itG-GLHPXh5SEjIL0TcTEvUg4xc1HmSE4v4NLVysdCggA1i1-M8_dxoTIAeu25v4h9uOQZJiKeyH6NjDxb5O8_Wp_zR6HCsY7t-09JVxgf42LGWe1t2Iv6BIuX6vs2wP6YWM_=w640-h400-p-k-no" width="100%" alt="The falls seen from the Trilha das Cataratas on the Brazilian side"><br><b>🇧🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea7400ba0ff5:0x2bd2515b9f69e025">Trilha das Cataratas</a></b> · park from R$ 131 · Sat 19, 08:30<br>The 1.5 km panorama trail and the Garganta do Diabo walkway. Walk it first, before the crowds.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZN7A_E-5itG-GLHPXh5SEjIL0TcTEvUg4xc1HmSE4v4NLVysdCggA1i1-M8_dxoTIAeu25v4h9uOQZJiKeyH6NjDxb5O8_Wp_zR6HCsY7t-09JVxgf42LGWe1t2Iv6BIuX6vs2wP6YWM_=w640-h400-p-k-no" width="100%" alt="The falls seen from the Trilha das Cataratas on the Brazilian side"><br><b>🇧🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea7400ba0ff5:0x2bd2515b9f69e025">Trilha das Cataratas</a></b> · park from R$ 131 · Day 12, 08:30<br>The 1.5 km panorama trail and the Garganta do Diabo walkway. Walk it first, before the crowds.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZJCVHuyx_n2JwHQ6iVf-z-JTd__2jVDiU9bp989Vknv7azV9k-7A8FddWqzHcYNdWvwW_2DWW59SIm98xBDESI1Fmzt67_QNnxq4Io8eEMZg6H2LHtDnlF1I790CZDHaoq2y0=w640-h400-p-k-no" width="100%" alt="Forest and wetland along the Poço Preto trail"><br><b>🇧🇷 <a href="https://www.google.com/maps?ftid=0x94f69533f021e97d:0xe4491e52d7efb453">Caminho do Poço Preto</a></b> · included in the ticket<br>9 km each way through forest; start between 09:00 and 12:00. Ytepopo (5 km along the river) is the shorter one.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDp8tOywhGp6wdXl4Gdmgn_VG8FSrQWKY2dES5jypiYouf_OrTJ7gxuHaGBTVIjqVJVJ1JX8f6mGAFZHgH0t8mf2LOq1Ob68pe5hqd9583oqkwm8_cOiWVUsMLZVPYSCGQhvBy=w640-h400-p-k-no" width="100%" alt="The Garganta del Diablo seen from the Argentine walkway"><br><b>🇦🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea09a1f64ec1:0x348a6807de70ac63">Garganta del Diablo walkway</a></b> · AR$ 60,000 park entry · Sun 20<br>2.2 km. Take the jungle train there at opening (from 08:20). ⚠️ <b>Closed since 3 Aug 2026</b> for high water, so check before going.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDp8tOywhGp6wdXl4Gdmgn_VG8FSrQWKY2dES5jypiYouf_OrTJ7gxuHaGBTVIjqVJVJ1JX8f6mGAFZHgH0t8mf2LOq1Ob68pe5hqd9583oqkwm8_cOiWVUsMLZVPYSCGQhvBy=w640-h400-p-k-no" width="100%" alt="The Garganta del Diablo seen from the Argentine walkway"><br><b>🇦🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea09a1f64ec1:0x348a6807de70ac63">Garganta del Diablo walkway</a></b> · AR$ 60,000 park entry · Day 13<br>2.2 km. Take the jungle train there at opening (from 08:20). ⚠️ <b>Closed since 3 Aug 2026</b> for high water, so check before going.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TbIDgy7vyQyVTtw55xvvECiW1Q3HoCseBBGuCnjii51ye2lQSAJ-xqrmt35LL7nqyTCpFDkLCMPUamgbpVbFA8zxnyOhcbEQMThGEgb_VotBhzbE3Qb5kFJGSuMgPYryGBW-0M=w640-h400-p-k-no" width="100%" alt="A rainbow over the falls from the Circuito Inferior"><br><b>🇦🇷 <a href="https://www.google.com/maps?ftid=0x94f6ea6fb4d69d5d:0x28b5ec1c5274d5b2">Circuito Superior</a> and <a href="https://www.google.com/maps?ftid=0x94f6eb680419968f:0xa94fc00704c48a42">Inferior</a></b> · included<br>1.85 km along the top, then 1.45 km with stairs below the falls.</td>
 </tr>
 <tr>
@@ -131,19 +131,19 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 
 **Argentine side:** buy the park ticket online the day before (≈ 15% cheaper, per Worldly Adventurer), and book the boat ride (Gran Aventura) first thing, because it sells out by mid-morning *(lead)*.
 
-**Day 1 (Sat 19 Dec): Brazilian side** (Parque Nacional do Iguaçu). It's the panorama side; do it the morning you arrive.
+**Day 12: Brazilian side** (Parque Nacional do Iguaçu). It's the panorama side; do it the morning you arrive.
 - **Getting there:** bus **120 "Parque Nacional" from the TTU**, ≈ 40 min, every ≈ 20–30 min. The fare is **R$ 6 ($1)** from 4 Dec 2026 ✅ foz.pr.gov.br; the line number ✅ park site.
 - **Hours** ✅ cataratasdoiguacu.com.br: Sat–Sun 08:30–16:00 (weekdays from 09:00); you may stay until 17:30.
-- **Ticket:** **online only, with a timed entry slot.** **Foreigners from R$ 131 ($22)** (Mercosur R$ 118; locker R$ 45) ✅ tickets.cataratasdoiguacu.com.br. The exact 19 Dec price wasn't shown.
+- **Ticket:** **online only, with a timed entry slot.** **Foreigners from R$ 131 ($22)** (Mercosur R$ 118; locker R$ 45) ✅ tickets.cataratasdoiguacu.com.br. The exact Day 12 price wasn't shown.
 - **Included:** the park bus, the 1.5 km Trilha das Cataratas, the Garganta do Diabo walkway, and these free forest trails ✅ park site:
   - **Trilha Ytepopo:** 5 km along the river, 09:00–14:30.
   - **Caminho do Poço Preto:** 9 km each way through forest; start between 09:00 and 12:00.
   - **Circuito São João:** 2.8 km, with swimming spots.
   - The Bananeiras trail is temporarily closed.
 - **Plan:** walk the falls trail at 08:30, before the crowds, then Ytepopo.
-- ⚠️ **High water, Nov 2026:** the **Garganta do Diabo walkway** (the one out over the river) **closed again on 26 Nov** for a new rise in the river ≈ (La Voz de Cataratas / De la Tribuna news, 26 Nov). The Trilha das Cataratas and the other viewpoints stay open. It had reopened on 31 Oct after a 20-day closure. Check the park's news on cataratasdoiguacu.com.br before 19 Dec.
+- ⚠️ **High water, Nov 2026:** the **Garganta do Diabo walkway** (the one out over the river) **closed again on 26 Nov** for a new rise in the river ≈ (La Voz de Cataratas / De la Tribuna news, 26 Nov). The Trilha das Cataratas and the other viewpoints stay open. It had reopened on 31 Oct after a 20-day closure. Check the park's news on cataratasdoiguacu.com.br before Day 12.
 
-**Day 2 (Sun 20 Dec): Argentine side** (Parque Nacional Iguazú). This is the up-close side and needs the whole day.
+**Day 13: Argentine side** (Parque Nacional Iguazú). This is the up-close side and needs the whole day.
 - **Foz → Puerto Iguazú:** Río Uruguay bus, hourly 07:30–21:30. On Thu–Sun it starts at the **TTU** ✅ riouruguaybus.com.ar. The fare is ≈ AR$ 10–12k ($7–9) from resellers; the operator's site shows no fare.
 - **Border:** Argentine immigration always stops the bus. For a same-day return you can usually stay on it at the Brazilian post (LP tip ≈), so confirm with the driver. Bring your passport.
 - **Puerto Iguazú terminal → falls:** buses every 15 min, 06:00–17:30 ✅. ≈ AR$ 12,000 ($7.60) each way for foreigners (council tariff, July 2026, local news).
@@ -156,7 +156,7 @@ Both live-checked on 24 Nov. Neither is on Booking, so the scores are Hostelworl
 - **Last bus back to Brazil:** 20:30 from Puerto Iguazú ✅.
 - ⚠️ **Garganta del Diablo closed:** on 3 Aug 2026 the park began dismantling the circuit's walkway ahead of expected floods. Its news page ✅ iguazuargentina.com ("circuits available while the Garganta del Diablo stays closed") shows no reopening up to 25 Nov.
   - A Google summary of local news, 26 Nov, still lists it as closed ≈. The **Superior and Inferior circuits, the Sendero Verde, the train and the Sendero Macuco are running** ≈.
-  - If it's still shut on 20 Dec, go straight to the Superior/Inferior circuits at opening, then the Macuco trail. The Brazilian side's panorama becomes your main Garganta view.
+  - If it's still shut on Day 13, go straight to the Superior/Inferior circuits at opening, then the Macuco trail. The Brazilian side's panorama becomes your main Garganta view.
 
 **From Lonely Planet** (*South America on a Shoestring*):
 - **Beat the crowds (LP):** tour groups usually leave by about 15:00, so the late afternoon is quieter too. The Sendero Macuco is best early, for wildlife.
@@ -189,14 +189,14 @@ All ≈ leads from Google, 24 Nov.
 **More from LP** (all still on Google Maps, 26 Nov):
 - **Foz:** **[Churrascaria Tropicana](https://www.google.com/maps?ftid=0x94f6904a7402bf7f:0x11a08fb930c753c4)**, Av. Juscelino Kubitschek 228. An all-you-can-eat churrasco buffet that LP rates as Foz's best budget meal (≈ R$ 35 in LP; check today's price). Expect a crowd.
 - **Foz:** **[Vó Bertila](https://www.google.com/maps?ftid=0x94f69118ed313f4d:0x2484d4ae32ab6a53)**, Bartolomeu de Gusmão 1116: a family cantina with wood-fired pizza in **personal sizes** and huge pasta portions. Tue–Sun from 18:30 (LP), so it works on Saturday night.
-- **Puerto Iguazú, Sun 20 after the park:** the **[Feirinha](https://www.google.com/maps?ftid=0x94f692302de1690b:0x14474d3df45d3fe9)** (Av. Brasil & Félix de Azara). It's a market of stalls selling Argentine wine, cheese and sausage, several of which serve *picadas*, grills and cold beer, sometimes with folk music (LP). **[La Misionera](https://www.google.com/maps?ftid=0x94f69230d15eb0cd:0x4f910676e4ac52fb)** (P. Moreno 228) does cheap empanadas with many fillings (LP). Leave time for the bus before 20:30.
+- **Puerto Iguazú, Day 13 after the park:** the **[Feirinha](https://www.google.com/maps?ftid=0x94f692302de1690b:0x14474d3df45d3fe9)** (Av. Brasil & Félix de Azara). It's a market of stalls selling Argentine wine, cheese and sausage, several of which serve *picadas*, grills and cold beer, sometimes with folk music (LP). **[La Misionera](https://www.google.com/maps?ftid=0x94f69230d15eb0cd:0x4f910676e4ac52fb)** (P. Moreno 228) does cheap empanadas with many fillings (LP). Leave time for the bus before 20:30.
 
 ## ℹ️ Good to know
 - **Crowds:** 19–20 Dec is a pre-Christmas weekend in the school holidays. **Buy the Brazilian ticket online for the 08:30 slot** and be at the Argentine gate at 08:00.
 - **Money:** carry Argentine pesos (or a card) for the buses, and US dollars or reais as a fallback.
 - **Weather:** Foz is hot and humid in December (≈ 33 °C), with afternoon storms.
 
-## 🚌 Leaving: Foz do Iguaçu → Florianópolis, Mon 21 Dec
+## 🚌 Leaving: Foz do Iguaçu → Florianópolis, Day 14
 
 - **Pick: Nordeste semi-leito 16:30 → Florianópolis (Rita Maria) 08:10**, **R$ 276.99** (≈ $46.50); 16:00 → 07:05 is R$ 294.99; cama from R$ 431.99. Catarinense and Expresso São José run the same night ✅ ClickBus (26 Nov, 39 seats left at 16:30). Details in the [Florianópolis guide](florianopolis.md).
 - That leaves Monday free until ≈ 15:45.

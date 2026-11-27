@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Paraty](paraty.md) · [Curitiba + Serra Verde](curitiba.md) →
 
-> **Stop 4 · Tue 15 → Thu 17 Dec 2026 · 2 nights · MASP's free Tuesday**<br>
+> **Stop 4 · Day 8 → 10 · 2 nights · MASP's free Tuesday**<br>
 > 🏞️ Brazil's biggest city: art, a forest peak on the city edge and craft beer, with a base in Pinheiros<br>
 > 🛏️ **Lamparina Hostel**, a bed in a 10-bed mixed dorm with privacy curtains, $27 for 2 nights<br>
-> 🚌 **In:** Reunidas from Paraty 09:00 → Tietê 15:40, Tue 15 · **Out:** Penha 07:30 Tietê → Curitiba 14:00, Thu 17
+> 🚌 **In:** Reunidas from Paraty 09:00 → Tietê 15:40, Day 8 · **Out:** Penha 07:30 Tietê → Curitiba 14:00, Day 10
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDmM6zwvD5v6n4S4X4wNG0cT-xGhxl_wsvR7iwcMY2ITb-rb5QLB_7DWjZP96x8zJ8HaZtB73HEDseOeDoCvRtuVMngBvSwp0MNTE8J_DiN0BLLV4bL06EAyrH95QjItDWMF4AMg=w1200-h360-p-k-no" alt="The lake in Parque Ibirapuera with São Paulo's towers behind" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Tue 15 Dec | 🚌 **Reunidas 09:00** Paraty → Tietê 15:40, then Metrô L1 → L2 to Sumaré (~40 min). 🖼️ **MASP is free on Tuesdays** (10:00–20:00, last entry 19:00; **book a free slot online**). |
-| **Day 2** · Wed 16 Dec | 🥾 **07:00 Pico do Jaraguá** via the Trilha do Pai Zé (2–2.5 h, free). Afternoon: 🥪 lunch at the **Mercadão**, the **Liberdade** streets, then **Ibirapuera** or **Beco do Batman** at sunset. 🍺 Hocus Pocus SP or Ambar. |
-| **Day 3** · Thu 17 Dec | Leave the hostel ~06:45 for the 🚌 **07:30 Penha** from Tietê to Curitiba. The metro opens at 04:40. |
+| **Day 8** | 🚌 **Reunidas 09:00** Paraty → Tietê 15:40, then Metrô L1 → L2 to Sumaré (~40 min). 🖼️ **MASP is free on Tuesdays** (10:00–20:00, last entry 19:00; **book a free slot online**). |
+| **Day 9** | 🥾 **07:00 Pico do Jaraguá** via the Trilha do Pai Zé (2–2.5 h, free). Afternoon: 🥪 lunch at the **Mercadão**, the **Liberdade** streets, then **Ibirapuera** or **Beco do Batman** at sunset. 🍺 Hocus Pocus SP or Ambar. |
+| **Day 10** | Leave the hostel ~06:45 for the 🚌 **07:30 Penha** from Tietê to Curitiba. The metro opens at 04:40. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (15 → 17 Dec, 2 nights)
+**Beds** (Day 8 → 10, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -49,9 +49,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Reunidas Paulista** · Paraty → São Paulo Tietê | **Tue 15 Dec 09:00 → 15:40** | R$ 118.48 ($19.89) | [Mobifácil](https://www.mobifacil.com.br/passagem-de-onibus/terminal-rodoviario-de-paraty/sao-paulo-todos-sp) |
+| In | **Reunidas Paulista** · Paraty → São Paulo Tietê | **Day 8 09:00 → 15:40** | R$ 118.48 ($19.89) | [Mobifácil](https://www.mobifacil.com.br/passagem-de-onibus/terminal-rodoviario-de-paraty/sao-paulo-todos-sp) |
 | In | Metrô L1 → L2 · Tietê → Sumaré | about 40 min | ≈ R$ 5.40 | at the gate |
-| Out | **Expresso NS Penha** · Tietê → Curitiba Rodoferroviária | **Thu 17 Dec 07:30 → 14:00** | R$ 116.99 ($19.60) | [ClickBus](https://www.clickbus.com.br/onibus/sao-paulo-tiete-sp/curitiba-pr?departureDate=2026-12-17) |
+| Out | **Expresso NS Penha** · Tietê → Curitiba Rodoferroviária | **Day 10 07:30 → 14:00** | R$ 116.99 ($19.60) | [ClickBus](https://www.clickbus.com.br/onibus/sao-paulo-tiete-sp/curitiba-pr?departureDate=2026-12-17) |
 
 **Sights:** MASP (free on Tuesdays, with a booked slot): [masp.org.br](https://masp.org.br/)
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Paraty → São Paulo, Tue 15 Dec
+## 🚌 Getting here: Paraty → São Paulo, Day 8
 
 - **Reunidas Paulista 09:00 → Tietê 15:40**, convencional, R$ 118.48 ($19.89) ✅ mobifacil.com.br. The later departures are in the [Paraty guide](paraty.md).
 - **Tietê → the hostel:** Metrô L1 to Paraíso and L2 to **Sumaré**, about 40 min, ≈ R$ 5.40.
@@ -74,7 +74,7 @@ All live-checked on 24 Nov.
 
 ### ⭐ Pick: Lamparina Hostel
 - **Unit:** a bed in a 10-bed mixed dorm. R. Galeno de Almeida 166, Pinheiros.
-- **Price:** **$27 for 2 nights on Booking** (non-refundable, dates changeable; $35 with free cancellation to 8 Dec; pay the property before arrival). Hostelworld $28.22 + fee. Not on Agoda's first results page.
+- **Price:** **$27 for 2 nights on Booking** (non-refundable, dates changeable; $35 with free cancellation to Day 1; pay the property before arrival). Hostelworld $28.22 + fee. Not on Agoda's first results page.
 - **Reviews:** Booking 9.4 (470; **4% below 7**), location 9.5. Hostelworld 98% (309); of the last 100, 3% are below 60% (dirty bathrooms in Mar–Apr 2026, before a renovation that Nov 2026 reviews praise).
 - **Where:** 250 m from Sumaré metro (L2). Av. Paulista and MASP are 2 stops away.
 - **Checks:** the only bed in Brazil that ticks every box.
@@ -95,38 +95,38 @@ All live-checked on 24 Nov.
 ### Private alt (location first): Zen Hostel Brasil
 - Economy private room with a shared bathroom, Vila Madalena, ~225 m from Vila Madalena metro (L2).
 - Booking 9.3 (745; **2% below 7**), location 9.7.
-- **$42 for 2 nights** from the room table, Booking (free cancellation to 13 Dec, pay at the property). Reviewers call it "an oasis of calm".
-- The v4 pick (Quarto individual na Vila Madalena) shows no rooms for 15–17 Dec.
+- **$42 for 2 nights** from the room table, Booking (free cancellation to Day 6, pay at the property). Reviewers call it "an oasis of calm".
+- The v4 pick (Quarto individual na Vila Madalena) shows no rooms for Days 8–10.
 - Lamparina's own double is $83.
 
 ## 🌳 Things to do (free and outdoors first)
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tua5MGLOkr2wrj_zyFAU8SL-cBVpkAhfXpjrSHHivEBjqG2g6H1Ex6n0_N6idKxuS-dagEcKv8Mv8d7ERrbBV6BuEVWyrLMUQAgWH8pCUkTR2X2LAemA1ecG5kNaMdsJ8A8Dd7=w640-h400-p-k-no" width="100%" alt="The forested summit of Pico do Jaraguá with its antenna towers, above the city"><br><b><a href="https://www.google.com/maps?ftid=0x94cefc6ae642f6e9:0x8ee77220162d411a">Pico do Jaraguá</a></b> (1,135 m) · free · Wed 16, 07:00 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.458333,-46.765278&travelmode=driving">🚕 ≈ 44 min</a><br>The Trilha do Pai Zé: about 3.5–5.5 km and 2–2.5 h.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TwmkuaY-57O_7k-jFgCo3JsoYivAVv4r0njd-DcyFujps_TUtdRODrO0rene9Pe22K1YYF-I9AfIwYawkPxYREftro37CrUbTZFtUguRlYwktA_obY1Fzk_evBI9TpUvDrSYhvLm0_f2o=w640-h400-p-k-no" width="100%" alt="Niemeyer's Marquise, the long covered walkway in Parque Ibirapuera"><br><b><a href="https://www.google.com/maps?ftid=0x94ce59f1069d11d1:0xcb936109af9ce541">Parque Ibirapuera</a></b> · free · Wed 16 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.5867833,-46.6571881&travelmode=transit">🚌 43 min (subway Linha 2 + bus 5178-10)</a><br>Niemeyer's <a href="https://www.google.com/maps?ftid=0x94ce59e7f60bef85:0xa0dd80fbc0271331">Marquise</a> and the lake.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tua5MGLOkr2wrj_zyFAU8SL-cBVpkAhfXpjrSHHivEBjqG2g6H1Ex6n0_N6idKxuS-dagEcKv8Mv8d7ERrbBV6BuEVWyrLMUQAgWH8pCUkTR2X2LAemA1ecG5kNaMdsJ8A8Dd7=w640-h400-p-k-no" width="100%" alt="The forested summit of Pico do Jaraguá with its antenna towers, above the city"><br><b><a href="https://www.google.com/maps?ftid=0x94cefc6ae642f6e9:0x8ee77220162d411a">Pico do Jaraguá</a></b> (1,135 m) · free · Day 9, 07:00 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.458333,-46.765278&travelmode=driving">🚕 ≈ 44 min</a><br>The Trilha do Pai Zé: about 3.5–5.5 km and 2–2.5 h.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TwmkuaY-57O_7k-jFgCo3JsoYivAVv4r0njd-DcyFujps_TUtdRODrO0rene9Pe22K1YYF-I9AfIwYawkPxYREftro37CrUbTZFtUguRlYwktA_obY1Fzk_evBI9TpUvDrSYhvLm0_f2o=w640-h400-p-k-no" width="100%" alt="Niemeyer's Marquise, the long covered walkway in Parque Ibirapuera"><br><b><a href="https://www.google.com/maps?ftid=0x94ce59f1069d11d1:0xcb936109af9ce541">Parque Ibirapuera</a></b> · free · Day 9 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.5867833,-46.6571881&travelmode=transit">🚌 43 min (subway Linha 2 + bus 5178-10)</a><br>Niemeyer's <a href="https://www.google.com/maps?ftid=0x94ce59e7f60bef85:0xa0dd80fbc0271331">Marquise</a> and the lake.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R6BDoU7Vtl-wrcFYl3-jA1dtI8v5N5w5RjfJWQF8v-JrWJf0AvpCPz6bQ95bDDSjaudC7DjA7Z7xgBC9XrNiQeo088z1352ifIQRhS48LwGjee86YDHh85ZI9ioZppn-dGiUkX6fXWh5jm=w640-h400-p-k-no" width="100%" alt="Graffiti-covered walls in Beco do Batman"><br><b><a href="https://www.google.com/maps?ftid=0x94ce575858b6a5b9:0xc5b1a9636043ff22">Beco do Batman</a></b> · free · Wed 16 at sunset · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.5566009,-46.686579&travelmode=walking">🚶 20 min</a><br>Graffiti alley in Vila Madalena, 15 min from the hostel.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWciDrFDGDSb6mhayErh5B6VimTlZJiZFxsU6lOsaWUbkIqt-0mFOZuTeB1DyeLMG3YV1JzMsH6Gu1LvMKtOuulZ7UWyvhA_bcqzs2fRZlwyB4Kp4XR_aifbpYGurHl-Gv5wfa=w640-h400-p-k-no" width="100%" alt="MASP's red-framed building on Avenida Paulista"><br><b><a href="https://www.google.com/maps?ftid=0x94ce59ceb1eb771f:0xe904f6a669744da1">MASP</a></b> · free on Tuesdays (otherwise R$ 85) · Tue 15 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.561414,-46.6558819&travelmode=transit">🚌 17 min (subway Linha 2)</a><br>Book a free slot online, even on free days. On Av. Paulista, 2 metro stops from Sumaré.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R6BDoU7Vtl-wrcFYl3-jA1dtI8v5N5w5RjfJWQF8v-JrWJf0AvpCPz6bQ95bDDSjaudC7DjA7Z7xgBC9XrNiQeo088z1352ifIQRhS48LwGjee86YDHh85ZI9ioZppn-dGiUkX6fXWh5jm=w640-h400-p-k-no" width="100%" alt="Graffiti-covered walls in Beco do Batman"><br><b><a href="https://www.google.com/maps?ftid=0x94ce575858b6a5b9:0xc5b1a9636043ff22">Beco do Batman</a></b> · free · Day 9 at sunset · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.5566009,-46.686579&travelmode=walking">🚶 20 min</a><br>Graffiti alley in Vila Madalena, 15 min from the hostel.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWciDrFDGDSb6mhayErh5B6VimTlZJiZFxsU6lOsaWUbkIqt-0mFOZuTeB1DyeLMG3YV1JzMsH6Gu1LvMKtOuulZ7UWyvhA_bcqzs2fRZlwyB4Kp4XR_aifbpYGurHl-Gv5wfa=w640-h400-p-k-no" width="100%" alt="MASP's red-framed building on Avenida Paulista"><br><b><a href="https://www.google.com/maps?ftid=0x94ce59ceb1eb771f:0xe904f6a669744da1">MASP</a></b> · free on Tuesdays (otherwise R$ 85) · Day 8 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.5526464,-46.6778234&destination=-23.561414,-46.6558819&travelmode=transit">🚌 17 min (subway Linha 2)</a><br>Book a free slot online, even on free days. On Av. Paulista, 2 metro stops from Sumaré.</td>
 </tr>
 </table>
 
-- **Tue 15 (after the 09:00 bus): MASP is free on Tuesdays,** 10:00–20:00 (last entry 19:00) ✅ masp.org.br. **You must book a free slot online, even on free days.** Otherwise R$ 85; closed Mondays. It is on Av. Paulista, 2 metro stops from Sumaré.
-- **Day 2 (Wed 16 Dec), 07:00: Pico do Jaraguá (1,135 m)** via the **Trilha do Pai Zé.**
+- **Day 8 (after the 09:00 bus): MASP is free on Tuesdays,** 10:00–20:00 (last entry 19:00) ✅ masp.org.br. **You must book a free slot online, even on free days.** Otherwise R$ 85; closed Mondays. It is on Av. Paulista, 2 metro stops from Sumaré.
+- **Day 9, 07:00: Pico do Jaraguá (1,135 m)** via the **Trilha do Pai Zé.**
   - About 3.5–5.5 km and 2–2.5 h, free.
   - The trail is in use in 2026 (AllTrails reviews, Nov 2026 ≈); hours are ≈ Tue–Sun 07:00–16:00.
   - Take CPTM Line 7 to Vila Aurora, then a short Uber or bus to the gate.
-- **Wed 16 afternoon (all free):**
+- **Day 9 afternoon (all free):**
   - Lunch at the Mercadão in Centro, then the Liberdade streets. Liberdade's street fair is weekend-only.
   - Parque Ibirapuera (Niemeyer's Marquise and the lake), or Beco do Batman graffiti alley in Vila Madalena (15 min from the hostel) at sunset.
-- **Day 3 (Thu 17 Dec):** leave the hostel ~06:45 for the 07:30 Penha bus from Tietê, which gives you Curitiba's afternoon. The metro opens at 04:40.
+- **Day 10:** leave the hostel ~06:45 for the 07:30 Penha bus from Tietê, which gives you Curitiba's afternoon. The metro opens at 04:40.
 - **Skip:** the Pinacoteca (R$ 40; free only on Saturdays ✅) and the Sesc Paulista rooftop, which is **closed for works** ✅ sescsp.org.br.
 
 **From Lonely Planet** (*South America on a Shoestring*):
 - **SP Free Walking Tour, "Old Downtown"** (tips only; LP's pick). It starts by the tourist booth on **Praça da República** and ends about 3 h later at Largo São Bento, covering the Centro Velho with a break.
   - LP had Mon/Wed/Fri/Sat 11:30. It's now **Mon, Thu and Sat at 11:00 in English** ≈ (Google summary of the operator's site; GuruWalk also shows Wed and Fri 11:00 ≈).
-  - **Thu 17** is a bus day, so it fits only on **Wed 16 instead of Jaraguá** (if it rains, say), and only if a Wednesday tour runs. Check on the operator's site.
+  - **Day 10** is a bus day, so it fits only on **Day 9 instead of Jaraguá** (if it rains, say), and only if a Wednesday tour runs. Check on the operator's site.
 - **Centro Velho on foot** (free, LP): the pedestrian maze between Praça da Sé, Luz and Praça da República. LP's tip is to look above the ground-floor shops at the old façades. It's on the way from the Mercadão.
 - **Edifício Copan** (Niemeyer's wave-shaped tower, Av. Ipiranga 200): the ground-floor arcade is free at any time (LP).
   - LP's free weekday rooftop visits have ended. Since Sep 2026 the rooftop is a **guided visit on Fri–Sun only, R$ 50, booked on edificiocopan.com.br** ≈ (G1 / Melhores Destinos, Sep 2026), so it **doesn't fit Tue–Thu**.
@@ -155,7 +155,7 @@ All live-checked on 24 Nov.
 - **[Bar e Lanches Estadão](https://www.google.com/maps?ftid=0x94ce590138000001:0xd43132a04c7b59ed)**, Viaduto 9 de Julho 193, Centro. It's open 24 h, and its **pernil** (roast pork) sandwich with provolone and onions is one of LP's São Paulo "musts" (≈ R$ 7–33 in LP). Good on the Mercadão/Centro afternoon.
 - **[Lamen Kazu](https://www.google.com/maps?ftid=0x94ce60634b15b77d:0x3ef5dadc70308629)**, Tomás Gonzaga 51, Liberdade: ramen with a mostly Japanese clientele, ≈ R$ 29–47 in LP. LP recommends the spicy *kara misso*. Closed 15:00–18:00.
 - **Solo-sized pizza:** **[Leggera Pizza Napoletana](https://www.google.com/maps?ftid=0x94ce57fcbd3be967:0xd7243156cd2f3968)** (Diana 80, Vila Pompeia) makes about 20 individual uncut pies (≈ R$ 34–42 in LP), so you don't have to share a whole paulistana pizza. **[Carlos Pizza](https://www.google.com/maps?ftid=0x94ce57963d57a14f:0x38046f94c36c5603)** (Harmonia 501, Vila Madalena) is the other LP pick near the hostel.
-- **[Cervejaria Dogma](https://www.google.com/maps?ftid=0x94ce5838ae31f803:0x1130893b91c1b0bd)**, Fortunato 236, Santa Cecília: LP calls it the city's best microbrewery for hop fans, with ~20 taps and taproom-only beers. LP gives Wed–Fri 17:00–23:00, so **Wed 16 evening** works; check the current hours.
+- **[Cervejaria Dogma](https://www.google.com/maps?ftid=0x94ce5838ae31f803:0x1130893b91c1b0bd)**, Fortunato 236, Santa Cecília: LP calls it the city's best microbrewery for hop fans, with ~20 taps and taproom-only beers. LP gives Wed–Fri 17:00–23:00, so **Day 9 evening** works; check the current hours.
 - **Mercadão:** open Mon–Sat 06:00–18:00 (LP). LP also names **Hocca Bar** for the mortadella sandwich, and the *pastéis*.
 
 ## ℹ️ Good to know
@@ -166,9 +166,9 @@ All live-checked on 24 Nov.
   - Rarely, armed gangs rob a whole restaurant at once (*arrastão*). Tourists aren't usually targeted.
 - **ATMs (LP):** use machines inside banks, to avoid cloning. Most close 22:00–06:00.
 - **Tourist info (LP):** CIT booths at Tietê bus station (06:00–22:00), Praça da República and Av. Paulista 1853.
-- **Events:** Slayer play Allianz Parque on Thu 17 Dec (≈ Instagram); minor price effect.
+- **Events:** Slayer play Allianz Parque on Day 10 (≈ Instagram); minor price effect.
 
-## 🚌 Leaving: São Paulo → Curitiba, Thu 17 Dec
+## 🚌 Leaving: São Paulo → Curitiba, Day 10
 
 - **Pick: Expresso NS Penha 07:30 Tietê → 14:00 Curitiba Rodoferroviária**, semi-leito, 6 h 30, **R$ 116.99 ($19.60)** ✅ ClickBus.
 - Leave the hostel ~06:45; the metro opens at 04:40.

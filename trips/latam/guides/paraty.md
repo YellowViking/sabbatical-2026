@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Ilha Grande](ilha-grande.md) · [São Paulo](sao-paulo.md) →
 
-> **Stop 3 · Mon 14 → Tue 15 Dec 2026 · 1 night**<br>
+> **Stop 3 · Day 7 → 8 · 1 night**<br>
 > 🏞️ A colonial port with cobbled streets, and Trindade's beaches and rock pools a local bus away<br>
 > 🛏️ **Girassol Hostel by Katita**, a bunk in a mixed dorm, $12 for 1 night<br>
-> 🚌 **In:** Barcas ferry Abraão → Angra 10:00 + Colitur 12:40, Mon 14 · **Out:** Reunidas 09:00 to São Paulo Tietê, Tue 15
+> 🚌 **In:** Barcas ferry Abraão → Angra 10:00 + Colitur 12:40, Day 7 · **Out:** Reunidas 09:00 to São Paulo Tietê, Day 8
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SwtHpJ8lzBhi6wqDH193aOqzLEHhqiSdfC5O9XAS42pNc6I56c3G4EUUfne_XLDcVrkakhqnbkINlAnFCKb8qs9sH4uwciqGU1BQB43f-F55Ilhfzc2vAfw5jBVsbUlm2KixAAfQ=w1200-h360-p-k-no" alt="Rua do Comércio in Paraty's historic centre at dusk: cobbles and whitewashed colonial houses" width="100%">
 
@@ -29,14 +29,14 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 14 Dec | ⛴️ **10:00** ferry Abraão → Angra (~11:45), 🚌 **Colitur 12:40** → Paraty ~14:40. 🏖️ The **15:00** L25 bus to **Trindade**: Praia do Meio → **Cachadaço natural pool** and **Pedra que Engole**, back on the 18:00. Evening: the historic centre on foot. |
-| **Day 2** · Tue 15 Dec | **(a) Recommended:** 🚌 the **09:00 Reunidas** to São Paulo (→ 15:40) for MASP's free Tuesday. **(b)** 💦 **Cachoeira do Tobogã** (L14 out 06:30, back 10:45), then the 13:40 bus. |
+| **Day 7** | ⛴️ **10:00** ferry Abraão → Angra (~11:45), 🚌 **Colitur 12:40** → Paraty ~14:40. 🏖️ The **15:00** L25 bus to **Trindade**: Praia do Meio → **Cachadaço natural pool** and **Pedra que Engole**, back on the 18:00. Evening: the historic centre on foot. |
+| **Day 8** | **(a) Recommended:** 🚌 the **09:00 Reunidas** to São Paulo (→ 15:40) for MASP's free Tuesday. **(b)** 💦 **Cachoeira do Tobogã** (L14 out 06:30, back 10:45), then the 13:40 bus. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (14 → 15 Dec, 1 night)
+**Beds** (Day 7 → 8, 1 night)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -49,10 +49,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Barcas Rio** ferry Abraão → Angra | **Mon 14 Dec 10:00** → ~11:45 | R$ 20.50 | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
-| In | **Colitur L101** Angra → Paraty | **Mon 14 Dec 12:40** → ~14:40 | R$ 27.50 | [Colitur timetable](https://site.colitur.com.br/) |
+| In | **Barcas Rio** ferry Abraão → Angra | **Day 7 10:00** → ~11:45 | R$ 20.50 | [Barcas Rio timetable](https://barcasrio.com.br/linhas-horarios-e-tarifas/) |
+| In | **Colitur L101** Angra → Paraty | **Day 7 12:40** → ~14:40 | R$ 27.50 | [Colitur timetable](https://site.colitur.com.br/) |
 | Day trip | **Colitur L25** Paraty → Trindade | Mon 14: out 15:00, back 18:00 | R$ 5.00 | [Colitur timetable](https://site.colitur.com.br/) |
-| Out | **Reunidas Paulista** Paraty → São Paulo Tietê | **Tue 15 Dec 09:00 → 15:40** | **R$ 118.48** ($19.89) | [Mobifácil](https://www.mobifacil.com.br/passagem-de-onibus/terminal-rodoviario-de-paraty/sao-paulo-todos-sp) |
+| Out | **Reunidas Paulista** Paraty → São Paulo Tietê | **Day 8 09:00 → 15:40** | **R$ 118.48** ($19.89) | [Mobifácil](https://www.mobifacil.com.br/passagem-de-onibus/terminal-rodoviario-de-paraty/sao-paulo-todos-sp) |
 
 <details><summary>How to read these tables</summary>
 
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Ilha Grande → Paraty, Mon 14 Dec
+## 🚌 Getting here: Ilha Grande → Paraty, Day 7
 
 - **Barcas Rio ferry Abraão → Angra at 10:00** (daily), R$ 20.50 ✅ barcasrio. It arrives ~11:45; then walk or taxi 1.5 km to the rodoviária.
 - **Colitur L101 Angra → Paraty, R$ 27.50, ~2 h** ✅ site.colitur.com.br.
@@ -88,7 +88,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 ### Backup 2: Hostel Oxê
 - **Unit:** a bed in a 7-bed mixed ensuite dorm. R. Frei Henrique de Coimbra 40, Jabaquara. The pick until 25 Nov; ⚠️ a 30-min walk from the centre with no bus.
-- **Price:** **Hostelworld $15.96** + fee for 1 night. Booking $19 (free cancellation to 7 Dec, pay at the property); Agoda $19.93.
+- **Price:** **Hostelworld $15.96** + fee for 1 night. Booking $19 (free cancellation to Day 0, pay at the property); Agoda $19.93.
 - **Reviews:** Booking 9.5 (105; **2% below 7**), location 9.0. Hostelworld 98% (29; all 11 written reviews are 80+).
 - **Where:** ~1.4 km from the historic centre and the rodoviária, near Jabaquara beach.
 - **Checks:**
@@ -114,12 +114,12 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SWdJK6KAj2j6QLW6aoqL0mctFMkfswLtwAFo7J52kr2sbBkpJS9nNcXzCdETqfD1l-c5gPIO2apw2aeJDZn2ZWTn81WOJUOG56qwn0RDrHdhuOIcjg3Eq0yIbbz1_rsfWI1FjOIbe3pXna=w640-h400-p-k-no" width="100%" alt="The clear green Cachadaço natural pool among boulders"><br><b><a href="https://www.google.com/maps?ftid=0x9d4144a7594cab:0x7011f1002b891e4">Cachadaço natural pool</a></b>, Trindade · free · Mon 14<br>20 min of forest trail from Praia do Meio.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SWdJK6KAj2j6QLW6aoqL0mctFMkfswLtwAFo7J52kr2sbBkpJS9nNcXzCdETqfD1l-c5gPIO2apw2aeJDZn2ZWTn81WOJUOG56qwn0RDrHdhuOIcjg3Eq0yIbbz1_rsfWI1FjOIbe3pXna=w640-h400-p-k-no" width="100%" alt="The clear green Cachadaço natural pool among boulders"><br><b><a href="https://www.google.com/maps?ftid=0x9d4144a7594cab:0x7011f1002b891e4">Cachadaço natural pool</a></b>, Trindade · free · Day 7<br>20 min of forest trail from Praia do Meio.</td>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5HCBAGO_-79OpRqt-J8I1ZTy45VYsdw8t3j2YuRUFbdQf_Ho2FqNUt9Npbaq1qZecTWXckUhrBjb73DpELeO1JJEEAyGQFES0zJ8ygcYcXX4bpxybWv8Sl2tJg0QyBFXN5MkC-w=w640-h400-p-k-no" width="100%" alt="Praia do Meio in Trindade"><br><b><a href="https://www.google.com/maps?ftid=0x9d404728724acd:0x6816453017a418cb">Praia do Meio</a></b>, Trindade · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.220219,-44.719199&destination=-23.3542,-44.724632&travelmode=driving">🚕 ≈ 38 min</a><br>Colitur L25 from the rodoviária, R$ 5.00. The walk to Cachadaço starts here.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOo4fSIi3XkAn8jxX8OgxcXFKrDh9XXtO_SHeNs6L_gH6ZSH8A5nPGBmNQOGqqcqkqK9XBm9xsJ_MSgrojFThJspTygf9v5jvgBh3xpwpWjhaNltspFU3dFhtOsAh7L9_0a6wUjhyqu-ez=w640-h400-p-k-no" width="100%" alt="The stream and boulders at Pedra que Engole"><br><b><a href="https://www.google.com/maps?ftid=0x9d4047f72fe4c9:0x5c61424997460084">Pedra que Engole</a></b>, Trindade · free<br>A waterfall pool, on the same afternoon.</td>
-<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3kwVcNaHAIo3qJO3yq7rOK33IRqttOQEI0QZdJSr_7eMyMgD5KqRg1X1B7js4SGske96CE2-Ud53OoRL0lGnsH-ESW27knu9ieKkjcMHtqNctgKGO80YwQAB98A4SlW_4NU3J=w640-h400-p-k-no" width="100%" alt="The smooth rock slab of the Tobogã waterslide"><br><b><a href="https://www.google.com/maps?ftid=0x9d6f28c075ea7b:0x11757d57b7da86f3">Cachoeira do Tobogã</a></b> · free · option (b), Tue 15 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.220219,-44.719199&destination=-23.2134882,-44.7923124&travelmode=driving">🚕 ≈ 18 min</a><br>A natural rock waterslide. Colitur L14 "Penha", R$ 5.00.</td>
+<td width="50%" valign="top"><img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3kwVcNaHAIo3qJO3yq7rOK33IRqttOQEI0QZdJSr_7eMyMgD5KqRg1X1B7js4SGske96CE2-Ud53OoRL0lGnsH-ESW27knu9ieKkjcMHtqNctgKGO80YwQAB98A4SlW_4NU3J=w640-h400-p-k-no" width="100%" alt="The smooth rock slab of the Tobogã waterslide"><br><b><a href="https://www.google.com/maps?ftid=0x9d6f28c075ea7b:0x11757d57b7da86f3">Cachoeira do Tobogã</a></b> · free · option (b), Day 8 · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.220219,-44.719199&destination=-23.2134882,-44.7923124&travelmode=driving">🚕 ≈ 18 min</a><br>A natural rock waterslide. Colitur L14 "Penha", R$ 5.00.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rua_alagada_Centro_Hist%C3%B3rico_de_Paraty_RJ.jpg/500px-Rua_alagada_Centro_Hist%C3%B3rico_de_Paraty_RJ.jpg" width="100%" alt="A flooded cobbled street in Paraty's historic centre at high tide"><br><b><a href="https://www.google.com/maps?ftid=0x9d6d1f66cfa627:0x8599c16a8fd44eb1">Historic centre</a></b> on foot · free · <a href="https://www.google.com/maps/dir/?api=1&origin=-23.220219,-44.719199&destination=-23.2194982,-44.7129314&travelmode=walking">🚶 10 min</a><br>The cobbled streets flood at high tide.</td>
@@ -127,10 +127,10 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 </tr>
 </table>
 
-- **Mon 14 afternoon: Trindade.** Colitur L25 from the rodoviária, **R$ 5.00** ✅ colitur. Weekdays it leaves hourly 05:15–17:00, then 19:00 and 22:30. Returns run hourly to 18:00, then 22:00 and 23:15.
+- **Day 7 afternoon: Trindade.** Colitur L25 from the rodoviária, **R$ 5.00** ✅ colitur. Weekdays it leaves hourly 05:15–17:00, then 19:00 and 22:30. Returns run hourly to 18:00, then 22:00 and 23:15.
   - Take the 15:00 out and come back on the 18:00.
   - Walk Praia do Meio → **Cachadaço natural pool** (20 min of forest trail) and see the **Pedra que Engole** waterfall pool. All free.
-- **Day 2 (Tue 15 Dec), pick one:**
+- **Day 8, pick one:**
   - **(a) Recommended:** the 09:00 bus to São Paulo, then MASP's free Tuesday (see [São Paulo](sao-paulo.md)).
   - **(b) Cachoeira do Tobogã** (a natural rock waterslide, free). Colitur L14 "Penha", R$ 5.00 ✅: out **06:30**, back **10:45** (the 08:00 runs only to Pantanal). Then take the 13:40 bus.
 - **Historic centre on foot:** free. The cobbled streets flood at high tide; sunset at the Pontal.
@@ -174,7 +174,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **ATMs (LP):** Bradesco and Banco do Brasil are two blocks north of the bus station on Av. Roberto Silveira.
 - **Tourist office (LP):** the CIT is at Av. Roberto Silveira 1, at the entrance to the historic centre (09:00–21:00).
 
-## 🚌 Leaving: Paraty → São Paulo Tietê, Tue 15 Dec
+## 🚌 Leaving: Paraty → São Paulo Tietê, Day 8
 
 **Reunidas Paulista** ✅ mobifacil.com.br (Reunidas' own sales site):
 

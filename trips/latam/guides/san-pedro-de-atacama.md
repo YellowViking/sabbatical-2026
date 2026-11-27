@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Chile + Bolivia](chile-bolivia.md) · ← [Quebrada de Humahuaca (Tilcara + Iruya + Purmamarca)](quebrada-de-humahuaca.md) · [Jeep tour San Pedro → Uyuni](uyuni-jeep-tour.md) →
 
-> **Stop 16 · Sun 17 → Thu 21 Jan 2027 · 4 nights** (+1 on 27 Nov: a buffer day before Cerro Toco)<br>
+> **Stop 16 · Day 41 → 45 · 4 nights** (+1 on 27 Nov: a buffer day before Cerro Toco)<br>
 > 🏞️ Adobe oasis town in the Atacama desert: moon-like valleys by bike, salt lagoons, a 5,604 m volcano and dark skies<br>
 > 🛏️ **Hostal Lackuntur**, a bed in a 4-bed mixed dorm, US$73 for 4 nights<br>
 > 🚌 **In:** Andesmar from Purmamarca over Paso de Jama, Sun 03:40 → ≈ 11:30 · **Out:** the 3-day jeep tour to Uyuni, Thu morning
@@ -31,17 +31,17 @@ Note: the walking routes in the beds table start from a different Google "bus te
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Sun 17 Jan | 🚌 Andesmar from Purmamarca arrives ≈ 11:30; immigration and the SAG food check on arrival. A rest day after 4,200 m on Jama: walk Caracoles and the river edge. ✨ **Free stargazing** out of town: tonight is the only dark window, **02:36–05:38** after moonset. |
-| **Day 2** · Mon 18 Jan | 🚲 **Valle de la Luna by rented bike** (bikes may enter only 09:00–11:00). Afternoon (or Sun): the short bike loop north to the **Pukará de Quitor** ruins, the **Garganta del Diablo** and the **Valle de Marte** dunes. Optional: **Laguna Cejar**. |
-| **Day 3** · Tue 19 Jan | 🌊 Easy acclimatisation day and weather buffer for Toco: float in **Laguna Cejar** (optional, ≈ $49 all-in by tour), or the Valle de Marte dunes at sunset. Early night. 💱 Change ≈ Bs 250 in small notes for the jeep tour. |
-| **Day 4** · Wed 20 Jan | 🏔️ **Cerro Toco** 5,604 m (guided walk-up, 06:00 → ≈ 13:30). If the forecast is bad, swap it with Day 3. |
-| **Day 5** · Thu 21 Jan | 🚙 Jeep tour pickup at the hostel ≈ 06:00–06:30 → Uyuni ([tour guide](uyuni-jeep-tour.md)). |
+| **Day 41** | 🚌 Andesmar from Purmamarca arrives ≈ 11:30; immigration and the SAG food check on arrival. A rest day after 4,200 m on Jama: walk Caracoles and the river edge. ✨ **Free stargazing** out of town: tonight is the only dark window, **02:36–05:38** after moonset. |
+| **Day 42** | 🚲 **Valle de la Luna by rented bike** (bikes may enter only 09:00–11:00). Afternoon (or Sun): the short bike loop north to the **Pukará de Quitor** ruins, the **Garganta del Diablo** and the **Valle de Marte** dunes. Optional: **Laguna Cejar**. |
+| **Day 43** | 🌊 Easy acclimatisation day and weather buffer for Toco: float in **Laguna Cejar** (optional, ≈ $49 all-in by tour), or the Valle de Marte dunes at sunset. Early night. 💱 Change ≈ Bs 250 in small notes for the jeep tour. |
+| **Day 44** | 🏔️ **Cerro Toco** 5,604 m (guided walk-up, 06:00 → ≈ 13:30). If the forecast is bad, swap it with Day 43. |
+| **Day 45** | 🚙 Jeep tour pickup at the hostel ≈ 06:00–06:30 → Uyuni ([tour guide](uyuni-jeep-tour.md)). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Beds** (17 → 21 Jan, 3 nights)
+**Beds** (Day 41 → 45, 4 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -54,11 +54,11 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Andesmar** · Purmamarca → San Pedro, over Paso de Jama | **Sun 17 Jan 03:40 → ≈ 11:30** | ARS 120,000 ≈ $75 | see the [Quebrada guide](quebrada-de-humahuaca.md) |
-| Ticket | **Valle de la Luna** entry (bikes 09:00–11:00) | Mon 18 Jan | ✅ CLP 10,800 ≈ US$10.50 | [valledelaluna.com/shop](https://valledelaluna.com/shop) (card at the gate; no cash) |
-| Ticket | **Laguna Cejar** (optional, timed slots, online only) | Sat 16 or Tue 19 Jan | ✅ CLP 15,000 ≈ US$14.65 | [lagunacejar.com](https://lagunacejar.com/) |
-| Tour | **Cerro Toco** (optional, guided) | Tue 19 Jan 06:00 → ≈ 13:30 | ✅ Vulcano CLP 85,000 ≈ US$83 · Nomades CLP 75,000 ≈ US$73 | from the operators |
-| ⚠️ Out | **Jeep tour → Uyuni** (Estrella del Sur, pick) | Thu 21 Jan, pickup ≈ 06:00–06:30 | US$260–280 + park fees | [jeep tour guide](uyuni-jeep-tour.md) |
+| In | **Andesmar** · Purmamarca → San Pedro, over Paso de Jama | **Day 41 03:40 → ≈ 11:30** | ARS 120,000 ≈ $75 | see the [Quebrada guide](quebrada-de-humahuaca.md) |
+| Ticket | **Valle de la Luna** entry (bikes 09:00–11:00) | Day 42 | ✅ CLP 10,800 ≈ US$10.50 | [valledelaluna.com/shop](https://valledelaluna.com/shop) (card at the gate; no cash) |
+| Ticket | **Laguna Cejar** (optional, timed slots, online only) | Day 40 or Day 43 | ✅ CLP 15,000 ≈ US$14.65 | [lagunacejar.com](https://lagunacejar.com/) |
+| Tour | **Cerro Toco** (optional, guided) | Day 43 06:00 → ≈ 13:30 | ✅ Vulcano CLP 85,000 ≈ US$83 · Nomades CLP 75,000 ≈ US$73 | from the operators |
+| ⚠️ Out | **Jeep tour → Uyuni** (Estrella del Sur, pick) | Day 45, pickup ≈ 06:00–06:30 | US$260–280 + park fees | [jeep tour guide](uyuni-jeep-tour.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -69,7 +69,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 </details>
 
-## 🚌 Getting here: Purmamarca → San Pedro de Atacama, Sun 17 Jan
+## 🚌 Getting here: Purmamarca → San Pedro de Atacama, Day 41
 
 - **Andesmar Purmamarca 03:40 → San Pedro bus terminal ≈ 11:30**, over Paso de Jama (4,200 m). Times and price are in the [Quebrada guide](quebrada-de-humahuaca.md).
 - **Chilean immigration and the SAG food check** happen at the San Pedro customs post on arrival: declare or eat all fruit, meat and cheese beforehand.
@@ -79,7 +79,7 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 ### ⭐ Pick: Hostal Lackuntur
 Live-checked 25 Nov, chosen for location.
 - **Unit:** a bed in a 4-bed mixed dorm.
-- **Price:** **US$55 for 3 nights on Booking** (rechecked 26 Nov for 15 → 18 Jan; Genius price; free cancellation to 13 Jan, pay the property before arrival). Not on Hostelworld for these dates.
+- **Price:** **US$55 for 3 nights on Booking** (rechecked 26 Nov for Day 39 → 42; Genius price; free cancellation to Day 37, pay the property before arrival). Not on Hostelworld for these dates.
 - **Reviews:** Booking **9.3 (1,228 reviews; 1% below 7)**, location **9.4**.
 - **Where:** 12 min (850 m) on foot from the bus terminal, 0.65 km from the plaza.
 - **Checks:** ✅ shared kitchen ("amazing view of the volcano from the kitchen"). "Perfectly chilled vibes, far from a party environment"; beds and rooms cleaned daily. Outdoor pool (facility list; no pool-party reports). ✗ no bunk curtains (a 2025 review asks for them). No AC, and the private rooms are thin-walled (Nov 2026).
@@ -111,7 +111,7 @@ The pick until 25 Nov. ⚠️ Location 8.8.
 - Kitchen with stove (small, queues). No curtains. Pool + bar whose music sometimes runs past midnight.
 
 ### Private alt (location first): Hostal Ayni
-- **Single Room** (shared kitchen; family-run, Claudio and Rossana). **US$135 for 3 nights** (room table, 26 Nov; free cancellation to 13 Jan) on Booking.
+- **Single Room** (shared kitchen; family-run, Claudio and Rossana). **US$135 for 3 nights** (room table, 26 Nov; free cancellation to Day 37) on Booking.
 - Booking location **9.7**, 295 reviews, 4.1% below 7.
 - 0.5 km to the plaza, ≈ 0.2 km to the terminal.
 - **Next:** Hostal Casa Flores, twin, location 9.3, 524 reviews, US$189.
@@ -138,35 +138,35 @@ The pick until 25 Nov. ⚠️ Location 8.8.
 </tr>
 </table>
 
-**Day 1 (Sun 17 Jan), arrival, rest day.** Take it easy after 4,200 m on Jama. Walk Caracoles and the river edge, then stars.
+**Day 41, arrival, rest day.** Take it easy after 4,200 m on Jama. Walk Caracoles and the river edge, then stars.
 - **Free stargazing:** walk 1.5–2 km out of town (the Ayllu roads east or the Toconao road) with a red light.
 - The moon is 72% full and sets at **02:36**, so **02:36–05:38** (astronomical dawn) is the only dark window. Later nights are close to full moon (22 Jan): the moon sets at 03:33 on the 18th and 04:38 on the 19th (computed with PyEphem for San Pedro).
 - Paid astronomy tours are cancelled often in January cloud and aren't needed.
 
-**Day 2 (Mon 18 Jan): Valle de la Luna by rented bike** (the cheap version of the most-sold tour).
+**Day 42: Valle de la Luna by rented bike** (the cheap version of the most-sold tour).
 - ✅ Bikes may enter only **09:00–11:00** (valledelaluna.com, Sep–Mar).
 - ✅ Entry **CLP 10,800 ≈ US$10.50** (Viator/SanPedroAtacama.com/Horizonte quoting CONAF). Buy online at valledelaluna.com/shop (card at the gate; no cash).
 - Bike hire ≈ CLP 8,000–10,000 for the half day (Caracoles shops, helmet included, ≈).
 - ≈ 30–35 km round trip on sand and washboard. Carry 2 L of water; you're back before the afternoon heat.
 - The Piedra del Coyote (Ckari) sunset viewpoint is reported closed (≈).
 
-**Day 2 (Mon 18 Jan), afternoon, or Day 3: short bike loop north.**
+**Day 42, afternoon, or Day 43: short bike loop north.**
 - **Garganta del Diablo** canyon in Quebrada de Catarpe (gate ≈ CLP 5,000 cash, tur.com).
 - The **Valle de Marte** (Valle de la Muerte) dunes 2 km from town (≈ CLP 7,500, June 2026 post).
 - Both are rideable from town in 2–4 h.
 - **Pukará de Quitor** is on the way: crumbling 12th-century hill-fort ruins 3.5 km north-west of town with a view over the whole oasis. ≈ CLP 3,000 (LP, pre-2020 price; expect more). LP calls the Garganta del Diablo, ≈ 3 km further on, a winding singletrack mountain bikers love (LP).
 - **Sandboarding** on the Valle de Marte dunes is the paid add-on: ≈ CLP 20,000 for a 3-h session with a short lesson, 09:00–12:00 or 16:00–19:00 (Sandboard San Pedro, Caracoles 362-H; LP, older price).
 
-**Day 3 (Tue 19 Jan): Laguna Cejar (optional, the one thing the Uyuni tour lacks: floating).**
+**Day 43: Laguna Cejar (optional, the one thing the Uyuni tour lacks: floating).**
 - ✅ CLP 15,000 ≈ US$14.65 on lagunacejar.com (13–59 y; timed slots, online only; you float in Laguna Piedra next door).
 - It's 28 km out: tours ≈ CLP 30,000 + CLP 20,000 of entries (Cejar + Tebinquiche sunset), so ≈ US$49 all-in (tuki.cl, Aug 2026).
 - **Alternatives:** Lagunas Escondidas de **Baltinache** (≈ CLP 10,000 at the gate, seven floatable turquoise pools, ≈ 1 h south on a rough road, so a tour or a shared car) or **Ojos del Salar + Laguna Tebinquiche** (≈ CLP 5,000–6,000; swim in the Ojos, sunset reflections at Tebinquiche; on the Cejar road).
 - Or simply skip it: the jeep tour has the Polques hot pool, flamingo lagoons and the salt flat.
 
-**Day 4 (Wed 20 Jan): Cerro Toco 5,604 m** (guided walk-up; Iruya, Hornocal and Jama make good acclimatisation for it). Guide mandatory (it's inside a park).
+**Day 44: Cerro Toco 5,604 m** (guided walk-up; Iruya, Hornocal and Jama make good acclimatisation for it). Guide mandatory (it's inside a park).
 - ✅ **Vulcano Expediciones CLP 85,000 ≈ US$83** group (06:00 → ≈ 13:30; 4x4 to ≈ 5,200 m, then ≈ 400 m of ascent on scree in 2–3 h; WFR guide, poles, warm layers, oxygen; full refund or reschedule if weather stops it; private CLP 290,000).
 - ✅ **Nomades CLP 75,000 ≈ US$73** (7 h, free reschedule ≥ 48 h). Atacama Chile Tours from US$110.
-- **Acclimatisation:** operators want 2–3 days in San Pedro plus something above 3,500 m first. You arrive from Purmamarca (2,300 m) over Jama (4,200 m), so Wed 20 Jan is your 4th day in San Pedro (6th above 2,300 m counting the Quebrada), which meets that. Day 3 is a buffer: if the forecast is better on Tue 19, climb then and rest on Wed. It also pre-acclimatises you for the tour's 4,300–4,900 m. Skip it if you have a headache or poor sleep.
+- **Acclimatisation:** operators want 2–3 days in San Pedro plus something above 3,500 m first. You arrive from Purmamarca (2,300 m) over Jama (4,200 m), so Day 44 is your 4th day in San Pedro (6th above 2,300 m counting the Quebrada), which meets that. Day 43 is a buffer: if the forecast is better on Day 43, climb then and rest on Wed. It also pre-acclimatises you for the tour's 4,300–4,900 m. Skip it if you have a headache or poor sleep.
 - **January:** Vulcano warns of afternoon storms and sudden snow Jan–Mar and confirms each departure on the day's forecast; the snow track can stop short of 5,000 m.
 
 **Skip (paid, done better on the tour):** El Tatio geysers, Piedras Rojas / Miscanti–Miñiques altiplanic lagoons, and Valle del Arcoíris tours. Sol de Mañana, Lagunas Verde, Blanca and Colorada and the Polques pool come on days 1–2 of the jeep tour.
@@ -193,7 +193,7 @@ You have the shared kitchen at Lackuntur, so cook most nights; Chile is the expe
 
 ## ℹ️ Good to know
 - **Book ahead:** January is Chile's summer high season, so book the bed and the jeep tour a week or more ahead.
-- **Invierno altiplánico:** the town itself stays dry (4 mm in January), but storms close **Hito Cajón** and Jama for 1–3 days at a time. The El Loa delegation usually announces it the evening before. Tours then wait or reroute via Ollagüe (≈ AI-summary leads, 2026 examples). Keep 18 → 20 Jan flexible by a day; Potosí and Sucre can absorb it.
+- **Invierno altiplánico:** the town itself stays dry (4 mm in January), but storms close **Hito Cajón** and Jama for 1–3 days at a time. The El Loa delegation usually announces it the evening before. Tours then wait or reroute via Ollagüe (≈ AI-summary leads, 2026 examples). Keep Day 42 → 44 flexible by a day; Potosí and Sucre can absorb it.
 - **Cash for Bolivia:** change CLP/USD into **≈ Bs 250 in small notes** for the tour before leaving (casas de cambio on Caracoles).
 - **Money:** CLP 1,024 = US$1.
   - LP warns that San Pedro's few ATMs (on Caracoles and opposite the museum) **often run out**, so arrive with some cash. Choose *tarjeta extranjera* at Chilean ATMs; fees can reach ≈ US$10 a withdrawal (LP).
@@ -202,7 +202,7 @@ You have the shared kitchen at Lackuntur, so cook most nights; Chile is the expe
 - **Choosing the tour:** the tourist office (Toconao and Le Paige, 09:00–21:00) keeps a book of travellers' comments on the agencies (LP).
 - **Clocks:** in January Chile is on summer time (UTC−3, as LP notes), the same as Argentina, so nothing changes on the 15th. Bolivia is UTC−4: set your watch back 1 h on the jeep tour.
 
-## 🚙 Leaving: jeep tour to Uyuni, Thu 21 Jan
+## 🚙 Leaving: jeep tour to Uyuni, Day 45
 
 - The agency's minibus collects you from the hostel at ≈ 06:00–06:30, then the Chilean exit stamp and Hito Cajón.
 - Operators, prices, park fees and January conditions are in the [jeep tour guide](uyuni-jeep-tour.md).

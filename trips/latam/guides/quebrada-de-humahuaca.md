@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](argentina.md) · ← [Salta](salta.md) · [San Pedro de Atacama](san-pedro-de-atacama.md) →
 
-> **Stop 15 · Thu 14 → Sun 17 Jan 2027 · 3 nights: Tilcara, Iruya, Purmamarca (1 each)**<br>
+> **Stop 15 · Day 38 → 41 · 3 nights: Tilcara, Iruya, Purmamarca (1 each)**<br>
 > 🏞️ A high desert valley of striped mountains: hikes from Tilcara, the cliffside village of Iruya, the Hornocal "14 colours" and Purmamarca's red rocks<br>
 > 🛏️ **Tilcara Mística** dorm $23 · **Hospedaje Ale**, Iruya (private; no dorms) $37 · **Giramundo** dorm, Purmamarca $17<br>
 > 🚌 **In:** Salta → Jujuy, Thu 08:05, then Evelia to Tilcara · **Out:** ⚠️ Andesmar Purmamarca → San Pedro de Atacama, Sun 03:40
@@ -37,16 +37,16 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Argentina](arge
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 14 Jan · Tilcara | 🚌 Salta 08:05 → Jujuy 10:00, then Evelia or Balut to Tilcara (≈ 4 h door to door). 🥾 **Garganta del Diablo** in the afternoon if the sky is clear (≈ 3–3.5 h). |
-| **Day 2** · Fri 15 Jan · Iruya | 🚌 Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00, then **Transporte Iruya 08:20** → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor. 🥾 Afternoon: the riverbed walk to **San Isidro**, or the **Mirador del Cóndor** at sunset. 🎫 Book the return seat. |
-| **Day 3** · Sat 16 Jan · Purmamarca | 🚌 **06:00** Iruya → Humahuaca (≈ 09:00). 🏔️ **Hornocal** by shared 4x4 (≈ 3 h return). 🚌 Humahuaca → Purmamarca (≈ 1 h 15). 🥾 **Paseo de los Colorados** and **Cerro El Porito** at golden hour. Dinner, bed by 21:00. |
-| **Day 4** · Sun 17 Jan | ⏰ **03:40 Andesmar** from the RN52 stop → San Pedro de Atacama 11:30. |
+| **Day 38** · Tilcara | 🚌 Salta 08:05 → Jujuy 10:00, then Evelia or Balut to Tilcara (≈ 4 h door to door). 🥾 **Garganta del Diablo** in the afternoon if the sky is clear (≈ 3–3.5 h). |
+| **Day 39** · Iruya | 🚌 Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00, then **Transporte Iruya 08:20** → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor. 🥾 Afternoon: the riverbed walk to **San Isidro**, or the **Mirador del Cóndor** at sunset. 🎫 Book the return seat. |
+| **Day 40** · Purmamarca | 🚌 **06:00** Iruya → Humahuaca (≈ 09:00). 🏔️ **Hornocal** by shared 4x4 (≈ 3 h return). 🚌 Humahuaca → Purmamarca (≈ 1 h 15). 🥾 **Paseo de los Colorados** and **Cerro El Porito** at golden hour. Dinner, bed by 21:00. |
+| **Day 41** | ⏰ **03:40 Andesmar** from the RN52 stop → San Pedro de Atacama 11:30. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (first = cheapest when checked on 24 Nov). ⚠️ = time-sensitive.
 
-**Beds** (one night each: Tilcara 12 → 13, Iruya 13 → 14, Purmamarca 16 → 17 Jan)
+**Beds** (one night each: Tilcara 12 → 13, Iruya 13 → 14, Purmamarca Day 40 → 41)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -64,13 +64,13 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | ✅ **20 de Junio** · Salta → Jujuy | **Thu 14 Jan 08:05 → 10:00** (or Balut 09:30 → 11:45) | ARS 20,000 ≈ $12 (Balut 18,000 ≈ $11) | Plataforma10 |
+| In | ✅ **20 de Junio** · Salta → Jujuy | **Day 38 08:05 → 10:00** (or Balut 09:30 → 11:45) | ARS 20,000 ≈ $12 (Balut 18,000 ≈ $11) | Plataforma10 |
 | In | **Evelia / Balut** · Jujuy → Tilcara | e.g. 10:30 → 12:10 or 12:00 → 13:15 *(Dec timetable)* | ARS 9,000–9,500 ≈ $6 | [Evelia](https://eveliatransporte.com.ar/) |
-| To Iruya | ✅ **Evelia** Tilcara → Humahuaca, then **Transporte Iruya** | **Fri 15 Jan** 07:15 or 07:20 → 08:00; **08:20** → ≈ 11:20 (also 10:30, 16:00) | ARS 4,500 + ≈ ARS 9,500–12,000 (≈ $6–8) | Humahuaca terminal *(leads)* |
-| Back | Iruya → Humahuaca | **Sat 16 Jan 06:00** → ≈ 09:00 (no Sunday service) | — | Iruya ticket office, on arrival |
-| Hornocal | Shared 4x4 from the Humahuaca terminal | Sat 16 Jan, leaves when full, ≈ 3 h return | ≈ ARS 20,000 + ARS 2,000 (≈ $13) *(leads)* | at the terminal |
-| On | **Evelia / Balut** · Humahuaca → Purmamarca | Sat 16 Jan, ≈ 1 h 15 | — | [Evelia](https://eveliatransporte.com.ar/) |
-| ⚠️ Out | **Andesmar** · Purmamarca Acceso → San Pedro de Atacama | **Sun 17 Jan 03:40 → 11:30** | **ARS 120,000 ≈ $75** semicama (38 seats on 26 Nov) | [Andesmar shop](https://shop.andesmar.com/) · [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Purmamarca-Acceso/San-Pedro-de-Atacama/4891/2777/17-01-2027/_/1/0/0) |
+| To Iruya | ✅ **Evelia** Tilcara → Humahuaca, then **Transporte Iruya** | **Day 39** 07:15 or 07:20 → 08:00; **08:20** → ≈ 11:20 (also 10:30, 16:00) | ARS 4,500 + ≈ ARS 9,500–12,000 (≈ $6–8) | Humahuaca terminal *(leads)* |
+| Back | Iruya → Humahuaca | **Day 40 06:00** → ≈ 09:00 (no Sunday service) | — | Iruya ticket office, on arrival |
+| Hornocal | Shared 4x4 from the Humahuaca terminal | Day 40, leaves when full, ≈ 3 h return | ≈ ARS 20,000 + ARS 2,000 (≈ $13) *(leads)* | at the terminal |
+| On | **Evelia / Balut** · Humahuaca → Purmamarca | Day 40, ≈ 1 h 15 | — | [Evelia](https://eveliatransporte.com.ar/) |
+| ⚠️ Out | **Andesmar** · Purmamarca Acceso → San Pedro de Atacama | **Day 41 03:40 → 11:30** | **ARS 120,000 ≈ $75** semicama (38 seats on 26 Nov) | [Andesmar shop](https://shop.andesmar.com/) · [Plataforma10](https://www.plataforma10.com.ar/servicios/buscar-pasajes/Purmamarca-Acceso/San-Pedro-de-Atacama/4891/2777/17-01-2027/_/1/0/0) |
 
 <details><summary>How to read these tables</summary>
 
@@ -81,9 +81,9 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 </details>
 
-## 🚌 Getting here: Salta → Jujuy → Tilcara, Thu 14 Jan
+## 🚌 Getting here: Salta → Jujuy → Tilcara, Day 38
 
-- **Salta → Jujuy:** ✅ 20 de Junio 08:05 → 10:00 (ARS 20,000 ≈ $12) or Balut 09:30 → 11:45 (ARS 18,000 ≈ $11) (Plataforma10, rechecked 27 Nov for Thu 14 Jan).
+- **Salta → Jujuy:** ✅ 20 de Junio 08:05 → 10:00 (ARS 20,000 ≈ $12) or Balut 09:30 → 11:45 (ARS 18,000 ≈ $11) (Plataforma10, rechecked 27 Nov for Day 38).
 - **Jujuy → Tilcara:** Evelia or Balut, e.g. 10:30 → 12:10 or 12:00 → 13:15 (ARS 9,000–9,500 ≈ $6) *(Dec timetable)*.
 - **Change buses at the terminal; don't go into town.** Jujuy's bus terminal is in **Alto Comedero, ≈ 5–6 km south-east of the centre** (LP; OpenStreetMap). It has showers and a tourist desk (LP).
 - About **4 h door to door for ≈ $17**.
@@ -91,13 +91,13 @@ Dates and 1 adult are pre-filled. Prices move, so compare the channels shown (fi
 
 ## 🛏️ Where to sleep
 
-**Which base? Split it:** **Tilcara Thu 14 → Fri 15, Iruya Fri 15 → Sat 16, then Purmamarca Sat 16 → Sun 17.** Iruya was added on 26 Nov (Worldly Adventurer, Broke Backpacker); its night came out of San Pedro, so nothing later moved.
+**Which base? Split it:** **Tilcara Day 38 → 39, Iruya Day 39 → 40, then Purmamarca Day 40 → 41.** Iruya was added on 26 Nov (Worldly Adventurer, Broke Backpacker); its night came out of San Pedro, so nothing later moved.
 - **Tilcara is the better hiking base.** It sits on the RN9 bus spine, with ~20 buses a day to Humahuaca (45 min) and 11 a day to Purmamarca (25–35 min). The Garganta del Diablo trail starts from town, and it has 7 hostels on Booking plus 4 on Hostelworld for these dates.
 - **Purmamarca is where the San Pedro bus stops.** Andesmar's shop lists "Parador Purmamarca" at 03:40, and the bus doesn't call at Tilcara (Tilcara is 25 km up RN9, past the RN52 turn-off). No local bus runs between 23:45 and 05:35, so from Tilcara you would need a remís booked for ≈ 02:50.
 - **So yes, sleep the last night in Purmamarca.** It's the sunset Colorados walk, then bed by 21:00 and a short walk to the stop. The 1-night bag move costs ARS 2,500 (≈ $1.50) and 30 min on Evelia.
 - **Jujuy city** (02:45 departure) has no advantage; it's 1 h further back and has weaker hostels (Hostelworld 55–60 or tiny review counts).
 
-### ⭐ Pick, Tilcara (Thu 14 → Fri 15): Tilcara Mística Hostel
+### ⭐ Pick, Tilcara (Day 38 → 39): Tilcara Mística Hostel
 Live-checked 24 Nov; moved up on 25 Nov for location.
 - **Where:** Padilla 575, 160 m from the plaza.
 - **Unit:** a bed in a 4-bed mixed dorm.
@@ -113,15 +113,15 @@ Live-checked 24 Nov; moved up on 25 Nov for location.
 - **Checks:** ✅ a fully equipped kitchen. Big indoor and outdoor common areas, quiet; few sockets by the beds. Curtains not confirmed. No pool.
 - **Also ≥ 9.0:** Tierra Andina (location 9.5, 6-bed dorm $12, but Booking 8.3 with 6% below 7; not vetted).
 
-### ⭐ Pick, Iruya (Fri 15 → Sat 16): Hospedaje Ale
+### ⭐ Pick, Iruya (Day 39 → 40): Hospedaje Ale
 Live-checked 26 Nov.
 - **Unit:** a triple room with private bathroom, for 1. **$37 for 1 night on Booking.** Iruya has no dorm beds on Booking or Hostelworld for these dates.
 - **Reviews:** Booking 8.7 (192 reviews; 2% below 7), **location 9.5**.
 - **Backup:** El Wichiku Residencial (also location 9.5; 252 reviews, 3% below 7), double with mountain view, $46.
 - **Why Iruya:** a cliffside village of ≈ 1,000 people at 2,780 m, 54 km down a gravel road off RN9, with free walks to San Isidro and the Mirador del Cóndor. It also helps you acclimatise before Hornocal (4,350 m) and Jama (4,200 m).
-- ⚠️ **January rains:** the gravel road (RP 13 / RP 133) runs through riverbeds and can wash out for hours or days after storms. Ask at the Humahuaca terminal before you go. **If it's closed,** stay a 2nd night in Tilcara (Tilcara Mística, $23 a night when checked on 26 Nov for the old 13 → 14 Jan; re-check for 15 → 16 Jan) and do Hornocal on Friday instead.
+- ⚠️ **January rains:** the gravel road (RP 13 / RP 133) runs through riverbeds and can wash out for hours or days after storms. Ask at the Humahuaca terminal before you go. **If it's closed,** stay a 2nd night in Tilcara (Tilcara Mística, $23 a night when checked on 26 Nov for the old Day 37 → 38; re-check for Day 39 → 40) and do Hornocal on Friday instead.
 
-### ⭐ Pick, Purmamarca (Sat 16 → Sun 17): Giramundo Hostel Purmamarca
+### ⭐ Pick, Purmamarca (Day 40 → 41): Giramundo Hostel Purmamarca
 - **Unit:** a single bed in a dorm. **$17 on Booking**; Agoda $17.41.
 - **Reviews:** Booking 8.4 (410 reviews; ⚠️ **15% below 7**); Agoda 8.5 (415).
 - **Location:** 9.6, 100 m from the plaza.
@@ -133,7 +133,7 @@ Live-checked 26 Nov.
 - **Purmamarca:** **Nido de Cóndores** · double with terrace · Booking location **9.6** (404 reviews, 3% below 7) · **$65 on Booking** (room table; Agoda $87.12).
   - Runner-up: Hostería Los Morteros (location 9.7, 101 reviews, 4% below 7), $74 on [Booking](https://www.booking.com/hotel/ar/hosteria-puno.html?checkin=2027-01-16&checkout=2027-01-17&group_adults=1&no_rooms=1&group_children=0&selected_currency=USD) or Agoda.
 
-### Peak-season backups (Purmamarca, 16 → 17 Jan)
+### Peak-season backups (Purmamarca, Day 40 → 41)
 - **Same town:** **MiskyPacha**, double room with bathroom, location 9.6, 3 min from the Purmamarca bus terminal.
 - **Another town:** **El Balcón de la Tata Hostel** in San Salvador de Jujuy, a bed in a 6-bed dorm, location 9.9. The same Andesmar bus starts from Jujuy's terminal at 02:45.
   - ⚠️ **The terminal isn't 10 min away.** The walking time in the table was routed from a point in the city centre. LP and OpenStreetMap put the bus terminal in **Alto Comedero, ≈ 5 km south-east** of the hostel. Book a remís for ≈ 02:15, and confirm the boarding point with Andesmar.
@@ -156,24 +156,24 @@ Live-checked 26 Nov.
 </tr>
 </table>
 
-**Day 1 (Thu 14 Jan), afternoon, Tilcara: the Garganta del Diablo gorge**, if the sky is clear.
+**Day 38, afternoon, Tilcara: the Garganta del Diablo gorge**, if the sky is clear.
 - 8–9 km return from town on a dirt road and then the canyon path, +≈ 420 m, ≈ 3–3.5 h.
 - It's on Comunidad Ayllu Mama Qolla land; they charge a cash entry fee at the top, ≈ ARS 5,000–6,000 (≈ $3–4) *(fee not published; amount from leads)*.
 - Don't enter the gorge if a storm is building (flash floods). If it's raining, swap it with Friday morning.
 - Tilcara's tourist office (Belgrano 366) has information on walks, but its opening hours are unreliable (LP).
 
-**Day 2 (Fri 15 Jan): Iruya.** ✅ Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00 (ARS 4,500), then **Transporte Iruya 08:20** (also 10:30 and 16:00, not Saturdays at 16:00) → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor (≈ ARS 9,500–12,000 ≈ $6–8; buy at the Humahuaca terminal) *(times and fares from leads; confirm at the terminal)*.
+**Day 39: Iruya.** ✅ Evelia Tilcara 07:15 or 07:20 → Humahuaca 08:00 (ARS 4,500), then **Transporte Iruya 08:20** (also 10:30 and 16:00, not Saturdays at 16:00) → Iruya ≈ 11:20, over the 4,000 m Abra del Cóndor (≈ ARS 9,500–12,000 ≈ $6–8; buy at the Humahuaca terminal) *(times and fares from leads; confirm at the terminal)*.
 - **Afternoon (free):** walk the riverbed to **San Isidro**, a smaller village ≈ 8 km up the valley (≈ 3–4 h return), or climb to the **Mirador del Cóndor** above the village at sunset.
 - **Book your return seat** at the Iruya ticket office when you arrive.
 
-**Day 3 (Sat 16 Jan), morning: Serranía de Hornocal** ("14 colours", 4,350 m).
+**Day 40, morning: Serranía de Hornocal** ("14 colours", 4,350 m).
 - Take the **06:00 bus** Iruya → Humahuaca (arrives ≈ 09:00; no Sunday service). Leave the bag at the terminal's luggage office (ask) or with the 4x4 driver.
 - Shared 4x4s leave the Humahuaca terminal when full, ≈ 3 h return, ≈ ARS 20,000 + ARS 2,000 community fee (≈ $13 total) *(leads)*. Late morning gives the best light before the storms.
 - **Back in Humahuaca (free, near the terminal):** the old cabildo on Plaza Gómez, whose clock tower puts out a life-size saint figure at noon, and the stairway from the plaza up to the Independence monument for a view over the adobe town (LP). The tourist office is in the cabildo (LP).
 - **Lunch before the bus (LP):** **Mikunayoc** (Corrientes & Tucumán; lunch only, llama dishes and unusual empanadas) or **Aisito** (Buenos Aires 435; baked empanadas and llama).
 - Then Evelia or Balut Humahuaca → Purmamarca (≈ 1 h 15), arriving early afternoon.
 
-**Day 3 (Sat 16 Jan), late afternoon, Purmamarca:**
+**Day 40, late afternoon, Purmamarca:**
 - The **Paseo de los Colorados**: a 3 km dirt loop through red-rock spires behind the village, ≈ 1 h, small or no community fee.
 - The **Cerro El Porito** lookout for the Cerro de los Siete Colores: best at golden hour, 10–15 min up.
 - Then dinner and bed by 21:00.
@@ -199,7 +199,7 @@ These are AI Mode leads; prices are ≈.
 - **Khuska** (Padilla 533, ≈ 50 m from Tilcara Mística): regional dishes (humitas, empanadas, Andean platters with local potatoes and quinoa) from 18:00.
 - **Cheap places** line Belgrano and Lavalle between the bus terminal and Plaza Prado.
 - **Ma'koka** (Belgrano): a bookshop-café with the best coffee in town, and sandwiches on coca or local-corn bread.
-- For Humahuaca lunch spots, see Sat 16 under Things to do.
+- For Humahuaca lunch spots, see Day 40 under Things to do.
 
 ## ℹ️ Good to know
 - ⚠️ **Iruya road in January:** the gravel road can wash out for hours or days after storms. Ask at the Humahuaca terminal the day before; the fallback is a 2nd night in Tilcara (see Where to sleep).
@@ -208,11 +208,11 @@ These are AI Mode leads; prices are ≈.
 - **Border food rules:** Chile's SAG bans fresh fruit, vegetables, meat, dairy, honey, seeds and **coca leaves**. Declare any food or bin it before the border. That includes the filling of a sandwich, and the fines are steep (LP).
 - **Dinner hours:** restaurants usually open for dinner around 20:00 (LP), so for the early night in Purmamarca, eat at opening time or cook at the hostel.
 
-## 🚌 Leaving: Andesmar Purmamarca → San Pedro de Atacama, Sun 17 Jan 03:40
+## 🚌 Leaving: Andesmar Purmamarca → San Pedro de Atacama, Day 41 03:40
 
-✅ Plataforma10, rechecked 27 Nov for **Sun 17 Jan**: **Andesmar 03:40 from "Purmamarca Acceso" → San Pedro 11:30, semicama ARS 120,000 ≈ $75, 38 seats** (fares up to ARS 145,000).
+✅ Plataforma10, rechecked 27 Nov for **Day 41**: **Andesmar 03:40 from "Purmamarca Acceso" → San Pedro 11:30, semicama ARS 120,000 ≈ $75, 38 seats** (fares up to ARS 145,000).
 - **Where it stops:** Andesmar calls the stop "**Parador Purmamarca**". Leads say it's the roadside pull-off on **RN52 at the village entrance** (opposite Hotel El Manantial del Silencio), not the little terminal by the plaza: a 15–25 min unlit walk, or ask your host to book a remís. **Confirm the exact spot** with Andesmar (Jujuy or Salta office, or WhatsApp) before you go.
-- **Buy the ticket ahead.** It's Andesmar's only Jama departure that day. ✅ There's **none on Sat 16**; the next is Mon 18 Jan, same times (Plataforma10, 27 Nov). Andesmar's shop is the cheapest seller (the 120,000 semicama promo); Plataforma10 and Busbud also sell it.
+- **Buy the ticket ahead.** It's Andesmar's only Jama departure that day. ✅ There's **none on Day 40**; the next is Day 42, same times (Plataforma10, 27 Nov). Andesmar's shop is the cheapest seller (the 120,000 semicama promo); Plataforma10 and Busbud also sell it.
 - **Border:** Paso de Jama (4,200 m), joint Argentine–Chilean control. Chile's SAG bans fresh fruit, vegetables, meat, dairy, honey, seeds and **coca leaves**. Declare any food or bin it before the border.
 - **Comfort:** bring warm layers (dawn on the Puna is near freezing), water and snacks.
 

@@ -1,4 +1,4 @@
-# Latin America (route v5): budget forecast, 7 Dec 2026 → 4 Mar 2027
+# Latin America (route v5): budget forecast, Day 0 → 87
 
 Built 24 Nov 2026 for the [v5 itinerary](itinerary.md) (86 days, 10 countries), in the same format as the [Europe forecast](../europe-2026/budget-forecast.md) and following its lessons:
 - Beds are budgeted at the **dorm picks actually checked** for the exact dates, with private rooms as a separate buffer.
@@ -9,7 +9,7 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 ## (a) Bottom line
 
-**Plan on about $6.8–7.4k for the trip, and carry about $8.2k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $74–80 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, home 10 Mar, beds re-priced for the new dates.)*
+**Plan on about $6.8–7.4k for the trip, and carry about $8.2k.** That's the expected spend plus a ~$1k private-room buffer. It works out at **≈ $74–80 a day all-in**, inside the $80–120/day target. *(Updated 27 Nov: 6 more nights at the adventure hubs, home Day 93, beds re-priced for the new dates.)*
 
 | Item | Amount | Notes |
 |---|---:|---|
@@ -34,22 +34,22 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
 
 | Region | Dates | Days | Beds (actual picks) | Food / day | 2 beers / day | Local + small / day | Subtotal | Note |
 |---|---|---:|---:|---:|---:|---:|---:|---|
-| Brazil (Rio → Foz) | 8 → 21 Dec | 13 | $180 | $17 | $6.0 | $5.5 | **$550** | 12 bed nights + 1 night bus; picks $13–49 |
-| Paraguay | 21 → 26 Dec | 5 | $94 | $11.5 | $3.7 | $3 | **$185** | Encarnación is a whole flat ($76) because the hostels are full |
-| Uruguay | 26 Dec → 1 Jan | 6 | $145 | $22 | $9.0 | $6.5 | **$370** | 26 Dec on the bus; no NYE surcharge at MedioMundo |
-| Argentina | 1 → 17 Jan | 15 | $257 | $17 | $6.6 | $4 | **$671** | 2 night buses; Los Gigantes refugio ≈ $15/night and the Champaquí refuge ≈ $30 assumed (prices on request) + La Resolana $22; Iruya private $37 (no dorms) |
-| Chile (San Pedro) | 17 → 21 Jan | 4 | $73 | $24 | $9.5 | $7.5 | **$237** | desert-town markup; buy staples in Salta |
-| Uyuni jeep tour | 21 → 23 Jan | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
-| Bolivia | 23 Jan → 1 Feb | 9 | $128 | $9 | $3.7 | $3 | **$269** | Potosí 2 nights ($57), Isla del Sol 1 night; La Paz pick now $36 (+$16, 27 Nov) |
+| Brazil (Rio → Foz) | Day 1 → 14 | 13 | $180 | $17 | $6.0 | $5.5 | **$550** | 12 bed nights + 1 night bus; picks $13–49 |
+| Paraguay | Day 14 → 19 | 5 | $94 | $11.5 | $3.7 | $3 | **$185** | Encarnación is a whole flat ($76) because the hostels are full |
+| Uruguay | Day 19 → 25 | 6 | $145 | $22 | $9.0 | $6.5 | **$370** | Day 19 on the bus; no NYE surcharge at MedioMundo |
+| Argentina | Day 25 → 41 | 15 | $257 | $17 | $6.6 | $4 | **$671** | 2 night buses; Los Gigantes refugio ≈ $15/night and the Champaquí refuge ≈ $30 assumed (prices on request) + La Resolana $22; Iruya private $37 (no dorms) |
+| Chile (San Pedro) | Day 41 → 45 | 4 | $73 | $24 | $9.5 | $7.5 | **$237** | desert-town markup; buy staples in Salta |
+| Uyuni jeep tour | Day 45 → 47 | 2 | — | — | $3.7 | $1 | **$9** | beds and meals are in the tour price |
+| Bolivia | Day 47 → 56 | 9 | $128 | $9 | $3.7 | $3 | **$269** | Potosí 2 nights ($57), Isla del Sol 1 night; La Paz pick now $36 (+$16, 27 Nov) |
 | Peru | 1 → 6 Feb | 5 | $73 | $10.5 | $5.2 | $4 | **$172** | Puno is in Candelaria week: book Kantaya early |
 | Panama | 6 → 11 Feb | 5 | $138 | $17 | $5.0 | $5.5 | **$276** | Carnaval in both stops; ONDA Boquete $99.76 on Agoda |
-| Costa Rica | 11 → 24 Feb | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
-| Nicaragua | 24 Feb → 10 Mar | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
+| Costa Rica | Day 66 → 79 | 13 | $284 | $22 | $7.5 | $7 | **$759** | San Gerardo 3 village nights $121 + ≈ $45 Base Crestones bunk (if a permit appears) |
+| Nicaragua | Day 79 → 93 | 14 | $181 | $10 | $3.1 | $3 | **$406** | San Juan del Sur ≈ $25 (Nalu Nalu sold out), Granada 1 + Apoyo 1, León 3, Estelí 3 ($42), airport homestay $17 |
 | **Total** | | **91** | **$1,553** (≈ $17/night) | **$1,406** | **$520** | **$425** | **≈ $3,904** (≈ $43/day) | |
 
 - **Beds** are the pick totals from the [itinerary](itinerary.md), checked live on 24–25 Nov for the exact dates and 1 adult. Seven picks were swapped on 25 Nov for a location score ≥ 9.0, and Uvita is now booked via Booking (net +$25). Hostelworld adds a small booking fee, and Costa Rican and Nicaraguan prices on Booking may exclude 13% / 15% tax.
 - **26 Nov changes (net +$8 in beds, +1 day):** Iruya added (+$37), San Pedro down to 3 nights (−$19), Granada split with a Laguna de Apoyo night (+$4), Estelí added (+$14), and the Managua airport night is a $17 homestay instead of ≈ $45 (−$28).
-- **26 Nov, later:** a 2nd Potosí night (LP's top Bolivia pick) replaces the Copacabana-town night, so no dates after 29 Jan move: beds +$8, and the Sucre → La Paz flight moves to Mon 25 Jan ($49 instead of $56).
+- **26 Nov, later:** a 2nd Potosí night (LP's top Bolivia pick) replaces the Copacabana-town night, so no dates after Day 53 move: beds +$8, and the Sucre → La Paz flight moves to Day 49 ($49 instead of $56).
 - **Food, beer and local costs** are the midpoints of late-2026 backpacker ranges (Budget Your Trip, Numbeo, Hostelz, Indie Traveller, r/backpacking, as summarised by Google AI Mode; leads, not quotes). They're consistent with the dish prices in the guides. Two bar beers a day; add one more and it's about +$0.25k.
 
 ## (c) Transport, tours and fees
@@ -64,8 +64,8 @@ All prices are in **USD**. The v4 Brazil-only forecast is in git history.
   - Colonia → Buenos Aires ferry, $48.
   - Buenos Aires → Córdoba, $44–48.
   - Sucre → La Paz, $56.
-- Chirripó descent day (Thu 11 Feb): no San Gerardo bus fits, so a taxi to San Isidro ≈ $34–45 (added 26 Nov).
-- **Plan B** (Florianópolis instead of Paraguay, 21–27 Dec): ≈ $255 in beds and buses against ≈ $256 for Plan A, so the totals don't change ([guide](guides/florianopolis.md)).
+- Chirripó descent day (Day 66): no San Gerardo bus fits, so a taxi to San Isidro ≈ $34–45 (added 26 Nov).
+- **Plan B** (Florianópolis instead of Paraguay, Days 14–20): ≈ $255 in beds and buses against ≈ $256 for Plan A, so the totals don't change ([guide](guides/florianopolis.md)).
 - Border fees: Costa Rica exit $8, Nicaragua entry ≈ $12–14 (the $10 tourist stamp plus ≈ $1–4 border charges, cash).
 - Leg by leg: [route-v5-brainstorm §12 and §15](route-v5-brainstorm.md); each guide's "Getting here".
 

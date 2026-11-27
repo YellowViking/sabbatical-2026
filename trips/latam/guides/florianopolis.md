@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Brazil](brazil.md) · ← [Foz do Iguaçu](foz-do-iguacu.md) · [Porto Alegre](porto-alegre.md) →
 
-> **Stop 7 · Tue 22 → Thu 24 Dec 2026 · 2 nights · on the main route since 27 Nov (was Plan B)**<br>
+> **Stop 7 · Day 15 → 17 · 2 nights · on the main route since 27 Nov (was Plan B)**<br>
 > 🏞️ Island of 42 beaches, dunes and forest trails, on the classic Brazil → Uruguay backpacker route<br>
 > 🛏️ **Pequi Hostel**, Lagoa da Conceição, a dorm bed, $31 for 2 nights (location 9.8)<br>
 > 🚌 **In:** night bus from Foz, Mon 21 Dec 16:30 · **Out:** morning bus to Porto Alegre, Thu 24 Dec (Christmas Eve)
@@ -17,13 +17,13 @@ Christmas week now runs down Brazil's south coast and into Uruguay by land, the 
 
 | | Night |
 |---|---|
-| Mon 21 Dec | 🚌 Foz → Florianópolis night bus |
-| Tue 22 → Thu 24 Dec | **Florianópolis**, 2 nights (this guide) |
+| Day 14 | 🚌 Foz → Florianópolis night bus |
+| Day 15 → 17 | **Florianópolis**, 2 nights (this guide) |
 | Thu 24 → Sat 26 Dec | 🎄 **[Porto Alegre](porto-alegre.md)**, 2 nights (Christmas) |
-| Sat 26 Dec | 🚌 Planalto night bus Porto Alegre 23:30 → Chuí 09:00 |
-| Sun 27 → Mon 28 Dec | **[Punta del Diablo](punta-del-diablo.md)**, Uruguay, then on to Cabo Polonio |
+| Day 19 | 🚌 Planalto night bus Porto Alegre 23:30 → Chuí 09:00 |
+| Day 20 → 21 | **[Punta del Diablo](punta-del-diablo.md)**, Uruguay, then on to Cabo Polonio |
 
-Nothing from 28 Dec on changed. The Paraguay guides stay as [Plan A (dropped)](asuncion.md).
+Nothing from Day 21 on changed. The Paraguay guides stay as [Plan A (dropped)](asuncion.md).
 
 ## 🗺️ Map
 
@@ -43,16 +43,16 @@ Nothing from 28 Dec on changed. The Paraguay guides stay as [Plan A (dropped)](a
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 21 Dec | Last morning in Foz (check out, leave the bag at the hostel). 🚌 **16:30 Nordeste** from Foz's bus station, overnight. |
-| **Day 2** · Tue 22 Dec | Arrive ≈ 08:10 at Rita Maria. 🚌 Bus 2120 to Lagoa (44 min). 🌅 **Morro da Lagoa viewpoint** walk (39 min), then the **Joaquina dunes** and **Praia Mole** on foot in the afternoon. |
-| **Day 3** · Wed 23 Dec | 🥾 **Lagoinha do Leste**: bus to Pântano do Sul (1 h 20), then the forest trail over the headland (≈ 1 h each way) to a wild beach. Evening: the **Costa da Lagoa** shore or Barra da Lagoa if you have the legs. |
-| **Day 4** · Thu 24 Dec · 🎄 Christmas Eve | 🚌 **Morning bus to Porto Alegre** (≈ 7 h; times in the [Porto Alegre guide](porto-alegre.md)). Leave early: shops there close in the afternoon of the 24th. |
+| **Day 14** | Last morning in Foz (check out, leave the bag at the hostel). 🚌 **16:30 Nordeste** from Foz's bus station, overnight. |
+| **Day 15** | Arrive ≈ 08:10 at Rita Maria. 🚌 Bus 2120 to Lagoa (44 min). 🌅 **Morro da Lagoa viewpoint** walk (39 min), then the **Joaquina dunes** and **Praia Mole** on foot in the afternoon. |
+| **Day 16** | 🥾 **Lagoinha do Leste**: bus to Pântano do Sul (1 h 20), then the forest trail over the headland (≈ 1 h each way) to a wild beach. Evening: the **Costa da Lagoa** shore or Barra da Lagoa if you have the legs. |
+| **Day 17** · 🎄 Christmas Eve | 🚌 **Morning bus to Porto Alegre** (≈ 7 h; times in the [Porto Alegre guide](porto-alegre.md)). Leave early: shops there close in the afternoon of the 24th. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. Prices were checked on 27 Nov. ⚠️ = time-sensitive.
 
-**Beds** (22 → 24 Dec, 2 nights)
+**Beds** (Day 15 → 17, 2 nights)
 
 | | Where | Total | Location | From the bus station | Book |
 |---|---|---:|:---:|---|---|
@@ -63,22 +63,22 @@ Dates and 1 adult are pre-filled. Prices were checked on 27 Nov. ⚠️ = time-s
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚌 **Nordeste** · Foz do Iguaçu → Florianópolis, semi-leito | **Mon 21 Dec 16:30 → Tue 22 08:10** (15 h 40; also 17:30, 18:40) | **R$276.99** (≈ $46.50) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/florianopolis-sc?departureDate=2026-12-21) |
-| In (alt) | ✈ Azul via Campinas | 21 Dec evening, ≈ 4 h | $183 | Google Flights |
-| Out | 🚌 Florianópolis (Rita Maria) → Porto Alegre | **Thu 24 Dec**, morning (≈ 7 h) | see the [Porto Alegre guide](porto-alegre.md) | |
+| In | 🚌 **Nordeste** · Foz do Iguaçu → Florianópolis, semi-leito | **Day 14 16:30 → Day 15 08:10** (15 h 40; also 17:30, 18:40) | **R$276.99** (≈ $46.50) | [ClickBus](https://www.clickbus.com.br/onibus/foz-do-iguacu-pr/florianopolis-sc?departureDate=2026-12-21) |
+| In (alt) | ✈ Azul via Campinas | Day 14 evening, ≈ 4 h | $183 | Google Flights |
+| Out | 🚌 Florianópolis (Rita Maria) → Porto Alegre | **Day 17**, morning (≈ 7 h) | see the [Porto Alegre guide](porto-alegre.md) | |
 
 <details><summary>How to read these tables</summary>
 
 - **Location** is the guests' location score on Booking.com (aim ≥ 9.0).
-- **From the bus station** comes from Google Maps (26 Nov), routed from Rita Maria bus station at 09:00 on 22 Dec.
+- **From the bus station** comes from Google Maps (26 Nov), routed from Rita Maria bus station at 09:00 on Day 15.
 
 </details>
 
-## 🚌 Getting here: Foz do Iguaçu → Florianópolis, Mon 21 Dec
+## 🚌 Getting here: Foz do Iguaçu → Florianópolis, Day 14
 
 - **Bus (recommended):** Nordeste semi-leito **16:30 → 08:10, R$276.99** (≈ $46.50); 16:00 → 07:05 is R$294.99; cama from R$431.99. Catarinense and Expresso São José run the same night. ✅ ClickBus (26 Nov, 39 seats left at 16:30).
 - **Flight:** Azul via Campinas $183 (≈ 4 h) or $160 (11.5 h), LATAM via São Paulo $206 ✅ Google Flights (26 Nov). The bus is a third of the price and saves a night's bed.
-- **This keeps both Foz nights (19 → 21 Dec)** and frees Mon 21 Dec until 16:00 (Parque das Aves or the Marco das Três Fronteiras).
+- **This keeps both Foz nights (Day 12 → 14)** and frees Day 14 until 16:00 (Parque das Aves or the Marco das Três Fronteiras).
 - **From Rita Maria to Lagoa:** walk 15 min to TICEN, bus **2120** to Lagoa (44 min door to door ✅ Google Maps). LP: the island buses run from TICEN with one free transfer at the district terminals (TILAG for Lagoa, TIRIO for the south).
 
 ## 🛏️ Where to sleep
@@ -129,10 +129,10 @@ Dates and 1 adult are pre-filled. Prices were checked on 27 Nov. ⚠️ = time-s
 - **Island buses:** one fare covers a ride plus one transfer at the district terminals (LP; the fare was R$4.20 in LP and is higher now). Uber is cheap: LP quotes ≈ R$26 from the airport to Lagoa.
 - **Sea:** east-coast beaches (Mole, Joaquina, Galheta) have strong surf; swim where there are lifeguards.
 
-## 🚌 Leaving: Florianópolis → Porto Alegre, Thu 24 Dec
+## 🚌 Leaving: Florianópolis → Porto Alegre, Day 17
 
-- A **morning bus** from Rita Maria (≈ 7 h): operators, times and fares are in the [Porto Alegre guide](porto-alegre.md). For reference, on Sat 26 Dec Expresso NS da Penha's semi-leito 14:00 → 21:00 cost **R$164.59** (≈ $27.65 ✅ ClickBus, 26 Nov).
-- Then the route continues: [Porto Alegre](porto-alegre.md) 24 → 26 Dec, the Planalto night bus to Chuí, and [Punta del Diablo](punta-del-diablo.md) 27 → 28 Dec.
+- A **morning bus** from Rita Maria (≈ 7 h): operators, times and fares are in the [Porto Alegre guide](porto-alegre.md). For reference, on Day 19 Expresso NS da Penha's semi-leito 14:00 → 21:00 cost **R$164.59** (≈ $27.65 ✅ ClickBus, 26 Nov).
+- Then the route continues: [Porto Alegre](porto-alegre.md) Day 17 → 19, the Planalto night bus to Chuí, and [Punta del Diablo](punta-del-diablo.md) Day 20 → 21.
 
 <details><summary>Before 27 Nov: Plan B (4 nights here, then the EGA bus straight to Montevideo)</summary>
 

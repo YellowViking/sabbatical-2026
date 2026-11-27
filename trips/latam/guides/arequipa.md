@@ -2,10 +2,10 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru + Panama](peru-panama.md) · ← [Colca Canyon](colca-canyon.md) · [Panama City](panama-city.md) →
 
-> **Stop 24 · Thu 4 → Sat 6 Feb 2027 (days 59–61) · 2 nights (1 under options B and C)**<br>
+> **Stop 24 · Day 59 → 61 · 2 nights (1 under options B and C)**<br>
 > 🏞️ The white-stone city under Misti, Chachani and Pichu Pichu, and the driest stop of the week<br>
 > 🛏️ **Econunay**, a bed in an 8-bed mixed ensuite dorm, $18.94 for 2 nights<br>
-> 🚌 **In:** bus from Cabanaconde, Thu 09:30 · **Out:** three open options (A: fly Sat 6 Feb 06:50 · B: fly to Lima on the 5 Feb afternoon · C: night bus on 5 Feb to Huacachina + Paracas)
+> 🚌 **In:** bus from Cabanaconde, Thu 09:30 · **Out:** three open options (A: fly Day 61 06:50 · B: fly to Lima on the Day 60 afternoon · C: night bus on Day 60 to Huacachina + Paracas)
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPTx4F42BX0lvY1Lmm26GsgtT8z0Y2nWCnvCEyQx_xSSUVKNPNQsDRvq4N3OslIabt2I1eCzJBrq9kDeY17GiCCZVgtg1zf-SBNfdYVTV0Mm1kn2GVGnLFTVJd_qRUs3qoGoW_=w1200-h360-p-k-no" alt="The cone of El Misti volcano above Arequipa's green river valley" width="100%">
 
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Southern Peru +
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Thu 4 Feb | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
-| **Day 2** · Fri 5 Feb · 🎭 Carnaval exodus day (Panama) | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
-| **Day 3** · Sat 6 Feb · 🎭 Carnaval | ✈ Option A: leave by 05:10 for the **06:50** flight. |
+| **Day 59** | 🚌 **09:30 Transandino** from Cabanaconde to the Terminal Terrestre (≈ 5.5–6 h), then a taxi to the hostel (S/10–15). 🌅 Late afternoon: walk over Puente Grau to the **Mirador de Yanahuara**. |
+| **Day 60** · 🎭 Carnaval exodus day (Panama) | 🚶 **Río Chili and Chilina** riverside walk, the Plaza de Armas arcades, the San Lázaro lanes and **Mundo Alpaca** (all free). 🍲 Picantería lunch (they close mid-afternoon). One paid sight: the **Ruta del Sillar**, or the ice-mummy museum (in February it shows Sarita, not Juanita). Options B and C leave Arequipa today. |
+| **Day 61** · 🎭 Carnaval | ✈ Option A: leave by 05:10 for the **06:50** flight. |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive.
 
-**Beds** (4 → 6 Feb, 2 nights)
+**Beds** (Day 59 → 61, 2 nights)
 
 | | Where | Total | Location | From the bus terminal | Book |
 |---|---|---:|:---:|---|---|
@@ -50,8 +50,8 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | 🚌 **Turismo Transandino** (or the next Andalucía) · Cabanaconde → Arequipa Terminal Terrestre | **Thu 4 Feb 09:30**, ≈ 5.5–6 h | **S/35** (≈ $9.50) | counters on Cabanaconde's plaza ([Colca guide](colca-canyon.md)) |
-| Out | Three open options: **A** fly 6 Feb 06:50 · **B** fly to Lima 5 Feb, then the Copa award · **C** night bus 5 Feb to Ica | see Leaving, below | — | [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city) · [Huacachina + Paracas guide](huacachina-paracas.md) |
+| In | 🚌 **Turismo Transandino** (or the next Andalucía) · Cabanaconde → Arequipa Terminal Terrestre | **Day 59 09:30**, ≈ 5.5–6 h | **S/35** (≈ $9.50) | counters on Cabanaconde's plaza ([Colca guide](colca-canyon.md)) |
+| Out | Three open options: **A** fly Day 61 06:50 · **B** fly to Lima Day 60, then the Copa award · **C** night bus Day 60 to Ica | see Leaving, below | — | [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city) · [Huacachina + Paracas guide](huacachina-paracas.md) |
 
 <details><summary>How to read these tables</summary>
 
@@ -62,7 +62,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Cabanaconde → Arequipa, Thu 4 Feb
+## 🚌 Getting here: Cabanaconde → Arequipa, Day 59
 
 - **Bus Cabanaconde → Arequipa Terminal Terrestre:** 09:30 Transandino or the next Andalucía, ≈ 5.5–6 h, S/35 (≈ $9.50). ≈ redBus route data (see the [Colca guide](colca-canyon.md)).
 - **Taxi to the centre** ≈ S/10–15 (LP: ≈ S/7). Take one from inside the terminal.
@@ -123,7 +123,7 @@ You have Thu evening, all of Fri, and an early Sat exit.
 - **Mundo Alpaca** (free): alpacas and live weaving, Alameda San Lázaro.
 - **Mirador de Carmen Alto:** terraced fields under Misti, ≈ S/5 plus a ≈ S/15 taxi (≈ unverified).
 - **One paid, unique:** either **Museo Santuarios Andinos** or the **Ruta del Sillar** (Añashuayco quarry canyon, where Arequipa's white stone is cut; ≈ S/40–60 by tour, or a taxi plus a small entry fee). Nothing later on the route covers either.
-  - ⚠️ **Juanita** (the Inca girl from Ampato) is **off display January–April** for conservation. **Sarita**, another Inca child offering from Sara Sara volcano, is shown instead (peru.travel and Peru's state news agency Andina; checked 26 Nov). On 5 Feb you'd see Sarita, which tilts the choice towards the **Ruta del Sillar**.
+  - ⚠️ **Juanita** (the Inca girl from Ampato) is **off display January–April** for conservation. **Sarita**, another Inca child offering from Sara Sara volcano, is shown instead (peru.travel and Peru's state news agency Andina; checked 26 Nov). On Day 60 you'd see Sarita, which tilts the choice towards the **Ruta del Sillar**.
   - Museum (LP): adult **S/20** (also the foreign-adult rate on the museum's 2021 reopening notice). The guided tour is compulsory, takes ≈ 1 h, is free and expects a tip, and runs in Spanish, English or French. Mon–Sat 09:00–18:00, Sun to 15:00.
 - **Paid and outdoors, if the weather's good:** a half-day bike ride around Misti, US$50 with Peru Adventures Tours, transport and gear included (LP).
 - **Not in this season:** rafting on the Río Chili runs April–November only; LP says rivers are too high in Dec–Mar.
@@ -161,9 +161,9 @@ All ≈, not checked, except where LP is cited:
 ## 🚌 Leaving: three open options
 
 **Leaving Arequipa: three open options** (details in the [Panama City guide](panama-city.md#getting-here-three-options-arequipa--panama-city)):
-- **A:** fly Sat 6 Feb 06:50 (2 nights here): Sky + Copa ≈ $312 (✅ Google Flights, 27 Nov).
-- **B:** fly to Lima on the Fri 5 Feb afternoon and use the Copa award on Sat 6 (1 night here).
-- **C:** night bus on Fri 5 Feb to Huacachina + Paracas, then the award from Lima on Tue 9 Feb (1 night here; +3 days; [guide](huacachina-paracas.md)).
+- **A:** fly Day 61 06:50 (2 nights here): Sky + Copa ≈ $312 (✅ Google Flights, 27 Nov).
+- **B:** fly to Lima on the Day 60 afternoon and use the Copa award on Day 61 (1 night here).
+- **C:** night bus on Day 60 to Huacachina + Paracas, then the award from Lima on Day 64 (1 night here; +3 days; [guide](huacachina-paracas.md)).
 
 ---
 <sub>Photos: Google Maps contributors (Misti, Mirador de Yanahuara, Puente Grau, Carmen Alto, Museo Santuarios Andinos, Ruta del Sillar, Mercado San Camilo, Chelawasi). Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Queso_helado.jpg">Queso helado</a> (TomasVial, CC BY-SA 4.0), <a href="https://commons.wikimedia.org/wiki/File:Rocoto_relleno._Sol_de_mayo,_Arequipa.jpg">Rocoto relleno, Sol de Mayo</a> (HugoMon, CC BY-SA 3.0).</sub>

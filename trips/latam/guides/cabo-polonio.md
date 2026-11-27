@@ -2,7 +2,7 @@
 
 Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Uruguay](paraguay-uruguay.md) · ← [Montevideo](montevideo.md) · [Colonia stopover → Buenos Aires → Córdoba](colonia.md) →
 
-> **Stop 10 · Mon 28 → Wed 30 Dec 2026 · 2 nights · New Year week (peak)**<br>
+> **Stop 10 · Day 21 → 23 · 2 nights · New Year week (peak)**<br>
 > 🏞️ An off-grid village on a cape inside a national park: sea lions, a lighthouse and big moving dunes<br>
 > 🛏️ **Hostel Albatros**, a bed in a 6-bed dorm, $70 for 2 nights<br>
 > 🚌 **In:** Rutas del Sol from Montevideo, Mon 10:10, then the 4x4 truck · **Out:** truck 14:00 + Rutas del Sol 15:10, Wed
@@ -29,15 +29,15 @@ Part of the [LatAm itinerary](../itinerary.md) · region notes: [Paraguay + Urug
 
 | Day | Plan |
 |---|---|
-| **Day 1** · Mon 28 Dec | 🚌 10:10 Rutas del Sol from Tres Cruces, gate 14:30, then the 4x4 truck (≈ 20 min). Walk 3 min to the hostel. 🦭 **Sea-lion colony** below the lighthouse. 🌅 Sunset at Playa Sur / La Calavera, then ✨ stargazing. |
-| **Day 2** · Tue 29 Dec | 🥾 Early: **dune walk to Barra de Valizas** and back (≈ 2–3 h each way). Afternoon: 🏖️ swim at Playa Sur; climb the lighthouse. |
-| **Day 3** · Wed 30 Dec | 🚚 Truck 14:00 → 🚌 **Rutas del Sol 15:10 → Tres Cruces 20:10**, for New Year in [Montevideo](montevideo.md). |
+| **Day 21** | 🚌 10:10 Rutas del Sol from Tres Cruces, gate 14:30, then the 4x4 truck (≈ 20 min). Walk 3 min to the hostel. 🦭 **Sea-lion colony** below the lighthouse. 🌅 Sunset at Playa Sur / La Calavera, then ✨ stargazing. |
+| **Day 22** | 🥾 Early: **dune walk to Barra de Valizas** and back (≈ 2–3 h each way). Afternoon: 🏖️ swim at Playa Sur; climb the lighthouse. |
+| **Day 23** | 🚚 Truck 14:00 → 🚌 **Rutas del Sol 15:10 → Tres Cruces 20:10**, for New Year in [Montevideo](montevideo.md). |
 
 ## 🔖 Book (one click)
 
 Dates and 1 adult are pre-filled. The first channel listed was the cheapest when checked on 24 Nov. ⚠️ = time-sensitive: it is peak week, so book the bed now.
 
-**Beds** (28 → 30 Dec, 2 nights)
+**Beds** (Day 21 → 23, 2 nights)
 
 | | Where | Total | Location | From the truck stop | Book |
 |---|---|---:|:---:|---|---|
@@ -50,9 +50,9 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 | | Leg | When | Price | Book |
 |---|---|---|---:|---|
-| In | **Rutas del Sol** · Tres Cruces → Cabo Polonio gate (via San Carlos, Rocha, La Paloma) | **Mon 28 Dec 10:10 → 14:30** | UYU 1,003 ≈ **$25** | [Rutas del Sol](https://www.rutasdelsol.com.uy/) or the Tres Cruces counter |
+| In | **Rutas del Sol** · Tres Cruces → Cabo Polonio gate (via San Carlos, Rocha, La Paloma) | **Day 21 10:10 → 14:30** | UYU 1,003 ≈ **$25** | [Rutas del Sol](https://www.rutasdelsol.com.uy/) or the Tres Cruces counter |
 | In | **4x4 truck** · Puerta del Polonio gate → village | ≈ 20 min | UYU 470 return ≈ **$12** | Pay at the gate (cash or debit) |
-| Out | Truck 14:00 → **Rutas del Sol** · Cabo Polonio → Tres Cruces | **Wed 30 Dec 15:10 → 20:10** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
+| Out | Truck 14:00 → **Rutas del Sol** · Cabo Polonio → Tres Cruces | **Day 23 15:10 → 20:10** | UYU 1,003 ≈ $25 | [Rutas del Sol](https://www.rutasdelsol.com.uy/) |
 
 <details><summary>How to read these tables</summary>
 
@@ -63,7 +63,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 
 </details>
 
-## 🚌 Getting here: Montevideo → Cabo Polonio, Mon 28 Dec
+## 🚌 Getting here: Montevideo → Cabo Polonio, Day 21
 
 <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T48W1l1Qqbg4hO_Ps7wjOCyhO-S0Bxo9PkrrlLrSsr2rlTHT1nJMLYTkNnyb6UmTPH1y8Vs0DcH59gRQ1asYZ5UobqKq5Hip3PadRDtEWIaq0Xurk1rzWchRYStmVNF1t9IL9hYIVIWUFG=w640-h400-p-k-no" width="50%" alt="One of the open-top 4x4 trucks at the Puerta del Polonio gate">
 
@@ -88,7 +88,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Where:** 0.3 km from the lighthouse, 200 m from the truck stop.
 - Shared kitchen. No noise complaints.
 - **Others looked at:**
-  - Viejo Lobo (HW 100 from 382 reviews, two kitchens) has beds on **28 Dec only**, $25–29, and is sold out on the 29th.
+  - Viejo Lobo (HW 100 from 382 reviews, two kitchens) has beds on **Day 21 only**, $25–29, and is sold out on the 29th.
   - Lobo Hostel Bar (location 9.7, $61) is skipped: 11 reviews mention the bar's music.
 
 ### Backup: Green House Hostel
@@ -161,7 +161,7 @@ Dates and 1 adult are pre-filled. The first channel listed was the cheapest when
 - **Electricity and Wi-Fi are limited.**
 - **It is very windy,** and the sun is strong.
 
-## 🚌 Leaving: Cabo Polonio → Montevideo, Wed 30 Dec
+## 🚌 Leaving: Cabo Polonio → Montevideo, Day 23
 
 - **Truck 14:00 → Rutas del Sol 15:10 → Tres Cruces 20:10.**
 - **UYU 1,003 ≈ $25.** ✅ Winter timetable (summer adds services), so recheck in mid-December.
