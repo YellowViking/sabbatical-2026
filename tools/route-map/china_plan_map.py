@@ -51,14 +51,19 @@ S = [
  (37,'Fann Mts','Fann Mts (Iskanderkul) + Penjikent','165–170',39.12,68.30, 12,-6,'start',0),
  (38,'Samarkand','🇺🇿 Samarkand','170–173',39.65,66.96, -6,-12,'end',0),
  (39,'Bukhara','Bukhara','173–176',39.77,64.42, 0,-14,'middle',0),
- (40,'Khiva','Khiva','176–178',41.38,60.36, 0,-14,'middle',0),
- (41,'Tashkent','Tashkent → ✈ home','178–180',41.30,69.24, 12,-4,'start',0),
+ (39.1,'Merv','🇹🇲 Merv (Mary), in at Farap','176–177',37.66,61.83, 10,12,'start',0),
+ (39.2,'Ashgabat','Ashgabat','177–179',37.95,58.38, -10,4,'end',0),
+ (39.3,'Darvaza','Darvaza gas crater (camp)','179–180',40.25,58.44, 10,4,'start',0),
+ (39.4,'Konye-Urgench','Konye-Urgench, out at Shavat','180–181',42.33,59.15, 10,-6,'start',0),
+ (40,'Khiva','🇺🇿 Khiva','181–183',41.38,60.36, 0,-14,'middle',0),
+ (41,'Tashkent','Tashkent → ✈ Tbilisi','183–184',41.30,69.24, 12,-4,'start',0),
 ]
 st = {s[0]: s for s in S}
 DISP = {s[0]: i for i, s in enumerate(S, 1)}   # display numbers (internal ids keep gaps)
 # waypoints (not stops)
 HARBIN, LIUYUAN, KASH = (45.75,126.65), (41.11,95.38), None
 IRK, KHORGOS, KEGEN, KYZYLART, SARAZM = (39.70,73.92), (44.20,80.40), (42.95,79.10), (39.37,73.37), (39.50,67.45)
+FARAP, SHAVAT = (39.12,63.55), (41.72,60.05)
 SARYTASH, KALAIKHUMB, PENJ, ALTAY, KUITUN = (39.73,73.25), (38.45,70.79), (39.50,67.61), (47.85,88.13), (44.43,84.90)
 NALATI, ZHAOSU, SAYRAM = (43.30,84.00), (43.15,81.13), (44.60,81.20)
 L = [
@@ -69,7 +74,7 @@ L = [
  ('train',[16,ALTAY]), ('bus',[ALTAY,23]), ('bus',[23,KUITUN]), ('train',[KUITUN,24]),
  ('bus',[24,KHORGOS,25]), ('bus',[25,26,KEGEN,27,28,29,30,31]), ('bus',[31,32]),
  ('jeep',[32,SARYTASH,KYZYLART,33,34,35,KALAIKHUMB,36]), ('bus',[36,37,PENJ,SARAZM,38]),
- ('train',[38,39,40]), ('train',[40,41]),
+ ('train',[38,39]), ('bus',[39,FARAP,39.1,39.2,39.3,39.4,SHAVAT,40]), ('flight',[40,41],-0.18),
 ]
 L_OPT = [('train',[21,HARBIN,22]), ('flight',[22,16])]
 SPURS = [('bus',[24,SAYRAM]), ('bus',[24,NALATI]), ('bus',[24,ZHAOSU])]
@@ -138,14 +143,14 @@ def draw_stop(o, proj, s, r=8.5):
              f'<text x="{x+dx:.1f}" y="{y+dy:.1f}" class="ink t-stop halo" text-anchor="{anc}">{lab}</text></g>')
 
 FONT = "system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif"
-CA = {19} | set(range(25, 42))                 # stops outside China: small dots on the main map, full detail in the panel
+CA = {19, 39.1, 39.2, 39.3, 39.4} | set(range(25, 42))                 # stops outside China: small dots on the main map, full detail in the panel
 PANEL_CN = {17, 18, 24}                          # Chinese stops repeated in the Central Asia panel
 # Central Asia panel (below the main map)
-ILON0, ILON1, ILAT0, ILAT1 = 59.6, 81.9, 36.3, 45.1
+ILON0, ILON1, ILAT0, ILAT1 = 57.6, 81.9, 36.3, 45.1
 ISX = 44.0; IW = (ILON1 - ILON0) * K * ISX; IH = (ILAT1 - ILAT0) * ISX
 IX0 = 20; IY0 = TOP + H_MAP + 64
 def PI(lat, lon): return (IX0 + (lon - ILON0) * K * ISX, IY0 + (ILAT1 - lat) * ISX)
-CAOFF = {17:(12,4,'start'),18:(12,4,'start'),19:(0,-13,'middle'),24:(-12,-9,'end'),25:(-12,-6,'end'),26:(10,-10,'start'),27:(12,6,'start'),
+CAOFF = {39.1:(10,12,'start'),39.2:(6,20,'start'),39.3:(10,4,'start'),39.4:(10,-6,'start'),17:(12,4,'start'),18:(12,4,'start'),19:(0,-13,'middle'),24:(-12,-9,'end'),25:(-12,-6,'end'),26:(10,-10,'start'),27:(12,6,'start'),
          28:(12,4,'start'),29:(-12,-6,'end'),30:(12,12,'start'),31:(-12,4,'end'),32:(-12,6,'end'),33:(12,4,'start'),34:(12,12,'start'),
          35:(-12,4,'end'),36:(0,22,'middle'),37:(10,-10,'start'),38:(0,-13,'middle'),39:(0,-13,'middle'),40:(0,-13,'middle'),41:(12,4,'start')}
 LIST_Y = IY0 + IH + 44
@@ -166,7 +171,7 @@ def season(proj, items):
         x,y=proj(la,lo); o.append(f'<text x="{x:.0f}" y="{y:.0f}" class="ink2 t-season halo" text-anchor="middle">{txt}</text>')
 def crossings(proj, small=False):
     for nm,(la,lo),lab,dx,dy,anc in [('Irkeshtam 伊尔克什坦口岸 (weekdays only)',IRK,'Irkeshtam',9,4,'start'),('Khorgos 霍尔果斯口岸',KHORGOS,'Khorgos 霍尔果斯',0,-10,'middle'),
-                                  ('Kegen / Karkara',KEGEN,'Kegen',9,4,'start'),('Kyzyl-Art pass',KYZYLART,'Kyzyl-Art',-9,4,'end'),('Penjikent → Samarkand (Sarazm / Jartepa)',SARAZM,'',0,0,'start')]:
+                                  ('Kegen / Karkara',KEGEN,'Kegen',9,4,'start'),('Kyzyl-Art pass',KYZYLART,'Kyzyl-Art',-9,4,'end'),('Farap / Alat (Uzbekistan → Turkmenistan)',FARAP,'',0,0,'start'),('Shavat / Dashoguz (Turkmenistan → Uzbekistan)',SHAVAT,'',0,0,'start'),('Penjikent → Samarkand (Sarazm / Jartepa)',SARAZM,'',0,0,'start')]:
         x,y=proj(la,lo); r=3.5 if small else 4.5
         o.append(f'<g><title>Border crossing: {nm}</title><rect x="{x-r:.1f}" y="{y-r:.1f}" width="{2*r}" height="{2*r}" transform="rotate(45 {x:.1f} {y:.1f})" class="xing" stroke-width="1.5"/>'
                  + (f'<text x="{x+dx:.0f}" y="{y+dy:.0f}" class="ink2 t-date halo" text-anchor="{anc}">{lab}</text>' if lab and not small else '') + '</g>')
@@ -191,20 +196,21 @@ o.append(f'<path class="m-flight" d="M{sx:.0f},{sy:.0f} Q{bx+150:.0f},{by+120:.0
 o.append(f'<text x="{sx-4:.0f}" y="{sy-10:.0f}" class="ink2 t-date halo" text-anchor="end">✈ from Seattle via Manila, lands Day 1</text>')
 # ---- Central Asia panel
 o.append(f'<rect x="{IX0-1}" y="{IY0-32}" width="{IW+2:.0f}" height="{IH+33:.0f}" rx="6" class="box" stroke-width="1.2"/>')
-o.append(f'<text x="{IX0+10}" y="{IY0-11}" class="ink t-stop">Central Asia: the Osh visa reset (Day 66–71) and Day 126–180</text>')
-base(PI,(ILON0,ILON1,ILAT0,ILAT1),IX0,IY0,IW,IH,'panel',[('KAZAKHSTAN',44.5,67.0),('UZBEKISTAN',41.9,64.6),('TURKMENISTAN',37.1,62.2),('KYRGYZSTAN',42.6,70.9),
+o.append(f'<text x="{IX0+10}" y="{IY0-11}" class="ink t-stop">Central Asia: the Osh visa reset (Day 66–71) and Day 126–184</text>')
+base(PI,(ILON0,ILON1,ILAT0,ILAT1),IX0,IY0,IW,IH,'panel',[('KAZAKHSTAN',44.75,66.0),('UZBEKISTAN',41.9,64.6),('TURKMENISTAN',37.1,62.2),('KYRGYZSTAN',42.6,70.9),
       ('TAJIKISTAN',37.0,69.5),('AFGHANISTAN',36.5,65.0),('CHINA 中国',38.6,79.6)])
-season(PI,[('Jul – Aug: Kazakhstan + the Kyrgyz highlands',44.75,72.6),('Aug: Pamir Highway, almost rainless',36.6,77.9),('Sep: Uzbekistan, after the heat',38.75,63.4),('May: Kashgar, Tashkurgan',38.2,78.8)])
+season(PI,[('Jul – Aug: Kazakhstan + the Kyrgyz highlands',44.75,72.6),('Aug: Pamir Highway, almost rainless',36.6,77.9),('Sep: Uzbekistan + Turkmenistan, after the heat',38.6,62.2),('May: Kashgar, Tashkurgan',38.2,78.8)])
 o.append('</g>')
 o.append('<g clip-path="url(#panel)">'); draw_legs(o, PI, SPURS, op=0.6); draw_legs(o, PI, L); crossings(PI); o.append('</g>')
 for s_ in S:
     if s_[0] in CA or s_[0] in PANEL_CN:
         dx,dy,anc=CAOFF[s_[0]]; draw_stop(o, PI, s_[:6]+(dx,dy,anc,s_[9]), r=8)
-x,y=PI(*coords(41)); o.append(f'<path class="m-flight" d="M{x+6:.0f},{y-6:.0f} Q{x+40:.0f},{y-90:.0f} {x+150:.0f},{y-130:.0f}" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>')
-o.append(f'<text x="{x+152:.0f}" y="{y-136:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ home to Seattle, Day 180</text>')
+x,y=PI(*coords(41)); tx,ty=IX0+70,IY0+58
+o.append(f'<path class="m-flight" d="M{x-6:.0f},{y-6:.0f} Q{x-120:.0f},{y-120:.0f} {tx:.0f},{ty:.0f}" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>')
+o.append(f'<text x="{IX0+12:.0f}" y="{ty-10:.0f}" class="ink2 t-date halo">✈ on to Tbilisi, Day 184: Georgia + Armenia, home ≈ Day 214</text>')
 # ---- title
 o.append(f'<text x="32" y="40" class="ink t-title">China 中国 + Central Asia 2027 (draft): follow the weather</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · ✈ home from Tashkent ≈ Day 180 · ◆ = border crossing · faded = optional</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · then Georgia + Armenia, ✈ home ≈ Day 214 · ◆ = border crossing · faded = optional</text>')
 # ---- legend (right of the panel)
 lx=IX0+IW+40; ly=IY0-11
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
@@ -212,7 +218,7 @@ for i,(k,v) in enumerate(MODES.items()):
     y0=ly+24+i*24; dash=f' stroke-dasharray="{v[2]}"' if v[2] else ''
     o.append(f'<line x1="{lx}" y1="{y0}" x2="{lx+44}" y2="{y0}" class="m-{k}" stroke-width="{v[3]+0.5}" stroke-linecap="round"{dash}/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">{v[4]}</text>')
 y0=ly+24+4*24; o.append(f'<rect x="{lx+17}" y="{y0-5}" width="10" height="10" transform="rotate(45 {lx+22} {y0})" class="xing" stroke-width="1.5"/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">Land border crossing</text>')
-notes=['Flights: Seattle → Beijing, Xining → Chengdu (Zigong),','Yibin or Chengdu → Lanzhou, Kashgar → Hailar,','Arxan → Urumqi, Tashkent → Seattle. Everything','else by train, bus, shared taxi or 4×4.','',
+notes=['Flights: Seattle → Beijing, Xining → Chengdu (Zigong),','Yibin or Chengdu → Lanzhou, Kashgar → Hailar,','Arxan → Urumqi, Urgench → Tashkent → Tbilisi. Everything','else by train, bus, shared taxi or 4×4.','',
        'China (Q2 visa, 90 days a stay): Day 1 → 66, 71 → 126.','Kazakhstan: QazETA needed from 1 July 2027.','Pamir: GBAO permit ($20, fixed entry date).','Tashkurgan: border-area permit, in person,','at the police exit-entry office in Kashgar.','',
        'Weather: 10-year normals (Open-Meteo for China,','NASA POWER for Central Asia).','Route order and stop lengths only;','beds and legs come next.']
 for i,t in enumerate(notes): o.append(f'<text x="{lx}" y="{ly+150+i*17}" class="ink2 t-note">{t}</text>')

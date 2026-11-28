@@ -1,10 +1,11 @@
-# China 中国 + Central Asia 2027 (draft): follow the weather, late March → September
+# China 中国 + Central Asia + the Caucasus 2027 (draft): follow the weather, late March → October
 
 > 🧭 **Status: second draft (27 Nov 2026).** Route order and stop lengths only. Beds, train legs and day plans come next, stop by stop.
 > **Day 1 = arrival in Beijing 北京** (the flight leaves Seattle two days earlier; the date line eats a day). Trip days only below, so the plan can slide; fixed events (holidays) keep real dates.
 
 **Assumptions** (user, 27 Nov 2026):
-- About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there"). Home ≈ **Day 180**, from Tashkent.
+- About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there").
+- **After China** (user, 27 Nov 2026): "aim to finish all central asia after china and hopefully finish countries in georgia and amenia and even do the balkans / romania if time is right". All five Central Asian countries (Turkmenistan added), then Georgia and Armenia. Home ≈ **Day 214** from Yerevan or Tbilisi, or later with a Balkans or Romania tail (see below).
 - Entering China on a US passport with a **10-year Q2 visa 探亲签证** (family visit), **90 days per stay**.
 - **Family in Zigong 自贡, Sichuan 四川:** a week there over the Labour Day holiday 五一 (Day 38 → 45).
 - **Yunnan 云南, Guilin 桂林, Sichuan 四川 and Chongqing 重庆 already visited**, so they're left out. Central Asia is all new.
@@ -91,12 +92,95 @@
 | | ***🇺🇿 Uzbekistan*** | | |
 | Day 170 → 173 | Samarkand | 3 | 31/15 °C · 1% wet † |
 | Day 173 → 176 | Bukhara | 3 | 33/16 °C · 0% wet † |
-| Day 176 → 178 | Khiva | 2 | 31/16 °C · 0% wet † |
-| Day 178 → 180 | Tashkent → fly home | 2 | 28/15 °C · 5% wet † |
+| | ***🇹🇲 Turkmenistan (e-visa; probably with a guide)*** | | |
+| Day 176 → 181 | Farap border → Merv (Mary) → Ashgabat → Darvaza gas crater (camp) → Konye-Urgench → Shavat border | 5 | 31/20 °C · 2% wet |
+| | ***🇺🇿 Uzbekistan*** | | |
+| Day 181 → 183 | Khiva | 2 | 28/13 °C · 1% wet † |
+| Day 183 → 184 | Tashkent (✈ from Urgench), then ✈ Tashkent → Tbilisi (direct, Uzbekistan Airways / Centrum Air) | 1 | 28/15 °C · 5% wet † |
+| | ***🇬🇪 Georgia (visa-free, 1 year)*** | | |
+| Day 184 → 186 | Tbilisi | 2 | 25/13 °C · 25% wet † |
+| Day 186 → 192 | Svaneti: Mestia + the Mestia → Ushguli trek (night train Tbilisi → Zugdidi, then minibus) | 6 | 13/3 °C · 39% wet † |
+| Day 192 → 194 | Kutaisi: Prometheus cave, Okatse canyon | 2 | 22/12 °C · 41% wet † |
+| Day 194 → 196 | Borjomi: national park hikes | 2 | 22/9 °C · 37% wet † |
+| Day 196 → 199 | Kazbegi (Stepantsminda): Gergeti, Juta, Truso valley | 3 | 12/1 °C · 32% wet † |
+| Day 199 → 201 | Tbilisi | 2 | 22/10 °C · 24% wet † |
+| Day 201 → 203 | Kakheti: Sighnaghi, during the Rtveli grape harvest | 2 | 22/11 °C · 25% wet † |
+| | ***🇦🇲 Armenia (visa-free, 180 days a year)*** | | |
+| Day 203 → 207 | Yerevan: Garni temple + Symphony of Stones (Garni gorge), Mount Aragats if no snow | 4 | 25/11 °C · 20% wet † |
+| Day 207 → 209 | Dilijan: Dilijan National Park, Parz Lake | 2 | 14/4 °C · 24% wet † |
+| Day 209 → 210 | Lake Sevan | 1 | 12/3 °C · 24% wet † |
+| Day 210 → 213 | Goris: Wings of Tatev cable car, Old Khndzoresk swinging bridge | 3 | 15/3 °C · 24% wet † |
+| Day 213 → 214 | Yerevan → ✈ home, or on to the Balkans (see below) | 1 | 20/7 °C · 21% wet † |
 
 † NASA POWER averages a ~50 km cell, so mountain cells run cold for valley towns: Almaty, Karakol and the Kolsai lakes show wet days only.
 
-**Home ≈ Day 180.** Dropping the optional Harbin + Changbaishan stop (52% wet days in early June) frees 6 days. Spending them in Central Asia pushes Uzbekistan later and cooler.
+**Home ≈ Day 214** from Yerevan or Tbilisi, unless a Balkans or Romania tail follows (see the section below). Dropping the optional Harbin + Changbaishan stop (52% wet days in early June) frees 6 days.
+
+## After Armenia: the Balkans or Romania? (user, 27 Nov 2026: "even do the balkans / romania if time is right")
+
+The Caucasus ends on **Day 214 (late October)**. Weather from there (NASA POWER 2016–2025; average high/low °C · share of days with ≥ 1 mm of rain; **bold** = mild and ≤ 20% wet):
+
+| Place | early Sep | late Sep | early Oct | late Oct | early Nov | late Nov |
+|---|---|---|---|---|---|---|
+| ***Turkmenistan (Open-Meteo)*** | | | | | | |
+| Ashgabat | 33/21 · 0% | **29/19 · 3%** | **24/14 · 5%** | **22/12 · 10%** | **17/8 · 11%** | 14/5 · 15% |
+| Darvaza | **30/18 · 1%** | **27/15 · 3%** | **22/10 · 4%** | **19/8 · 9%** | 14/4 · 6% | 10/1 · 9% |
+| Merv (Mary) | 33/18 · 0% | **30/16 · 1%** | **25/11 · 3%** | **23/10 · 6%** | **18/6 · 9%** | **15/3 · 9%** |
+| Konye-Urgench | **29/16 · 2%** | **26/13 · 4%** | **21/8 · 3%** | **17/6 · 9%** | 12/1 · 7% | 8/-2 · 8% |
+| ***Georgia*** | | | | | | |
+| Tbilisi | 29/16 · 23% | 25/13 · 25% | 22/10 · 24% | **19/8 · 19%** | **17/5 · 13%** | 13/2 · 19% |
+| Mestia | 17/6 · 37% | 13/3 · 39% | 11/1 · 39% | 7/-2 · 39% | 5/-3 · 24% | 1/-6 · 41% |
+| Kazbegi (Stepantsminda) | 18/7 · 31% | 15/4 · 29% | 12/1 · 32% | 9/-1 · 29% | 7/-2 · 19% | 3/-6 · 27% |
+| Kutaisi | 28/16 · 36% | 24/13 · 43% | 21/11 · 39% | 18/8 · 41% | 16/6 · 27% | 11/3 · 43% |
+| Sighnaghi | 29/17 · 25% | 25/14 · 27% | 22/11 · 25% | 19/8 · 22% | **16/6 · 16%** | 12/3 · 17% |
+| Batumi | 25/15 · 45% | 22/13 · 50% | 20/11 · 45% | 16/8 · 42% | 14/6 · 30% | 11/3 · 43% |
+| ***Armenia*** | | | | | | |
+| Yerevan | 32/17 · 12% | **28/14 · 16%** | **25/11 · 20%** | 20/7 · 21% | **17/4 · 11%** | 13/1 · 17% |
+| Dilijan | **23/11 · 19%** | 19/8 · 27% | 16/6 · 24% | 12/3 · 24% | 9/0 · 11% | 5/-3 · 18% |
+| Goris | **25/10 · 19%** | 21/8 · 23% | **18/6 · 19%** | 15/3 · 24% | 12/0 · 19% | 8/-3 · 15% |
+| ***Romania + Moldova*** | | | | | | |
+| Bucharest | **30/16 · 15%** | 25/13 · 22% | 21/9 · 26% | **19/7 · 15%** | **15/5 · 19%** | 9/1 · 34% |
+| Brașov | 22/10 · 23% | 17/6 · 33% | 14/4 · 35% | 13/3 · 19% | 10/1 · 25% | 4/-3 · 36% |
+| Sibiu | 26/14 · 29% | 21/10 · 38% | 18/6 · 36% | 17/6 · 24% | 13/3 · 27% | 8/0 · 36% |
+| Cluj | 26/14 · 27% | 21/10 · 35% | 17/6 · 34% | 16/5 · 26% | 13/3 · 29% | 7/-1 · 41% |
+| Sighetu Marmației (Maramureș) | 24/12 · 31% | 19/8 · 40% | 15/5 · 39% | 14/4 · 31% | 10/2 · 35% | 4/-2 · 50% |
+| Chișinău | **27/15 · 19%** | **23/11 · 19%** | 18/7 · 24% | **16/5 · 16%** | 12/3 · 16% | 6/-1 · 31% |
+| ***Western Balkans*** | | | | | | |
+| Skopje | 27/14 · 25% | 24/11 · 30% | 20/8 · 31% | **18/6 · 20%** | 15/4 · 31% | 10/1 · 47% |
+| Ohrid | 25/14 · 26% | 22/11 · 31% | 19/8 · 32% | 18/7 · 21% | 14/5 · 36% | 9/2 · 50% |
+| Prizren | 24/12 · 25% | 20/9 · 30% | 17/6 · 31% | **16/5 · 20%** | 13/4 · 35% | 8/0 · 47% |
+| Tirana | 28/16 · 25% | 24/13 · 32% | 21/10 · 37% | 20/9 · 21% | 16/7 · 38% | 12/4 · 50% |
+| Berat | 29/17 · 25% | 26/14 · 35% | 22/11 · 37% | 21/10 · 23% | 18/8 · 41% | 13/5 · 57% |
+| Theth | 23/11 · 29% | 20/8 · 34% | 16/6 · 35% | 16/5 · 28% | 12/3 · 42% | 7/0 · 53% |
+| Ksamil | 29/19 · 31% | 26/17 · 41% | 23/14 · 38% | 21/13 · 25% | 18/12 · 44% | 15/9 · 58% |
+| Kotor | 26/17 · 30% | 23/15 · 35% | 20/12 · 39% | 19/11 · 29% | 16/10 · 46% | 12/7 · 51% |
+| Žabljak (Durmitor) | 21/9 · 32% | 18/7 · 37% | 15/4 · 39% | 15/4 · 27% | 11/2 · 43% | 6/-1 · 49% |
+| Sarajevo | 24/12 · 30% | 20/8 · 35% | 17/6 · 35% | 17/6 · 24% | 13/3 · 41% | 8/0 · 51% |
+| Mostar | 25/13 · 27% | 21/10 · 34% | 18/7 · 27% | 18/7 · 21% | 13/4 · 43% | 9/1 · 46% |
+
+- **Late October is still fine in both:**
+  - Western Balkans: 16–21 °C, 20–29% wet days.
+  - Romania + Moldova: 13–19 °C, 15–24% wet days, frosty nights in Transylvania.
+- **November splits them:**
+  - The Western Balkans turn wet: 35–46% wet days in early November and 47–58% later, the wettest coast in Europe around Kotor. Mountain areas like Theth and Durmitor close for the season.
+  - Romania and Moldova stay drier into early November (16–29%) but get cold: Brașov 10/1 °C.
+- **So the time is right for about two weeks, not for both:**
+  - **A. Western Balkans, Day 214 → ≈ 230:** Skopje → Ohrid → Prizren (Kosovo) → Albania (Berat, Gjirokastër, Tirana) → Kotor → Sarajevo/Mostar. Up to 5 new countries; the second week gets wet.
+  - **B. Romania + Moldova, Day 214 → ≈ 228:** Bucharest → Brașov and the Carpathians → Sibiu → Cluj → Maramureș, plus Chișinău. 2 new countries; drier but cold.
+  - **C. Stop after Armenia** and save the Balkans and Romania for a spring trip (May–June), when the coast, the mountains and the long days line up.
+- **Getting there:** Wizz Air flies from Kutaisi to several Central European and Balkan cities, and Yerevan and Tbilisi have direct flights too. Prices aren't on sale for those dates yet.
+- **Flight home** (Google price calendar, 27 Nov; prices only run to mid/late October so far):
+
+  | From | Price to Seattle |
+  |---|---|
+  | Tbilisi | from $553 |
+  | Yerevan | $630 |
+  | Bucharest | $670 |
+  | Tirana | $673 |
+  | Skopje | $714 |
+
+  Ending in the Caucasus is the cheapest.
+- **Schengen:** Romania and Bulgaria (full members since 2025) and Croatia count towards the 90-in-180-day limit. The Western Balkan countries and Moldova don't.
 
 ## Weather by month
 
@@ -167,11 +251,10 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 - **How it was found:** every March date from Seattle and Vancouver on Google Flights' Cheapest tab (China as the destination), Google price calendars from Portland, San Francisco, Los Angeles, Managua, San José, Panama City and Mexico City, Kiwi.com's month search, Trip.com, and Alaska awards (best 42,500 miles + $26 to Hong Kong: poor value against $316).
 - Seattle → Kunming 昆明 would have cost $483–538; Vancouver → Shenzhen 深圳 → Beijing $338.
 
-## Getting home (September)
+## Getting home (late October)
 
-- **Tashkent → Seattle: from $742** in early September (Google price calendar, 27 Nov). Almaty → Seattle is $715, Samarkand $852, Dushanbe $900. Osh → Seattle is $1,467+, so don't end there.
-- Kiwi.com's cheapest month-wide options (Uzbekistan $750, Kazakhstan $617, Kyrgyzstan $637) are self-transfers with bag re-checks and overnight layovers.
-- Ending in China instead would have cost $624–796 in early August.
+- **Tbilisi → Seattle from $553, Yerevan $630** (mid/late October, Google price calendar, 27 Nov). Bucharest $670, Tirana $673, Skopje $714 if a Balkans or Romania tail follows.
+- Tashkent → Tbilisi is direct on Uzbekistan Airways and Centrum Air, about 10 flights a week, from ≈ $130–150 one way (traveller sites; lead).
 - Price it again in spring; look at award options too.
 
 ## Visas and border crossings
@@ -202,7 +285,11 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 | 🇰🇿 Kazakhstan | Visa-free up to 30 days per visit, 90 in any 180. **From 1 July 2027 every foreigner also needs a QazETA** e-travel authorization: free, apply ≥ 72 h ahead on qazeta.kz or its app, valid 180 days, multiple entry; without it you're refused entry | 8 (Day 126 → 134); the entry falls after 1 July, so QazETA is required | ✅ US Embassy Kazakhstan ([visa-free](https://kz.usembassy.gov/visa-free-travel-to-kazakhstan/), [QazETA](https://kz.usembassy.gov/services/electronic-travel-authorization-qazeta/)), read 27 Nov |
 | 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60**; overstays need a fine and an exit visa | 5 in May (Day 66 → 71) and 18 in August (Day 134 → 152): 23 days in all, under the 30 | ✅ [US Embassy Bishkek](https://kg.usembassy.gov/traveling-to-the-kyrgyz-republic/), updated 8 Jan 2026 |
 | 🇹🇯 Tajikistan | Visa-free up to 30 days. **The Pamir (GBAO) needs a permit: $20, single entry, on a fixed entry date**, applied for on evisa.tj (the form has a "GBAO Permit" option and lists the United States) | 18 (Day 152 → 170) | ✅ travel.state.gov; ✅ [evisa.tj](https://www.evisa.tj/#/help) FAQ, read 27 Nov |
-| 🇺🇿 Uzbekistan | Visa-free up to 30 days since 1 Jan 2026 | 10 (Day 170 → 180) | ✅ gov.uz |
+| 🇺🇿 Uzbekistan | Visa-free up to 30 days since 1 Jan 2026 | 6 + 3 (Day 170 → 176, then Day 181 → 184 after Turkmenistan): two entries | ✅ gov.uz |
+| 🇹🇲 Turkmenistan | **E-visa** since 1 Oct 2026 on the State Migration Service portal (about $80 for a tourist visa; lead). Travellers and agencies still describe guided transits (e.g. a 4-day Bukhara → Khiva crossing), so check whether independent travel is allowed | 5 (Day 176 → 181); in at Farap, out at Shavat (open daily, about 09:00–18:00; lead) | ✅ [evisa.migration.gov.tm](https://evisa.migration.gov.tm/) (portal live, read 27 Nov) |
+| 🇬🇪 Georgia | Visa-free up to 365 days | 19 (Day 184 → 203) | ✅ travel.state.gov |
+| 🇦🇲 Armenia | Visa-free up to 180 days a year | 11 (Day 203 → 214) | ✅ travel.state.gov |
+| 🇦🇿 Azerbaijan (not planned) | Land borders closed to passengers since 2020 (rail to Georgia reopened 25 May 2026 for some passports); the Caspian ferry isn't open to tourists entering Azerbaijan | — | traveller guides, Oct–Nov 2026 (lead) |
 
 **China's border management areas 边境管理区** (Tashkurgan 塔什库尔干 and the Karakoram Highway; probably also Baihaba 白哈巴 and Shiwei 室韦/Enhe 恩和):
 - Since 15 Apr 2026 the permit is electronic: the **电子边境管理区通行证**. It's free.
