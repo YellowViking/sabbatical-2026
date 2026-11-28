@@ -207,10 +207,10 @@ for s_ in S:
         dx,dy,anc=CAOFF[s_[0]]; draw_stop(o, PI, s_[:6]+(dx,dy,anc,s_[9]), r=8)
 x,y=PI(*coords(41)); tx,ty=IX0+70,IY0+58
 o.append(f'<path class="m-flight" d="M{x-6:.0f},{y-6:.0f} Q{x-120:.0f},{y-120:.0f} {tx:.0f},{ty:.0f}" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>')
-o.append(f'<text x="{IX0+12:.0f}" y="{ty-10:.0f}" class="ink2 t-date halo">✈ on to Tbilisi, Day 184: Georgia + Armenia, home ≈ Day 214</text>')
+o.append(f'<text x="{IX0+12:.0f}" y="{ty-10:.0f}" class="ink2 t-date halo">✈ on to Tbilisi, Day 184: Georgia, Armenia, then the Western Balkans; home ≈ Day 229</text>')
 # ---- title
 o.append(f'<text x="32" y="40" class="ink t-title">China 中国 + Central Asia 2027 (draft): follow the weather</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · then Georgia + Armenia, ✈ home ≈ Day 214 · ◆ = border crossing · faded = optional</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · then Georgia, Armenia + the Western Balkans, ✈ home ≈ Day 229 · ◆ = border crossing · faded = optional</text>')
 # ---- legend (right of the panel)
 lx=IX0+IW+40; ly=IY0-11
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')

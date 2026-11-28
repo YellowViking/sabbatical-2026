@@ -294,9 +294,9 @@
 <g><title>45. 🇺🇿 Khiva: Day 181–183</title><circle cx="111.7" cy="848.0" r="8" class="dot ring" stroke-width="2"/><text x="111.7" y="851.3" class="num t-num" text-anchor="middle">45</text><text x="111.7" y="835.0" class="ink t-stop halo" text-anchor="middle">Khiva</text></g>
 <g><title>46. Tashkent → ✈ Tbilisi: Day 183–184</title><circle cx="406.5" cy="851.5" r="8" class="dot ring" stroke-width="2"/><text x="406.5" y="854.8" class="num t-num" text-anchor="middle">46</text><text x="418.5" y="855.5" class="ink t-stop halo" text-anchor="start">Tashkent</text></g>
 <path class="m-flight" d="M401,845 Q287,731 90,742" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>
-<text x="32" y="732" class="ink2 t-date halo">✈ on to Tbilisi, Day 184: Georgia + Armenia, home ≈ Day 214</text>
+<text x="32" y="732" class="ink2 t-date halo">✈ on to Tbilisi, Day 184: Georgia, Armenia, then the Western Balkans; home ≈ Day 229</text>
 <text x="32" y="40" class="ink t-title">China 中国 + Central Asia 2027 (draft): follow the weather</text>
-<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · then Georgia + Armenia, ✈ home ≈ Day 214 · ◆ = border crossing · faded = optional</text>
+<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · then Georgia, Armenia + the Western Balkans, ✈ home ≈ Day 229 · ◆ = border crossing · faded = optional</text>
 <text x="866.935483174188" y="673.2754114223405" class="ink t-stop">How each leg is travelled</text>
 <line x1="866.935483174188" y1="697.2754114223405" x2="910.935483174188" y2="697.2754114223405" class="m-flight" stroke-width="3.0" stroke-linecap="round" stroke-dasharray="2 6"/><text x="918.935483174188" y="701.2754114223405" class="ink t-leg">Flight</text>
 <line x1="866.935483174188" y1="721.2754114223405" x2="910.935483174188" y2="721.2754114223405" class="m-train" stroke-width="3.5" stroke-linecap="round"/><text x="918.935483174188" y="725.2754114223405" class="ink t-leg">Train (mostly high-speed)</text>

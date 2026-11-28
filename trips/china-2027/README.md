@@ -1,11 +1,11 @@
-# China 中国 + Central Asia + the Caucasus 2027 (draft): follow the weather, late March → October
+# China 中国 + Central Asia + the Caucasus + the Western Balkans 2027 (draft): follow the weather, late March → November
 
 > 🧭 **Status: second draft (27 Nov 2026).** Route order and stop lengths only. Beds, train legs and day plans come next, stop by stop.
 > **Day 1 = arrival in Beijing 北京** (the flight leaves Seattle two days earlier; the date line eats a day). Trip days only below, so the plan can slide; fixed events (holidays) keep real dates.
 
 **Assumptions** (user, 27 Nov 2026):
 - About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there").
-- **After China** (user, 27 Nov 2026): "aim to finish all central asia after china and hopefully finish countries in georgia and amenia and even do the balkans / romania if time is right". All five Central Asian countries (Turkmenistan added), then Georgia and Armenia. Home ≈ **Day 214** from Yerevan or Tbilisi, or later with a Balkans or Romania tail (see below).
+- **After China** (user, 27 Nov 2026): "aim to finish all central asia after china and hopefully finish countries in georgia and amenia and even do the balkans / romania if time is right". All five Central Asian countries (Turkmenistan added), then Georgia and Armenia, then **the Western Balkans** (user's pick on 27 Nov, over Romania + Moldova). Home ≈ **Day 229** from Tirana.
 - Entering China on a US passport with a **10-year Q2 visa 探亲签证** (family visit), **90 days per stay**.
 - **Family in Zigong 自贡, Sichuan 四川:** a week there over the Labour Day holiday 五一 (Day 38 → 45).
 - **Yunnan 云南, Guilin 桂林, Sichuan 四川 and Chongqing 重庆 already visited**, so they're left out. Central Asia is all new.
@@ -110,13 +110,22 @@
 | Day 207 → 209 | Dilijan: Dilijan National Park, Parz Lake | 2 | 14/4 °C · 24% wet † |
 | Day 209 → 210 | Lake Sevan | 1 | 12/3 °C · 24% wet † |
 | Day 210 → 213 | Goris: Wings of Tatev cable car, Old Khndzoresk swinging bridge | 3 | 15/3 °C · 24% wet † |
-| Day 213 → 214 | Yerevan → ✈ home, or on to the Balkans (see below) | 1 | 20/7 °C · 21% wet † |
+| Day 213 → 214 | Yerevan, then ✈ to Podgorica | 1 | 20/7 °C · 21% wet † |
+| | ***🏔️ Western Balkans (user's pick, 27 Nov; outside Schengen)*** | | |
+| Day 214 → 217 | 🇲🇪 Kotor (✈ Yerevan → Podgorica ≈ $80 on Wizz Air with a self-transfer in Italy or Central Europe; bags extra) | 3 | 19/11 °C · 29% wet † |
+| Day 217 → 218 | 🇧🇦 Mostar | 1 | 18/7 °C · 21% wet † |
+| Day 218 → 220 | Sarajevo | 2 | 17/6 °C · 24% wet † |
+| Day 220 → 222 | 🇽🇰 Prizren (no direct bus from Sarajevo: change in Pristina or Podgorica, ≈ 10–12 h) | 2 | 16/5 °C · 20% wet † |
+| Day 222 → 224 | 🇲🇰 Skopje | 2 | 18/6 °C · 20% wet † |
+| Day 224 → 226 | Ohrid: the lake and the Galičica ridge | 2 | 14/5 °C · 36% wet † |
+| Day 226 → 228 | 🇦🇱 Berat | 2 | 18/8 °C · 41% wet † |
+| Day 228 → 229 | Tirana → ✈ home | 1 | 16/7 °C · 38% wet † |
 
 † NASA POWER averages a ~50 km cell, so mountain cells run cold for valley towns: Almaty, Karakol and the Kolsai lakes show wet days only.
 
-**Home ≈ Day 214** from Yerevan or Tbilisi, unless a Balkans or Romania tail follows (see the section below). Dropping the optional Harbin + Changbaishan stop (52% wet days in early June) frees 6 days.
+**Home ≈ Day 229** from Tirana. Dropping the optional Harbin + Changbaishan stop (52% wet days in early June) frees 6 days.
 
-## After Armenia: the Balkans or Romania? (user, 27 Nov 2026: "even do the balkans / romania if time is right")
+## After Armenia: the Balkans or Romania? (user, 27 Nov 2026: "even do the balkans / romania if time is right"). Decided: A, the Western Balkans
 
 The Caucasus ends on **Day 214 (late October)**. Weather from there (NASA POWER 2016–2025; average high/low °C · share of days with ≥ 1 mm of rain; **bold** = mild and ≤ 20% wet):
 
@@ -251,9 +260,10 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 - **How it was found:** every March date from Seattle and Vancouver on Google Flights' Cheapest tab (China as the destination), Google price calendars from Portland, San Francisco, Los Angeles, Managua, San José, Panama City and Mexico City, Kiwi.com's month search, Trip.com, and Alaska awards (best 42,500 miles + $26 to Hong Kong: poor value against $316).
 - Seattle → Kunming 昆明 would have cost $483–538; Vancouver → Shenzhen 深圳 → Beijing $338.
 
-## Getting home (late October)
+## Getting home (early November)
 
-- **Tbilisi → Seattle from $553, Yerevan $630** (mid/late October, Google price calendar, 27 Nov). Bucharest $670, Tirana $673, Skopje $714 if a Balkans or Romania tail follows.
+- **Tirana → Seattle ≈ $673** (mid/late October fares, Google price calendar, 27 Nov; November isn't on sale yet). Skopje is $714. For comparison, Tbilisi was $553 and Yerevan $630.
+- **Yerevan → the Balkans:** Wizz Air connections cost ≈ $50–90 (e.g. Yerevan → Podgorica ≈ $80 via Memmingen or Milan, Yerevan → Tirana ≈ $50 via Bari). These are self-transfers, a Schengen stopover counts as one Schengen day, and cabin bags are extra (Kiwi.com, fares for March 2027 as a guide).
 - Tashkent → Tbilisi is direct on Uzbekistan Airways and Centrum Air, about 10 flights a week, from ≈ $130–150 one way (traveller sites; lead).
 - Price it again in spring; look at award options too.
 
@@ -289,6 +299,7 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 | 🇹🇲 Turkmenistan | **E-visa** since 1 Oct 2026 on the State Migration Service portal (about $80 for a tourist visa; lead). Travellers and agencies still describe guided transits (e.g. a 4-day Bukhara → Khiva crossing), so check whether independent travel is allowed | 5 (Day 176 → 181); in at Farap, out at Shavat (open daily, about 09:00–18:00; lead) | ✅ [evisa.migration.gov.tm](https://evisa.migration.gov.tm/) (portal live, read 27 Nov) |
 | 🇬🇪 Georgia | Visa-free up to 365 days | 19 (Day 184 → 203) | ✅ travel.state.gov |
 | 🇦🇲 Armenia | Visa-free up to 180 days a year | 11 (Day 203 → 214) | ✅ travel.state.gov |
+| 🇲🇪🇧🇦🇽🇰🇲🇰🇦🇱 Western Balkans | Visa-free for US passports: Bosnia and Kosovo 90 days in 6 months ✅ travel.state.gov; Albania up to 1 year ✅ US Embassy Albania; Montenegro and North Macedonia 90 days (lead). None are in Schengen | 15 (Day 214 → 229) | as listed |
 | 🇦🇿 Azerbaijan (not planned) | Land borders closed to passengers since 2020 (rail to Georgia reopened 25 May 2026 for some passports); the Caspian ferry isn't open to tourists entering Azerbaijan | — | traveller guides, Oct–Nov 2026 (lead) |
 
 **China's border management areas 边境管理区** (Tashkurgan 塔什库尔干 and the Karakoram Highway; probably also Baihaba 白哈巴 and Shiwei 室韦/Enhe 恩和):
