@@ -177,7 +177,11 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 ## Visas and border crossings
 
 **China: 10-year Q2 visa 探亲签证, 90 days per stay** (user, 27 Nov 2026: "it's only 90days actually").
-- The count starts on the day after entry ✅ [Chinese Consulate-General in San Francisco, FAQ](https://sanfrancisco.china-consulate.gov.cn/lsfw/qianzhen/zgqz/201502/t20150212_10389353.htm). The China part (about 125 days) therefore needs one exit and re-entry.
+- **Each entry gets a fresh 90 days.** The stay limit applies per entry 每次入境, counted from the day after entry, and the days don't add up across stays 每次入境停留天数都重新计算，不累计 ✅ State Council Regulations on Foreigners' Entry and Exit 外国人入境出境管理条例, Art. 7; China Visa Application Service Center; [SF consulate FAQ](https://sanfrancisco.china-consulate.gov.cn/lsfw/qianzhen/zgqz/201502/t20150212_10389353.htm).
+  - **Conditions:** the visa is multiple-entry (M) and you enter before its expiry date. If it expires during a stay, you still get that stay's full 90 days.
+  - **No yearly cap** like Schengen's 90-in-180, but the border officer decides on each entry. One exit after 65 days, then 55 more, is an ordinary pattern for a family visa.
+  - **Hong Kong and Macau count as leaving the mainland** too, if a quicker reset is ever needed.
+  - The China part (about 125 days) therefore needs one exit and re-entry.
 - **Stay 1 is Day 1 → 66** (65 days). On Day 66 you cross the Irkeshtam pass 伊尔克什坦口岸 from Kashgar into Kyrgyzstan: Osh and the Alay valley, 5 nights.
 - **Stay 2 is Day 71 → 126** (55 days), ending at Khorgos 霍尔果斯口岸.
 - Irkeshtam opens on weekdays only. Day 66 is a Thursday and Day 71 a Tuesday at the current dates, with no Chinese or Kyrgyz holiday; keep both on weekdays if the plan slides.
