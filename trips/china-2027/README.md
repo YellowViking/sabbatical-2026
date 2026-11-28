@@ -4,7 +4,7 @@
 > **Day 1 = arrival in Beijing 北京** (the flight leaves Seattle two days earlier; the date line eats a day). Trip days only below, so the plan can slide; fixed events (holidays) keep real dates.
 
 **Assumptions** (user, 27 Nov 2026):
-- About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there"). Home ≈ **Day 172**, from Tashkent.
+- About 4–5 months in China, then Central Asia, with no fixed date home ("we can come home later … we can also fly from there"). Home ≈ **Day 173**, from Tashkent.
 - Entering China on a US passport with a **10-year Q2 visa 探亲签证** (family visit).
 - **Family in Zigong 自贡, Sichuan 四川:** a week there over the Labour Day holiday 五一 (Day 38 → 45).
 - **Yunnan 云南, Guilin 桂林, Sichuan 四川 and Chongqing 重庆 already visited**, so they're left out. Central Asia is all new.
@@ -54,45 +54,45 @@
 | Day 48 → 49 | Jiayuguan 嘉峪关 | 1 | 23/8 °C · 16% wet |
 | Day 49 → 53 | Dunhuang 敦煌: Mingsha dunes + Crescent Lake 鸣沙山月牙泉, Mogao Caves 莫高窟 | 4 | 26/12 °C · 9% wet |
 | | ***🏜️ Southern Xinjiang 南疆*** | | |
-| Day 53 → 54 | Turpan 吐鲁番 | 1 | 32/20 °C · 3% wet |
-| Day 54 → 55 | Urumqi 乌鲁木齐 (transit) | 1 | 23/11 °C · 23% wet |
-| Day 55 → 60 | Kashgar 喀什 | 5 | 29/15 °C · 16% wet |
-| Day 60 → 64 | Tashkurgan 塔什库尔干 + Karakul Lake 喀拉库勒湖 on the Karakoram Highway 中巴公路 | 4 | 14/4 °C · 31% wet |
+| Day 53 → 55 | Turpan 吐鲁番 | 2 | 32/20 °C · 3% wet |
+| Day 55 → 56 | Urumqi 乌鲁木齐 (transit) | 1 | 25/13 °C · 19% wet |
+| Day 56 → 61 | Kashgar 喀什 | 5 | 29/15 °C · 16% wet |
+| Day 61 → 65 | Tashkurgan 塔什库尔干 + Karakul Lake 喀拉库勒湖 on the Karakoram Highway 中巴公路 | 4 | 14/4 °C · 31% wet |
 | | ***🌾 Far north*** | | |
-| Day 64 → 71 | Hulunbuir 呼伦贝尔: Hailar 海拉尔, Enhe 恩和, Shiwei 室韦 | 7 | 20/6 °C · 21% wet |
-| Day 71 → 74 | Arxan 阿尔山 | 3 | 19/8 °C · 51% wet |
-| Day 74 → 80 | (optional) Harbin 哈尔滨 + Changbaishan 长白山 | 6 | 21/11 °C · 52% wet |
+| Day 65 → 72 | Hulunbuir 呼伦贝尔: Hailar 海拉尔, Enhe 恩和, Shiwei 室韦 | 7 | 21/8 °C · 26% wet |
+| Day 72 → 75 | Arxan 阿尔山 | 3 | 19/8 °C · 51% wet |
+| Day 75 → 81 | (optional) Harbin 哈尔滨 + Changbaishan 长白山 | 6 | 21/11 °C · 52% wet |
 | | ***🏔️ Northern Xinjiang 北疆*** | | |
-| Day 80 → 83 | Urumqi 乌鲁木齐 + Tianshan Tianchi 天山天池 | 3 | 29/17 °C · 10% wet |
-| Day 83 → 92 | Kanas 喀纳斯, Hemu 禾木, Baihaba 白哈巴 | 9 | 26/13 °C · 20% wet |
-| Day 92 → 118 | Ili 伊犁: Sayram Lake 赛里木湖, Nalati 那拉提, Bayanbulak 巴音布鲁克, Duku Highway 独库公路, Kalajun 喀拉峻, Zhaosu 昭苏 (Wusun Ancient Road trek 乌孙古道 optional); leave China at Khorgos 霍尔果斯口岸 | 26 | 32/19 °C · 14% wet |
+| Day 81 → 84 | Urumqi 乌鲁木齐 + Tianshan Tianchi 天山天池 | 3 | 29/17 °C · 10% wet |
+| Day 84 → 93 | Kanas 喀纳斯, Hemu 禾木, Baihaba 白哈巴 | 9 | 26/13 °C · 20% wet |
+| Day 93 → 119 | Ili 伊犁: Sayram Lake 赛里木湖, Nalati 那拉提, Bayanbulak 巴音布鲁克, Duku Highway 独库公路, Kalajun 喀拉峻, Zhaosu 昭苏 (Wusun Ancient Road trek 乌孙古道 optional); leave China at Khorgos 霍尔果斯口岸 | 26 | 32/19 °C · 14% wet |
 | | ***🇰🇿 Kazakhstan*** | | |
-| Day 118 → 122 | Almaty: Big Almaty Lake, Kok-Zhailau | 4 | 22% wet † |
-| Day 122 → 125 | Kolsai and Kaindy lakes | 3 | 32% wet † |
-| Day 125 → 126 | Charyn canyon | 1 | 33/19 °C · 22% wet † |
+| Day 119 → 123 | Almaty: Big Almaty Lake, Kok-Zhailau | 4 | 22% wet † |
+| Day 123 → 126 | Kolsai and Kaindy lakes | 3 | 32% wet † |
+| Day 126 → 127 | Charyn canyon | 1 | 33/19 °C · 22% wet † |
 | | ***🇰🇬 Kyrgyzstan*** | | |
-| Day 126 → 131 | Karakol: Ala-Kul trek, Altyn-Arashan, Jeti-Oguz | 5 | 42% wet † |
-| Day 131 → 133 | Issyk-Kul south shore: Skazka canyon, Bokonbaevo | 2 | 22/6 °C · 14% wet † |
-| Day 133 → 137 | Kochkor + Song-Kol (yurt nights) | 4 | 21/6 °C · 9% wet † |
-| Day 137 → 139 | Naryn + Tash Rabat | 2 | 19/6 °C · 21% wet † |
-| Day 139 → 142 | Bishkek + Ala-Archa | 3 | 35/21 °C · 9% wet † |
-| Day 142 → 144 | Osh | 2 | 34/21 °C · 1% wet † |
+| Day 127 → 132 | Karakol: Ala-Kul trek, Altyn-Arashan, Jeti-Oguz | 5 | 42% wet † |
+| Day 132 → 134 | Issyk-Kul south shore: Skazka canyon, Bokonbaevo | 2 | 21/6 °C · 12% wet † |
+| Day 134 → 138 | Kochkor + Song-Kol (yurt nights) | 4 | 21/6 °C · 9% wet † |
+| Day 138 → 140 | Naryn + Tash Rabat | 2 | 19/6 °C · 21% wet † |
+| Day 140 → 143 | Bishkek + Ala-Archa | 3 | 35/21 °C · 9% wet † |
+| Day 143 → 145 | Osh | 2 | 34/21 °C · 1% wet † |
 | | ***🇹🇯 Tajikistan: Pamir Highway*** | | |
-| Day 144 → 147 | Sary-Tash → Karakul → Murghab | 3 | 17/1 °C · 3% wet † |
-| Day 147 → 151 | Wakhan valley: Langar, Yamchun, Ishkashim | 4 | 12/-1 °C · 8% wet † |
-| Day 151 → 153 | Khorog | 2 | 19/4 °C · 3% wet † |
-| Day 153 → 157 | Khorog → Kalai-Khumb → Dushanbe (drive), Dushanbe | 4 | 32/17 °C · 1% wet † |
-| Day 157 → 161 | Fann Mountains: Iskanderkul, Seven Lakes | 4 | 19/5 °C · 3% wet † |
-| Day 161 → 162 | Penjikent | 1 | 33/17 °C · 2% wet † |
+| Day 145 → 148 | Sary-Tash → Karakul → Murghab | 3 | 16/-0 °C · 3% wet † |
+| Day 148 → 152 | Wakhan valley: Langar, Yamchun, Ishkashim | 4 | 12/-1 °C · 8% wet † |
+| Day 152 → 154 | Khorog | 2 | 19/4 °C · 3% wet † |
+| Day 154 → 158 | Khorog → Kalai-Khumb → Dushanbe (drive), Dushanbe | 4 | 32/17 °C · 1% wet † |
+| Day 158 → 162 | Fann Mountains: Iskanderkul, Seven Lakes | 4 | 19/5 °C · 3% wet † |
+| Day 162 → 163 | Penjikent | 1 | 33/17 °C · 2% wet † |
 | | ***🇺🇿 Uzbekistan*** | | |
-| Day 162 → 165 | Samarkand | 3 | 32/16 °C · 2% wet † |
-| Day 165 → 168 | Bukhara | 3 | 33/16 °C · 0% wet † |
-| Day 168 → 170 | Khiva | 2 | 31/16 °C · 0% wet † |
-| Day 170 → 172 | Tashkent → fly home | 2 | 30/16 °C · 1% wet † |
+| Day 163 → 166 | Samarkand | 3 | 31/15 °C · 1% wet † |
+| Day 166 → 169 | Bukhara | 3 | 33/16 °C · 0% wet † |
+| Day 169 → 171 | Khiva | 2 | 31/16 °C · 0% wet † |
+| Day 171 → 173 | Tashkent → fly home | 2 | 30/16 °C · 1% wet † |
 
 † NASA POWER averages a ~50 km cell, so mountain cells run cold for valley towns: Almaty, Karakol and the Kolsai lakes show wet days only.
 
-**Home ≈ Day 172.** Dropping the optional Harbin + Changbaishan stop (52% wet days in early June) frees 6 days. Spending them in Central Asia pushes Uzbekistan later and cooler.
+**Home ≈ Day 173.** Dropping the optional Harbin + Changbaishan stop (52% wet days in early June) frees 6 days. Spending them in Central Asia pushes Uzbekistan later and cooler.
 
 ## Weather by month
 
@@ -175,7 +175,7 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 **China: 10-year Q2 visa 探亲签证 (user, 27 Nov 2026).**
 - US citizens' 10-year Q2 visas usually allow **120 days per entry**; some are issued with 180. Confirm the figure printed under *Duration of each stay* 入境后可停留.
 - The count starts on the day after entry ✅ [Chinese Consulate-General in San Francisco, FAQ](https://sanfrancisco.china-consulate.gov.cn/lsfw/qianzhen/zgqz/201502/t20150212_10389353.htm).
-- **The whole China part is one stay:** Day 1 → 118, leaving at Khorgos 霍尔果斯口岸. That's 117 days after the entry day, inside 120, so **no mid-trip exit is needed**. The May trip to Osh is gone, and its 6 days went to the family week in Zigong 自贡.
+- **The whole China part is one stay:** Day 1 → 119, leaving at Khorgos 霍尔果斯口岸. That's 118 days after the entry day, inside 120, so **no mid-trip exit is needed**. The May trip to Osh is gone, and its 6 days went to the family week in Zigong 自贡.
 - **Buffer:** a local police exit-entry office 公安机关出入境管理部门 can extend the stay. Extensions may add up to the visa's own stay length (120 days) in total ✅ [National Immigration Administration reply on a 120-day Q2](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=Dsq799Zl%2BmJ2BIahe95J%2BA%3D%3D), Sep 2023.
 - A Q2 is issued for visiting relatives; the Zigong week matches that purpose if a border officer asks.
 
@@ -183,16 +183,16 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 
 | Country | Rule | Days in the plan | Source |
 |---|---|---|---|
-| 🇰🇿 Kazakhstan | Visa-free up to 30 days per visit, 90 in any 180. **From 1 July 2027 every foreigner also needs a QazETA** e-travel authorization: free, apply ≥ 72 h ahead on qazeta.kz or its app, valid 180 days, multiple entry; without it you're refused entry | 8 (Day 118 → 126); the entry falls after 1 July, so QazETA is required | ✅ US Embassy Kazakhstan ([visa-free](https://kz.usembassy.gov/visa-free-travel-to-kazakhstan/), [QazETA](https://kz.usembassy.gov/services/electronic-travel-authorization-qazeta/)), read 27 Nov |
-| 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60**; overstays need a fine and an exit visa | 18 (Day 126 → 144) | ✅ [US Embassy Bishkek](https://kg.usembassy.gov/traveling-to-the-kyrgyz-republic/), updated 8 Jan 2026 |
-| 🇹🇯 Tajikistan | Visa-free up to 30 days. **The Pamir (GBAO) needs a permit: $20, single entry, on a fixed entry date**, applied for on evisa.tj (the form has a "GBAO Permit" option and lists the United States) | 18 (Day 144 → 162) | ✅ travel.state.gov; ✅ [evisa.tj](https://www.evisa.tj/#/help) FAQ, read 27 Nov |
-| 🇺🇿 Uzbekistan | Visa-free up to 30 days since 1 Jan 2026 | 10 (Day 162 → 172) | ✅ gov.uz |
+| 🇰🇿 Kazakhstan | Visa-free up to 30 days per visit, 90 in any 180. **From 1 July 2027 every foreigner also needs a QazETA** e-travel authorization: free, apply ≥ 72 h ahead on qazeta.kz or its app, valid 180 days, multiple entry; without it you're refused entry | 8 (Day 119 → 127); the entry falls after 1 July, so QazETA is required | ✅ US Embassy Kazakhstan ([visa-free](https://kz.usembassy.gov/visa-free-travel-to-kazakhstan/), [QazETA](https://kz.usembassy.gov/services/electronic-travel-authorization-qazeta/)), read 27 Nov |
+| 🇰🇬 Kyrgyzstan | Visa-free up to **30 days within any 60**; overstays need a fine and an exit visa | 18 (Day 127 → 145) | ✅ [US Embassy Bishkek](https://kg.usembassy.gov/traveling-to-the-kyrgyz-republic/), updated 8 Jan 2026 |
+| 🇹🇯 Tajikistan | Visa-free up to 30 days. **The Pamir (GBAO) needs a permit: $20, single entry, on a fixed entry date**, applied for on evisa.tj (the form has a "GBAO Permit" option and lists the United States) | 18 (Day 145 → 163) | ✅ travel.state.gov; ✅ [evisa.tj](https://www.evisa.tj/#/help) FAQ, read 27 Nov |
+| 🇺🇿 Uzbekistan | Visa-free up to 30 days since 1 Jan 2026 | 10 (Day 163 → 173) | ✅ gov.uz |
 
 **China's border management areas 边境管理区** (Tashkurgan 塔什库尔干 and the Karakoram Highway; probably also Baihaba 白哈巴 and Shiwei 室韦/Enhe 恩和):
 - Since 15 Apr 2026 the permit is electronic: the **电子边境管理区通行证**. It's free.
 - **Foreigners must apply in person** at a county-level public security exit-entry office 出入境管理机构 or a designated police station, with their passport. If the papers are complete it's issued on the spot; otherwise it takes up to 10 working days. Only mainland residents can apply online in the 移民局12367 app. ✅ National Immigration Administration 国家移民管理局, [notice No. 2 of 2026](https://en.nia.gov.cn/n147418/n147468/c199270/content.html) and its [service guide](https://www.nia.gov.cn/n741445/n741604/n1787214/c1792376/content.html).
 - **What this means for the plan:**
-  - Use one Kashgar 喀什 morning for the Tashkurgan permit, before Day 60.
+  - Use one Kashgar 喀什 morning for the Tashkurgan permit, before Day 61.
   - Do the same in Burqin 布尔津 or Altay 阿勒泰 for Baihaba, and in Hailar 海拉尔 or Ergun 额尔古纳 for Shiwei/Enhe.
   - Ask there whether those villages are open to foreigners at all. Local police pages add that areas **not open to foreigners** also need an Alien Travel Permit 外国人旅行证.
   - Kanas 喀纳斯 and Hemu 禾木 need only a passport and an entry ticket (traveller guides; lead).
@@ -202,10 +202,10 @@ Average high/low (°C) · share of days with ≥ 1 mm of rain. **Bold** = mild (
 | Crossing | Status | Source |
 |---|---|---|
 | Irkeshtam 伊尔克什坦口岸 (Kashgar ↔ Osh) | **No longer needed** with the Q2 visa; kept as an option for a Kyrgyz side trip from Kashgar. Open to foreign travellers on **weekdays only** (about 09:00–11:00 and 14:00–18:00), closed on Chinese and Kyrgyz public holidays | ✅ Xinjiang border inspection station's holiday-closure notices 新疆边检总站 (Sep 2026); hours from Caravanistan (Jul 2026; lead) |
-| Khorgos 霍尔果斯口岸 (Ili → Almaty), Day 118 | Passenger crossing in daily use: 977,000 travellers in Jan–Oct 2026. Buses Yining 伊宁 ↔ Almaty Sayran terminal | ✅ Chinese customs figures via the press; bus times from traveller reports (lead) |
-| Kegen / Karkara (Kazakhstan → Karakol), Day 126 | Open all year, 24/7 since 2025 (it used to be May–Oct only) | Caravanistan, Oct 2026, and a Sep 2026 traveller report (lead) |
-| Kyzyl-Art (Kyrgyzstan → Tajikistan on the Pamir Highway), Day 144 | Open to foreigners; no special permit for the crossing itself (you still need the GBAO permit) | Caravanistan forum, Mar 2026; Pamir guides, Oct 2026 (lead) |
-| Penjikent / Sarazm → Samarkand / Jartepa, Day 162 | Passenger crossing, open 24 h | Uzbek operators' guides, Oct 2026 (lead) |
+| Khorgos 霍尔果斯口岸 (Ili → Almaty), Day 119 | Passenger crossing in daily use: 977,000 travellers in Jan–Oct 2026. Buses Yining 伊宁 ↔ Almaty Sayran terminal | ✅ Chinese customs figures via the press; bus times from traveller reports (lead) |
+| Kegen / Karkara (Kazakhstan → Karakol), Day 127 | Open all year, 24/7 since 2025 (it used to be May–Oct only) | Caravanistan, Oct 2026, and a Sep 2026 traveller report (lead) |
+| Kyzyl-Art (Kyrgyzstan → Tajikistan on the Pamir Highway), Day 145 | Open to foreigners; no special permit for the crossing itself (you still need the GBAO permit) | Caravanistan forum, Mar 2026; Pamir guides, Oct 2026 (lead) |
+| Penjikent / Sarazm → Samarkand / Jartepa, Day 163 | Passenger crossing, open 24 h | Uzbek operators' guides, Oct 2026 (lead) |
 
 ## 2027 public holidays in China (State Council notice, 5 Nov 2026)
 

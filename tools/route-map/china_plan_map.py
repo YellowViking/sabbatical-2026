@@ -26,32 +26,32 @@ S = [
  (12,'Zhangye 张掖','Zhangye 张掖: Rainbow Danxia 七彩丹霞','45–48',38.93,100.45, 12,4,'start',0),
  (13,'Jiayuguan 嘉峪关','Jiayuguan 嘉峪关','48–49',39.77,98.29, 8,-12,'start',0),
  (14,'Dunhuang 敦煌','Dunhuang 敦煌: Mingsha 鸣沙山, Mogao 莫高窟','49–53',40.14,94.66, 0,22,'middle',0),
- (15,'Turpan 吐鲁番','Turpan 吐鲁番','53–54',42.95,89.19, 10,16,'start',0),
- (16,'Urumqi 乌鲁木齐','Urumqi 乌鲁木齐 (twice; Tianchi 天山天池)','54–55 · 80–83',43.80,87.60, 12,-6,'start',0),
- (17,'Kashgar 喀什','Kashgar 喀什','55–60',39.47,75.99, 12,4,'start',0),
- (18,'Tashkurgan 塔什库尔干','Tashkurgan 塔什库尔干 + Karakul 喀拉库勒湖','60–64',37.77,75.23, 12,6,'start',0),
-  (20,'Hulunbuir 呼伦贝尔','Hulunbuir 呼伦贝尔: Hailar, Enhe, Shiwei','64–71',49.21,119.74, -12,4,'end',0),
- (21,'Arxan 阿尔山','Arxan 阿尔山','71–74',47.17,119.94, -12,6,'end',0),
- (22,'Changbaishan 长白山','Harbin 哈尔滨 + Changbaishan 长白山 (opt.)','74–80',42.40,128.10, -12,18,'end',1),
- (23,'Kanas 喀纳斯 · Hemu 禾木','Kanas 喀纳斯, Hemu 禾木, Baihaba 白哈巴','83–92',48.70,87.02, 12,4,'start',0),
- (24,'Ili 伊犁','Ili 伊犁: Sayram, Nalati, Duku Hwy, Zhaosu','92–118',43.92,81.32, 2,-14,'middle',0),
- (25,'Almaty','🇰🇿 Almaty (QazETA needed)','118–122',43.24,76.95, -10,-10,'end',0),
- (26,'Kolsai · Charyn','Kolsai + Kaindy lakes, Charyn canyon','122–126',43.10,78.70, 12,-6,'start',0),
- (27,'Karakol','🇰🇬 Karakol: Ala-Kul trek','126–131',42.49,78.39, 12,10,'start',0),
- (28,'Issyk-Kul','Issyk-Kul south shore, Skazka canyon','131–133',42.12,76.99, 4,18,'middle',0),
- (29,'Song-Kol','Kochkor + Song-Kol yurts','133–137',41.85,75.13, -10,-8,'end',0),
- (30,'Naryn','Naryn + Tash Rabat','137–139',41.43,75.99, 12,8,'start',0),
- (31,'Bishkek','Bishkek + Ala-Archa','139–142',42.87,74.59, -10,-8,'end',0),
- (32,'Osh','Osh (start of the Pamir Highway)','142–144',40.40,72.45, -12,6,'end',0),
- (33,'Murghab','🇹🇯 Pamir Hwy to Murghab (GBAO permit)','144–147',38.17,73.96, 12,4,'start',0),
- (34,'Wakhan','Wakhan valley: Langar, Yamchun, Ishkashim','147–151',36.95,72.40, 10,16,'start',0),
- (35,'Khorog','Khorog','151–153',37.49,71.55, -12,4,'end',0),
- (36,'Dushanbe','Dushanbe (via Kalai-Khumb)','153–157',38.56,68.79, -4,20,'middle',0),
- (37,'Fann Mts','Fann Mts (Iskanderkul) + Penjikent','157–162',39.12,68.30, 12,-6,'start',0),
- (38,'Samarkand','🇺🇿 Samarkand','162–165',39.65,66.96, -6,-12,'end',0),
- (39,'Bukhara','Bukhara','165–168',39.77,64.42, 0,-14,'middle',0),
- (40,'Khiva','Khiva','168–170',41.38,60.36, 0,-14,'middle',0),
- (41,'Tashkent','Tashkent → ✈ home','170–172',41.30,69.24, 12,-4,'start',0),
+ (15,'Turpan 吐鲁番','Turpan 吐鲁番','53–55',42.95,89.19, 10,16,'start',0),
+ (16,'Urumqi 乌鲁木齐','Urumqi 乌鲁木齐 (twice; Tianchi 天山天池)','55–56 · 81–84',43.80,87.60, 12,-6,'start',0),
+ (17,'Kashgar 喀什','Kashgar 喀什','56–61',39.47,75.99, 12,4,'start',0),
+ (18,'Tashkurgan 塔什库尔干','Tashkurgan 塔什库尔干 + Karakul 喀拉库勒湖','61–65',37.77,75.23, 12,6,'start',0),
+  (20,'Hulunbuir 呼伦贝尔','Hulunbuir 呼伦贝尔: Hailar, Enhe, Shiwei','65–72',49.21,119.74, -12,4,'end',0),
+ (21,'Arxan 阿尔山','Arxan 阿尔山','72–75',47.17,119.94, -12,6,'end',0),
+ (22,'Changbaishan 长白山','Harbin 哈尔滨 + Changbaishan 长白山 (opt.)','75–81',42.40,128.10, -12,18,'end',1),
+ (23,'Kanas 喀纳斯 · Hemu 禾木','Kanas 喀纳斯, Hemu 禾木, Baihaba 白哈巴','84–93',48.70,87.02, 12,4,'start',0),
+ (24,'Ili 伊犁','Ili 伊犁: Sayram, Nalati, Duku Hwy, Zhaosu','93–119',43.92,81.32, 2,-14,'middle',0),
+ (25,'Almaty','🇰🇿 Almaty (QazETA needed)','119–123',43.24,76.95, -10,-10,'end',0),
+ (26,'Kolsai · Charyn','Kolsai + Kaindy lakes, Charyn canyon','123–127',43.10,78.70, 12,-6,'start',0),
+ (27,'Karakol','🇰🇬 Karakol: Ala-Kul trek','127–132',42.49,78.39, 12,10,'start',0),
+ (28,'Issyk-Kul','Issyk-Kul south shore, Skazka canyon','132–134',42.12,76.99, 4,18,'middle',0),
+ (29,'Song-Kol','Kochkor + Song-Kol yurts','134–138',41.85,75.13, -10,-8,'end',0),
+ (30,'Naryn','Naryn + Tash Rabat','138–140',41.43,75.99, 12,8,'start',0),
+ (31,'Bishkek','Bishkek + Ala-Archa','140–143',42.87,74.59, -10,-8,'end',0),
+ (32,'Osh','Osh (start of the Pamir Highway)','143–145',40.40,72.45, -12,6,'end',0),
+ (33,'Murghab','🇹🇯 Pamir Hwy to Murghab (GBAO permit)','145–148',38.17,73.96, 12,4,'start',0),
+ (34,'Wakhan','Wakhan valley: Langar, Yamchun, Ishkashim','148–152',36.95,72.40, 10,16,'start',0),
+ (35,'Khorog','Khorog','152–154',37.49,71.55, -12,4,'end',0),
+ (36,'Dushanbe','Dushanbe (via Kalai-Khumb)','154–158',38.56,68.79, -4,20,'middle',0),
+ (37,'Fann Mts','Fann Mts (Iskanderkul) + Penjikent','158–163',39.12,68.30, 12,-6,'start',0),
+ (38,'Samarkand','🇺🇿 Samarkand','163–166',39.65,66.96, -6,-12,'end',0),
+ (39,'Bukhara','Bukhara','166–169',39.77,64.42, 0,-14,'middle',0),
+ (40,'Khiva','Khiva','169–171',41.38,60.36, 0,-14,'middle',0),
+ (41,'Tashkent','Tashkent → ✈ home','171–173',41.30,69.24, 12,-4,'start',0),
 ]
 st = {s[0]: s for s in S}
 DISP = {s[0]: i for i, s in enumerate(S, 1)}   # display numbers (internal ids keep gaps)
@@ -190,7 +190,7 @@ o.append(f'<path class="m-flight" d="M{sx:.0f},{sy:.0f} Q{bx+150:.0f},{by+120:.0
 o.append(f'<text x="{sx-4:.0f}" y="{sy-10:.0f}" class="ink2 t-date halo" text-anchor="end">✈ from Seattle via Manila, lands Day 1</text>')
 # ---- Central Asia panel
 o.append(f'<rect x="{IX0-1}" y="{IY0-32}" width="{IW+2:.0f}" height="{IH+33:.0f}" rx="6" class="box" stroke-width="1.2"/>')
-o.append(f'<text x="{IX0+10}" y="{IY0-11}" class="ink t-stop">Central Asia, Day 118–172 (plus Kashgar and Tashkurgan in May)</text>')
+o.append(f'<text x="{IX0+10}" y="{IY0-11}" class="ink t-stop">Central Asia, Day 119–173 (plus Kashgar and Tashkurgan in May)</text>')
 base(PI,(ILON0,ILON1,ILAT0,ILAT1),IX0,IY0,IW,IH,'panel',[('KAZAKHSTAN',44.5,67.0),('UZBEKISTAN',41.9,64.6),('TURKMENISTAN',37.1,62.2),('KYRGYZSTAN',42.6,70.9),
       ('TAJIKISTAN',37.0,69.5),('AFGHANISTAN',36.5,65.0),('CHINA 中国',38.6,79.6)])
 season(PI,[('Jul – Aug: Kazakhstan + the Kyrgyz highlands',44.75,72.6),('Aug: Pamir Highway, almost rainless',36.6,77.9),('Sep: Uzbekistan, after the heat',38.75,63.4),('May: Kashgar, Tashkurgan',38.2,78.8)])
@@ -200,10 +200,10 @@ for s_ in S:
     if s_[0] in CA or s_[0] in PANEL_CN:
         dx,dy,anc=CAOFF[s_[0]]; draw_stop(o, PI, s_[:6]+(dx,dy,anc,s_[9]), r=8)
 x,y=PI(*coords(41)); o.append(f'<path class="m-flight" d="M{x+6:.0f},{y-6:.0f} Q{x+40:.0f},{y-90:.0f} {x+150:.0f},{y-130:.0f}" fill="none" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/>')
-o.append(f'<text x="{x+152:.0f}" y="{y-136:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ home to Seattle, Day 172</text>')
+o.append(f'<text x="{x+152:.0f}" y="{y-136:.0f}" class="ink2 t-date halo" text-anchor="middle">✈ home to Seattle, Day 173</text>')
 # ---- title
 o.append(f'<text x="32" y="40" class="ink t-title">China 中国 + Central Asia 2027 (draft): follow the weather</text>')
-o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · ✈ home from Tashkent ≈ Day 172 · ◆ = border crossing · faded = optional</text>')
+o.append(f'<text x="32" y="64" class="ink2 t-sub">Day 1 = Tue 23 Mar 2027 (arrival in Beijing) · Day 38–45: family week in Zigong 自贡 · ✈ home from Tashkent ≈ Day 173 · ◆ = border crossing · faded = optional</text>')
 # ---- legend (right of the panel)
 lx=IX0+IW+40; ly=IY0-11
 o.append(f'<text x="{lx}" y="{ly}" class="ink t-stop">How each leg is travelled</text>')
@@ -212,7 +212,7 @@ for i,(k,v) in enumerate(MODES.items()):
     o.append(f'<line x1="{lx}" y1="{y0}" x2="{lx+44}" y2="{y0}" class="m-{k}" stroke-width="{v[3]+0.5}" stroke-linecap="round"{dash}/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">{v[4]}</text>')
 y0=ly+24+4*24; o.append(f'<rect x="{lx+17}" y="{y0-5}" width="10" height="10" transform="rotate(45 {lx+22} {y0})" class="xing" stroke-width="1.5"/><text x="{lx+52}" y="{y0+4}" class="ink t-leg">Land border crossing</text>')
 notes=['Flights: Seattle → Beijing, Xining → Chengdu (Zigong),','Yibin or Chengdu → Lanzhou, Kashgar → Hailar,','Arxan → Urumqi, Tashkent → Seattle. Everything','else by train, bus, shared taxi or 4×4.','',
-       'China: one stay, Day 1 → 118, on the 10-year Q2 visa.','Kazakhstan: QazETA needed from 1 July 2027.','Pamir: GBAO permit ($20, fixed entry date).','Tashkurgan: border-area permit, in person,','at the police exit-entry office in Kashgar.','',
+       'China: one stay, Day 1 → 119, on the 10-year Q2 visa.','Kazakhstan: QazETA needed from 1 July 2027.','Pamir: GBAO permit ($20, fixed entry date).','Tashkurgan: border-area permit, in person,','at the police exit-entry office in Kashgar.','',
        'Weather: 10-year normals (Open-Meteo for China,','NASA POWER for Central Asia).','Route order and stop lengths only;','beds and legs come next.']
 for i,t in enumerate(notes): o.append(f'<text x="{lx}" y="{ly+150+i*17}" class="ink2 t-note">{t}</text>')
 # ---- stop list
